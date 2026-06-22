@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temp
+*.tmp
+*.bak
+
+# Claude Code local (machine-specific) settings — keep shared settings tracked
+.claude/settings.local.json
