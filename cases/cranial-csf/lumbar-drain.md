@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20drain&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumbar+drain+cerebrospinal+fluid) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness / Indication
 - **Indications:**
   - CSF leak (spontaneous, post-op, post-traumatic rhinorrhea/otorrhea) — divert CSF to allow healing

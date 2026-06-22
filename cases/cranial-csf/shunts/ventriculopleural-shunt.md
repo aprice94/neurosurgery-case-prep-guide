@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=ventriculopleural%20shunt&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ventriculopleural+shunt) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
+
+![Ventricular system — lateral ventricle / frontal horn (proximal catheter target)](../../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Hydrocephalus requiring CSF diversion when peritoneal and atrial sites are exhausted/contraindicated
 - **VPL indications:** multiple failed VP shunts, peritoneal contraindication, plus atrial contraindication/exhaustion

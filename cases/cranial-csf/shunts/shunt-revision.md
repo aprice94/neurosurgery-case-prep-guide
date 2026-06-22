@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=shunt%20malfunction&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=shunt+revision+malfunction) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
+
+![Ventricular system — proximal (ventricular) catheter relations](../../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Return of hydrocephalus symptoms (headache, vomiting, lethargy, decreased consciousness, irritability/bulging fontanelle in infants), OR fever/abdominal pain (infection/pseudocyst), OR positional headache (overdrainage)
 - **Existing shunt details:** type, valve (programmable? setting?), date placed, prior revisions, manufacturer

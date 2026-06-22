@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=subdural%20hygroma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=subduroperitoneal+shunt) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Persistent/symptomatic subdural fluid collection (hygroma/effusion) refractory to drainage
 - **Common scenarios:** pediatric subdural hygromas/effusions (post-meningitis, post-trauma, benign external hydrocephalus complications), chronic subdural collections that re-accumulate after burr-hole drainage, post-craniotomy subdural collections

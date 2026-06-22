@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=external%20ventricular%20drain&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=external+ventricular+drain+Kocher) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Ventricular system — lateral & third ventricles, foramen of Monro (the EVD target)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Altered mental status / headache / vomiting / visual changes
 - **Indication for EVD:**

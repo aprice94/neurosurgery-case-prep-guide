@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=lumboperitoneal%20shunt&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumboperitoneal+shunt+IIH) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: IIH (headache, **papilledema, visual loss, pulsatile tinnitus**, diplopia/CN VI), communicating hydrocephalus, or persistent CSF leak
 - **LP requires communicating CSF spaces** (CSF must flow from cranial to lumbar — NOT for obstructive hydrocephalus)
