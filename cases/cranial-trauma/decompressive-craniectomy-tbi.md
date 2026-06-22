@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=decompressive%20craniectomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=decompressive+craniectomy+traumatic+brain+injury) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Severe TBI (GCS ≤ 8), refractory raised ICP despite maximal medical therapy
 - Mechanism, initial GCS, pupils, associated lesions (contusions, SDH, edema)

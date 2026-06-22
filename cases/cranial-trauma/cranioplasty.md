@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cranioplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=cranioplasty+outcomes) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Cranial defect s/p craniectomy; cosmetic concern, **syndrome of the trephined** (sunken flap with headache, cognitive/motor decline that improves after cranioplasty), protection
 - Time since craniectomy (typically wait 6-12 weeks; longer if infection history)
