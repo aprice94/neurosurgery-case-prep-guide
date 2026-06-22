@@ -7,6 +7,27 @@
 
 ---
 
+## Figures, Imaging & Video
+> External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
+
+**Operative technique & approach**
+- [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"middle cerebral artery aneurysm"* (operative illustrations + HD video)
+- [neuroangio.org](https://neuroangio.org) — MCA / cerebral vascular anatomy & angioarchitecture
+
+**Imaging**
+- [Radiopaedia — MCA aneurysm](https://radiopaedia.org/search?q=middle%20cerebral%20artery%20aneurysm&scope=all)
+
+**Open-access figures**
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=middle+cerebral+artery+aneurysm+clipping)
+
+**Anatomy (public domain)**
+
+![Arteries of the base of the brain — circle of Willis](https://upload.wikimedia.org/wikipedia/commons/8/80/Sobo_1909_3_548.png)
+
+*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Thunderclap headache (ruptured) / incidental finding on imaging (unruptured)
 - Hunt-Hess grade (if SAH): I-V
