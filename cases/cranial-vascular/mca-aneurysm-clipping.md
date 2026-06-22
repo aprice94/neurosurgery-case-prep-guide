@@ -22,7 +22,7 @@
 
 **Anatomy (public domain)**
 
-![Arteries of the base of the brain — circle of Willis](https://upload.wikimedia.org/wikipedia/commons/8/80/Sobo_1909_3_548.png)
+![Arteries of the base of the brain — circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
 *Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
 

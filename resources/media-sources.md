@@ -43,7 +43,7 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 ## Example of an embeddable public-domain figure
 Circle of Willis (relevant to anterior-circulation aneurysm cases):
 
-![Circle of Willis — arterial anatomy](https://upload.wikimedia.org/wikipedia/commons/8/80/Sobo_1909_3_548.png)
+![Circle of Willis — arterial anatomy](../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
 *Source: Sobotta's Atlas and Text-book of Human Anatomy, 1909 (public domain, by age). via Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
 
