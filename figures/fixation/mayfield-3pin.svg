@@ -1,0 +1,42 @@
+<svg viewBox="0 0 480 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mayfield three-pin skull clamp pin placement</title>
+  <desc id="desc">Lateral view of the head showing the safe pin zone above the superior temporal line and behind the hairline, with danger zones over the thin squamous temporal bone, frontal sinus, orbit, and superficial temporal artery. A single pin sits on the near side and a two-pin rocker on the opposite side.</desc>
+  <rect x="6" y="6" width="468" height="318" rx="14" fill="#f6f9fc" stroke="#cdd9e6" stroke-width="1.5"/>
+  <text x="24" y="34" fill="#0e2a47" font-family="system-ui,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Mayfield 3-Pin Skull Clamp — Pin Placement</text>
+
+  <!-- head (lateral, facing left) -->
+  <ellipse cx="205" cy="185" rx="103" ry="84" fill="#f0d3b8" stroke="#c08a5b" stroke-width="2"/>
+  <path d="M102 185 l-16 -9 0 18 z" fill="#f0d3b8" stroke="#c08a5b" stroke-width="2"/> <!-- nose -->
+  <ellipse cx="244" cy="196" rx="13" ry="17" fill="#e7c2a3" stroke="#c08a5b" stroke-width="1.5"/> <!-- ear -->
+
+  <!-- superior temporal line (safe boundary) -->
+  <path d="M120 150 Q205 96 292 156" fill="none" stroke="#2f8f83" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="300" y="150" fill="#1d6f66" font-family="system-ui,Arial,sans-serif" font-size="10.5">superior temporal line</text>
+
+  <!-- danger zone: squamous temporal bone -->
+  <ellipse cx="232" cy="200" rx="34" ry="26" fill="#cf3a4a" fill-opacity="0.16" stroke="#cf3a4a" stroke-dasharray="4 4"/>
+  <!-- danger zone: frontal sinus / orbit -->
+  <ellipse cx="138" cy="200" rx="30" ry="26" fill="#cf3a4a" fill-opacity="0.16" stroke="#cf3a4a" stroke-dasharray="4 4"/>
+  <!-- superficial temporal artery -->
+  <path d="M236 232 Q224 190 230 150" fill="none" stroke="#cf3a4a" stroke-width="2"/>
+
+  <!-- single pin (near side) — placed in safe zone -->
+  <path d="M168 118 l9 -20 9 20 z" fill="#cf3a4a"/>
+  <line x1="177" y1="118" x2="177" y2="138" stroke="#cf3a4a" stroke-width="3"/>
+  <text x="150" y="92" fill="#0e2a47" font-family="system-ui,Arial,sans-serif" font-size="11" font-weight="600">single pin</text>
+
+  <!-- rocker (2 pins, far side – dashed) -->
+  <g opacity="0.8">
+    <path d="M250 120 l8 -18 8 18 z" fill="#cf3a4a"/>
+    <path d="M280 130 l8 -18 8 18 z" fill="#cf3a4a"/>
+    <line x1="258" y1="120" x2="288" y2="130" stroke="#cf3a4a" stroke-width="2.5" stroke-dasharray="3 3"/>
+  </g>
+  <text x="252" y="98" fill="#0e2a47" font-family="system-ui,Arial,sans-serif" font-size="11" font-weight="600">rocker (2 pins)</text>
+
+  <!-- legend / safe zone -->
+  <rect x="24" y="262" width="14" height="14" rx="3" fill="#cf3a4a" fill-opacity="0.16" stroke="#cf3a4a" stroke-dasharray="4 4"/>
+  <text x="44" y="273" fill="#33485f" font-family="system-ui,Arial,sans-serif" font-size="11">Avoid: squamous temporal bone (thin), frontal sinus, orbit, STA, suture lines</text>
+  <text x="24" y="296" fill="#1d6f66" font-family="system-ui,Arial,sans-serif" font-size="11" font-weight="600">Safe zone:</text>
+  <text x="84" y="296" fill="#33485f" font-family="system-ui,Arial,sans-serif" font-size="11">≥1 cm above pinna, above the superior temporal line, at the skull equator.</text>
+  <text x="24" y="314" fill="#33485f" font-family="system-ui,Arial,sans-serif" font-size="11">Torque ≈ 60–80 lb (adult); reduce for elderly. Pediatric &lt;2 yr: avoid pins / use horseshoe.</text>
+</svg>
