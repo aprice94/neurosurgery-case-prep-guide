@@ -7,6 +7,27 @@
 
 ---
 
+## Figures, Imaging & Video
+> External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+
+**Operative technique & approach**
+- [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"basilar apex aneurysm"* (illustrations + HD video)
+- [neuroangio.org](https://neuroangio.org) — posterior circulation / basilar apex anatomy
+
+**Imaging**
+- [Radiopaedia — basilar tip aneurysm](https://radiopaedia.org/search?q=basilar%20tip%20aneurysm&scope=all)
+
+**Open-access figures**
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=basilar+apex+aneurysm)
+
+**Anatomy (public domain)**
+
+![Arteries of the base of the brain — circle of Willis (incl. basilar / posterior circulation)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Thunderclap headache / incidental
 - Hunt-Hess / Fisher / WFNS grade:

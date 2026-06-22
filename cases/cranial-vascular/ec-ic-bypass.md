@@ -7,6 +7,27 @@
 
 ---
 
+## Figures, Imaging & Video
+> External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+
+**Operative technique & approach**
+- [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"STA-MCA bypass"* (illustrations + HD video)
+- [neuroangio.org](https://neuroangio.org) — moyamoya & bypass angiography
+
+**Imaging**
+- [Radiopaedia — moyamoya disease](https://radiopaedia.org/search?q=moyamoya&scope=all)
+
+**Open-access figures**
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=STA-MCA+bypass)
+
+**Anatomy (public domain)**
+
+![Arteries of the base of the brain — ICA / MCA / circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Recurrent TIAs / ischemic strokes / hemodynamic insufficiency
 - **Indications:**

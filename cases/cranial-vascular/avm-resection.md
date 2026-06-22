@@ -7,6 +7,27 @@
 
 ---
 
+## Figures, Imaging & Video
+> External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+
+**Operative technique & approach**
+- [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"arteriovenous malformation resection"* (illustrations + HD video)
+- [neuroangio.org](https://neuroangio.org) — brain AVM angioarchitecture & feeders
+
+**Imaging**
+- [Radiopaedia — cerebral AVM](https://radiopaedia.org/search?q=cerebral%20arteriovenous%20malformation&scope=all)
+
+**Open-access figures**
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brain+arteriovenous+malformation+resection)
+
+**Anatomy (public domain)**
+
+![Arteries of the base of the brain — circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Intracranial hemorrhage / seizures / progressive deficit / headache / incidental
 - Prior hemorrhage (annual rupture risk ~2-4%, higher if prior bleed, deep location, deep venous drainage, associated aneurysm):

@@ -7,6 +7,20 @@
 
 ---
 
+## Figures, Imaging & Video
+> External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+
+**Operative technique & approach**
+- [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"cavernous malformation"* / *"brainstem cavernoma safe entry zones"* (illustrations + HD video)
+
+**Imaging** (classic "popcorn"/hemosiderin-rim appearance)
+- [Radiopaedia — cerebral cavernous malformation](https://radiopaedia.org/search?q=cerebral%20cavernous%20malformation&scope=all)
+
+**Open-access figures**
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=cerebral+cavernous+malformation+resection)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Seizures (supratentorial) / focal deficit (brainstem) / hemorrhage
 - Number of hemorrhages (rebleed risk increases after first symptomatic bleed):

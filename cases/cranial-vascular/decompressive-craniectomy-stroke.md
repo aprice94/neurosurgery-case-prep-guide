@@ -7,6 +7,26 @@
 
 ---
 
+## Figures, Imaging & Video
+> External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+
+**Operative technique & approach**
+- [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"decompressive hemicraniectomy"* (technique + flap size)
+
+**Imaging**
+- [Radiopaedia — malignant MCA infarction](https://radiopaedia.org/search?q=malignant%20MCA%20infarction&scope=all)
+
+**Open-access figures**
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=decompressive+craniectomy+malignant+MCA+infarction)
+
+**Anatomy (public domain)**
+
+![Arteries of the base of the brain — MCA / circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Large MCA stroke with deteriorating consciousness
 - Stroke onset time; tPA/thrombectomy given?
