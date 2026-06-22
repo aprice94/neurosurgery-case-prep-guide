@@ -9,6 +9,19 @@ Each guide includes: one-liner, HPI, PMH, imaging review, labs, neuro exam, surg
 
 ---
 
+## CRANIAL APPROACHES — detailed technique chapters
+*The granular "how it's set up" reference per surgical corridor (positioning degrees, pin placement, incision landmarks, scalp/temporalis dissection planes, keyhole/burr holes, sphenoid drilling, dural opening, intradural, nuances & pitfalls). Pathology guides link here.*
+
+| Approach | File | Status |
+|----------|------|--------|
+| Pterional (frontotemporal) | [pterional-craniotomy.md](cases/approaches/pterional-craniotomy.md) | ✅ detailed |
+| Orbitozygomatic · Subtemporal · Supraorbital "eyebrow" keyhole · Bifrontal · Interhemispheric (incl. transcallosal) | — | planned |
+| Retrosigmoid · Far-lateral (transcondylar) · Midline & paramedian supracerebellar-infratentorial · Telovelar · Presigmoid/petrosal · Midline suboccipital | — | planned |
+| Endoscopic endonasal (transsphenoidal / transtuberculum / transclival) | — | planned |
+| Anterior cervical (Smith-Robinson) · Posterior cervical · Posterior thoracolumbar (Wiltse/midline) · Transpsoas lateral · Anterior/transthoracic | — | planned |
+
+---
+
 ## CRANIAL
 
 ### Cranial — Vascular (8)
