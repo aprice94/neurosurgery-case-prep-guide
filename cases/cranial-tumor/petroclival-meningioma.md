@@ -7,6 +7,18 @@
 
 ---
 
+## Figures, Imaging & Video
+> Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+- **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"petroclival meningioma"*
+- **Imaging:** [Radiopaedia — petroclival meningioma](https://radiopaedia.org/search?q=petroclival%20meningioma&scope=all)
+- **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=petroclival+meningioma)
+
+![Interior base of skull — petrous apex / clivus / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Ataxia, trigeminal symptoms, hearing loss, diplopia, facial numbness, headache
 - Insidious onset, large at presentation

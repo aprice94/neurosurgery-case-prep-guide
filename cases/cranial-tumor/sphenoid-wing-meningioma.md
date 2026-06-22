@@ -7,6 +7,18 @@
 
 ---
 
+## Figures, Imaging & Video
+> Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+- **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"sphenoid wing meningioma"*
+- **Imaging:** [Radiopaedia — sphenoid wing meningioma](https://radiopaedia.org/search?q=sphenoid%20wing%20meningioma&scope=all)
+- **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=sphenoid+wing+meningioma)
+
+![Interior base of skull — anterior/middle fossa & sphenoid wing](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Proptosis, visual decline, diplopia, seizures, headache
 - **Subtypes:**

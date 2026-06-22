@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=intracranial%20epidermoid%20cyst&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intracranial+epidermoid+cyst) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Interior base of skull — cerebellopontine angle / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Insidious cranial neuropathy, trigeminal neuralgia (CPA), hearing loss, headache, ataxia
 - Slow-growing, encases vessels/nerves, insinuates into cisterns ("pearly tumor")

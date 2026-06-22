@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=glomus%20jugulare&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=jugular+foramen+tumor+glomus) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Interior base of skull — jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Pulsatile tinnitus, conductive hearing loss** (glomus — vascular middle ear mass), **lower cranial neuropathy (IX, X, XI — dysphagia, hoarseness, aspiration)**, CN XII, facial weakness, ataxia
 - **Glomus jugulare (paraganglioma):** highly vascular, may be **catecholamine-secreting** (screen!), part of paraganglioma syndromes (SDH mutations — screen/genetics, multicentricity)

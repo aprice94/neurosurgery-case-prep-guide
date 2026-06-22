@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=parasagittal%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=parasagittal+meningioma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Seizures / contralateral leg weakness (parasagittal motor strip) / headache / cognitive change
 - Middle-third tumors → contralateral lower extremity weakness (leg motor cortex is parasagittal)

@@ -7,6 +7,18 @@
 
 ---
 
+## Figures, Imaging & Video
+> Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+- **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"colloid cyst third ventricle"*
+- **Imaging:** [Radiopaedia — colloid cyst](https://radiopaedia.org/search?q=colloid%20cyst&scope=all)
+- **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=colloid+cyst+third+ventricle)
+
+![Ventricular system — third ventricle & foramen of Monro](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Intermittent positional headaches (ball-valve obstruction at foramen of Monro), memory issues, drop attacks
 - **Risk of acute obstructive hydrocephalus and sudden death** with large cysts

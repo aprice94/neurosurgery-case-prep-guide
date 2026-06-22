@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=pineal%20region%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pineal+region+tumor) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Ventricular system — third ventricle / pineal region](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Headache, **Parinaud syndrome** (upgaze palsy, convergence-retraction nystagmus, light-near dissociation), hydrocephalus symptoms
 - **Tumor markers and hydrocephalus management precede resection**

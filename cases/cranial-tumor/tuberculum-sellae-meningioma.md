@@ -7,6 +7,18 @@
 
 ---
 
+## Figures, Imaging & Video
+> Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+- **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"tuberculum sellae meningioma"*
+- **Imaging:** [Radiopaedia — tuberculum sellae meningioma](https://radiopaedia.org/search?q=tuberculum%20sellae%20meningioma&scope=all)
+- **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=tuberculum+sellae+meningioma)
+
+![Median sagittal section — sella turcica / suprasellar region](../../figures/anatomy/pituitary-sella_gray1180.png)
+
+*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Progressive asymmetric visual loss** (chiasmal compression) — the hallmark
 - Classic: junctional scotoma or bitemporal field defect

@@ -7,6 +7,18 @@
 
 ---
 
+## Figures, Imaging & Video
+> Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
+- **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"craniopharyngioma"*
+- **Imaging:** [Radiopaedia — craniopharyngioma](https://radiopaedia.org/search?q=craniopharyngioma&scope=all)
+- **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=craniopharyngioma+resection)
+
+![Median sagittal section — sellar / suprasellar region](../../figures/anatomy/pituitary-sella_gray1180.png)
+
+*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Visual decline, endocrine dysfunction (growth failure in children, hypogonadism/DI/hypopituitarism in adults), headache, hydrocephalus
 - **Bimodal age:** children (adamantinomatous) and adults (papillary)

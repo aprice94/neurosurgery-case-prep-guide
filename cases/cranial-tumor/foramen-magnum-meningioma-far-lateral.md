@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=foramen+magnum+meningioma+far+lateral) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Interior base of skull — foramen magnum / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Insidious **suboccipital/cervical pain**, gait ataxia, lower extremity weakness, hand clumsiness/intrinsic atrophy (cruciate paralysis), lower cranial nerve symptoms (dysphagia, hoarseness), sensory changes, downbeat nystagmus
 - Often **long delay** to diagnosis (mimics cervical myelopathy/degenerative disease)
