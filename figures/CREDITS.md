@@ -27,5 +27,7 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `orbitozygomatic/fascial-dissection_cureus-e6053.jpg` | Fascial dissection planes (facial-nerve protection) | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 ([PMC6945284](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6945284/)) | CC BY |
 | `orbitozygomatic/two-piece-ftoz_cureus-e6053.jpg` | Two-piece FTOZ osteotomy technique | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 | CC BY |
 | `orbitozygomatic/one-piece-ftoz_cureus-e6053.jpg` | One-piece FTOZ osteotomy / burr holes | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 | CC BY |
+| `subtemporal/middle-fossa-bony-anatomy_frontsurg-2023.jpg` | Middle cranial fossa bony anatomy | *Front Surg.* 2023;10:1132774 ([article](https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1132774/full)) | CC BY 4.0 |
+| `subtemporal/kawase-triangle-foramina_frontsurg-2023.jpg` | Middle fossa foramina & Kawase's rhomboid | *Front Surg.* 2023;10:1132774 | CC BY 4.0 |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*

@@ -1,27 +1,36 @@
 title: Neurosurgery Case Prep Guide
 description: >-
   Structured neurosurgical case-preparation guides — positioning, approaches,
-  step-by-step technique, figures, and operative-note templates across cranial,
-  spine, vascular, functional, peripheral-nerve, and pediatric neurosurgery.
-theme: jekyll-theme-cayman
+  step-by-step technique, figures, and dictation-ready operative-note templates
+  across cranial, spine, vascular, functional, peripheral-nerve, and pediatric neurosurgery.
+url: "https://aprice94.github.io"
+baseurl: "/neurosurgery-case-prep-guide"
+github_repo: "https://github.com/aprice94/neurosurgery-case-prep-guide"
 
-# Render every markdown page with the theme layout (not just ones with front matter)
+# GitHub-flavored markdown so tables/pipes render exactly like github.com
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Apply our custom layout to every page (no external theme — fully self-styled)
 defaults:
   - scope:
       path: ""
     values:
       layout: default
 
-# Rewrite relative links between .md files so they work as .html on the site
+# Rewrite relative .md links to their built HTML pages
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: false
 
-# Don't publish housekeeping files as pages
 exclude:
   - .gitignore
   - CONTRIBUTING.md
   - LICENSE
   - README.md
+  - Gemfile
+  - Gemfile.lock

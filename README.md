@@ -1,5 +1,8 @@
 # Neurosurgery Case Prep Guide
 
+### 🌐 Live website → **https://aprice94.github.io/neurosurgery-case-prep-guide/**
+*Browse all 107 guides + approach chapters with search, figures, and clean navigation. (Repo "About" panel also links it on the right →)*
+
 A structured, self-contained neurosurgical case-preparation knowledge base: **107 procedure guides + system references + a 100-resource database + a master template**, covering the major cranial, skull-base, spinal, endovascular, stereotactic/ablative, peripheral-nerve, and pediatric operations.
 
 > ⚠️ **MEDICAL DISCLAIMER:** This is a personal educational and case-preparation aid summarizing standard teaching. It is **not** medical advice and is **not** a substitute for clinical judgment, primary literature, institutional protocols, device instructions, or attending supervision. Verify every detail against authoritative sources before applying it to a patient. See [DISCLAIMER.md](DISCLAIMER.md).

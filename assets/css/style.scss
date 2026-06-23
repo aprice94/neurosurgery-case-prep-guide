@@ -1,0 +1,143 @@
+---
+---
+
+/* ===== Neurosurgery Case Prep Guide — custom theme ===== */
+
+:root {
+  --bg:        #eef2f6;
+  --card:      #ffffff;
+  --ink:       #1b2733;
+  --muted:     #5b6b7b;
+  --line:      #e2e8f0;
+  --primary:   #0d7c86;   /* teal */
+  --primary-d: #0a5b63;
+  --accent:    #1457a8;   /* blue */
+  --accent-d:  #0f3f7a;
+  --warn-bg:   #fff7ed;
+  --warn-bd:   #f59e0b;
+  --note-bg:   #f0f9fa;
+  --radius:    14px;
+  --shadow:    0 1px 2px rgba(16,24,40,.06), 0 8px 24px rgba(16,24,40,.06);
+  --maxw:      940px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 22px; }
+
+/* ---------- Header ---------- */
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: linear-gradient(100deg, var(--primary) 0%, var(--accent) 100%);
+  box-shadow: 0 2px 14px rgba(13,124,134,.28);
+}
+.header-wrap { display: flex; align-items: center; justify-content: space-between; height: 60px; }
+.brand { display: flex; align-items: center; gap: 10px; color: #fff; text-decoration: none; font-weight: 800; font-size: 1.12rem; letter-spacing: .2px; }
+.brand-mark { font-size: 1.4rem; filter: drop-shadow(0 1px 1px rgba(0,0,0,.2)); }
+.site-nav { display: flex; align-items: center; gap: 8px; }
+.site-nav a { color: #eafdff; text-decoration: none; font-weight: 600; font-size: .94rem; padding: 7px 12px; border-radius: 999px; transition: background .15s, color .15s; }
+.site-nav a:hover { background: rgba(255,255,255,.16); }
+.site-nav a.nav-cta { background: rgba(255,255,255,.95); color: var(--accent-d); }
+.site-nav a.nav-cta:hover { background: #fff; }
+
+.subbar { background: #dceaf2; border-bottom: 1px solid var(--line); }
+.subbar .wrap { padding-top: 8px; padding-bottom: 8px; }
+.subbar a { color: var(--primary-d); text-decoration: none; font-weight: 600; font-size: .9rem; }
+.subbar a:hover { text-decoration: underline; }
+
+/* ---------- Content card ---------- */
+.content { padding: 28px 22px 10px; }
+.prose {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 38px 46px;
+}
+
+/* ---------- Typography ---------- */
+.prose h1 { font-size: 2.05rem; font-weight: 800; line-height: 1.18; margin: .2em 0 .5em; letter-spacing: -.5px; }
+.prose h2 {
+  font-size: 1.5rem; font-weight: 800; margin: 1.7em 0 .7em; padding-bottom: .3em;
+  border-bottom: 3px solid var(--primary); display: inline-block;
+}
+.prose h3 { font-size: 1.18rem; font-weight: 700; color: var(--accent-d); margin: 1.5em 0 .5em; }
+.prose h4 { font-size: 1.02rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .5px; margin: 1.3em 0 .4em; }
+.prose p, .prose li { font-size: 1.01rem; }
+.prose a { color: var(--primary-d); text-decoration: none; font-weight: 600; border-bottom: 1px solid rgba(13,124,134,.25); transition: border-color .15s, color .15s; }
+.prose a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.prose strong { color: #14202b; }
+.prose hr { border: none; border-top: 1px solid var(--line); margin: 2em 0; }
+
+.lead { font-size: 1.16rem; color: var(--muted); margin: .2em 0 1.1em; }
+
+/* ---------- Lists ---------- */
+.prose ul { padding-left: 1.25em; }
+.prose li { margin: .34em 0; }
+.prose ul li::marker { color: var(--primary); }
+
+/* ---------- Tables (now rendered via GFM) ---------- */
+.prose table { width: 100%; border-collapse: collapse; margin: 1.2em 0; font-size: .96rem; box-shadow: var(--shadow); border-radius: 10px; overflow: hidden; }
+.prose thead th { background: linear-gradient(100deg, var(--primary), var(--accent)); color: #fff; text-align: left; padding: 11px 14px; font-weight: 700; }
+.prose td, .prose th { padding: 10px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.prose tbody tr:nth-child(odd) { background: #f7fafc; }
+.prose tbody tr:hover { background: #eef6f8; }
+
+/* ---------- Blockquotes / notes ---------- */
+.prose blockquote {
+  margin: 1.2em 0; padding: 14px 18px; background: var(--note-bg);
+  border-left: 5px solid var(--primary); border-radius: 0 10px 10px 0; color: #234;
+}
+.prose blockquote p { margin: .35em 0; }
+.prose blockquote strong { color: var(--primary-d); }
+
+/* ---------- Images & figure captions ---------- */
+.prose img {
+  display: block; max-width: 100%; height: auto; margin: 1.2em auto .4em;
+  border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); background: #fff;
+}
+/* the italic credit line we place right after each image */
+.prose img + em, .prose p > em:only-child { display: block; text-align: center; color: var(--muted); font-size: .85rem; margin: 0 auto 1.3em; max-width: 90%; }
+
+/* ---------- Code ---------- */
+.prose code { background: #eef2f6; padding: .12em .4em; border-radius: 6px; font-size: .9em; font-family: "SFMono-Regular", ui-monospace, Menlo, Consolas, monospace; }
+.prose pre { background: #0f2230; color: #e6edf3; padding: 16px 18px; border-radius: 12px; overflow:auto; }
+.prose pre code { background: none; padding: 0; color: inherit; }
+
+/* ---------- Home: filter box + section chips ---------- */
+.filter-box {
+  width: 100%; padding: 14px 18px; margin: 6px 0 10px;
+  font-size: 1.05rem; font-family: inherit; color: var(--ink);
+  border: 2px solid var(--line); border-radius: 12px; background: #fbfdff;
+  position: sticky; top: 70px; z-index: 5; box-shadow: var(--shadow);
+}
+.filter-box:focus { outline: none; border-color: var(--primary); }
+
+.count-pill { display:inline-block; background: var(--primary); color:#fff; font-size:.8rem; font-weight:700; padding:1px 9px; border-radius:999px; margin-left:6px; vertical-align:middle; }
+.tag-done { color: #0a7d32; font-weight: 700; }
+.tag-soon { color: var(--muted); font-weight: 600; font-size: .9em; }
+
+/* ---------- Footer ---------- */
+.site-footer { margin-top: 36px; padding: 26px 0 40px; background: #102230; color: #c7d3de; }
+.site-footer p { margin: .4em 0; font-size: .9rem; }
+.site-footer a { color: #8fd6dd; }
+.site-footer .muted { color: #8595a3; }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 720px) {
+  .prose { padding: 24px 20px; }
+  .prose h1 { font-size: 1.7rem; }
+  .brand-text { display: none; }
+  .filter-box { top: 64px; }
+}
