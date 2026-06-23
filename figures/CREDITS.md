@@ -33,6 +33,7 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `supraorbital/intradural-optic_frontsurg-2022.jpg` | Endoscopic subfrontal view — optic nerve & tumor | Wang X et al. *Front Surg.* 2022;9:971063 | CC BY 4.0 |
 | `supraorbital/mri-tuberculum_frontsurg-2022.jpg` | Pre/post-op MRI, tuberculum sellae meningioma | Wang X et al. *Front Surg.* 2022;9:971063 | CC BY 4.0 |
 | `anterior-cervical/carotid-relationship_cureus-e91106.jpg` | CTA — medialized carotid relative to prevertebral space | Bhenderu LS et al. *Cureus* 2025;17:e91106 ([PMC12466316](https://pmc.ncbi.nlm.nih.gov/articles/PMC12466316/)) | CC BY 4.0 |
+| `posterior-cervical/lateral-mass-screw-ct_medint-2024.jpg` | Axial CT — lateral mass screw trajectory (C4) | Attallah M et al. *Med Int.* 2024;4(4):159 ([PMC11097134](https://pmc.ncbi.nlm.nih.gov/articles/PMC11097134/)) | CC BY 4.0 |
 | `far-lateral/muscles-va_cureus-e31257.jpg` | Suboccipital muscle layers & vertebral artery | Payman A et al. *Cureus.* 2022;14(11):e31257 ([PMC9733796](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9733796/)) | CC BY |
 | `far-lateral/craniotomy-c1-dura_cureus-e31257.jpg` | Far-lateral craniotomy + C1, dura/VA/sinuses | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
 | `far-lateral/condylectomy-hypoglossal_cureus-e31257.jpg` | Posterior-third condylectomy & hypoglossal canal | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
