@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=mesial%20temporal%20sclerosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+temporal+lobectomy+amygdalohippocampectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Ventricular system — temporal horn (amygdala/hippocampus region)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Drug-resistant focal epilepsy (failed ≥ 2 appropriate AEDs)
 - Seizure semiology (aura — epigastric/déjà vu, automatisms, focal to bilateral tonic-clonic), frequency

@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=awake%20craniotomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=awake+craniotomy+cortical+mapping) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Lesion (glioma, metastasis, cavernoma, epileptogenic focus) in/near eloquent cortex
 - Indication for awake: dominant-hemisphere language area, primary motor cortex, insula, or any eloquent-adjacent lesion where real-time functional feedback maximizes safe resection

@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereoelectroencephalography&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=stereo+EEG+robot+implantation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Drug-resistant focal epilepsy requiring invasive monitoring to define the seizure-onset zone before resection
 - Non-invasive data (semiology, scalp video-EEG, MRI, PET, SPECT, MEG, neuropsych) — formulated into an **implantation hypothesis** at epilepsy conference

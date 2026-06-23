@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=trigeminal%20neuralgia%20neurovascular&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=microvascular+decompression+trigeminal+neuralgia) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Interior base of skull — posterior fossa / cerebellopontine angle (CN V root entry zone)](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Lancinating/electric shock-like facial pain
 - Duration:

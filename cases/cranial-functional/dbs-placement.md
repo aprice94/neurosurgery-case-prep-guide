@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=deep%20brain%20stimulation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=deep+brain+stimulation+STN+targeting) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Medically refractory movement disorder
 - **PD:** motor fluctuations, dyskinesias, good levodopa response (predicts STN/GPi benefit); UPDRS on/off

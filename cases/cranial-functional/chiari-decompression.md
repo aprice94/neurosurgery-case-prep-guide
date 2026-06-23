@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=chiari%20i%20malformation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=chiari+decompression+duraplasty) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Interior base of skull — foramen magnum / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Occipital/suboccipital headaches (worse with Valsalva/cough/strain), numbness, weakness
 - Duration and progression:

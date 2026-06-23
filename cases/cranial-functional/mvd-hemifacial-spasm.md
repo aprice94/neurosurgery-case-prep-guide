@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=hemifacial%20spasm&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=microvascular+decompression+hemifacial+spasm) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Interior base of skull — posterior fossa / cerebellopontine angle (CN VII root exit zone)](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Involuntary [left/right] facial twitching, beginning in the orbicularis oculi (periocular) and progressing to lower face
 - Tonic vs clonic; worse with stress/fatigue; persists in sleep (distinguishes from tics)
