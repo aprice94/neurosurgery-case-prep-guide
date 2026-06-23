@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20cord%20stimulator&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+cord+stimulator+implantation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (dorsal columns — stimulation target)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Chronic refractory **neuropathic pain** (limb-predominant), failed conservative/surgical management
 - **Indications:** failed back surgery syndrome (radicular > axial), CRPS, painful diabetic peripheral neuropathy, ischemic/anginal pain (selected)

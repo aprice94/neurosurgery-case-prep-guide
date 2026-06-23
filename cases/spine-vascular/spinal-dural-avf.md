@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20dural%20arteriovenous%20fistula&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+dural+arteriovenous+fistula) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (dorsal perimedullary draining veins)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Progressive ascending myelopathy** — gait difficulty, lower extremity weakness/numbness, bowel/bladder dysfunction, erectile dysfunction
 - **Classic:** older male, insidious, stepwise/progressive, worse with activity/standing (venous congestion) — **Foix-Alajouanine syndrome** (subacute necrotic myelopathy) if advanced/untreated

@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20epidural%20abscess&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+epidural+abscess+management) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column / spinal canal (epidural space)](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Classic triad** (present in minority): back pain + fever + neurological deficit
 - Severe focal spinal pain, fever/sepsis, progressive weakness/sensory change, bowel/bladder

@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=tethered%20spinal%20cord&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=tethered+cord+release+filum) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (conus / cauda equina / filum region)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Progressive neurological/urological decline, back/leg pain (worse with flexion/activity), bladder dysfunction, lower extremity weakness/sensory change, foot deformity, scoliosis (children)
 - **Pediatric:** cutaneous stigmata (hairy patch, dimple/sinus, lipoma, hemangioma), delayed milestones, gait/urinary change

@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=vertebroplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=kyphoplasty+vertebral+augmentation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — vertebral body (transpedicular cement augmentation)](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Focal axial back pain** at the fracture level, worse with movement/loading, point tenderness, limited mobility
 - Acute/subacute fracture, **failed conservative management** (~2-6 weeks of analgesia, bracing) OR debilitating pain/immobility

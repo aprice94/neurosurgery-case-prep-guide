@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spondylodiscitis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+osteomyelitis+discitis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — disc & vertebral body (infection crosses the disc)](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Insidious severe focal back pain (often nocturnal, unrelenting), fever, malaise; ± neurological deficit, deformity
 - Risk factors: IVDU, diabetes, immunocompromise, bacteremia, recent procedure, **TB exposure (Pott disease)**

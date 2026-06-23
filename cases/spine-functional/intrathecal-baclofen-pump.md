@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=intrathecal%20baclofen%20pump&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intrathecal+baclofen+pump) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (intrathecal catheter / subarachnoid space)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Severe, disabling spasticity** (impairing function, care, comfort, causing pain/contractures) refractory to oral antispasmodics, OR refractory chronic pain (intrathecal opioid/ziconotide)
 - Etiology of spasticity (CP, MS, SCI, TBI, stroke, hereditary spastic paraplegia)

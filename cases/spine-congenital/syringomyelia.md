@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=syringomyelia&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=syringomyelia+treatment) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (central canal — syrinx cavity)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Dissociated (cape-like) sensory loss** (loss of pain/temperature, preserved light touch), hand/upper extremity weakness and atrophy, neuropathic pain, scoliosis (children), progressive myelopathy
 - **Etiology is key (treat the cause, not just the syrinx):**
