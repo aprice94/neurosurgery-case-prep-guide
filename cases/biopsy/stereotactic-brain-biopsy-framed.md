@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20brain%20biopsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=frame+based+stereotactic+brain+biopsy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: New neurological deficit / seizure / lesion(s) on imaging requiring diagnosis
 - Lesion not safely resectable, or diagnosis would change management (lymphoma, infection, unresectable glioma, deep/eloquent location)

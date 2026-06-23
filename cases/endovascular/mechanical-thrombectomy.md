@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=mechanical%20thrombectomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=mechanical+thrombectomy+large+vessel+occlusion) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Arteries of the base of the brain — circle of Willis (LVO sites: ICA, M1, basilar)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909, public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Acute focal neurological deficit (hemiparesis, aphasia, gaze deviation, neglect)
 - **Last known well (LKW) time** — critical for eligibility; **NIHSS**

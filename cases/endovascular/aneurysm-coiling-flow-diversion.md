@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20aneurysm%20coiling&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=endovascular+coiling+flow+diversion+aneurysm) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Arteries of the base of the brain — circle of Willis (aneurysm sites)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909, public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: SAH (thunderclap headache, Hunt-Hess/WFNS grade) or unruptured (incidental, symptomatic, growth)
 - Aneurysm size/morphology, neck width, dome-to-neck ratio, location

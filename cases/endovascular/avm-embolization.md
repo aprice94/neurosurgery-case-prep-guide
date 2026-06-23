@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20AVM%20embolization&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brain+AVM+dural+fistula+embolization) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Arteries of the base of the brain — cerebral vascular anatomy](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909, public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Hemorrhage, seizures, headache, progressive deficit, or pulsatile tinnitus/bruit (dAVF)
 - **Embolization role:** preoperative (reduce flow/deep feeders before resection), pre-SRS (volume reduction — debated), curative (selected small AVMs, many dAVFs), palliative (high-grade, symptom-targeted)

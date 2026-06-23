@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20brain%20biopsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=robot+assisted+stereotactic+brain+biopsy+ROSA) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Lesion(s) requiring tissue diagnosis, not safely resectable
 - Robotic platform chosen for **accuracy, efficiency, and especially multiple targets/trajectories** (also used for SEEG, laser ablation)

@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+endarterectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Arteries of the base of the brain — ICA / circle of Willis (collateral supply)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909, public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Symptomatic** (ipsilateral TIA, amaurosis fugax, minor stroke) or **asymptomatic** (screening/bruit)
 - **Indications (guideline):** symptomatic stenosis **50-99%** (greatest benefit 70-99%, treat within ~2 weeks of event); asymptomatic **≥60-70%** in selected patients with low surgical risk and reasonable life expectancy

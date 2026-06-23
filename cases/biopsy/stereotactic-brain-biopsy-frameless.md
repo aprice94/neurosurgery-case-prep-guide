@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20brain%20biopsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=frameless+navigation+brain+biopsy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Lesion(s) requiring tissue diagnosis where resection is not indicated/safe
 - Same diagnostic considerations as framed biopsy (lymphoma — **avoid pre-biopsy steroids** if feasible; infection vs tumor; unresectable/deep/eloquent)

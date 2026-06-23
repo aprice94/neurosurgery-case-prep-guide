@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20radiosurgery&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=stereotactic+radiosurgery+gamma+knife) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint / indication-dependent:
   - **Brain metastases** (1 to ~10+; SRS increasingly replaces WBRT for limited mets)

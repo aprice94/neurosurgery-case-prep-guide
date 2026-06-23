@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenting&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+artery+stenting) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Arteries of the base of the brain — ICA / circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909, public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Symptomatic (TIA/amaurosis/minor stroke) or asymptomatic significant stenosis
 - **CAS indications (vs CEA):** high cardiac/surgical risk, **hostile neck** (prior radiation, neck dissection, tracheostomy), **restenosis after prior CEA**, high carotid bifurcation, contralateral laryngeal nerve palsy
