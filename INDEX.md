@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # Neurosurgical Case Prep Guide — Master Index
 
 **107 procedure guides + system references + 100-resource database + master template.**

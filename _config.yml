@@ -1,0 +1,27 @@
+title: Neurosurgery Case Prep Guide
+description: >-
+  Structured neurosurgical case-preparation guides — positioning, approaches,
+  step-by-step technique, figures, and operative-note templates across cranial,
+  spine, vascular, functional, peripheral-nerve, and pediatric neurosurgery.
+theme: jekyll-theme-cayman
+
+# Render every markdown page with the theme layout (not just ones with front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Rewrite relative links between .md files so they work as .html on the site
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+
+# Don't publish housekeeping files as pages
+exclude:
+  - .gitignore
+  - CONTRIBUTING.md
+  - LICENSE
+  - README.md

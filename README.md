@@ -72,8 +72,8 @@ All 107 guides are in the full operative/procedure-note format.
 2. Review positioning, approach, critical anatomy, and the step-by-step technique.
 3. Copy the guide and fill the bracketed `[ ]` fields with the patient's specifics — the one-liner, HPI, PMH, imaging, labs, exam, planning, and operative-note sections become a complete, individualized case prep / operative note.
 
-## Note on figures
-These guides are currently **text and tables only** — they do not include anatomical figures or illustrations. See the project notes / open issues for plans to add schematic diagrams.
+## Figures & media
+Every guide has a **Figures, Imaging & Video** section: curated links to operative sources (Neurosurgical Atlas, AO Surgery Reference, neuroangio.org, Radiopaedia, PubMed Central) plus an embedded **public-domain anatomy plate** (Gray's Anatomy 1918, Sobotta 1909) mapped to the case. The detailed approach chapters additionally embed **CC-BY** operative/cadaveric figures with attribution. Copyrighted figures are **linked, never copied** — see [resources/media-sources.md](resources/media-sources.md) and [figures/CREDITS.md](figures/CREDITS.md).
 
 ## License
 Released under the [MIT License](LICENSE) for personal/educational use. The [medical disclaimer](DISCLAIMER.md) applies to all content.
