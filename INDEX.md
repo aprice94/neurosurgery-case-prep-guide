@@ -19,10 +19,23 @@ Each guide includes: one-liner, HPI, PMH, imaging review, labs, neuro exam, surg
 | Approach | File | Status |
 |----------|------|--------|
 | Pterional (frontotemporal) | [pterional-craniotomy.md](cases/approaches/pterional-craniotomy.md) | ✅ detailed |
-| Orbitozygomatic · Subtemporal · Supraorbital "eyebrow" keyhole · Bifrontal · Interhemispheric (incl. transcallosal) | — | planned |
-| Retrosigmoid · Far-lateral (transcondylar) · Midline & paramedian supracerebellar-infratentorial · Telovelar · Presigmoid/petrosal · Midline suboccipital | — | planned |
-| Endoscopic endonasal (transsphenoidal / transtuberculum / transclival) | — | planned |
-| Anterior cervical (Smith-Robinson) · Posterior cervical · Posterior thoracolumbar (Wiltse/midline) · Transpsoas lateral · Anterior/transthoracic | — | planned |
+| Retrosigmoid (retromastoid) | [retrosigmoid-craniotomy.md](cases/approaches/retrosigmoid-craniotomy.md) | ✅ detailed |
+| Orbitozygomatic (FTOZ) | — | planned |
+| Subtemporal (± zygomatic osteotomy) | — | planned |
+| Supraorbital "eyebrow" keyhole | — | planned |
+| Bifrontal (subfrontal) | — | planned |
+| Interhemispheric / transcallosal | — | planned |
+| Far-lateral (transcondylar) | — | planned |
+| Supracerebellar-infratentorial (midline/paramedian) | — | planned |
+| Telovelar (fourth ventricle) | — | planned |
+| Presigmoid / petrosal | — | planned |
+| Midline suboccipital | — | planned |
+| Endoscopic endonasal (transsphenoidal/transtuberculum/transclival) | — | planned |
+| Anterior cervical (Smith-Robinson) | — | planned |
+| Posterior cervical (laminoforaminotomy/lateral mass) | — | planned |
+| Posterior thoracolumbar (Wiltse/midline) | — | planned |
+| Transpsoas (lateral lumbar, LLIF) | — | planned |
+| Anterior / transthoracic | — | planned |
 
 ---
 

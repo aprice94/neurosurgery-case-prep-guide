@@ -4,7 +4,7 @@
 
 > **About the figures (read once):** Operative step illustrations/photos (Neurosurgical Atlas, Rhoton) are **copyrighted** and are **linked, not copied**. Each operative step below carries a **📷 Atlas** pointer to the exact figure/video on [neurosurgicalatlas.com](https://www.neurosurgicalatlas.com) (Cranial Approaches → Pterional Craniotomy). Embedded images here are **public-domain** anatomy plates (+ open-access CC-BY figures where added). See [media-sources.md](../../resources/media-sources.md).
 
-**Atlas operative videos** — open on the [**Pterional Craniotomy chapter page**](https://doi.org/10.18791/nsatlas.v2.ch02): *How Do I Do It · Improving the Efficiency of Exposure · Nuances & Pitfalls · Subfascial Technique · Placement of the Pins.* (Rhoton: [*Preserving the Frontalis Muscle*](https://doi.org/10.18791/nsatlas.v2.ch02).)
+**Atlas operative videos** — open on the [**Pterional Craniotomy chapter page**](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy): *How Do I Do It · Improving the Efficiency of Exposure · Nuances & Pitfalls · Subfascial Technique · Placement of the Pins.* (Rhoton: [*Preserving the Frontalis Muscle*](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy).)
 
 ![Interior base of skull — anterior & middle fossa, sphenoid wing (the bone you sculpt)](../../figures/anatomy/skull-base-interior_gray193.png)
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
@@ -48,7 +48,7 @@ The pterional (frontotemporal) craniotomy is the **workhorse** of supratentorial
 ![Superficial temporal artery & the frontotemporal (frontalis) branches of the facial nerve coursing over the fat pad](../../figures/pterional/sta-facial-nerve_cureus-e5216.jpg)
 *Cadaveric dissection — Rodriguez Rubio R et al., Cureus 2019;11(7):e5216 (CC BY).*
 
-## 5. Positioning  📷 [Atlas — pin placement & positioning](https://doi.org/10.18791/nsatlas.v2.ch02)
+## 5. Positioning  📷 [Atlas — pin placement & positioning](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - **Supine**, knees flexed, **table up ~15–20°** (reverse Trendelenburg); head above the heart.
 - **Mayfield 3-pin:** **double-pin rocker on the contralateral superior temporal line**, **single pin on the ipsilateral mastoid** — all well behind the planned incision, out of the flap, away from the temporalis and frontal sinus/orbit.
 - **Rotation (target-driven):** *closer to midline / more anterior ⇒ turn LESS.* ~**30°** AComA; ~**45°** MCA; less rotation + more deflection for superiorly-extending suprasellar tumors; basal lesions (ophthalmic/PComA, cavernous sinus) ⇒ **less deflection, more rotation** to keep the orbital rim in the superior plane.
@@ -56,7 +56,7 @@ The pterional (frontotemporal) craniotomy is the **workhorse** of supratentorial
 - **Ipsilateral shoulder roll** if neck mobility is limited; re-check IONM after positioning.
 *Nuance:* over-rotation drops the temporal lobe into your subfrontal view and tents the sylvian veins — under-rotate and let gravity, not retractors, do the work.
 
-## 6. Skin Marking & Incision  📷 [Atlas — incision](https://doi.org/10.18791/nsatlas.v2.ch02)
+## 6. Skin Marking & Incision  📷 [Atlas — incision](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - **Curvilinear (reverse question-mark)** behind the hairline: start **~1 cm anterior to the tragus at the zygomatic root**, curve posterosuperiorly, then forward to the **midline / contralateral mid-pupillary line.**
 - Keep the **STA posterior** in the flap when feasible; **frontalis branch stays anterior** to the incision. For a pure subfrontal target, do not extend far behind the hairline; keep the flap's connecting line within ~1 cm of the keyhole.
 
@@ -64,7 +64,7 @@ The pterional (frontotemporal) craniotomy is the **workhorse** of supratentorial
 - Infiltrate; **Raney clips / bipolar** for hemostasis. As the incision reaches the **superior temporal line**, slide a **periosteal elevator under the subcutaneous tissue to protect the STA and temporalis**, then cut skin onto the elevator.
 - **STA:** identify, dissect to the frontal/parietal bifurcation; **coagulate & divide the frontal branch** (preserve parietal) for a standard flap — *but preserve branches if a bypass is conceivable or for a large posteriorly-extended flap (flap vascularity/healing).*
 
-## 8. Frontalis-Branch Protection — choose your technique  📷 [Atlas — subfascial / interfascial technique (video)](https://doi.org/10.18791/nsatlas.v2.ch02)
+## 8. Frontalis-Branch Protection — choose your technique  📷 [Atlas — subfascial / interfascial technique (video)](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - **Single-layer myocutaneous flap (one layer):** raise skin + temporalis together; fast, robust vascularity. *Nuance:* reflect maximally anteroinferiorly to reveal the pterion; **place rolled gauze under the flap to prevent kinking/ischemia** of the scalp.
 - **Interfascial:** ~4 cm above the orbital rim, incise the **superficial layer of temporalis fascia** at the upper edge of the fat pad and carry the fat pad + superficial layer (with the nerve on its outer surface) down with the flap.
 - **Subfascial:** elevate beneath the **superficial temporal fat pad** off the deep layer.
@@ -78,26 +78,26 @@ The pterional (frontotemporal) craniotomy is the **workhorse** of supratentorial
 ![Temporalis dissection (interfascial / Oikawa technique) carrying the fat pad and facial-nerve branches with the flap](../../figures/pterional/temporalis-dissection-oikawa_cureus-e5216.jpg)
 *Cadaveric dissection — Rodriguez Rubio R et al., Cureus 2019;11(7):e5216 (CC BY).*
 
-## 10. Keyhole & Burr Hole(s)  📷 [Atlas — burr hole / keyhole](https://doi.org/10.18791/nsatlas.v2.ch02)
+## 10. Keyhole & Burr Hole(s)  📷 [Atlas — burr hole / keyhole](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - **Single burr hole** just inferior to the most posterior exposed superior temporal line; sweep the dura free with a **#3 Penfield** to mobilize the whole flap toward the pterion. *Nuance:* a single hole **behind the hairline, under muscle** minimizes cosmetic defect vs. the classic 2-hole (keyhole + zygomatic root) technique.
 - The **MacCarty keyhole** is used when orbit + anterior fossa need to be entered together; a "**modified pterional without MacCarty keyhole**" is also valid.
 
 ![Lateral skull — course of the middle meningeal artery beneath the pterion (encountered as the wing is removed)](../../figures/pterional/mma-course_cureus-e5216.jpg)
 *Cadaveric dissection — Rodriguez Rubio R et al., Cureus 2019;11(7):e5216 (CC BY).*
 
-## 11. Craniotomy  📷 [Atlas — craniotome / bone flap](https://doi.org/10.18791/nsatlas.v2.ch02)
+## 11. Craniotomy  📷 [Atlas — craniotome / bone flap](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - **Footplate craniotome (B1):** two osteotomies. After the first cut, the drill stalls at the **lateral sphenoid wing** → **turn 180° at the pterion** to create room, remove the heel, and start the second osteotomy. Outline matches pathology (MCA vs AComA outlines differ; anterior-fossa tumors follow the AComA outline).
 - *Pitfall:* the footplate **tears dura on the turns, especially the frontal turn** — go slow, lift, and irrigate.
 
 ## 12. Frontal Sinus Management
 - The **anteromedial cut may enter the frontal sinus** (supraorbital notch is an unreliable lateral landmark — use navigation). If entered: **exenterate the mucosa, pack with muscle/bone wax**, and plan a pericranial buttress at closure to prevent **CSF leak / mucocele.**
 
-## 13. Sphenoid Wing Drilling — *the key step*  📷 [Atlas — sphenoid / orbital-roof drilling (+ "Improving Efficiency of Exposure" video)](https://doi.org/10.18791/nsatlas.v2.ch02)
+## 13. Sphenoid Wing Drilling — *the key step*  📷 [Atlas — sphenoid / orbital-roof drilling (+ "Improving Efficiency of Exposure" video)](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - After elevating the flap, **strip dura off the orbital roof (Penfield #1)** and mobilize dura off both frontal and temporal surfaces of the ridge.
 - **Remove the lateral/mid sphenoid ridge aggressively** — **rongeur first for speed, then a side-cutting air drill** — until **flat to the skull base.** Control **MMA** bleeding at the wing.
 - **Extended pterional:** continue to the **superior orbital fissure**, **flatten the orbital roof and supraorbital edge** — *critical for an unobstructed subfrontal view toward the midline anterior skull base.*
 
-## 14. Dural Opening  📷 [Atlas — dural opening](https://doi.org/10.18791/nsatlas.v2.ch02)
+## 14. Dural Opening  📷 [Atlas — dural opening](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - **Curvilinear**, reflected anteroinferiorly toward the sphenoid ridge; **tack-up sutures placed close to the brain** to pull dura + muscle out of the subfrontal working zone. Three tack-ups typically. Protect cortex and **sylvian/superficial middle cerebral vein.**
 
 ## 15. Brain Relaxation & Intradural Orientation
@@ -106,7 +106,7 @@ The pterional (frontotemporal) craniotomy is the **workhorse** of supratentorial
 ![Pterional approach overview — positioning, bone removal, dural opening, and intradural neurovascular exposure (ICA, MCA)](../../figures/pterional/pterional-exposure_brainsci-2021.jpg)
 *Poblete T et al., "Microsurgical Anatomy of the Anterior Circulation…" Brain Sci 2021;11(4):519 (CC BY 4.0).*
 
-## 16. Closure  📷 [Atlas — dural closure, bone fixation, temporalis reattachment](https://doi.org/10.18791/nsatlas.v2.ch02)
+## 16. Closure  📷 [Atlas — dural closure, bone fixation, temporalis reattachment](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
 - **Dura:** approximate; *watertight closure not obligatory for a supratentorial craniotomy unless the ventricle was entered or hydrocephalus/raised CSF pressure is expected* — then close watertight ± graft.
 - **Bone flap:** **≥3 mini-plates**; central dural tack-up optional; the behind-hairline burr hole preserves keyhole bone for cosmesis.
 - **Temporalis:** reattach **fascia to its superior cuff** (single-layer flap: reattach posteriorly; approximate fascia gently to limit jaw-movement pain). Subgaleal drain only if scalp hemostasis is problematic. Layered scalp closure.

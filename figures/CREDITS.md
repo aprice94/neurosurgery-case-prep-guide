@@ -21,5 +21,8 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `pterional/temporalis-dissection-oikawa_cureus-e5216.jpg` | Temporalis dissection (Oikawa/interfascial) | Rodriguez Rubio R et al. *Cureus.* 2019;11(7):e5216 | CC BY |
 | `pterional/mma-course_cureus-e5216.jpg` | Middle meningeal artery course (lateral skull) | Rodriguez Rubio R et al. *Cureus.* 2019;11(7):e5216 | CC BY |
 | `pterional/pterional-exposure_brainsci-2021.jpg` | Pterional approach exposure (positioning→intradural) | Poblete T et al. *Brain Sci.* 2021;11(4):519 ([PMC8073207](https://pmc.ncbi.nlm.nih.gov/articles/PMC8073207/)) | CC BY 4.0 |
+| `retrosigmoid/muscle-layers_cureus-e16068.jpg` | Postauricular superficial/deep muscle layers (retrosigmoid) | Belykh E et al. *Cureus.* 2021;13(7):e16068 ([PMC8336623](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8336623/)) | CC BY 4.0 |
+| `retrosigmoid/sinuses-asterion_cureus-e16068.jpg` | Sigmoid/transverse sinuses & asterion landmark | Belykh E et al. *Cureus.* 2021;13(7):e16068 | CC BY 4.0 |
+| `retrosigmoid/operative-steps_cureus-e16068.jpg` | Step-by-step retrosigmoid dissection | Belykh E et al. *Cureus.* 2021;13(7):e16068 | CC BY 4.0 |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*
