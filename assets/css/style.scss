@@ -174,3 +174,29 @@ body {
 /* offset sticky header for in-page anchor jumps */
 .prose h2 { scroll-margin-top: 84px; }
 .prose h3 { scroll-margin-top: 84px; }
+
+/* ---------- "On this page" TOC ---------- */
+.toc { margin: 2px 0 1.8em; border: 1px solid var(--line); border-radius: 12px; background: #f6fbfc; padding: 4px 16px; }
+.toc summary { cursor: pointer; font-weight: 700; color: var(--primary-d); padding: 9px 0; list-style: none; user-select: none; }
+.toc summary::-webkit-details-marker { display: none; }
+.toc summary::before { content: "📑 "; }
+.toc[open] summary { border-bottom: 1px solid var(--line); margin-bottom: 6px; }
+.toc ul { columns: 2; column-gap: 30px; margin: 8px 0 12px; padding-left: 1.1em; }
+.toc li { margin: .22em 0; font-size: .92rem; break-inside: avoid; }
+.toc li::marker { color: var(--primary); }
+.toc a { border: none; font-weight: 600; }
+@media (max-width: 640px) { .toc ul { columns: 1; } }
+
+/* ---------- Image lightbox (click any figure to zoom) ---------- */
+.prose img { cursor: zoom-in; }
+.lightbox { position: fixed; inset: 0; background: rgba(8,16,24,.88); display: none; align-items: center; justify-content: center; z-index: 200; padding: 24px; cursor: zoom-out; }
+.lightbox.open { display: flex; animation: lbfade .15s ease; }
+.lightbox img { max-width: 96vw; max-height: 94vh; border-radius: 10px; box-shadow: 0 24px 70px rgba(0,0,0,.55); border: none; background: #fff; }
+@keyframes lbfade { from { opacity: 0; } to { opacity: 1; } }
+
+/* ---------- Back-to-top button ---------- */
+.to-top { position: fixed; right: 22px; bottom: 22px; z-index: 120; width: 46px; height: 46px; border-radius: 50%; border: none; cursor: pointer;
+  background: linear-gradient(135deg, var(--primary), var(--accent)); color: #fff; font-size: 1.35rem; line-height: 1; box-shadow: 0 6px 18px rgba(13,124,134,.4);
+  opacity: 0; pointer-events: none; transform: translateY(10px); transition: opacity .2s, transform .2s; }
+.to-top.show { opacity: 1; pointer-events: auto; transform: translateY(0); }
+.to-top:hover { filter: brightness(1.08); }

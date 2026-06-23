@@ -42,5 +42,56 @@
       <p class="muted">Neurosurgery Case Prep Guide · <a href="{{ site.github_repo }}" target="_blank" rel="noopener">source on GitHub</a></p>
     </div>
   </footer>
+
+  <button id="to-top" class="to-top" aria-label="Back to top" title="Back to top">↑</button>
+  <div id="lightbox" class="lightbox" aria-hidden="true"><img alt=""></div>
+
+  <script>
+  (function () {
+    var isHome = {% if page.url == "/" %}true{% else %}false{% endif %};
+    var article = document.querySelector('.prose');
+
+    // "On this page" table of contents for long guide pages
+    if (article && !isHome) {
+      var h2s = article.querySelectorAll('h2');
+      if (h2s.length >= 3) {
+        var d = document.createElement('details');
+        d.className = 'toc';
+        var s = document.createElement('summary'); s.textContent = 'On this page'; d.appendChild(s);
+        var ul = document.createElement('ul');
+        h2s.forEach(function (h) {
+          if (!h.id) return;
+          var li = document.createElement('li'), a = document.createElement('a');
+          a.href = '#' + h.id; a.textContent = h.textContent.replace(/^[\s#]+/, '');
+          li.appendChild(a); ul.appendChild(li);
+        });
+        d.appendChild(ul);
+        var h1 = article.querySelector('h1');
+        if (h1) h1.insertAdjacentElement('afterend', d); else article.insertBefore(d, article.firstChild);
+      }
+    }
+
+    // Click-to-zoom lightbox for every figure
+    var lb = document.getElementById('lightbox'), lbImg = lb && lb.querySelector('img');
+    function closeLB(){ lb.classList.remove('open'); lb.setAttribute('aria-hidden','true'); lbImg.src=''; }
+    if (lb && lbImg) {
+      document.querySelectorAll('.prose img').forEach(function (img) {
+        img.addEventListener('click', function () {
+          lbImg.src = img.currentSrc || img.src; lbImg.alt = img.alt || '';
+          lb.classList.add('open'); lb.setAttribute('aria-hidden','false');
+        });
+      });
+      lb.addEventListener('click', closeLB);
+      document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && lb.classList.contains('open')) closeLB(); });
+    }
+
+    // Back-to-top
+    var btn = document.getElementById('to-top');
+    if (btn) {
+      window.addEventListener('scroll', function () { btn.classList.toggle('show', window.scrollY > 600); }, { passive: true });
+      btn.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
+    }
+  })();
+  </script>
 </body>
 </html>
