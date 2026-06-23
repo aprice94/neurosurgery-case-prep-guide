@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lateral%20lumbar%20interbody%20fusion&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lateral+transpsoas+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — lumbar spine](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Back/leg pain, deformity, need for indirect decompression and large interbody
 - Failed conservative management

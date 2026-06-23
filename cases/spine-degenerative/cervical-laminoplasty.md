@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20laminoplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=cervical+laminoplasty+open+door) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — cervical spine](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Cervical myelopathy from multilevel dorsal compression
 - **Laminoplasty advantages:** decompresses multiple levels while preserving motion and avoiding fusion morbidity; lower kyphosis/instability risk than laminectomy alone

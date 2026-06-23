@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20spinal%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumbar+laminectomy+decompression+stenosis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — lumbar spine](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Neurogenic claudication** — bilateral buttock/leg pain, heaviness, paresthesias with standing/walking, **relieved by sitting/flexion** ("shopping cart sign"), worse with extension
 - Walking tolerance, radicular symptoms, failed conservative management (PT, injections)

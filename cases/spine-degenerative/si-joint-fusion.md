@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=sacroiliac%20joint&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=sacroiliac+joint+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — sacrum / sacroiliac region](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: **Unilateral low back/buttock pain below L5**, often radiating to posterior thigh/groin, worse with sitting-to-standing, stairs, single-leg loading
 - **Fortin finger sign** (points to PSIS), pain over the SI joint
