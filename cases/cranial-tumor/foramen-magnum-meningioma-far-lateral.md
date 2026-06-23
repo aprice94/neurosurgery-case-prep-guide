@@ -14,6 +14,12 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+![Far-lateral craniotomy with C1 removed — posterior-fossa & spinal dura, vertebral artery, transverse/sigmoid sinuses](../../figures/far-lateral/craniotomy-c1-dura_cureus-e31257.jpg)
+
+*Payman A, et al. Cureus 2022;14(11):e31257 — CC BY 4.0.*
+
+**▶ Full corridor technique:** see the [**Far-lateral (transcondylar) approach chapter**](../approaches/far-lateral-craniotomy.md) — positioning, suboccipital-triangle VA control, condyle/jugular-tubercle drilling limits, dural opening, and intradural lower-CN microsurgery, step by step.
+
 ---
 
 ## History of Present Illness
@@ -48,6 +54,7 @@
 ### Approach Rationale
 - **Far lateral** provides a lateral-to-ventral trajectory to the ventral foramen magnum/craniocervical junction, minimizing brainstem/cord retraction (the key advantage over a midline suboccipital approach for ventral lesions)
 - **Transcondylar extension** (drilling part of the occipital condyle) increases ventral exposure — balance exposure vs craniocervical stability (excess condyle removal → instability → may need occipitocervical fusion)
+- **▶ See the [far-lateral (transcondylar) approach chapter](../approaches/far-lateral-craniotomy.md)** for granular corridor technique — exact head positioning, VA identification in the suboccipital triangle, the retro-/trans-/supra-/paracondylar ladder, the hypoglossal-canal drilling limit, and lower-CN microsurgery
 
 ### Position
 - **Park bench (lateral)** or modified prone/sitting; Mayfield; head flexed, rotated, and laterally flexed to open the craniovertebral angle; mastoid up; IONM baseline
