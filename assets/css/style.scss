@@ -136,8 +136,41 @@ body {
 
 /* ---------- Responsive ---------- */
 @media (max-width: 720px) {
-  .prose { padding: 24px 20px; }
+  .prose { padding: 24px 18px; }
   .prose h1 { font-size: 1.7rem; }
   .brand-text { display: none; }
   .filter-box { top: 64px; }
+  .hero { padding: 28px 22px; }
+  .hero h1 { font-size: 1.8rem; }
 }
+
+/* ---------- Home hero ---------- */
+.hero {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+  color: #fff; border-radius: var(--radius); padding: 42px 40px; margin: 2px 0 22px;
+  box-shadow: 0 10px 30px rgba(13,124,134,.28);
+}
+.hero h1 { color: #fff; border: none; margin: 0 0 .2em; font-size: 2.4rem; letter-spacing: -.6px; }
+.hero p { color: #e9fdff; font-size: 1.14rem; margin: .2em 0 1.1em; max-width: 64ch; }
+.hero .stats { display: flex; flex-wrap: wrap; gap: 10px; }
+.hero .stat { background: rgba(255,255,255,.15); border: 1px solid rgba(255,255,255,.28); padding: 7px 14px; border-radius: 999px; font-size: .92rem; font-weight: 600; }
+.hero .stat b { font-size: 1.05rem; font-weight: 800; }
+
+/* ---------- Home category cards ---------- */
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(225px, 1fr)); gap: 16px; margin: 8px 0 26px; }
+.card {
+  display: block; background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--primary);
+  border-radius: 14px; padding: 18px 18px 16px; text-decoration: none; color: var(--ink);
+  box-shadow: var(--shadow); transition: transform .14s ease, box-shadow .14s ease, border-color .14s ease;
+}
+.card:hover { transform: translateY(-4px); box-shadow: 0 14px 34px rgba(16,24,40,.16); border-color: var(--primary); }
+.card .ic { font-size: 1.8rem; line-height: 1; }
+.card .t { display: block; font-weight: 800; font-size: 1.07rem; margin: .4em 0 .15em; color: #14202b; border: none; }
+.card .d { display: block; color: var(--muted); font-size: .9rem; line-height: 1.45; }
+.card .n { display: inline-block; margin-top: 10px; background: #eaf6f7; color: var(--primary-d); font-weight: 700; font-size: .78rem; padding: 2px 10px; border-radius: 999px; }
+.card.approaches { border-top-color: var(--accent); }
+.card.approaches .n { background: #e8f0fb; color: var(--accent-d); }
+
+/* offset sticky header for in-page anchor jumps */
+.prose h2 { scroll-margin-top: 84px; }
+.prose h3 { scroll-margin-top: 84px; }

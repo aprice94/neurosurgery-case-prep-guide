@@ -3,9 +3,25 @@ permalink: /
 title: Home
 ---
 
-# Neurosurgery Case Prep Guide
+<div class="hero">
+  <h1>Neurosurgery Case Prep Guide</h1>
+  <p>Chief/attending-level case preparation — positioning, step-by-step technique, critical anatomy, figures, and dictation-ready operative notes.</p>
+  <div class="stats">
+    <span class="stat"><b>107</b> guides</span>
+    <span class="stat"><b>18</b> categories</span>
+    <span class="stat"><b>4</b> approach chapters</span>
+    <span class="stat">cranial · spine · vascular · functional · peds</span>
+  </div>
+</div>
 
-<p class="lead">A structured, chief/attending-level case-preparation library — <strong>107 procedure guides</strong> plus detailed operative-<strong>approach</strong> chapters. Every guide carries positioning, step-by-step technique, critical anatomy, figures &amp; imaging links, and a dictation-ready operative note.</p>
+<div class="cards">
+  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">4 detailed</span></a>
+  <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
+  <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
+  <a class="card" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
+  <a class="card" href="#peripheral"><span class="ic">✋</span><span class="t">Peripheral &amp; Pediatric</span><span class="d">Nerve · plexus · pediatric neurosurgery</span><span class="n">10 guides</span></a>
+  <a class="card" href="#resources"><span class="ic">📚</span><span class="t">Resources &amp; Template</span><span class="d">100 resources · media sources · blank template</span><span class="n">toolkit</span></a>
+</div>
 
 > ⚠️ **Educational reference — not medical advice.** Summarizes standard teaching; verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before any patient care. See the [full disclaimer](DISCLAIMER.md).
 
@@ -13,7 +29,7 @@ title: Home
 
 ---
 
-## 🧭 Operative Approaches — detailed technique chapters
+<h2 id="approaches">🧭 Operative Approaches — detailed technique chapters</h2>
 *The granular "how it's set up" reference per surgical corridor: positioning (exact degrees, pin placement), incision landmarks, soft-tissue planes, bone work, dural opening, intradural steps, surgeon nuances & pitfalls, with figures. Pathology guides link here.*
 
 - [**Pterional (frontotemporal) craniotomy**](cases/approaches/pterional-craniotomy.md) — <span class="tag-done">✅ detailed</span>
@@ -25,14 +41,14 @@ title: Home
 - Endoscopic endonasal (transsphenoidal / transtuberculum / transclival) — <span class="tag-soon">in progress</span>
 - Anterior cervical (Smith-Robinson) · Posterior cervical · Posterior thoracolumbar · Transpsoas (LLIF) · Anterior / transthoracic — <span class="tag-soon">in progress</span>
 
-## 📚 Resources & Templates
+<h2 id="resources">📚 Resources &amp; Templates</h2>
 - [Top 100 Neurosurgery Resources](resources/neurosurgery-resources.json) — textbooks, atlases, platforms, journals, operative references
 - [Curated media & figure sources](resources/media-sources.md) — where the figures come from (and licensing)
 - [Master Case-Prep Template](templates/case-prep-template.md) — blank template with every section
 
 ---
 
-## 🧠 Cranial
+<h2 id="cranial">🧠 Cranial</h2>
 
 ### Vascular (8)
 - [MCA aneurysm clipping](cases/cranial-vascular/mca-aneurysm-clipping.md)
@@ -96,7 +112,7 @@ title: Home
 
 ---
 
-## 🎯 Stereotactic · Ablative · Endovascular
+<h2 id="stereo">🎯 Stereotactic · Ablative · Endovascular</h2>
 
 ### Brain Biopsy (4 + reference)
 - [**Biopsy systems & platforms reference**](cases/biopsy/biopsy-systems-reference.md)
@@ -118,7 +134,7 @@ title: Home
 
 ---
 
-## 🦴 Spine
+<h2 id="spine">🦴 Spine</h2>
 
 ### Degenerative (13)
 - [ACDF](cases/spine-degenerative/acdf.md)
@@ -173,7 +189,7 @@ title: Home
 
 ---
 
-## ✋ Peripheral Nerve & Pediatric
+<h2 id="peripheral">✋ Peripheral Nerve &amp; Pediatric</h2>
 
 ### Peripheral Nerve (4)
 - [Carpal tunnel release](cases/peripheral-nerve/carpal-tunnel-release.md)
