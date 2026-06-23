@@ -9,13 +9,13 @@ title: Home
   <div class="stats">
     <span class="stat"><b>107</b> guides</span>
     <span class="stat"><b>18</b> categories</span>
-    <span class="stat"><b>4</b> approach chapters</span>
+    <span class="stat"><b>5</b> approach chapters</span>
     <span class="stat">cranial · spine · vascular · functional · peds</span>
   </div>
 </div>
 
 <div class="cards">
-  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">4 detailed</span></a>
+  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">5 detailed</span></a>
   <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
   <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
   <a class="card" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
@@ -36,8 +36,9 @@ title: Home
 - [**Retrosigmoid (retromastoid) craniotomy**](cases/approaches/retrosigmoid-craniotomy.md) — <span class="tag-done">✅ detailed</span>
 - [**Orbitozygomatic (FTOZ) craniotomy**](cases/approaches/orbitozygomatic-craniotomy.md) — <span class="tag-done">✅ detailed</span>
 - [**Subtemporal craniotomy (± zygomatic osteotomy / Kawase)**](cases/approaches/subtemporal-craniotomy.md) — <span class="tag-done">✅ detailed</span>
+- [**Far-lateral (transcondylar) craniotomy**](cases/approaches/far-lateral-craniotomy.md) — <span class="tag-done">✅ detailed</span>
 - Supraorbital "eyebrow" keyhole · Bifrontal (subfrontal) · Interhemispheric / transcallosal — <span class="tag-soon">in progress</span>
-- Far-lateral (transcondylar) · Supracerebellar-infratentorial · Telovelar · Presigmoid / petrosal · Midline suboccipital — <span class="tag-soon">in progress</span>
+- Supracerebellar-infratentorial · Telovelar · Presigmoid / petrosal · Midline suboccipital — <span class="tag-soon">in progress</span>
 - Endoscopic endonasal (transsphenoidal / transtuberculum / transclival) — <span class="tag-soon">in progress</span>
 - Anterior cervical (Smith-Robinson) · Posterior cervical · Posterior thoracolumbar · Transpsoas (LLIF) · Anterior / transthoracic — <span class="tag-soon">in progress</span>
 

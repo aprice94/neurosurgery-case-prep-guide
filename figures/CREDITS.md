@@ -29,5 +29,8 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `orbitozygomatic/one-piece-ftoz_cureus-e6053.jpg` | One-piece FTOZ osteotomy / burr holes | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 | CC BY |
 | `subtemporal/middle-fossa-bony-anatomy_frontsurg-2023.jpg` | Middle cranial fossa bony anatomy | *Front Surg.* 2023;10:1132774 ([article](https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1132774/full)) | CC BY 4.0 |
 | `subtemporal/kawase-triangle-foramina_frontsurg-2023.jpg` | Middle fossa foramina & Kawase's rhomboid | *Front Surg.* 2023;10:1132774 | CC BY 4.0 |
+| `far-lateral/muscles-va_cureus-e31257.jpg` | Suboccipital muscle layers & vertebral artery | Payman A et al. *Cureus.* 2022;14(11):e31257 ([PMC9733796](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9733796/)) | CC BY |
+| `far-lateral/craniotomy-c1-dura_cureus-e31257.jpg` | Far-lateral craniotomy + C1, dura/VA/sinuses | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
+| `far-lateral/condylectomy-hypoglossal_cureus-e31257.jpg` | Posterior-third condylectomy & hypoglossal canal | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*
