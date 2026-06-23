@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=odontoid%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=odontoid+fracture+screw+fixation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — upper cervical (C1–C2 / odontoid)](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Neck pain after trauma; may have minimal/no deficit (or high cervical cord injury)
 - Mechanism, neurological status, associated injuries (especially elderly fall — common)

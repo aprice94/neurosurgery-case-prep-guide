@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intradural+extramedullary+spinal+tumor) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (intradural extramedullary relations)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Nocturnal/positional back pain, progressive myelopathy (gait, weakness, sensory level), radiculopathy
 - Duration/progression (usually slow); bowel/bladder

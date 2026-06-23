@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=sacral%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=sacral+fracture+spinopelvic+fixation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — sacrum / lumbosacral junction](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Low back/pelvic/buttock pain, inability to bear weight, ± **bowel/bladder/sexual dysfunction and saddle anesthesia (sacral nerve injury)**
 - Mechanism (high-energy: fall from height, MVC), associated pelvic ring/abdominal/GU injuries (polytrauma)

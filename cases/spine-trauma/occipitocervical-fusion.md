@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=craniovertebral%20junction&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=occipitocervical+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — craniovertebral junction (occiput–C2)](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Occipitocervical pain, myelopathy, cervicomedullary compression symptoms (lower CN, long tract, respiratory)
 - Etiology: trauma (occipitocervical dislocation), RA (cranial settling/basilar invagination, pannus), congenital (Chiari/CVJ anomaly, os odontoideum), tumor, infection, failed prior fusion

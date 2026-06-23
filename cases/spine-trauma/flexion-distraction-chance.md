@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=chance%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=flexion+distraction+chance+fracture) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Vertebral column — thoracolumbar (posterior tension band)](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Back pain ± deficit after **flexion-distraction mechanism** (classic: **lap-belt MVC**, fall)
 - **High association with intra-abdominal/visceral injury** (seatbelt sign, bowel/mesenteric injury) — trauma evaluation mandatory

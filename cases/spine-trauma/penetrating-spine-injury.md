@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20gunshot%20injury&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=penetrating+spinal+injury+gunshot) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (injured by penetrating trajectory)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Penetrating trauma with neurological deficit
 - Mechanism (handgun/high-velocity rifle/stab), trajectory, **associated visceral/vascular injuries** (thoracoabdominal — often take priority)

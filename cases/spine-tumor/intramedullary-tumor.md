@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=intramedullary%20spinal%20cord%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intramedullary+spinal+cord+tumor+ependymoma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (dorsal midline myelotomy plane)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Central cord-type symptoms — dysesthetic pain, sensory changes, progressive weakness, gait
 - Duration (slow), bowel/bladder, dissociated sensory loss
