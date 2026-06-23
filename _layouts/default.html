@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>(function(){try{var t=localStorage.getItem('theme')||(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
   <title>{% if page.title and page.url != "/" %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,6 +19,7 @@
         <span class="brand-text">Neurosurgery&nbsp;Case&nbsp;Prep</span>
       </a>
       <nav class="site-nav">
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark/light">🌙</button>
         <a href="{{ '/' | relative_url }}">All&nbsp;guides</a>
         <a class="nav-cta" href="{{ site.github_repo }}" target="_blank" rel="noopener">GitHub&nbsp;↗</a>
       </nav>
@@ -91,6 +93,17 @@
       window.addEventListener('scroll', function () { btn.classList.toggle('show', window.scrollY > 600); }, { passive: true });
       btn.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
     }
+
+    // Dark / light theme toggle
+    var tt = document.getElementById('theme-toggle');
+    function setIcon(){ if (tt) tt.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '☀️' : '🌙'; }
+    setIcon();
+    if (tt) tt.addEventListener('click', function () {
+      var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      setIcon();
+    });
   })();
   </script>
 </body>

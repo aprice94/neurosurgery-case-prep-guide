@@ -200,3 +200,28 @@ body {
   opacity: 0; pointer-events: none; transform: translateY(10px); transition: opacity .2s, transform .2s; }
 .to-top.show { opacity: 1; pointer-events: auto; transform: translateY(0); }
 .to-top:hover { filter: brightness(1.08); }
+
+/* ---------- Theme toggle button ---------- */
+.theme-toggle { background: rgba(255,255,255,.16); border: none; color: #fff; width: 36px; height: 36px; border-radius: 999px; cursor: pointer; font-size: 1rem; line-height: 1; padding: 0; transition: background .15s; }
+.theme-toggle:hover { background: rgba(255,255,255,.32); }
+
+/* ---------- Dark mode ---------- */
+[data-theme="dark"] {
+  --bg: #0e1620; --card: #161f2b; --ink: #e6edf3; --muted: #9fb0c0; --line: #29384a;
+  --primary-d: #4fd1c5; --accent-d: #74b6f5; --note-bg: #14242b;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 10px 30px rgba(0,0,0,.45);
+}
+[data-theme="dark"] body { background: var(--bg); }
+[data-theme="dark"] .prose strong { color: #eef4fa; }
+[data-theme="dark"] .prose code { background: #22303f; color: #e6edf3; }
+[data-theme="dark"] .prose pre { background: #0a131c; }
+[data-theme="dark"] .prose tbody tr:nth-child(odd) { background: #1b2734; }
+[data-theme="dark"] .prose tbody tr:hover { background: #213040; }
+[data-theme="dark"] .prose blockquote { color: #cfe3ea; }
+[data-theme="dark"] .filter-box { background: #0f1b27; color: var(--ink); }
+[data-theme="dark"] .subbar { background: #13202c; }
+[data-theme="dark"] .toc { background: #13202c; }
+[data-theme="dark"] .card .t { color: #eef4fa; }
+[data-theme="dark"] .card .n { background: #16323a; color: #7fe3da; }
+[data-theme="dark"] .card.approaches .n { background: #142740; color: #9cc8f5; }
+[data-theme="dark"] .prose img { background: #fff; }   /* keep medical figures on white */
