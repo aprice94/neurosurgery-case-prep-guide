@@ -5,7 +5,7 @@ Neurosurgical case-preparation knowledge base (107 case guides + operative-appro
 ## Layout
 - `INDEX.md` — homepage (`permalink: /`): filterable bullet-list landing with hero + category cards.
 - `cases/<category>/*.md` — 18 categories of case guides (one-liner, HPI, imaging, exam, surgical planning, dictation-ready op note, post-op).
-- `cases/approaches/*.md` — detailed operative-approach chapters at full "Atlas" depth. **5/18 done:** pterional, retrosigmoid, orbitozygomatic, subtemporal, far-lateral.
+- `cases/approaches/*.md` — detailed operative-approach chapters at full "Atlas" depth. **9/18 done:** pterional, retrosigmoid, orbitozygomatic, subtemporal, far-lateral, anterior-interhemispheric, supracerebellar-infratentorial, midline-suboccipital, endoscopic-endonasal.
 - `figures/` — only public-domain (Gray/Sobotta) + CC-BY images are stored; all credited in `figures/CREDITS.md`.
 - Custom Jekyll theme: `_config.yml`, `_layouts/default.html`, `assets/css/style.scss`.
 
