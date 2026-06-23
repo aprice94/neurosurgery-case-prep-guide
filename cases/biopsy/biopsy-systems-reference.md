@@ -50,6 +50,7 @@ A comparison reference for choosing a brain biopsy technique and platform. See i
 ---
 
 ## 4. Platform Selection Summary
+
 | Scenario | Preferred |
 |----------|-----------|
 | Deep, small, single target (thalamus, brainstem, pineal) | Frame-based or robotic |
@@ -57,6 +58,7 @@ A comparison reference for choosing a brain biopsy technique and platform. See i
 | Multiple targets / combined with SEEG | Robotic |
 | Real-time confirmation, ablation combo | iMRI (ClearPoint) |
 | Need larger sample / accessible lesion / decompression | Open biopsy |
+
 
 ---
 

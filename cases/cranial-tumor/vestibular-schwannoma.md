@@ -104,6 +104,7 @@
 | **Translabyrinthine** | No (destroys labyrinth) | Excellent (early ID) | Large tumors, non-serviceable hearing |
 | **Middle Fossa** | Best chance | Adequate | Small intracanalicular, serviceable hearing |
 
+
 - **Middle fossa:** Koos I, serviceable hearing, tumor < 1.5 cm
 - **Retrosigmoid:** Koos II-III, serviceable hearing, tumor with CPA component
 - **Translabyrinthine:** Koos III-IV, non-serviceable hearing, large tumors (best facial nerve outcome for large tumors)

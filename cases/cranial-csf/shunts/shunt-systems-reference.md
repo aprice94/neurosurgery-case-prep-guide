@@ -7,6 +7,7 @@ A comprehensive reference for shunt selection. See individual procedure files fo
 ## 1. Shunt Types by Proximal (Inflow) and Distal (Outflow) Site
 
 ### Proximal (Inflow) Catheter Location
+
 | Proximal site | Entry | Indication |
 |---------------|-------|------------|
 | **Ventricular** (frontal — Kocher / occipital — Frazier or Keen) | Lateral ventricle frontal/occipital horn | Most hydrocephalus |
@@ -15,13 +16,16 @@ A comprehensive reference for shunt selection. See individual procedure files fo
 | **Subdural** | Subdural space | Chronic subdural collection (peds), hygroma |
 | **Syrinx (syringo-)** | Syrinx cavity | Refractory syringomyelia (last resort) |
 
+
 ### Distal (Outflow) Catheter Location
+
 | Distal site | Absorptive surface | When chosen |
 |-------------|-------------------|-------------|
 | **Peritoneum** (most common) | Peritoneal cavity | Default; large absorptive capacity, easy revision |
 | **Right Atrium** (vascular) | Bloodstream (via IJV/facial → SVC/RA) | Abdominal contraindication (adhesions, pseudocyst, peritonitis, obesity, ascites) |
 | **Pleural space** | Pleural cavity | Abdomen and atrium unavailable; **avoid in young children** (respiratory reserve, effusion) |
 | **Gallbladder** (rare) | Bile | Salvage when others fail |
+
 
 ### Common Named Configurations
 - **VP (ventriculoperitoneal)** — default; see [vp-shunt](../vp-shunt.md)
