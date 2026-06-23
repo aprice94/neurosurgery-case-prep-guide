@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=craniosynostosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=craniosynostosis+cranial+vault+remodeling) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Abnormal head shape since birth, ridging over suture, ± raised ICP (multisuture/syndromic)
 - **Suture and head shape:**

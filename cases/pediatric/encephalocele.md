@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=encephalocele&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=encephalocele+repair) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Interior base of skull (skull-base / cribriform defect site)](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Congenital midline skull defect with herniation of [meninges (meningocele) / brain + meninges (encephalocele/meningoencephalocele)]
 - **Location:**

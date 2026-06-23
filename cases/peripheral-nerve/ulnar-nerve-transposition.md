@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cubital%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ulnar+nerve+transposition+cubital+tunnel) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Brachial plexus & upper-limb nerves (ulnar nerve)](../../figures/peripheral/brachial-plexus_gray808.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Numbness/tingling in ulnar distribution (small + ulnar ring finger), medial elbow pain, hand weakness/clumsiness, worse with elbow flexion (phone, sleeping)
 - Intrinsic hand weakness, grip/pinch weakness; advanced: clawing, Wartenberg/Froment signs, intrinsic atrophy

@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20palsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=selective+dorsal+rhizotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (dorsal rootlets / conus — rhizotomy target)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Lower-extremity **spasticity** (scissoring, toe-walking, crouch) impairing gait/function/care
 - **Ideal candidate:** spastic diplegia from prematurity, **good underlying strength and selective motor control**, spasticity (not dystonia) as the dominant problem, age ~3-10, GMFCS II-III, motivated for intensive postop rehab

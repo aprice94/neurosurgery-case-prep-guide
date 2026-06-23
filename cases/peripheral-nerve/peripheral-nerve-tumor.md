@@ -7,6 +7,11 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=peripheral%20nerve%20sheath%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=peripheral+nerve+sheath+tumor+schwannoma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
 ## History of Present Illness
 - Chief complaint: Palpable mass (mobile transversely, not longitudinally), **Tinel sign / shooting pain** on percussion, paresthesias, ± motor/sensory deficit
 - Growth, pain pattern, neurological symptoms in the nerve distribution

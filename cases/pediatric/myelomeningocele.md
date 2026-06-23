@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=myelomeningocele&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=myelomeningocele+repair) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Spinal cord cross-section (neural placode / dorsal closure)](../../figures/spine/spinal-cord-cross-section_gray664.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Open neural tube defect identified [prenatally on ultrasound/MRI and elevated maternal AFP / at birth]
 - **Fetal repair** (MOMS trial — in utero closure reduces hydrocephalus/shunt rate and improves motor outcomes) vs postnatal repair

@@ -7,6 +7,15 @@
 
 ---
 
+## Figures, Imaging & Video
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=carpal%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carpal+tunnel+release) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+![Brachial plexus & upper-limb nerves (median nerve to the hand)](../../figures/peripheral/brachial-plexus_gray808.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+---
+
 ## History of Present Illness
 - Chief complaint: Numbness/tingling in median distribution (thumb, index, middle, radial ring), worse at night, shaking relieves (flick sign), dropping objects, thenar weakness
 - Provocative: driving, phone, repetitive use
