@@ -24,5 +24,8 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `retrosigmoid/muscle-layers_cureus-e16068.jpg` | Postauricular superficial/deep muscle layers (retrosigmoid) | Belykh E et al. *Cureus.* 2021;13(7):e16068 ([PMC8336623](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8336623/)) | CC BY 4.0 |
 | `retrosigmoid/sinuses-asterion_cureus-e16068.jpg` | Sigmoid/transverse sinuses & asterion landmark | Belykh E et al. *Cureus.* 2021;13(7):e16068 | CC BY 4.0 |
 | `retrosigmoid/operative-steps_cureus-e16068.jpg` | Step-by-step retrosigmoid dissection | Belykh E et al. *Cureus.* 2021;13(7):e16068 | CC BY 4.0 |
+| `orbitozygomatic/fascial-dissection_cureus-e6053.jpg` | Fascial dissection planes (facial-nerve protection) | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 ([PMC6945284](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6945284/)) | CC BY |
+| `orbitozygomatic/two-piece-ftoz_cureus-e6053.jpg` | Two-piece FTOZ osteotomy technique | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 | CC BY |
+| `orbitozygomatic/one-piece-ftoz_cureus-e6053.jpg` | One-piece FTOZ osteotomy / burr holes | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 | CC BY |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*

@@ -20,7 +20,7 @@ Each guide includes: one-liner, HPI, PMH, imaging review, labs, neuro exam, surg
 |----------|------|--------|
 | Pterional (frontotemporal) | [pterional-craniotomy.md](cases/approaches/pterional-craniotomy.md) | ✅ detailed |
 | Retrosigmoid (retromastoid) | [retrosigmoid-craniotomy.md](cases/approaches/retrosigmoid-craniotomy.md) | ✅ detailed |
-| Orbitozygomatic (FTOZ) | — | planned |
+| Orbitozygomatic (FTOZ) | [orbitozygomatic-craniotomy.md](cases/approaches/orbitozygomatic-craniotomy.md) | ✅ detailed |
 | Subtemporal (± zygomatic osteotomy) | — | planned |
 | Supraorbital "eyebrow" keyhole | — | planned |
 | Bifrontal (subfrontal) | — | planned |
