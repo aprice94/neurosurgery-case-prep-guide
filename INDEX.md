@@ -9,13 +9,13 @@ title: Home
   <div class="stats">
     <span class="stat"><b>107</b> guides</span>
     <span class="stat"><b>18</b> categories</span>
-    <span class="stat"><b>15</b> approach chapters</span>
+    <span class="stat"><b>18</b> approach chapters</span>
     <span class="stat">cranial · spine · vascular · functional · peds</span>
   </div>
 </div>
 
 <div class="cards">
-  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">15 detailed</span></a>
+  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 · complete</span></a>
   <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
   <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
   <a class="card" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
@@ -47,7 +47,9 @@ title: Home
 - [**Bifrontal (subfrontal) craniotomy**](cases/approaches/bifrontal-craniotomy.md) — <span class="tag-done">✅ detailed</span>
 - [**Anterior cervical (Smith-Robinson) approach**](cases/approaches/anterior-cervical-approach.md) — <span class="tag-done">✅ detailed</span>
 - [**Posterior cervical approach**](cases/approaches/posterior-cervical-approach.md) — <span class="tag-done">✅ detailed</span>
-- Posterior thoracolumbar · Transpsoas (LLIF) · Anterior / transthoracic — <span class="tag-soon">in progress</span>
+- [**Posterior thoracolumbar (Wiltse / midline) approach**](cases/approaches/posterior-thoracolumbar-approach.md) — <span class="tag-done">✅ detailed</span>
+- [**Transpsoas lateral (LLIF / XLIF / OLIF) approach**](cases/approaches/transpsoas-approach.md) — <span class="tag-done">✅ detailed</span>
+- [**Transthoracic (anterior thoracic) approach**](cases/approaches/transthoracic-approach.md) — <span class="tag-done">✅ detailed</span>
 
 <h2 id="resources">📚 Resources &amp; Templates</h2>
 - [Top 100 Neurosurgery Resources](resources/neurosurgery-resources.json) — textbooks, atlases, platforms, journals, operative references

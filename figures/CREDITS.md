@@ -12,6 +12,7 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `spine/spinal-cord-cross-section_gray664.png` | Spinal cord cross-section (mid-thoracic) | Gray's Anatomy 1918 (Gray664) |
 | `spine/vertebral-column_gray111.png` | Vertebral column (numbering) | Gray's Anatomy 1918 (Gray111) |
 | `peripheral/brachial-plexus_gray808.png` | Brachial plexus | Gray's Anatomy 1918 (Gray808) |
+| `spine/lumbar-plexus_gray822.png` | Lumbar plexus (psoas relations) | Gray's Anatomy 1918 (Gray822) |
 
 ## Creative Commons (attribution required)
 | File | Depicts | Source | License |
