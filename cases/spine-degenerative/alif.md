@@ -14,6 +14,14 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+![Lumbar vertebra (superior view) — pedicle, lamina & facets](../../figures/spine/lumbar-vertebra-superior_gray93.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+![Lumbar vertebra (lateral view) — body, pedicle & pars](../../figures/spine/lumbar-vertebra-lateral_gray94.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 ---
 
 ## History of Present Illness

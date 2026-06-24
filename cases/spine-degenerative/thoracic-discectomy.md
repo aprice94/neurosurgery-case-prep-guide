@@ -17,6 +17,14 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+![Thoracic vertebra (superior view) — pedicle & canal](../../figures/spine/thoracic-vertebra-superior_gray90.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+![Thoracic vertebra (lateral view) — body & rib facets](../../figures/spine/thoracic-vertebra-lateral_gray91.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 ---
 
 ## History of Present Illness
