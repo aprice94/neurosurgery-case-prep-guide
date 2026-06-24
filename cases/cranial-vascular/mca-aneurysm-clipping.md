@@ -29,6 +29,14 @@
 
 *Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
 
+![ICA terminal bifurcation & MCA (M1) segments — clip-relevant perforator anatomy](../../figures/cranial-vascular/ica-bifurcation-mca_brainsci-519.jpg)
+
+*Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
+
+![Supraclinoid ICA & circle of Willis (axial CTA correlation)](../../figures/cranial-vascular/circle-of-willis-cta_brainsci-519.jpg)
+
+*Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
+
 ---
 
 ## History of Present Illness
