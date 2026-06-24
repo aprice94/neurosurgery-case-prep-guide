@@ -72,6 +72,21 @@ The posterior thoracolumbar approach is the **universal posterior corridor to th
 
 ---
 
+
+### Bony anatomy (vertebra / pedicle detail)
+
+![Thoracic vertebra (superior view) — pedicle, transverse process & screw entry zone](../../figures/spine/thoracic-vertebra-superior_gray90.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+![Lumbar vertebra (superior view) — pedicle 'eye' & entry point](../../figures/spine/lumbar-vertebra-superior_gray93.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+![Thoracic vertebra (lateral view) — pedicle axis & facet](../../figures/spine/thoracic-vertebra-lateral_gray91.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **Abdomen free** = less bleeding and better lordosis — never skip it.
 - **Pedicle breach:** **medial** → dura/root/cord (thoracic medial breach = cord injury); **lateral** → poor purchase/vascular; use triggered EMG/navigation and check walls.

@@ -13,6 +13,10 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `spine/vertebral-column_gray111.png` | Vertebral column (numbering) | Gray's Anatomy 1918 (Gray111) |
 | `peripheral/brachial-plexus_gray808.png` | Brachial plexus | Gray's Anatomy 1918 (Gray808) |
 | `spine/lumbar-plexus_gray822.png` | Lumbar plexus (psoas relations) | Gray's Anatomy 1918 (Gray822) |
+| `spine/thoracic-vertebra-superior_gray90.png` | Thoracic vertebra (superior view — pedicle/TP) | Gray's Anatomy 1918 (Gray90) |
+| `spine/thoracic-vertebra-lateral_gray91.png` | Thoracic vertebra (lateral view) | Gray's Anatomy 1918 (Gray91) |
+| `spine/lumbar-vertebra-superior_gray93.png` | Lumbar vertebra (superior view — pedicle 'eye') | Gray's Anatomy 1918 (Gray93) |
+| `spine/lumbar-vertebra-lateral_gray94.png` | Lumbar vertebra (lateral view) | Gray's Anatomy 1918 (Gray94) |
 
 ## Creative Commons (attribution required)
 | File | Depicts | Source | License |

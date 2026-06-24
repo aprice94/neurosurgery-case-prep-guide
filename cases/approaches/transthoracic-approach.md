@@ -76,6 +76,17 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 
 ---
 
+
+### Bony anatomy (vertebra / pedicle detail)
+
+![Thoracic vertebra (superior view) — body, pedicles & canal (corpectomy target)](../../figures/spine/thoracic-vertebra-superior_gray90.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+![Thoracic vertebra (lateral view) — body, rib facets & disc spaces](../../figures/spine/thoracic-vertebra-lateral_gray91.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **Protect the cord's blood supply** — identify and preserve the **artery of Adamkiewicz** (CTA), ligate segmental vessels **selectively at the mid-body**; cord infarction is devastating and avoidable.
 - **No cord retraction** — reach ventral pathology from the side/front and deliver it **into the corpectomy/disc cavity, away from the cord.**

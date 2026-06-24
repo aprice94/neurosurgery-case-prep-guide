@@ -74,6 +74,17 @@ The transpsoas lateral approach reaches the **lumbar disc spaces (L1–2 through
 
 ---
 
+
+### Bony anatomy (vertebra / pedicle detail)
+
+![Lumbar vertebra (superior view) — disc/endplate & apophyseal ring target](../../figures/spine/lumbar-vertebra-superior_gray93.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
+![Lumbar vertebra (lateral view) — vertebral body & disc space for the lateral cage](../../figures/spine/lumbar-vertebra-lateral_gray94.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **The lumbar plexus is the case.** Use continuous + triggered EMG, dock in the safe zone, traverse the psoas slowly, and **respect L4–5** (plexus most anterior). Expect **transient hip-flexor/psoas weakness and anterior-thigh numbness**; warn the patient.
 - **Genitofemoral nerve** on the anterior psoas → groin/anterior-thigh dysesthesia; avoid anterior dissection on the psoas surface.
