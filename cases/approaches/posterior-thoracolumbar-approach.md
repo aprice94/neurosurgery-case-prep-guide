@@ -64,6 +64,14 @@ The posterior thoracolumbar approach is the **universal posterior corridor to th
 ## Pedicle Screw Fixation & Decompression
 📷 *[AO Surgery Reference — pedicle screws](https://surgeryreference.aofoundation.org)*
 
+![Thoracic exposure — lateral edge of the superior articular process & transverse process (entry landmarks)](../../figures/posterior-thoracolumbar/thoracic-exposure_cureus-e501.jpg)
+
+*Avila MJ, Baaj AA. *Cureus* 2016;8(3):e501 — CC BY.*
+
+![Pedicle entry point (star) just caudal to the SAP–transverse-process junction; high-speed drill marks the start](../../figures/posterior-thoracolumbar/pedicle-entry-point_cureus-e501.jpg)
+
+*Avila MJ, Baaj AA. *Cureus* 2016;8(3):e501 — CC BY.*
+
 - **Cannulate the pedicles** at the level-specific entry/trajectory (freehand, fluoro, navigation, or robotic); confirm with **triggered EMG** and imaging — respect the **medial and inferior pedicle walls.** Decorticate and graft the posterolateral gutter; place rods after decompression/interbody.
 - Decompression (laminectomy/facetectomy) and **interbody fusion** (TLIF/PLIF) proceed per the procedure guide → [TLIF](../spine-degenerative/tlif.md).
 
