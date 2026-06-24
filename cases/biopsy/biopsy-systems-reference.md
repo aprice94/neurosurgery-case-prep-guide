@@ -1,5 +1,11 @@
 # Reference: Brain Biopsy Systems and Stereotactic Platforms
 
+## Figures, Imaging & Video
+
+![Ventricular system & deep targets (stereotaxy reference)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 A comparison reference for choosing a brain biopsy technique and platform. See individual procedure files for framed, frameless, robotic, and open biopsy.
 
 ---

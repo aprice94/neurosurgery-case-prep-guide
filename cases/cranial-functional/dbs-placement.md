@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Ventricular system & deep nuclei (DBS target relations)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=deep%20brain%20stimulation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=deep+brain+stimulation+STN+targeting) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

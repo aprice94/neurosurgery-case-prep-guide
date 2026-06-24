@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Peripheral nerve plexus (nerve sheath tumor context)](../../figures/peripheral/brachial-plexus_gray808.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=peripheral%20nerve%20sheath%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=peripheral+nerve+sheath+tumor+schwannoma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

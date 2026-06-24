@@ -1,5 +1,11 @@
 # Operative Approach: Anterior Interhemispheric (Transcallosal) Approach
 
+## Figures, Imaging & Video
+
+![Ventricular system — lateral & third ventricles (interhemispheric / transcallosal corridor)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC-BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
 >
 > **Atlas chapters:** [Interhemispheric Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/interhemispheric-craniotomy) · [Transcallosal Approach to Lateral Ventricle](https://www.neurosurgicalatlas.com/volumes/intraventricular-702/transcallosal-interforniceal-approach) · [Colloid Cyst Microsurgical Resection](https://www.neurosurgicalatlas.com/volumes/intraventricular-702/colloid-cyst-resection)

@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Interior skull base / calvarium (subdural space)](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=chronic%20subdural%20haematoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=chronic+subdural+hematoma+burr+hole) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

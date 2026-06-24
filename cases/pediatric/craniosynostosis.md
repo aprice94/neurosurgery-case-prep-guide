@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Cranial base & vault — skull/suture morphology](../../figures/anatomy/skull-base-interior_gray193.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=craniosynostosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=craniosynostosis+cranial+vault+remodeling) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

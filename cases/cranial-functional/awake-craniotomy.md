@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Cerebral cortex & ventricles (eloquent-area mapping)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=awake%20craniotomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=awake+craniotomy+cortical+mapping) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

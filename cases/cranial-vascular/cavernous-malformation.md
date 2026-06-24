@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Arteries of the base of the brain (vascular context)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909, public domain — via Wikimedia Commons.*
+
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 
 **Operative technique & approach**

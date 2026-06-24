@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Ventricular system & cerebral lobes (glioma / eloquent relations)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=high%20grade%20glioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=glioma+resection+awake+mapping) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

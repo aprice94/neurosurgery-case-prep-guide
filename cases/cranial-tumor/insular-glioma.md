@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Arteries of the base — MCA & lenticulostriates (insular relations)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
+
+*Sobotta 1909, public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=insular%20glioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=insular+glioma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

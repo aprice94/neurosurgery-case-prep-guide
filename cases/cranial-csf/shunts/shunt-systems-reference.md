@@ -1,5 +1,11 @@
 # Reference: CSF Shunt Systems, Types, and Valves
 
+## Figures, Imaging & Video
+
+![Ventricular system (shunt reference)](../../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 A comprehensive reference for shunt selection. See individual procedure files for VP, VA, ventriculopleural, lumboperitoneal, subduroperitoneal, and revision techniques.
 
 ---

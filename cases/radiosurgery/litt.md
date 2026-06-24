@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Deep cerebral targets (LITT ablation sites)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=laser%20interstitial%20thermal%20therapy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=laser+interstitial+thermal+therapy+brain) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

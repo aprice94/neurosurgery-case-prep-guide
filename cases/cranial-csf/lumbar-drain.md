@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Vertebral column — lumbar spine (thecal sac / drain site)](../../figures/spine/vertebral-column_gray111.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20drain&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumbar+drain+cerebrospinal+fluid) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

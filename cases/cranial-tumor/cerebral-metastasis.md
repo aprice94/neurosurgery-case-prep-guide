@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Ventricular system & cerebral lobes (metastasis localization)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20metastasis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brain+metastasis+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

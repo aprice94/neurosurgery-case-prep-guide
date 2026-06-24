@@ -8,6 +8,11 @@
 ---
 
 ## Figures, Imaging & Video
+
+![Ventricular system & deep targets (robotic trajectory)](../../figures/anatomy/ventricles_gray734.png)
+
+*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20brain%20biopsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=robot+assisted+stereotactic+brain+biopsy+ROSA) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
