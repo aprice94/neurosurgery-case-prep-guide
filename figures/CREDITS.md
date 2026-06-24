@@ -38,6 +38,8 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `telovelar/velar-anatomy_neurosurgrev-2026.jpg` | Fourth-ventricular roof — tela & inferior medullary velum | *Neurosurg Rev* 2026 | CC BY 4.0 |
 | `presigmoid-petrosal/anterior-petrosal-kawase_frontneurol-2026.jpg` | Anterior transpetrosal (Kawase) drilling | *Front Neurol* 2026;17:1736101 | CC BY 4.0 |
 | `presigmoid-petrosal/translabyrinthine-drilling_frontneurol-2026.jpg` | Translabyrinthine/retrolabyrinthine petrous drilling | *Front Neurol* 2026;17:1736101 | CC BY 4.0 |
+| `bifrontal/ogm-crista-galli_cureus-e101289.jpg` | OGM MRI + aerated crista galli | *Cureus* 2026;18:e101289 ([PMC12889192](https://pmc.ncbi.nlm.nih.gov/articles/PMC12889192/)) | CC BY 4.0 |
+| `bifrontal/bifrontal-craniotomy-ct_cureus-e101289.jpg` | Bifrontal craniotomy outlines (CT) | *Cureus* 2026;18:e101289 | CC BY 4.0 |
 | `far-lateral/muscles-va_cureus-e31257.jpg` | Suboccipital muscle layers & vertebral artery | Payman A et al. *Cureus.* 2022;14(11):e31257 ([PMC9733796](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9733796/)) | CC BY |
 | `far-lateral/craniotomy-c1-dura_cureus-e31257.jpg` | Far-lateral craniotomy + C1, dura/VA/sinuses | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
 | `far-lateral/condylectomy-hypoglossal_cureus-e31257.jpg` | Posterior-third condylectomy & hypoglossal canal | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
