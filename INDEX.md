@@ -9,13 +9,13 @@ title: Home
   <div class="stats">
     <span class="stat"><b>107</b> guides</span>
     <span class="stat"><b>18</b> categories</span>
-    <span class="stat"><b>12</b> approach chapters</span>
+    <span class="stat"><b>14</b> approach chapters</span>
     <span class="stat">cranial · spine · vascular · functional · peds</span>
   </div>
 </div>
 
 <div class="cards">
-  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">12 detailed</span></a>
+  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">14 detailed</span></a>
   <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
   <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
   <a class="card" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
@@ -42,7 +42,9 @@ title: Home
 - [**Midline suboccipital craniotomy**](cases/approaches/midline-suboccipital-craniotomy.md) — <span class="tag-done">✅ detailed</span>
 - [**Endoscopic endonasal (transsphenoidal / transtuberculum / transclival)**](cases/approaches/endoscopic-endonasal-approach.md) — <span class="tag-done">✅ detailed</span>
 - [**Supraorbital "eyebrow" keyhole craniotomy**](cases/approaches/supraorbital-keyhole-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- Bifrontal (subfrontal) · Telovelar · Presigmoid / petrosal — <span class="tag-soon">in progress</span>
+- [**Telovelar (fourth ventricle) approach**](cases/approaches/telovelar-approach.md) — <span class="tag-done">✅ detailed</span>
+- [**Presigmoid / petrosal approaches**](cases/approaches/presigmoid-petrosal-approach.md) — <span class="tag-done">✅ detailed</span>
+- Bifrontal (subfrontal) — <span class="tag-soon">in progress</span>
 - [**Anterior cervical (Smith-Robinson) approach**](cases/approaches/anterior-cervical-approach.md) — <span class="tag-done">✅ detailed</span>
 - [**Posterior cervical approach**](cases/approaches/posterior-cervical-approach.md) — <span class="tag-done">✅ detailed</span>
 - Posterior thoracolumbar · Transpsoas (LLIF) · Anterior / transthoracic — <span class="tag-soon">in progress</span>
