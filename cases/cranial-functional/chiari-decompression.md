@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Midline suboccipital craniotomy](../approaches/midline-suboccipital-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=chiari%20i%20malformation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=chiari+decompression+duraplasty) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Interior base of skull — foramen magnum / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)

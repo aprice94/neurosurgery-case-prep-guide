@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=trigeminal%20neuralgia%20neurovascular&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=microvascular+decompression+trigeminal+neuralgia) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Interior base of skull — posterior fossa / cerebellopontine angle (CN V root entry zone)](../../figures/anatomy/skull-base-interior_gray193.png)

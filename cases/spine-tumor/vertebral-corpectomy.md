@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20metastasis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+corpectomy+metastasis+separation+surgery) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — thoracolumbar spine](../../figures/spine/vertebral-column_gray111.png)

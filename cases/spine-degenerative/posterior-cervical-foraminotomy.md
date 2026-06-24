@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20foraminal%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=posterior+cervical+foraminotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — cervical spine](../../figures/spine/vertebral-column_gray111.png)

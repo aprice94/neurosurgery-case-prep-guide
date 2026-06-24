@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Far-lateral / craniocervical approach](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=craniovertebral%20junction&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=occipitocervical+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — craniovertebral junction (occiput–C2)](../../figures/spine/vertebral-column_gray111.png)

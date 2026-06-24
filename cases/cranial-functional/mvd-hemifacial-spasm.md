@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=hemifacial%20spasm&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=microvascular+decompression+hemifacial+spasm) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Interior base of skull — posterior fossa / cerebellopontine angle (CN VII root exit zone)](../../figures/anatomy/skull-base-interior_gray193.png)

@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 - **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"sphenoid wing meningioma"*
 - **Imaging:** [Radiopaedia — sphenoid wing meningioma](https://radiopaedia.org/search?q=sphenoid%20wing%20meningioma&scope=all)

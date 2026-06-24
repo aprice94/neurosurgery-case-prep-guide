@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Supracerebellar-infratentorial approach](../approaches/supracerebellar-infratentorial-approach.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=pineal%20region%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pineal+region+tumor) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — third ventricle / pineal region](../../figures/anatomy/ventricles_gray734.png)

@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Endoscopic endonasal approach](../approaches/endoscopic-endonasal-approach.md) — detailed corridor setup, step-by-step technique & figures
+
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 - **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"endoscopic transsphenoidal pituitary adenoma"*
 - **Imaging:** [Radiopaedia — pituitary adenoma](https://radiopaedia.org/search?q=pituitary%20adenoma&scope=all)

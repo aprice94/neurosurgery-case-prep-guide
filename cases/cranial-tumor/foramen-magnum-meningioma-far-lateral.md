@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Far-lateral (transcondylar) craniotomy](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=foramen+magnum+meningioma+far+lateral) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Interior base of skull — foramen magnum / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)

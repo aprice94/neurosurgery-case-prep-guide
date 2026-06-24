@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Supraorbital keyhole craniotomy](../approaches/supraorbital-keyhole-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 - **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"tuberculum sellae meningioma"*
 - **Imaging:** [Radiopaedia — tuberculum sellae meningioma](https://radiopaedia.org/search?q=tuberculum%20sellae%20meningioma&scope=all)

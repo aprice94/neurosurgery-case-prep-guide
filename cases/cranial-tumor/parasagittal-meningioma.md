@@ -9,6 +9,9 @@
 
 ## Figures, Imaging & Video
 
+> 🧭 **Operative approach:** [Anterior interhemispheric approach](../approaches/anterior-interhemispheric-approach.md) — detailed corridor setup, step-by-step technique & figures
+
+
 ![Interior skull base — dural venous sinus grooves (parasagittal / SSS relations)](../../figures/anatomy/skull-base-interior_gray193.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

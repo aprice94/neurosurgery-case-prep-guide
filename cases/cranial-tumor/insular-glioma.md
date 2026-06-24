@@ -9,6 +9,9 @@
 
 ## Figures, Imaging & Video
 
+> 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
+
 ![Arteries of the base — MCA & lenticulostriates (insular relations)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
 *Sobotta 1909, public domain — via Wikimedia Commons.*

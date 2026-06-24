@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Far-lateral (transcondylar) craniotomy](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=glomus%20jugulare&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=jugular+foramen+tumor+glomus) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Interior base of skull — jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)

@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Presigmoid / petrosal approaches](../approaches/presigmoid-petrosal-approach.md) — detailed corridor setup, step-by-step technique & figures
+
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 - **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"petroclival meningioma"*
 - **Imaging:** [Radiopaedia — petroclival meningioma](https://radiopaedia.org/search?q=petroclival%20meningioma&scope=all)

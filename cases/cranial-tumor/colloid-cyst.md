@@ -8,6 +8,9 @@
 ---
 
 ## Figures, Imaging & Video
+
+> 🧭 **Operative approach:** [Anterior interhemispheric / transcallosal](../approaches/anterior-interhemispheric-approach.md) — detailed corridor setup, step-by-step technique & figures
+
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 - **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"colloid cyst third ventricle"*
 - **Imaging:** [Radiopaedia — colloid cyst](https://radiopaedia.org/search?q=colloid%20cyst&scope=all)

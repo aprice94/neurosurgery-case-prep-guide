@@ -9,6 +9,9 @@
 
 ## Figures, Imaging & Video
 
+> 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
+
+
 ![Ventricular system & cerebral lobes (glioma / eloquent relations)](../../figures/anatomy/ventricles_gray734.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
