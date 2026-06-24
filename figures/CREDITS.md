@@ -58,6 +58,12 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `presigmoid-petrosal/3d-temporal-bone_frontneurol-2026.jpg` | 3D temporal-bone model | *Front Neurol* 2026;17:1736101 | CC BY 4.0 |
 | `posterior-thoracolumbar/thoracic-exposure_cureus-e501.jpg` | Thoracic exposure — SAP & transverse process (pedicle entry landmarks) | Avila MJ, Baaj AA. *Cureus* 2016;8(3):e501 ([PMC4803536](https://pmc.ncbi.nlm.nih.gov/articles/PMC4803536/)) | CC BY |
 | `posterior-thoracolumbar/pedicle-entry-point_cureus-e501.jpg` | Thoracic pedicle screw entry point & drilling | Avila MJ, Baaj AA. *Cureus* 2016;8(3):e501 | CC BY |
+| `transpsoas/lateral-trajectory_cureus-e41733.jpg` | Lateral approach trajectory to lumbar discs | *Cureus* 2023;15(7):e41733 ([PMC10415110](https://pmc.ncbi.nlm.nih.gov/articles/PMC10415110/)) | CC BY 4.0 |
+| `transpsoas/retroperitoneal-anatomy_cureus-e41733.jpg` | Retroperitoneal anatomy — QL, psoas, peritoneum | *Cureus* 2023;15(7):e41733 | CC BY 4.0 |
+| `transpsoas/retroperitoneal-development_cureus-e41733.jpg` | Retroperitoneal space development technique | *Cureus* 2023;15(7):e41733 | CC BY 4.0 |
+| `transthoracic/preop-mri_cureus-e94142.jpg` | Thoracic disc (T9/10) MRI — ventral cord compression | *Cureus* 2025;17:e94142 ([PMC12594287](https://pmc.ncbi.nlm.nih.gov/articles/PMC12594287/)) | CC BY 4.0 |
+| `transthoracic/mini-thoracotomy-incision_cureus-e94142.jpg` | Mini-thoracotomy incision (lateral decubitus) | *Cureus* 2025;17:e94142 | CC BY 4.0 |
+| `transthoracic/corpectomy-cavity_cureus-e94142.jpg` | Box-shaped vertebral cavity for ventral decompression | *Cureus* 2025;17:e94142 | CC BY 4.0 |
 | `far-lateral/muscles-va_cureus-e31257.jpg` | Suboccipital muscle layers & vertebral artery | Payman A et al. *Cureus.* 2022;14(11):e31257 ([PMC9733796](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9733796/)) | CC BY |
 | `far-lateral/craniotomy-c1-dura_cureus-e31257.jpg` | Far-lateral craniotomy + C1, dura/VA/sinuses | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
 | `far-lateral/condylectomy-hypoglossal_cureus-e31257.jpg` | Posterior-third condylectomy & hypoglossal canal | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |

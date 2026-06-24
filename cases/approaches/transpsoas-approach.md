@@ -85,6 +85,21 @@ The transpsoas lateral approach reaches the **lumbar disc spaces (L1–2 through
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+
+### Retroperitoneal corridor & psoas anatomy
+
+![Lateral approach trajectory — pins targeting the L2-3/L3-4/L4-5 disc centers](../../figures/transpsoas/lateral-trajectory_cureus-e41733.jpg)
+
+*Cureus 2023;15(7):e41733 — CC BY 4.0.*
+
+![Retroperitoneal anatomy via the flap incision — quadratus lumborum, psoas & peritoneum](../../figures/transpsoas/retroperitoneal-anatomy_cureus-e41733.jpg)
+
+*Cureus 2023;15(7):e41733 — CC BY 4.0.*
+
+![Developing the retroperitoneal space — direct-lateral vs posterolateral (QL landmark) finger sweep](../../figures/transpsoas/retroperitoneal-development_cureus-e41733.jpg)
+
+*Cureus 2023;15(7):e41733 — CC BY 4.0.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **The lumbar plexus is the case.** Use continuous + triggered EMG, dock in the safe zone, traverse the psoas slowly, and **respect L4–5** (plexus most anterior). Expect **transient hip-flexor/psoas weakness and anterior-thigh numbness**; warn the patient.
 - **Genitofemoral nerve** on the anterior psoas → groin/anterior-thigh dysesthesia; avoid anterior dissection on the psoas surface.

@@ -87,6 +87,21 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+
+### Operative sequence (mini-thoracotomy example)
+
+![Preoperative MRI — paracentral T9/T10 disc compressing the cord (ventral target)](../../figures/transthoracic/preop-mri_cureus-e94142.jpg)
+
+*Cureus 2025;17:e94142 — CC BY 4.0.*
+
+![Mini-thoracotomy — skin incision parallel to the rib (lateral decubitus)](../../figures/transthoracic/mini-thoracotomy-incision_cureus-e94142.jpg)
+
+*Cureus 2025;17:e94142 — CC BY 4.0.*
+
+![Box-shaped vertebral cavity created for ventral decompression](../../figures/transthoracic/corpectomy-cavity_cureus-e94142.jpg)
+
+*Cureus 2025;17:e94142 — CC BY 4.0.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **Protect the cord's blood supply** — identify and preserve the **artery of Adamkiewicz** (CTA), ligate segmental vessels **selectively at the mid-body**; cord infarction is devastating and avoidable.
 - **No cord retraction** — reach ventral pathology from the side/front and deliver it **into the corpectomy/disc cavity, away from the cord.**
