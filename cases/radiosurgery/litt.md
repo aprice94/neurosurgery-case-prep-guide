@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=laser+interstitial+thermal+therapy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=laser+interstitial+thermal+therapy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=laser+interstitial+thermal+therapy+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=laser+interstitial+thermal+therapy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=laser+interstitial+thermal+therapy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=laser+interstitial+thermal+therapy)
+
 ![Deep cerebral targets (LITT ablation sites)](../../figures/anatomy/ventricles_gray734.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cubital+tunnel+syndrome+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cubital+tunnel+syndrome+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cubital+tunnel+syndrome+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cubital+tunnel+syndrome+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cubital+tunnel+syndrome+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cubital+tunnel+syndrome)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cubital%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ulnar+nerve+transposition+cubital+tunnel) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Brachial plexus & upper-limb nerves (ulnar nerve)](../../figures/peripheral/brachial-plexus_gray808.png)

@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=stereotactic+radiosurgery+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=stereotactic+radiosurgery+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=stereotactic+radiosurgery+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=stereotactic+radiosurgery+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=stereotactic+radiosurgery+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=stereotactic+radiosurgery)
+
 ![Skull base & intracranial targets (radiosurgery)](../../figures/anatomy/skull-base-interior_gray193.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

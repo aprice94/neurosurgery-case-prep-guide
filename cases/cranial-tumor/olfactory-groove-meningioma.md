@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=olfactory+groove+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=olfactory+groove+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=olfactory+groove+meningioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=olfactory+groove+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=olfactory+groove+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=olfactory+groove+meningioma)
+
 > 🧭 **Operative approach:** [Bifrontal craniotomy](../approaches/bifrontal-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).

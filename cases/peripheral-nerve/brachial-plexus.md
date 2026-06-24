@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=brachial+plexus+injury+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=brachial+plexus+injury+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=brachial+plexus+injury+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+injury+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=brachial+plexus+injury+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=brachial+plexus+injury)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=brachial%20plexus%20injury&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brachial+plexus+injury+nerve+transfer) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Brachial plexus — roots, trunks, divisions, cords, branches](../../figures/peripheral/brachial-plexus_gray808.png)

@@ -9,6 +9,10 @@ The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor 
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=olfactory+groove+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=olfactory+groove+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=olfactory+groove+meningioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=olfactory+groove+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=olfactory+groove+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=olfactory+groove+meningioma)
 [Neurosurgical Atlas — olfactory groove / anterior base](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma) · [Radiopaedia — olfactory groove meningioma](https://radiopaedia.org/search?q=olfactory%20groove%20meningioma&scope=all) · [PubMed Central — bifrontal craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=bifrontal+craniotomy+anterior+skull+base)
 
 ![Interior base of skull — anterior cranial fossa floor: crista galli, cribriform plate, planum, orbital roofs](../../figures/anatomy/skull-base-interior_gray193.png)

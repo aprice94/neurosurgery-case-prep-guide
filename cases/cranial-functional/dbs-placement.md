@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=deep+brain+stimulation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=deep+brain+stimulation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=deep+brain+stimulation+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=deep+brain+stimulation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=deep+brain+stimulation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=deep+brain+stimulation)
+
 ![Ventricular system & deep nuclei (DBS target relations)](../../figures/anatomy/ventricles_gray734.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

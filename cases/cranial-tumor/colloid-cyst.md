@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=colloid+cyst+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=colloid+cyst+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=colloid+cyst+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=colloid+cyst+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=colloid+cyst+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=colloid+cyst)
+
 > 🧭 **Operative approach:** [Anterior interhemispheric / transcallosal](../approaches/anterior-interhemispheric-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).

@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=thoracic+vertebral+body+tumour+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=thoracic+vertebral+body+tumour+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=thoracic+vertebral+body+tumour+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=thoracic+vertebral+body+tumour+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=thoracic+vertebral+body+tumour+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=thoracic+vertebral+body+tumour)
+
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=thoracic%20vertebral%20body%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=thoracic+corpectomy+reconstruction) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

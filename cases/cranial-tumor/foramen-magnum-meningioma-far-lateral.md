@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=foramen+magnum+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=foramen+magnum+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=foramen+magnum+meningioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=foramen+magnum+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=foramen+magnum+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=foramen+magnum+meningioma)
+
 > 🧭 **Operative approach:** [Far-lateral (transcondylar) craniotomy](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=foramen+magnum+meningioma+far+lateral) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

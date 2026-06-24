@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=lumbar+spinal+stenosis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=lumbar+spinal+stenosis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=lumbar+spinal+stenosis+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=lumbar+spinal+stenosis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=lumbar+spinal+stenosis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=lumbar+spinal+stenosis)
+
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20spinal%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumbar+laminectomy+decompression+stenosis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

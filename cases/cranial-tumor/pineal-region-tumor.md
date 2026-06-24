@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=pineal+region+tumour+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=pineal+region+tumour+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=pineal+region+tumour+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=pineal+region+tumour+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=pineal+region+tumour+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=pineal+region+tumour)
+
 > 🧭 **Operative approach:** [Supracerebellar-infratentorial approach](../approaches/supracerebellar-infratentorial-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=pineal%20region%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pineal+region+tumor) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

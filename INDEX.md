@@ -32,6 +32,8 @@ title: Home
 <h2 id="approaches">🧭 <a href="cases/approaches/">Operative Approaches</a> — detailed technique chapters</h2>
 *The granular "how it's set up" reference per surgical corridor: positioning (exact degrees, pin placement), incision landmarks, soft-tissue planes, bone work, dural opening, intradural steps, surgeon nuances & pitfalls, with figures. Pathology guides link here.*
 
+**▶ [Approach selection — decision aids](cases/approaches/approach-selection.md)** — comparison tables: which corridor for which lesion.
+
 - [**Pterional (frontotemporal) craniotomy**](cases/approaches/pterional-craniotomy.md)
 - [**Retrosigmoid (retromastoid) craniotomy**](cases/approaches/retrosigmoid-craniotomy.md)
 - [**Orbitozygomatic (FTOZ) craniotomy**](cases/approaches/orbitozygomatic-craniotomy.md)

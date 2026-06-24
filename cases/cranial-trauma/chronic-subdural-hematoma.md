@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=chronic+subdural+haematoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=chronic+subdural+haematoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=chronic+subdural+haematoma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=chronic+subdural+haematoma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=chronic+subdural+haematoma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=chronic+subdural+haematoma)
+
 ![Interior skull base / calvarium (subdural space)](../../figures/anatomy/skull-base-interior_gray193.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

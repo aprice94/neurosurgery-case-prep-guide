@@ -9,6 +9,10 @@ The orbitozygomatic craniotomy is the **maximal anterolateral skull-base exposur
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=orbitozygomatic+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=orbitozygomatic+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=orbitozygomatic+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=orbitozygomatic+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=orbitozygomatic+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=orbitozygomatic)
 [Neurosurgical Atlas — Orbitozygomatic](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/orbitozygomatic-craniotomy) · [Radiopaedia — skull base](https://radiopaedia.org/search?q=orbitozygomatic&scope=all) · [PubMed Central — orbitozygomatic](https://www.ncbi.nlm.nih.gov/pmc/?term=orbitozygomatic+approach+technique)
 
 ![Interior base of skull — anterior & middle fossae, sphenoid wing, superior/inferior orbital fissures](../../figures/anatomy/skull-base-interior_gray193.png)

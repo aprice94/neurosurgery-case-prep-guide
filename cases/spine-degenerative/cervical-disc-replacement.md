@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cervical+disc+arthroplasty+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cervical+disc+arthroplasty+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cervical+disc+arthroplasty+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+disc+arthroplasty+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cervical+disc+arthroplasty+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cervical+disc+arthroplasty)
+
 > 🧭 **Operative approach:** [Anterior cervical (Smith-Robinson) approach](../approaches/anterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20disc%20arthroplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=cervical+disc+arthroplasty) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

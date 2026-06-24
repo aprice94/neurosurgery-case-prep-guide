@@ -9,6 +9,10 @@ The petrosal (presigmoid) approaches drill **through the petrous temporal bone**
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=petroclival+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=petroclival+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=petroclival+meningioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=petroclival+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=petroclival+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=petroclival+meningioma)
 [Neurosurgical Atlas — petrosectomy](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy) · [Radiopaedia — petroclival meningioma](https://radiopaedia.org/search?q=petroclival%20meningioma&scope=all) · [PubMed Central — combined petrosal](https://www.ncbi.nlm.nih.gov/pmc/?term=combined+petrosal+approach)
 
 ![Interior base of skull — petrous temporal bone, internal acoustic meatus, clivus, jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)

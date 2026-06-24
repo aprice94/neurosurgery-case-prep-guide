@@ -9,6 +9,10 @@ The posterior cervical approach is the **midline corridor to the posterior eleme
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cervical+myelopathy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cervical+myelopathy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cervical+myelopathy+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+myelopathy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cervical+myelopathy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cervical+myelopathy)
 [AO Surgery Reference — posterior cervical](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — cervical stenosis](https://radiopaedia.org/search?q=cervical%20canal%20stenosis&scope=all) · [PubMed Central — lateral mass fixation](https://www.ncbi.nlm.nih.gov/pmc/?term=cervical+lateral+mass+screw+fixation)
 
 ![Vertebral column — cervical spine (posterior elements: laminae, facets, lateral masses)](../../figures/spine/vertebral-column_gray111.png)

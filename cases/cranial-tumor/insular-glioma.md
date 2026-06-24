@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=insular+glioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=insular+glioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=insular+glioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=insular+glioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=insular+glioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=insular+glioma)
+
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 

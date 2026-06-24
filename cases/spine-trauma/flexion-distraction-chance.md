@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=chance+fracture+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=chance+fracture+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=chance+fracture+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=chance+fracture+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=chance+fracture+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=chance+fracture)
+
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=chance%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=flexion+distraction+chance+fracture) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

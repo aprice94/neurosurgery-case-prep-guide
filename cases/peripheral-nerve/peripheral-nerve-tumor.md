@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=peripheral+nerve+sheath+tumour+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=peripheral+nerve+sheath+tumour+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=peripheral+nerve+sheath+tumour+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=peripheral+nerve+sheath+tumour+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=peripheral+nerve+sheath+tumour+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=peripheral+nerve+sheath+tumour)
+
 ![Peripheral nerve plexus (nerve sheath tumor context)](../../figures/peripheral/brachial-plexus_gray808.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=spinal+epidural+abscess+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=spinal+epidural+abscess+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=spinal+epidural+abscess+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+epidural+abscess+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=spinal+epidural+abscess+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=spinal+epidural+abscess)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20epidural%20abscess&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+epidural+abscess+management) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column / spinal canal (epidural space)](../../figures/spine/vertebral-column_gray111.png)

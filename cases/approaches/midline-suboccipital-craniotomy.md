@@ -9,6 +9,10 @@ The midline suboccipital craniotomy is the **workhorse posterior approach to the
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=posterior+fossa+tumor+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=posterior+fossa+tumor+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=posterior+fossa+tumor+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+tumor+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=posterior+fossa+tumor+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=posterior+fossa+tumor)
 [Neurosurgical Atlas — Midline Suboccipital](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/midline-suboccipital-craniotomy) · [Rhoton posterior fossa anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+posterior+fossa+surgical+anatomy) · [Radiopaedia — posterior fossa](https://radiopaedia.org/search?q=posterior+fossa+tumor&scope=all) · [PubMed Central — suboccipital craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=suboccipital+craniotomy+posterior+fossa)
 
 ![Interior base of skull — posterior fossa, foramen magnum, internal occipital protuberance, grooves for transverse and sigmoid sinuses](../../figures/anatomy/skull-base-interior_gray193.png)

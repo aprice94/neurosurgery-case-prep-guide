@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=lumboperitoneal+shunt+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=lumboperitoneal+shunt+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=lumboperitoneal+shunt+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=lumboperitoneal+shunt+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=lumboperitoneal+shunt+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=lumboperitoneal+shunt)
+
 ![Vertebral column — lumbar spine (LP shunt thecal access)](../../../figures/spine/vertebral-column_gray111.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

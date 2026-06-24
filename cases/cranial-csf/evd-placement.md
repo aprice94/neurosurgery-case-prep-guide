@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=external+ventricular+drain+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=external+ventricular+drain+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=external+ventricular+drain+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=external+ventricular+drain+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=external+ventricular+drain+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=external+ventricular+drain)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=external%20ventricular%20drain&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=external+ventricular+drain+Kocher) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — lateral & third ventricles, foramen of Monro (the EVD target)](../../figures/anatomy/ventricles_gray734.png)

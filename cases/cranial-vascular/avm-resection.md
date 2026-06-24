@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cerebral+arteriovenous+malformation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cerebral+arteriovenous+malformation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cerebral+arteriovenous+malformation+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cerebral+arteriovenous+malformation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cerebral+arteriovenous+malformation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cerebral+arteriovenous+malformation)
+
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).

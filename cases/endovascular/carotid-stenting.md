@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=carotid+artery+stenting+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=carotid+artery+stenting+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=carotid+artery+stenting+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=carotid+artery+stenting+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=carotid+artery+stenting+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=carotid+artery+stenting)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenting&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+artery+stenting) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — ICA / circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

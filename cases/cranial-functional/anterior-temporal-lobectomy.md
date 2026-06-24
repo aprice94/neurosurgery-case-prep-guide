@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=mesial+temporal+sclerosis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=mesial+temporal+sclerosis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=mesial+temporal+sclerosis+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=mesial+temporal+sclerosis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=mesial+temporal+sclerosis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=mesial+temporal+sclerosis)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=mesial%20temporal%20sclerosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+temporal+lobectomy+amygdalohippocampectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — temporal horn (amygdala/hippocampus region)](../../figures/anatomy/ventricles_gray734.png)

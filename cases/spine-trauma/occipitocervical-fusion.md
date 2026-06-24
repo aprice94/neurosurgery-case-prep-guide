@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=craniovertebral+junction+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=craniovertebral+junction+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=craniovertebral+junction+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=craniovertebral+junction+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=craniovertebral+junction+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=craniovertebral+junction)
+
 > 🧭 **Operative approach:** [Far-lateral / craniocervical approach](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=craniovertebral%20junction&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=occipitocervical+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

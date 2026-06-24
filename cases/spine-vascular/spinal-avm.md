@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=spinal+arteriovenous+malformation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=spinal+arteriovenous+malformation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=spinal+arteriovenous+malformation+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+arteriovenous+malformation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=spinal+arteriovenous+malformation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=spinal+arteriovenous+malformation)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20arteriovenous%20malformation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+arteriovenous+malformation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (intramedullary/perimedullary nidus relations)](../../figures/spine/spinal-cord-cross-section_gray664.png)

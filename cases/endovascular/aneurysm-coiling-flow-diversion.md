@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cerebral+aneurysm+coiling+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cerebral+aneurysm+coiling+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cerebral+aneurysm+coiling+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cerebral+aneurysm+coiling+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cerebral+aneurysm+coiling+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cerebral+aneurysm+coiling)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20aneurysm%20coiling&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=endovascular+coiling+flow+diversion+aneurysm) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — circle of Willis (aneurysm sites)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

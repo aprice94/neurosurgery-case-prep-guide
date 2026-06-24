@@ -2,6 +2,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=Reference%3A+CSF+Shunt+Systems%2C+Types%2C+and+Valves+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=Reference%3A+CSF+Shunt+Systems%2C+Types%2C+and+Valves+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=Reference%3A+CSF+Shunt+Systems%2C+Types%2C+and+Valves+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=Reference%3A+CSF+Shunt+Systems%2C+Types%2C+and+Valves+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=Reference%3A+CSF+Shunt+Systems%2C+Types%2C+and+Valves+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=Reference%3A+CSF+Shunt+Systems%2C+Types%2C+and+Valves)
+
 ![Ventricular system (shunt reference)](../../../figures/anatomy/ventricles_gray734.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

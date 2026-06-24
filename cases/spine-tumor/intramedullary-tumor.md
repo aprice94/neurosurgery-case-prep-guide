@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=intramedullary+spinal+cord+tumour+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=intramedullary+spinal+cord+tumour+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=intramedullary+spinal+cord+tumour+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=intramedullary+spinal+cord+tumour+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=intramedullary+spinal+cord+tumour+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=intramedullary+spinal+cord+tumour)
+
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=intramedullary%20spinal%20cord%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intramedullary+spinal+cord+tumor+ependymoma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

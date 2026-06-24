@@ -4,10 +4,11 @@ title: Operative Approaches
 
 # Operative Approaches
 
-<p class="lead">18 guides in this category.</p>
+<p class="lead">19 guides in this category.</p>
 
 - [Anterior Cervical (Smith-Robinson) Approach](anterior-cervical-approach.md)
 - [Anterior Interhemispheric (Transcallosal) Approach](anterior-interhemispheric-approach.md)
+- [🧭 Approach Selection — Decision Aids](approach-selection.md)
 - [Bifrontal (Subfrontal) Craniotomy](bifrontal-craniotomy.md)
 - [Approach: Endoscopic Endonasal (Transsphenoidal) Approach](endoscopic-endonasal-approach.md)
 - [Far-Lateral (Transcondylar) Craniotomy](far-lateral-craniotomy.md)

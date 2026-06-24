@@ -10,6 +10,10 @@ The supracerebellar infratentorial approach is the **primary corridor to the pin
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=pineal+region+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=pineal+region+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=pineal+region+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=pineal+region+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=pineal+region+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=pineal+region)
+
 ![Ventricular system — pineal region & third ventricle (supracerebellar-infratentorial target)](../../figures/anatomy/ventricles_gray734.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

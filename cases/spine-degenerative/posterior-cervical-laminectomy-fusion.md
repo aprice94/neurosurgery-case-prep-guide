@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cervical+spondylotic+myelopathy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cervical+spondylotic+myelopathy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cervical+spondylotic+myelopathy+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+spondylotic+myelopathy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cervical+spondylotic+myelopathy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cervical+spondylotic+myelopathy)
+
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20spondylotic%20myelopathy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=posterior+cervical+laminectomy+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=lateral+lumbar+interbody+fusion+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=lateral+lumbar+interbody+fusion+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=lateral+lumbar+interbody+fusion+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=lateral+lumbar+interbody+fusion+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=lateral+lumbar+interbody+fusion+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=lateral+lumbar+interbody+fusion)
+
 > 🧭 **Operative approach:** [Transpsoas lateral (LLIF/XLIF/OLIF) approach](../approaches/transpsoas-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lateral%20lumbar%20interbody%20fusion&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lateral+transpsoas+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

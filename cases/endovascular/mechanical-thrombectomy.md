@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=mechanical+thrombectomy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=mechanical+thrombectomy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=mechanical+thrombectomy+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=mechanical+thrombectomy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=mechanical+thrombectomy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=mechanical+thrombectomy)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=mechanical%20thrombectomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=mechanical+thrombectomy+large+vessel+occlusion) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — circle of Willis (LVO sites: ICA, M1, basilar)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=carotid+artery+stenosis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=carotid+artery+stenosis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=carotid+artery+stenosis+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=carotid+artery+stenosis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=carotid+artery+stenosis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=carotid+artery+stenosis)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+endarterectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — ICA / circle of Willis (collateral supply)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=subdural+hygroma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=subdural+hygroma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=subdural+hygroma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=subdural+hygroma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=subdural+hygroma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=subdural+hygroma)
+
 ![Ventricular / subdural compartments (shunt)](../../../figures/anatomy/ventricles_gray734.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

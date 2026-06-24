@@ -33,11 +33,17 @@
 
   {% unless page.url == "/" %}
   <nav class="subbar" aria-label="Breadcrumb">
-    <div class="wrap breadcrumb">
-      <a href="{{ '/' | relative_url }}">🏠 Home</a>
-      {% assign segs = page.path | split: '/' %}
-      {% if segs.size > 1 %}<span class="sep">›</span>{% if segs[0] == "cases" %}<a class="crumb" href="{{ '/cases/' | append: segs[1] | append: '/' | relative_url }}">{{ segs[1] | replace: '-', ' ' }}</a>{% else %}<span class="crumb">{{ segs[1] | replace: '-', ' ' }}</span>{% endif %}{% endif %}
-      {% if page.title %}<span class="sep">›</span><span class="crumb crumb-current">{{ page.title }}</span>{% endif %}
+    <div class="wrap subbar-row">
+      <div class="breadcrumb">
+        <a href="{{ '/' | relative_url }}">🏠 Home</a>
+        {% assign segs = page.path | split: '/' %}
+        {% if segs.size > 1 %}<span class="sep">›</span>{% if segs[0] == "cases" %}<a class="crumb" href="{{ '/cases/' | append: segs[1] | append: '/' | relative_url }}">{{ segs[1] | replace: '-', ' ' }}</a>{% else %}<span class="crumb">{{ segs[1] | replace: '-', ' ' }}</span>{% endif %}{% endif %}
+        {% if page.title %}<span class="sep">›</span><span class="crumb crumb-current">{{ page.title }}</span>{% endif %}
+      </div>
+      <div class="subbar-actions">
+        <button class="subbar-btn" type="button" onclick="window.print()" title="Print or save this guide as a PDF">🖨️ PDF</button>
+        <a class="subbar-btn" href="{{ site.github_repo }}/edit/main/{{ page.path }}" target="_blank" rel="noopener" title="Suggest an edit on GitHub">✏️ Edit</a>
+      </div>
     </div>
   </nav>
   {% endunless %}
@@ -46,12 +52,15 @@
     <article class="prose">
       {{ content }}
     </article>
+    {% if page.url contains "/cases/" and page.name != "index.md" %}
+    <nav id="related" class="related" aria-label="Related guides" data-cat="{{ page.path | split: '/' | slice: 1,1 | first | replace: '-',' ' }}" data-url="{{ page.url | relative_url }}"></nav>
+    {% endif %}
   </main>
 
   <footer class="site-footer">
     <div class="wrap">
       <p><strong>⚠️ Educational reference — not medical advice.</strong> Always verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before applying to a patient.</p>
-      <p class="muted">Neurosurgery Case Prep Guide · <a href="{{ site.github_repo }}" target="_blank" rel="noopener">source on GitHub</a></p>
+      <p class="muted">Neurosurgery Case Prep Guide · <a href="{{ site.github_repo }}" target="_blank" rel="noopener">source on GitHub</a>{% unless page.url == "/" %} · <a href="{{ site.github_repo }}/edit/main/{{ page.path }}" target="_blank" rel="noopener">✏️ suggest an edit</a>{% endunless %} · last updated {{ site.time | date: "%b %Y" }}</p>
     </div>
   </footer>
 
@@ -153,6 +162,20 @@
     var t; box.addEventListener('input', function () { clearTimeout(t); var q = this.value.trim(); t = setTimeout(function () { render(q); }, 110); });
     document.addEventListener('click', function (e) { if (res && !res.contains(e.target) && e.target !== box) res.hidden = true; });
     box.addEventListener('keydown', function (e) { if (e.key === 'Escape') { res.hidden = true; box.blur(); } });
+  })();
+  </script>
+
+  <script>
+  (function () {
+    var box = document.getElementById('related'); if (!box) return;
+    var cat = box.getAttribute('data-cat'), cur = box.getAttribute('data-url');
+    fetch('{{ "/assets/search-index.json" | relative_url }}').then(function (r) { return r.json(); }).then(function (data) {
+      var rel = data.filter(function (d) { return d.c === cat && d.u !== cur; });
+      if (!rel.length) return;
+      function esc(s){ return (s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+      var items = rel.slice(0, 8).map(function (d) { return '<a href="' + d.u + '">' + esc(d.t.replace(/^(Case Prep:|Operative Approach:)\s*/, '')) + '</a>'; }).join('');
+      box.innerHTML = '<h2>Related guides</h2><div class="related-grid">' + items + '</div>';
+    }).catch(function () {});
   })();
   </script>
 </body>

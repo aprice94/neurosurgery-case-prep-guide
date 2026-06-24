@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=depressed+skull+fracture+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=depressed+skull+fracture+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=depressed+skull+fracture+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=depressed+skull+fracture+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=depressed+skull+fracture+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=depressed+skull+fracture)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
 
 **Operative technique & approach**

@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=petroclival+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=petroclival+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=petroclival+meningioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=petroclival+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=petroclival+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=petroclival+meningioma)
+
 > 🧭 **Operative approach:** [Presigmoid / petrosal approaches](../approaches/presigmoid-petrosal-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).

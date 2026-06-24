@@ -9,6 +9,10 @@ The transpsoas lateral approach reaches the **lumbar disc spaces (L1–2 through
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=lateral+lumbar+interbody+fusion+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=lateral+lumbar+interbody+fusion+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=lateral+lumbar+interbody+fusion+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=lateral+lumbar+interbody+fusion+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=lateral+lumbar+interbody+fusion+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=lateral+lumbar+interbody+fusion)
 [AO Surgery Reference — lateral approach](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — XLIF/OLIF](https://radiopaedia.org/search?q=lateral%20interbody%20fusion&scope=all) · [PubMed Central — transpsoas safe zone](https://www.ncbi.nlm.nih.gov/pmc/?term=transpsoas+lumbar+plexus+safe+zone)
 
 ![Lumbar plexus within/behind the psoas major — the structure at risk in the transpsoas corridor](../../figures/spine/lumbar-plexus_gray822.png)

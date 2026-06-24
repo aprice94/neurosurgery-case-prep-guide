@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=shunt+malfunction+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=shunt+malfunction+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=shunt+malfunction+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=shunt+malfunction+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=shunt+malfunction+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=shunt+malfunction)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=shunt%20malfunction&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=shunt+revision+malfunction) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
 
 ![Ventricular system — proximal (ventricular) catheter relations](../../../figures/anatomy/ventricles_gray734.png)

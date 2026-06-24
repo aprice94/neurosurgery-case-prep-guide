@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cerebral+cavernous+malformation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cerebral+cavernous+malformation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cerebral+cavernous+malformation+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cerebral+cavernous+malformation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cerebral+cavernous+malformation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cerebral+cavernous+malformation)
+
 ![Arteries of the base of the brain (vascular context)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
 *Sobotta 1909, public domain — via Wikimedia Commons.*

@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=stereotactic+brain+biopsy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=stereotactic+brain+biopsy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=stereotactic+brain+biopsy+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=stereotactic+brain+biopsy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=stereotactic+brain+biopsy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=stereotactic+brain+biopsy)
+
 ![Ventricular system & deep targets (robotic trajectory)](../../figures/anatomy/ventricles_gray734.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

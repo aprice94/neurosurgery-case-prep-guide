@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=thoracic+disc+herniation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=thoracic+disc+herniation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=thoracic+disc+herniation+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=thoracic+disc+herniation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=thoracic+disc+herniation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=thoracic+disc+herniation)
+
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=thoracic%20disc%20herniation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=thoracic+discectomy+transpedicular) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

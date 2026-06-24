@@ -9,6 +9,10 @@ The telovelar approach reaches the **entire fourth ventricle through the cerebel
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=fourth+ventricle+tumour+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=fourth+ventricle+tumour+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=fourth+ventricle+tumour+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=fourth+ventricle+tumour+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=fourth+ventricle+tumour+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=fourth+ventricle+tumour)
 [Neurosurgical Atlas — posterior fossa](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/suboccipital-craniotomy) · [Rhoton fourth-ventricle anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+fourth+ventricle+cerebellomedullary+fissure) · [Radiopaedia — medulloblastoma/ependymoma](https://radiopaedia.org/search?q=fourth%20ventricle%20tumour&scope=all)
 
 ![Ventricular system — the fourth ventricle and its roof (telovelar target)](../../figures/anatomy/ventricles_gray734.png)

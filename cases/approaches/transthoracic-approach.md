@@ -9,6 +9,10 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=thoracic+spine+tumour+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=thoracic+spine+tumour+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=thoracic+spine+tumour+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=thoracic+spine+tumour+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=thoracic+spine+tumour+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=thoracic+spine+tumour)
 [AO Surgery Reference — anterior thoracic](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracic disc/tumour](https://radiopaedia.org/search?q=thoracic%20disc%20calcified&scope=all) · [PubMed Central — transthoracic corpectomy](https://www.ncbi.nlm.nih.gov/pmc/?term=transthoracic+thoracic+corpectomy)
 
 ![Vertebral column — thoracic spine (anterior vertebral bodies, rib heads)](../../figures/spine/vertebral-column_gray111.png)

@@ -9,6 +9,10 @@ The far-lateral craniotomy is the **posterolateral corridor to the ventral and v
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=foramen+magnum+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=foramen+magnum+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=foramen+magnum+meningioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=foramen+magnum+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=foramen+magnum+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=foramen+magnum+meningioma)
 [Neurosurgical Atlas — Transcondylar](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach) · [Rhoton CCJ anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+far+lateral+transcondylar+anatomy) · [Radiopaedia — foramen magnum](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central — far lateral](https://www.ncbi.nlm.nih.gov/pmc/?term=far+lateral+transcondylar+approach)
 
 ![Interior base of skull — foramen magnum, occipital condyle, hypoglossal canal, jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)

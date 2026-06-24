@@ -262,6 +262,22 @@ html { scroll-padding-top: 84px; }
 @media (max-width: 760px) { .search-wrap { max-width: 230px; margin: 0 8px; } }
 @media (max-width: 520px) { .brand-text { display: none; } .search-wrap { max-width: none; } .site-nav a:not(.nav-cta) { display: none; } }
 
+/* ---------- Subbar actions (Print / Edit) ---------- */
+.subbar-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 7px 0; }
+.subbar .breadcrumb { padding: 0; }
+.subbar-actions { display: flex; gap: 8px; flex: 0 0 auto; }
+.subbar-btn { font-size: .82rem; font-weight: 700; color: var(--primary-d); background: rgba(13,124,134,.10); border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; cursor: pointer; text-decoration: none; line-height: 1.7; }
+.subbar-btn:hover { background: rgba(13,124,134,.2); }
+[data-theme="dark"] .subbar-btn { color: var(--primary-d); background: rgba(79,209,197,.12); }
+
+/* ---------- Related guides ---------- */
+.related { max-width: var(--maxw); margin: 10px auto 0; padding: 0 22px; }
+.related h2 { font-size: 1.2rem; font-weight: 800; color: var(--ink); border: none; display: block; margin: .3em 0 .7em; }
+.related-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
+.related-grid a { display: block; background: var(--card); border: 1px solid var(--line); border-left: 3px solid var(--primary); border-radius: 9px; padding: 11px 14px; text-decoration: none; color: var(--ink); font-weight: 600; font-size: .92rem; box-shadow: var(--shadow); transition: transform .12s, border-color .12s; }
+.related-grid a:hover { transform: translateY(-2px); border-color: var(--primary); color: var(--primary-d); }
+@media print { .subbar-actions, .related { display: none !important; } }
+
 /* ---------- Print: clean single-column guide for the OR ---------- */
 @media print {
   .site-header, .subbar, .site-footer, .to-top, .theme-toggle, .filter-box, .toc, #lightbox, .hanchor, .cards { display: none !important; }

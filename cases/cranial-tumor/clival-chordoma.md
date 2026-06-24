@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=clival+chordoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=clival+chordoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=clival+chordoma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=clival+chordoma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=clival+chordoma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=clival+chordoma)
+
 > 🧭 **Operative approach:** [Endoscopic endonasal approach](../approaches/endoscopic-endonasal-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=clival%20chordoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=clival+chordoma+endoscopic) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)

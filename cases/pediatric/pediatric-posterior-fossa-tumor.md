@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=medulloblastoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=medulloblastoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=medulloblastoma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=medulloblastoma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=medulloblastoma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=medulloblastoma)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=medulloblastoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pediatric+posterior+fossa+tumor+telovelar) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — fourth ventricle (telovelar approach target)](../../figures/anatomy/ventricles_gray734.png)

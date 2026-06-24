@@ -9,6 +9,10 @@ The posterior thoracolumbar approach is the **universal posterior corridor to th
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=thoracolumbar+fracture+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=thoracolumbar+fracture+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=thoracolumbar+fracture+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=thoracolumbar+fracture+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=thoracolumbar+fracture+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=thoracolumbar+fracture)
 [AO Surgery Reference — posterior thoracolumbar](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — pedicle screws](https://radiopaedia.org/search?q=pedicle%20screw&scope=all) · [PubMed Central — Wiltse approach](https://www.ncbi.nlm.nih.gov/pmc/?term=wiltse+paraspinal+approach)
 
 ![Vertebral column — thoracolumbar spine (posterior elements & pedicles)](../../figures/spine/vertebral-column_gray111.png)

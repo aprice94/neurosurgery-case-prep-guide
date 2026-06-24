@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=decompressive+craniectomy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=decompressive+craniectomy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=decompressive+craniectomy+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=decompressive+craniectomy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=decompressive+craniectomy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=decompressive+craniectomy)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
 
 **Operative technique**

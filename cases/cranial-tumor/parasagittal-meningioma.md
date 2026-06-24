@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=parasagittal+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=parasagittal+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=parasagittal+meningioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=parasagittal+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=parasagittal+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=parasagittal+meningioma)
+
 > 🧭 **Operative approach:** [Anterior interhemispheric approach](../approaches/anterior-interhemispheric-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 

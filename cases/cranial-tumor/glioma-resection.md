@@ -9,6 +9,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=high+grade+glioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=high+grade+glioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=high+grade+glioma+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=high+grade+glioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=high+grade+glioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=high+grade+glioma)
+
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 

@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=ventriculoperitoneal+shunt+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=ventriculoperitoneal+shunt+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=ventriculoperitoneal+shunt+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=ventriculoperitoneal+shunt+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=ventriculoperitoneal+shunt+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=ventriculoperitoneal+shunt)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=ventriculoperitoneal%20shunt&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ventriculoperitoneal+shunt) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — lateral ventricle / frontal horn (proximal catheter target)](../../figures/anatomy/ventricles_gray734.png)

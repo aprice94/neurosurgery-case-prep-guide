@@ -2,6 +2,10 @@
 
 ## Figures, Imaging & Video
 
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=Reference%3A+Brain+Biopsy+Systems+and+Stereotactic+Platforms+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=Reference%3A+Brain+Biopsy+Systems+and+Stereotactic+Platforms+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=Reference%3A+Brain+Biopsy+Systems+and+Stereotactic+Platforms+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=Reference%3A+Brain+Biopsy+Systems+and+Stereotactic+Platforms+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=Reference%3A+Brain+Biopsy+Systems+and+Stereotactic+Platforms+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=Reference%3A+Brain+Biopsy+Systems+and+Stereotactic+Platforms)
+
 ![Ventricular system & deep targets (stereotaxy reference)](../../figures/anatomy/ventricles_gray734.png)
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*

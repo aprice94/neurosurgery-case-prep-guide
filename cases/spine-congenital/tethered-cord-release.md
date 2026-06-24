@@ -8,6 +8,10 @@
 ---
 
 ## Figures, Imaging & Video
+
+**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=tethered+spinal+cord+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=tethered+spinal+cord+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=tethered+spinal+cord+%22neurosurgical+focus%22+video)
+
+**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=tethered+spinal+cord+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=tethered+spinal+cord+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=tethered+spinal+cord)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=tethered%20spinal%20cord&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=tethered+cord+release+filum) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (conus / cauda equina / filum region)](../../figures/spine/spinal-cord-cross-section_gray664.png)
