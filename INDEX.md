@@ -23,6 +23,24 @@ title: Home
   <a class="card" href="#resources"><span class="ic">📚</span><span class="t">Resources &amp; Template</span><span class="d">100 resources · media sources · blank template</span><span class="n">toolkit</span></a>
 </div>
 
+<h2 id="start-here" class="start-here">⭐ Start here — high-yield, bread-and-butter cases</h2>
+<div class="quicklinks">
+  <a href="cases/cranial-trauma/chronic-subdural-hematoma.md">Chronic SDH</a>
+  <a href="cases/cranial-csf/evd-placement.md">EVD placement</a>
+  <a href="cases/cranial-csf/vp-shunt.md">VP shunt</a>
+  <a href="cases/cranial-trauma/decompressive-craniectomy-tbi.md">Decompressive craniectomy</a>
+  <a href="cases/spine-degenerative/acdf.md">ACDF</a>
+  <a href="cases/spine-degenerative/lumbar-microdiscectomy.md">Lumbar microdiscectomy</a>
+  <a href="cases/spine-degenerative/lumbar-laminectomy.md">Lumbar laminectomy</a>
+  <a href="cases/cranial-tumor/glioma-resection.md">Glioma resection</a>
+  <a href="cases/cranial-tumor/cerebral-metastasis.md">Brain metastasis</a>
+  <a href="cases/cranial-vascular/mca-aneurysm-clipping.md">MCA aneurysm clipping</a>
+  <a href="cases/cranial-tumor/vestibular-schwannoma.md">Vestibular schwannoma</a>
+  <a href="cases/cranial-functional/chiari-decompression.md">Chiari decompression</a>
+  <a href="cases/cranial-functional/dbs-placement.md">DBS placement</a>
+  <a href="cases/cranial-tumor/pituitary-adenoma-transsphenoidal.md">Pituitary (transsphenoidal)</a>
+</div>
+
 > ⚠️ **Educational reference — not medical advice.** Summarizes standard teaching; verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before any patient care. See the [full disclaimer](DISCLAIMER.md).
 
 <input id="guide-filter" class="filter-box" type="search" placeholder="🔍  Filter every guide by name… (try: aneurysm, retrosigmoid, lumbar, shunt)" autocomplete="off">
