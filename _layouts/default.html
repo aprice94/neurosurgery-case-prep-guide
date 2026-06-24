@@ -27,9 +27,14 @@
   </header>
 
   {% unless page.url == "/" %}
-  <div class="subbar">
-    <div class="wrap"><a href="{{ '/' | relative_url }}">← Back to all guides</a></div>
-  </div>
+  <nav class="subbar" aria-label="Breadcrumb">
+    <div class="wrap breadcrumb">
+      <a href="{{ '/' | relative_url }}">🏠 Home</a>
+      {% assign segs = page.path | split: '/' %}
+      {% if segs.size > 1 %}<span class="sep">›</span><span class="crumb">{{ segs[1] | replace: '-', ' ' }}</span>{% endif %}
+      {% if page.title %}<span class="sep">›</span><span class="crumb crumb-current">{{ page.title }}</span>{% endif %}
+    </div>
+  </nav>
   {% endunless %}
 
   <main class="wrap content">
@@ -71,6 +76,14 @@
         var h1 = article.querySelector('h1');
         if (h1) h1.insertAdjacentElement('afterend', d); else article.insertBefore(d, article.firstChild);
       }
+    }
+
+    // Heading anchor links (hover to reveal)
+    if (article) {
+      article.querySelectorAll('h2[id], h3[id]').forEach(function (h) {
+        var a = document.createElement('a'); a.className = 'hanchor'; a.href = '#' + h.id; a.textContent = '#'; a.setAttribute('aria-label', 'Link to this section');
+        h.appendChild(a);
+      });
     }
 
     // Click-to-zoom lightbox for every figure

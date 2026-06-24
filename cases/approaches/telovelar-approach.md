@@ -81,6 +81,13 @@ The telovelar approach reaches the **entire fourth ventricle through the cerebel
 
 ---
 
+
+### Further operative anatomy & technique
+
+![Normal fourth ventricle — telovelar, lateral-recess, and extended approach variants](../../figures/telovelar/normal-4v-variants_neurosurgrev-2026.jpg)
+
+*Telovelar approach reshaped, Neurosurg Rev 2026 — CC BY 4.0.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **Spare the vermis** — that is the entire point; the telovelar route avoids the vermian-split contribution to **cerebellar mutism**, though mutism can still occur with **dentate/vermian/brainstem** injury — counsel families (children).
 - **The floor is sacred.** Tumor adherent to the floor is left rather than chased; never use fixed retraction on the rhomboid fossa; respect the **facial colliculus** and lower-CN trigones (floor mapping) — injury causes CN palsies, dysphagia, and hemodynamic instability.

@@ -113,6 +113,21 @@ The far-lateral craniotomy is the **posterolateral corridor to the ventral and v
 
 ---
 
+
+### Further operative anatomy & technique
+
+![C1 (atlas) anatomy — transverse foramina, posterior arch, and the vertebral-artery groove](../../figures/far-lateral/c1-anatomy_cureus-e31257.jpg)
+
+*Payman A et al., Cureus 2022;14(11):e31257 — CC BY 4.0.*
+
+![Craniocervical junction after muscle dissection — occipital condyle–C1 articulation & VA](../../figures/far-lateral/ccj-condyle_cureus-e31257.jpg)
+
+*Payman A et al., Cureus 2022;14(11):e31257 — CC BY 4.0.*
+
+![Far-lateral modifications — supracondylar (jugular tubercle) and paracondylar extensions](../../figures/far-lateral/modifications_cureus-e31257.jpg)
+
+*Payman A et al., Cureus 2022;14(11):e31257 — CC BY 4.0.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **The vertebral artery is the case.** Identify V3 **early** in the suboccipital triangle on the superior C1 arch, dissect on bone, and control the venous plexus deliberately. Know the **VA dominance and PICA origin (including a rare extradural PICA)** from the CTA before you start.
 - **Hypoglossal canal = stop sign.** It is the anteromedial limit of condyle drilling; breaching it risks **CN XII palsy** (tongue deviation, dysarthria).

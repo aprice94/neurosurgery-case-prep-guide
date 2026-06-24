@@ -130,6 +130,17 @@ Drill the remaining **lateral sphenoid wing, orbital roof irregularities, and th
 
 ---
 
+
+### Further operative anatomy & technique
+
+![Three-piece FTOZ — pterional flap, zygomatic arch cut, and the orbital bar](../../figures/orbitozygomatic/three-piece-ftoz_cureus-e6053.jpg)
+
+*Rodriguez Rubio R et al., Cureus 2019;11(11):e6053 — CC BY.*
+
+![Mini-orbitozygomatic — MacCarty keyhole craniotomy with a limited orbital bar](../../figures/orbitozygomatic/mini-oz_cureus-e6053.jpg)
+
+*Rodriguez Rubio R et al., Cureus 2019;11(11):e6053 — CC BY.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **Protect the periorbita** — a tear lets orbital fat herniate into the field and predisposes to enophthalmos; repair and support the roof at closure.
 - **Reconstruct the orbital rim/roof precisely** — the two feared cosmetic/functional sequelae are **temporal hollowing** (temporalis handling) and **enophthalmos/pulsatile exophthalmos** (roof/periorbita).

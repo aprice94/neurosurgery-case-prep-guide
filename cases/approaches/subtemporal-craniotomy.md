@@ -105,6 +105,17 @@ The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the t
 
 ---
 
+
+### Further operative anatomy & technique
+
+![Petrous carotid canal, GSPN, and the IAC within the middle-fossa floor](../../figures/subtemporal/carotid-canal-gspn_frontsurg-2023.jpg)
+
+*Comprehensive microsurgical anatomy of the middle cranial fossa, Part I. Front Surg 2023;10:1132774 — CC BY 4.0.*
+
+![Middle-fossa dural anatomy — Meckel's cave, cavernous sinus, and dural rings](../../figures/subtemporal/dural-meckel_frontsurg-2023.jpg)
+
+*Comprehensive microsurgical anatomy of the middle cranial fossa, Part I. Front Surg 2023;10:1132774 — CC BY 4.0.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **The vein of Labbé is sacrosanct.** Plan the corridor anterior to it; if posterior reach is needed, mobilize rather than divide. Venous infarction is the signature catastrophic complication.
 - **Take the bone to the floor.** The commonest technical error is leaving an inferior bony lip that converts a gravity approach into a retraction approach.

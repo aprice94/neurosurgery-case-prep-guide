@@ -90,6 +90,13 @@ The petrosal (presigmoid) approaches drill **through the petrous temporal bone**
 
 ---
 
+
+### Further operative anatomy & technique
+
+![3D temporal-bone model — labyrinth, cochlea, jugular bulb, sigmoid sinus](../../figures/presigmoid-petrosal/3d-temporal-bone_frontneurol-2026.jpg)
+
+*Front Neurol 2026;17:1736101 — CC BY 4.0.*
+
 ## Nuances & Pitfalls (surgeon-level)
 - **Match the rung to the hearing/facial reality.** Don't sacrifice a hearing ear or risk the facial nerve for exposure you don't need — retrolabyrinthine if hearing is serviceable; escalate only as the lesion demands.
 - **Vein of Labbé and the temporal lobe** — positioning and tentorial work must protect Labbé; its loss causes temporal venous infarction/aphasia (dominant side).

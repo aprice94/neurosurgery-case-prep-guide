@@ -146,6 +146,17 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 
 ---
 
+
+### Further operative anatomy & technique
+
+![Osseous anatomy of the retrosigmoid region — lateral skull, posterior fossa, petrous face](../../figures/retrosigmoid/bony-anatomy_cureus-e16068.jpg)
+
+*Belykh E et al., Cureus 2021;13(7):e16068 — CC BY 4.0.*
+
+![Standard vs extended retrosigmoid corridors (sigmoid/transverse sinus skeletonization)](../../figures/retrosigmoid/corridors_cureus-e16068.jpg)
+
+*Belykh E et al., Cureus 2021;13(7):e16068 — CC BY 4.0.*
+
 ## Nuances & Pitfalls (surgeon-level)
 
 - **Don't trust the asterion alone.** Its overlap with the TSJ is variable; confirm sinus position with navigation, the suture pattern, and direct exposure before committing the superolateral bone cut.

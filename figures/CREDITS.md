@@ -41,6 +41,17 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `presigmoid-petrosal/translabyrinthine-drilling_frontneurol-2026.jpg` | Translabyrinthine/retrolabyrinthine petrous drilling | *Front Neurol* 2026;17:1736101 | CC BY 4.0 |
 | `bifrontal/ogm-crista-galli_cureus-e101289.jpg` | OGM MRI + aerated crista galli | *Cureus* 2026;18:e101289 ([PMC12889192](https://pmc.ncbi.nlm.nih.gov/articles/PMC12889192/)) | CC BY 4.0 |
 | `bifrontal/bifrontal-craniotomy-ct_cureus-e101289.jpg` | Bifrontal craniotomy outlines (CT) | *Cureus* 2026;18:e101289 | CC BY 4.0 |
+| `retrosigmoid/bony-anatomy_cureus-e16068.jpg` | Osseous anatomy of the retrosigmoid region | Belykh E et al. *Cureus.* 2021;13(7):e16068 | CC BY 4.0 |
+| `retrosigmoid/corridors_cureus-e16068.jpg` | Standard vs extended retrosigmoid corridors | Belykh E et al. *Cureus.* 2021;13(7):e16068 | CC BY 4.0 |
+| `far-lateral/c1-anatomy_cureus-e31257.jpg` | C1 (atlas) anatomy & vertebral-artery groove | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY 4.0 |
+| `far-lateral/ccj-condyle_cureus-e31257.jpg` | CCJ after muscle dissection — condyle/VA | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY 4.0 |
+| `far-lateral/modifications_cureus-e31257.jpg` | Supracondylar/paracondylar modifications | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY 4.0 |
+| `orbitozygomatic/three-piece-ftoz_cureus-e6053.jpg` | Three-piece FTOZ osteotomy | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 | CC BY |
+| `orbitozygomatic/mini-oz_cureus-e6053.jpg` | Mini-orbitozygomatic (MacCarty keyhole) | Rodriguez Rubio R et al. *Cureus.* 2019;11(11):e6053 | CC BY |
+| `subtemporal/carotid-canal-gspn_frontsurg-2023.jpg` | Petrous carotid canal, GSPN, IAC | *Front Surg.* 2023;10:1132774 | CC BY 4.0 |
+| `subtemporal/dural-meckel_frontsurg-2023.jpg` | Middle-fossa dural anatomy / Meckel's cave | *Front Surg.* 2023;10:1132774 | CC BY 4.0 |
+| `telovelar/normal-4v-variants_neurosurgrev-2026.jpg` | Normal fourth-ventricle approach variants | *Neurosurg Rev* 2026 | CC BY 4.0 |
+| `presigmoid-petrosal/3d-temporal-bone_frontneurol-2026.jpg` | 3D temporal-bone model | *Front Neurol* 2026;17:1736101 | CC BY 4.0 |
 | `far-lateral/muscles-va_cureus-e31257.jpg` | Suboccipital muscle layers & vertebral artery | Payman A et al. *Cureus.* 2022;14(11):e31257 ([PMC9733796](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9733796/)) | CC BY |
 | `far-lateral/craniotomy-c1-dura_cureus-e31257.jpg` | Far-lateral craniotomy + C1, dura/VA/sinuses | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
 | `far-lateral/condylectomy-hypoglossal_cureus-e31257.jpg` | Posterior-third condylectomy & hypoglossal canal | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |

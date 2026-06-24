@@ -225,3 +225,36 @@ body {
 [data-theme="dark"] .card .n { background: #16323a; color: #7fe3da; }
 [data-theme="dark"] .card.approaches .n { background: #142740; color: #9cc8f5; }
 [data-theme="dark"] .prose img { background: #fff; }   /* keep medical figures on white */
+
+/* ---------- Breadcrumb ---------- */
+.breadcrumb { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding-top: 9px; padding-bottom: 9px; font-size: .9rem; }
+.breadcrumb a { color: var(--primary-d); text-decoration: none; font-weight: 600; border: none; }
+.breadcrumb a:hover { text-decoration: underline; }
+.breadcrumb .sep { color: var(--muted); }
+.breadcrumb .crumb { color: var(--muted); text-transform: capitalize; }
+.breadcrumb .crumb-current { color: var(--ink); font-weight: 700; text-transform: none; }
+
+/* ---------- Hover section-anchor links ---------- */
+.hanchor { opacity: 0; margin-left: .4em; color: var(--muted); text-decoration: none; font-weight: 700; border: none; transition: opacity .15s; }
+.prose h2:hover .hanchor, .prose h3:hover .hanchor { opacity: .55; }
+.hanchor:hover { opacity: 1 !important; color: var(--primary); }
+
+/* ---------- Refinements ---------- */
+.prose > p, .prose > ul, .prose > ol { max-width: 74ch; }
+.prose blockquote { box-shadow: var(--shadow); }
+.prose blockquote:first-of-type { background: linear-gradient(0deg, var(--note-bg), var(--note-bg)); }
+.card:focus-visible, .site-nav a:focus-visible, .filter-box:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+html { scroll-padding-top: 84px; }
+
+/* ---------- Print: clean single-column guide for the OR ---------- */
+@media print {
+  .site-header, .subbar, .site-footer, .to-top, .theme-toggle, .filter-box, .toc, #lightbox, .hanchor, .cards { display: none !important; }
+  body { background: #fff; color: #000; }
+  .content { padding: 0; }
+  .prose { box-shadow: none; border: none; border-radius: 0; padding: 0; max-width: 100%; }
+  .prose a { color: #000; border: none; }
+  .prose h2 { border-color: #000; }
+  .prose img { box-shadow: none; border: 1px solid #bbb; page-break-inside: avoid; max-height: 9cm; }
+  .prose h1, .prose h2, .prose h3 { page-break-after: avoid; }
+  .prose table, .prose blockquote { page-break-inside: avoid; }
+}
