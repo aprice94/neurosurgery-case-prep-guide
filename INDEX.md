@@ -29,7 +29,7 @@ title: Home
 
 ---
 
-<h2 id="approaches">🧭 Operative Approaches — detailed technique chapters</h2>
+<h2 id="approaches">🧭 <a href="cases/approaches/">Operative Approaches</a> — detailed technique chapters</h2>
 *The granular "how it's set up" reference per surgical corridor: positioning (exact degrees, pin placement), incision landmarks, soft-tissue planes, bone work, dural opening, intradural steps, surgeon nuances & pitfalls, with figures. Pathology guides link here.*
 
 - [**Pterional (frontotemporal) craniotomy**](cases/approaches/pterional-craniotomy.md)
@@ -60,7 +60,7 @@ title: Home
 
 <h2 id="cranial">🧠 Cranial</h2>
 
-### Vascular (8)
+### [Vascular (8)](cases/cranial-vascular/)
 - [MCA aneurysm clipping](cases/cranial-vascular/mca-aneurysm-clipping.md)
 - [AComA aneurysm clipping](cases/cranial-vascular/acomm-aneurysm-clipping.md)
 - [PComA aneurysm clipping](cases/cranial-vascular/pcomm-aneurysm-clipping.md)
@@ -70,7 +70,7 @@ title: Home
 - [EC-IC bypass (STA-MCA)](cases/cranial-vascular/ec-ic-bypass.md)
 - [Decompressive craniectomy (malignant MCA)](cases/cranial-vascular/decompressive-craniectomy-stroke.md)
 
-### Tumor / Skull Base (19)
+### [Tumor / Skull Base (19)](cases/cranial-tumor/)
 - [Convexity meningioma](cases/cranial-tumor/convexity-meningioma.md)
 - [Parasagittal / falx meningioma](cases/cranial-tumor/parasagittal-meningioma.md)
 - [Sphenoid wing meningioma](cases/cranial-tumor/sphenoid-wing-meningioma.md)
@@ -91,7 +91,7 @@ title: Home
 - [Foramen magnum meningioma (far lateral)](cases/cranial-tumor/foramen-magnum-meningioma-far-lateral.md)
 - [Jugular foramen tumor (glomus / schwannoma)](cases/cranial-tumor/jugular-foramen-tumor.md)
 
-### Trauma (6)
+### [Trauma (6)](cases/cranial-trauma/)
 - [Acute subdural hematoma](cases/cranial-trauma/acute-subdural-hematoma.md)
 - [Chronic subdural hematoma](cases/cranial-trauma/chronic-subdural-hematoma.md)
 - [Epidural hematoma](cases/cranial-trauma/epidural-hematoma.md)
@@ -99,7 +99,7 @@ title: Home
 - [Decompressive craniectomy (TBI)](cases/cranial-trauma/decompressive-craniectomy-tbi.md)
 - [Cranioplasty](cases/cranial-trauma/cranioplasty.md)
 
-### CSF / Hydrocephalus + Shunt module (10)
+### [CSF / Hydrocephalus + Shunt module (10)](cases/cranial-csf/)
 - [EVD placement](cases/cranial-csf/evd-placement.md)
 - [VP shunt placement](cases/cranial-csf/vp-shunt.md)
 - [Endoscopic third ventriculostomy (ETV)](cases/cranial-csf/etv.md)
@@ -111,7 +111,7 @@ title: Home
 - [Subduroperitoneal shunt](cases/cranial-csf/shunts/subduroperitoneal-shunt.md)
 - [Shunt revision / exploration](cases/cranial-csf/shunts/shunt-revision.md)
 
-### Functional (7)
+### [Functional (7)](cases/cranial-functional/)
 - [MVD for trigeminal neuralgia](cases/cranial-functional/mvd-trigeminal-neuralgia.md)
 - [MVD for hemifacial spasm](cases/cranial-functional/mvd-hemifacial-spasm.md)
 - [Chiari I decompression](cases/cranial-functional/chiari-decompression.md)
@@ -124,18 +124,18 @@ title: Home
 
 <h2 id="stereo">🎯 Stereotactic · Ablative · Endovascular</h2>
 
-### Brain Biopsy (4 + reference)
+### [Brain Biopsy (4 + reference)](cases/biopsy/)
 - [**Biopsy systems & platforms reference**](cases/biopsy/biopsy-systems-reference.md)
 - [Frame-based stereotactic biopsy (Leksell / CRW)](cases/biopsy/stereotactic-brain-biopsy-framed.md)
 - [Frameless (navigation) stereotactic biopsy](cases/biopsy/stereotactic-brain-biopsy-frameless.md)
 - [Robot-assisted biopsy (ROSA / Mazor)](cases/biopsy/robotic-brain-biopsy.md)
 - [Open brain biopsy](cases/biopsy/open-brain-biopsy.md)
 
-### Radiosurgery / Ablative (2)
+### [Radiosurgery / Ablative (2)](cases/radiosurgery/)
 - [Stereotactic radiosurgery (Gamma Knife / LINAC / CyberKnife)](cases/radiosurgery/stereotactic-radiosurgery.md)
 - [Laser interstitial thermal therapy (LITT)](cases/radiosurgery/litt.md)
 
-### Endovascular (5)
+### [Endovascular (5)](cases/endovascular/)
 - [Aneurysm coiling / stent-assist / flow diversion](cases/endovascular/aneurysm-coiling-flow-diversion.md)
 - [AVM / dAVF embolization](cases/endovascular/avm-embolization.md)
 - [Mechanical thrombectomy (acute stroke / LVO)](cases/endovascular/mechanical-thrombectomy.md)
@@ -146,7 +146,7 @@ title: Home
 
 <h2 id="spine">🦴 Spine</h2>
 
-### Degenerative (13)
+### [Degenerative (13)](cases/spine-degenerative/)
 - [ACDF](cases/spine-degenerative/acdf.md)
 - [Cervical disc arthroplasty](cases/spine-degenerative/cervical-disc-replacement.md)
 - [Posterior cervical laminectomy & fusion](cases/spine-degenerative/posterior-cervical-laminectomy-fusion.md)
@@ -161,12 +161,12 @@ title: Home
 - [Anterior thoracic corpectomy](cases/spine-degenerative/anterior-thoracic-corpectomy.md)
 - [Sacroiliac (SI) joint fusion](cases/spine-degenerative/si-joint-fusion.md)
 
-### Tumor (3)
+### [Tumor (3)](cases/spine-tumor/)
 - [Intradural extramedullary tumor (meningioma / schwannoma)](cases/spine-tumor/intradural-extramedullary.md)
 - [Intramedullary spinal cord tumor](cases/spine-tumor/intramedullary-tumor.md)
 - [Vertebral corpectomy & reconstruction](cases/spine-tumor/vertebral-corpectomy.md)
 
-### Trauma (8)
+### [Trauma (8)](cases/spine-trauma/)
 - [Odontoid (type II) fracture fixation](cases/spine-trauma/odontoid-fracture.md)
 - [Subaxial cervical fracture / dislocation](cases/spine-trauma/subaxial-cervical-fracture.md)
 - [Central cord syndrome](cases/spine-trauma/central-cord-syndrome.md)
@@ -176,24 +176,24 @@ title: Home
 - [Penetrating spine injury (GSW / stab)](cases/spine-trauma/penetrating-spine-injury.md)
 - [Occipitocervical fusion](cases/spine-trauma/occipitocervical-fusion.md)
 
-### Vascular (3)
+### [Vascular (3)](cases/spine-vascular/)
 - [Spinal dural arteriovenous fistula (dAVF)](cases/spine-vascular/spinal-dural-avf.md)
 - [Spinal AVM (intramedullary / perimedullary)](cases/spine-vascular/spinal-avm.md)
 - [Spinal cord cavernous malformation](cases/spine-vascular/spinal-cord-cavernoma.md)
 
-### Congenital / CSF (2)
+### [Congenital / CSF (2)](cases/spine-congenital/)
 - [Tethered cord release](cases/spine-congenital/tethered-cord-release.md)
 - [Syringomyelia / syringosubarachnoid shunt](cases/spine-congenital/syringomyelia.md)
 
-### Infection (2)
+### [Infection (2)](cases/spine-infection/)
 - [Spinal epidural abscess](cases/spine-infection/spinal-epidural-abscess.md)
 - [Vertebral osteomyelitis / discitis](cases/spine-infection/vertebral-osteomyelitis-discitis.md)
 
-### Deformity (2)
+### [Deformity (2)](cases/spine-deformity/)
 - [Adult spinal deformity correction (SPO / PSO / VCR)](cases/spine-deformity/adult-spinal-deformity-osteotomy.md)
 - [Vertebral augmentation (kyphoplasty / vertebroplasty)](cases/spine-deformity/kyphoplasty-vertebroplasty.md)
 
-### Functional (2)
+### [Functional (2)](cases/spine-functional/)
 - [Spinal cord stimulator (SCS)](cases/spine-functional/spinal-cord-stimulator.md)
 - [Intrathecal baclofen (ITB) pump](cases/spine-functional/intrathecal-baclofen-pump.md)
 
@@ -201,13 +201,13 @@ title: Home
 
 <h2 id="peripheral">✋ Peripheral Nerve &amp; Pediatric</h2>
 
-### Peripheral Nerve (4)
+### [Peripheral Nerve (4)](cases/peripheral-nerve/)
 - [Carpal tunnel release](cases/peripheral-nerve/carpal-tunnel-release.md)
 - [Cubital tunnel / ulnar nerve transposition](cases/peripheral-nerve/ulnar-nerve-transposition.md)
 - [Peripheral nerve sheath tumor](cases/peripheral-nerve/peripheral-nerve-tumor.md)
 - [Brachial plexus injury (exploration / graft / transfer)](cases/peripheral-nerve/brachial-plexus.md)
 
-### Pediatric (6)
+### [Pediatric (6)](cases/pediatric/)
 - [Myelomeningocele repair](cases/pediatric/myelomeningocele.md)
 - [Craniosynostosis repair](cases/pediatric/craniosynostosis.md)
 - [Encephalocele repair](cases/pediatric/encephalocele.md)
