@@ -36,12 +36,12 @@
 - Putamen/internal capsule (medial limit)
 
 ### Navigation
-- [ ] MRI + DTI + fMRI loaded; LSAs and MCA branches mapped
+- MRI + DTI + fMRI loaded; LSAs and MCA branches mapped
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -77,14 +77,14 @@
 4. Eloquent opercula (Broca, primary motor/sensory face)
 
 ### Equipment
-- [ ] Microscope, navigation, DTI/fMRI, CUSA, ultrasound, 5-ALA (HGG)
-- [ ] Cortical/subcortical stimulator, mapping setup, micro-Doppler
+- Microscope, navigation, DTI/fMRI, CUSA, ultrasound, 5-ALA (HGG)
+- Cortical/subcortical stimulator, mapping setup, micro-Doppler
 
 ### Monitoring
-- [ ] Awake mapping (language/motor); or asleep MEP/SSEP + subcortical mapping; ECoG
+- Awake mapping (language/motor); or asleep MEP/SSEP + subcortical mapping; ECoG
 
 ### Anesthesia
-- [ ] Awake protocol (scalp block, dexmedetomidine, asleep-awake-asleep), antiemetics, seizure management (cold saline), arterial line, Foley
+- Awake protocol (scalp block, dexmedetomidine, asleep-awake-asleep), antiemetics, seizure management (cold saline), arterial line, Foley
 
 ### Potential Complications
 1. **Hemiparesis** — LSA injury or corticospinal tract (often transient if tract preserved; permanent if LSA infarct)
@@ -119,7 +119,7 @@ Hemostasis was obtained, the dura closed, the bone replaced, and the scalp close
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h (motor especially — LSA territory)
-- [ ] MRI < 48h (EOR), watch for stroke (DWI)
-- [ ] Steroid taper, AEDs, DVT prophylaxis
-- [ ] Pathology/molecular; tumor board for adjuvant therapy; rehab if deficit
+- ICU, neuro checks q1h (motor especially — LSA territory)
+- MRI < 48h (EOR), watch for stroke (DWI)
+- Steroid taper, AEDs, DVT prophylaxis
+- Pathology/molecular; tumor board for adjuvant therapy; rehab if deficit

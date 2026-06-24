@@ -55,12 +55,12 @@
 - Projection of dome
 
 ### Navigation
-- [ ] CTA loaded; bifurcation height and perforators noted
+- CTA loaded; bifurcation height and perforators noted
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch (2 units)
+- CBC, BMP, Coags, Type and crossmatch (2 units)
 
 ---
 
@@ -108,13 +108,13 @@
 6. **Vein of Labbé** (subtemporal approach) — sacrifice → temporal venous infarct
 
 ### Equipment
-- [ ] Microscope, navigation, micro-Doppler, ICG
-- [ ] Aneurysm clips (fenestrated essential), temporary clips
-- [ ] High-speed drill (orbital osteotomy, posterior clinoidectomy)
-- [ ] Lumbar drain (brain relaxation)
+- Microscope, navigation, micro-Doppler, ICG
+- Aneurysm clips (fenestrated essential), temporary clips
+- High-speed drill (orbital osteotomy, posterior clinoidectomy)
+- Lumbar drain (brain relaxation)
 
 ### Monitoring
-- [ ] SSEPs, MEPs, EEG, BAER
+- SSEPs, MEPs, EEG, BAER
 
 ### Anesthesia
 - Standard aneurysm protocol; adenosine available (for flow arrest during clipping); burst suppression; lumbar drain
@@ -157,8 +157,8 @@ Hemostasis was confirmed, the orbitozygomatic segment reconstructed, the bone fl
 ---
 
 ## Postoperative Plan
-- [ ] NSICU, neuro checks q1h
-- [ ] **Perforator infarct watch:** consciousness, oculomotor, motor
-- [ ] If SAH: nimodipine, TCDs
-- [ ] Postop CTA/DSA
-- [ ] Standard aneurysm post-op care
+- NSICU, neuro checks q1h
+- **Perforator infarct watch:** consciousness, oculomotor, motor
+- If SAH: nimodipine, TCDs
+- Postop CTA/DSA
+- Standard aneurysm post-op care

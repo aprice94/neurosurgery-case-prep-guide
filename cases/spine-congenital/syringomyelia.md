@@ -27,7 +27,7 @@
 ---
 
 ## Past Medical History
-- [ ] Prior spinal trauma/SCI, meningitis/arachnoiditis, Chiari, prior posterior fossa or spinal surgery
+- Prior spinal trauma/SCI, meningitis/arachnoiditis, Chiari, prior posterior fossa or spinal surgery
 - Standard PMH
 
 ---
@@ -41,7 +41,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
+- CBC, BMP, Coags, type and screen
 
 ---
 
@@ -76,14 +76,14 @@
 3. Dura/subarachnoid space (shunt patency, CSF flow), arachnoid (adhesions)
 
 ### Equipment
-- [ ] Microscope, ultrasound (syrinx localization), syrinx shunt catheter, micro-instruments, fine bipolar
-- [ ] Dural substitute (duraplasty), sealant
+- Microscope, ultrasound (syrinx localization), syrinx shunt catheter, micro-instruments, fine bipolar
+- Dural substitute (duraplasty), sealant
 
 ### Monitoring
-- [ ] SSEPs, MEPs, EMG
+- SSEPs, MEPs, EMG
 
 ### Anesthesia
-- [ ] MAP support, no paralytic (IONM), prone precautions
+- MAP support, no paralytic (IONM), prone precautions
 
 ### Potential Complications
 1. **Shunt failure/obstruction** (syrinx shunts commonly fail — recurrence)
@@ -116,8 +116,8 @@ Closure was completed in layers. The patient was transferred with CSF-leak preca
 ---
 
 ## Postoperative Plan
-- [ ] Step-down/ICU, neuro checks, CSF leak precautions, MAP support
-- [ ] **MRI at 3-6 months** (syrinx should shrink over months — not immediately), cine flow
-- [ ] Pain management (neuropathic — gabapentinoids), rehab
-- [ ] DVT prophylaxis (mechanical)
-- [ ] Counsel: syrinx collapse is gradual; goal is to halt progression; monitor for recurrence/shunt failure; address scoliosis (peds, ortho)
+- Step-down/ICU, neuro checks, CSF leak precautions, MAP support
+- **MRI at 3-6 months** (syrinx should shrink over months — not immediately), cine flow
+- Pain management (neuropathic — gabapentinoids), rehab
+- DVT prophylaxis (mechanical)
+- Counsel: syrinx collapse is gradual; goal is to halt progression; monitor for recurrence/shunt failure; address scoliosis (peds, ortho)

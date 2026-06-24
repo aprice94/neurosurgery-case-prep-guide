@@ -40,15 +40,15 @@
 ---
 
 ## Past Medical History
-- [ ] Anticoagulant use (warfarin, DOACs — apixaban, rivarelbaan, dabigatran)
-- [ ] Antiplatelet use (aspirin, clopidogrel, ticagrelor, prasugrel)
-- [ ] Coagulopathy (hemophilia, liver disease, thrombocytopenia, DIC)
-- [ ] Prior craniotomy or craniectomy
-- [ ] VP shunt or other CNS hardware
-- [ ] Seizure history
-- [ ] Prior TBI
-- [ ] Alcohol/substance use (fall risk, coagulopathy)
-- [ ] Liver disease (synthetic coagulopathy)
+- Anticoagulant use (warfarin, DOACs — apixaban, rivarelbaan, dabigatran)
+- Antiplatelet use (aspirin, clopidogrel, ticagrelor, prasugrel)
+- Coagulopathy (hemophilia, liver disease, thrombocytopenia, DIC)
+- Prior craniotomy or craniectomy
+- VP shunt or other CNS hardware
+- Seizure history
+- Prior TBI
+- Alcohol/substance use (fall risk, coagulopathy)
+- Liver disease (synthetic coagulopathy)
 - Allergies:
 - Medications:
 
@@ -78,15 +78,15 @@
 ---
 
 ## Labs
-- [ ] CBC (Hgb baseline, Plt > 100K — transfuse platelets if < 100K before surgery)
-- [ ] Coagulation panel (PT/INR, PTT) — CRITICAL for reversal decisions
+- CBC (Hgb baseline, Plt > 100K — transfuse platelets if < 100K before surgery)
+- Coagulation panel (PT/INR, PTT) — CRITICAL for reversal decisions
   - INR > 1.5 on warfarin: 4-factor PCC (KCentra) + vitamin K 10 mg IV
   - On dabigatran: idarucizumab (Praxbind) 5 g IV
   - On apixaban/rivarelbaan: andexanet alfa or 4-factor PCC
-- [ ] Fibrinogen (> 200; cryoprecipitate if low)
-- [ ] Type and crossmatch (2 units pRBC)
-- [ ] BMP (Na, K, Cr — baseline before mannitol)
-- [ ] Blood alcohol level and urine drug screen (trauma protocol)
+- Fibrinogen (> 200; cryoprecipitate if low)
+- Type and crossmatch (2 units pRBC)
+- BMP (Na, K, Cr — baseline before mannitol)
+- Blood alcohol level and urine drug screen (trauma protocol)
 
 ---
 
@@ -147,38 +147,38 @@
 - Must allow for extension if additional pathology found
 
 ### Equipment & Instrumentation
-- [ ] Craniotomy tray (standard)
-- [ ] High-speed drill with diamond burr (for foramen spinosum)
-- [ ] Craniotome (pneumatic or electric)
-- [ ] Perforator drill bit
-- [ ] Bipolar forceps
-- [ ] Suction (Frazier tips, multiple sizes)
-- [ ] Bone wax
-- [ ] Hemostatic agents (Surgicel, Gelfoam, Floseal)
-- [ ] Dural tacking sutures (4-0 Nurolon)
-- [ ] Cottonoid patties
-- [ ] Titanium plates and screws (for bone flap fixation)
-- [ ] Subgaleal drain (Jackson-Pratt or Blake)
-- [ ] Raney clips for scalp hemostasis
+- Craniotomy tray (standard)
+- High-speed drill with diamond burr (for foramen spinosum)
+- Craniotome (pneumatic or electric)
+- Perforator drill bit
+- Bipolar forceps
+- Suction (Frazier tips, multiple sizes)
+- Bone wax
+- Hemostatic agents (Surgicel, Gelfoam, Floseal)
+- Dural tacking sutures (4-0 Nurolon)
+- Cottonoid patties
+- Titanium plates and screws (for bone flap fixation)
+- Subgaleal drain (Jackson-Pratt or Blake)
+- Raney clips for scalp hemostasis
 
 ### Monitoring
-- [ ] Arterial line (pre-induction — for BP monitoring and ABG access)
-- [ ] Two large-bore peripheral IVs (trauma patient — volume resuscitation)
-- [ ] Foley catheter (mannitol use, urine output monitoring)
-- [ ] IONM generally NOT indicated (unlike vascular or tumor cases)
-- [ ] Temperature monitoring (avoid hyperthermia)
+- Arterial line (pre-induction — for BP monitoring and ABG access)
+- Two large-bore peripheral IVs (trauma patient — volume resuscitation)
+- Foley catheter (mannitol use, urine output monitoring)
+- IONM generally NOT indicated (unlike vascular or tumor cases)
+- Temperature monitoring (avoid hyperthermia)
 
 ### Anesthesia Considerations
-- [ ] Rapid sequence induction (RSI) — assume full stomach (trauma)
-- [ ] C-spine precautions until cleared (in-line stabilization during intubation)
-- [ ] Cefazolin 2g IV (within 60 min of incision)
-- [ ] Mannitol 1 g/kg IV available (or 23.4% hypertonic saline 30 mL)
-- [ ] Levetiracetam 1000 mg IV (seizure prophylaxis)
-- [ ] Avoid nitrous oxide (increases ICP)
-- [ ] Mild hyperventilation target pCO2 30-35 mmHg (temporizing ICP measure only — do not sustain)
-- [ ] Blood products in room (2 units pRBC, FFP available)
-- [ ] Reversal agents if anticoagulated (PCC, idarucizumab, vitamin K — administer BEFORE incision)
-- [ ] Target: SBP 100-140 intraop; avoid hypotension (secondary brain injury)
+- Rapid sequence induction (RSI) — assume full stomach (trauma)
+- C-spine precautions until cleared (in-line stabilization during intubation)
+- Cefazolin 2g IV (within 60 min of incision)
+- Mannitol 1 g/kg IV available (or 23.4% hypertonic saline 30 mL)
+- Levetiracetam 1000 mg IV (seizure prophylaxis)
+- Avoid nitrous oxide (increases ICP)
+- Mild hyperventilation target pCO2 30-35 mmHg (temporizing ICP measure only — do not sustain)
+- Blood products in room (2 units pRBC, FFP available)
+- Reversal agents if anticoagulated (PCC, idarucizumab, vitamin K — administer BEFORE incision)
+- Target: SBP 100-140 intraop; avoid hypotension (secondary brain injury)
 
 ### Key Surgical Steps
 1. **Rapid incision and craniotomy** — speed is critical; Raney clips for scalp hemostasis
@@ -275,18 +275,18 @@ The [left/right] [temporal/frontotemporal] region was prepped and draped in the 
 ---
 
 ## Postoperative Plan
-- [ ] Neurosurgical ICU admission
-- [ ] Neuro checks q1h x 24h (GCS, pupils, motor exam)
-- [ ] HOB 30 degrees
-- [ ] **BP target:** SBP 100-160; avoid hypotension (secondary brain injury) and severe hypertension (rebleeding risk)
-- [ ] CT head at 6 hours and for any clinical change
-- [ ] **Prognosis:** Excellent if evacuated promptly before permanent brainstem injury
-- [ ] Seizure prophylaxis: levetiracetam 500 mg BID x 7 days
-- [ ] DVT prophylaxis: SCDs immediately; pharmacologic (heparin SQ) starting POD1 after stable follow-up CT
-- [ ] Pain management: acetaminophen scheduled, opioids PRN; avoid NSAIDs for first 48h
-- [ ] **Anticoagulation reversal follow-up:** Recheck INR/coags 6h post-reversal; hold anticoagulation for minimum 7-14 days; multidisciplinary discussion (neurosurgery, cardiology/hematology) for resumption timing based on indication
-- [ ] Drain management: Remove subgaleal drain when output < 30 mL/8h shift (typically POD1-2)
-- [ ] **ICP monitoring indications:** Consider if GCS remains < 9 post-op, if brain was swollen intraoperatively, or if unable to follow neurological exam (intubated/sedated)
-- [ ] **Follow-up imaging:** CT head before discharge; repeat CT at 4-6 weeks in clinic
-- [ ] **Return to OR criteria:** New or expanding EDH > 15 mm, increasing midline shift > 5 mm, neurological decline, or wound complications
-- [ ] **Discharge criteria:** Stable or improving neurological exam, stable CT, tolerating diet, adequate pain control, safe disposition plan; follow-up in clinic 2-4 weeks with CT
+- Neurosurgical ICU admission
+- Neuro checks q1h x 24h (GCS, pupils, motor exam)
+- HOB 30 degrees
+- **BP target:** SBP 100-160; avoid hypotension (secondary brain injury) and severe hypertension (rebleeding risk)
+- CT head at 6 hours and for any clinical change
+- **Prognosis:** Excellent if evacuated promptly before permanent brainstem injury
+- Seizure prophylaxis: levetiracetam 500 mg BID x 7 days
+- DVT prophylaxis: SCDs immediately; pharmacologic (heparin SQ) starting POD1 after stable follow-up CT
+- Pain management: acetaminophen scheduled, opioids PRN; avoid NSAIDs for first 48h
+- **Anticoagulation reversal follow-up:** Recheck INR/coags 6h post-reversal; hold anticoagulation for minimum 7-14 days; multidisciplinary discussion (neurosurgery, cardiology/hematology) for resumption timing based on indication
+- Drain management: Remove subgaleal drain when output < 30 mL/8h shift (typically POD1-2)
+- **ICP monitoring indications:** Consider if GCS remains < 9 post-op, if brain was swollen intraoperatively, or if unable to follow neurological exam (intubated/sedated)
+- **Follow-up imaging:** CT head before discharge; repeat CT at 4-6 weeks in clinic
+- **Return to OR criteria:** New or expanding EDH > 15 mm, increasing midline shift > 5 mm, neurological decline, or wound complications
+- **Discharge criteria:** Stable or improving neurological exam, stable CT, tolerating diet, adequate pain control, safe disposition plan; follow-up in clinic 2-4 weeks with CT

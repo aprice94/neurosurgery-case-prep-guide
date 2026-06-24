@@ -24,8 +24,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Bone quality/osteoporosis (DEXA)**, prior spine fusions, smoking, nutrition, BMI
-- [ ] **Cardiopulmonary status (major surgery, blood loss)**, comorbidities (these are high-risk operations)
+- **Bone quality/osteoporosis (DEXA)**, prior spine fusions, smoking, nutrition, BMI
+- **Cardiopulmonary status (major surgery, blood loss)**, comorbidities (these are high-risk operations)
 - Standard PMH; optimize before elective deformity surgery
 
 ---
@@ -38,13 +38,13 @@
 ### MRI / CT
 - Stenosis/neural compression, bony anatomy/screw planning, fusion status, pseudarthrosis
 ### DEXA
-- [ ] Bone density (screw fixation, fracture risk)
+- Bone density (screw fixation, fracture risk)
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **type and crossmatch (multiple units — high blood loss)**, albumin/nutrition, HbA1c
-- [ ] Cardiac/pulmonary clearance
+- CBC, BMP, Coags, **type and crossmatch (multiple units — high blood loss)**, albumin/nutrition, HbA1c
+- Cardiac/pulmonary clearance
 
 ---
 
@@ -80,14 +80,14 @@
 4. **Dura** (CSF leak), screw tracts, **proximal/distal junctional kyphosis/failure**
 
 ### Equipment
-- [ ] Long pedicle screw-rod system (**multi-rod**), osteotomy instruments, high-speed drill, navigation/fluoroscopy
-- [ ] **Cell saver, TXA**, crossmatched blood, interbody cages, biologics/graft, drains
+- Long pedicle screw-rod system (**multi-rod**), osteotomy instruments, high-speed drill, navigation/fluoroscopy
+- **Cell saver, TXA**, crossmatched blood, interbody cages, biologics/graft, drains
 
 ### Monitoring
-- [ ] **SSEPs, MEPs, EMG** (essential; wake-up test backup) — especially during osteotomy closure
+- **SSEPs, MEPs, EMG** (essential; wake-up test backup) — especially during osteotomy closure
 
 ### Anesthesia
-- [ ] Arterial line, central access, **massive transfusion readiness, cell saver, TXA**, MAP support during correction, prone precautions (eyes — ION risk), long-case management, normothermia
+- Arterial line, central access, **massive transfusion readiness, cell saver, TXA**, MAP support during correction, prone precautions (eyes — ION risk), long-case management, normothermia
 
 ### Potential Complications
 1. **Neurological injury** (cord/root — osteotomy closure), **major blood loss**
@@ -122,8 +122,8 @@ Drains were placed and closure performed in layers. The patient was transferred 
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h, MAP support, **Hgb/transfusion management**
-- [ ] Standing long-cassette X-rays (alignment), CT (hardware)
-- [ ] DVT prophylaxis (balance bleeding), drains, pain (multimodal), nutrition
-- [ ] Mobilize with PT (± brace), bone health optimization (anabolic agents if osteoporotic)
-- [ ] Monitor for PJK/PJF, pseudarthrosis, infection; long-term follow-up imaging
+- ICU, neuro checks q1h, MAP support, **Hgb/transfusion management**
+- Standing long-cassette X-rays (alignment), CT (hardware)
+- DVT prophylaxis (balance bleeding), drains, pain (multimodal), nutrition
+- Mobilize with PT (± brace), bone health optimization (anabolic agents if osteoporotic)
+- Monitor for PJK/PJF, pseudarthrosis, infection; long-term follow-up imaging

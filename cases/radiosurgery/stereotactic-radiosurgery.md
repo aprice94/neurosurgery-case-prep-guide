@@ -30,8 +30,8 @@
 ---
 
 ## Past Medical History
-- [ ] Prior cranial radiation (cumulative dose, radionecrosis risk), pacemaker/implants (MRI), claustrophobia, ability to tolerate frame
-- [ ] Anticoagulation (frame pin placement)
+- Prior cranial radiation (cumulative dose, radionecrosis risk), pacemaker/implants (MRI), claustrophobia, ability to tolerate frame
+- Anticoagulation (frame pin placement)
 - Standard PMH; oncologic status (mets)
 
 ---
@@ -46,7 +46,7 @@
 ---
 
 ## Labs
-- [ ] Per sedation/frame needs; generally minimal
+- Per sedation/frame needs; generally minimal
 
 ---
 
@@ -75,11 +75,11 @@
 2. **Hippocampi** (memory — sparing in WBRT contexts), normal brain (radionecrosis)
 
 ### Equipment / Team
-- [ ] SRS platform (Gamma Knife / LINAC / CyberKnife), planning system, stereotactic frame or mask
-- [ ] **Multidisciplinary: neurosurgery + radiation oncology + medical physics**
+- SRS platform (Gamma Knife / LINAC / CyberKnife), planning system, stereotactic frame or mask
+- **Multidisciplinary: neurosurgery + radiation oncology + medical physics**
 
 ### Anesthesia
-- [ ] Usually awake/local (frame pins) ± mild sedation; general only for children/uncooperative
+- Usually awake/local (frame pins) ± mild sedation; general only for children/uncooperative
 
 ### Potential Complications
 1. **Radionecrosis** (delayed, dose/volume-dependent — headache, edema, deficit; may mimic progression), **cerebral edema**
@@ -112,8 +112,8 @@ The patient was discharged the same day with [a short steroid course] and a surv
 ---
 
 ## Post-Treatment Plan
-- [ ] Outpatient discharge (no incision); short steroid course for edema-prone/symptomatic targets
-- [ ] **Surveillance MRI** (e.g., brain mets q2-3 months; VS/meningioma at 6-12 months then yearly; AVM yearly + DSA at ~3 years to confirm obliteration)
-- [ ] Monitor for **radionecrosis vs progression** (perfusion/spectroscopy/MET-PET; may need steroids, bevacizumab, or surgery)
-- [ ] Audiometry (VS), visual fields (sellar/optic-adjacent), endocrine (sellar)
-- [ ] Oncology coordination (mets — systemic therapy, new-lesion surveillance); counsel AVM patients re: hemorrhage risk during latency
+- Outpatient discharge (no incision); short steroid course for edema-prone/symptomatic targets
+- **Surveillance MRI** (e.g., brain mets q2-3 months; VS/meningioma at 6-12 months then yearly; AVM yearly + DSA at ~3 years to confirm obliteration)
+- Monitor for **radionecrosis vs progression** (perfusion/spectroscopy/MET-PET; may need steroids, bevacizumab, or surgery)
+- Audiometry (VS), visual fields (sellar/optic-adjacent), endocrine (sellar)
+- Oncology coordination (mets — systemic therapy, new-lesion surveillance); counsel AVM patients re: hemorrhage risk during latency

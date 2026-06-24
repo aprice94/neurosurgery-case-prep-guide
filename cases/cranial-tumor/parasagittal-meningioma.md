@@ -37,12 +37,12 @@
 - Relationship to motor cortex, central veins
 
 ### Navigation
-- [ ] MRI + MRV loaded; sinus, veins, motor strip mapped
+- MRI + MRV loaded; sinus, veins, motor strip mapped
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **Type and crossmatch (vascular tumors)**
+- CBC, BMP, Coags, **Type and crossmatch (vascular tumors)**
 
 ---
 
@@ -83,16 +83,16 @@
 4. **Pericallosal/callosomarginal arteries** (deep falcine extension)
 
 ### Equipment
-- [ ] Microscope, navigation, CUSA
-- [ ] Hemostatic agents, Gelfoam, Surgicel, Floseal
-- [ ] Dural substitute, vascular suture (sinus repair), patch material
-- [ ] Cell saver
+- Microscope, navigation, CUSA
+- Hemostatic agents, Gelfoam, Surgicel, Floseal
+- Dural substitute, vascular suture (sinus repair), patch material
+- Cell saver
 
 ### Monitoring
-- [ ] SSEPs, MEPs (motor strip), phase reversal for central sulcus localization
+- SSEPs, MEPs (motor strip), phase reversal for central sulcus localization
 
 ### Anesthesia
-- [ ] Arterial line, crossmatched blood, site up for venous drainage, **VAE precautions** (sinus exposure — precordial Doppler), avoid air embolism
+- Arterial line, crossmatched blood, site up for venous drainage, **VAE precautions** (sinus exposure — precordial Doppler), avoid air embolism
 
 ### Potential Complications
 1. **Venous infarction** (vein/sinus sacrifice) → leg weakness, hemorrhagic infarct
@@ -128,8 +128,8 @@ Hemostasis was obtained, the dura reconstructed, the bone flap replaced, and the
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h (**leg strength** for middle third)
-- [ ] CT head, MRI with gad 24-48h (EOR)
-- [ ] Monitor for venous infarct (delayed swelling/seizure/weakness days 1-3)
-- [ ] Seizure prophylaxis, dexamethasone taper, DVT prophylaxis
-- [ ] If residual on sinus: tumor board, radiosurgery, surveillance MRI
+- ICU, neuro checks q1h (**leg strength** for middle third)
+- CT head, MRI with gad 24-48h (EOR)
+- Monitor for venous infarct (delayed swelling/seizure/weakness days 1-3)
+- Seizure prophylaxis, dexamethasone taper, DVT prophylaxis
+- If residual on sinus: tumor board, radiosurgery, surveillance MRI

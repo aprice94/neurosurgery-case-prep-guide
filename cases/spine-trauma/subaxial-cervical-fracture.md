@@ -34,13 +34,13 @@
 ### MRI cervical
 - **Cord signal/compression, disc herniation (critical — herniated disc before posterior reduction of dislocation → cord injury risk), DLC/ligament injury, epidural hematoma**
 ### CTA
-- [ ] Vertebral artery injury (foramen transversarium fractures — common in facet injuries)
+- Vertebral artery injury (foramen transversarium fractures — common in facet injuries)
 ### X-ray / Traction reduction films
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch, ABG (SCI)
+- CBC, BMP, Coags, Type and crossmatch, ABG (SCI)
 
 ---
 
@@ -73,15 +73,15 @@
 4. Esophagus/airway/RLN (anterior), great vessels
 
 ### Equipment
-- [ ] Anterior cervical plating + interbody/corpectomy cage; AND/OR posterior lateral mass/pedicle screw-rod system
-- [ ] Gardner-Wells tongs/traction, fluoroscopy/navigation
-- [ ] Bone graft, microscope, hemostatic agents
+- Anterior cervical plating + interbody/corpectomy cage; AND/OR posterior lateral mass/pedicle screw-rod system
+- Gardner-Wells tongs/traction, fluoroscopy/navigation
+- Bone graft, microscope, hemostatic agents
 
 ### Monitoring
-- [ ] **SSEPs, MEPs, EMG** — essential, around positioning and reduction
+- **SSEPs, MEPs, EMG** — essential, around positioning and reduction
 
 ### Anesthesia
-- [ ] **Awake fiberoptic intubation**, in-line stabilization, **MAP goal (MAP > 85 x 7 days for SCI)**, arterial line, no paralytic (IONM), spinal shock/autonomic considerations
+- **Awake fiberoptic intubation**, in-line stabilization, **MAP goal (MAP > 85 x 7 days for SCI)**, arterial line, no paralytic (IONM), spinal shock/autonomic considerations
 
 ### Potential Complications
 1. **Neurological worsening** (reduction, positioning, missed disc herniation)
@@ -117,8 +117,8 @@ Closure was performed in layers [± drain]. The patient was transferred to the I
 ---
 
 ## Postoperative Plan
-- [ ] ICU, **MAP > 85 x 7 days (SCI)**, serial ASIA exams, respiratory support (high lesions)
-- [ ] CT postop (reduction, hardware), collar per construct
-- [ ] DVT prophylaxis (high SCI risk), GI/skin/bladder care, autonomic monitoring
-- [ ] SCI rehab consult, steroids (controversial — institutional protocol)
-- [ ] Follow-up imaging for fusion; counsel re: recovery prognosis by ASIA grade
+- ICU, **MAP > 85 x 7 days (SCI)**, serial ASIA exams, respiratory support (high lesions)
+- CT postop (reduction, hardware), collar per construct
+- DVT prophylaxis (high SCI risk), GI/skin/bladder care, autonomic monitoring
+- SCI rehab consult, steroids (controversial — institutional protocol)
+- Follow-up imaging for fusion; counsel re: recovery prognosis by ASIA grade

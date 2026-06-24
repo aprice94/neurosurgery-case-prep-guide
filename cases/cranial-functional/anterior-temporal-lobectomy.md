@@ -37,14 +37,14 @@
 - Vascular anatomy (MCA, anterior choroidal, PCA, basal vein), temporal horn
 
 ### Functional
-- [ ] Wada/fMRI (language and memory dominance)
-- [ ] PET (temporal hypometabolism), ictal SPECT
+- Wada/fMRI (language and memory dominance)
+- PET (temporal hypometabolism), ictal SPECT
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
-- [ ] AED levels
+- CBC, BMP, Coags, Type and screen
+- AED levels
 
 ---
 
@@ -83,14 +83,14 @@
 5. **Memory** (contralateral hippocampal reserve — Wada)
 
 ### Equipment
-- [ ] Microscope, navigation, CUSA, subpial dissection instruments, bipolar
-- [ ] ECoG electrodes (optional intraoperative), ultrasonic aspirator
+- Microscope, navigation, CUSA, subpial dissection instruments, bipolar
+- ECoG electrodes (optional intraoperative), ultrasonic aspirator
 
 ### Monitoring
-- [ ] Optional ECoG; awake language mapping if resection near dominant language cortex
+- Optional ECoG; awake language mapping if resection near dominant language cortex
 
 ### Anesthesia
-- [ ] Arterial line, AED continuation, standard; awake protocol if mapping
+- Arterial line, AED continuation, standard; awake protocol if mapping
 
 ### Potential Complications
 1. **Visual field deficit** (superior quadrantanopia — Meyer's loop) — common, often subclinical
@@ -126,8 +126,8 @@ Hemostasis was obtained, the dura closed, the bone replaced, and the scalp close
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks q1h
-- [ ] CT/MRI postop; **formal visual fields** (quadrantanopia)
-- [ ] Continue AEDs (taper later per epileptologist if seizure-free)
-- [ ] Neuropsych follow-up (memory/language), Engel/ILAE outcome tracking
-- [ ] DVT prophylaxis; epilepsy team follow-up
+- ICU/step-down, neuro checks q1h
+- CT/MRI postop; **formal visual fields** (quadrantanopia)
+- Continue AEDs (taper later per epileptologist if seizure-free)
+- Neuropsych follow-up (memory/language), Engel/ILAE outcome tracking
+- DVT prophylaxis; epilepsy team follow-up

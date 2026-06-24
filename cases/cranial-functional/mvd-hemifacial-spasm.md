@@ -37,7 +37,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -76,16 +76,16 @@
 5. **Vertebral artery** (transposition cases), brainstem
 
 ### Equipment
-- [ ] Microscope, drill, microsurgical instruments
-- [ ] Teflon felt (± sling material for VA transposition), fibrin glue
-- [ ] Hemostatic agents, dural substitute/cranioplasty
+- Microscope, drill, microsurgical instruments
+- Teflon felt (± sling material for VA transposition), fibrin glue
+- Hemostatic agents, dural substitute/cranioplasty
 
 ### Monitoring
-- [ ] **LSR (lateral spread response)** — key intraoperative confirmation of decompression
-- [ ] **BAER** (hearing — high priority), facial EMG, SSEPs
+- **LSR (lateral spread response)** — key intraoperative confirmation of decompression
+- **BAER** (hearing — high priority), facial EMG, SSEPs
 
 ### Anesthesia
-- [ ] Arterial line, no paralytic (EMG/LSR), antiemetics, mannitol for relaxation
+- Arterial line, no paralytic (EMG/LSR), antiemetics, mannitol for relaxation
 
 ### Potential Complications
 1. **Hearing loss** (CN VIII) — most significant risk; BAER monitoring
@@ -120,8 +120,8 @@ The patient was awakened and transferred with posterior-fossa precautions; spasm
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks q1h, posterior fossa precautions
-- [ ] Facial function and hearing assessment, audiogram before discharge
-- [ ] CT 6h; antiemetics, steroid taper, DVT prophylaxis
-- [ ] Counsel: spasm resolution may be delayed over weeks-months
-- [ ] Follow-up clinic
+- ICU/step-down, neuro checks q1h, posterior fossa precautions
+- Facial function and hearing assessment, audiogram before discharge
+- CT 6h; antiemetics, steroid taper, DVT prophylaxis
+- Counsel: spasm resolution may be delayed over weeks-months
+- Follow-up clinic

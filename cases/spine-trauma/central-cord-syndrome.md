@@ -28,8 +28,8 @@
 ---
 
 ## Past Medical History
-- [ ] Cervical spondylosis/stenosis, OPLL, prior cervical surgery, anticoagulation
-- [ ] Ankylosing spondylitis/DISH (rigid spine — fracture risk with hyperextension)
+- Cervical spondylosis/stenosis, OPLL, prior cervical surgery, anticoagulation
+- Ankylosing spondylitis/DISH (rigid spine — fracture risk with hyperextension)
 - Standard PMH
 
 ---
@@ -46,7 +46,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
+- CBC, BMP, Coags, type and screen
 
 ---
 
@@ -80,13 +80,13 @@
 3. Stability/alignment
 
 ### Equipment
-- [ ] Per approach (anterior cervical or posterior instrumentation sets), microscope, fluoroscopy/navigation, IONM
+- Per approach (anterior cervical or posterior instrumentation sets), microscope, fluoroscopy/navigation, IONM
 
 ### Monitoring
-- [ ] **SSEPs, MEPs, EMG**; check around positioning
+- **SSEPs, MEPs, EMG**; check around positioning
 
 ### Anesthesia
-- [ ] **MAP 85-90 x 5-7 days**, awake fiberoptic intubation (unstable/myelopathic), arterial line, no paralytic (IONM)
+- **MAP 85-90 x 5-7 days**, awake fiberoptic intubation (unstable/myelopathic), arterial line, no paralytic (IONM)
 
 ### Potential Complications
 1. Neurological worsening (manipulation/perfusion), C5 palsy
@@ -121,8 +121,8 @@ Closure was performed in layers. The patient was transferred to the ICU with MAP
 ---
 
 ## Postoperative Plan
-- [ ] ICU, **MAP 85-90 x 5-7 days**, serial ASIA exams, airway monitoring (anterior)
-- [ ] CT/X-ray postop, collar per construct
-- [ ] DVT prophylaxis, bowel/bladder/skin care, SCI rehab consult early
-- [ ] Counsel: recovery pattern (legs → bladder → proximal arms → hands; hands recover last/least); steroids controversial (institutional)
-- [ ] Follow-up imaging, rehabilitation
+- ICU, **MAP 85-90 x 5-7 days**, serial ASIA exams, airway monitoring (anterior)
+- CT/X-ray postop, collar per construct
+- DVT prophylaxis, bowel/bladder/skin care, SCI rehab consult early
+- Counsel: recovery pattern (legs → bladder → proximal arms → hands; hands recover last/least); steroids controversial (institutional)
+- Follow-up imaging, rehabilitation

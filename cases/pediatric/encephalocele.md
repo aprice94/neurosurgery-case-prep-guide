@@ -28,9 +28,9 @@
 ---
 
 ## Past Medical History / Birth
-- [ ] Prenatal diagnosis, mode of delivery, maternal folate, gestational age
-- [ ] Associated anomalies/syndrome, hydrocephalus, airway/feeding (basal)
-- [ ] Latex precautions
+- Prenatal diagnosis, mode of delivery, maternal folate, gestational age
+- Associated anomalies/syndrome, hydrocephalus, airway/feeding (basal)
+- Latex precautions
 - Standard neonatal history
 
 ---
@@ -44,8 +44,8 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, **type and crossmatch** (neonatal blood volume, venous sinus bleeding risk), Coags
-- [ ] Latex-free
+- CBC, BMP, **type and crossmatch** (neonatal blood volume, venous sinus bleeding risk), Coags
+- Latex-free
 
 ---
 
@@ -80,15 +80,15 @@
 4. Neonatal blood volume
 
 ### Equipment
-- [ ] Microscope (± endoscope for basal), neonatal/micro instruments, fine bipolar
-- [ ] Dural substitute, pericranial/vascularized flap, bone/skull base reconstruction materials, sealant
-- [ ] **Crossmatched blood**, thermoregulation, latex-free; craniofacial/ENT team (frontoethmoidal/basal)
+- Microscope (± endoscope for basal), neonatal/micro instruments, fine bipolar
+- Dural substitute, pericranial/vascularized flap, bone/skull base reconstruction materials, sealant
+- **Crossmatched blood**, thermoregulation, latex-free; craniofacial/ENT team (frontoethmoidal/basal)
 
 ### Monitoring
-- [ ] Neonatal anesthesia monitoring; VAE precautions (venous sinus exposure)
+- Neonatal anesthesia monitoring; VAE precautions (venous sinus exposure)
 
 ### Anesthesia
-- [ ] Neonatal general, **crossmatched blood (sinus bleeding)**, thermoregulation/fluid/glucose, latex-free, VAE precautions
+- Neonatal general, **crossmatched blood (sinus bleeding)**, thermoregulation/fluid/glucose, latex-free, VAE precautions
 
 ### Potential Complications
 1. **Hemorrhage** (venous sinus), **CSF leak / meningitis** (closure integrity)
@@ -119,8 +119,8 @@ The infant was transferred to the NICU with head-circumference/US monitoring and
 ---
 
 ## Postoperative Plan
-- [ ] NICU/PICU, positioning to protect the repair, neuro checks, **head circumference/fontanelle and head US (hydrocephalus)**
-- [ ] CSF leak/wound monitoring, latex-free
-- [ ] **CSF diversion (shunt/ETV) if hydrocephalus progresses** (common — can precipitate repair breakdown if untreated)
-- [ ] MRI postop, craniofacial/ENT follow-up (frontoethmoidal/basal), genetics if syndromic
-- [ ] Developmental follow-up, multidisciplinary care
+- NICU/PICU, positioning to protect the repair, neuro checks, **head circumference/fontanelle and head US (hydrocephalus)**
+- CSF leak/wound monitoring, latex-free
+- **CSF diversion (shunt/ETV) if hydrocephalus progresses** (common — can precipitate repair breakdown if untreated)
+- MRI postop, craniofacial/ENT follow-up (frontoethmoidal/basal), genetics if syndromic
+- Developmental follow-up, multidisciplinary care

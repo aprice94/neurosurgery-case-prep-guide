@@ -38,7 +38,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch; RA workup/medications (hold biologics, steroid stress dosing)
+- CBC, BMP, Coags, Type and crossmatch; RA workup/medications (hold biologics, steroid stress dosing)
 
 ---
 
@@ -76,15 +76,15 @@
 5. Dura (decompression — CSF leak)
 
 ### Equipment
-- [ ] Occipitocervical instrumentation (occipital plate/keel screws, C1/C2/subaxial screws, contoured rods)
-- [ ] Navigation/fluoroscopy, high-speed drill, bone graft
-- [ ] Microscope (decompression), hemostatic agents, dural repair materials
+- Occipitocervical instrumentation (occipital plate/keel screws, C1/C2/subaxial screws, contoured rods)
+- Navigation/fluoroscopy, high-speed drill, bone graft
+- Microscope (decompression), hemostatic agents, dural repair materials
 
 ### Monitoring
-- [ ] SSEPs, MEPs, EMG; especially positioning/alignment
+- SSEPs, MEPs, EMG; especially positioning/alignment
 
 ### Anesthesia
-- [ ] **Awake fiberoptic intubation**, in-line stabilization, MAP support, arterial line, no paralytic (IONM), RA airway/cervical caution, steroid stress dosing (RA)
+- **Awake fiberoptic intubation**, in-line stabilization, MAP support, arterial line, no paralytic (IONM), RA airway/cervical caution, steroid stress dosing (RA)
 
 ### Potential Complications
 1. **Vertebral artery / neurological injury** (cervicomedullary)
@@ -120,8 +120,8 @@ A watertight closure [if decompression] was performed in layers with a drain. Th
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks (lower CN, respiratory, long tracts), airway monitoring (esp. if transoral/RA)
-- [ ] CT postop (hardware, alignment, decompression), cervical collar/halo per surgeon
-- [ ] **Swallow evaluation** (alignment/dysphagia), aspiration precautions
-- [ ] DVT prophylaxis, RA medication management, CSF leak watch
-- [ ] Follow-up imaging for fusion/alignment; counsel re: reduced motion
+- ICU, neuro checks (lower CN, respiratory, long tracts), airway monitoring (esp. if transoral/RA)
+- CT postop (hardware, alignment, decompression), cervical collar/halo per surgeon
+- **Swallow evaluation** (alignment/dysphagia), aspiration precautions
+- DVT prophylaxis, RA medication management, CSF leak watch
+- Follow-up imaging for fusion/alignment; counsel re: reduced motion

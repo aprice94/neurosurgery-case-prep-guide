@@ -24,7 +24,7 @@
 ---
 
 ## Past Medical History
-- [ ] Prematurity, IVH (post-hemorrhagic hydrocephalus), prior infection (post-infectious), prior shunt
+- Prematurity, IVH (post-hemorrhagic hydrocephalus), prior infection (post-infectious), prior shunt
 - Birth/developmental history
 
 ---
@@ -39,7 +39,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, pediatric pre-op
+- CBC, BMP, Coags, pediatric pre-op
 
 ---
 
@@ -75,15 +75,15 @@
 4. **Choroid plexus vessels** (CPC — bleeding), septal/thalamostriate veins
 
 ### Equipment
-- [ ] Rigid neuroendoscope (ETV) ± **flexible scope (for CPC)**, working channel
-- [ ] Fogarty/ETV balloon, blunt fenestration probe, bipolar/cautery (CPC)
-- [ ] Warm irrigation (LR), EVD kit (backup), pediatric setup
+- Rigid neuroendoscope (ETV) ± **flexible scope (for CPC)**, working channel
+- Fogarty/ETV balloon, blunt fenestration probe, bipolar/cautery (CPC)
+- Warm irrigation (LR), EVD kit (backup), pediatric setup
 
 ### Monitoring
-- [ ] Standard; **watch bradycardia** (floor manipulation)
+- Standard; **watch bradycardia** (floor manipulation)
 
 ### Anesthesia
-- [ ] Pediatric general; warm irrigation (thermoregulation), **watch bradycardia/asystole** during floor manipulation (stop, irrigate), careful fluid balance
+- Pediatric general; warm irrigation (thermoregulation), **watch bradycardia/asystole** during floor manipulation (stop, irrigate), careful fluid balance
 
 ### Potential Complications
 1. **Basilar artery injury** (rare, catastrophic), bradycardia/arrest (floor)
@@ -116,8 +116,8 @@ The endoscope was withdrawn and closure performed. The infant/child was transfer
 ---
 
 ## Postoperative Plan
-- [ ] Floor/PICU per age, neuro checks, **head circumference/fontanelle**
-- [ ] CT/MRI postop (ventricles may not shrink immediately; cine flow shows stoma patency)
-- [ ] **Monitor for ETV failure** (recurrent hydrocephalus — bulging fontanelle, increasing OFC, vomiting, sunsetting — can be early or delayed → shunt)
-- [ ] Educate family on warning signs of failure
-- [ ] Follow-up MRI, developmental surveillance, neurosurgery follow-up
+- Floor/PICU per age, neuro checks, **head circumference/fontanelle**
+- CT/MRI postop (ventricles may not shrink immediately; cine flow shows stoma patency)
+- **Monitor for ETV failure** (recurrent hydrocephalus — bulging fontanelle, increasing OFC, vomiting, sunsetting — can be early or delayed → shunt)
+- Educate family on warning signs of failure
+- Follow-up MRI, developmental surveillance, neurosurgery follow-up

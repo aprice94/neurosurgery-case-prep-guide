@@ -50,10 +50,10 @@
 ---
 
 ## Past Medical History
-- [ ] Hypertension
-- [ ] Smoking
-- [ ] Family history of aneurysms
-- [ ] Anticoagulation
+- Hypertension
+- Smoking
+- Family history of aneurysms
+- Anticoagulation
 - Allergies:
 - Medications:
 
@@ -85,15 +85,15 @@
 - Hydrocephalus (common with AComA SAH)
 
 ### Navigation
-- [ ] CTA loaded
-- [ ] A1-AComA-A2 complex mapped
+- CTA loaded
+- A1-AComA-A2 complex mapped
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags
-- [ ] Type and crossmatch (2 units)
-- [ ] Na (hyponatremia common with AComA SAH — cerebral salt wasting)
+- CBC, BMP, Coags
+- Type and crossmatch (2 units)
+- Na (hyponatremia common with AComA SAH — cerebral salt wasting)
 
 ---
 
@@ -168,24 +168,24 @@
 7. **Gyrus rectus** — partial resection acceptable; bilateral resection → abulia
 
 ### Equipment
-- [ ] Operating microscope
-- [ ] Navigation (CTA)
-- [ ] Micro-Doppler
-- [ ] ICG videoangiography
-- [ ] Aneurysm clips (including fenestrated for A2 preservation)
-- [ ] Temporary clips (for ipsilateral A1, contralateral A1 if needed)
-- [ ] High-speed drill
-- [ ] Microsurgical instruments
+- Operating microscope
+- Navigation (CTA)
+- Micro-Doppler
+- ICG videoangiography
+- Aneurysm clips (including fenestrated for A2 preservation)
+- Temporary clips (for ipsilateral A1, contralateral A1 if needed)
+- High-speed drill
+- Microsurgical instruments
 
 ### Monitoring
-- [ ] SSEPs
-- [ ] MEPs (bilateral — ACA supplies leg motor cortex)
-- [ ] EEG
+- SSEPs
+- MEPs (bilateral — ACA supplies leg motor cortex)
+- EEG
 
 ### Anesthesia Considerations
-- [ ] Same as MCA aneurysm protocol
-- [ ] Special attention to Na monitoring (cerebral salt wasting more common with AComA)
-- [ ] Burst suppression available for temporary clipping
+- Same as MCA aneurysm protocol
+- Special attention to Na monitoring (cerebral salt wasting more common with AComA)
+- Burst suppression available for temporary clipping
 
 ### Potential Complications & Contingencies
 1. **Hypothalamic perforator injury** → memory deficit (particularly with posterior-projecting dome)
@@ -216,9 +216,9 @@
 ---
 
 ## Postoperative Plan
-- [ ] Same as MCA aneurysm post-op plan
-- [ ] **Na monitoring q4-6h** (cerebral salt wasting is more common with AComA)
-- [ ] **Memory assessment** — formal neuropsych testing if concern for perforator injury
-- [ ] **DI monitoring** — strict I&Os, UOP hourly (hypothalamic perforators at risk)
-- [ ] If ruptured: EVD management if placed; hydrocephalus monitoring
-- [ ] Behavioral assessment: abulia, personality changes (frontal lobe injury)
+- Same as MCA aneurysm post-op plan
+- **Na monitoring q4-6h** (cerebral salt wasting is more common with AComA)
+- **Memory assessment** — formal neuropsych testing if concern for perforator injury
+- **DI monitoring** — strict I&Os, UOP hourly (hypothalamic perforators at risk)
+- If ruptured: EVD management if placed; hydrocephalus monitoring
+- Behavioral assessment: abulia, personality changes (frontal lobe injury)

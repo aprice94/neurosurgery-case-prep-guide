@@ -45,15 +45,15 @@
 - Recent hemorrhage (acute blood signal)
 
 ### DTI / fMRI
-- [ ] Tractography for brainstem/eloquent lesions (safe entry zones)
+- Tractography for brainstem/eloquent lesions (safe entry zones)
 
 ### Navigation
-- [ ] Thin-cut MRI loaded; trajectory planned through safe entry zone
+- Thin-cut MRI loaded; trajectory planned through safe entry zone
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -93,15 +93,15 @@
 4. **Cranial nerves** (brainstem/posterior fossa)
 
 ### Equipment
-- [ ] Microscope, navigation, DTI overlay
-- [ ] Microsurgical instruments, fine bipolar
-- [ ] Neuromonitoring (brainstem mapping for floor of 4th ventricle)
+- Microscope, navigation, DTI overlay
+- Microsurgical instruments, fine bipolar
+- Neuromonitoring (brainstem mapping for floor of 4th ventricle)
 
 ### Monitoring
-- [ ] SSEPs, MEPs; CN EMG and brainstem mapping (brainstem lesions); ECoG (epilepsy)
+- SSEPs, MEPs; CN EMG and brainstem mapping (brainstem lesions); ECoG (epilepsy)
 
 ### Anesthesia
-- [ ] Standard; no paralytic if mapping; arterial line for brainstem cases
+- Standard; no paralytic if mapping; arterial line for brainstem cases
 
 ### Potential Complications
 1. **DVA injury → venous infarction** (avoidable)
@@ -137,9 +137,9 @@ The dura was closed, the bone flap replaced, and the scalp closed in layers. Neu
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h (q1h and brainstem precautions if brainstem)
-- [ ] Postop MRI (confirm complete resection)
-- [ ] Seizure management (supratentorial)
-- [ ] Brainstem cases: monitor CN function, swallowing, respiratory; expect possible transient worsening with gradual recovery
-- [ ] Familial: genetics referral, screen family
-- [ ] Follow-up MRI
+- ICU, neuro checks q1h (q1h and brainstem precautions if brainstem)
+- Postop MRI (confirm complete resection)
+- Seizure management (supratentorial)
+- Brainstem cases: monitor CN function, swallowing, respiratory; expect possible transient worsening with gradual recovery
+- Familial: genetics referral, screen family
+- Follow-up MRI

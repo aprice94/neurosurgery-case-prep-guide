@@ -25,14 +25,14 @@
 ---
 
 ## Past Medical History
-- [ ] Prior lumbar fusion (accelerates SI degeneration), inflammatory arthropathy (sacroiliitis — different management), prior pelvic trauma
+- Prior lumbar fusion (accelerates SI degeneration), inflammatory arthropathy (sacroiliitis — different management), prior pelvic trauma
 - Standard PMH
 
 ---
 
 ## Imaging Review
 ### Diagnostic Workup (key — confirm the SI joint is the pain source)
-- [ ] **Image-guided SI joint anesthetic injection(s)** providing significant temporary relief (>50-75%) — strongly supports diagnosis and surgical candidacy
+- **Image-guided SI joint anesthetic injection(s)** providing significant temporary relief (>50-75%) — strongly supports diagnosis and surgical candidacy
 - Physical exam provocative tests (≥3 positive: thigh thrust, FABER, distraction, compression, Gaenslen)
 ### CT / X-ray
 - SI joint degeneration, anatomy for implant trajectory, exclude other pathology, sacral dysmorphism
@@ -42,7 +42,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
+- CBC, BMP, Coags, type and screen
 
 ---
 
@@ -76,14 +76,14 @@
 4. SI joint, iliac vessels (anterior breach)
 
 ### Equipment
-- [ ] SI fusion implant system (triangular implants/screws + instruments), **fluoroscopy (essential)** ± navigation/robotics
-- [ ] Neuromonitoring (selected)
+- SI fusion implant system (triangular implants/screws + instruments), **fluoroscopy (essential)** ± navigation/robotics
+- Neuromonitoring (selected)
 
 ### Monitoring
-- [ ] Triggered EMG (selected — confirm implants not breaching foramina)
+- Triggered EMG (selected — confirm implants not breaching foramina)
 
 ### Anesthesia
-- [ ] General; fluoroscopy; standard
+- General; fluoroscopy; standard
 
 ### Potential Complications
 1. **Sacral nerve root injury** (foraminal breach), L5 injury
@@ -118,8 +118,8 @@ Closure was performed. The patient was discharged [same day] with protected weig
 ---
 
 ## Postoperative Plan
-- [ ] Outpatient/short stay, neuro checks (sacral roots)
-- [ ] **Protected weight-bearing** per surgeon (often partial on operative side x weeks)
-- [ ] X-ray/CT postop (implant position), pain assessment
-- [ ] Activity progression, PT; follow-up for fusion
-- [ ] Counsel: outcomes depend on correct patient selection (confirmed SI source)
+- Outpatient/short stay, neuro checks (sacral roots)
+- **Protected weight-bearing** per surgeon (often partial on operative side x weeks)
+- X-ray/CT postop (implant position), pain assessment
+- Activity progression, PT; follow-up for fusion
+- Counsel: outcomes depend on correct patient selection (confirmed SI source)

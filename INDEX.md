@@ -32,27 +32,27 @@ title: Home
 <h2 id="approaches">🧭 Operative Approaches — detailed technique chapters</h2>
 *The granular "how it's set up" reference per surgical corridor: positioning (exact degrees, pin placement), incision landmarks, soft-tissue planes, bone work, dural opening, intradural steps, surgeon nuances & pitfalls, with figures. Pathology guides link here.*
 
-- [**Pterional (frontotemporal) craniotomy**](cases/approaches/pterional-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- [**Retrosigmoid (retromastoid) craniotomy**](cases/approaches/retrosigmoid-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- [**Orbitozygomatic (FTOZ) craniotomy**](cases/approaches/orbitozygomatic-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- [**Subtemporal craniotomy (± zygomatic osteotomy / Kawase)**](cases/approaches/subtemporal-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- [**Far-lateral (transcondylar) craniotomy**](cases/approaches/far-lateral-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- [**Anterior interhemispheric / transcallosal**](cases/approaches/anterior-interhemispheric-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Supracerebellar-infratentorial**](cases/approaches/supracerebellar-infratentorial-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Midline suboccipital craniotomy**](cases/approaches/midline-suboccipital-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- [**Endoscopic endonasal (transsphenoidal / transtuberculum / transclival)**](cases/approaches/endoscopic-endonasal-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Supraorbital "eyebrow" keyhole craniotomy**](cases/approaches/supraorbital-keyhole-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- [**Telovelar (fourth ventricle) approach**](cases/approaches/telovelar-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Presigmoid / petrosal approaches**](cases/approaches/presigmoid-petrosal-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Bifrontal (subfrontal) craniotomy**](cases/approaches/bifrontal-craniotomy.md) — <span class="tag-done">✅ detailed</span>
-- [**Anterior cervical (Smith-Robinson) approach**](cases/approaches/anterior-cervical-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Posterior cervical approach**](cases/approaches/posterior-cervical-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Posterior thoracolumbar (Wiltse / midline) approach**](cases/approaches/posterior-thoracolumbar-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Transpsoas lateral (LLIF / XLIF / OLIF) approach**](cases/approaches/transpsoas-approach.md) — <span class="tag-done">✅ detailed</span>
-- [**Transthoracic (anterior thoracic) approach**](cases/approaches/transthoracic-approach.md) — <span class="tag-done">✅ detailed</span>
+- [**Pterional (frontotemporal) craniotomy**](cases/approaches/pterional-craniotomy.md)
+- [**Retrosigmoid (retromastoid) craniotomy**](cases/approaches/retrosigmoid-craniotomy.md)
+- [**Orbitozygomatic (FTOZ) craniotomy**](cases/approaches/orbitozygomatic-craniotomy.md)
+- [**Subtemporal craniotomy (± zygomatic osteotomy / Kawase)**](cases/approaches/subtemporal-craniotomy.md)
+- [**Far-lateral (transcondylar) craniotomy**](cases/approaches/far-lateral-craniotomy.md)
+- [**Anterior interhemispheric / transcallosal**](cases/approaches/anterior-interhemispheric-approach.md)
+- [**Supracerebellar-infratentorial**](cases/approaches/supracerebellar-infratentorial-approach.md)
+- [**Midline suboccipital craniotomy**](cases/approaches/midline-suboccipital-craniotomy.md)
+- [**Endoscopic endonasal (transsphenoidal / transtuberculum / transclival)**](cases/approaches/endoscopic-endonasal-approach.md)
+- [**Supraorbital "eyebrow" keyhole craniotomy**](cases/approaches/supraorbital-keyhole-craniotomy.md)
+- [**Telovelar (fourth ventricle) approach**](cases/approaches/telovelar-approach.md)
+- [**Presigmoid / petrosal approaches**](cases/approaches/presigmoid-petrosal-approach.md)
+- [**Bifrontal (subfrontal) craniotomy**](cases/approaches/bifrontal-craniotomy.md)
+- [**Anterior cervical (Smith-Robinson) approach**](cases/approaches/anterior-cervical-approach.md)
+- [**Posterior cervical approach**](cases/approaches/posterior-cervical-approach.md)
+- [**Posterior thoracolumbar (Wiltse / midline) approach**](cases/approaches/posterior-thoracolumbar-approach.md)
+- [**Transpsoas lateral (LLIF / XLIF / OLIF) approach**](cases/approaches/transpsoas-approach.md)
+- [**Transthoracic (anterior thoracic) approach**](cases/approaches/transthoracic-approach.md)
 
 <h2 id="resources">📚 Resources &amp; Templates</h2>
-- [Top 100 Neurosurgery Resources](resources/neurosurgery-resources.json) — textbooks, atlases, platforms, journals, operative references
+- [Top 100 Neurosurgery Resources](resources/neurosurgery-resources.md) — textbooks, atlases, platforms, journals, operative references
 - [Curated media & figure sources](resources/media-sources.md) — where the figures come from (and licensing)
 - [Master Case-Prep Template](templates/case-prep-template.md) — blank template with every section
 

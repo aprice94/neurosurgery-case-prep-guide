@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] Osteoporosis (DEXA), malignancy (pathologic fracture), steroid use, prior fractures
-- [ ] Anticoagulation/antiplatelet (correct), coagulopathy
+- Osteoporosis (DEXA), malignancy (pathologic fracture), steroid use, prior fractures
+- Anticoagulation/antiplatelet (correct), coagulopathy
 - Standard PMH
 
 ---
@@ -43,8 +43,8 @@
 ---
 
 ## Labs
-- [ ] CBC, **Coags (correct — needle, cement)**, BMP
-- [ ] Malignancy workup if pathologic
+- CBC, **Coags (correct — needle, cement)**, BMP
+- Malignancy workup if pathologic
 
 ---
 
@@ -79,11 +79,11 @@
 4. Adjacent disc/foramen (leak)
 
 ### Equipment
-- [ ] Kyphoplasty/vertebroplasty kit (trocars, balloon tamps, cement delivery), **PMMA cement (high-viscosity)**
-- [ ] **Biplanar fluoroscopy** (essential), biopsy needle (pathologic)
+- Kyphoplasty/vertebroplasty kit (trocars, balloon tamps, cement delivery), **PMMA cement (high-viscosity)**
+- **Biplanar fluoroscopy** (essential), biopsy needle (pathologic)
 
 ### Anesthesia
-- [ ] Local + MAC (common) or general; prone; monitor for cement embolism (hypoxia, hemodynamic change)
+- Local + MAC (common) or general; prone; monitor for cement embolism (hypoxia, hemodynamic change)
 
 ### Potential Complications
 1. **Cement leak** — epidural/foraminal (neural compression, radiculopathy/myelopathy), discal, venous
@@ -116,8 +116,8 @@ Instruments were removed and the patient recovered supine for cement curing, the
 ---
 
 ## Postoperative Plan
-- [ ] Recovery/observation (often same-day discharge); lie supine ~1-2h (cement cure)
-- [ ] Neuro checks (new deficit → imaging for cement leak), pain assessment (often rapid relief)
-- [ ] **Osteoporosis management** (calcium, vitamin D, anabolic/antiresorptive agents — prevent adjacent fractures), DEXA, endocrine/bone clinic
-- [ ] Pathologic: oncology, address primary, consider RT
-- [ ] Mobilize, follow-up; counsel re: adjacent-level fracture risk
+- Recovery/observation (often same-day discharge); lie supine ~1-2h (cement cure)
+- Neuro checks (new deficit → imaging for cement leak), pain assessment (often rapid relief)
+- **Osteoporosis management** (calcium, vitamin D, anabolic/antiresorptive agents — prevent adjacent fractures), DEXA, endocrine/bone clinic
+- Pathologic: oncology, address primary, consider RT
+- Mobilize, follow-up; counsel re: adjacent-level fracture risk

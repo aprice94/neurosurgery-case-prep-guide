@@ -33,14 +33,14 @@
 - Tentorial incisura, midbrain tectum, splenium
 
 ### Workup — CRITICAL BEFORE SURGERY
-- [ ] **Serum + CSF tumor markers: AFP, beta-hCG** (elevated → non-germinomatous germ cell tumor → chemo/RT, may avoid resection; pure germinoma → biopsy + RT/chemo)
-- [ ] CSF cytology
-- [ ] If markers diagnostic → may treat without resection
+- **Serum + CSF tumor markers: AFP, beta-hCG** (elevated → non-germinomatous germ cell tumor → chemo/RT, may avoid resection; pure germinoma → biopsy + RT/chemo)
+- CSF cytology
+- If markers diagnostic → may treat without resection
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **AFP, beta-hCG (serum)**, Type and crossmatch
+- CBC, BMP, Coags, **AFP, beta-hCG (serum)**, Type and crossmatch
 
 ---
 
@@ -80,15 +80,15 @@
 3. **Cerebellum, vermis**
 
 ### Equipment
-- [ ] Microscope, navigation, CUSA, ICG
-- [ ] Endoscope (ETV/biopsy), EVD kit
-- [ ] Hemostatic agents, dural substitute
+- Microscope, navigation, CUSA, ICG
+- Endoscope (ETV/biopsy), EVD kit
+- Hemostatic agents, dural substitute
 
 ### Monitoring
-- [ ] SSEPs, MEPs; precordial Doppler (sitting — VAE)
+- SSEPs, MEPs; precordial Doppler (sitting — VAE)
 
 ### Anesthesia
-- [ ] Arterial line, **VAE precautions (sitting)** — central line, Doppler, end-tidal CO2; crossmatched blood; antiemetics
+- Arterial line, **VAE precautions (sitting)** — central line, Doppler, end-tidal CO2; crossmatched blood; antiemetics
 
 ### Potential Complications
 1. **Venous infarction/hemorrhage** (deep veins) — major mortality source
@@ -123,8 +123,8 @@ Hemostasis was obtained, a watertight closure performed, and the patient transfe
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h, eye movement exam
-- [ ] CT 6h (hemorrhage), MRI postop; EVD/ETV management
-- [ ] VAE monitoring if sitting used
-- [ ] Pathology → tumor board: germinoma (RT/chemo), NGGCT (chemo+RT), pineal parenchymal/glioma per grade; neuraxis staging
-- [ ] Antiemetics, steroid taper, DVT prophylaxis
+- ICU, neuro checks q1h, eye movement exam
+- CT 6h (hemorrhage), MRI postop; EVD/ETV management
+- VAE monitoring if sitting used
+- Pathology → tumor board: germinoma (RT/chemo), NGGCT (chemo+RT), pineal parenchymal/glioma per grade; neuraxis staging
+- Antiemetics, steroid taper, DVT prophylaxis

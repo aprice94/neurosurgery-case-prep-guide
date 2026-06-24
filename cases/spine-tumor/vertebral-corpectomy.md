@@ -41,15 +41,15 @@
 ### CT
 - Bony destruction, **SINS (instability)**, pedicle/posterior element involvement, planning instrumentation
 ### CTA / Angiography + Embolization
-- [ ] **Preoperative embolization** for hypervascular tumors (renal cell, thyroid, others) — reduces blood loss
+- **Preoperative embolization** for hypervascular tumors (renal cell, thyroid, others) — reduces blood loss
 - Vascular anatomy, artery of Adamkiewicz (thoracolumbar)
 ### Staging
-- [ ] Primary workup/staging, biopsy if unknown primary
+- Primary workup/staging, biopsy if unknown primary
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **Type and crossmatch (2-4+ units)**, calcium (myeloma), tumor markers as indicated
+- CBC, BMP, Coags, **Type and crossmatch (2-4+ units)**, calcium (myeloma), tumor markers as indicated
 
 ---
 
@@ -87,16 +87,16 @@
 5. Dura (epidural tumor adherence — CSF leak)
 
 ### Equipment
-- [ ] Pedicle screw/rod system, **expandable cage / PMMA-mesh** for reconstruction
-- [ ] High-speed drill, Kerrison, curettes, tumor instruments
-- [ ] Fluoroscopy/navigation, **cell saver (caution in tumor — controversial), crossmatched blood**
-- [ ] Preop embolization, hemostatic agents, dural repair materials
+- Pedicle screw/rod system, **expandable cage / PMMA-mesh** for reconstruction
+- High-speed drill, Kerrison, curettes, tumor instruments
+- Fluoroscopy/navigation, **cell saver (caution in tumor — controversial), crossmatched blood**
+- Preop embolization, hemostatic agents, dural repair materials
 
 ### Monitoring
-- [ ] SSEPs, MEPs, EMG
+- SSEPs, MEPs, EMG
 
 ### Anesthesia
-- [ ] Arterial line, central access, **crossmatched blood/massive transfusion ready**, MAP > 85, prone/positioning precautions, possible thoracic/access surgeon
+- Arterial line, central access, **crossmatched blood/massive transfusion ready**, MAP > 85, prone/positioning precautions, possible thoracic/access surgeon
 
 ### Potential Complications
 1. **Major hemorrhage** (vascular tumors — embolize preop)
@@ -132,8 +132,8 @@ A drain was placed and closure performed in layers. The patient was transferred 
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h, MAP support, **monitor blood loss/Hgb**
-- [ ] X-ray/CT postop (hardware, alignment), drain management
-- [ ] DVT prophylaxis (balance bleeding/tumor), brace per surgeon
-- [ ] **Postoperative radiation (SRS/EBRT)** for mets after wound healing (~2-3 weeks); oncology coordination
-- [ ] Pathology; restage; rehab; goals-of-care for advanced disease
+- ICU, neuro checks q1h, MAP support, **monitor blood loss/Hgb**
+- X-ray/CT postop (hardware, alignment), drain management
+- DVT prophylaxis (balance bleeding/tumor), brace per surgeon
+- **Postoperative radiation (SRS/EBRT)** for mets after wound healing (~2-3 weeks); oncology coordination
+- Pathology; restage; rehab; goals-of-care for advanced disease

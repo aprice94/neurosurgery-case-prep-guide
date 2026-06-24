@@ -63,9 +63,9 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags
-- [ ] **Continue aspirin perioperatively** (graft patency)
-- [ ] Type and screen
+- CBC, BMP, Coags
+- **Continue aspirin perioperatively** (graft patency)
+- Type and screen
 
 ---
 
@@ -101,17 +101,17 @@
 4. **Frontalis branch of facial nerve** — during STA harvest (anterior dissection)
 
 ### Equipment
-- [ ] Microscope (high magnification)
-- [ ] Microvascular instruments, 10-0 nylon, microclips, temporary clips
-- [ ] Handheld Doppler, ICG, micro-flow probe (Charbel)
-- [ ] Papaverine, heparinized saline
-- [ ] Background material
+- Microscope (high magnification)
+- Microvascular instruments, 10-0 nylon, microclips, temporary clips
+- Handheld Doppler, ICG, micro-flow probe (Charbel)
+- Papaverine, heparinized saline
+- Background material
 
 ### Monitoring
-- [ ] EEG, SSEPs, MEPs (ischemia during temporary occlusion)
+- EEG, SSEPs, MEPs (ischemia during temporary occlusion)
 
 ### Anesthesia
-- [ ] Arterial line; **maintain normo-to-hypertension** during temporary occlusion; normocapnia (avoid hypocapnia — vasoconstriction); continue aspirin; avoid hypotension; adequate hydration
+- Arterial line; **maintain normo-to-hypertension** during temporary occlusion; normocapnia (avoid hypocapnia — vasoconstriction); continue aspirin; avoid hypotension; adequate hydration
 
 ### Potential Complications
 1. Graft thrombosis/occlusion
@@ -149,9 +149,9 @@ The bone flap was contoured to avoid graft compression, the dura closed loosely 
 ---
 
 ## Postoperative Plan
-- [ ] NSICU, neuro checks q1h
-- [ ] **Continue aspirin**; avoid hypotension; maintain euvolemia; avoid pressure on graft site (no tight dressings, no lying on graft)
-- [ ] BP control to prevent hyperperfusion (moyamoya)
-- [ ] Graft patency check (CTA/DSA or Doppler) per protocol
-- [ ] Monitor for hyperperfusion (headache, seizure, deficit)
-- [ ] Follow-up DSA at intervals; assess revascularization
+- NSICU, neuro checks q1h
+- **Continue aspirin**; avoid hypotension; maintain euvolemia; avoid pressure on graft site (no tight dressings, no lying on graft)
+- BP control to prevent hyperperfusion (moyamoya)
+- Graft patency check (CTA/DSA or Doppler) per protocol
+- Monitor for hyperperfusion (headache, seizure, deficit)
+- Follow-up DSA at intervals; assess revascularization

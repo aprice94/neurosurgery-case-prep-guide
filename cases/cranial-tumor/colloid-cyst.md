@@ -42,7 +42,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -79,15 +79,15 @@
 4. **Corpus callosum** (transcallosal — limit callosotomy to avoid disconnection)
 
 ### Equipment
-- [ ] Neuroendoscope + endoscopic instruments (or microscope for transcallosal)
-- [ ] Navigation, bipolar, aspiration, EVD kit
-- [ ] Microsurgical instruments
+- Neuroendoscope + endoscopic instruments (or microscope for transcallosal)
+- Navigation, bipolar, aspiration, EVD kit
+- Microsurgical instruments
 
 ### Monitoring
 - Standard
 
 ### Anesthesia
-- [ ] General; consider EVD; mannitol if raised ICP
+- General; consider EVD; mannitol if raised ICP
 
 ### Potential Complications
 1. **Memory deficit** (fornix injury) — esp. bilateral
@@ -122,8 +122,8 @@ Closure was performed in the standard fashion and the patient transferred to the
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks q1h-q2h
-- [ ] CT postop (hemorrhage, ventricle size); EVD management if placed
-- [ ] **Memory assessment** (fornix)
-- [ ] MRI postop (residual)
-- [ ] Monitor for hydrocephalus; follow-up MRI for recurrence
+- ICU/step-down, neuro checks q1h-q2h
+- CT postop (hemorrhage, ventricle size); EVD management if placed
+- **Memory assessment** (fornix)
+- MRI postop (residual)
+- Monitor for hydrocephalus; follow-up MRI for recurrence

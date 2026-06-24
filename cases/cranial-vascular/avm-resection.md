@@ -62,13 +62,13 @@
 - Flow characteristics (high vs low flow)
 
 ### Navigation / Functional
-- [ ] DSA/MRA/CTA fused to navigation
-- [ ] fMRI / DTI if eloquent location
+- DSA/MRA/CTA fused to navigation
+- fMRI / DTI if eloquent location
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **Type and crossmatch (4 units — AVMs bleed)**
+- CBC, BMP, Coags, **Type and crossmatch (4 units — AVMs bleed)**
 
 ---
 
@@ -112,20 +112,20 @@
 4. **En passage vessels** — arteries that supply both nidus and normal brain (preserve the normal branch)
 
 ### Equipment
-- [ ] Microscope, navigation, ICG, intraoperative angiography capability
-- [ ] AVM micro-clips (mini/micro aneurysm clips for feeders)
-- [ ] Bipolar (multiple), hemostatic agents (Surgicel, Floseal)
-- [ ] CUSA, cottonoids
-- [ ] Cell saver
+- Microscope, navigation, ICG, intraoperative angiography capability
+- AVM micro-clips (mini/micro aneurysm clips for feeders)
+- Bipolar (multiple), hemostatic agents (Surgicel, Floseal)
+- CUSA, cottonoids
+- Cell saver
 
 ### Monitoring
-- [ ] SSEPs, MEPs (if eloquent), EEG
+- SSEPs, MEPs (if eloquent), EEG
 
 ### Anesthesia
-- [ ] Arterial line, central line, 2 large-bore IVs
-- [ ] 4 units crossmatched, massive transfusion protocol available
-- [ ] Controlled hypotension during resection (reduce bleeding)
-- [ ] Post-resection: avoid hypertension (NPPB risk)
+- Arterial line, central line, 2 large-bore IVs
+- 4 units crossmatched, massive transfusion protocol available
+- Controlled hypotension during resection (reduce bleeding)
+- Post-resection: avoid hypertension (NPPB risk)
 
 ### Potential Complications
 1. **Hemorrhage** — major risk; preserve draining vein until end
@@ -162,9 +162,9 @@ The resection bed was inspected and meticulous hemostasis obtained under control
 ---
 
 ## Postoperative Plan
-- [ ] NSICU, neuro checks q1h
-- [ ] **Strict BP control** (e.g., SBP < 120-140) to prevent NPPB hemorrhage x 24-48h
-- [ ] Postop DSA within 24-48h (confirm complete resection — residual nidus needs re-resection)
-- [ ] Seizure prophylaxis
-- [ ] CT head, monitor for hemorrhage/edema
-- [ ] Follow-up DSA, clinic
+- NSICU, neuro checks q1h
+- **Strict BP control** (e.g., SBP < 120-140) to prevent NPPB hemorrhage x 24-48h
+- Postop DSA within 24-48h (confirm complete resection — residual nidus needs re-resection)
+- Seizure prophylaxis
+- CT head, monitor for hemorrhage/edema
+- Follow-up DSA, clinic

@@ -39,7 +39,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch
+- CBC, BMP, Coags, Type and crossmatch
 
 ---
 
@@ -76,15 +76,15 @@
 4. **Craniocervical junction stability** (lower clival/condylar resection)
 
 ### Equipment
-- [ ] Endoscope + endonasal skull base set, navigation (CTA fusion), high-speed drill, micro-Doppler, ICG
-- [ ] Nasoseptal flap, fascia lata/fat graft, sealant, lumbar drain
-- [ ] CN stimulator
+- Endoscope + endonasal skull base set, navigation (CTA fusion), high-speed drill, micro-Doppler, ICG
+- Nasoseptal flap, fascia lata/fat graft, sealant, lumbar drain
+- CN stimulator
 
 ### Monitoring
-- [ ] SSEPs, MEPs, CN EMG (VI, lower CNs), BAER
+- SSEPs, MEPs, CN EMG (VI, lower CNs), BAER
 
 ### Anesthesia
-- [ ] Arterial line, crossmatched blood, **ICA injury contingency** (rapid transfusion, neuroIR on standby for sacrifice/embolization), long case
+- Arterial line, crossmatched blood, **ICA injury contingency** (rapid transfusion, neuroIR on standby for sacrifice/embolization), long case
 
 ### Potential Complications
 1. **ICA injury** — life-threatening; pack, balloon/embolize, angiography
@@ -120,9 +120,9 @@ The patient was transferred to the ICU with CSF-leak precautions and the lumbar 
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h
-- [ ] **CSF leak precautions**, lumbar drain management, DI/Na if sellar involvement
-- [ ] CN VI and lower CN assessment, swallow eval
-- [ ] MRI/CT postop (EOR), watch rhinorrhea/meningitis/pneumocephalus
-- [ ] **Adjuvant proton/photon radiation** (essential), tumor board
-- [ ] CCJ stability assessment; long-term surveillance MRI
+- ICU, neuro checks q1h
+- **CSF leak precautions**, lumbar drain management, DI/Na if sellar involvement
+- CN VI and lower CN assessment, swallow eval
+- MRI/CT postop (EOR), watch rhinorrhea/meningitis/pneumocephalus
+- **Adjuvant proton/photon radiation** (essential), tumor board
+- CCJ stability assessment; long-term surveillance MRI

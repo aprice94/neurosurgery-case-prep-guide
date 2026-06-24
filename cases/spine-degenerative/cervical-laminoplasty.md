@@ -27,8 +27,8 @@
 ---
 
 ## Past Medical History
-- [ ] Cervical alignment (lordosis required), axial neck pain severity (laminoplasty doesn't address mechanical pain well)
-- [ ] RA, instability (relative contraindications), smoking
+- Cervical alignment (lordosis required), axial neck pain severity (laminoplasty doesn't address mechanical pain well)
+- RA, instability (relative contraindications), smoking
 - Standard PMH
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen, HbA1c
+- CBC, BMP, Coags, Type and screen, HbA1c
 
 ---
 
@@ -80,15 +80,15 @@
 4. Facets (preserve — avoid fusion/instability)
 
 ### Equipment
-- [ ] High-speed drill (key for troughs/hinge), Kerrison
-- [ ] Laminoplasty plates/spacers (open-door) or bone strut/spacer (French-door), fluoroscopy
-- [ ] Hemostatic agents, drain
+- High-speed drill (key for troughs/hinge), Kerrison
+- Laminoplasty plates/spacers (open-door) or bone strut/spacer (French-door), fluoroscopy
+- Hemostatic agents, drain
 
 ### Monitoring
-- [ ] SSEPs, MEPs, EMG; check after positioning and during door opening
+- SSEPs, MEPs, EMG; check after positioning and during door opening
 
 ### Anesthesia
-- [ ] MAP > 85, no paralytic (IONM), prone precautions (eyes), TXA
+- MAP > 85, no paralytic (IONM), prone precautions (eyes), TXA
 
 ### Potential Complications
 1. **C5 palsy** (deltoid/biceps weakness, usually recovers)
@@ -124,7 +124,7 @@ Hemostasis was obtained, a drain placed, and closure performed in layers. The pa
 ---
 
 ## Postoperative Plan
-- [ ] Step-down/floor, neuro checks q2h (**C5 palsy watch**)
-- [ ] Early mobilization, soft collar briefly, **early ROM exercises** (reduce stiffness)
-- [ ] X-rays POD1, drain management, DVT prophylaxis
-- [ ] Pain control, follow-up imaging; counsel re: axial pain/stiffness and C5 palsy
+- Step-down/floor, neuro checks q2h (**C5 palsy watch**)
+- Early mobilization, soft collar briefly, **early ROM exercises** (reduce stiffness)
+- X-rays POD1, drain management, DVT prophylaxis
+- Pain control, follow-up imaging; counsel re: axial pain/stiffness and C5 palsy

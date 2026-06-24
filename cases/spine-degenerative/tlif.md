@@ -42,12 +42,12 @@
 ---
 
 ## Past Medical History
-- [ ] Prior lumbar surgery (same level = revision; adjacent = ASD)
-- [ ] Smoking (MUST quit — fusion rates significantly reduced)
-- [ ] Diabetes (HbA1c — poor control impairs fusion and increases infection)
-- [ ] Osteoporosis (DEXA T-score; affects screw purchase)
-- [ ] Obesity (BMI — affects approach, healing, instrumentation)
-- [ ] Depression/anxiety (predicts pain outcomes)
+- Prior lumbar surgery (same level = revision; adjacent = ASD)
+- Smoking (MUST quit — fusion rates significantly reduced)
+- Diabetes (HbA1c — poor control impairs fusion and increases infection)
+- Osteoporosis (DEXA T-score; affects screw purchase)
+- Obesity (BMI — affects approach, healing, instrumentation)
+- Depression/anxiety (predicts pain outcomes)
 - Allergies:
 - Medications:
 
@@ -81,14 +81,14 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags
-- [ ] Type and screen
-- [ ] HbA1c (< 8% preferred for elective fusion)
-- [ ] Vitamin D, calcium
-- [ ] Albumin/prealbumin (nutrition)
-- [ ] DEXA scan results (if osteoporosis concern)
-- [ ] Urinalysis (rule out UTI pre-op)
-- [ ] Nicotine/cotinine level (smoking cessation documented)
+- CBC, BMP, Coags
+- Type and screen
+- HbA1c (< 8% preferred for elective fusion)
+- Vitamin D, calcium
+- Albumin/prealbumin (nutrition)
+- DEXA scan results (if osteoporosis concern)
+- Urinalysis (rule out UTI pre-op)
+- Nicotine/cotinine level (smoking cessation documented)
 
 ---
 
@@ -179,32 +179,32 @@
 6. **Segmental vessels** — at each level on the vertebral body
 
 ### Equipment
-- [ ] C-arm fluoroscopy (or O-arm/navigation)
-- [ ] Pedicle screw system (screws, rods, set screws, connectors)
-- [ ] Interbody cage(s) and trials (TLIF cage — banana-shaped or bullet-shaped)
-- [ ] Kerrison rongeurs, pituitary rongeurs, curettes
-- [ ] High-speed drill
-- [ ] Pedicle probe, tap, ball-tip probe (for checking screw trajectory)
-- [ ] Bone graft: Local bone, allograft, bone substitute (DBM)
-- [ ] Hemostatic agents
-- [ ] Drain (optional)
-- [ ] [BMP: controversial — typically NOT used in TLIF due to cage proximity to neural elements]
+- C-arm fluoroscopy (or O-arm/navigation)
+- Pedicle screw system (screws, rods, set screws, connectors)
+- Interbody cage(s) and trials (TLIF cage — banana-shaped or bullet-shaped)
+- Kerrison rongeurs, pituitary rongeurs, curettes
+- High-speed drill
+- Pedicle probe, tap, ball-tip probe (for checking screw trajectory)
+- Bone graft: Local bone, allograft, bone substitute (DBM)
+- Hemostatic agents
+- Drain (optional)
+- [BMP: controversial — typically NOT used in TLIF due to cage proximity to neural elements]
 
 ### Monitoring
-- [ ] SSEPs
-- [ ] MEPs
-- [ ] Triggered EMG (pedicle screw stimulation — threshold > 10-12 mA suggests intact medial wall)
+- SSEPs
+- MEPs
+- Triggered EMG (pedicle screw stimulation — threshold > 10-12 mA suggests intact medial wall)
 
 ### Anesthesia
-- [ ] General endotracheal anesthesia
-- [ ] Arterial line (multi-level or complex revision)
-- [ ] Foley
-- [ ] Cefazolin 2g IV (redose every 4 hours)
-- [ ] Tranexamic acid 1g IV (reduces blood loss)
-- [ ] No paralytic (IONM)
-- [ ] Keep MAP > 80
-- [ ] Cell saver (revision cases)
-- [ ] Keep well-hydrated (spine surgery bleeding)
+- General endotracheal anesthesia
+- Arterial line (multi-level or complex revision)
+- Foley
+- Cefazolin 2g IV (redose every 4 hours)
+- Tranexamic acid 1g IV (reduces blood loss)
+- No paralytic (IONM)
+- Keep MAP > 80
+- Cell saver (revision cases)
+- Keep well-hydrated (spine surgery bleeding)
 
 ### Potential Complications
 1. **Nerve root injury** — radiculopathy from retraction, screw, or cage malposition; check monitoring
@@ -219,19 +219,19 @@
 ---
 
 ## Postoperative Plan
-- [ ] Floor admission
-- [ ] Neuro checks on arrival (compare to baseline)
-- [ ] Ambulate POD0 or POD1 with PT
-- [ ] Lumbar X-rays POD1 (AP and lateral — hardware position, alignment)
-- [ ] CT scan for screw assessment (per surgeon preference — some do intraoperative)
-- [ ] DVT prophylaxis: SCDs immediately; heparin SQ when hemostasis confirmed
-- [ ] Pain management: Multimodal (acetaminophen, gabapentin/pregabalin, NSAIDs [some avoid for fusion concern], limited opioids, ice)
-- [ ] Drain removal: When output < 50-100 mL/24h
-- [ ] Diet: Regular
-- [ ] Activity: Walk 4x daily; no BLT (bending, lifting, twisting) > 10 lbs x 6 weeks
-- [ ] Lumbar brace: Per surgeon preference (evidence mixed; typically 6-12 weeks)
-- [ ] Smoking cessation: CRITICAL for fusion
-- [ ] Bone health: If osteoporotic — calcium, vitamin D, consider anabolic agent
-- [ ] Follow-up: 2 weeks (wound); 6 weeks (X-ray); 3-6 months (CT for fusion); 1 year
-- [ ] Fusion assessment: CT at 6-12 months showing bridging bone through cage and posterolateral
-- [ ] Discharge: POD 1-3 typically
+- Floor admission
+- Neuro checks on arrival (compare to baseline)
+- Ambulate POD0 or POD1 with PT
+- Lumbar X-rays POD1 (AP and lateral — hardware position, alignment)
+- CT scan for screw assessment (per surgeon preference — some do intraoperative)
+- DVT prophylaxis: SCDs immediately; heparin SQ when hemostasis confirmed
+- Pain management: Multimodal (acetaminophen, gabapentin/pregabalin, NSAIDs [some avoid for fusion concern], limited opioids, ice)
+- Drain removal: When output < 50-100 mL/24h
+- Diet: Regular
+- Activity: Walk 4x daily; no BLT (bending, lifting, twisting) > 10 lbs x 6 weeks
+- Lumbar brace: Per surgeon preference (evidence mixed; typically 6-12 weeks)
+- Smoking cessation: CRITICAL for fusion
+- Bone health: If osteoporotic — calcium, vitamin D, consider anabolic agent
+- Follow-up: 2 weeks (wound); 6 weeks (X-ray); 3-6 months (CT for fusion); 1 year
+- Fusion assessment: CT at 6-12 months showing bridging bone through cage and posterolateral
+- Discharge: POD 1-3 typically

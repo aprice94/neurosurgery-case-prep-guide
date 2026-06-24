@@ -26,7 +26,7 @@
 ---
 
 ## Past Medical History
-- [ ] Associated injuries (subclavian/axillary vessels, clavicle/scapula fractures, head/chest), prior surgery
+- Associated injuries (subclavian/axillary vessels, clavicle/scapula fractures, head/chest), prior surgery
 - Standard PMH; smoking (affects nerve healing)
 
 ---
@@ -43,7 +43,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
+- CBC, BMP, Coags, type and screen
 
 ---
 
@@ -85,15 +85,15 @@
 5. Plexus elements (preserve conducting fascicles — NAP-guided)
 
 ### Equipment
-- [ ] Microscope, microsurgical instruments, **nerve stimulator + NAP recording**, microsuture, fibrin glue
-- [ ] **Sural nerve graft harvest set**, loupes, bipolar
-- [ ] Vessel loops, possible vascular backup
+- Microscope, microsurgical instruments, **nerve stimulator + NAP recording**, microsuture, fibrin glue
+- **Sural nerve graft harvest set**, loupes, bipolar
+- Vessel loops, possible vascular backup
 
 ### Monitoring
-- [ ] Intraoperative nerve stimulation / NAP / SSEP (preganglionic localization)
+- Intraoperative nerve stimulation / NAP / SSEP (preganglionic localization)
 
 ### Anesthesia
-- [ ] **No long-acting paralytic** (stimulation/NAP), general; positioning for multiple donor sites
+- **No long-acting paralytic** (stimulation/NAP), general; positioning for multiple donor sites
 
 ### Potential Complications
 1. Incomplete/failed reinnervation (timing/avulsion-dependent), donor-site deficit
@@ -126,8 +126,8 @@ Hemostasis was obtained and closure performed; the repairs were protected with [
 ---
 
 ## Postoperative Plan
-- [ ] Floor, neurovascular checks, **CXR (pneumothorax — supraclavicular)**, monitor for chyle leak (left)
-- [ ] **Immobilize/protect repairs** per surgeon (limit tension across coaptations for weeks)
-- [ ] Donor site (sural — sensory loss lateral foot) care
-- [ ] **Reinnervation is slow (~1 mm/day; months to years)** — Tinel advancement, serial EMG, intensive OT/PT, motor re-education (esp. transfers)
-- [ ] Pain management (neuropathic), counsel realistic timeline/expectations; long-term follow-up
+- Floor, neurovascular checks, **CXR (pneumothorax — supraclavicular)**, monitor for chyle leak (left)
+- **Immobilize/protect repairs** per surgeon (limit tension across coaptations for weeks)
+- Donor site (sural — sensory loss lateral foot) care
+- **Reinnervation is slow (~1 mm/day; months to years)** — Tinel advancement, serial EMG, intensive OT/PT, motor re-education (esp. transfers)
+- Pain management (neuropathic), counsel realistic timeline/expectations; long-term follow-up

@@ -39,7 +39,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -75,14 +75,14 @@
 4. Subarachnoid spread of contents → chemical meningitis
 
 ### Equipment
-- [ ] Microscope, navigation, micro-dissectors, CN stimulator
-- [ ] Copious irrigation, hydrocortisone (irrigation), hemostatic agents, dural substitute
+- Microscope, navigation, micro-dissectors, CN stimulator
+- Copious irrigation, hydrocortisone (irrigation), hemostatic agents, dural substitute
 
 ### Monitoring
-- [ ] BAER, CN EMG (VII, V, lower CNs), SSEPs
+- BAER, CN EMG (VII, V, lower CNs), SSEPs
 
 ### Anesthesia
-- [ ] Standard posterior fossa; antiemetics; steroids (chemical meningitis prophylaxis)
+- Standard posterior fossa; antiemetics; steroids (chemical meningitis prophylaxis)
 
 ### Potential Complications
 1. **Aseptic (chemical) meningitis** — from spilled keratin debris; copious irrigation + steroids reduce risk
@@ -117,8 +117,8 @@ A watertight dural closure was performed [with fat graft for air cells], the bon
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks q1h, CN/posterior fossa precautions
-- [ ] **Monitor for chemical meningitis** (fever, meningismus — LP if needed to exclude bacterial); steroids
-- [ ] CT/MRI postop (DWI for residual)
-- [ ] Antiemetics, DVT prophylaxis
-- [ ] Long-term surveillance MRI (slow recurrence of residual)
+- ICU/step-down, neuro checks q1h, CN/posterior fossa precautions
+- **Monitor for chemical meningitis** (fever, meningismus — LP if needed to exclude bacterial); steroids
+- CT/MRI postop (DWI for residual)
+- Antiemetics, DVT prophylaxis
+- Long-term surveillance MRI (slow recurrence of residual)

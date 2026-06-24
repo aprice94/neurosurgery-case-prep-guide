@@ -42,16 +42,16 @@
 ---
 
 ## Past Medical History
-- [ ] **Reason for original craniectomy** (malignant MCA stroke, TBI, hemorrhage, infection, tumor)
-- [ ] **Timing since craniectomy** — optimal window 6-12 weeks; document weeks/months elapsed
-- [ ] **Prior wound/bone flap infections** — number of episodes, organisms, treatment course; if infected → autologous bone contraindicated
-- [ ] **VP shunt** — present? functioning? may require simultaneous shunt revision; plan coordination with shunt surgeon; shunt valve under flap may affect implant fit
-- [ ] **Bone flap storage method** — frozen (cryopreserved) vs. subcutaneous abdominal pocket; document date stored, storage facility
-- [ ] **Radiation history** — cranial radiation impairs wound healing and bone integration; increases implant exposure risk
-- [ ] Prior seizure history / current AED use
-- [ ] Anticoagulant/antiplatelet use (hold timing)
-- [ ] Diabetes, immunosuppression, smoking (wound healing risk factors)
-- [ ] Connective tissue disorders
+- **Reason for original craniectomy** (malignant MCA stroke, TBI, hemorrhage, infection, tumor)
+- **Timing since craniectomy** — optimal window 6-12 weeks; document weeks/months elapsed
+- **Prior wound/bone flap infections** — number of episodes, organisms, treatment course; if infected → autologous bone contraindicated
+- **VP shunt** — present? functioning? may require simultaneous shunt revision; plan coordination with shunt surgeon; shunt valve under flap may affect implant fit
+- **Bone flap storage method** — frozen (cryopreserved) vs. subcutaneous abdominal pocket; document date stored, storage facility
+- **Radiation history** — cranial radiation impairs wound healing and bone integration; increases implant exposure risk
+- Prior seizure history / current AED use
+- Anticoagulant/antiplatelet use (hold timing)
+- Diabetes, immunosuppression, smoking (wound healing risk factors)
+- Connective tissue disorders
 - Allergies (especially nickel — relevant for titanium alloy implants):
 - Medications:
 
@@ -74,10 +74,10 @@
 - **3D reconstruction** — essential for custom implant planning (PEEK/titanium); provides data for CAD/CAM fabrication
 
 ### Custom Implant Planning CT
-- [ ] Thin-cut CT (≤ 1 mm slices) obtained per manufacturer specifications
-- [ ] DICOM sent to implant manufacturer for patient-specific implant design
-- [ ] Virtual surgical planning (VSP) review session completed with manufacturer
-- [ ] Implant design approved; fabrication lead time accounted for (typically 4-6 weeks)
+- Thin-cut CT (≤ 1 mm slices) obtained per manufacturer specifications
+- DICOM sent to implant manufacturer for patient-specific implant design
+- Virtual surgical planning (VSP) review session completed with manufacturer
+- Implant design approved; fabrication lead time accounted for (typically 4-6 weeks)
 
 ### CT Angiography (when indicated)
 - **Parasagittal defects** — assess superior sagittal sinus patency; SSS injury risk during dissection
@@ -87,14 +87,14 @@
 ---
 
 ## Labs
-- [ ] CBC (Hgb, WBC — baseline; Plt > 100K)
-- [ ] BMP
-- [ ] Coagulation (PT/INR < 1.4, PTT)
-- [ ] Type and screen
-- [ ] **CRP / ESR** — rule out subclinical infection; elevated values warrant further workup before proceeding
-- [ ] **Prealbumin / albumin** — nutritional status (poor nutrition → impaired wound healing)
-- [ ] If any concern for infection: wound/scalp cultures, consider bone flap cultures at time of surgery
-- [ ] HbA1c (if diabetic — optimize glucose control pre-operatively)
+- CBC (Hgb, WBC — baseline; Plt > 100K)
+- BMP
+- Coagulation (PT/INR < 1.4, PTT)
+- Type and screen
+- **CRP / ESR** — rule out subclinical infection; elevated values warrant further workup before proceeding
+- **Prealbumin / albumin** — nutritional status (poor nutrition → impaired wound healing)
+- If any concern for infection: wound/scalp cultures, consider bone flap cultures at time of surgery
+- HbA1c (if diabetic — optimize glucose control pre-operatively)
 
 ---
 
@@ -107,12 +107,12 @@
 - Mood/affect (depression, anxiety common with cranial defects)
 
 ### Syndrome of the Trephined Assessment
-- [ ] Headache (positional — worse upright, improved recumbent)
-- [ ] Cognitive decline since craniectomy (paradoxical worsening despite resolved primary pathology)
-- [ ] Motor regression contralateral to defect
-- [ ] Dizziness, fatigue, irritability
-- [ ] **Paradoxical herniation** — atmospheric pressure on brain through defect causes shifting; look for worsening deficits in upright position, improvement when recumbent
-- [ ] Sunken scalp flap — degree of concavity
+- Headache (positional — worse upright, improved recumbent)
+- Cognitive decline since craniectomy (paradoxical worsening despite resolved primary pathology)
+- Motor regression contralateral to defect
+- Dizziness, fatigue, irritability
+- **Paradoxical herniation** — atmospheric pressure on brain through defect causes shifting; look for worsening deficits in upright position, improvement when recumbent
+- Sunken scalp flap — degree of concavity
 
 ### Motor
 - Contralateral hemiparesis (document strength in detail for post-op comparison):
@@ -179,20 +179,20 @@
 5. **Superficial temporal artery** — preserve when possible for future bypass option
 
 ### Equipment & Instrumentation
-- [ ] Implant (autologous flap / custom PEEK / custom titanium / PMMA + mixing supplies)
-- [ ] Cranial fixation system (titanium plates/screws of various sizes), drill
-- [ ] Subgaleal drain (Jackson-Pratt or similar)
-- [ ] Hemostatic agents (Surgicel, Gelfoam, bone wax)
-- [ ] Antibiotic irrigation (bacitracin/polymyxin saline)
-- [ ] Templates/sizers (if PMMA — for intraop molding)
-- [ ] Navigation (optional — helpful for complex defects or revision cases)
+- Implant (autologous flap / custom PEEK / custom titanium / PMMA + mixing supplies)
+- Cranial fixation system (titanium plates/screws of various sizes), drill
+- Subgaleal drain (Jackson-Pratt or similar)
+- Hemostatic agents (Surgicel, Gelfoam, bone wax)
+- Antibiotic irrigation (bacitracin/polymyxin saline)
+- Templates/sizers (if PMMA — for intraop molding)
+- Navigation (optional — helpful for complex defects or revision cases)
 
 ### Anesthesia Considerations
-- [ ] Cefazolin 2g IV (± vancomycin 1g IV if MRSA risk or synthetic implant per institutional protocol)
-- [ ] Standard general endotracheal anesthesia
-- [ ] Arterial line if prolonged case or significant comorbidities
-- [ ] Avoid nitrous oxide if any pneumocephalus concern
-- [ ] Blood products: type and screen (crossmatch if revision or large defect)
+- Cefazolin 2g IV (± vancomycin 1g IV if MRSA risk or synthetic implant per institutional protocol)
+- Standard general endotracheal anesthesia
+- Arterial line if prolonged case or significant comorbidities
+- Avoid nitrous oxide if any pneumocephalus concern
+- Blood products: type and screen (crossmatch if revision or large defect)
 
 ### Potential Complications & Contingencies
 1. **Infection** (~5-15%; higher with autologous bone, diabetes, prior infection) — may require implant removal, IV antibiotics, delayed re-cranioplasty
@@ -252,37 +252,37 @@ The [left/right] [frontotemporal/parietal/frontal] region was prepped and draped
 ---
 
 ## Postoperative Plan
-- [ ] Floor or step-down admission; neuro checks q2-4h x 24h
-- [ ] HOB 30 degrees
-- [ ] **CT head postop** (within 6 hours) — assess for hematoma (epidural/subgaleal), implant position, pneumocephalus
-- [ ] Subgaleal drain management — monitor output; remove when < 30 cc/8h (typically POD1-2)
-- [ ] **Wound monitoring** — daily inspection for erythema, fluctuance, drainage, dehiscence; infection window extends weeks to months postoperatively
-- [ ] Antibiotics — perioperative only per protocol (unless infection risk warrants extended course)
-- [ ] DVT prophylaxis: SCDs immediately, chemical prophylaxis per protocol
-- [ ] Pain management: acetaminophen-based; avoid NSAIDs in early postop period
-- [ ] Continue home AEDs; seizure precautions
-- [ ] **Helmet discontinuation** — protective helmet no longer required after cranioplasty; advise patient
-- [ ] Diet: advance as tolerated
-- [ ] **Document syndrome of the trephined improvement** — compare headache, cognition, motor function to preoperative baseline; improvement may be gradual over weeks
+- Floor or step-down admission; neuro checks q2-4h x 24h
+- HOB 30 degrees
+- **CT head postop** (within 6 hours) — assess for hematoma (epidural/subgaleal), implant position, pneumocephalus
+- Subgaleal drain management — monitor output; remove when < 30 cc/8h (typically POD1-2)
+- **Wound monitoring** — daily inspection for erythema, fluctuance, drainage, dehiscence; infection window extends weeks to months postoperatively
+- Antibiotics — perioperative only per protocol (unless infection risk warrants extended course)
+- DVT prophylaxis: SCDs immediately, chemical prophylaxis per protocol
+- Pain management: acetaminophen-based; avoid NSAIDs in early postop period
+- Continue home AEDs; seizure precautions
+- **Helmet discontinuation** — protective helmet no longer required after cranioplasty; advise patient
+- Diet: advance as tolerated
+- **Document syndrome of the trephined improvement** — compare headache, cognition, motor function to preoperative baseline; improvement may be gradual over weeks
 
 ### Implant-Specific Follow-Up
 
 **Autologous bone flap:**
-- [ ] Surveillance CT at 3-6 months, then annually x 2-3 years — monitor for **bone flap resorption** (thinning, fragmentation, lucencies)
-- [ ] If progressive resorption → plan revision cranioplasty with synthetic implant
+- Surveillance CT at 3-6 months, then annually x 2-3 years — monitor for **bone flap resorption** (thinning, fragmentation, lucencies)
+- If progressive resorption → plan revision cranioplasty with synthetic implant
 
 **Synthetic implant (PEEK / titanium / PMMA):**
-- [ ] CT at 3-6 months to confirm stable position
-- [ ] No resorption risk, but monitor for implant exposure, hardware prominence, infection
+- CT at 3-6 months to confirm stable position
+- No resorption risk, but monitor for implant exposure, hardware prominence, infection
 
 ### Return to Activity
-- [ ] No contact sports or activities risking head impact for 6-8 weeks
-- [ ] Driving: per institutional protocol and neurological status
-- [ ] Return to work: individualized based on deficits, occupation, and recovery
-- [ ] **Cosmetic outcome assessment** at 3-month follow-up — contour symmetry, temporal hollowing, scar cosmesis; discuss revision options if needed
+- No contact sports or activities risking head impact for 6-8 weeks
+- Driving: per institutional protocol and neurological status
+- Return to work: individualized based on deficits, occupation, and recovery
+- **Cosmetic outcome assessment** at 3-month follow-up — contour symmetry, temporal hollowing, scar cosmesis; discuss revision options if needed
 
 ### Follow-Up Schedule
-- [ ] Wound check: 1-2 weeks postop (staple removal)
-- [ ] Clinic follow-up: 4-6 weeks
-- [ ] Surveillance imaging: 3-6 months, then per implant type (see above)
-- [ ] Long-term: annual visit x 2-3 years for autologous grafts; as needed for synthetic
+- Wound check: 1-2 weeks postop (staple removal)
+- Clinic follow-up: 4-6 weeks
+- Surveillance imaging: 3-6 months, then per implant type (see above)
+- Long-term: annual visit x 2-3 years for autologous grafts; as needed for synthetic

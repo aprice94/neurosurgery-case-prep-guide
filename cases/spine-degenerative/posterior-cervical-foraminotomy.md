@@ -43,7 +43,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -77,15 +77,15 @@
 5. Epidural venous plexus (bleeding)
 
 ### Equipment
-- [ ] Tubular retractor system (MIS) or standard retractors
-- [ ] High-speed drill, fine Kerrison rongeurs, nerve hooks, micro-instruments
-- [ ] Fluoroscopy, bipolar, hemostatic agents, microscope/loupes/endoscope
+- Tubular retractor system (MIS) or standard retractors
+- High-speed drill, fine Kerrison rongeurs, nerve hooks, micro-instruments
+- Fluoroscopy, bipolar, hemostatic agents, microscope/loupes/endoscope
 
 ### Monitoring
-- [ ] Optional EMG/SSEP; precordial Doppler if sitting
+- Optional EMG/SSEP; precordial Doppler if sitting
 
 ### Anesthesia
-- [ ] General; if sitting → VAE precautions; standard
+- General; if sitting → VAE precautions; standard
 
 ### Potential Complications
 1. Nerve root injury (retraction)
@@ -121,7 +121,7 @@ The tube was removed [/ minimal closure performed]. The patient was awakened wit
 ---
 
 ## Postoperative Plan
-- [ ] Same-day or overnight; neuro checks (arm function)
-- [ ] No collar/fusion; early mobilization
-- [ ] Pain control, activity as tolerated
-- [ ] Follow-up 2-4 weeks; expect good radicular pain relief, motion preserved
+- Same-day or overnight; neuro checks (arm function)
+- No collar/fusion; early mobilization
+- Pain control, activity as tolerated
+- Follow-up 2-4 weeks; expect good radicular pain relief, motion preserved

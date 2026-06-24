@@ -40,21 +40,21 @@
 - Motor deficit: Foot drop (L5), plantarflexion weakness (S1)
 - Failed conservative management: Duration ___, modalities tried (PT, NSAIDs, oral steroids, epidural injections)
 - **Red flags (cauda equina syndrome):**
-  - [ ] Saddle anesthesia
-  - [ ] Bowel/bladder dysfunction (retention > incontinence)
-  - [ ] Bilateral leg symptoms
-  - [ ] Progressive motor deficit
+  - Saddle anesthesia
+  - Bowel/bladder dysfunction (retention > incontinence)
+  - Bilateral leg symptoms
+  - Progressive motor deficit
   - **If CES → EMERGENT SURGERY**
 
 ---
 
 ## Past Medical History
-- [ ] Prior lumbar surgery (same or adjacent level)
-- [ ] Diabetes (neuropathy may confound exam)
-- [ ] Peripheral vascular disease
-- [ ] Obesity (BMI)
-- [ ] Smoking
-- [ ] Workers' compensation / litigation (may affect outcomes)
+- Prior lumbar surgery (same or adjacent level)
+- Diabetes (neuropathy may confound exam)
+- Peripheral vascular disease
+- Obesity (BMI)
+- Smoking
+- Workers' compensation / litigation (may affect outcomes)
 - Allergies:
 - Medications:
 
@@ -88,13 +88,13 @@
 ---
 
 ## Labs
-- [ ] CBC
-- [ ] BMP
-- [ ] Coagulation
-- [ ] Type and screen (rarely needed)
-- [ ] HbA1c (if diabetic)
-- [ ] UA (if CES symptoms)
-- [ ] Post-void residual (if bladder symptoms)
+- CBC
+- BMP
+- Coagulation
+- Type and screen (rarely needed)
+- HbA1c (if diabetic)
+- UA (if CES symptoms)
+- Post-void residual (if bladder symptoms)
 
 ---
 
@@ -203,32 +203,32 @@
 6. **Great vessels (aorta/IVC/iliac)** — anterior to disc space; rare but CATASTROPHIC vascular injury if pituitary rongeur passes through anterior annulus. Do NOT plunge instruments anteriorly
 
 ### Equipment
-- [ ] Operating microscope OR loupes + headlight
-- [ ] C-arm fluoroscopy (for level confirmation)
-- [ ] McCulloch retractor set (or tubular retractor for MIS)
-- [ ] Kerrison rongeurs (2mm, 3mm, 4mm)
-- [ ] Pituitary rongeurs (various angles)
-- [ ] Curettes (angled, straight)
-- [ ] Nerve root retractors (small, medium)
-- [ ] Nerve hook
-- [ ] Penfield dissectors
-- [ ] High-speed drill (if bony decompression needed)
-- [ ] Bipolar forceps
-- [ ] Hemostatic agents (Gelfoam, thrombin, Surgicel)
+- Operating microscope OR loupes + headlight
+- C-arm fluoroscopy (for level confirmation)
+- McCulloch retractor set (or tubular retractor for MIS)
+- Kerrison rongeurs (2mm, 3mm, 4mm)
+- Pituitary rongeurs (various angles)
+- Curettes (angled, straight)
+- Nerve root retractors (small, medium)
+- Nerve hook
+- Penfield dissectors
+- High-speed drill (if bony decompression needed)
+- Bipolar forceps
+- Hemostatic agents (Gelfoam, thrombin, Surgicel)
 
 ### Monitoring
-- [ ] Standard ASA monitors
-- [ ] EMG monitoring (triggered — optional but recommended)
-- [ ] No SSEPs/MEPs typically needed for standard microdiscectomy
+- Standard ASA monitors
+- EMG monitoring (triggered — optional but recommended)
+- No SSEPs/MEPs typically needed for standard microdiscectomy
 
 ### Anesthesia Considerations
-- [ ] General endotracheal anesthesia
-- [ ] Foley catheter (if CES or expected long case)
-- [ ] Cefazolin 2g IV
-- [ ] Dexamethasone 10 mg IV (optional — reduces root edema)
-- [ ] No paralytic after intubation (if EMG monitoring)
-- [ ] SBP control (reduce epidural bleeding)
-- [ ] Verify abdomen is free after positioning
+- General endotracheal anesthesia
+- Foley catheter (if CES or expected long case)
+- Cefazolin 2g IV
+- Dexamethasone 10 mg IV (optional — reduces root edema)
+- No paralytic after intubation (if EMG monitoring)
+- SBP control (reduce epidural bleeding)
+- Verify abdomen is free after positioning
 
 ### Potential Complications & Contingencies
 1. **Dural tear / CSF leak** — primary repair if possible (5-0 or 6-0 Prolene); if not, Duragen + fibrin glue + muscle patch. Flat bed rest x 48-72h post-op
@@ -283,16 +283,16 @@ The lower back was prepped and draped in standard sterile fashion. Cefazolin [2g
 ---
 
 ## Postoperative Plan
-- [ ] Same-day discharge (ambulatory surgery) OR overnight observation
-- [ ] Neuro checks in PACU: Motor and sensory in lower extremities
-- [ ] Activity: Ambulate same day; no heavy lifting > 10-15 lbs x 6 weeks
-- [ ] Wound care: Keep dry x 48h; Dermabond will peel off naturally
-- [ ] Pain: Acetaminophen, NSAIDs, limited narcotics, ice
-- [ ] DVT prophylaxis: Early ambulation; SCDs if admitted
-- [ ] Diet: Regular
-- [ ] If CES presentation: Foley, check post-void residual; may need short-term bladder management
-- [ ] If dural tear: Flat bed rest x 48-72h, monitor for headache
-- [ ] Return precautions: Fever, new weakness, bowel/bladder dysfunction, wound drainage, severe worsening pain
-- [ ] Follow-up: Clinic 2-4 weeks
-- [ ] Physical therapy: Start at 4-6 weeks post-op
-- [ ] Expected outcomes: 85-95% good/excellent pain relief for radiculopathy; motor recovery varies (the longer the deficit persisted pre-op, the less likely full recovery)
+- Same-day discharge (ambulatory surgery) OR overnight observation
+- Neuro checks in PACU: Motor and sensory in lower extremities
+- Activity: Ambulate same day; no heavy lifting > 10-15 lbs x 6 weeks
+- Wound care: Keep dry x 48h; Dermabond will peel off naturally
+- Pain: Acetaminophen, NSAIDs, limited narcotics, ice
+- DVT prophylaxis: Early ambulation; SCDs if admitted
+- Diet: Regular
+- If CES presentation: Foley, check post-void residual; may need short-term bladder management
+- If dural tear: Flat bed rest x 48-72h, monitor for headache
+- Return precautions: Fever, new weakness, bowel/bladder dysfunction, wound drainage, severe worsening pain
+- Follow-up: Clinic 2-4 weeks
+- Physical therapy: Start at 4-6 weeks post-op
+- Expected outcomes: 85-95% good/excellent pain relief for radiculopathy; motor recovery varies (the longer the deficit persisted pre-op, the less likely full recovery)

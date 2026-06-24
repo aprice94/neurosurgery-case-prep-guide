@@ -43,7 +43,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and crossmatch
+- CBC, BMP, Coags, type and crossmatch
 
 ---
 
@@ -83,14 +83,14 @@
 5. Dura (CSF leak — high in posterior fossa/CCJ)
 
 ### Equipment
-- [ ] Microscope, navigation, **high-speed drill (condyle/tubercle)**, CUSA, ICG
-- [ ] CN stimulator, fat graft, dural substitute, sealant, occipitocervical fixation set (standby)
+- Microscope, navigation, **high-speed drill (condyle/tubercle)**, CUSA, ICG
+- CN stimulator, fat graft, dural substitute, sealant, occipitocervical fixation set (standby)
 
 ### Monitoring
-- [ ] **SSEPs, MEPs, lower CN EMG (IX-XII), BAER**
+- **SSEPs, MEPs, lower CN EMG (IX-XII), BAER**
 
 ### Anesthesia
-- [ ] Arterial line, crossmatched blood, MAP support, VAE precautions (if sitting), antiemetics; **lower CN at risk → airway/aspiration planning**
+- Arterial line, crossmatched blood, MAP support, VAE precautions (if sitting), antiemetics; **lower CN at risk → airway/aspiration planning**
 
 ### Potential Complications
 1. **Lower cranial nerve deficits** (dysphagia/aspiration, hoarseness, tongue) — swallow eval before PO
@@ -125,8 +125,8 @@ The patient was transferred to the ICU with lower-CN/posterior-fossa precautions
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h, **lower CN/posterior fossa precautions** (airway, swallow, respiratory)
-- [ ] **Swallow evaluation before PO** (CN IX/X), aspiration precautions; voice assessment
-- [ ] CT 6h, MRI postop; CSF leak/pseudomeningocele watch
-- [ ] Antiemetics, DVT prophylaxis; assess CCJ stability (if transcondylar)
-- [ ] Residual → radiosurgery/surveillance; rehab; follow-up
+- ICU, neuro checks q1h, **lower CN/posterior fossa precautions** (airway, swallow, respiratory)
+- **Swallow evaluation before PO** (CN IX/X), aspiration precautions; voice assessment
+- CT 6h, MRI postop; CSF leak/pseudomeningocele watch
+- Antiemetics, DVT prophylaxis; assess CCJ stability (if transcondylar)
+- Residual → radiosurgery/surveillance; rehab; follow-up

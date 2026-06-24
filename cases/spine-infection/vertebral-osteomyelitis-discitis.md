@@ -24,7 +24,7 @@
 ---
 
 ## Past Medical History
-- [ ] IVDU, diabetes, immunocompromise, endocarditis, **TB risk**, brucella exposure, recent instrumentation
+- IVDU, diabetes, immunocompromise, endocarditis, **TB risk**, brucella exposure, recent instrumentation
 - Standard PMH
 
 ---
@@ -41,9 +41,9 @@
 ---
 
 ## Labs
-- [ ] **Blood cultures**, CBC, **ESR/CRP** (trend), BMP, Coags, type and screen
-- [ ] **CT-guided biopsy** (organism — before antibiotics if stable), AFB/fungal/brucella, HIV, glucose/HbA1c
-- [ ] Quantiferon/PPD (TB)
+- **Blood cultures**, CBC, **ESR/CRP** (trend), BMP, Coags, type and screen
+- **CT-guided biopsy** (organism — before antibiotics if stable), AFB/fungal/brucella, HIV, glucose/HbA1c
+- Quantiferon/PPD (TB)
 
 ---
 
@@ -77,15 +77,15 @@
 3. Dura (CSF leak), spinal stability/alignment
 
 ### Equipment
-- [ ] **Culture media (incl. AFB/fungal/brucella)**, debridement instruments, copious irrigation
-- [ ] Anterior reconstruction (cage/graft) + instrumentation, fluoroscopy/navigation
-- [ ] Microscope, drain, vascular backup (anterior)
+- **Culture media (incl. AFB/fungal/brucella)**, debridement instruments, copious irrigation
+- Anterior reconstruction (cage/graft) + instrumentation, fluoroscopy/navigation
+- Microscope, drain, vascular backup (anterior)
 
 ### Monitoring
-- [ ] SSEPs, MEPs (deficit/deformity)
+- SSEPs, MEPs (deficit/deformity)
 
 ### Anesthesia
-- [ ] Sepsis/MAP management, lung isolation (anterior thoracic), arterial line, crossmatch, antibiotic timing vs cultures
+- Sepsis/MAP management, lung isolation (anterior thoracic), arterial line, crossmatch, antibiotic timing vs cultures
 
 ### Potential Complications
 1. **Persistent/recurrent infection** (inadequate debridement), sepsis
@@ -117,7 +117,7 @@ Closure was performed. The patient was transferred with ID-directed IV antibioti
 ---
 
 ## Postoperative Plan
-- [ ] ICU/floor, neuro checks, **ID consult — organism-directed IV antibiotics 6+ weeks** (longer for TB — multidrug), trend ESR/CRP
-- [ ] CT/X-ray (hardware, alignment, fusion), brace per surgeon
-- [ ] DVT prophylaxis, address risk factors (glucose, addiction medicine), nutrition
-- [ ] Monitor for recurrence/instability; follow-up imaging and labs; rehab
+- ICU/floor, neuro checks, **ID consult — organism-directed IV antibiotics 6+ weeks** (longer for TB — multidrug), trend ESR/CRP
+- CT/X-ray (hardware, alignment, fusion), brace per surgeon
+- DVT prophylaxis, address risk factors (glucose, addiction medicine), nutrition
+- Monitor for recurrence/instability; follow-up imaging and labs; rehab

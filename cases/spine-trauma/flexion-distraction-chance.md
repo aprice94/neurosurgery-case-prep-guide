@@ -27,7 +27,7 @@
 ---
 
 ## Past Medical History
-- [ ] Associated trauma (abdominal — high index of suspicion), ankylosing spondylitis/DISH (transverse fractures through rigid spine)
+- Associated trauma (abdominal — high index of suspicion), ankylosing spondylitis/DISH (transverse fractures through rigid spine)
 - Standard PMH
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and crossmatch, **trauma labs** (lactate, etc.)
+- CBC, BMP, Coags, type and crossmatch, **trauma labs** (lactate, etc.)
 
 ---
 
@@ -79,13 +79,13 @@
 3. Alignment restoration; **associated abdominal viscera** (non-spine but critical)
 
 ### Equipment
-- [ ] Pedicle screw-rod system, fluoroscopy/navigation, bone graft, compression instruments
+- Pedicle screw-rod system, fluoroscopy/navigation, bone graft, compression instruments
 
 ### Monitoring
-- [ ] SSEPs, MEPs, EMG
+- SSEPs, MEPs, EMG
 
 ### Anesthesia
-- [ ] Arterial line if needed, MAP support (if SCI), no paralytic (IONM), prone precautions, coordinate with trauma
+- Arterial line if needed, MAP support (if SCI), no paralytic (IONM), prone precautions, coordinate with trauma
 
 ### Potential Complications
 1. **Missed intra-abdominal injury** (the key associated danger)
@@ -119,7 +119,7 @@ Hemostasis was obtained, a drain placed, and the wound closed in layers. The pat
 ---
 
 ## Postoperative Plan
-- [ ] ICU/floor per trauma status, neuro checks, **monitor for evolving abdominal injury** (serial exams, trauma service)
-- [ ] CT/X-ray postop (alignment, hardware), brace per surgeon
-- [ ] DVT prophylaxis (balance with bleeding/abdominal injury), mobilize
-- [ ] Follow-up imaging for fusion/alignment; rehab
+- ICU/floor per trauma status, neuro checks, **monitor for evolving abdominal injury** (serial exams, trauma service)
+- CT/X-ray postop (alignment, hardware), brace per surgeon
+- DVT prophylaxis (balance with bleeding/abdominal injury), mobilize
+- Follow-up imaging for fusion/alignment; rehab

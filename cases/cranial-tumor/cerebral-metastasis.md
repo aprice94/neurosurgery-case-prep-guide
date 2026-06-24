@@ -34,13 +34,13 @@
 - DTI/fMRI if eloquent
 
 ### Staging
-- [ ] CT chest/abdomen/pelvis, PET, primary workup if unknown (tissue diagnosis may be the goal)
+- CT chest/abdomen/pelvis, PET, primary workup if unknown (tissue diagnosis may be the goal)
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
-- [ ] Hold anticoagulation; hemorrhagic mets considerations
+- CBC, BMP, Coags, Type and screen
+- Hold anticoagulation; hemorrhagic mets considerations
 
 ---
 
@@ -74,14 +74,14 @@
 3. Deep nuclei (deep mets)
 
 ### Equipment
-- [ ] Microscope, navigation, ultrasound, CUSA (for debulking if needed)
-- [ ] Bipolar, hemostatic agents, mapping (if eloquent)
+- Microscope, navigation, ultrasound, CUSA (for debulking if needed)
+- Bipolar, hemostatic agents, mapping (if eloquent)
 
 ### Monitoring
-- [ ] SSEPs/MEPs/mapping if eloquent location
+- SSEPs/MEPs/mapping if eloquent location
 
 ### Anesthesia
-- [ ] Standard; dexamethasone (edema), levetiracetam, mannitol PRN
+- Standard; dexamethasone (edema), levetiracetam, mannitol PRN
 
 ### Potential Complications
 1. New neurological deficit (eloquent location)
@@ -118,9 +118,9 @@ The dura was closed, the bone flap replaced and fixed, and the scalp closed in l
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks q1h
-- [ ] MRI with gad < 48h (EOR), CT if hemorrhage concern
-- [ ] Dexamethasone taper, seizure prophylaxis per practice
-- [ ] DVT prophylaxis
-- [ ] **Adjuvant: SRS to resection cavity** (tumor board), systemic therapy coordination with oncology
-- [ ] Pathology (confirm primary/molecular markers), restage, oncology follow-up
+- ICU/step-down, neuro checks q1h
+- MRI with gad < 48h (EOR), CT if hemorrhage concern
+- Dexamethasone taper, seizure prophylaxis per practice
+- DVT prophylaxis
+- **Adjuvant: SRS to resection cavity** (tumor board), systemic therapy coordination with oncology
+- Pathology (confirm primary/molecular markers), restage, oncology follow-up

@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] Prior subdural drainage, meningitis/infection, trauma (consider NAT in infants — work up appropriately), coagulopathy
-- [ ] Etiology of collection
+- Prior subdural drainage, meningitis/infection, trauma (consider NAT in infants — work up appropriately), coagulopathy
+- Etiology of collection
 - Standard PMH
 
 ---
@@ -39,8 +39,8 @@
 ---
 
 ## Labs
-- [ ] CBC, **Coags (correct)**, BMP, type and screen
-- [ ] Infection workup if indicated
+- CBC, **Coags (correct)**, BMP, type and screen
+- Infection workup if indicated
 
 ---
 
@@ -68,11 +68,11 @@
 3. Overdrainage vs underdrainage balance; peritoneum/bowel (distal)
 
 ### Equipment
-- [ ] Shunt system with **low-pressure valve**, subdural (proximal) catheter, peritoneal catheter
-- [ ] Burr hole set, antibiotic-impregnated catheter, tunneler
+- Shunt system with **low-pressure valve**, subdural (proximal) catheter, peritoneal catheter
+- Burr hole set, antibiotic-impregnated catheter, tunneler
 
 ### Anesthesia
-- [ ] General; cefazolin; pediatric considerations (thermoregulation, blood volume)
+- General; cefazolin; pediatric considerations (thermoregulation, blood volume)
 
 ### Potential Complications
 1. Catheter obstruction/migration, **overdrainage (re-collapse, new collection) or underdrainage**
@@ -105,8 +105,8 @@ Closure was performed. The patient was transferred with head-circumference/imagi
 ---
 
 ## Postoperative Plan
-- [ ] Floor, neuro checks, head circumference/fontanelle (infants)
-- [ ] CT head (collection reduction, catheter position), shunt series baseline
-- [ ] Monitor for re-accumulation vs overdrainage, infection
-- [ ] **Plan for removal/conversion** once collection resolves (pediatric — avoid long-term foreign body)
-- [ ] Follow-up imaging; NAT workup/social work if applicable
+- Floor, neuro checks, head circumference/fontanelle (infants)
+- CT head (collection reduction, catheter position), shunt series baseline
+- Monitor for re-accumulation vs overdrainage, infection
+- **Plan for removal/conversion** once collection resolves (pediatric — avoid long-term foreign body)
+- Follow-up imaging; NAT workup/social work if applicable

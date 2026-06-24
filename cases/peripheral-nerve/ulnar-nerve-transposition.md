@@ -25,7 +25,7 @@
 ---
 
 ## Past Medical History
-- [ ] Diabetes, prior elbow trauma/fracture/arthritis, prior surgery, occupational/positional factors
+- Diabetes, prior elbow trauma/fracture/arthritis, prior surgery, occupational/positional factors
 - Standard PMH
 
 ---
@@ -39,7 +39,7 @@
 ---
 
 ## Labs
-- [ ] Per comorbidity; routine pre-op
+- Per comorbidity; routine pre-op
 
 ---
 
@@ -78,11 +78,11 @@
 4. Medial epicondyle, flexor-pronator origin (submuscular)
 
 ### Equipment
-- [ ] Minor/peripheral nerve set, tourniquet, loupes, bipolar, nerve stimulator
-- [ ] Endoscopic system (if endoscopic in situ)
+- Minor/peripheral nerve set, tourniquet, loupes, bipolar, nerve stimulator
+- Endoscopic system (if endoscopic in situ)
 
 ### Anesthesia
-- [ ] Regional/general; tourniquet
+- Regional/general; tourniquet
 
 ### Potential Complications
 1. Persistent/recurrent symptoms (incomplete release, perineural scar)
@@ -116,8 +116,8 @@ The tourniquet was released, hemostasis obtained, and closure performed [± spli
 ---
 
 ## Postoperative Plan
-- [ ] Outpatient; soft dressing ± elbow splint (submuscular longer immobilization), elevate
-- [ ] Early hand/finger ROM; elbow ROM progression per technique
-- [ ] Suture removal ~10-14 days; therapy
-- [ ] Counsel: sensory recovery before motor; atrophy/weakness slow to recover
-- [ ] Follow-up 2 weeks
+- Outpatient; soft dressing ± elbow splint (submuscular longer immobilization), elevate
+- Early hand/finger ROM; elbow ROM progression per technique
+- Suture removal ~10-14 days; therapy
+- Counsel: sensory recovery before motor; atrophy/weakness slow to recover
+- Follow-up 2 weeks

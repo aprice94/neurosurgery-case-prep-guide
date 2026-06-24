@@ -31,12 +31,12 @@
 - Plan each electrode's entry, trajectory, target with stereotactic planning software
 
 ### Planning
-- [ ] Multi-electrode plan (often 8-15 electrodes), each avoiding vessels/sulci, orthogonal or oblique trajectories
+- Multi-electrode plan (often 8-15 electrodes), each avoiding vessels/sulci, orthogonal or oblique trajectories
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, **Coags (normal — hemorrhage risk)**, Type and screen
+- CBC, BMP, **Coags (normal — hemorrhage risk)**, Type and screen
 
 ---
 
@@ -71,12 +71,12 @@
 3. Eloquent cortex (sampled but not injured by small electrodes)
 
 ### Equipment
-- [ ] Robot (ROSA/Mazor) or stereotactic frame, planning software
-- [ ] Twist drill, anchor bolts, depth (SEEG) electrodes
-- [ ] Intraoperative/postop CT, registration tools
+- Robot (ROSA/Mazor) or stereotactic frame, planning software
+- Twist drill, anchor bolts, depth (SEEG) electrodes
+- Intraoperative/postop CT, registration tools
 
 ### Anesthesia
-- [ ] General anesthesia; BP control (hemorrhage); often AEDs reduced AFTER implant (to capture seizures during monitoring — coordinate with epileptology)
+- General anesthesia; BP control (hemorrhage); often AEDs reduced AFTER implant (to capture seizures during monitoring — coordinate with epileptology)
 
 ### Potential Complications
 1. **Hemorrhage** (along trajectory) — main serious complication (~1-2%)
@@ -111,9 +111,9 @@ The patient was transferred to the epilepsy monitoring unit; AEDs were reduced p
 ---
 
 ## Postoperative Plan
-- [ ] Floor/EMU (epilepsy monitoring unit), neuro checks
-- [ ] **Postop CT** (hemorrhage, electrode positions), merge with MRI for localization
-- [ ] Transfer to EMU for video-SEEG monitoring; **reduce AEDs** to capture habitual seizures
-- [ ] Cortical stimulation mapping via electrodes (eloquent cortex, seizure provocation)
-- [ ] After monitoring: define epileptogenic zone → plan resection/ablation; **electrode explantation** (bedside or OR)
-- [ ] Epilepsy conference for surgical decision
+- Floor/EMU (epilepsy monitoring unit), neuro checks
+- **Postop CT** (hemorrhage, electrode positions), merge with MRI for localization
+- Transfer to EMU for video-SEEG monitoring; **reduce AEDs** to capture habitual seizures
+- Cortical stimulation mapping via electrodes (eloquent cortex, seizure provocation)
+- After monitoring: define epileptogenic zone → plan resection/ablation; **electrode explantation** (bedside or OR)
+- Epilepsy conference for surgical decision

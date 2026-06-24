@@ -30,11 +30,11 @@
 ---
 
 ## Past Medical History
-- [ ] Prior shunt/revisions (dates, sides, types)
-- [ ] Prior CNS infection (ventriculitis, meningitis)
-- [ ] Prior abdominal surgery (adhesions affect peritoneal catheter)
-- [ ] Peritoneal pathology (ascites, peritonitis, prior peritoneal catheter complications)
-- [ ] Latex allergy (spina bifida patients — high rate)
+- Prior shunt/revisions (dates, sides, types)
+- Prior CNS infection (ventriculitis, meningitis)
+- Prior abdominal surgery (adhesions affect peritoneal catheter)
+- Peritoneal pathology (ascites, peritonitis, prior peritoneal catheter complications)
+- Latex allergy (spina bifida patients — high rate)
 - Allergies:
 - Medications:
 
@@ -57,9 +57,9 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags
-- [ ] Type and screen
-- [ ] CSF studies from LP (if recent LP done — cell count, protein, glucose, culture)
+- CBC, BMP, Coags
+- Type and screen
+- CSF studies from LP (if recent LP done — cell count, protein, glucose, culture)
 
 ---
 
@@ -133,21 +133,21 @@
 4. **Subcutaneous tunnel:** Avoid skin erosion over hardware (adequate tissue coverage)
 
 ### Equipment
-- [ ] Shunt system (valve, ventricular catheter, peritoneal catheter, connectors)
-- [ ] Valve type: [Programmable — brand and initial setting]
-- [ ] Tunneling rod (shunt passer)
-- [ ] Drill (twist drill or perforator)
-- [ ] Navigation (optional but recommended for proximal catheter)
-- [ ] Antibiotics: Vancomycin irrigation per protocol
-- [ ] Antibiotic-impregnated catheter (Bactiseal or Ares — reduces infection rate)
+- Shunt system (valve, ventricular catheter, peritoneal catheter, connectors)
+- Valve type: [Programmable — brand and initial setting]
+- Tunneling rod (shunt passer)
+- Drill (twist drill or perforator)
+- Navigation (optional but recommended for proximal catheter)
+- Antibiotics: Vancomycin irrigation per protocol
+- Antibiotic-impregnated catheter (Bactiseal or Ares — reduces infection rate)
 
 ### Monitoring
 - Standard ASA monitors
 
 ### Anesthesia
-- [ ] General endotracheal anesthesia
-- [ ] Cefazolin 2g IV (some add vancomycin IV per protocol)
-- [ ] Single-dose abdominal/chest prep
+- General endotracheal anesthesia
+- Cefazolin 2g IV (some add vancomycin IV per protocol)
+- Single-dose abdominal/chest prep
 
 ### Potential Complications
 1. **Shunt infection** (5-10%) — presents days to weeks post-op; treated with shunt removal, EVD, IV antibiotics, then reshunt
@@ -173,17 +173,17 @@
 ---
 
 ## Postoperative Plan
-- [ ] Floor admission or step-down x 24 hours
-- [ ] Neuro checks q2h x 24h
-- [ ] CT head within 24 hours (catheter position, ventricle size)
-- [ ] Abdominal X-ray (confirm peritoneal catheter position and coiling)
-- [ ] Shunt series X-rays (skull, chest, abdomen) — baseline for future comparison
-- [ ] Monitor for signs of over-drainage: Positional headache, subdural collections
-- [ ] Monitor for signs of under-drainage: Persistent symptoms, enlarging ventricles
-- [ ] **Programmable valve setting:** Initial setting ___ ; document for patient records and card
-- [ ] **MRI safety:** Document valve type and MRI compatibility; most modern programmable valves are MRI-conditional but may need resetting after MRI
-- [ ] Wound care: Keep dry x 48h; inspect for CSF leak, redness
-- [ ] Activity: No heavy lifting x 4-6 weeks
-- [ ] Educate patient/family on shunt malfunction signs
-- [ ] Follow-up: 2-4 weeks clinic; CT at 3 months (new baseline ventricle size)
-- [ ] NPH patients: Repeat gait assessment at 1-3 months; adjust valve if needed
+- Floor admission or step-down x 24 hours
+- Neuro checks q2h x 24h
+- CT head within 24 hours (catheter position, ventricle size)
+- Abdominal X-ray (confirm peritoneal catheter position and coiling)
+- Shunt series X-rays (skull, chest, abdomen) — baseline for future comparison
+- Monitor for signs of over-drainage: Positional headache, subdural collections
+- Monitor for signs of under-drainage: Persistent symptoms, enlarging ventricles
+- **Programmable valve setting:** Initial setting ___ ; document for patient records and card
+- **MRI safety:** Document valve type and MRI compatibility; most modern programmable valves are MRI-conditional but may need resetting after MRI
+- Wound care: Keep dry x 48h; inspect for CSF leak, redness
+- Activity: No heavy lifting x 4-6 weeks
+- Educate patient/family on shunt malfunction signs
+- Follow-up: 2-4 weeks clinic; CT at 3 months (new baseline ventricle size)
+- NPH patients: Repeat gait assessment at 1-3 months; adjust valve if needed

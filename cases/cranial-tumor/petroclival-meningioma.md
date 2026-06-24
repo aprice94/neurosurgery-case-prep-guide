@@ -41,12 +41,12 @@
 - Petrous bone pneumatization, bony anatomy for petrosectomy, jugular bulb position, sigmoid/transverse sinus dominance
 
 ### Audiology
-- [ ] Baseline audiogram (approach selection, BAER)
+- Baseline audiogram (approach selection, BAER)
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch
+- CBC, BMP, Coags, Type and crossmatch
 
 ---
 
@@ -86,14 +86,14 @@
 5. **Labyrinth/cochlea** (hearing, during petrosectomy)
 
 ### Equipment
-- [ ] Microscope, navigation, high-speed drill (petrosectomy), CUSA, ICG
-- [ ] CN stimulator, fat graft, dural substitute, sealant
+- Microscope, navigation, high-speed drill (petrosectomy), CUSA, ICG
+- CN stimulator, fat graft, dural substitute, sealant
 
 ### Monitoring
-- [ ] SSEPs, MEPs, BAER, CN EMG (V, VII, VI, lower CNs)
+- SSEPs, MEPs, BAER, CN EMG (V, VII, VI, lower CNs)
 
 ### Anesthesia
-- [ ] Arterial line, crossmatched blood, long case, VAE precautions (if semi-sitting), antiemetics
+- Arterial line, crossmatched blood, long case, VAE precautions (if semi-sitting), antiemetics
 
 ### Potential Complications
 1. CN deficits (often multiple) — facial, hearing, swallowing, diplopia
@@ -128,8 +128,8 @@ The patient was transferred to the ICU with posterior-fossa/CN precautions.
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h, **posterior fossa & CN precautions**
-- [ ] CN assessment (facial HB grade, swallow eval before PO, eye care if VII palsy)
-- [ ] CT 6h, MRI postop; audiogram
-- [ ] Antiemetics, steroid taper, DVT prophylaxis
-- [ ] Residual → radiosurgery, surveillance MRI
+- ICU, neuro checks q1h, **posterior fossa & CN precautions**
+- CN assessment (facial HB grade, swallow eval before PO, eye care if VII palsy)
+- CT 6h, MRI postop; audiogram
+- Antiemetics, steroid taper, DVT prophylaxis
+- Residual → radiosurgery, surveillance MRI

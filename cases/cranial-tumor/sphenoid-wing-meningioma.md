@@ -47,12 +47,12 @@
 - Bony anatomy, optic canal, superior orbital fissure
 
 ### Ophthalmology
-- [ ] Visual acuity, fields, optic nerve function
+- Visual acuity, fields, optic nerve function
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch
+- CBC, BMP, Coags, Type and crossmatch
 
 ---
 
@@ -93,15 +93,15 @@
 5. **Superior orbital fissure / orbital apex contents**
 
 ### Equipment
-- [ ] Microscope, navigation, **high-speed drill (extensive bone work)**, CUSA
-- [ ] Micro-Doppler, ICG (ICA), aneurysm clips available
-- [ ] Orbital reconstruction material (titanium mesh), dural substitute
+- Microscope, navigation, **high-speed drill (extensive bone work)**, CUSA
+- Micro-Doppler, ICG (ICA), aneurysm clips available
+- Orbital reconstruction material (titanium mesh), dural substitute
 
 ### Monitoring
-- [ ] SSEPs, MEPs; VEPs (optional); CN EMG (III, IV, VI) if cavernous sinus
+- SSEPs, MEPs; VEPs (optional); CN EMG (III, IV, VI) if cavernous sinus
 
 ### Anesthesia
-- [ ] Arterial line, crossmatched blood, dexamethasone, mannitol
+- Arterial line, crossmatched blood, dexamethasone, mannitol
 
 ### Potential Complications
 1. **Visual loss** (optic nerve manipulation/devascularization)
@@ -137,7 +137,7 @@ Hemostasis was obtained, the dura reconstructed, the bone flap/orbital segment r
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h, **visual checks** (acuity/fields)
-- [ ] CT/MRI postop, ophthalmology follow-up
-- [ ] Seizure prophylaxis, steroid taper, DVT prophylaxis
-- [ ] Residual → tumor board, radiosurgery, surveillance MRI
+- ICU, neuro checks q1h, **visual checks** (acuity/fields)
+- CT/MRI postop, ophthalmology follow-up
+- Seizure prophylaxis, steroid taper, DVT prophylaxis
+- Residual → tumor board, radiosurgery, surveillance MRI

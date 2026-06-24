@@ -31,8 +31,8 @@
 ---
 
 ## Past Medical History
-- [ ] Syndromic features (limbs, midface, airway — Apert/Crouzon), genetics
-- [ ] Airway issues (syndromic), feeding, OSA
+- Syndromic features (limbs, midface, airway — Apert/Crouzon), genetics
+- Airway issues (syndromic), feeding, OSA
 - Birth/developmental history
 
 ---
@@ -48,8 +48,8 @@
 ---
 
 ## Labs
-- [ ] **CBC, type and CROSSMATCH (blood loss can be significant in infants)**, coagulation
-- [ ] Pre-op anesthesia/age-appropriate
+- **CBC, type and CROSSMATCH (blood loss can be significant in infants)**, coagulation
+- Pre-op anesthesia/age-appropriate
 
 ---
 
@@ -79,16 +79,16 @@
 4. Blood volume — **infants have small total blood volume; significant relative blood loss**
 
 ### Equipment
-- [ ] Endoscope + endoscopic craniectomy set OR open craniotomy/remodeling set
-- [ ] **Resorbable fixation plates/sutures**, high-speed drill/craniotome
-- [ ] **Crossmatched blood (have in room), cell saver, tranexamic acid**, hemostatic agents
-- [ ] Molding helmet plan (endoscopic), thermoregulation
+- Endoscope + endoscopic craniectomy set OR open craniotomy/remodeling set
+- **Resorbable fixation plates/sutures**, high-speed drill/craniotome
+- **Crossmatched blood (have in room), cell saver, tranexamic acid**, hemostatic agents
+- Molding helmet plan (endoscopic), thermoregulation
 
 ### Monitoring
-- [ ] Arterial line (open/blood loss), invasive monitoring; precordial Doppler (VAE — sinus exposure)
+- Arterial line (open/blood loss), invasive monitoring; precordial Doppler (VAE — sinus exposure)
 
 ### Anesthesia
-- [ ] **Arterial line, large-bore IV/central access, crossmatched blood ready, TXA**, careful infant fluid/thermoregulation, **VAE precautions** (sagittal sinus), blood loss vigilance
+- **Arterial line, large-bore IV/central access, crossmatched blood ready, TXA**, careful infant fluid/thermoregulation, **VAE precautions** (sagittal sinus), blood loss vigilance
 
 ### Potential Complications
 1. **Hemorrhage / blood loss** (transfusion usually needed in open; lower in endoscopic)
@@ -122,9 +122,9 @@ Closure was performed. The patient was transferred to the [PICU/floor] with Hgb/
 ---
 
 ## Postoperative Plan
-- [ ] PICU (open/blood loss) or floor (endoscopic), neuro checks, **monitor Hgb/transfusion needs**
-- [ ] Facial/periorbital swelling (FOA — eyes may swell shut, reassure), head dressing
-- [ ] **Helmet therapy ~1-2 weeks post-op (endoscopic)** for several months; helmet/orthotist referral
-- [ ] Pain control, feeding, thermoregulation
-- [ ] Craniofacial team follow-up, genetics (syndromic), ophthalmology, head shape/circumference surveillance
-- [ ] Long-term: monitor for raised ICP, reossification, need for revision (syndromic)
+- PICU (open/blood loss) or floor (endoscopic), neuro checks, **monitor Hgb/transfusion needs**
+- Facial/periorbital swelling (FOA — eyes may swell shut, reassure), head dressing
+- **Helmet therapy ~1-2 weeks post-op (endoscopic)** for several months; helmet/orthotist referral
+- Pain control, feeding, thermoregulation
+- Craniofacial team follow-up, genetics (syndromic), ophthalmology, head shape/circumference surveillance
+- Long-term: monitor for raised ICP, reossification, need for revision (syndromic)

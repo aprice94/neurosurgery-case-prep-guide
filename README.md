@@ -11,7 +11,7 @@ A structured, self-contained neurosurgical case-preparation knowledge base: **10
 
 ## Start here
 - **[INDEX.md](INDEX.md)** — master index linking every guide, organized by category
-- **[resources/neurosurgery-resources.json](resources/neurosurgery-resources.json)** — top 100 textbooks, atlases, platforms, journals, operative references
+- **[resources/neurosurgery-resources.md](resources/neurosurgery-resources.md)** — top 100 textbooks, atlases, platforms, journals, operative references
 - **[templates/case-prep-template.md](templates/case-prep-template.md)** — blank template for new cases
 
 ## What each guide contains

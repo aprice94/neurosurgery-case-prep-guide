@@ -35,7 +35,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags
+- CBC, BMP, Coags
 
 ---
 
@@ -74,16 +74,16 @@
 4. **CN III** (interpeduncular cistern)
 
 ### Equipment
-- [ ] Rigid neuroendoscope + working channel, peel-away sheath
-- [ ] Fogarty/ETV balloon catheter, blunt fenestration probe
-- [ ] Navigation (optional), irrigation (warm LR), biopsy forceps (if tumor)
-- [ ] EVD kit (backup)
+- Rigid neuroendoscope + working channel, peel-away sheath
+- Fogarty/ETV balloon catheter, blunt fenestration probe
+- Navigation (optional), irrigation (warm LR), biopsy forceps (if tumor)
+- EVD kit (backup)
 
 ### Monitoring
 - Standard; watch for bradycardia (floor manipulation — vagal/hypothalamic)
 
 ### Anesthesia
-- [ ] General; warm irrigation (avoid hypothermia); watch **bradycardia/asystole** during floor manipulation (stop, irrigate)
+- General; warm irrigation (avoid hypothermia); watch **bradycardia/asystole** during floor manipulation (stop, irrigate)
 
 ### Potential Complications
 1. **Basilar artery injury** — rare, catastrophic
@@ -119,8 +119,8 @@ The patient was transferred to the [floor/ICU]; postoperative imaging confirmed 
 ---
 
 ## Postoperative Plan
-- [ ] Floor/step-down (ICU if tumor/complex), neuro checks q1-2h
-- [ ] CT/MRI postop (cine flow shows stoma patency; ventricles may not shrink immediately)
-- [ ] Monitor for ETV failure (recurrent hydrocephalus symptoms — can be early or delayed → shunt)
-- [ ] If biopsy: pathology, tumor board
-- [ ] Follow-up MRI; counsel on signs of failure
+- Floor/step-down (ICU if tumor/complex), neuro checks q1-2h
+- CT/MRI postop (cine flow shows stoma patency; ventricles may not shrink immediately)
+- Monitor for ETV failure (recurrent hydrocephalus symptoms — can be early or delayed → shunt)
+- If biopsy: pathology, tumor board
+- Follow-up MRI; counsel on signs of failure

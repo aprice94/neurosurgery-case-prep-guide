@@ -39,15 +39,15 @@
 ---
 
 ## Past Medical History
-- [ ] Prior cervical spine surgery
-- [ ] Dysphagia (baseline — critical for ACDF approach)
-- [ ] Vocal cord pathology / hoarseness (get ENT eval if prior anterior cervical surgery or hoarseness)
-- [ ] GERD
-- [ ] Thyroid surgery (recurrent laryngeal nerve at risk)
-- [ ] Smoking (fusion rates reduced)
-- [ ] Diabetes (affects fusion and wound healing)
-- [ ] Osteoporosis (subsidence risk)
-- [ ] Rheumatoid arthritis (atlantoaxial instability, subaxial disease)
+- Prior cervical spine surgery
+- Dysphagia (baseline — critical for ACDF approach)
+- Vocal cord pathology / hoarseness (get ENT eval if prior anterior cervical surgery or hoarseness)
+- GERD
+- Thyroid surgery (recurrent laryngeal nerve at risk)
+- Smoking (fusion rates reduced)
+- Diabetes (affects fusion and wound healing)
+- Osteoporosis (subsidence risk)
+- Rheumatoid arthritis (atlantoaxial instability, subaxial disease)
 - Allergies:
 - Medications (NSAIDs, steroids):
 
@@ -77,20 +77,20 @@
 - Endplate morphology
 
 ### Navigation (if used)
-- [ ] CT loaded for intraoperative navigation
-- [ ] Level confirmation planned with fluoroscopy
+- CT loaded for intraoperative navigation
+- Level confirmation planned with fluoroscopy
 
 ---
 
 ## Labs
-- [ ] CBC
-- [ ] BMP
-- [ ] Coagulation
-- [ ] Type and screen
-- [ ] HbA1c (diabetes — fusion risk)
-- [ ] Vitamin D, calcium (osteoporosis)
-- [ ] Nicotine/cotinine (smoking cessation)
-- [ ] Albumin/prealbumin (nutritional status if concern)
+- CBC
+- BMP
+- Coagulation
+- Type and screen
+- HbA1c (diabetes — fusion risk)
+- Vitamin D, calcium (osteoporosis)
+- Nicotine/cotinine (smoking cessation)
+- Albumin/prealbumin (nutritional status if concern)
 
 ---
 
@@ -227,33 +227,33 @@
 9. **Thoracic duct** — at risk with LEFT-sided approach at C7-T1 (drains into left subclavian/IJV junction)
 
 ### Equipment
-- [ ] Operating microscope OR loupes + headlight
-- [ ] C-arm fluoroscopy
-- [ ] Caspar distraction pins and retractor system
-- [ ] High-speed drill (for osteophyte removal and foraminotomy)
-- [ ] Kerrison rongeurs (1mm, 2mm)
-- [ ] Pituitary rongeurs, curettes, nerve hooks
-- [ ] Interbody cage(s) and trials
-- [ ] Anterior cervical plate and screws
-- [ ] Bone graft material (allograft, local bone, substitute)
-- [ ] Hemostatic agents (Surgicel, Gelfoam, bone wax)
-- [ ] Drain (if planned)
+- Operating microscope OR loupes + headlight
+- C-arm fluoroscopy
+- Caspar distraction pins and retractor system
+- High-speed drill (for osteophyte removal and foraminotomy)
+- Kerrison rongeurs (1mm, 2mm)
+- Pituitary rongeurs, curettes, nerve hooks
+- Interbody cage(s) and trials
+- Anterior cervical plate and screws
+- Bone graft material (allograft, local bone, substitute)
+- Hemostatic agents (Surgicel, Gelfoam, bone wax)
+- Drain (if planned)
 
 ### Monitoring
-- [ ] SSEPs (baseline before and after positioning — flexion/extension can worsen myelopathy)
-- [ ] MEPs
-- [ ] EMG (triggered — for nerve root monitoring during decompression)
-- [ ] **CRITICAL: Check signals AFTER positioning and BEFORE incision** — positioning can cause cord compression
+- SSEPs (baseline before and after positioning — flexion/extension can worsen myelopathy)
+- MEPs
+- EMG (triggered — for nerve root monitoring during decompression)
+- **CRITICAL: Check signals AFTER positioning and BEFORE incision** — positioning can cause cord compression
 
 ### Anesthesia Considerations
-- [ ] Arterial line (multi-level or myelopathy)
-- [ ] Foley (if long case)
-- [ ] Cefazolin 2g IV
-- [ ] Dexamethasone 10 mg IV (if myelopathy or significant compression)
-- [ ] Keep MAP > 85 (spinal cord perfusion)
-- [ ] No paralytic after intubation (MEP monitoring)
-- [ ] Fiberoptic intubation (if severe myelopathy or limited neck mobility — avoid hyperextension)
-- [ ] Keep shoulder tape accessible for removal if needed for fluoroscopy
+- Arterial line (multi-level or myelopathy)
+- Foley (if long case)
+- Cefazolin 2g IV
+- Dexamethasone 10 mg IV (if myelopathy or significant compression)
+- Keep MAP > 85 (spinal cord perfusion)
+- No paralytic after intubation (MEP monitoring)
+- Fiberoptic intubation (if severe myelopathy or limited neck mobility — avoid hyperextension)
+- Keep shoulder tape accessible for removal if needed for fluoroscopy
 
 ### Potential Complications & Contingencies
 1. **Dysphagia** — most common complication (up to 50% transient); usually resolves in days-weeks. Minimize retraction time, release periodically
@@ -313,19 +313,19 @@ The anterior neck was prepped and draped in sterile fashion. The surgical level 
 ---
 
 ## Postoperative Plan
-- [ ] **Airway monitoring:** Monitor for neck swelling / hematoma q1h x 6h (hematoma can cause airway compromise)
-- [ ] Floor admission (ICU if multi-level, myelopathy, or airway concern)
-- [ ] Neuro checks q2h x 24h
-- [ ] HOB 30 degrees
-- [ ] **NPO or clear liquids until swallowing assessed** — soft diet then advance as tolerated
-- [ ] Cervical collar: Soft collar for comfort (rigid collar if multi-level or instability)
-- [ ] X-rays: AP/lateral cervical spine POD1 (or intraoperative finals sufficient)
-- [ ] DVT prophylaxis: SCDs, consider heparin SQ
-- [ ] Pain management: Acetaminophen, ice, muscle relaxant PRN, limit narcotics
-- [ ] Dexamethasone taper if given
-- [ ] **CRITICAL:** Educate nursing — if patient develops acute neck swelling, stridor, or difficulty breathing → **CALL SURGEON IMMEDIATELY** → may need bedside wound opening
-- [ ] Smoking cessation counseling (critical for fusion)
-- [ ] Activity: No heavy lifting > 10 lbs x 6 weeks; no contact sports
-- [ ] Driving: No driving in cervical collar; typically resume at 2-4 weeks
-- [ ] Follow-up: Clinic 2 weeks (wound check), 6 weeks (X-ray), 3 months (CT for fusion), 6 months, 1 year
-- [ ] Dysphagia: Expect mild-moderate; typically resolves in 1-4 weeks. If persistent > 6 weeks → ENT evaluation, modified barium swallow
+- **Airway monitoring:** Monitor for neck swelling / hematoma q1h x 6h (hematoma can cause airway compromise)
+- Floor admission (ICU if multi-level, myelopathy, or airway concern)
+- Neuro checks q2h x 24h
+- HOB 30 degrees
+- **NPO or clear liquids until swallowing assessed** — soft diet then advance as tolerated
+- Cervical collar: Soft collar for comfort (rigid collar if multi-level or instability)
+- X-rays: AP/lateral cervical spine POD1 (or intraoperative finals sufficient)
+- DVT prophylaxis: SCDs, consider heparin SQ
+- Pain management: Acetaminophen, ice, muscle relaxant PRN, limit narcotics
+- Dexamethasone taper if given
+- **CRITICAL:** Educate nursing — if patient develops acute neck swelling, stridor, or difficulty breathing → **CALL SURGEON IMMEDIATELY** → may need bedside wound opening
+- Smoking cessation counseling (critical for fusion)
+- Activity: No heavy lifting > 10 lbs x 6 weeks; no contact sports
+- Driving: No driving in cervical collar; typically resume at 2-4 weeks
+- Follow-up: Clinic 2 weeks (wound check), 6 weeks (X-ray), 3 months (CT for fusion), 6 months, 1 year
+- Dysphagia: Expect mild-moderate; typically resolves in 1-4 weeks. If persistent > 6 weeks → ENT evaluation, modified barium swallow

@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] Prior spinal imaging/misdiagnoses, prior intervention
-- [ ] Anticoagulant/antiplatelet
+- Prior spinal imaging/misdiagnoses, prior intervention
+- Anticoagulant/antiplatelet
 - Standard PMH
 
 ---
@@ -45,7 +45,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
+- CBC, BMP, Coags, type and screen
 
 ---
 
@@ -84,15 +84,15 @@
 4. Dura (CSF leak)
 
 ### Equipment
-- [ ] Microscope, **ICG videoangiography**, micro-instruments, temporary aneurysm clips, fine bipolar
-- [ ] Fluoroscopy (localization), dural substitute, sealant
-- [ ] Intraoperative DSA capability (selected)
+- Microscope, **ICG videoangiography**, micro-instruments, temporary aneurysm clips, fine bipolar
+- Fluoroscopy (localization), dural substitute, sealant
+- Intraoperative DSA capability (selected)
 
 ### Monitoring
-- [ ] SSEPs, MEPs
+- SSEPs, MEPs
 
 ### Anesthesia
-- [ ] MAP support (cord perfusion), arterial line, prone precautions, no paralytic (IONM)
+- MAP support (cord perfusion), arterial line, prone precautions, no paralytic (IONM)
 
 ### Potential Complications
 1. **Failure to disconnect / wrong vein / recurrence** (incomplete or wrong level — DSA correlation and ICG/temporary clip test prevent)
@@ -124,8 +124,8 @@ Closure was completed in layers. The patient was transferred with MAP support an
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks (motor/sensory/sphincter), MAP support, CSF leak precautions
-- [ ] MRI (resolution of cord edema over weeks-months), **postop DSA to confirm obliteration**
-- [ ] DVT prophylaxis (mechanical), bowel/bladder management, urology if needed
-- [ ] **Rehab** — gait/strength recovery is gradual and depends on pre-op severity; counsel realistic expectations
-- [ ] Follow-up imaging; monitor for recurrence (recurrent symptoms → repeat DSA)
+- ICU/step-down, neuro checks (motor/sensory/sphincter), MAP support, CSF leak precautions
+- MRI (resolution of cord edema over weeks-months), **postop DSA to confirm obliteration**
+- DVT prophylaxis (mechanical), bowel/bladder management, urology if needed
+- **Rehab** — gait/strength recovery is gradual and depends on pre-op severity; counsel realistic expectations
+- Follow-up imaging; monitor for recurrence (recurrent symptoms → repeat DSA)

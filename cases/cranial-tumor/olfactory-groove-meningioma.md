@@ -41,12 +41,12 @@
 - Hyperostosis, cribriform plate erosion, ethmoid/sinus extension
 
 ### Ophthalmology
-- [ ] Acuity, fields, fundoscopy
+- Acuity, fields, fundoscopy
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch
+- CBC, BMP, Coags, Type and crossmatch
 
 ---
 
@@ -86,15 +86,15 @@
 5. **Superior sagittal sinus (anterior)** — may ligate anterior third
 
 ### Equipment
-- [ ] Microscope (± endoscope), navigation, CUSA, high-speed drill
-- [ ] Pericranial flap for reconstruction, dural substitute, sealant
-- [ ] Lumbar drain (optional), ICG
+- Microscope (± endoscope), navigation, CUSA, high-speed drill
+- Pericranial flap for reconstruction, dural substitute, sealant
+- Lumbar drain (optional), ICG
 
 ### Monitoring
-- [ ] SSEPs; VEPs (optional)
+- SSEPs; VEPs (optional)
 
 ### Anesthesia
-- [ ] Arterial line, crossmatched blood, mannitol, dexamethasone, lumbar drain optional
+- Arterial line, crossmatched blood, mannitol, dexamethasone, lumbar drain optional
 
 ### Potential Complications
 1. **CSF rhinorrhea** (cribriform defect) — robust vascularized repair
@@ -130,8 +130,8 @@ Hemostasis was obtained, the bone flap replaced, and the wound closed in layers.
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h
-- [ ] **CSF leak precautions** (HOB, no straining/nose blowing); lumbar drain if placed
-- [ ] CT/MRI postop, watch for rhinorrhea, pneumocephalus
-- [ ] Steroid taper, seizure prophylaxis, DVT prophylaxis
-- [ ] Ophthalmology follow-up; cognitive assessment
+- ICU, neuro checks q1h
+- **CSF leak precautions** (HOB, no straining/nose blowing); lumbar drain if placed
+- CT/MRI postop, watch for rhinorrhea, pneumocephalus
+- Steroid taper, seizure prophylaxis, DVT prophylaxis
+- Ophthalmology follow-up; cognitive assessment

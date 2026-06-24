@@ -26,7 +26,7 @@
 ---
 
 ## Past Medical History
-- [ ] NF1/NF2/schwannomatosis, prior radiation, family history
+- NF1/NF2/schwannomatosis, prior radiation, family history
 - Standard PMH
 
 ---
@@ -42,7 +42,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -78,14 +78,14 @@
 3. **MPNST** — if malignant, en bloc oncologic resection (different goals)
 
 ### Equipment
-- [ ] Microscope/loupes, microsurgical instruments, **nerve stimulator**, bipolar
-- [ ] Tourniquet (limb), nerve graft set (if resection/repair anticipated)
+- Microscope/loupes, microsurgical instruments, **nerve stimulator**, bipolar
+- Tourniquet (limb), nerve graft set (if resection/repair anticipated)
 
 ### Monitoring
-- [ ] Intraoperative nerve stimulation/mapping; NAP (nerve action potential) recording for complex cases
+- Intraoperative nerve stimulation/mapping; NAP (nerve action potential) recording for complex cases
 
 ### Anesthesia
-- [ ] **No paralytic** (stimulation), regional/general, tourniquet
+- **No paralytic** (stimulation), regional/general, tourniquet
 
 ### Potential Complications
 1. **New neurological deficit** (fascicle injury — more likely neurofibroma)
@@ -118,7 +118,7 @@ The tourniquet was released, hemostasis obtained, and closure performed. The pat
 ---
 
 ## Postoperative Plan
-- [ ] Outpatient/short stay; soft dressing, limb elevation
-- [ ] Neuro checks (nerve function vs baseline)
-- [ ] Pathology (confirm benign; if MPNST → oncology, staging, wide resection/radiation)
-- [ ] Therapy if deficit; follow-up 2 weeks; NF surveillance if syndromic
+- Outpatient/short stay; soft dressing, limb elevation
+- Neuro checks (nerve function vs baseline)
+- Pathology (confirm benign; if MPNST → oncology, staging, wide resection/radiation)
+- Therapy if deficit; follow-up 2 weeks; NF surveillance if syndromic

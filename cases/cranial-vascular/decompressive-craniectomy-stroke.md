@@ -47,8 +47,8 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags (especially if post-tPA/thrombectomy — correct coagulopathy)
-- [ ] Type and screen
+- CBC, BMP, Coags (especially if post-tPA/thrombectomy — correct coagulopathy)
+- Type and screen
 
 ---
 
@@ -88,16 +88,16 @@
 4. **Transverse sinus** — posterior-inferior limit
 
 ### Equipment
-- [ ] Craniotome, high-speed drill
-- [ ] Dural substitute (large graft for duraplasty)
-- [ ] Bone storage materials
-- [ ] ICP monitor/EVD
+- Craniotome, high-speed drill
+- Dural substitute (large graft for duraplasty)
+- Bone storage materials
+- ICP monitor/EVD
 
 ### Anesthesia
-- [ ] Arterial line, central line, Foley
-- [ ] Mannitol/hypertonic saline (bridge to OR)
-- [ ] Correct any coagulopathy
-- [ ] Cefazolin 2g
+- Arterial line, central line, Foley
+- Mannitol/hypertonic saline (bridge to OR)
+- Correct any coagulopathy
+- Cefazolin 2g
 
 ### Potential Complications
 1. Inadequate decompression (flap too small) → persistent herniation
@@ -131,10 +131,10 @@ The dura was opened widely in a stellate fashion, decompressing the swollen, inf
 ---
 
 ## Postoperative Plan
-- [ ] NSICU, neuro checks q1h, ICP management
-- [ ] HOB 30 degrees, Na 145-155 target if edema
-- [ ] Serial CT (monitor edema peak days 2-5, hemorrhagic transformation)
-- [ ] DVT prophylaxis (delayed chemical, esp. post-tPA)
-- [ ] Seizure prophylaxis per practice
-- [ ] **Cranioplasty in ~6-12 weeks** once edema resolved
-- [ ] Early rehab evaluation, goals-of-care discussions
+- NSICU, neuro checks q1h, ICP management
+- HOB 30 degrees, Na 145-155 target if edema
+- Serial CT (monitor edema peak days 2-5, hemorrhagic transformation)
+- DVT prophylaxis (delayed chemical, esp. post-tPA)
+- Seizure prophylaxis per practice
+- **Cranioplasty in ~6-12 weeks** once edema resolved
+- Early rehab evaluation, goals-of-care discussions

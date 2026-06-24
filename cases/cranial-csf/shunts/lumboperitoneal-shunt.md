@@ -26,8 +26,8 @@
 ---
 
 ## Past Medical History
-- [ ] Obesity (IIH association; also affects peritoneal catheter, abdominal pressure)
-- [ ] **Chiari/tonsillar position** (LP overdrainage can cause acquired tonsillar herniation), prior lumbar surgery/arthritis, scoliosis
+- Obesity (IIH association; also affects peritoneal catheter, abdominal pressure)
+- **Chiari/tonsillar position** (LP overdrainage can cause acquired tonsillar herniation), prior lumbar surgery/arthritis, scoliosis
 - Standard PMH
 
 ---
@@ -45,7 +45,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
+- CBC, BMP, Coags, type and screen
 
 ---
 
@@ -78,11 +78,11 @@
 4. **Overdrainage → acquired Chiari/tonsillar herniation, low-pressure headaches**
 
 ### Equipment
-- [ ] LP shunt kit (Tuohy needle, lumbar catheter), **horizontal-vertical/programmable valve**, peritoneal catheter
-- [ ] Fluoroscopy (optional), antibiotic-impregnated catheter, tunneler
+- LP shunt kit (Tuohy needle, lumbar catheter), **horizontal-vertical/programmable valve**, peritoneal catheter
+- Fluoroscopy (optional), antibiotic-impregnated catheter, tunneler
 
 ### Anesthesia
-- [ ] General (or local/sedation for parts); cefazolin
+- General (or local/sedation for parts); cefazolin
 
 ### Potential Complications
 1. **Overdrainage** — low-pressure/postural headache, **acquired Chiari I / tonsillar herniation**, slit ventricles
@@ -117,8 +117,8 @@ The patient was transferred with monitoring for overdrainage (postural headache)
 ---
 
 ## Postoperative Plan
-- [ ] Floor, neuro checks, **visual/headache assessment** (IIH), watch for **overdrainage** (positional headache → may need to raise programmable setting)
-- [ ] Ophthalmology follow-up (papilledema/visual fields — IIH)
-- [ ] Shunt series baseline (LP shunt films), document valve setting
-- [ ] Monitor for acquired Chiari symptoms; counsel that LP function is harder to assess (clinical/imaging follow-up)
-- [ ] Weight management/medical therapy continuation (IIH)
+- Floor, neuro checks, **visual/headache assessment** (IIH), watch for **overdrainage** (positional headache → may need to raise programmable setting)
+- Ophthalmology follow-up (papilledema/visual fields — IIH)
+- Shunt series baseline (LP shunt films), document valve setting
+- Monitor for acquired Chiari symptoms; counsel that LP function is harder to assess (clinical/imaging follow-up)
+- Weight management/medical therapy continuation (IIH)

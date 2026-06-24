@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] Diabetes, hypothyroidism, RA, pregnancy, obesity, amyloidosis, prior wrist trauma/fracture
-- [ ] Bilateral symptoms, prior CTR
+- Diabetes, hypothyroidism, RA, pregnancy, obesity, amyloidosis, prior wrist trauma/fracture
+- Bilateral symptoms, prior CTR
 - Standard PMH
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ## Labs
-- [ ] Per comorbidity (glucose, TSH); routine pre-op as needed
+- Per comorbidity (glucose, TSH); routine pre-op as needed
 
 ---
 
@@ -76,11 +76,11 @@
 5. Ulnar nerve/artery (Guyon canal — ulnar; stay controlled)
 
 ### Equipment
-- [ ] Minor hand set, tourniquet, loupes, bipolar
-- [ ] Endoscopic CTR system (if endoscopic)
+- Minor hand set, tourniquet, loupes, bipolar
+- Endoscopic CTR system (if endoscopic)
 
 ### Anesthesia
-- [ ] Local/WALANT/regional ± sedation; antibiotics typically not required for clean soft-tissue (per practice)
+- Local/WALANT/regional ± sedation; antibiotics typically not required for clean soft-tissue (per practice)
 
 ### Potential Complications
 1. **Nerve injury** (median/recurrent motor/palmar cutaneous — painful neuroma, thenar weakness)
@@ -111,7 +111,7 @@ The tourniquet was released, hemostasis obtained, and the skin closed. A soft dr
 ---
 
 ## Postoperative Plan
-- [ ] Outpatient; soft dressing/volar splint briefly, elevate, finger ROM immediately
-- [ ] Suture removal ~10-14 days; expect night symptoms to improve quickly, strength/atrophy slower
-- [ ] Activity progression, scar massage, pillar pain counseling
-- [ ] Follow-up 2 weeks; therapy if needed
+- Outpatient; soft dressing/volar splint briefly, elevate, finger ROM immediately
+- Suture removal ~10-14 days; expect night symptoms to improve quickly, strength/atrophy slower
+- Activity progression, scar massage, pillar pain counseling
+- Follow-up 2 weeks; therapy if needed

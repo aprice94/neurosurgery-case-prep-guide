@@ -34,7 +34,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -76,17 +76,17 @@
 3. **Vasculature** (MCA branches), draining veins
 
 ### Equipment
-- [ ] Microscope, navigation (fMRI/DTI), CUSA, ultrasound, 5-ALA (HGG)
-- [ ] **Cortical/subcortical bipolar stimulator**, ECoG, sterile mapping tags
-- [ ] Mapping team (neuropsychologist/SLP), task materials (naming cards, screen)
+- Microscope, navigation (fMRI/DTI), CUSA, ultrasound, 5-ALA (HGG)
+- **Cortical/subcortical bipolar stimulator**, ECoG, sterile mapping tags
+- Mapping team (neuropsychologist/SLP), task materials (naming cards, screen)
 
 ### Monitoring
-- [ ] Direct cortical & subcortical stimulation, continuous clinical testing, ECoG
+- Direct cortical & subcortical stimulation, continuous clinical testing, ECoG
 
 ### Anesthesia
-- [ ] **Scalp block**, dexmedetomidine ± propofol/remifentanil (titratable, awake on demand), antiemetics (ondansetron), Foley
-- [ ] Seizure management plan: **iced saline** to cortex, low-dose propofol/midazolam, antiepileptics
-- [ ] Airway backup plan (LMA/intubation if needed); avoid oversedation/respiratory depression during awake phase
+- **Scalp block**, dexmedetomidine ± propofol/remifentanil (titratable, awake on demand), antiemetics (ondansetron), Foley
+- Seizure management plan: **iced saline** to cortex, low-dose propofol/midazolam, antiepileptics
+- Airway backup plan (LMA/intubation if needed); avoid oversedation/respiratory depression during awake phase
 
 ### Potential Complications
 1. **Intraoperative seizure** (stimulation-induced) — cold saline, benzodiazepine/propofol
@@ -120,8 +120,8 @@ Hemostasis was obtained and closure performed. The patient was transferred to th
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h — **compare to detailed baseline** (language, motor)
-- [ ] MRI < 48h (EOR), CT if concern
-- [ ] Expect possible transient deficit (e.g., SMA syndrome, transient aphasia) with recovery; speech/PT/OT
-- [ ] Steroid taper, AEDs, DVT prophylaxis
-- [ ] Pathology/molecular; tumor board; rehab referral
+- ICU, neuro checks q1h — **compare to detailed baseline** (language, motor)
+- MRI < 48h (EOR), CT if concern
+- Expect possible transient deficit (e.g., SMA syndrome, transient aphasia) with recovery; speech/PT/OT
+- Steroid taper, AEDs, DVT prophylaxis
+- Pathology/molecular; tumor board; rehab referral

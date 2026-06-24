@@ -35,8 +35,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Pulmonary function** (thoracotomy/lung deflation), cardiac, prior thoracic surgery
-- [ ] Etiology-specific (oncologic staging, infection source)
+- **Pulmonary function** (thoracotomy/lung deflation), cardiac, prior thoracic surgery
+- Etiology-specific (oncologic staging, infection source)
 - Standard PMH
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **type and crossmatch (2-4 units)**, etiology-specific (cultures, markers)
+- CBC, BMP, Coags, **type and crossmatch (2-4 units)**, etiology-specific (cultures, markers)
 
 ---
 
@@ -88,15 +88,15 @@
 4. **Lung/pleura** (pneumothorax, effusion), **thoracic duct** (chylothorax — left upper), sympathetic chain/esophagus
 
 ### Equipment
-- [ ] Thoracotomy / thoracoscopic (VATS) set, **double-lumen tube**, chest tube
-- [ ] High-speed drill, corpectomy instruments, **expandable cage/mesh + anterior plate/rod**, graft
-- [ ] Fluoroscopy/navigation, cell saver, crossmatched blood, vascular repair backup
+- Thoracotomy / thoracoscopic (VATS) set, **double-lumen tube**, chest tube
+- High-speed drill, corpectomy instruments, **expandable cage/mesh + anterior plate/rod**, graft
+- Fluoroscopy/navigation, cell saver, crossmatched blood, vascular repair backup
 
 ### Monitoring
-- [ ] **SSEPs, MEPs**, EMG
+- **SSEPs, MEPs**, EMG
 
 ### Anesthesia
-- [ ] **Lung isolation (double-lumen)**, arterial line, central access, **crossmatched blood**, MAP support (cord), no paralytic (IONM), thoracic/access surgeon
+- **Lung isolation (double-lumen)**, arterial line, central access, **crossmatched blood**, MAP support (cord), no paralytic (IONM), thoracic/access surgeon
 
 ### Potential Complications
 1. **Vascular injury / major hemorrhage**, cord infarction (segmental artery), cord injury
@@ -130,8 +130,8 @@ Closure was performed in layers. The patient was transferred to the ICU with che
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks (lower extremity/sensory level/sphincter), MAP support
-- [ ] **Chest tube management, CXR** (pneumothorax, effusion, chyle — monitor output character)
-- [ ] CT/X-ray postop (hardware, decompression), pulmonary toilet/incentive spirometry
-- [ ] DVT prophylaxis, pain control (intercostal/epidural analgesia)
-- [ ] Etiology-specific (oncology adjuvant/RT, IV antibiotics for infection), follow-up for fusion
+- ICU, neuro checks (lower extremity/sensory level/sphincter), MAP support
+- **Chest tube management, CXR** (pneumothorax, effusion, chyle — monitor output character)
+- CT/X-ray postop (hardware, decompression), pulmonary toilet/incentive spirometry
+- DVT prophylaxis, pain control (intercostal/epidural analgesia)
+- Etiology-specific (oncology adjuvant/RT, IV antibiotics for infection), follow-up for fusion

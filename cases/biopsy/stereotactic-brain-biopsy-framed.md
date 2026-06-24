@@ -26,8 +26,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Anticoagulant/antiplatelet (stop/correct — hemorrhage risk)**, bleeding disorder
-- [ ] HIV/immunocompromise, prior malignancy, prior radiation
+- **Anticoagulant/antiplatelet (stop/correct — hemorrhage risk)**, bleeding disorder
+- HIV/immunocompromise, prior malignancy, prior radiation
 - Standard PMH
 
 ---
@@ -43,8 +43,8 @@
 ---
 
 ## Labs
-- [ ] CBC (Plt), **Coags (INR < 1.4)**, BMP, type and screen
-- [ ] HIV/toxoplasma serology if relevant
+- CBC (Plt), **Coags (INR < 1.4)**, BMP, type and screen
+- HIV/toxoplasma serology if relevant
 
 ---
 
@@ -81,13 +81,13 @@
 3. Deep structures (thalamus/brainstem targets — narrow margins)
 
 ### Equipment
-- [ ] **Stereotactic frame (Leksell/CRW)** + arc + table adapter
-- [ ] Planning workstation, stereotactic CT/MRI
-- [ ] Twist drill, **biopsy needle (Sedan side-cutting)**, bipolar
-- [ ] Frozen section / smear pathology available intraoperatively
+- **Stereotactic frame (Leksell/CRW)** + arc + table adapter
+- Planning workstation, stereotactic CT/MRI
+- Twist drill, **biopsy needle (Sedan side-cutting)**, bipolar
+- Frozen section / smear pathology available intraoperatively
 
 ### Anesthesia
-- [ ] Local + sedation (awake — allows neuro monitoring) or GA; BP control (hemorrhage); cefazolin
+- Local + sedation (awake — allows neuro monitoring) or GA; BP control (hemorrhage); cefazolin
 
 ### Potential Complications
 1. **Hemorrhage** (~1-3% symptomatic — into tract/lesion) — deficit, rarely catastrophic
@@ -121,8 +121,8 @@ A **postoperative CT was obtained to exclude hemorrhage.** The patient was trans
 ---
 
 ## Postoperative Plan
-- [ ] **Postop CT head (rule out hemorrhage)** — routine
-- [ ] Floor/observation, neuro checks q1-2h initially
-- [ ] Resume meds per bleeding risk; hold steroids if lymphoma pending (per team)
-- [ ] Pathology (permanent + molecular — IDH, etc.; flow cytometry if lymphoma; cultures if infection)
-- [ ] Tumor board / management per diagnosis; follow-up
+- **Postop CT head (rule out hemorrhage)** — routine
+- Floor/observation, neuro checks q1-2h initially
+- Resume meds per bleeding risk; hold steroids if lymphoma pending (per team)
+- Pathology (permanent + molecular — IDH, etc.; flow cytometry if lymphoma; cultures if infection)
+- Tumor board / management per diagnosis; follow-up

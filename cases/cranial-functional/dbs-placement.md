@@ -36,7 +36,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, **Coags (stop anticoagulation/antiplatelets — hemorrhage risk)**, Type and screen
+- CBC, BMP, **Coags (stop anticoagulation/antiplatelets — hemorrhage risk)**, Type and screen
 
 ---
 
@@ -81,17 +81,17 @@
 5. **Vessels/sulci/ventricle** along trajectory — hemorrhage (main serious risk)
 
 ### Equipment
-- [ ] Stereotactic frame (Leksell/CRW) or frameless system
-- [ ] MER system, microdrive, test stimulator
-- [ ] DBS leads, anchors, IPG + extensions
-- [ ] Navigation/planning station, intraoperative CT/fluoro (or iMRI)
+- Stereotactic frame (Leksell/CRW) or frameless system
+- MER system, microdrive, test stimulator
+- DBS leads, anchors, IPG + extensions
+- Navigation/planning station, intraoperative CT/fluoro (or iMRI)
 
 ### Monitoring
-- [ ] MER, clinical exam during awake testing
+- MER, clinical exam during awake testing
 
 ### Anesthesia
-- [ ] **Awake/MAC** with minimal sedation during recording (sedatives suppress MER); dexmedetomidine often used carefully; control BP (hemorrhage); avoid oversedation
-- [ ] Asleep technique: GA with imaging verification
+- **Awake/MAC** with minimal sedation during recording (sedatives suppress MER); dexmedetomidine often used carefully; control BP (hemorrhage); avoid oversedation
+- Asleep technique: GA with imaging verification
 
 ### Potential Complications
 1. **Intracranial hemorrhage** (~1-2%) — most serious; control BP, limit passes, avoid vessels
@@ -127,10 +127,10 @@ The patient was transferred in stable condition; programming was planned at ~2�
 ---
 
 ## Postoperative Plan
-- [ ] Step-down/floor, neuro checks
-- [ ] **CT/MRI to confirm lead position and exclude hemorrhage**
-- [ ] Resume Parkinson meds; monitor for microlesion effect
-- [ ] IPG placement if staged
-- [ ] **Programming initiation ~2-4 weeks post-op** (after edema/microlesion effect resolves)
-- [ ] Neurology/movement disorder follow-up for programming and medication adjustment
-- [ ] Document MRI conditions for the device
+- Step-down/floor, neuro checks
+- **CT/MRI to confirm lead position and exclude hemorrhage**
+- Resume Parkinson meds; monitor for microlesion effect
+- IPG placement if staged
+- **Programming initiation ~2-4 weeks post-op** (after edema/microlesion effect resolves)
+- Neurology/movement disorder follow-up for programming and medication adjustment
+- Document MRI conditions for the device

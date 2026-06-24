@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] Prior dysraphism repair (myelomeningocele, lipoma), prior untethering (retethering)
-- [ ] Associated anomalies (Chiari II, syrinx, anorectal/GU anomalies — VACTERL), latex allergy
+- Prior dysraphism repair (myelomeningocele, lipoma), prior untethering (retethering)
+- Associated anomalies (Chiari II, syrinx, anorectal/GU anomalies — VACTERL), latex allergy
 - Standard PMH
 
 ---
@@ -39,12 +39,12 @@
 ### MRI Brain (if symptoms)
 - Chiari II, hydrocephalus (dysraphism)
 ### Urodynamics
-- [ ] Baseline bladder function (pre- and post-op comparison)
+- Baseline bladder function (pre- and post-op comparison)
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen; **latex precautions** (dysraphism)
+- CBC, BMP, Coags, type and screen; **latex precautions** (dysraphism)
 
 ---
 
@@ -79,15 +79,15 @@
 4. Retethering (reconstruction technique), inclusion dermoid (incomplete sinus excision)
 
 ### Equipment
-- [ ] Microscope, **nerve stimulator / EMG mapping**, CUSA (lipoma), micro-instruments, fine bipolar
-- [ ] Ultrasound (localization), dural substitute, sealant, **latex-free supplies**
-- [ ] Laser (selected, lipoma)
+- Microscope, **nerve stimulator / EMG mapping**, CUSA (lipoma), micro-instruments, fine bipolar
+- Ultrasound (localization), dural substitute, sealant, **latex-free supplies**
+- Laser (selected, lipoma)
 
 ### Monitoring
-- [ ] **EMG (lower extremity + anal sphincter), SSEPs, MEPs, bulbocavernosus reflex** — essential to protect sacral function
+- **EMG (lower extremity + anal sphincter), SSEPs, MEPs, bulbocavernosus reflex** — essential to protect sacral function
 
 ### Anesthesia
-- [ ] No paralytic (IONM), prone precautions, **latex-free**, pediatric thermoregulation/fluids
+- No paralytic (IONM), prone precautions, **latex-free**, pediatric thermoregulation/fluids
 
 ### Potential Complications
 1. **Neurological/urological decline** (root/conus/sphincter injury)
@@ -122,9 +122,9 @@ Multilayer closure was completed. The patient was kept flat per protocol and tra
 ---
 
 ## Postoperative Plan
-- [ ] **Flat bed rest 24-72h** (CSF leak prevention, esp. complex closures), prone/side positioning
-- [ ] Neuro checks (motor/sensory/**sphincter**), wound/CSF leak monitoring
-- [ ] MRI postop (release, residual lipoma), **postop urodynamics** (compare baseline)
-- [ ] Latex-free, bowel/bladder management, urology follow-up
-- [ ] DVT prophylaxis (mechanical; adults), rehab
-- [ ] Counsel: goal is to halt progression (may not reverse established deficits); lifelong retethering surveillance
+- **Flat bed rest 24-72h** (CSF leak prevention, esp. complex closures), prone/side positioning
+- Neuro checks (motor/sensory/**sphincter**), wound/CSF leak monitoring
+- MRI postop (release, residual lipoma), **postop urodynamics** (compare baseline)
+- Latex-free, bowel/bladder management, urology follow-up
+- DVT prophylaxis (mechanical; adults), rehab
+- Counsel: goal is to halt progression (may not reverse established deficits); lifelong retethering surveillance

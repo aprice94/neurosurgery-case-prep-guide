@@ -25,7 +25,7 @@
 ---
 
 ## Past Medical History
-- [ ] **Anticoagulant/antiplatelet (stop/correct)**, bleeding disorder, immunocompromise, prior malignancy
+- **Anticoagulant/antiplatelet (stop/correct)**, bleeding disorder, immunocompromise, prior malignancy
 - Standard PMH
 
 ---
@@ -39,7 +39,7 @@
 ---
 
 ## Labs
-- [ ] CBC (Plt), **Coags**, BMP, type and screen
+- CBC (Plt), **Coags**, BMP, type and screen
 
 ---
 
@@ -72,12 +72,12 @@
 3. Ventricles, eloquent cortex/tracts
 
 ### Equipment
-- [ ] **Navigation system (StealthStation/Brainlab)** + biopsy guide/arm (VarioGuide / skull-mounted)
-- [ ] Mayfield, fiducials (if used), twist drill, **biopsy needle (Sedan side-cutting)**, bipolar
-- [ ] Intraoperative frozen-section pathology
+- **Navigation system (StealthStation/Brainlab)** + biopsy guide/arm (VarioGuide / skull-mounted)
+- Mayfield, fiducials (if used), twist drill, **biopsy needle (Sedan side-cutting)**, bipolar
+- Intraoperative frozen-section pathology
 
 ### Anesthesia
-- [ ] GA (common) or local + sedation; BP control; cefazolin
+- GA (common) or local + sedation; BP control; cefazolin
 
 ### Potential Complications
 1. **Hemorrhage** (~1-3%), **non-diagnostic sample / off-target** (registration/brain-shift error)
@@ -111,8 +111,8 @@ A **postoperative CT excluded hemorrhage.** The patient was transferred to the f
 ---
 
 ## Postoperative Plan
-- [ ] **Postop CT head (hemorrhage)**
-- [ ] Floor/observation, neuro checks
-- [ ] Pathology (permanent/molecular; flow cytometry if lymphoma; cultures if infection)
-- [ ] Hold steroids if lymphoma pending (per team), resume meds per bleeding risk
-- [ ] Tumor board/management per diagnosis; follow-up
+- **Postop CT head (hemorrhage)**
+- Floor/observation, neuro checks
+- Pathology (permanent/molecular; flow cytometry if lymphoma; cultures if infection)
+- Hold steroids if lymphoma pending (per team), resume meds per bleeding risk
+- Tumor board/management per diagnosis; follow-up

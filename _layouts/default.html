@@ -31,7 +31,7 @@
     <div class="wrap breadcrumb">
       <a href="{{ '/' | relative_url }}">🏠 Home</a>
       {% assign segs = page.path | split: '/' %}
-      {% if segs.size > 1 %}<span class="sep">›</span><span class="crumb">{{ segs[1] | replace: '-', ' ' }}</span>{% endif %}
+      {% if segs.size > 1 %}<span class="sep">›</span>{% if segs[0] == "cases" %}<a class="crumb" href="{{ '/cases/' | append: segs[1] | append: '/' | relative_url }}">{{ segs[1] | replace: '-', ' ' }}</a>{% else %}<span class="crumb">{{ segs[1] | replace: '-', ' ' }}</span>{% endif %}{% endif %}
       {% if page.title %}<span class="sep">›</span><span class="crumb crumb-current">{{ page.title }}</span>{% endif %}
     </div>
   </nav>

@@ -36,7 +36,7 @@
 ---
 
 ## Past Medical History
-- [ ] Pulmonary status (anterior/thoracoscopic approaches), prior thoracic surgery
+- Pulmonary status (anterior/thoracoscopic approaches), prior thoracic surgery
 - Standard PMH
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and crossmatch
+- CBC, BMP, Coags, type and crossmatch
 
 ---
 
@@ -92,15 +92,15 @@
 5. Nerve roots (sacrificable in thoracic for access if needed)
 
 ### Equipment
-- [ ] Microscope, high-speed drill, navigation/fluoroscopy
-- [ ] Down-pushing curettes/instruments, Kerrison, fusion instrumentation
-- [ ] Thoracoscopic set / thoracic access (anterior), chest tube, dural repair materials
+- Microscope, high-speed drill, navigation/fluoroscopy
+- Down-pushing curettes/instruments, Kerrison, fusion instrumentation
+- Thoracoscopic set / thoracic access (anterior), chest tube, dural repair materials
 
 ### Monitoring
-- [ ] **SSEPs, MEPs** (essential — cord at high risk), EMG
+- **SSEPs, MEPs** (essential — cord at high risk), EMG
 
 ### Anesthesia
-- [ ] **Double-lumen tube/lung isolation** (anterior/thoracoscopic), MAP support, arterial line, no paralytic (IONM), crossmatched blood
+- **Double-lumen tube/lung isolation** (anterior/thoracoscopic), MAP support, arterial line, no paralytic (IONM), crossmatched blood
 
 ### Potential Complications
 1. **Spinal cord injury/infarction** (retraction, vascular) — paraplegia
@@ -135,8 +135,8 @@ A cavity was created in the disc/body and **the disc fragment was pushed away fr
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks q1h (lower extremity, sensory level, sphincter), MAP support
-- [ ] **Chest X-ray / chest tube management** (anterior/thoracoscopic — pneumothorax/effusion)
-- [ ] CSF leak precautions (if dural breach), MRI/CT postop
-- [ ] DVT prophylaxis (mechanical), pulmonary toilet, pain control
-- [ ] Follow-up imaging; rehab
+- ICU/step-down, neuro checks q1h (lower extremity, sensory level, sphincter), MAP support
+- **Chest X-ray / chest tube management** (anterior/thoracoscopic — pneumothorax/effusion)
+- CSF leak precautions (if dural breach), MRI/CT postop
+- DVT prophylaxis (mechanical), pulmonary toilet, pain control
+- Follow-up imaging; rehab

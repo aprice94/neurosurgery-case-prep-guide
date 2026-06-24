@@ -32,12 +32,12 @@
 ---
 
 ## Past Medical History
-- [ ] Prior brain tumor / prior resection
-- [ ] Prior radiation
-- [ ] Prior chemotherapy (temozolomide)
-- [ ] Seizure medications
-- [ ] Steroid use (current dexamethasone dose)
-- [ ] Li-Fraumeni, NF1, NF2, tuberous sclerosis (predisposition syndromes)
+- Prior brain tumor / prior resection
+- Prior radiation
+- Prior chemotherapy (temozolomide)
+- Seizure medications
+- Steroid use (current dexamethasone dose)
+- Li-Fraumeni, NF1, NF2, tuberous sclerosis (predisposition syndromes)
 - Allergies:
 - Medications:
 
@@ -74,19 +74,19 @@
 - **Relationship to tumor:** Displaced (resectable) vs infiltrated (partially resectable) vs disrupted (not recoverable)
 
 ### Navigation
-- [ ] Thin-cut MRI with gadolinium loaded
-- [ ] FLAIR sequence loaded (for non-enhancing tumor margin)
-- [ ] DTI tractography overlaid
-- [ ] fMRI data integrated
+- Thin-cut MRI with gadolinium loaded
+- FLAIR sequence loaded (for non-enhancing tumor margin)
+- DTI tractography overlaid
+- fMRI data integrated
 
 ---
 
 ## Labs
-- [ ] CBC
-- [ ] BMP
-- [ ] Coagulation
-- [ ] Type and screen
-- [ ] Dexamethasone level (if on steroids)
+- CBC
+- BMP
+- Coagulation
+- Type and screen
+- Dexamethasone level (if on steroids)
 
 ---
 
@@ -192,50 +192,50 @@
 8. **Basal ganglia / internal capsule** — deep margin of many tumors
 
 ### Equipment & Instrumentation
-- [ ] Operating microscope
-- [ ] Stereotactic navigation (MRI + fMRI + DTI overlays)
-- [ ] CUSA (Cavitron Ultrasonic Aspirator) — primary debulking tool
-- [ ] Intraoperative ultrasound
-- [ ] **5-ALA (Gleolan)** — patient takes 20 mg/kg PO 2-4 hours pre-op (for Grade III/IV); blue-violet light filter on microscope
-- [ ] Bipolar (multiple tip sizes)
-- [ ] Microsurgical instruments
-- [ ] Cortical/subcortical stimulator (bipolar probe, 60 Hz, 1-4 mA)
-- [ ] Mapping tags (sterile numbered markers)
-- [ ] Hemostatic agents
-- [ ] Specimen containers (labeled by tumor region)
-- [ ] [Intraoperative MRI if available]
+- Operating microscope
+- Stereotactic navigation (MRI + fMRI + DTI overlays)
+- CUSA (Cavitron Ultrasonic Aspirator) — primary debulking tool
+- Intraoperative ultrasound
+- **5-ALA (Gleolan)** — patient takes 20 mg/kg PO 2-4 hours pre-op (for Grade III/IV); blue-violet light filter on microscope
+- Bipolar (multiple tip sizes)
+- Microsurgical instruments
+- Cortical/subcortical stimulator (bipolar probe, 60 Hz, 1-4 mA)
+- Mapping tags (sterile numbered markers)
+- Hemostatic agents
+- Specimen containers (labeled by tumor region)
+- [Intraoperative MRI if available]
 
 ### Monitoring
 - **Asleep:**
-  - [ ] SSEPs (median + tibial)
-  - [ ] MEPs (transcranial)
-  - [ ] Phase reversal (to localize central sulcus)
-  - [ ] ECoG (if seizure concern)
+  - SSEPs (median + tibial)
+  - MEPs (transcranial)
+  - Phase reversal (to localize central sulcus)
+  - ECoG (if seizure concern)
 - **Awake:**
-  - [ ] Direct cortical stimulation (Penfield technique or high-frequency stimulation)
-  - [ ] Subcortical stimulation (during resection)
-  - [ ] Continuous speech/motor testing by neuropsych/speech pathology team
-  - [ ] ECoG (to detect afterdischarges from stimulation)
+  - Direct cortical stimulation (Penfield technique or high-frequency stimulation)
+  - Subcortical stimulation (during resection)
+  - Continuous speech/motor testing by neuropsych/speech pathology team
+  - ECoG (to detect afterdischarges from stimulation)
 
 ### Anesthesia Considerations
 - **Asleep:**
-  - [ ] Arterial line
-  - [ ] Foley
-  - [ ] Mannitol available
-  - [ ] Dexamethasone 10 mg (typically already on steroids)
-  - [ ] Levetiracetam 1000 mg IV
-  - [ ] Cefazolin 2g
-  - [ ] No paralytic (if MEP monitoring)
-  - [ ] 5-ALA: Cover patient from direct light exposure; photosensitivity precautions x 24h post-op
+  - Arterial line
+  - Foley
+  - Mannitol available
+  - Dexamethasone 10 mg (typically already on steroids)
+  - Levetiracetam 1000 mg IV
+  - Cefazolin 2g
+  - No paralytic (if MEP monitoring)
+  - 5-ALA: Cover patient from direct light exposure; photosensitivity precautions x 24h post-op
 
 - **Awake (asleep-awake-asleep or monitored anesthesia care):**
-  - [ ] Propofol/remifentanil infusion for asleep phases
-  - [ ] Scalp block (regional anesthesia of supraorbital, auriculotemporal, greater/lesser occipital nerves)
-  - [ ] Dexmedetomidine during awake phase (light sedation without respiratory depression)
-  - [ ] Anti-emetics (ondansetron — vomiting during awake surgery is dangerous)
-  - [ ] Seizure protocol: cold saline irrigation if stimulation-induced seizure; low-dose propofol bolus if needed
-  - [ ] Comfortable positioning is critical — padded, semi-reclined, face visible
-  - [ ] Foley (patient will be awake for extended period)
+  - Propofol/remifentanil infusion for asleep phases
+  - Scalp block (regional anesthesia of supraorbital, auriculotemporal, greater/lesser occipital nerves)
+  - Dexmedetomidine during awake phase (light sedation without respiratory depression)
+  - Anti-emetics (ondansetron — vomiting during awake surgery is dangerous)
+  - Seizure protocol: cold saline irrigation if stimulation-induced seizure; low-dose propofol bolus if needed
+  - Comfortable positioning is critical — padded, semi-reclined, face visible
+  - Foley (patient will be awake for extended period)
 
 ### Potential Complications & Contingencies
 1. **New neurological deficit** — if monitoring changes, stop resection at that boundary; SMA syndrome is typically transient
@@ -260,28 +260,28 @@
 ---
 
 ## Postoperative Plan
-- [ ] ICU x 24 hours
-- [ ] Neuro checks q1h x 24h — **compare to preoperative baseline**
-- [ ] HOB 30 degrees
-- [ ] **MRI brain with gadolinium within 24-48 hours** (MUST be within 48h before postoperative enhancement confounds interpretation)
-- [ ] CT head immediately post-op (if any concern for hemorrhage)
-- [ ] Dexamethasone taper (maintain therapeutic dose until edema stabilizes, then taper over 1-2 weeks)
-- [ ] Continue AEDs (levetiracetam)
-- [ ] DVT prophylaxis: SCDs, heparin SQ POD1
-- [ ] 5-ALA precautions: Avoid direct sunlight/bright light x 24 hours (photosensitivity)
-- [ ] Pain management: Acetaminophen-based
-- [ ] Pathology and molecular markers:
-  - [ ] WHO grade
-  - [ ] IDH1/2 mutation status
-  - [ ] 1p/19q codeletion (oligodendroglioma)
-  - [ ] MGMT promoter methylation
-  - [ ] TERT promoter mutation
-  - [ ] ATRX loss
-  - [ ] Ki-67 proliferative index
-  - [ ] CDKN2A/B homozygous deletion (Grade 4 astrocytoma)
-- [ ] Tumor board discussion with neuro-oncology, radiation oncology
-- [ ] Adjuvant therapy:
+- ICU x 24 hours
+- Neuro checks q1h x 24h — **compare to preoperative baseline**
+- HOB 30 degrees
+- **MRI brain with gadolinium within 24-48 hours** (MUST be within 48h before postoperative enhancement confounds interpretation)
+- CT head immediately post-op (if any concern for hemorrhage)
+- Dexamethasone taper (maintain therapeutic dose until edema stabilizes, then taper over 1-2 weeks)
+- Continue AEDs (levetiracetam)
+- DVT prophylaxis: SCDs, heparin SQ POD1
+- 5-ALA precautions: Avoid direct sunlight/bright light x 24 hours (photosensitivity)
+- Pain management: Acetaminophen-based
+- Pathology and molecular markers:
+  - WHO grade
+  - IDH1/2 mutation status
+  - 1p/19q codeletion (oligodendroglioma)
+  - MGMT promoter methylation
+  - TERT promoter mutation
+  - ATRX loss
+  - Ki-67 proliferative index
+  - CDKN2A/B homozygous deletion (Grade 4 astrocytoma)
+- Tumor board discussion with neuro-oncology, radiation oncology
+- Adjuvant therapy:
   - GBM: Concurrent temozolomide + radiation (Stupp protocol) → adjuvant TMZ
   - Grade III: Radiation +/- chemotherapy depending on molecular profile
   - Grade II (IDH-mutant): Consider observation if GTR; RT + chemotherapy if subtotal or progressive
-- [ ] Follow-up: Clinic 2 weeks; serial MRI q3-4 months
+- Follow-up: Clinic 2 weeks; serial MRI q3-4 months

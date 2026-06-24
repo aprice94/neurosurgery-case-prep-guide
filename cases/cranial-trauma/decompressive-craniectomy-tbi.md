@@ -41,13 +41,13 @@
 ---
 
 ## Past Medical History
-- [ ] Anticoagulant / antiplatelet use (warfarin, DOACs, aspirin, clopidogrel) — **must reverse before surgery**
-- [ ] Prior craniectomy/craniotomy (adhesions, hardware); prior TBI; seizure disorder
-- [ ] Coagulopathy or bleeding disorder (hemophilia, liver disease, thrombocytopenia)
-- [ ] Cardiac / pulmonary / hepatic / renal comorbidities (affect anesthetic risk, CPP management, osmolar clearance)
-- [ ] Diabetes mellitus (glycemic control affects TBI outcomes)
-- [ ] Substance use (alcohol — coagulopathy/withdrawal; cocaine — vasospasm/hemorrhage)
-- [ ] Advance directives / code status — **discuss early with family**
+- Anticoagulant / antiplatelet use (warfarin, DOACs, aspirin, clopidogrel) — **must reverse before surgery**
+- Prior craniectomy/craniotomy (adhesions, hardware); prior TBI; seizure disorder
+- Coagulopathy or bleeding disorder (hemophilia, liver disease, thrombocytopenia)
+- Cardiac / pulmonary / hepatic / renal comorbidities (affect anesthetic risk, CPP management, osmolar clearance)
+- Diabetes mellitus (glycemic control affects TBI outcomes)
+- Substance use (alcohol — coagulopathy/withdrawal; cocaine — vasospasm/hemorrhage)
+- Advance directives / code status — **discuss early with family**
 - Allergies:
 - Medications:
 
@@ -74,14 +74,14 @@
 ---
 
 ## Labs
-- [ ] **CBC** — Hgb (transfusion if < 7-8, consider higher threshold in active hemorrhage), Plt > 100K for surgery (transfuse platelets if on antiplatelets)
-- [ ] **Coagulation studies** — PT/INR, PTT, fibrinogen (> 200)
+- **CBC** — Hgb (transfusion if < 7-8, consider higher threshold in active hemorrhage), Plt > 100K for surgery (transfuse platelets if on antiplatelets)
+- **Coagulation studies** — PT/INR, PTT, fibrinogen (> 200)
   - **Reversal agents:** Warfarin → 4-factor PCC + Vit K 10mg IV; Dabigatran → idarucizumab 5g; Xa inhibitors → andexanet alfa or PCC; Heparin → protamine; Antiplatelets → platelet transfusion ± desmopressin
   - **Target:** INR < 1.4 before incision
-- [ ] **BMP** — Na (baseline for osmolar therapy), K, Cr, glucose (target 140-180)
-- [ ] **ABG** — pH, pCO2 (target 35-38), pO2, lactate
-- [ ] **Type and crossmatch** — 2-4 units pRBC; TBI patients frequently coagulopathic
-- [ ] **TEG / ROTEM** (if available) — point-of-care coag assessment; **ethanol level, UDS**
+- **BMP** — Na (baseline for osmolar therapy), K, Cr, glucose (target 140-180)
+- **ABG** — pH, pCO2 (target 35-38), pO2, lactate
+- **Type and crossmatch** — 2-4 units pRBC; TBI patients frequently coagulopathic
+- **TEG / ROTEM** (if available) — point-of-care coag assessment; **ethanol level, UDS**
 
 ---
 
@@ -134,23 +134,23 @@
 - **Bifrontal:** Supine, neutral, Mayfield. All pressure points padded; C-spine precautions if not cleared
 
 ### Equipment & Instrumentation
-- [ ] Craniotome, perforator drill, high-speed drill (temporal floor), Kerrison rongeurs
-- [ ] Dural substitute (large — for expansile duraplasty): autologous pericranium (preferred), bovine pericardium (DuraGuard), collagen matrix (DuraGen), or synthetic (Gore-Tex)
-- [ ] ICP monitor (Codman/Integra bolt or EVD kit), subgaleal drain (JP or Blake)
-- [ ] Hemostatic agents (Surgicel, Gelfoam, Floseal), bone wax, Raney clips, bone flap storage supplies
+- Craniotome, perforator drill, high-speed drill (temporal floor), Kerrison rongeurs
+- Dural substitute (large — for expansile duraplasty): autologous pericranium (preferred), bovine pericardium (DuraGuard), collagen matrix (DuraGen), or synthetic (Gore-Tex)
+- ICP monitor (Codman/Integra bolt or EVD kit), subgaleal drain (JP or Blake)
+- Hemostatic agents (Surgicel, Gelfoam, Floseal), bone wax, Raney clips, bone flap storage supplies
 
 ### Monitoring
-- [ ] Arterial line (pre-induction), central venous catheter, Foley (strict I/Os)
-- [ ] ICP monitor (existing or placed intraoperatively); core temperature
-- [ ] SSEPs/MEPs generally NOT used — patients comatose, goal is decompression not functional mapping
+- Arterial line (pre-induction), central venous catheter, Foley (strict I/Os)
+- ICP monitor (existing or placed intraoperatively); core temperature
+- SSEPs/MEPs generally NOT used — patients comatose, goal is decompression not functional mapping
 
 ### Anesthesia Considerations
-- [ ] **Avoid hypotension** (SBP > 100 at all times — single greatest modifiable predictor of poor TBI outcome); RSI if not already intubated
-- [ ] Propofol/fentanyl/rocuronium induction; avoid nitrous oxide (pneumocephalus), prolonged hyperventilation (brief pCO2 30-32 only for impending herniation)
-- [ ] Mannitol 1 g/kg or 23.4% saline 30 mL available pre-incision if herniation imminent
-- [ ] Blood products in room: 2-4 units pRBC, FFP/platelets/cryo per coags; TXA 1g IV if < 3h from injury (CRASH-2)
-- [ ] **Do not delay surgery for full coagulopathy correction if herniation is imminent** — correct concurrently
-- [ ] Cefazolin 2g IV; maintain normothermia, normoglycemia (140-180), normovolemia; A-line transducer at tragus for CPP
+- **Avoid hypotension** (SBP > 100 at all times — single greatest modifiable predictor of poor TBI outcome); RSI if not already intubated
+- Propofol/fentanyl/rocuronium induction; avoid nitrous oxide (pneumocephalus), prolonged hyperventilation (brief pCO2 30-32 only for impending herniation)
+- Mannitol 1 g/kg or 23.4% saline 30 mL available pre-incision if herniation imminent
+- Blood products in room: 2-4 units pRBC, FFP/platelets/cryo per coags; TXA 1g IV if < 3h from injury (CRASH-2)
+- **Do not delay surgery for full coagulopathy correction if herniation is imminent** — correct concurrently
+- Cefazolin 2g IV; maintain normothermia, normoglycemia (140-180), normovolemia; A-line transducer at tragus for CPP
 
 ### Potential Complications
 1. **Inadequate decompression** (small flap) — cortical strangulation, venous infarction, herniation through defect
@@ -235,47 +235,47 @@ The patient was transported intubated and sedated to the NSICU in [critical but 
 ## Postoperative Plan
 
 ### ICP Management (Tiered Approach)
-- [ ] **Target ICP < 22 mmHg, CPP 60-70 mmHg** (avoid CPP > 70 — increased ARDS risk per BTF guidelines)
-- [ ] **Tier 0 (baseline):** HOB 30 degrees, head midline (no jugular venous obstruction), sedation (propofol/fentanyl), normothermia, normovolemia, normoglycemia, adequate oxygenation
-- [ ] **Tier 1:** Osmolar therapy — mannitol 20% (0.25-1 g/kg q4-6h, hold if serum osm > 320) or hypertonic saline 3% infusion (target Na 145-155) or 23.4% bolus (30 mL via central line for acute spikes)
-- [ ] **Tier 2:** CSF drainage via EVD (if placed), neuromuscular blockade (cisatracurium), mild hyperventilation (pCO2 30-35 — only as temporizing measure)
-- [ ] **Tier 3:** Decompressive craniectomy (already performed); barbiturate coma (pentobarbital) if ICP remains refractory despite decompression (last resort)
+- **Target ICP < 22 mmHg, CPP 60-70 mmHg** (avoid CPP > 70 — increased ARDS risk per BTF guidelines)
+- **Tier 0 (baseline):** HOB 30 degrees, head midline (no jugular venous obstruction), sedation (propofol/fentanyl), normothermia, normovolemia, normoglycemia, adequate oxygenation
+- **Tier 1:** Osmolar therapy — mannitol 20% (0.25-1 g/kg q4-6h, hold if serum osm > 320) or hypertonic saline 3% infusion (target Na 145-155) or 23.4% bolus (30 mL via central line for acute spikes)
+- **Tier 2:** CSF drainage via EVD (if placed), neuromuscular blockade (cisatracurium), mild hyperventilation (pCO2 30-35 — only as temporizing measure)
+- **Tier 3:** Decompressive craniectomy (already performed); barbiturate coma (pentobarbital) if ICP remains refractory despite decompression (last resort)
 
 ### Monitoring & Osmolar Therapy
-- [ ] Neuro checks q1h (GCS, pupils, motor exam)
-- [ ] Continuous ICP monitoring — trends, waveform, drain function
-- [ ] Arterial line for continuous MAP and CPP calculation
-- [ ] Serial CT head: 6h postop, 24h, then with any neuro change (edema peaks days 2-5)
-- [ ] Na/osmolality q4-6h while on osmolar therapy
-- [ ] Mannitol: serum osm < 320 mOsm/L, replace UOP (osmotic diuretic)
-- [ ] Hypertonic saline: target Na 145-155 mEq/L; wean gradually to avoid rebound edema
+- Neuro checks q1h (GCS, pupils, motor exam)
+- Continuous ICP monitoring — trends, waveform, drain function
+- Arterial line for continuous MAP and CPP calculation
+- Serial CT head: 6h postop, 24h, then with any neuro change (edema peaks days 2-5)
+- Na/osmolality q4-6h while on osmolar therapy
+- Mannitol: serum osm < 320 mOsm/L, replace UOP (osmotic diuretic)
+- Hypertonic saline: target Na 145-155 mEq/L; wean gradually to avoid rebound edema
 
 ### Temperature, Seizure Prophylaxis & DVT
-- [ ] **Normothermia (36-37°C)** — fever worsens secondary injury; treat aggressively (acetaminophen, cooling blankets)
-- [ ] Therapeutic hypothermia NOT routinely recommended (Eurotherm, POLAR trials — no benefit); consider only as rescue
-- [ ] Levetiracetam 500-1000 mg BID x 7 days (BTF guidelines — early seizure prophylaxis); late prophylaxis (> 7d) NOT recommended
-- [ ] Continuous EEG if GCS remains low (non-convulsive seizures common and underdiagnosed)
-- [ ] SCDs immediately; pharmacologic DVT prophylaxis (enoxaparin 40 mg SQ daily) start 24-48h postop once hemorrhage stable on CT
+- **Normothermia (36-37°C)** — fever worsens secondary injury; treat aggressively (acetaminophen, cooling blankets)
+- Therapeutic hypothermia NOT routinely recommended (Eurotherm, POLAR trials — no benefit); consider only as rescue
+- Levetiracetam 500-1000 mg BID x 7 days (BTF guidelines — early seizure prophylaxis); late prophylaxis (> 7d) NOT recommended
+- Continuous EEG if GCS remains low (non-convulsive seizures common and underdiagnosed)
+- SCDs immediately; pharmacologic DVT prophylaxis (enoxaparin 40 mg SQ daily) start 24-48h postop once hemorrhage stable on CT
 
 ### Nutrition & Metabolic
-- [ ] Early enteral nutrition within 48-72h (TBI is hypermetabolic)
-- [ ] Glucose 140-180 mg/dL; avoid hyponatremia (cerebral salt wasting common)
+- Early enteral nutrition within 48-72h (TBI is hypermetabolic)
+- Glucose 140-180 mg/dL; avoid hyponatremia (cerebral salt wasting common)
 
 ### Cranioplasty Planning
-- [ ] **Timing: typically 6-12 weeks** after decompressive craniectomy, once cerebral edema has resolved and the patient is medically stable
-- [ ] Earlier cranioplasty (< 6 weeks) may be considered if the patient develops syndrome of the trephined (neurological deterioration attributed to atmospheric pressure on the brain)
-- [ ] Evaluate for hydrocephalus before cranioplasty — may need VP shunt placement at the same sitting
-- [ ] Options: Autologous bone flap (from abdominal pocket or bone bank), custom PEEK/titanium implant (if autologous bone has been resorbed or is unavailable)
+- **Timing: typically 6-12 weeks** after decompressive craniectomy, once cerebral edema has resolved and the patient is medically stable
+- Earlier cranioplasty (< 6 weeks) may be considered if the patient develops syndrome of the trephined (neurological deterioration attributed to atmospheric pressure on the brain)
+- Evaluate for hydrocephalus before cranioplasty — may need VP shunt placement at the same sitting
+- Options: Autologous bone flap (from abdominal pocket or bone bank), custom PEEK/titanium implant (if autologous bone has been resorbed or is unavailable)
 
 ### Rehabilitation & Prognosis
-- [ ] Early PT/OT/SLP consultation (within 48-72h of stabilization)
-- [ ] Tracheostomy and PEG evaluation if prolonged intubation expected (assess day 7-14)
-- [ ] **Prognosis (RESCUEicp 12-month data):** Mortality ~27%; favorable outcome (moderate disability/good recovery) ~42%; vegetative ~8%; severe disability ~22%
-- [ ] **Do NOT prognosticate in first 72 hours** — early prognostication is unreliable; serial assessments over weeks; age, GCS motor, pupils, and CT findings are strongest predictors
-- [ ] Goals-of-care discussions — ongoing with family/surrogate and interdisciplinary team
-- [ ] Disposition: acute rehab vs skilled nursing vs LTAC, depending on trajectory
+- Early PT/OT/SLP consultation (within 48-72h of stabilization)
+- Tracheostomy and PEG evaluation if prolonged intubation expected (assess day 7-14)
+- **Prognosis (RESCUEicp 12-month data):** Mortality ~27%; favorable outcome (moderate disability/good recovery) ~42%; vegetative ~8%; severe disability ~22%
+- **Do NOT prognosticate in first 72 hours** — early prognostication is unreliable; serial assessments over weeks; age, GCS motor, pupils, and CT findings are strongest predictors
+- Goals-of-care discussions — ongoing with family/surrogate and interdisciplinary team
+- Disposition: acute rehab vs skilled nursing vs LTAC, depending on trajectory
 
 ### Follow-up
-- [ ] Neurosurgery clinic: 2-4 weeks postop (wound check, CT head, neurological assessment)
-- [ ] Cranioplasty scheduling: 6-12 weeks (with pre-op CT for implant planning)
-- [ ] Long-term: seizure monitoring, cognitive rehabilitation, neuropsychological evaluation
+- Neurosurgery clinic: 2-4 weeks postop (wound check, CT head, neurological assessment)
+- Cranioplasty scheduling: 6-12 weeks (with pre-op CT for implant planning)
+- Long-term: seizure monitoring, cognitive rehabilitation, neuropsychological evaluation

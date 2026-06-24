@@ -25,7 +25,7 @@
 ---
 
 ## Past Medical History
-- [ ] Associated injuries (vascular, visceral, airway), tetanus status, anticoagulation
+- Associated injuries (vascular, visceral, airway), tetanus status, anticoagulation
 - Standard PMH; trauma ATLS workup
 
 ---
@@ -42,7 +42,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **type and crossmatch**, trauma labs, tetanus
+- CBC, BMP, Coags, **type and crossmatch**, trauma labs, tetanus
 
 ---
 
@@ -82,14 +82,14 @@
 3. **Dura** (leak/fistula), adjacent viscera (trajectory), lead toxicity (rare, intra-articular/CSF fragments)
 
 ### Equipment
-- [ ] Decompression/instrumentation sets, microscope, dural repair materials
-- [ ] Copious irrigation, fluoroscopy, culture media (contaminated)
+- Decompression/instrumentation sets, microscope, dural repair materials
+- Copious irrigation, fluoroscopy, culture media (contaminated)
 
 ### Monitoring
-- [ ] SSEPs/MEPs (incomplete injuries)
+- SSEPs/MEPs (incomplete injuries)
 
 ### Anesthesia
-- [ ] Trauma/resuscitation, MAP support (SCI), crossmatched blood, antibiotics, tetanus, coordinate trauma/vascular
+- Trauma/resuscitation, MAP support (SCI), crossmatched blood, antibiotics, tetanus, coordinate trauma/vascular
 
 ### Potential Complications
 1. CSF fistula/pseudomeningocele/meningitis, infection (contaminated)
@@ -121,8 +121,8 @@ Closure was performed in layers. The patient was transferred to the ICU with ser
 ---
 
 ## Postoperative Plan
-- [ ] ICU, **ASIA exams**, MAP support, antibiotics (broad if contaminated), tetanus
-- [ ] CSF leak monitoring, CT postop
-- [ ] DVT prophylaxis (timing per bleeding/injuries), bowel/bladder/skin care, SCI rehab
-- [ ] Coordinate trauma/vascular/general surgery; psychosocial support
-- [ ] Follow-up imaging; counsel re: prognosis by completeness of injury
+- ICU, **ASIA exams**, MAP support, antibiotics (broad if contaminated), tetanus
+- CSF leak monitoring, CT postop
+- DVT prophylaxis (timing per bleeding/injuries), bowel/bladder/skin care, SCI rehab
+- Coordinate trauma/vascular/general surgery; psychosocial support
+- Follow-up imaging; counsel re: prognosis by completeness of injury

@@ -42,7 +42,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **type and crossmatch** (pediatric blood volume), pre-op anesthesia
+- CBC, BMP, Coags, **type and crossmatch** (pediatric blood volume), pre-op anesthesia
 
 ---
 
@@ -79,14 +79,14 @@
 4. Pediatric blood volume (transfusion)
 
 ### Equipment
-- [ ] Microscope, navigation, CUSA, ultrasonic aspirator (pediatric settings)
-- [ ] EVD kit, bipolar, hemostatic agents, dural substitute, **crossmatched blood**
+- Microscope, navigation, CUSA, ultrasonic aspirator (pediatric settings)
+- EVD kit, bipolar, hemostatic agents, dural substitute, **crossmatched blood**
 
 ### Monitoring
-- [ ] SSEPs, MEPs, CN EMG (VII, IX-XII), BAER; pediatric IONM
+- SSEPs, MEPs, CN EMG (VII, IX-XII), BAER; pediatric IONM
 
 ### Anesthesia
-- [ ] **Arterial line, crossmatched blood, pediatric fluid/thermoregulation**, antiemetics, VAE precautions, careful pediatric dosing
+- **Arterial line, crossmatched blood, pediatric fluid/thermoregulation**, antiemetics, VAE precautions, careful pediatric dosing
 
 ### Potential Complications
 1. **Posterior fossa syndrome / cerebellar mutism** (up to ~25% with midline/vermian/dentate involvement — transient mutism, emotional lability, ataxia; recovery over weeks-months, often incomplete)
@@ -121,10 +121,10 @@ The patient was transferred to the PICU with posterior-fossa precautions and **v
 ---
 
 ## Postoperative Plan
-- [ ] PICU, neuro checks q1h, **posterior fossa precautions** (consciousness, breathing, CN, swallowing)
-- [ ] **Watch for cerebellar mutism** (may be delayed 1-2 days), swallow eval before PO, airway/eye protection
-- [ ] CT 6h, MRI postop < 48h (EOR); EVD/hydrocephalus management
-- [ ] Antiemetics, steroid taper, DVT prophylaxis (age-appropriate)
-- [ ] **Neuraxis staging MRI + LP CSF cytology** (medulloblastoma/ependymoma — for staging, ~2 weeks post-op)
-- [ ] Pediatric neuro-oncology/tumor board: medulloblastoma → risk-stratified craniospinal RT (age > 3) + chemo; ependymoma → RT ± second-look surgery; pilocytic → observation if GTR
-- [ ] Molecular subgrouping (medulloblastoma: WNT/SHH/Group 3/4), rehab, long-term follow-up
+- PICU, neuro checks q1h, **posterior fossa precautions** (consciousness, breathing, CN, swallowing)
+- **Watch for cerebellar mutism** (may be delayed 1-2 days), swallow eval before PO, airway/eye protection
+- CT 6h, MRI postop < 48h (EOR); EVD/hydrocephalus management
+- Antiemetics, steroid taper, DVT prophylaxis (age-appropriate)
+- **Neuraxis staging MRI + LP CSF cytology** (medulloblastoma/ependymoma — for staging, ~2 weeks post-op)
+- Pediatric neuro-oncology/tumor board: medulloblastoma → risk-stratified craniospinal RT (age > 3) + chemo; ependymoma → RT ± second-look surgery; pilocytic → observation if GTR
+- Molecular subgrouping (medulloblastoma: WNT/SHH/Group 3/4), rehab, long-term follow-up

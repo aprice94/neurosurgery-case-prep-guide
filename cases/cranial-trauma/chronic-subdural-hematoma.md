@@ -28,15 +28,15 @@
 ---
 
 ## Past Medical History
-- [ ] **Anticoagulation** (warfarin, DOACs, heparin) — CRITICAL
-- [ ] **Antiplatelet** (aspirin, clopidogrel, ticagrelor)
-- [ ] Atrial fibrillation (reason for anticoagulation — when can it restart?)
-- [ ] Mechanical heart valve (cardiology consultation for bridging)
-- [ ] History of falls / fall risk
-- [ ] Alcohol use disorder (brain atrophy → bridging vein stretch)
-- [ ] Coagulopathy / liver disease
-- [ ] Dementia / baseline cognitive status
-- [ ] Prior cranial surgery
+- **Anticoagulation** (warfarin, DOACs, heparin) — CRITICAL
+- **Antiplatelet** (aspirin, clopidogrel, ticagrelor)
+- Atrial fibrillation (reason for anticoagulation — when can it restart?)
+- Mechanical heart valve (cardiology consultation for bridging)
+- History of falls / fall risk
+- Alcohol use disorder (brain atrophy → bridging vein stretch)
+- Coagulopathy / liver disease
+- Dementia / baseline cognitive status
+- Prior cranial surgery
 - Allergies:
 - Medications (complete list with anticoagulant/antiplatelet details):
 
@@ -62,12 +62,12 @@
 ---
 
 ## Labs
-- [ ] CBC (Plt count)
-- [ ] **INR / PT** — MUST correct before surgery (target INR < 1.5)
-- [ ] **PTT** — if on heparin
-- [ ] BMP (Na, K)
-- [ ] Type and screen
-- [ ] **Reversal agents:**
+- CBC (Plt count)
+- **INR / PT** — MUST correct before surgery (target INR < 1.5)
+- **PTT** — if on heparin
+- BMP (Na, K)
+- Type and screen
+- **Reversal agents:**
   - Warfarin: Vitamin K 10 mg IV + FFP or 4-factor PCC (KCentra)
   - Dabigatran: Idarucizumab (Praxbind) 5g IV
   - Rivaroxaban/Apixaban: Andexanet alfa or 4-factor PCC
@@ -149,22 +149,22 @@
 4. **Motor cortex** — underlying cortex may be compressed; avoid cortical injury during drainage
 
 ### Equipment
-- [ ] Perforator/craniotome
-- [ ] Subdural drain (Blake/JP)
-- [ ] Warm saline irrigation
-- [ ] Red rubber catheter (for irrigation through burr hole)
-- [ ] Bipolar (for dural edge hemostasis)
-- [ ] Bone wax
+- Perforator/craniotome
+- Subdural drain (Blake/JP)
+- Warm saline irrigation
+- Red rubber catheter (for irrigation through burr hole)
+- Bipolar (for dural edge hemostasis)
+- Bone wax
 
 ### Monitoring
 - Standard ASA monitors (no IONM needed)
 
 ### Anesthesia Considerations
-- [ ] **Correct coagulopathy BEFORE surgery** — INR, platelet function
-- [ ] General anesthesia (standard) OR monitored anesthesia care/local (for burr holes in select patients)
-- [ ] Antibiotic prophylaxis (cefazolin 2g)
-- [ ] Keep well-hydrated (brain re-expansion)
-- [ ] Avoid over-draining (risk of contralateral SDH or tension pneumocephalus)
+- **Correct coagulopathy BEFORE surgery** — INR, platelet function
+- General anesthesia (standard) OR monitored anesthesia care/local (for burr holes in select patients)
+- Antibiotic prophylaxis (cefazolin 2g)
+- Keep well-hydrated (brain re-expansion)
+- Avoid over-draining (risk of contralateral SDH or tension pneumocephalus)
 
 ### Potential Complications & Contingencies
 1. **Recurrence** (~10-20%) — most common complication; may need repeat drainage or MMA embolization
@@ -216,21 +216,21 @@ The [left/right] scalp was prepped and draped in standard sterile fashion. Cefaz
 ---
 
 ## Postoperative Plan
-- [ ] Step-down unit or ICU x 24 hours
-- [ ] Neuro checks q2h x 24 hours
-- [ ] **Keep patient FLAT x 24-48 hours** (promotes brain re-expansion, reduces pneumocephalus)
-- [ ] Subdural drain: keep on [gravity/low suction]; record output q shift
-- [ ] CT head POD1 — assess residual collection, brain re-expansion, pneumocephalus
-- [ ] **Remove drain when output < 50 mL / 24 hours** (typically POD 1-3)
-- [ ] Repeat CT after drain removal
-- [ ] IV fluids: Keep well-hydrated (promotes re-expansion)
-- [ ] DVT prophylaxis: SCDs; hold chemical prophylaxis until drain removed
-- [ ] Seizure prophylaxis: Per institutional protocol (not universally given)
-- [ ] **Anticoagulation restart:** Discuss with cardiology/primary team
+- Step-down unit or ICU x 24 hours
+- Neuro checks q2h x 24 hours
+- **Keep patient FLAT x 24-48 hours** (promotes brain re-expansion, reduces pneumocephalus)
+- Subdural drain: keep on [gravity/low suction]; record output q shift
+- CT head POD1 — assess residual collection, brain re-expansion, pneumocephalus
+- **Remove drain when output < 50 mL / 24 hours** (typically POD 1-3)
+- Repeat CT after drain removal
+- IV fluids: Keep well-hydrated (promotes re-expansion)
+- DVT prophylaxis: SCDs; hold chemical prophylaxis until drain removed
+- Seizure prophylaxis: Per institutional protocol (not universally given)
+- **Anticoagulation restart:** Discuss with cardiology/primary team
   - If AFib (no valve): Restart in 1-2 weeks (with imaging confirmation)
   - If mechanical valve: May need earlier bridging — discuss risks
   - If antiplatelet: Restart in 3-7 days
-- [ ] Fall prevention
-- [ ] Activity: Gradually increase HOB after 48 hours
-- [ ] If recurrent: Consider MMA embolization before repeat surgery
-- [ ] Follow-up: Clinic 2-4 weeks with CT head
+- Fall prevention
+- Activity: Gradually increase HOB after 48 hours
+- If recurrent: Consider MMA embolization before repeat surgery
+- Follow-up: Clinic 2-4 weeks with CT head

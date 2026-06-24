@@ -33,12 +33,12 @@
 - VHL screening (hemangioblastoma)
 
 ### Angiography
-- [ ] Consider for vascular hemangioblastoma (feeders, embolization)
+- Consider for vascular hemangioblastoma (feeders, embolization)
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen; VHL workup if hemangioblastoma
+- CBC, BMP, Coags, Type and screen; VHL workup if hemangioblastoma
 
 ---
 
@@ -78,14 +78,14 @@
 4. Dura (CSF leak)
 
 ### Equipment
-- [ ] Microscope, **ultrasound**, CUSA (low settings), fine microinstruments/bipolar, pial sutures
-- [ ] Dural substitute, sealant, laminoplasty hardware, ICG (hemangioblastoma)
+- Microscope, **ultrasound**, CUSA (low settings), fine microinstruments/bipolar, pial sutures
+- Dural substitute, sealant, laminoplasty hardware, ICG (hemangioblastoma)
 
 ### Monitoring
-- [ ] **MEPs, SSEPs, D-wave (essential), EMG** — D-wave preservation predicts motor recovery even if transient MEP loss
+- **MEPs, SSEPs, D-wave (essential), EMG** — D-wave preservation predicts motor recovery even if transient MEP loss
 
 ### Anesthesia
-- [ ] **MAP > 85-90** (cord perfusion), no paralytic, arterial line, total IV anesthesia (IONM-friendly), prone precautions
+- **MAP > 85-90** (cord perfusion), no paralytic, arterial line, total IV anesthesia (IONM-friendly), prone precautions
 
 ### Potential Complications
 1. **Neurological decline** — dorsal column (sensory/proprioception, common transient), motor (worse with astrocytoma/aggressive resection)
@@ -120,8 +120,8 @@ Closure was completed in layers. The patient was transferred with MAP support an
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h (motor/sensory/proprioception), **MAP support**
-- [ ] Flat/CSF leak precautions, MRI postop (resection)
-- [ ] Expect possible transient dorsal column dysfunction; PT/OT/rehab early
-- [ ] DVT prophylaxis (mechanical), pain (dysesthetic — gabapentinoids)
-- [ ] Pathology/grade; VHL workup (hemangioblastoma); adjuvant therapy per pathology; surveillance MRI; deformity surveillance
+- ICU, neuro checks q1h (motor/sensory/proprioception), **MAP support**
+- Flat/CSF leak precautions, MRI postop (resection)
+- Expect possible transient dorsal column dysfunction; PT/OT/rehab early
+- DVT prophylaxis (mechanical), pain (dysesthetic — gabapentinoids)
+- Pathology/grade; VHL workup (hemangioblastoma); adjuvant therapy per pathology; surveillance MRI; deformity surveillance

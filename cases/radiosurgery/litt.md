@@ -28,7 +28,7 @@
 ---
 
 ## Past Medical History
-- [ ] Coagulopathy/anticoagulation (correct — catheter hemorrhage), MRI compatibility, prior radiation/surgery
+- Coagulopathy/anticoagulation (correct — catheter hemorrhage), MRI compatibility, prior radiation/surgery
 - Standard PMH; epilepsy workup if applicable (video-EEG, MRI, ± SEEG)
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 ## Labs
-- [ ] CBC, **Coags**, BMP, type and screen
+- CBC, **Coags**, BMP, type and screen
 
 ---
 
@@ -79,12 +79,12 @@
 3. **Ependyma/ventricle** (trajectory)
 
 ### Equipment
-- [ ] LITT system (Visualase/NeuroBlate — laser, cooled catheter, thermometry software)
-- [ ] Stereotactic platform (frame/frameless/robot), bone anchor, twist drill
-- [ ] **MRI suite (intraoperative or diagnostic) with thermometry**, MRI-compatible instruments
+- LITT system (Visualase/NeuroBlate — laser, cooled catheter, thermometry software)
+- Stereotactic platform (frame/frameless/robot), bone anchor, twist drill
+- **MRI suite (intraoperative or diagnostic) with thermometry**, MRI-compatible instruments
 
 ### Anesthesia
-- [ ] General (MRI environment), BP control (hemorrhage), MRI-safe setup
+- General (MRI environment), BP control (hemorrhage), MRI-safe setup
 
 ### Potential Complications
 1. **Hemorrhage** (catheter placement), **thermal injury to adjacent structures** (deficit), edema (post-ablation — often transient, steroids)
@@ -118,8 +118,8 @@ The patient was transferred [to the ICU overnight] with a short steroid course f
 ---
 
 ## Post-Treatment Plan
-- [ ] ICU/step-down overnight, neuro checks; **short steroid course** (peri-ablation edema)
-- [ ] **Postop MRI** (ablation coverage, hemorrhage), watch for transient edema-related deficit
-- [ ] DVT prophylaxis, seizure management (epilepsy/tumor)
-- [ ] Pathology note: **LITT does not provide tissue** — biopsy at same setting if diagnosis needed
-- [ ] Tumor: oncology follow-up, surveillance MRI (ablation cavity evolves); Epilepsy: seizure-outcome tracking, AED management; Radiation necrosis: symptom/steroid follow-up
+- ICU/step-down overnight, neuro checks; **short steroid course** (peri-ablation edema)
+- **Postop MRI** (ablation coverage, hemorrhage), watch for transient edema-related deficit
+- DVT prophylaxis, seizure management (epilepsy/tumor)
+- Pathology note: **LITT does not provide tissue** — biopsy at same setting if diagnosis needed
+- Tumor: oncology follow-up, surveillance MRI (ablation cavity evolves); Epilepsy: seizure-outcome tracking, AED management; Radiation necrosis: symptom/steroid follow-up

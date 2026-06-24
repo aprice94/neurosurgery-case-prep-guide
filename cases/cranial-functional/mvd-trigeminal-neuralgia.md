@@ -42,10 +42,10 @@
 ---
 
 ## Past Medical History
-- [ ] Multiple sclerosis (secondary TN — MVD less effective)
-- [ ] Prior TN procedures (percutaneous, gamma knife, prior MVD)
-- [ ] Hearing loss (ipsilateral — affects approach risk)
-- [ ] Other cranial nerve pathology
+- Multiple sclerosis (secondary TN — MVD less effective)
+- Prior TN procedures (percutaneous, gamma knife, prior MVD)
+- Hearing loss (ipsilateral — affects approach risk)
+- Other cranial nerve pathology
 - Allergies:
 - Medications:
 
@@ -72,15 +72,15 @@
 - Arterial anatomy of posterior circulation
 
 ### Audiology
-- [ ] **Baseline audiogram** — BAER monitoring requires serviceable hearing
+- **Baseline audiogram** — BAER monitoring requires serviceable hearing
 - Document any pre-existing hearing loss
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags
-- [ ] Type and screen
-- [ ] Carbamazepine level (if still on it — important for perioperative management)
+- CBC, BMP, Coags
+- Type and screen
+- Carbamazepine level (if still on it — important for perioperative management)
 
 ---
 
@@ -180,29 +180,29 @@
 8. **Brainstem** — medial limit; avoid any instrument contact
 
 ### Equipment
-- [ ] Operating microscope (essential)
-- [ ] High-speed drill (craniotomy)
-- [ ] Microsurgical instruments
-- [ ] Teflon felt (for decompression pledgets)
-- [ ] Bipolar forceps (fine tip)
-- [ ] Brain retractor (small, self-retaining — minimal use)
-- [ ] Hemostatic agents (Surgicel, Gelfoam)
-- [ ] Bone fixation or cranioplasty material
+- Operating microscope (essential)
+- High-speed drill (craniotomy)
+- Microsurgical instruments
+- Teflon felt (for decompression pledgets)
+- Bipolar forceps (fine tip)
+- Brain retractor (small, self-retaining — minimal use)
+- Hemostatic agents (Surgicel, Gelfoam)
+- Bone fixation or cranioplasty material
 
 ### Monitoring
-- [ ] **BAER (Brainstem Auditory Evoked Responses)** — monitors CN VIII; changes suggest AICA/labyrinthine artery compromise
-- [ ] **Facial nerve EMG (CN VII)** — detects inadvertent facial nerve stimulation
-- [ ] **Lateral spread response (LSR)** — for hemifacial spasm (not TN, but done in same approach)
-- [ ] SSEPs
+- **BAER (Brainstem Auditory Evoked Responses)** — monitors CN VIII; changes suggest AICA/labyrinthine artery compromise
+- **Facial nerve EMG (CN VII)** — detects inadvertent facial nerve stimulation
+- **Lateral spread response (LSR)** — for hemifacial spasm (not TN, but done in same approach)
+- SSEPs
 
 ### Anesthesia Considerations
-- [ ] Arterial line
-- [ ] Foley
-- [ ] Cefazolin 2g IV
-- [ ] Dexamethasone 10 mg IV
-- [ ] No paralytic after intubation (EMG monitoring)
-- [ ] Mannitol 0.5-1 g/kg (for cerebellar relaxation)
-- [ ] Antiemetic prophylaxis (posterior fossa surgery → high nausea risk)
+- Arterial line
+- Foley
+- Cefazolin 2g IV
+- Dexamethasone 10 mg IV
+- No paralytic after intubation (EMG monitoring)
+- Mannitol 0.5-1 g/kg (for cerebellar relaxation)
+- Antiemetic prophylaxis (posterior fossa surgery → high nausea risk)
 
 ### Potential Complications & Contingencies
 1. **Hearing loss** — AICA/labyrinthine artery compromise; monitor BAER; if changes, release retraction, check vessel
@@ -229,20 +229,20 @@
 ---
 
 ## Postoperative Plan
-- [ ] ICU or step-down x 24 hours (posterior fossa surgery)
-- [ ] Neuro checks q1h x 24h (posterior fossa-specific: CN function, mental status, breathing pattern)
-- [ ] **Posterior fossa danger signs:** Decreasing consciousness, irregular breathing, new CN deficit, cerebellar signs → EMERGENT CT → possible return to OR
-- [ ] HOB 30 degrees
-- [ ] CT head within 6 hours (rule out posterior fossa hematoma)
-- [ ] Audiogram before discharge (compare to baseline)
-- [ ] Trigeminal function assessment: Sensation V1/V2/V3, corneal reflex
-- [ ] Facial nerve function: Symmetry, House-Brackmann grade
-- [ ] **Pain assessment:** Expect immediate relief if decompression successful; may take days-weeks for full effect
-- [ ] **Taper TN medications SLOWLY** (not immediately) — carbamazepine taper over 2-4 weeks
-- [ ] Anti-emetics PRN (high nausea rate after posterior fossa surgery)
-- [ ] DVT prophylaxis: SCDs, heparin SQ POD1
-- [ ] Dexamethasone taper
-- [ ] Wound care: Keep dry x 48h
-- [ ] Activity: No heavy lifting x 4-6 weeks
-- [ ] Follow-up: Clinic 2-4 weeks; long-term follow-up for recurrence monitoring
-- [ ] Long-term success: ~70-80% pain-free at 5 years; ~90% initial success
+- ICU or step-down x 24 hours (posterior fossa surgery)
+- Neuro checks q1h x 24h (posterior fossa-specific: CN function, mental status, breathing pattern)
+- **Posterior fossa danger signs:** Decreasing consciousness, irregular breathing, new CN deficit, cerebellar signs → EMERGENT CT → possible return to OR
+- HOB 30 degrees
+- CT head within 6 hours (rule out posterior fossa hematoma)
+- Audiogram before discharge (compare to baseline)
+- Trigeminal function assessment: Sensation V1/V2/V3, corneal reflex
+- Facial nerve function: Symmetry, House-Brackmann grade
+- **Pain assessment:** Expect immediate relief if decompression successful; may take days-weeks for full effect
+- **Taper TN medications SLOWLY** (not immediately) — carbamazepine taper over 2-4 weeks
+- Anti-emetics PRN (high nausea rate after posterior fossa surgery)
+- DVT prophylaxis: SCDs, heparin SQ POD1
+- Dexamethasone taper
+- Wound care: Keep dry x 48h
+- Activity: No heavy lifting x 4-6 weeks
+- Follow-up: Clinic 2-4 weeks; long-term follow-up for recurrence monitoring
+- Long-term success: ~70-80% pain-free at 5 years; ~90% initial success

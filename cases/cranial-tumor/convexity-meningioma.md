@@ -28,12 +28,12 @@
 ---
 
 ## Past Medical History
-- [ ] Seizure history and current AEDs
-- [ ] Prior radiation therapy (radiation-induced meningioma?)
-- [ ] NF2 (multiple meningiomas)
-- [ ] Hormone use (progesterone receptor positive in many meningiomas)
-- [ ] Anticoagulant/antiplatelet use
-- [ ] Prior cranial surgery
+- Seizure history and current AEDs
+- Prior radiation therapy (radiation-induced meningioma?)
+- NF2 (multiple meningiomas)
+- Hormone use (progesterone receptor positive in many meningiomas)
+- Anticoagulant/antiplatelet use
+- Prior cranial surgery
 - Allergies:
 - Medications:
 
@@ -75,18 +75,18 @@
 - Optic radiations (temporal/occipital)
 
 ### Navigation
-- [ ] Thin-cut MRI with gadolinium loaded to navigation
-- [ ] Tumor margins mapped
-- [ ] Eloquent structures identified
-- [ ] Surface anatomy correlated with tumor location
+- Thin-cut MRI with gadolinium loaded to navigation
+- Tumor margins mapped
+- Eloquent structures identified
+- Surface anatomy correlated with tumor location
 
 ---
 
 ## Labs
-- [ ] CBC (Hgb, Plt)
-- [ ] BMP
-- [ ] Coagulation (PT/INR, PTT)
-- [ ] Type and screen (crossmatch if large/vascular tumor)
+- CBC (Hgb, Plt)
+- BMP
+- Coagulation (PT/INR, PTT)
+- Type and screen (crossmatch if large/vascular tumor)
 
 ---
 
@@ -179,36 +179,36 @@
 7. **Optic radiations** — temporal/parietal/occipital location
 
 ### Equipment & Instrumentation
-- [ ] Operating microscope
-- [ ] Stereotactic navigation (MRI-based)
-- [ ] CUSA (Cavitron ultrasonic aspirator) — for internal debulking
-- [ ] High-speed drill — for hyperostotic bone
-- [ ] Bipolar forceps
-- [ ] Microsurgical instruments
-- [ ] Hemostatic agents (Surgicel, Gelfoam, Floseal)
-- [ ] Dural substitute (if Simpson I excision)
-- [ ] Bone fixation (titanium plates/screws)
-- [ ] Cranioplasty material (if bone involved and removed)
-- [ ] Specimen containers (fresh and formalin)
+- Operating microscope
+- Stereotactic navigation (MRI-based)
+- CUSA (Cavitron ultrasonic aspirator) — for internal debulking
+- High-speed drill — for hyperostotic bone
+- Bipolar forceps
+- Microsurgical instruments
+- Hemostatic agents (Surgicel, Gelfoam, Floseal)
+- Dural substitute (if Simpson I excision)
+- Bone fixation (titanium plates/screws)
+- Cranioplasty material (if bone involved and removed)
+- Specimen containers (fresh and formalin)
 
 ### Monitoring
-- [ ] SSEPs (if near sensory cortex)
-- [ ] MEPs (if near motor cortex)
-- [ ] Direct cortical stimulation (if near eloquent cortex)
-- [ ] EMG — CN VII monitoring if temporal/frontal-lateral
-- [ ] Language mapping (awake craniotomy if dominant hemisphere near language areas)
+- SSEPs (if near sensory cortex)
+- MEPs (if near motor cortex)
+- Direct cortical stimulation (if near eloquent cortex)
+- EMG — CN VII monitoring if temporal/frontal-lateral
+- Language mapping (awake craniotomy if dominant hemisphere near language areas)
 
 ### Anesthesia Considerations
-- [ ] Arterial line
-- [ ] Two large-bore IVs
-- [ ] Foley catheter
-- [ ] Mannitol 1 g/kg (for brain relaxation if significant edema)
-- [ ] Dexamethasone 10 mg IV (if not already on steroids)
-- [ ] Cefazolin 2g IV
-- [ ] Levetiracetam 1000 mg IV (if seizure history or frontal location)
-- [ ] Type and crossmatch (large tumors can bleed significantly)
-- [ ] Cell saver consideration (large vascular tumors)
-- [ ] No paralytic (if motor monitoring)
+- Arterial line
+- Two large-bore IVs
+- Foley catheter
+- Mannitol 1 g/kg (for brain relaxation if significant edema)
+- Dexamethasone 10 mg IV (if not already on steroids)
+- Cefazolin 2g IV
+- Levetiracetam 1000 mg IV (if seizure history or frontal location)
+- Type and crossmatch (large tumors can bleed significantly)
+- Cell saver consideration (large vascular tumors)
+- No paralytic (if motor monitoring)
 
 ### Potential Complications & Contingencies
 1. **Significant bleeding from dural base** — control early with devascularization; bipolar, Surgicel
@@ -265,18 +265,18 @@ The tumor was delivered en bloc / in large fragments. The involved dura at the b
 ---
 
 ## Postoperative Plan
-- [ ] ICU x 24 hours, then step-down
-- [ ] Neuro checks q1h x 24h
-- [ ] HOB 30 degrees
-- [ ] CT head within 6 hours
-- [ ] MRI brain with gadolinium within 24-48 hours (extent of resection)
-- [ ] DVT prophylaxis: SCDs immediately, heparin SQ starting POD1
-- [ ] Dexamethasone taper over 5-7 days (or longer if significant edema)
-- [ ] Seizure prophylaxis (levetiracetam x 7 days if no prior seizures; continue if seizure history)
-- [ ] Pain management
-- [ ] Diet: advance as tolerated
-- [ ] Pathology follow-up: WHO grade, Ki-67, progesterone receptor status
-- [ ] If WHO Grade II/III: discuss adjuvant radiation at tumor board
-- [ ] Follow-up: Clinic 2-4 weeks, MRI at 3 months, then annually x 5+ years
-- [ ] Simpson Grade I: ~9% recurrence at 10 years (Grade I meningioma)
-- [ ] Simpson Grade II: ~19% recurrence at 10 years
+- ICU x 24 hours, then step-down
+- Neuro checks q1h x 24h
+- HOB 30 degrees
+- CT head within 6 hours
+- MRI brain with gadolinium within 24-48 hours (extent of resection)
+- DVT prophylaxis: SCDs immediately, heparin SQ starting POD1
+- Dexamethasone taper over 5-7 days (or longer if significant edema)
+- Seizure prophylaxis (levetiracetam x 7 days if no prior seizures; continue if seizure history)
+- Pain management
+- Diet: advance as tolerated
+- Pathology follow-up: WHO grade, Ki-67, progesterone receptor status
+- If WHO Grade II/III: discuss adjuvant radiation at tumor board
+- Follow-up: Clinic 2-4 weeks, MRI at 3 months, then annually x 5+ years
+- Simpson Grade I: ~9% recurrence at 10 years (Grade I meningioma)
+- Simpson Grade II: ~19% recurrence at 10 years

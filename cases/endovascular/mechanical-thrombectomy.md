@@ -26,8 +26,8 @@
 ---
 
 ## Past Medical History
-- [ ] Atrial fibrillation/cardioembolic source, prior stroke, anticoagulation, vascular risk factors, prior MI
-- [ ] Renal function (contrast), access anatomy
+- Atrial fibrillation/cardioembolic source, prior stroke, anticoagulation, vascular risk factors, prior MI
+- Renal function (contrast), access anatomy
 - Standard PMH; **goals of care / baseline function (mRS)**
 
 ---
@@ -41,8 +41,8 @@
 ---
 
 ## Labs
-- [ ] POC glucose, **Coags/INR** (if on anticoagulation), CBC, BMP — **do NOT delay thrombectomy** for labs in eligible patients
-- [ ] Type and screen
+- POC glucose, **Coags/INR** (if on anticoagulation), CBC, BMP — **do NOT delay thrombectomy** for labs in eligible patients
+- Type and screen
 
 ---
 
@@ -79,12 +79,12 @@
 4. Access vessels
 
 ### Equipment / Team
-- [ ] Neuroangiography suite, balloon-guide/guide catheters, **stent retrievers, aspiration catheters**, microcatheters/wires
-- [ ] Angioplasty/stent (tandem), heparin (judicious), contrast
-- [ ] **Stroke team + neurointervention + anesthesia** (door-to-puncture/recanalization metrics)
+- Neuroangiography suite, balloon-guide/guide catheters, **stent retrievers, aspiration catheters**, microcatheters/wires
+- Angioplasty/stent (tandem), heparin (judicious), contrast
+- **Stroke team + neurointervention + anesthesia** (door-to-puncture/recanalization metrics)
 
 ### Anesthesia
-- [ ] Conscious sedation or GA; **strict BP management — avoid hypotension** (penumbra) pre-reperfusion; after reperfusion, **lower BP target** (reduce hemorrhage)
+- Conscious sedation or GA; **strict BP management — avoid hypotension** (penumbra) pre-reperfusion; after reperfusion, **lower BP target** (reduce hemorrhage)
 
 ### Potential Complications
 1. **Symptomatic intracranial hemorrhage / reperfusion hemorrhage**, vessel perforation/SAH, dissection
@@ -118,8 +118,8 @@ The patient was transferred to the NSICU/stroke unit with a **lowered BP target 
 ---
 
 ## Post-Procedure Plan
-- [ ] **NSICU/stroke unit**, neuro checks q15min→hourly, NIHSS
-- [ ] **BP management** (post-reperfusion target lower, e.g., < 160-180 or per recanalization status; avoid extremes), access/pulse checks
-- [ ] **NCCT at ~24h** (and for any deterioration) — hemorrhage before starting/restarting antithrombotics; tPA patients delay antithrombotics 24h
-- [ ] Stroke workup (etiology — echo, telemetry/AF, vessel imaging, labs), start secondary prevention (antiplatelet/anticoagulation per cause and bleed status)
-- [ ] DVT prophylaxis (after hemorrhage excluded), dysphagia screen, early rehab, goals of care
+- **NSICU/stroke unit**, neuro checks q15min→hourly, NIHSS
+- **BP management** (post-reperfusion target lower, e.g., < 160-180 or per recanalization status; avoid extremes), access/pulse checks
+- **NCCT at ~24h** (and for any deterioration) — hemorrhage before starting/restarting antithrombotics; tPA patients delay antithrombotics 24h
+- Stroke workup (etiology — echo, telemetry/AF, vessel imaging, labs), start secondary prevention (antiplatelet/anticoagulation per cause and bleed status)
+- DVT prophylaxis (after hemorrhage excluded), dysphagia screen, early rehab, goals of care

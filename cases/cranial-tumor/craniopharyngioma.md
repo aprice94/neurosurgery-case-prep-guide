@@ -41,12 +41,12 @@
 - **Calcification** (adamantinomatous hallmark), sellar anatomy, sphenoid pneumatization (endonasal)
 
 ### Endocrine + Ophthalmology
-- [ ] Full pituitary panel, AM cortisol, DI assessment (Na, urine osm), visual fields/acuity
+- Full pituitary panel, AM cortisol, DI assessment (Na, urine osm), visual fields/acuity
 
 ---
 
 ## Labs
-- [ ] CBC, BMP (Na baseline), Coags, full endocrine panel, **AM cortisol** (stress-dose if deficient), Type and screen
+- CBC, BMP (Na baseline), Coags, full endocrine panel, **AM cortisol** (stress-dose if deficient), Type and screen
 
 ---
 
@@ -85,14 +85,14 @@
 5. Third ventricle/foramen of Monro
 
 ### Equipment
-- [ ] Endoscope/microscope, navigation, drill, CUSA, ICG
-- [ ] Nasoseptal flap, fascia lata/fat graft, dural substitute, sealant, lumbar drain
+- Endoscope/microscope, navigation, drill, CUSA, ICG
+- Nasoseptal flap, fascia lata/fat graft, dural substitute, sealant, lumbar drain
 
 ### Monitoring
-- [ ] SSEPs; VEPs (optional)
+- SSEPs; VEPs (optional)
 
 ### Anesthesia
-- [ ] Arterial line, Foley (strict I/O for DI), stress-dose steroids if adrenal insufficient, careful Na management
+- Arterial line, Foley (strict I/O for DI), stress-dose steroids if adrenal insufficient, careful Na management
 
 ### Potential Complications
 1. **Diabetes insipidus** (often permanent) + triphasic response
@@ -127,10 +127,10 @@ Closure was completed and the patient transferred to the ICU with intensive DI/s
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h
-- [ ] **Intensive DI/Na management** — strict I/O, q4-6h Na, DDAVP protocol, triphasic vigilance
-- [ ] **AM cortisol / stress-dose steroids**, full endocrine replacement, endocrine consult
-- [ ] CSF leak precautions, lumbar drain management
-- [ ] MRI postop, ophthalmology, visual fields
-- [ ] Residual → radiation/proton therapy planning; long-term surveillance
-- [ ] Hypothalamic dysfunction monitoring (weight, behavior)
+- ICU, neuro checks q1h
+- **Intensive DI/Na management** — strict I/O, q4-6h Na, DDAVP protocol, triphasic vigilance
+- **AM cortisol / stress-dose steroids**, full endocrine replacement, endocrine consult
+- CSF leak precautions, lumbar drain management
+- MRI postop, ophthalmology, visual fields
+- Residual → radiation/proton therapy planning; long-term surveillance
+- Hypothalamic dysfunction monitoring (weight, behavior)

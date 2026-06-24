@@ -40,16 +40,16 @@
 ---
 
 ## Past Medical History
-- [ ] Anticoagulant use (warfarin, DOACs — apixaban, rivaroxaban, dabigatran)
-- [ ] Antiplatelet use (aspirin, clopidogrel, ticagrelor)
-- [ ] Coagulopathy (hemophilia, liver disease, thrombocytopenia)
-- [ ] Immunosuppression (steroids, chemotherapy, transplant) — increased infection risk with open fractures
-- [ ] Prior craniotomy or craniectomy (altered anatomy, existing hardware)
-- [ ] Seizure history
-- [ ] Prior TBI
-- [ ] Diabetes (wound healing, infection risk)
-- [ ] Alcohol/substance use (fall risk, coagulopathy)
-- [ ] Tetanus immunization status (critical for open/compound fractures)
+- Anticoagulant use (warfarin, DOACs — apixaban, rivaroxaban, dabigatran)
+- Antiplatelet use (aspirin, clopidogrel, ticagrelor)
+- Coagulopathy (hemophilia, liver disease, thrombocytopenia)
+- Immunosuppression (steroids, chemotherapy, transplant) — increased infection risk with open fractures
+- Prior craniotomy or craniectomy (altered anatomy, existing hardware)
+- Seizure history
+- Prior TBI
+- Diabetes (wound healing, infection risk)
+- Alcohol/substance use (fall risk, coagulopathy)
+- Tetanus immunization status (critical for open/compound fractures)
 - Allergies:
 - Medications:
 
@@ -90,15 +90,15 @@
 ---
 
 ## Labs
-- [ ] CBC (Hgb baseline, Plt > 100K for surgery)
-- [ ] Coagulation panel (PT/INR, PTT) — reverse anticoagulation before surgery
+- CBC (Hgb baseline, Plt > 100K for surgery)
+- Coagulation panel (PT/INR, PTT) — reverse anticoagulation before surgery
   - INR > 1.5 on warfarin: 4-factor PCC (KCentra) + vitamin K 10 mg IV
   - On DOACs: reversal per agent (idarucizumab for dabigatran; andexanet alfa or 4F-PCC for factor Xa inhibitors)
-- [ ] Type and crossmatch (2 units pRBC — especially if fracture over a venous sinus)
-- [ ] BMP (Na, K, Cr — baseline)
-- [ ] Blood alcohol level and urine drug screen (trauma protocol)
-- [ ] Wound culture — obtain if open/contaminated fracture before antibiotic administration (guides targeted therapy)
-- [ ] Tetanus status — administer Td/Tdap if immunization not current; add TIG if immunization history unknown or incomplete
+- Type and crossmatch (2 units pRBC — especially if fracture over a venous sinus)
+- BMP (Na, K, Cr — baseline)
+- Blood alcohol level and urine drug screen (trauma protocol)
+- Wound culture — obtain if open/contaminated fracture before antibiotic administration (guides targeted therapy)
+- Tetanus status — administer Td/Tdap if immunization not current; add TIG if immunization history unknown or incomplete
 
 ---
 
@@ -195,23 +195,23 @@
 6. **Eloquent cortex** — motor strip, language areas (location-dependent)
 
 ### Equipment
-- [ ] Craniotome, high-speed drill, perforator
-- [ ] Periosteal elevators (Penfield, Freer), Kerrison rongeurs
-- [ ] Dural substitute (DuraGen, AlloDerm, pericranial graft)
-- [ ] Dural sealant (DuraSeal, Tisseel)
-- [ ] Cranial fixation (titanium microplates/screws, mesh)
-- [ ] Hemostatic agents (Surgicel, Gelfoam, Floseal, bone wax)
-- [ ] Copious irrigation (NS, bulb syringe or pulse lavage)
-- [ ] Debridement instruments (curettes, rongeurs, forceps)
-- [ ] Raney clips for scalp hemostasis
+- Craniotome, high-speed drill, perforator
+- Periosteal elevators (Penfield, Freer), Kerrison rongeurs
+- Dural substitute (DuraGen, AlloDerm, pericranial graft)
+- Dural sealant (DuraSeal, Tisseel)
+- Cranial fixation (titanium microplates/screws, mesh)
+- Hemostatic agents (Surgicel, Gelfoam, Floseal, bone wax)
+- Copious irrigation (NS, bulb syringe or pulse lavage)
+- Debridement instruments (curettes, rongeurs, forceps)
+- Raney clips for scalp hemostasis
 
 ### Anesthesia
-- [ ] Cefazolin 2g IV (broad-spectrum if open — see antibiotic protocol above)
-- [ ] Tetanus prophylaxis (Td/Tdap ± TIG for open fractures)
-- [ ] Blood available (type and crossmatch; have in room if fracture over sinus)
-- [ ] Levetiracetam 1000 mg IV (seizure prophylaxis — cortical injury)
-- [ ] Mannitol 1 g/kg available if elevated ICP or brain swelling
-- [ ] RSI if trauma / full stomach
+- Cefazolin 2g IV (broad-spectrum if open — see antibiotic protocol above)
+- Tetanus prophylaxis (Td/Tdap ± TIG for open fractures)
+- Blood available (type and crossmatch; have in room if fracture over sinus)
+- Levetiracetam 1000 mg IV (seizure prophylaxis — cortical injury)
+- Mannitol 1 g/kg available if elevated ICP or brain swelling
+- RSI if trauma / full stomach
 
 ### Potential Complications
 1. **Infection** (open injuries) — meningitis, brain abscess, osteomyelitis, wound infection; debridement, antibiotics, discard contaminated bone
@@ -263,25 +263,25 @@ The patient was awakened, extubated [/ remained intubated], and found to be [fol
 ---
 
 ## Postoperative Plan
-- [ ] ICU or floor admission per injury severity and GCS
-- [ ] Neuro checks q1h x 24h (GCS, pupils, focal deficits)
-- [ ] HOB 30 degrees
-- [ ] **CT head postop** within 6 hours (confirm fragment elevation, assess for new/expanding hematoma, pneumocephalus)
-- [ ] **Antibiotics:**
+- ICU or floor admission per injury severity and GCS
+- Neuro checks q1h x 24h (GCS, pupils, focal deficits)
+- HOB 30 degrees
+- **CT head postop** within 6 hours (confirm fragment elevation, assess for new/expanding hematoma, pneumocephalus)
+- **Antibiotics:**
   - Closed fracture: Standard perioperative prophylaxis only (cefazolin x 24h)
   - Open fracture (clean): IV antibiotics x 48-72 hours (cefazolin)
   - Open fracture (contaminated): IV antibiotics x 7-14 days; tailor to wound culture results; infectious disease consultation for heavily contaminated wounds
   - Monitor for infection: fever, wound erythema, CSF leak, meningismus
-- [ ] **Tetanus prophylaxis:** Confirm Td/Tdap ± TIG administered (open fractures)
-- [ ] **Seizure prophylaxis:** Levetiracetam 500 mg BID x 7 days (Temkin criteria — cortical injury from depressed fracture; consider extending to 6 months if cortical laceration or hemorrhagic contusion; late seizures may warrant long-term AEDs)
-- [ ] **Wound care:** Keep dressing clean and dry x 48h; inspect wound daily; staple/suture removal at 10-14 days; for contaminated wounds, monitor closely for dehiscence and purulent drainage
-- [ ] DVT prophylaxis: SCDs immediately; pharmacologic (heparin SQ) starting POD1 after stable follow-up CT
-- [ ] Pain management: Acetaminophen scheduled, opioids PRN; avoid NSAIDs x 48h
-- [ ] **Follow-up imaging:** CT head before discharge; repeat CT at 4-6 weeks in clinic; MRI if concern for abscess or evolving contusion
-- [ ] **Late complications to monitor:**
+- **Tetanus prophylaxis:** Confirm Td/Tdap ± TIG administered (open fractures)
+- **Seizure prophylaxis:** Levetiracetam 500 mg BID x 7 days (Temkin criteria — cortical injury from depressed fracture; consider extending to 6 months if cortical laceration or hemorrhagic contusion; late seizures may warrant long-term AEDs)
+- **Wound care:** Keep dressing clean and dry x 48h; inspect wound daily; staple/suture removal at 10-14 days; for contaminated wounds, monitor closely for dehiscence and purulent drainage
+- DVT prophylaxis: SCDs immediately; pharmacologic (heparin SQ) starting POD1 after stable follow-up CT
+- Pain management: Acetaminophen scheduled, opioids PRN; avoid NSAIDs x 48h
+- **Follow-up imaging:** CT head before discharge; repeat CT at 4-6 weeks in clinic; MRI if concern for abscess or evolving contusion
+- **Late complications to monitor:**
   - **Growing skull fracture (pediatric < 3 years):** Dural tear → leptomeningeal cyst herniates through fracture → enlarging palpable defect over weeks-months; requires dural repair and cranioplasty
   - **Infection:** Osteomyelitis, empyema, brain abscess — may present weeks post-op; CT/MRI with contrast if fever or declining exam
   - **CSF leak:** Persistent wound drainage or rhinorrhea (frontal sinus); may require re-exploration or lumbar drain
   - **Post-traumatic epilepsy:** Risk elevated with dural penetration and cortical injury; counsel on driving restrictions
-- [ ] **Delayed cranioplasty:** If bone not replaced — reconstruct at 6-12 months (PEEK, titanium, or autologous graft); helmet precautions interim
-- [ ] **Follow-up:** Clinic 2-4 weeks with wound check + CT; 3 and 6 months for delayed complications
+- **Delayed cranioplasty:** If bone not replaced — reconstruct at 6-12 months (PEEK, titanium, or autologous graft); helmet precautions interim
+- **Follow-up:** Clinic 2-4 weeks with wound check + CT; 3 and 6 months for delayed complications

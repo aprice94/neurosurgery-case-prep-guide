@@ -35,7 +35,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **type and crossmatch**
+- CBC, BMP, Coags, **type and crossmatch**
 
 ---
 
@@ -70,14 +70,14 @@
 4. Dura, nerve roots
 
 ### Equipment
-- [ ] Microscope, **ICG / intraoperative DSA**, micro-clips, fine bipolar, micro-instruments
-- [ ] Embolization (neuro-IR, preop/staged), CUSA (selected), dural substitute
+- Microscope, **ICG / intraoperative DSA**, micro-clips, fine bipolar, micro-instruments
+- Embolization (neuro-IR, preop/staged), CUSA (selected), dural substitute
 
 ### Monitoring
-- [ ] **SSEPs, MEPs, D-wave** (cord); essential
+- **SSEPs, MEPs, D-wave** (cord); essential
 
 ### Anesthesia
-- [ ] Arterial line, **MAP support**, crossmatched blood, no paralytic (IONM), prone precautions
+- Arterial line, **MAP support**, crossmatched blood, no paralytic (IONM), prone precautions
 
 ### Potential Complications
 1. **Cord infarction** (ASA/perforator injury), hemorrhage
@@ -111,7 +111,7 @@ Closure was completed in layers. The patient was transferred to the ICU with MAP
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h (motor/sensory/sphincter), MAP support, CSF leak precautions
-- [ ] **Postop DSA** (confirm obliteration), MRI
-- [ ] DVT prophylaxis (mechanical), rehab, bowel/bladder management
-- [ ] Surveillance imaging (recurrence, esp. partial treatment)
+- ICU, neuro checks q1h (motor/sensory/sphincter), MAP support, CSF leak precautions
+- **Postop DSA** (confirm obliteration), MRI
+- DVT prophylaxis (mechanical), rehab, bowel/bladder management
+- Surveillance imaging (recurrence, esp. partial treatment)

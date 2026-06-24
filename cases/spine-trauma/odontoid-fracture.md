@@ -32,13 +32,13 @@
 ### MRI
 - Ligament integrity (transverse ligament — if disrupted, screw alone insufficient), cord signal, soft tissue
 ### CTA
-- [ ] Vertebral artery anatomy (high-riding VA, anomalies — affects C2 screw safety)
+- Vertebral artery anatomy (high-riding VA, anomalies — affects C2 screw safety)
 ### X-ray (flexion/extension if stability unclear, with caution)
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -82,15 +82,15 @@
 5. Transverse atlantal ligament (competence determines construct)
 
 ### Equipment
-- [ ] Anterior odontoid screw set (cannulated lag screws) OR C1-C2 posterior screw/rod system
-- [ ] **Biplanar fluoroscopy / navigation**, traction/reduction tools
-- [ ] Bone graft (posterior fusion), microscope/loupes
+- Anterior odontoid screw set (cannulated lag screws) OR C1-C2 posterior screw/rod system
+- **Biplanar fluoroscopy / navigation**, traction/reduction tools
+- Bone graft (posterior fusion), microscope/loupes
 
 ### Monitoring
-- [ ] SSEPs/MEPs (high cervical), especially during positioning/reduction; awake fiberoptic intubation if unstable/myelopathic
+- SSEPs/MEPs (high cervical), especially during positioning/reduction; awake fiberoptic intubation if unstable/myelopathic
 
 ### Anesthesia
-- [ ] **Awake fiberoptic intubation** (unstable C-spine, avoid hyperextension), MAP support, arterial line, in-line stabilization
+- **Awake fiberoptic intubation** (unstable C-spine, avoid hyperextension), MAP support, arterial line, in-line stabilization
 
 ### Potential Complications
 1. **Vertebral artery injury** (C2 screw), cord/cervicomedullary injury
@@ -128,7 +128,7 @@ Final fluoroscopy confirmed satisfactory reduction and hardware. Neuromonitoring
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks (high cervical — respiratory), airway monitoring (anterior — swelling)
-- [ ] CT postop (screw position, reduction), cervical collar per construct/surgeon
-- [ ] DVT prophylaxis, pain control, dysphagia/aspiration precautions (anterior)
-- [ ] Follow-up CT for union; counsel re: nonunion risk; flexion/extension films later
+- ICU/step-down, neuro checks (high cervical — respiratory), airway monitoring (anterior — swelling)
+- CT postop (screw position, reduction), cervical collar per construct/surgeon
+- DVT prophylaxis, pain control, dysphagia/aspiration precautions (anterior)
+- Follow-up CT for union; counsel re: nonunion risk; flexion/extension films later

@@ -39,7 +39,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -76,14 +76,14 @@
 5. Spinal stability (facetectomy)
 
 ### Equipment
-- [ ] Microscope, ultrasound, CUSA, microsurgical instruments, fine bipolar
-- [ ] Dural substitute, sealant, fixation set (if fusion), hemostatic agents
+- Microscope, ultrasound, CUSA, microsurgical instruments, fine bipolar
+- Dural substitute, sealant, fixation set (if fusion), hemostatic agents
 
 ### Monitoring
-- [ ] **SSEPs, MEPs, EMG** (essential — cord and roots), D-wave for intramedullary-adjacent
+- **SSEPs, MEPs, EMG** (essential — cord and roots), D-wave for intramedullary-adjacent
 
 ### Anesthesia
-- [ ] **MAP > 85** (cord perfusion), no paralytic (IONM), arterial line, prone precautions, type and screen
+- **MAP > 85** (cord perfusion), no paralytic (IONM), arterial line, prone precautions, type and screen
 
 ### Potential Complications
 1. Neurological worsening (cord/root manipulation, vascular)
@@ -118,8 +118,8 @@ Closure was completed in layers. The patient was transferred with MAP support an
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks q1-2h (motor/sensory)
-- [ ] **CSF leak precautions** (flat if durotomy concern), MAP support
-- [ ] MRI postop (resection), watch pseudomeningocele
-- [ ] DVT prophylaxis (mechanical; chemical delayed), pain control
-- [ ] Pathology (WHO grade meningioma); follow-up MRI; PT/rehab
+- ICU/step-down, neuro checks q1-2h (motor/sensory)
+- **CSF leak precautions** (flat if durotomy concern), MAP support
+- MRI postop (resection), watch pseudomeningocele
+- DVT prophylaxis (mechanical; chemical delayed), pain control
+- Pathology (WHO grade meningioma); follow-up MRI; PT/rehab

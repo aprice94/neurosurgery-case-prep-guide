@@ -24,8 +24,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Cardiac disease, pulmonary hypertension, congenital heart disease** (VA delivers CSF to circulation — relative contraindications)
-- [ ] Coagulopathy/anticoagulation, prior central line/vascular access issues, prior shunt infections
+- **Cardiac disease, pulmonary hypertension, congenital heart disease** (VA delivers CSF to circulation — relative contraindications)
+- Coagulopathy/anticoagulation, prior central line/vascular access issues, prior shunt infections
 - Standard PMH
 
 ---
@@ -41,7 +41,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, **Coags (vascular access)**, type and screen
+- CBC, BMP, **Coags (vascular access)**, type and screen
 
 ---
 
@@ -73,12 +73,12 @@
 4. Pleura (apex — pneumothorax during low neck access)
 
 ### Equipment
-- [ ] Shunt system with **atrial (vascular) distal catheter**, valve
-- [ ] **Fluoroscopy ± ECG/ultrasound guidance**, peel-away sheath / venous cutdown set
-- [ ] Antibiotic-impregnated catheter, anchors
+- Shunt system with **atrial (vascular) distal catheter**, valve
+- **Fluoroscopy ± ECG/ultrasound guidance**, peel-away sheath / venous cutdown set
+- Antibiotic-impregnated catheter, anchors
 
 ### Anesthesia
-- [ ] General; **Trendelenburg and air-embolism precautions** during venous cannulation; cefazolin; ECG monitoring (arrhythmia during catheter advancement)
+- General; **Trendelenburg and air-embolism precautions** during venous cannulation; cefazolin; ECG monitoring (arrhythmia during catheter advancement)
 
 ### Potential Complications
 1. **Air embolism**, arrhythmia (catheter in RA), vascular/cardiac injury, tamponade (perforation)
@@ -113,9 +113,9 @@ The patient was transferred with cardiac monitoring; long-term surveillance for 
 ---
 
 ## Postoperative Plan
-- [ ] Floor/step-down, neuro checks, **cardiac/ECG monitoring** initially
-- [ ] **CXR to confirm atrial tip position** (SVC-RA junction), shunt series baseline
-- [ ] CT head (catheter, ventricles)
-- [ ] Monitor for arrhythmia, document valve setting
-- [ ] **Long-term: surveillance for shunt nephritis (UA, renal function), thromboembolism/pulmonary HTN; children need tip-length revision with growth**
-- [ ] Endocarditis awareness; follow-up imaging
+- Floor/step-down, neuro checks, **cardiac/ECG monitoring** initially
+- **CXR to confirm atrial tip position** (SVC-RA junction), shunt series baseline
+- CT head (catheter, ventricles)
+- Monitor for arrhythmia, document valve setting
+- **Long-term: surveillance for shunt nephritis (UA, renal function), thromboembolism/pulmonary HTN; children need tip-length revision with growth**
+- Endocarditis awareness; follow-up imaging

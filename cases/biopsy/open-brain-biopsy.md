@@ -30,7 +30,7 @@
 ---
 
 ## Past Medical History
-- [ ] Anticoagulant/antiplatelet (stop/correct), immunocompromise, prior malignancy
+- Anticoagulant/antiplatelet (stop/correct), immunocompromise, prior malignancy
 - Standard PMH
 
 ---
@@ -43,7 +43,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, **Coags**, type and screen
+- CBC, BMP, **Coags**, type and screen
 
 ---
 
@@ -74,15 +74,15 @@
 3. Draining veins, dura/sinuses depending on location
 
 ### Equipment
-- [ ] Microscope, navigation, ultrasound, bipolar
-- [ ] Standard craniotomy/burr-hole set, biopsy/resection instruments (cup forceps, CUSA if debulking)
-- [ ] Hemostatic agents, dural substitute, **frozen-section pathology**
+- Microscope, navigation, ultrasound, bipolar
+- Standard craniotomy/burr-hole set, biopsy/resection instruments (cup forceps, CUSA if debulking)
+- Hemostatic agents, dural substitute, **frozen-section pathology**
 
 ### Monitoring
-- [ ] SSEP/MEP/mapping if near eloquent cortex
+- SSEP/MEP/mapping if near eloquent cortex
 
 ### Anesthesia
-- [ ] GA; cefazolin; mannitol/steroids per mass effect (hold steroids if lymphoma pending and feasible)
+- GA; cefazolin; mannitol/steroids per mass effect (hold steroids if lymphoma pending and feasible)
 
 ### Potential Complications
 1. **Hemorrhage** (directly controllable — advantage), edema/mass effect
@@ -114,8 +114,8 @@ A watertight dural closure was performed, the bone replaced [for craniotomy], an
 ---
 
 ## Postoperative Plan
-- [ ] Floor/ICU per extent, neuro checks
-- [ ] **Postop CT/MRI** (hemorrhage, extent)
-- [ ] Pathology (permanent/molecular; flow cytometry if lymphoma; cultures/microbiology if infection)
-- [ ] Hold steroids if lymphoma pending (per team), seizure prophylaxis per practice, DVT prophylaxis
-- [ ] Tumor board / management per diagnosis; follow-up
+- Floor/ICU per extent, neuro checks
+- **Postop CT/MRI** (hemorrhage, extent)
+- Pathology (permanent/molecular; flow cytometry if lymphoma; cultures/microbiology if infection)
+- Hold steroids if lymphoma pending (per team), seizure prophylaxis per practice, DVT prophylaxis
+- Tumor board / management per diagnosis; follow-up

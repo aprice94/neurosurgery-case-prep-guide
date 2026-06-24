@@ -24,7 +24,7 @@
 ---
 
 ## Past Medical History
-- [ ] Original etiology of hydrocephalus, **number/dates of prior revisions**, prior infections, peritoneal/distal site history, allergies
+- Original etiology of hydrocephalus, **number/dates of prior revisions**, prior infections, peritoneal/distal site history, allergies
 - Standard PMH; **obtain prior operative notes and shunt cards**
 
 ---
@@ -42,9 +42,9 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
-- [ ] **Shunt tap** (reservoir, sterile): opening pressure, function (proximal/distal patency), **CSF cell count, glucose, protein, Gram stain, culture** (infection)
-- [ ] Inflammatory markers (CRP), blood cultures (if febrile)
+- CBC, BMP, Coags, type and screen
+- **Shunt tap** (reservoir, sterile): opening pressure, function (proximal/distal patency), **CSF cell count, glucose, protein, Gram stain, culture** (infection)
+- Inflammatory markers (CRP), blood cultures (if febrile)
 
 ---
 
@@ -83,13 +83,13 @@
 3. Retained/avulsed catheter fragments
 
 ### Equipment
-- [ ] Replacement shunt components (catheters, valve — **match or upgrade system**), connectors
-- [ ] Endoscope/navigation (proximal revision), manometer
-- [ ] EVD kit (if infection → externalize), laparoscopy (pseudocyst/distal), antibiotic-impregnated catheters
-- [ ] **Prior op notes / shunt card** for component compatibility
+- Replacement shunt components (catheters, valve — **match or upgrade system**), connectors
+- Endoscope/navigation (proximal revision), manometer
+- EVD kit (if infection → externalize), laparoscopy (pseudocyst/distal), antibiotic-impregnated catheters
+- **Prior op notes / shunt card** for component compatibility
 
 ### Anesthesia
-- [ ] General; cefazolin (± vancomycin if infection); per shunt type
+- General; cefazolin (± vancomycin if infection); per shunt type
 
 ### Potential Complications
 1. Hemorrhage (removing adherent proximal catheter), recurrent obstruction
@@ -124,8 +124,8 @@ The patient was transferred [to the floor / ICU if EVD]; the shunt card/records 
 ---
 
 ## Postoperative Plan
-- [ ] Floor/step-down (ICU if infected/EVD), neuro checks, compare to baseline
-- [ ] CT head (ventricles), **shunt series baseline (new configuration)**, document new valve/setting
-- [ ] If infection: EVD management, IV antibiotics per culture, re-shunt when CSF sterile
-- [ ] Monitor for recurrent malfunction; update shunt card/records
-- [ ] Follow-up imaging; educate family on malfunction signs
+- Floor/step-down (ICU if infected/EVD), neuro checks, compare to baseline
+- CT head (ventricles), **shunt series baseline (new configuration)**, document new valve/setting
+- If infection: EVD management, IV antibiotics per culture, re-shunt when CSF sterile
+- Monitor for recurrent malfunction; update shunt card/records
+- Follow-up imaging; educate family on malfunction signs

@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Pulmonary disease, limited respiratory reserve** (relative contraindication — effusion), pleural pathology, prior thoracic surgery
-- [ ] Age (avoid in small children)
+- **Pulmonary disease, limited respiratory reserve** (relative contraindication — effusion), pleural pathology, prior thoracic surgery
+- Age (avoid in small children)
 - Standard PMH
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
+- CBC, BMP, Coags, type and screen
 
 ---
 
@@ -73,12 +73,12 @@
 4. Overdrainage (negative intrapleural pressure siphons CSF)
 
 ### Equipment
-- [ ] Shunt system with valve (anti-siphon/gravitational recommended), distal catheter
-- [ ] Chest entry/thoracic instruments, antibiotic-impregnated catheter
-- [ ] CXR capability
+- Shunt system with valve (anti-siphon/gravitational recommended), distal catheter
+- Chest entry/thoracic instruments, antibiotic-impregnated catheter
+- CXR capability
 
 ### Anesthesia
-- [ ] General; **brief ventilation hold during pleural entry**; cefazolin; monitor for pneumothorax
+- General; **brief ventilation hold during pleural entry**; cefazolin; monitor for pneumothorax
 
 ### Potential Complications
 1. **Pneumothorax** (entry), **symptomatic pleural effusion / hydrothorax** (CSF — may need higher-pressure/anti-siphon valve, or conversion), **empyema**
@@ -113,8 +113,8 @@ The patient was transferred with respiratory monitoring and serial CXR surveilla
 ---
 
 ## Postoperative Plan
-- [ ] Floor/step-down, neuro and **respiratory checks**
-- [ ] **CXR** (pneumothorax, catheter position; recheck for effusion)
-- [ ] CT head (ventricles), shunt series baseline, document valve setting
-- [ ] **Monitor for pleural effusion** (dyspnea, decreased breath sounds — serial CXR; large effusion may need valve adjustment or conversion)
-- [ ] Follow-up imaging; counsel re: effusion risk
+- Floor/step-down, neuro and **respiratory checks**
+- **CXR** (pneumothorax, catheter position; recheck for effusion)
+- CT head (ventricles), shunt series baseline, document valve setting
+- **Monitor for pleural effusion** (dyspnea, decreased breath sounds — serial CXR; large effusion may need valve adjustment or conversion)
+- Follow-up imaging; counsel re: effusion risk

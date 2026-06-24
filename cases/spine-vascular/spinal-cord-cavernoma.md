@@ -33,7 +33,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen
+- CBC, BMP, Coags, type and screen
 
 ---
 
@@ -69,14 +69,14 @@
 4. Dura (CSF leak)
 
 ### Equipment
-- [ ] Microscope, ultrasound, micro-instruments, fine bipolar, pial sutures
-- [ ] Navigation/fluoroscopy, dural substitute, sealant
+- Microscope, ultrasound, micro-instruments, fine bipolar, pial sutures
+- Navigation/fluoroscopy, dural substitute, sealant
 
 ### Monitoring
-- [ ] **SSEPs, MEPs, D-wave, EMG**
+- **SSEPs, MEPs, D-wave, EMG**
 
 ### Anesthesia
-- [ ] **MAP > 85**, arterial line, no paralytic (IONM), prone precautions
+- **MAP > 85**, arterial line, no paralytic (IONM), prone precautions
 
 ### Potential Complications
 1. **Neurological worsening** — dorsal column (proprioception/sensory, often transient), motor
@@ -110,7 +110,7 @@ Closure was completed in layers. The patient was transferred with MAP support an
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h (sensory/motor/proprioception), MAP support, CSF leak precautions
-- [ ] MRI postop (complete resection), expect possible transient dorsal column dysfunction
-- [ ] Rehab/PT-OT, DVT prophylaxis (mechanical)
-- [ ] Familial: genetics, screen neuraxis/brain for other cavernomas; follow-up MRI
+- ICU, neuro checks q1h (sensory/motor/proprioception), MAP support, CSF leak precautions
+- MRI postop (complete resection), expect possible transient dorsal column dysfunction
+- Rehab/PT-OT, DVT prophylaxis (mechanical)
+- Familial: genetics, screen neuraxis/brain for other cavernomas; follow-up MRI

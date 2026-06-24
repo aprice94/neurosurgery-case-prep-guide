@@ -35,8 +35,8 @@
 ---
 
 ## Past Medical History
-- [ ] Spondylolisthesis (if present with instability → add fusion), prior lumbar surgery
-- [ ] Vascular claudication (differentiate — pulses, ABI), diabetes, cardiac (pre-op clearance for elderly)
+- Spondylolisthesis (if present with instability → add fusion), prior lumbar surgery
+- Vascular claudication (differentiate — pulses, ABI), diabetes, cardiac (pre-op clearance for elderly)
 - Standard PMH
 
 ---
@@ -53,7 +53,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -90,15 +90,15 @@
 4. Epidural venous plexus
 
 ### Equipment
-- [ ] High-speed drill, Kerrison rongeurs, curettes, rongeurs
-- [ ] Fluoroscopy, microscope/loupes, bipolar, hemostatic agents
-- [ ] Tubular retractors (if MIS), drain
+- High-speed drill, Kerrison rongeurs, curettes, rongeurs
+- Fluoroscopy, microscope/loupes, bipolar, hemostatic agents
+- Tubular retractors (if MIS), drain
 
 ### Monitoring
-- [ ] Optional EMG/SSEP (typically not required for routine laminectomy)
+- Optional EMG/SSEP (typically not required for routine laminectomy)
 
 ### Anesthesia
-- [ ] General, prone precautions, SBP control (bleeding), TXA optional
+- General, prone precautions, SBP control (bleeding), TXA optional
 
 ### Potential Complications
 1. **Dural tear/CSF leak** (common in stenosis — repair, flat bed rest)
@@ -135,8 +135,8 @@ Meticulous epidural hemostasis was obtained, [a subfascial drain placed,] and th
 ---
 
 ## Postoperative Plan
-- [ ] Floor, neuro checks, mobilize POD0/1
-- [ ] If durotomy: flat bed rest 24-48h
-- [ ] Pain control, DVT prophylaxis (SCDs, early ambulation)
-- [ ] Activity progression, PT
-- [ ] Follow-up 2-4 weeks; counsel re: claudication relief, possible need for future fusion if instability develops
+- Floor, neuro checks, mobilize POD0/1
+- If durotomy: flat bed rest 24-48h
+- Pain control, DVT prophylaxis (SCDs, early ambulation)
+- Activity progression, PT
+- Follow-up 2-4 weeks; counsel re: claudication relief, possible need for future fusion if instability develops

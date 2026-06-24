@@ -18,26 +18,26 @@
 ---
 
 ## Past Medical History
-- [ ] Hypertension
-- [ ] Diabetes mellitus
-- [ ] Coronary artery disease / prior MI
-- [ ] Atrial fibrillation
-- [ ] Prior stroke/TIA
-- [ ] Seizure history
-- [ ] DVT/PE history
-- [ ] Bleeding disorder / coagulopathy
-- [ ] Prior cranial/spine surgery
-- [ ] Allergies (especially latex, antibiotics, contrast):
-- [ ] Medications (anticoagulants, antiplatelets, steroids):
+- Hypertension
+- Diabetes mellitus
+- Coronary artery disease / prior MI
+- Atrial fibrillation
+- Prior stroke/TIA
+- Seizure history
+- DVT/PE history
+- Bleeding disorder / coagulopathy
+- Prior cranial/spine surgery
+- Allergies (especially latex, antibiotics, contrast):
+- Medications (anticoagulants, antiplatelets, steroids):
 - Other:
 
 ---
 
 ## Imaging Review
 ### CT/CTA
-- [ ] Bone anatomy / craniotomy planning
-- [ ] Vascular anatomy
-- [ ] Calcification / hyperostosis
+- Bone anatomy / craniotomy planning
+- Vascular anatomy
+- Calcification / hyperostosis
 
 ### MRI (T1, T1+Gad, T2, FLAIR, DWI, MRA/MRV)
 - Lesion location:
@@ -56,21 +56,21 @@
 - Relationship to parent vessels:
 
 ### Navigation
-- [ ] Thin-cut MRI/CT loaded to navigation
-- [ ] Fiducials planned / surface registration
-- [ ] DTI tractography (if near white matter tracts)
-- [ ] fMRI (if near eloquent cortex)
+- Thin-cut MRI/CT loaded to navigation
+- Fiducials planned / surface registration
+- DTI tractography (if near white matter tracts)
+- fMRI (if near eloquent cortex)
 
 ---
 
 ## Labs
-- [ ] CBC (Hgb, Plt)
-- [ ] BMP (Na, K, Cr, Glucose)
-- [ ] Coagulation (PT/INR, PTT)
-- [ ] Type and screen / crossmatch
-- [ ] TSH, cortisol, prolactin, GH, IGF-1 (if pituitary)
-- [ ] Pregnancy test (if applicable)
-- [ ] Other:
+- CBC (Hgb, Plt)
+- BMP (Na, K, Cr, Glucose)
+- Coagulation (PT/INR, PTT)
+- Type and screen / crossmatch
+- TSH, cortisol, prolactin, GH, IGF-1 (if pituitary)
+- Pregnancy test (if applicable)
+- Other:
 
 ---
 
@@ -81,14 +81,14 @@
 - Memory:
 
 ### Cranial Nerves
-- [ ] II: Visual acuity, visual fields, fundoscopy
-- [ ] III, IV, VI: EOM, pupils
-- [ ] V: Facial sensation, masseter
-- [ ] VII: Facial symmetry/strength
-- [ ] VIII: Hearing (Weber, Rinne)
-- [ ] IX, X: Palate, gag, voice
-- [ ] XI: SCM, trapezius
-- [ ] XII: Tongue
+- II: Visual acuity, visual fields, fundoscopy
+- III, IV, VI: EOM, pupils
+- V: Facial sensation, masseter
+- VII: Facial symmetry/strength
+- VIII: Hearing (Weber, Rinne)
+- IX, X: Palate, gag, voice
+- XI: SCM, trapezius
+- XII: Tongue
 
 ### Motor
 - Upper extremity (deltoid, biceps, triceps, wrist ext/flex, grip, interossei):
@@ -164,42 +164,42 @@
 10.
 
 ### Equipment & Instrumentation
-- [ ] Microscope
-- [ ] Endoscope
-- [ ] Navigation (loaded and registered)
-- [ ] Ultrasound
-- [ ] High-speed drill
-- [ ] Ultrasonic aspirator (CUSA)
-- [ ] Bipolar forceps
-- [ ] Microsurgical instruments
-- [ ] Clips / clip appliers
-- [ ] Hemostatic agents
-- [ ] Dural substitute
-- [ ] Bone fixation (plates/screws)
-- [ ] Implants (shunt, stimulator, cage, screws):
-- [ ] Special:
+- Microscope
+- Endoscope
+- Navigation (loaded and registered)
+- Ultrasound
+- High-speed drill
+- Ultrasonic aspirator (CUSA)
+- Bipolar forceps
+- Microsurgical instruments
+- Clips / clip appliers
+- Hemostatic agents
+- Dural substitute
+- Bone fixation (plates/screws)
+- Implants (shunt, stimulator, cage, screws):
+- Special:
 
 ### Monitoring
-- [ ] SSEPs
-- [ ] MEPs (transcranial)
-- [ ] EMG (cranial nerves: ___)
-- [ ] BAER
-- [ ] Direct cortical/subcortical stimulation
-- [ ] EEG / ECoG
-- [ ] Doppler (for VAE)
+- SSEPs
+- MEPs (transcranial)
+- EMG (cranial nerves: ___)
+- BAER
+- Direct cortical/subcortical stimulation
+- EEG / ECoG
+- Doppler (for VAE)
 
 ### Anesthesia Considerations
-- [ ] Arterial line
-- [ ] Central line
-- [ ] Foley catheter
-- [ ] Lumbar drain
-- [ ] Mannitol / hypertonic saline
-- [ ] Dexamethasone
-- [ ] Anticonvulsant prophylaxis
-- [ ] Antibiotics (cefazolin ___ g)
-- [ ] Paralytic considerations (monitoring)
-- [ ] Blood products available
-- [ ] Special (awake, sitting position, etc.):
+- Arterial line
+- Central line
+- Foley catheter
+- Lumbar drain
+- Mannitol / hypertonic saline
+- Dexamethasone
+- Anticonvulsant prophylaxis
+- Antibiotics (cefazolin ___ g)
+- Paralytic considerations (monitoring)
+- Blood products available
+- Special (awake, sitting position, etc.):
 
 ### Potential Complications & Contingencies
 1.
@@ -254,15 +254,15 @@ The [area] was prepped and draped in the standard sterile fashion. [Preoperative
 ---
 
 ## Postoperative Plan
-- [ ] ICU admission / step-down / floor
-- [ ] Neuro checks q1h x 24h, then q2h
-- [ ] Head of bed elevation (30 degrees)
-- [ ] Postoperative imaging (CT head ___ hours)
-- [ ] DVT prophylaxis (SCDs immediately, chemical in ___ hours)
-- [ ] Pain management
-- [ ] Dexamethasone taper
-- [ ] Seizure prophylaxis (duration: ___)
-- [ ] Activity restrictions
-- [ ] Diet
-- [ ] Drain management (EVD/JP/subgaleal):
-- [ ] Follow-up (clinic ___ weeks, imaging ___ months)
+- ICU admission / step-down / floor
+- Neuro checks q1h x 24h, then q2h
+- Head of bed elevation (30 degrees)
+- Postoperative imaging (CT head ___ hours)
+- DVT prophylaxis (SCDs immediately, chemical in ___ hours)
+- Pain management
+- Dexamethasone taper
+- Seizure prophylaxis (duration: ___)
+- Activity restrictions
+- Diet
+- Drain management (EVD/JP/subgaleal):
+- Follow-up (clinic ___ weeks, imaging ___ months)

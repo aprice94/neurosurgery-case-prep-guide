@@ -29,10 +29,10 @@
 ---
 
 ## Past Medical History
-- [ ] **Anticoagulation / antiplatelet** (REVERSE IMMEDIATELY)
-- [ ] Other trauma (polytrauma assessment, C-spine)
-- [ ] Baseline neurological status / premorbid function
-- [ ] DNR/DNI status / goals of care (if elderly with poor premorbid status)
+- **Anticoagulation / antiplatelet** (REVERSE IMMEDIATELY)
+- Other trauma (polytrauma assessment, C-spine)
+- Baseline neurological status / premorbid function
+- DNR/DNI status / goals of care (if elderly with poor premorbid status)
 - Allergies:
 - Medications:
 
@@ -64,13 +64,13 @@
 ---
 
 ## Labs — STAT
-- [ ] CBC (Hgb, Plt — transfuse Plt if < 100K)
-- [ ] **Coags STAT (INR, PTT)** — reverse immediately
-- [ ] BMP
-- [ ] Type and crossmatch (2-4 units pRBC)
-- [ ] ABG / lactate
-- [ ] **Reversal agents** (same as cSDH protocol)
-- [ ] TEG/ROTEM if available (guides resuscitation)
+- CBC (Hgb, Plt — transfuse Plt if < 100K)
+- **Coags STAT (INR, PTT)** — reverse immediately
+- BMP
+- Type and crossmatch (2-4 units pRBC)
+- ABG / lactate
+- **Reversal agents** (same as cSDH protocol)
+- TEG/ROTEM if available (guides resuscitation)
 
 ---
 
@@ -155,35 +155,35 @@
 6. **Temporal base / middle fossa floor** — must decompress to this level
 
 ### Equipment
-- [ ] Craniotome
-- [ ] High-speed drill
-- [ ] Suction (multiple large tips)
-- [ ] Bipolar cautery
-- [ ] Hemostatic agents
-- [ ] Dural substitute (for duraplasty if craniectomy)
-- [ ] Bone fixation (if craniotomy) or bone storage bag
-- [ ] ICP monitor / EVD kit
-- [ ] Cell saver
+- Craniotome
+- High-speed drill
+- Suction (multiple large tips)
+- Bipolar cautery
+- Hemostatic agents
+- Dural substitute (for duraplasty if craniectomy)
+- Bone fixation (if craniotomy) or bone storage bag
+- ICP monitor / EVD kit
+- Cell saver
 
 ### Monitoring
-- [ ] Standard ASA monitors
-- [ ] Arterial line (if not already placed)
-- [ ] ICP monitor (post-op or intraoperative EVD)
-- [ ] No formal IONM (emergent)
+- Standard ASA monitors
+- Arterial line (if not already placed)
+- ICP monitor (post-op or intraoperative EVD)
+- No formal IONM (emergent)
 
 ### Anesthesia Considerations
-- [ ] **Rapid sequence intubation** (if not already intubated)
-- [ ] Arterial line
-- [ ] Central line
-- [ ] Two large-bore IVs
-- [ ] Foley catheter
-- [ ] **Correct coagulopathy** — reversal agents, FFP, platelets, cryoprecipitate
-- [ ] Mannitol 1 g/kg or 23.4% saline 30 mL (for herniation)
-- [ ] Tranexamic acid 1g IV (if within 3 hours of trauma — CRASH-2)
-- [ ] Blood products available — massive transfusion protocol if needed
-- [ ] Cefazolin 2g IV
-- [ ] Target: SBP > 100, CPP > 60
-- [ ] Avoid hyperthermia, hyperglycemia, hypotension
+- **Rapid sequence intubation** (if not already intubated)
+- Arterial line
+- Central line
+- Two large-bore IVs
+- Foley catheter
+- **Correct coagulopathy** — reversal agents, FFP, platelets, cryoprecipitate
+- Mannitol 1 g/kg or 23.4% saline 30 mL (for herniation)
+- Tranexamic acid 1g IV (if within 3 hours of trauma — CRASH-2)
+- Blood products available — massive transfusion protocol if needed
+- Cefazolin 2g IV
+- Target: SBP > 100, CPP > 60
+- Avoid hyperthermia, hyperglycemia, hypotension
 
 ### Potential Complications
 1. **Massive brain swelling** — decompress widely, ensure adequate bone removal, duraplasty
@@ -224,21 +224,21 @@ The patient is a [age]yo [M/F] who presented after [mechanism] with GCS [___] an
 ---
 
 ## Postoperative Plan
-- [ ] **Neurosurgical ICU**
-- [ ] Neuro checks q1h
-- [ ] **ICP monitoring:** Target ICP < 22, CPP > 60
-- [ ] HOB 30 degrees (unless C-spine concerns)
-- [ ] CT head immediately post-op, repeat at 6 hours and for any clinical change
-- [ ] **ICP management protocol:**
+- **Neurosurgical ICU**
+- Neuro checks q1h
+- **ICP monitoring:** Target ICP < 22, CPP > 60
+- HOB 30 degrees (unless C-spine concerns)
+- CT head immediately post-op, repeat at 6 hours and for any clinical change
+- **ICP management protocol:**
   - Tier 1: Sedation, HOB elevation, CSF drainage (if EVD)
   - Tier 2: Mannitol/hypertonic saline, brief hyperventilation
   - Tier 3: Barbiturate coma, decompressive craniectomy if not already done
-- [ ] Seizure prophylaxis: Levetiracetam x 7 days (TBI guidelines)
-- [ ] DVT prophylaxis: SCDs; chemical prophylaxis once hemostasis confirmed (typically 24-48h)
-- [ ] Na management: Target 135-145 (may use hypertonic saline for ICP)
-- [ ] Temperature management: Normothermia (fever is detrimental in TBI)
-- [ ] Glucose control: Target 140-180
-- [ ] Nutrition: Early enteral nutrition
-- [ ] **If craniectomy: Cranioplasty in 6-12 weeks** (once swelling resolved)
-- [ ] Goals of care discussion with family
-- [ ] If polytrauma: Coordinate with trauma surgery, orthopedics, etc.
+- Seizure prophylaxis: Levetiracetam x 7 days (TBI guidelines)
+- DVT prophylaxis: SCDs; chemical prophylaxis once hemostasis confirmed (typically 24-48h)
+- Na management: Target 135-145 (may use hypertonic saline for ICP)
+- Temperature management: Normothermia (fever is detrimental in TBI)
+- Glucose control: Target 140-180
+- Nutrition: Early enteral nutrition
+- **If craniectomy: Cranioplasty in 6-12 weeks** (once swelling resolved)
+- Goals of care discussion with family
+- If polytrauma: Coordinate with trauma surgery, orthopedics, etc.

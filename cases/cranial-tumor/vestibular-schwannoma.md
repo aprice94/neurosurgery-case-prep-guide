@@ -33,10 +33,10 @@
 ---
 
 ## Past Medical History
-- [ ] **NF2 (neurofibromatosis type 2)** — bilateral VS; hearing preservation paramount
-- [ ] Prior hearing loss (baseline hearing status critical for approach selection)
-- [ ] Prior radiation (gamma knife, proton beam)
-- [ ] Prior surgery
+- **NF2 (neurofibromatosis type 2)** — bilateral VS; hearing preservation paramount
+- Prior hearing loss (baseline hearing status critical for approach selection)
+- Prior radiation (gamma knife, proton beam)
+- Prior surgery
 - Allergies:
 - Medications:
 
@@ -77,9 +77,9 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags
-- [ ] Type and crossmatch
-- [ ] Genetic testing for NF2 if bilateral or young
+- CBC, BMP, Coags
+- Type and crossmatch
+- Genetic testing for NF2 if bilateral or young
 
 ---
 
@@ -163,33 +163,33 @@
 9. **Cerebellum** — avoid retraction injury
 
 ### Equipment
-- [ ] Operating microscope
-- [ ] Facial nerve stimulator (monopolar and bipolar probes) — ESSENTIAL
-- [ ] CUSA for tumor debulking
-- [ ] High-speed drill (diamond burr for IAC drilling)
-- [ ] Microsurgical instruments (micro scissors, dissectors, hooks)
-- [ ] Bipolar (fine tip, low setting near facial nerve)
-- [ ] Hemostatic agents
-- [ ] Abdominal fat graft (for IAC packing and dead space)
-- [ ] Bone wax
-- [ ] Dural substitute
+- Operating microscope
+- Facial nerve stimulator (monopolar and bipolar probes) — ESSENTIAL
+- CUSA for tumor debulking
+- High-speed drill (diamond burr for IAC drilling)
+- Microsurgical instruments (micro scissors, dissectors, hooks)
+- Bipolar (fine tip, low setting near facial nerve)
+- Hemostatic agents
+- Abdominal fat graft (for IAC packing and dead space)
+- Bone wax
+- Dural substitute
 
 ### Monitoring
-- [ ] **Continuous facial EMG (CN VII)** — CRITICAL; detects mechanical irritation
-- [ ] **Facial nerve stimulator** — direct stimulation to locate nerve on tumor
-- [ ] **BAER** — hearing preservation monitoring
-- [ ] SSEPs
-- [ ] Optional: CN V, CN IX/X/XI EMG (large tumors)
+- **Continuous facial EMG (CN VII)** — CRITICAL; detects mechanical irritation
+- **Facial nerve stimulator** — direct stimulation to locate nerve on tumor
+- **BAER** — hearing preservation monitoring
+- SSEPs
+- Optional: CN V, CN IX/X/XI EMG (large tumors)
 
 ### Anesthesia Considerations
-- [ ] Arterial line
-- [ ] Foley
-- [ ] **NO long-acting paralytic after intubation** — facial EMG monitoring requires no paralysis
-- [ ] Short-acting paralytic for intubation only, then allow to wear off
-- [ ] Cefazolin 2g IV
-- [ ] Dexamethasone 10 mg IV
-- [ ] Mannitol 0.5-1 g/kg
-- [ ] Antiemetics (ondansetron — posterior fossa high nausea risk)
+- Arterial line
+- Foley
+- **NO long-acting paralytic after intubation** — facial EMG monitoring requires no paralysis
+- Short-acting paralytic for intubation only, then allow to wear off
+- Cefazolin 2g IV
+- Dexamethasone 10 mg IV
+- Mannitol 0.5-1 g/kg
+- Antiemetics (ondansetron — posterior fossa high nausea risk)
 
 ### Potential Complications & Contingencies
 1. **Facial nerve palsy** — most feared; intraoperative stimulation guides preservation; if nerve anatomically intact, may still have temporary palsy (neuropraxia) → House-Brackmann grading post-op; eye care essential
@@ -209,21 +209,21 @@
 ---
 
 ## Postoperative Plan
-- [ ] ICU x 24-48 hours (posterior fossa)
-- [ ] Neuro checks q1h — **posterior fossa precautions**
-- [ ] **Facial nerve assessment:** House-Brackmann grade hourly initially
+- ICU x 24-48 hours (posterior fossa)
+- Neuro checks q1h — **posterior fossa precautions**
+- **Facial nerve assessment:** House-Brackmann grade hourly initially
   - If HB > III: Ophthalmology consult for eye care (corneal exposure)
   - Eye lubrication (artificial tears q1h, ointment at night)
   - Moisture chamber at night
   - Gold weight consideration if persistent palsy
-- [ ] CT head 6 hours post-op
-- [ ] Audiogram before discharge (if hearing preservation attempted)
-- [ ] HOB 30 degrees
-- [ ] Dexamethasone taper
-- [ ] Anti-emetics PRN
-- [ ] DVT prophylaxis
-- [ ] CSF leak monitoring: Watch incision and nose (rhinorrhea if via IAC/mastoid)
-- [ ] MRI with gadolinium at 3-6 months (extent of resection)
-- [ ] If subtotal resection: Plan for surveillance MRI and possible Gamma Knife for residual
-- [ ] Follow-up: 2-4 weeks clinic; serial MRI; audiometry annually
-- [ ] NF2 patients: Genetics, screening for other tumors (meningiomas, spinal tumors)
+- CT head 6 hours post-op
+- Audiogram before discharge (if hearing preservation attempted)
+- HOB 30 degrees
+- Dexamethasone taper
+- Anti-emetics PRN
+- DVT prophylaxis
+- CSF leak monitoring: Watch incision and nose (rhinorrhea if via IAC/mastoid)
+- MRI with gadolinium at 3-6 months (extent of resection)
+- If subtotal resection: Plan for surveillance MRI and possible Gamma Knife for residual
+- Follow-up: 2-4 weeks clinic; serial MRI; audiometry annually
+- NF2 patients: Genetics, screening for other tumors (meningiomas, spinal tumors)

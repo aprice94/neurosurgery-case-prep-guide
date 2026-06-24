@@ -35,11 +35,11 @@
 ---
 
 ## Past Medical History
-- [ ] Connective tissue disorders (Ehlers-Danlos — associated with Chiari, craniocervical instability)
-- [ ] Craniocervical instability (must rule out BEFORE decompression alone)
-- [ ] Scoliosis (may be syrinx-related in children)
-- [ ] Sleep apnea (central type)
-- [ ] Tethered cord (associated in some patients)
+- Connective tissue disorders (Ehlers-Danlos — associated with Chiari, craniocervical instability)
+- Craniocervical instability (must rule out BEFORE decompression alone)
+- Scoliosis (may be syrinx-related in children)
+- Sleep apnea (central type)
+- Tethered cord (associated in some patients)
 - Allergies:
 - Medications:
 
@@ -75,9 +75,9 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags
-- [ ] Type and screen
-- [ ] If EDS suspected: Genetics referral
+- CBC, BMP, Coags
+- Type and screen
+- If EDS suspected: Genetics referral
 
 ---
 
@@ -176,28 +176,28 @@
 7. **Fourth ventricle / obex** — visible after tonsillar separation; avoid manipulation
 
 ### Equipment
-- [ ] Operating microscope or loupes + headlight
-- [ ] High-speed drill (for craniectomy)
-- [ ] Kerrison rongeurs
-- [ ] Ultrasound (intraoperative — can confirm tonsillar position and CSF flow before and after decompression)
-- [ ] Dural graft material (pericranium, bovine pericardium, DuraGen)
-- [ ] Dural sealant (DuraSeal, fibrin glue)
-- [ ] Microsurgical instruments (for arachnoid dissection)
-- [ ] Bipolar (for tonsillar reduction if needed)
+- Operating microscope or loupes + headlight
+- High-speed drill (for craniectomy)
+- Kerrison rongeurs
+- Ultrasound (intraoperative — can confirm tonsillar position and CSF flow before and after decompression)
+- Dural graft material (pericranium, bovine pericardium, DuraGen)
+- Dural sealant (DuraSeal, fibrin glue)
+- Microsurgical instruments (for arachnoid dissection)
+- Bipolar (for tonsillar reduction if needed)
 
 ### Monitoring
-- [ ] SSEPs
-- [ ] MEPs
-- [ ] Standard ASA monitors
+- SSEPs
+- MEPs
+- Standard ASA monitors
 
 ### Anesthesia
-- [ ] General endotracheal anesthesia
-- [ ] Arterial line (optional for straightforward cases)
-- [ ] Foley
-- [ ] Cefazolin 2g IV
-- [ ] Dexamethasone 10 mg IV
-- [ ] No paralytic (if MEP monitoring)
-- [ ] **Caution with positioning:** Avoid excessive neck flexion — can worsen brainstem compression before decompression
+- General endotracheal anesthesia
+- Arterial line (optional for straightforward cases)
+- Foley
+- Cefazolin 2g IV
+- Dexamethasone 10 mg IV
+- No paralytic (if MEP monitoring)
+- **Caution with positioning:** Avoid excessive neck flexion — can worsen brainstem compression before decompression
 
 ### Potential Complications
 1. **CSF leak / pseudomeningocele** — most common complication; meticulous dural closure + sealant; if post-op leak → wound revision or lumbar drain
@@ -211,17 +211,17 @@
 ---
 
 ## Postoperative Plan
-- [ ] Floor or step-down (ICU if significant brainstem compression pre-op)
-- [ ] Neuro checks q2h x 24h
-- [ ] HOB 30 degrees (unless duraplasty CSF leak concern → may need flat bed rest initially)
-- [ ] CT head/neck within 24 hours (confirm adequate decompression, rule out hematoma)
-- [ ] MRI at 3-6 months: Assess tonsillar position, CSF flow restoration, syrinx resolution/improvement
-- [ ] Pain management: Posterior cervical/occipital muscle pain is significant; acetaminophen, NSAIDs, muscle relaxants, limited opioids
-- [ ] Diet: Start clear liquids, advance as tolerated (monitor swallowing if pre-op dysphagia)
-- [ ] Cervical collar: Soft collar for comfort x 2-4 weeks (optional)
-- [ ] Activity: No heavy lifting x 6 weeks
-- [ ] DVT prophylaxis: SCDs, heparin SQ POD1
-- [ ] Wound monitoring: CSF leak (clear fluid from incision, positional headache, pseudomeningocele)
-- [ ] Follow-up: 2-4 weeks clinic; MRI at 3-6 months and 1 year
-- [ ] Syrinx: Expect gradual improvement over 6-12 months; stable syrinx may not resolve but shouldn't progress
-- [ ] If symptoms recur or not improved: Reassess for instability, inadequate decompression, tethered cord
+- Floor or step-down (ICU if significant brainstem compression pre-op)
+- Neuro checks q2h x 24h
+- HOB 30 degrees (unless duraplasty CSF leak concern → may need flat bed rest initially)
+- CT head/neck within 24 hours (confirm adequate decompression, rule out hematoma)
+- MRI at 3-6 months: Assess tonsillar position, CSF flow restoration, syrinx resolution/improvement
+- Pain management: Posterior cervical/occipital muscle pain is significant; acetaminophen, NSAIDs, muscle relaxants, limited opioids
+- Diet: Start clear liquids, advance as tolerated (monitor swallowing if pre-op dysphagia)
+- Cervical collar: Soft collar for comfort x 2-4 weeks (optional)
+- Activity: No heavy lifting x 6 weeks
+- DVT prophylaxis: SCDs, heparin SQ POD1
+- Wound monitoring: CSF leak (clear fluid from incision, positional headache, pseudomeningocele)
+- Follow-up: 2-4 weeks clinic; MRI at 3-6 months and 1 year
+- Syrinx: Expect gradual improvement over 6-12 months; stable syrinx may not resolve but shouldn't progress
+- If symptoms recur or not improved: Reassess for instability, inadequate decompression, tethered cord

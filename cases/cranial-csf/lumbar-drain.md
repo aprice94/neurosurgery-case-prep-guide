@@ -36,7 +36,7 @@
 ---
 
 ## Labs
-- [ ] CBC (Plt > 50-100K), Coags (INR < 1.4) — correct before placement
+- CBC (Plt > 50-100K), Coags (INR < 1.4) — correct before placement
 
 ---
 
@@ -70,8 +70,8 @@
 3. Nerve roots (radicular pain on threading — reposition)
 
 ### Equipment
-- [ ] Lumbar drain kit (Tuohy needle, catheter, closed drainage system with graduated chamber)
-- [ ] Sterile prep, local anesthetic
+- Lumbar drain kit (Tuohy needle, catheter, closed drainage system with graduated chamber)
+- Sterile prep, local anesthetic
 
 ### Potential Complications
 1. **Over-drainage → herniation, subdural hematoma, pneumocephalus, CN VI palsy, severe positional headache**
@@ -102,10 +102,10 @@ The patient was transferred with a strict controlled-drainage nursing protocol (
 ---
 
 ## Postoperative / Management Plan
-- [ ] **Controlled drainage** — specify rate (e.g., 10-15 mL/hr) or pressure level; **never uncontrolled gravity drainage**
-- [ ] Strict nursing protocol: clamp during position changes/transport; monitor hourly output
-- [ ] Neuro checks q1-2h; watch for over-drainage (severe headache, decreased consciousness, new CN VI palsy → clamp drain, CT)
-- [ ] Flat or low HOB initially per indication
-- [ ] CSF sampling for infection surveillance per protocol; limit duration (infection risk rises after ~5 days)
-- [ ] NPH trial: assess gait/cognition before and during drainage (response predicts shunt benefit)
-- [ ] Removal: clamp trial, then remove; check site
+- **Controlled drainage** — specify rate (e.g., 10-15 mL/hr) or pressure level; **never uncontrolled gravity drainage**
+- Strict nursing protocol: clamp during position changes/transport; monitor hourly output
+- Neuro checks q1-2h; watch for over-drainage (severe headache, decreased consciousness, new CN VI palsy → clamp drain, CT)
+- Flat or low HOB initially per indication
+- CSF sampling for infection surveillance per protocol; limit duration (infection risk rises after ~5 days)
+- NPH trial: assess gait/cognition before and during drainage (response predicts shunt benefit)
+- Removal: clamp trial, then remove; check site

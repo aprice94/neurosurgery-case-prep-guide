@@ -24,8 +24,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Cardiac disease** (CAD common — perioperative MI risk; clearance), hypertension, diabetes, smoking, hyperlipidemia
-- [ ] Contralateral carotid occlusion (affects shunting/risk), prior neck surgery/radiation/CEA (re-do — relative indication for stenting), antiplatelet/anticoagulation
+- **Cardiac disease** (CAD common — perioperative MI risk; clearance), hypertension, diabetes, smoking, hyperlipidemia
+- Contralateral carotid occlusion (affects shunting/risk), prior neck surgery/radiation/CEA (re-do — relative indication for stenting), antiplatelet/anticoagulation
 - Standard PMH; **continue aspirin perioperatively**
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen; cardiac workup as indicated
+- CBC, BMP, Coags, type and screen; cardiac workup as indicated
 
 ---
 
@@ -76,14 +76,14 @@
 3. **Cerebral ischemia** during clamping (shunt decision), **reperfusion/hyperperfusion**
 
 ### Equipment
-- [ ] Vascular set, **shunt** (Javid/Pruitt), patch material, vascular sutures, heparin/protamine
-- [ ] Neuromonitoring (EEG/SSEP) or awake setup, Doppler, loupes
+- Vascular set, **shunt** (Javid/Pruitt), patch material, vascular sutures, heparin/protamine
+- Neuromonitoring (EEG/SSEP) or awake setup, Doppler, loupes
 
 ### Monitoring
-- [ ] **EEG/SSEP / stump pressure / awake neuro exam** (cerebral perfusion during clamp — guides shunting)
+- **EEG/SSEP / stump pressure / awake neuro exam** (cerebral perfusion during clamp — guides shunting)
 
 ### Anesthesia
-- [ ] Regional (awake monitoring) or general; **strict BP control** (avoid hypo-/hypertension — perfusion and hyperperfusion), continue aspirin, cardiac monitoring
+- Regional (awake monitoring) or general; **strict BP control** (avoid hypo-/hypertension — perfusion and hyperperfusion), continue aspirin, cardiac monitoring
 
 ### Potential Complications
 1. **Stroke** (embolic/thrombotic — peri-clamp, plaque manipulation), **cranial nerve injury** (XII, vagus/RLN, marginal mandibular)
@@ -117,8 +117,8 @@ Hemostasis was confirmed [± drain] and closure performed in layers. The patient
 ---
 
 ## Postoperative Plan
-- [ ] Step-down/ICU, neuro checks q1h, **strict BP control** (avoid hyper-/hypotension — stroke/hyperperfusion/hematoma)
-- [ ] **Monitor neck for expanding hematoma (airway emergency)** — bedside evacuation if airway compromised
-- [ ] Cranial nerve assessment (tongue, voice, lip), continue **aspirin/statin**
-- [ ] Watch for hyperperfusion syndrome (severe headache, seizure → BP control, imaging)
-- [ ] Carotid duplex follow-up (restenosis surveillance), risk factor modification; cardiology follow-up
+- Step-down/ICU, neuro checks q1h, **strict BP control** (avoid hyper-/hypotension — stroke/hyperperfusion/hematoma)
+- **Monitor neck for expanding hematoma (airway emergency)** — bedside evacuation if airway compromised
+- Cranial nerve assessment (tongue, voice, lip), continue **aspirin/statin**
+- Watch for hyperperfusion syndrome (severe headache, seizure → BP control, imaging)
+- Carotid duplex follow-up (restenosis surveillance), risk factor modification; cardiology follow-up

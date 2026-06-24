@@ -28,8 +28,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Catecholamine screening (glomus)** — plasma/urine metanephrines (rule out secretory tumor — anesthetic crisis risk), **SDHx genetic testing/family history** (paraganglioma syndromes, pheochromocytoma)
-- [ ] Cardiac (if secretory), prior treatment/radiation
+- **Catecholamine screening (glomus)** — plasma/urine metanephrines (rule out secretory tumor — anesthetic crisis risk), **SDHx genetic testing/family history** (paraganglioma syndromes, pheochromocytoma)
+- Cardiac (if secretory), prior treatment/radiation
 - Standard PMH
 
 ---
@@ -41,14 +41,14 @@
 ### CT temporal bone
 - **Bony erosion** (glomus — "moth-eaten" jugular foramen; vs smooth enlargement in schwannoma), jugular bulb, carotid canal, ossicles, mastoid
 ### Angiography + Embolization
-- [ ] **Preoperative embolization** (glomus — highly vascular; reduces blood loss), feeders (ascending pharyngeal, etc.), **ICA involvement, venous anatomy, balloon test occlusion** if ICA sacrifice possible
+- **Preoperative embolization** (glomus — highly vascular; reduces blood loss), feeders (ascending pharyngeal, etc.), **ICA involvement, venous anatomy, balloon test occlusion** if ICA sacrifice possible
 ### Audiology
-- [ ] Baseline audiogram
+- Baseline audiogram
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **type and crossmatch**, **metanephrines (glomus)**
+- CBC, BMP, Coags, **type and crossmatch**, **metanephrines (glomus)**
 
 ---
 
@@ -84,15 +84,15 @@
 4. Brainstem/cerebellum, dura (CSF leak)
 
 ### Equipment
-- [ ] Microscope, **drill (mastoid/skull base)**, navigation, CUSA, ICG, micro-Doppler
-- [ ] **CN monitoring (VII, VIII, IX-XII)**, fat graft/flap, dural substitute, sealant
-- [ ] Preop embolization, vascular control/repair capability; neurotology collaboration
+- Microscope, **drill (mastoid/skull base)**, navigation, CUSA, ICG, micro-Doppler
+- **CN monitoring (VII, VIII, IX-XII)**, fat graft/flap, dural substitute, sealant
+- Preop embolization, vascular control/repair capability; neurotology collaboration
 
 ### Monitoring
-- [ ] **Lower CN EMG (IX-XII), VII EMG, BAER, SSEP/MEP**
+- **Lower CN EMG (IX-XII), VII EMG, BAER, SSEP/MEP**
 
 ### Anesthesia
-- [ ] Arterial line, **crossmatched blood (vascular)**, **alpha-blockade/avoid catecholamine surge if secretory glomus** (pheo-like precautions), VAE precautions, airway/aspiration planning, long case
+- Arterial line, **crossmatched blood (vascular)**, **alpha-blockade/avoid catecholamine surge if secretory glomus** (pheo-like precautions), VAE precautions, airway/aspiration planning, long case
 
 ### Potential Complications
 1. **Lower cranial nerve palsies** (dysphagia/aspiration — may need tracheostomy/PEG/vocal cord medialization), CN VII/VIII deficits
@@ -127,8 +127,8 @@ The patient was transferred to the ICU with lower-CN precautions and swallow ass
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks, **lower CN assessment — swallow eval before PO, voice, aspiration precautions** (often need speech/swallow therapy; consider early ENT for vocal cord)
-- [ ] CT/MRI postop, audiogram, CSF leak watch
-- [ ] **Secretory glomus:** hemodynamic monitoring, continue alpha-blockade taper
-- [ ] **Genetics referral (SDHx)**, screen for multicentric paraganglioma/pheochromocytoma
-- [ ] Residual → radiosurgery/surveillance; rehab (swallow, shoulder); long-term follow-up
+- ICU, neuro checks, **lower CN assessment — swallow eval before PO, voice, aspiration precautions** (often need speech/swallow therapy; consider early ENT for vocal cord)
+- CT/MRI postop, audiogram, CSF leak watch
+- **Secretory glomus:** hemodynamic monitoring, continue alpha-blockade taper
+- **Genetics referral (SDHx)**, screen for multicentric paraganglioma/pheochromocytoma
+- Residual → radiosurgery/surveillance; rehab (swallow, shoulder); long-term follow-up

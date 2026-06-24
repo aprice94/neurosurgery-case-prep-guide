@@ -32,9 +32,9 @@
 ---
 
 ## Past Medical History
-- [ ] **Prior abdominal/retroperitoneal surgery** (adhesions — access surgeon consideration)
-- [ ] Vascular disease, prior DVT, males: **retrograde ejaculation risk** (superior hypogastric plexus — counsel)
-- [ ] Single kidney, large vessel anatomy
+- **Prior abdominal/retroperitoneal surgery** (adhesions — access surgeon consideration)
+- Vascular disease, prior DVT, males: **retrograde ejaculation risk** (superior hypogastric plexus — counsel)
+- Single kidney, large vessel anatomy
 - Standard PMH
 
 ---
@@ -49,7 +49,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **Type and crossmatch** (vascular injury risk), HbA1c
+- CBC, BMP, Coags, **Type and crossmatch** (vascular injury risk), HbA1c
 
 ---
 
@@ -84,15 +84,15 @@
 4. **L5 nerve root** (anteriorly at L5-S1), bowel/peritoneum
 
 ### Equipment
-- [ ] ALIF interbody implants + trials, anterior fixation (integrated screws/plate)
-- [ ] Vascular instruments/retractors (access), fluoroscopy
-- [ ] Bone graft/BMP, hemostatic agents, **vascular repair capability/vascular surgery available**
+- ALIF interbody implants + trials, anterior fixation (integrated screws/plate)
+- Vascular instruments/retractors (access), fluoroscopy
+- Bone graft/BMP, hemostatic agents, **vascular repair capability/vascular surgery available**
 
 ### Monitoring
-- [ ] SSEPs/EMG optional; vascular monitoring
+- SSEPs/EMG optional; vascular monitoring
 
 ### Anesthesia
-- [ ] Arterial line, large-bore IV/central access, **crossmatched blood (vessel injury)**, vascular surgery backup, Foley
+- Arterial line, large-bore IV/central access, **crossmatched blood (vessel injury)**, vascular surgery backup, Foley
 
 ### Potential Complications
 1. **Vascular injury** (iliac vein) — major hemorrhage; vascular repair
@@ -127,8 +127,8 @@ The patient was transferred with distal pulse/vascular and neuro monitoring.
 ---
 
 ## Postoperative Plan
-- [ ] Floor/step-down, neuro and **vascular checks (distal pulses, leg perfusion)**
-- [ ] Monitor for ileus (advance diet slowly), abdominal exam
-- [ ] X-rays POD1, DVT prophylaxis (higher DVT risk — vessel manipulation)
-- [ ] Activity, brace per surgeon, smoking cessation
-- [ ] Counsel males re: retrograde ejaculation; follow-up for fusion (CT 6-12 months)
+- Floor/step-down, neuro and **vascular checks (distal pulses, leg perfusion)**
+- Monitor for ileus (advance diet slowly), abdominal exam
+- X-rays POD1, DVT prophylaxis (higher DVT risk — vessel manipulation)
+- Activity, brace per surgeon, smoking cessation
+- Counsel males re: retrograde ejaculation; follow-up for fusion (CT 6-12 months)

@@ -24,7 +24,7 @@
 ---
 
 ## Past Medical History
-- [ ] Contrast allergy, renal function, bleeding/clotting, vascular access
+- Contrast allergy, renal function, bleeding/clotting, vascular access
 - Standard PMH
 
 ---
@@ -38,7 +38,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP (renal), Coags, type and screen
+- CBC, BMP (renal), Coags, type and screen
 
 ---
 
@@ -73,12 +73,12 @@
 4. Catheter retention (glued/retained microcatheter)
 
 ### Equipment / Team
-- [ ] Neuroangiography suite, guide/microcatheters (DMSO-compatible for Onyx), microwires
-- [ ] **Onyx / n-BCA glue / coils / particles**, DMSO, heparin
-- [ ] Neurointerventional team, anesthesia
+- Neuroangiography suite, guide/microcatheters (DMSO-compatible for Onyx), microwires
+- **Onyx / n-BCA glue / coils / particles**, DMSO, heparin
+- Neurointerventional team, anesthesia
 
 ### Anesthesia
-- [ ] General (or awake for provocative testing in eloquent territory), heparinization, BP control
+- General (or awake for provocative testing in eloquent territory), heparinization, BP control
 
 ### Potential Complications
 1. **Hemorrhage** (vessel/nidus perforation, premature venous occlusion, post-embolization NPPB) — BP control, reversal
@@ -112,7 +112,7 @@ The patient was transferred to the NSICU with strict BP control; [the next stage
 ---
 
 ## Post-Procedure Plan
-- [ ] NSICU, neuro checks q1h, **strict BP control** (post-embolization hemorrhage/NPPB risk), access checks
-- [ ] **Coordinate next stage of multimodal plan** (surgery — often within days; SRS; further embolization stages)
-- [ ] Hydration (contrast), CT if neuro change
-- [ ] Follow-up DSA (obliteration; for definitive embolization confirm cure), surveillance
+- NSICU, neuro checks q1h, **strict BP control** (post-embolization hemorrhage/NPPB risk), access checks
+- **Coordinate next stage of multimodal plan** (surgery — often within days; SRS; further embolization stages)
+- Hydration (contrast), CT if neuro change
+- Follow-up DSA (obliteration; for definitive embolization confirm cure), surveillance

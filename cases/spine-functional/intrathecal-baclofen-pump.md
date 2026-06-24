@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] Body habitus (pump pocket — thin/pediatric patients), prior spine surgery/fusion (catheter placement), infection risk, bleeding/anticoagulation
-- [ ] **MRI needs, future spine surgery**, baseline respiratory/bulbar status (overdose risk)
+- Body habitus (pump pocket — thin/pediatric patients), prior spine surgery/fusion (catheter placement), infection risk, bleeding/anticoagulation
+- **MRI needs, future spine surgery**, baseline respiratory/bulbar status (overdose risk)
 - Standard PMH
 
 ---
@@ -35,12 +35,12 @@
 ### Spine imaging (if prior surgery/scoliosis)
 - Catheter placement feasibility, level, fusion/hardware, scoliosis
 ### Trial documentation
-- [ ] **ITB trial response** (test dose LP — Ashworth/spasm reduction)
+- **ITB trial response** (test dose LP — Ashworth/spasm reduction)
 
 ---
 
 ## Labs
-- [ ] CBC, **Coags (intrathecal catheter)**, BMP
+- CBC, **Coags (intrathecal catheter)**, BMP
 
 ---
 
@@ -70,11 +70,11 @@
 3. Pump pocket (seroma, infection, dehiscence — esp. thin patients)
 
 ### Equipment
-- [ ] ITB pump (programmable) + intrathecal catheter + anchor/connectors, Tuohy needle, tunneler
-- [ ] Fluoroscopy, **baclofen (pump fill)**, programmer
+- ITB pump (programmable) + intrathecal catheter + anchor/connectors, Tuohy needle, tunneler
+- Fluoroscopy, **baclofen (pump fill)**, programmer
 
 ### Anesthesia
-- [ ] General (or spinal/local per patient); antibiotics (implant); positioning
+- General (or spinal/local per patient); antibiotics (implant); positioning
 
 ### Potential Complications
 1. **Baclofen overdose** (drowsiness, respiratory depression, hypotonia, coma — programming/refill errors, dosing) and **withdrawal** (life-threatening: high fever, rigidity, rhabdomyolysis, rebound spasticity — abrupt interruption from pump failure/empty/catheter problem) — **emergencies**
@@ -110,8 +110,8 @@ Closure was performed. The patient was monitored for overdose (respiratory depre
 ---
 
 ## Postoperative Plan
-- [ ] Floor/monitored (overdose risk early), neuro/**respiratory checks**
-- [ ] **Watch for overdose** (somnolence, respiratory depression — have flumazenil? no; supportive, consider CSF aspiration, physostigmine historically) **and withdrawal** (rigidity, fever)
-- [ ] CSF leak precautions (flat if PDPH/leak), wound/pocket monitoring (seroma/infection)
-- [ ] **Refill schedule established**, dose titration in clinic, caregiver education (withdrawal/overdose emergency recognition)
-- [ ] Spasticity reassessment, follow-up; document pump/MRI parameters
+- Floor/monitored (overdose risk early), neuro/**respiratory checks**
+- **Watch for overdose** (somnolence, respiratory depression — have flumazenil? no; supportive, consider CSF aspiration, physostigmine historically) **and withdrawal** (rigidity, fever)
+- CSF leak precautions (flat if PDPH/leak), wound/pocket monitoring (seroma/infection)
+- **Refill schedule established**, dose titration in clinic, caregiver education (withdrawal/overdose emergency recognition)
+- Spasticity reassessment, follow-up; document pump/MRI parameters

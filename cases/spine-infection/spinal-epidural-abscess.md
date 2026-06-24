@@ -26,8 +26,8 @@
 ---
 
 ## Past Medical History
-- [ ] **IV drug use, diabetes, immunocompromise, endocarditis, recent procedure/injection**, indwelling lines, dialysis
-- [ ] Anticoagulation
+- **IV drug use, diabetes, immunocompromise, endocarditis, recent procedure/injection**, indwelling lines, dialysis
+- Anticoagulation
 - Standard PMH
 
 ---
@@ -42,10 +42,10 @@
 ---
 
 ## Labs
-- [ ] **Blood cultures (before antibiotics if possible)**, CBC (WBC), **ESR, CRP** (trend), BMP
-- [ ] Coags, type and screen
-- [ ] HIV, glucose/HbA1c, echocardiogram (endocarditis), urinalysis
-- [ ] **Hold empiric antibiotics until cultures/biopsy if stable** — but do NOT delay if septic/deteriorating
+- **Blood cultures (before antibiotics if possible)**, CBC (WBC), **ESR, CRP** (trend), BMP
+- Coags, type and screen
+- HIV, glucose/HbA1c, echocardiogram (endocarditis), urinalysis
+- **Hold empiric antibiotics until cultures/biopsy if stable** — but do NOT delay if septic/deteriorating
 
 ---
 
@@ -80,15 +80,15 @@
 3. Spinal stability (after debridement)
 
 ### Equipment
-- [ ] Standard decompression set, **culture media (aerobic/anaerobic/fungal/AFB)**, copious irrigation
-- [ ] Instrumentation (if fusion), drain, dural repair materials
-- [ ] Microscope/loupes
+- Standard decompression set, **culture media (aerobic/anaerobic/fungal/AFB)**, copious irrigation
+- Instrumentation (if fusion), drain, dural repair materials
+- Microscope/loupes
 
 ### Monitoring
-- [ ] SSEPs/MEPs (deficit cases)
+- SSEPs/MEPs (deficit cases)
 
 ### Anesthesia
-- [ ] Sepsis management, MAP support (cord/septic), arterial line if unstable, type and screen, **coordinate antibiotic timing with cultures**
+- Sepsis management, MAP support (cord/septic), arterial line if unstable, type and screen, **coordinate antibiotic timing with cultures**
 
 ### Potential Complications
 1. **Persistent/recurrent infection**, sepsis, neurological non-recovery (deficit duration-dependent)
@@ -120,9 +120,9 @@ Closure was performed. The patient was transferred with serial neuro exams, seps
 ---
 
 ## Postoperative Plan
-- [ ] ICU/floor per status, **serial neuro checks** (recovery/deterioration), sepsis management
-- [ ] **ID consult: organism-directed IV antibiotics (typically 6+ weeks)**, trend ESR/CRP
-- [ ] Echocardiogram (endocarditis), source control, line management
-- [ ] MRI for resolution if not improving; DVT prophylaxis
-- [ ] Address risk factors (addiction medicine for IVDU, glucose control), rehab
-- [ ] Follow-up imaging/labs; monitor for recurrence and spinal stability
+- ICU/floor per status, **serial neuro checks** (recovery/deterioration), sepsis management
+- **ID consult: organism-directed IV antibiotics (typically 6+ weeks)**, trend ESR/CRP
+- Echocardiogram (endocarditis), source control, line management
+- MRI for resolution if not improving; DVT prophylaxis
+- Address risk factors (addiction medicine for IVDU, glucose control), rehab
+- Follow-up imaging/labs; monitor for recurrence and spinal stability

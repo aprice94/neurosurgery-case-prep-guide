@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Antiplatelet tolerance/response** (stent/flow diverter requires dual antiplatelet — clopidogrel responsiveness/VerifyNow), contrast allergy, renal function (contrast), bleeding/clotting disorders
-- [ ] Vascular access (femoral/radial), prior endovascular treatment
+- **Antiplatelet tolerance/response** (stent/flow diverter requires dual antiplatelet — clopidogrel responsiveness/VerifyNow), contrast allergy, renal function (contrast), bleeding/clotting disorders
+- Vascular access (femoral/radial), prior endovascular treatment
 - Standard PMH
 
 ---
@@ -41,8 +41,8 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP (renal/contrast), Coags, type and screen
-- [ ] **Platelet function testing** (if stent/flow diverter — confirm antiplatelet efficacy)
+- CBC, BMP (renal/contrast), Coags, type and screen
+- **Platelet function testing** (if stent/flow diverter — confirm antiplatelet efficacy)
 
 ---
 
@@ -78,12 +78,12 @@
 3. Access vessels (dissection, groin hematoma/pseudoaneurysm)
 
 ### Equipment / Team
-- [ ] Neuroangiography suite (biplane), guide/microcatheters, microwires, **coils, balloons, stents, flow diverters/WEB**
-- [ ] Heparin, antiplatelets, protamine (reversal), contrast
-- [ ] Neurointerventional team, anesthesia
+- Neuroangiography suite (biplane), guide/microcatheters, microwires, **coils, balloons, stents, flow diverters/WEB**
+- Heparin, antiplatelets, protamine (reversal), contrast
+- Neurointerventional team, anesthesia
 
 ### Anesthesia
-- [ ] **General anesthesia** (most; immobility), arterial line, heparinization; **dual antiplatelet pre-load** for stent/flow diverter
+- **General anesthesia** (most; immobility), arterial line, heparinization; **dual antiplatelet pre-load** for stent/flow diverter
 
 ### Potential Complications
 1. **Intraprocedural rupture/perforation** (reverse heparin with protamine, balloon occlusion, rapid coiling), **thromboembolic stroke** (antiplatelets/heparin, rescue thrombolysis/thrombectomy)
@@ -118,8 +118,8 @@ The patient was transferred to the NSICU; [dual antiplatelet continued for the s
 ---
 
 ## Post-Procedure Plan
-- [ ] NSICU/step-down, neuro checks q1h, **access site/distal pulse checks**
-- [ ] **Antiplatelet management** (continue dual antiplatelet for stent/flow diverter — do NOT interrupt), heparin per protocol
-- [ ] SAH care if ruptured (nimodipine, vasospasm TCDs, Na, EVD if hydrocephalus)
-- [ ] Hydration (contrast nephropathy), groin/access monitoring
-- [ ] **Follow-up angiography (DSA/MRA)** for occlusion durability/recanalization (e.g., 6 months, then surveillance); flow diverters image later (delayed occlusion)
+- NSICU/step-down, neuro checks q1h, **access site/distal pulse checks**
+- **Antiplatelet management** (continue dual antiplatelet for stent/flow diverter — do NOT interrupt), heparin per protocol
+- SAH care if ruptured (nimodipine, vasospasm TCDs, Na, EVD if hydrocephalus)
+- Hydration (contrast nephropathy), groin/access monitoring
+- **Follow-up angiography (DSA/MRA)** for occlusion durability/recanalization (e.g., 6 months, then surveillance); flow diverters image later (delayed occlusion)

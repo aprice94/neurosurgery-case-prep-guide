@@ -25,9 +25,9 @@
 ---
 
 ## Past Medical History / Birth
-- [ ] Prenatal course, mode of delivery (C-section to protect placode)
-- [ ] Maternal folate, gestational age, other anomalies
-- [ ] Latex precautions from birth (high latex allergy risk in spina bifida)
+- Prenatal course, mode of delivery (C-section to protect placode)
+- Maternal folate, gestational age, other anomalies
+- Latex precautions from birth (high latex allergy risk in spina bifida)
 
 ---
 
@@ -40,8 +40,8 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, type and screen (neonatal), coagulation
-- [ ] **Strict latex-free environment**
+- CBC, BMP, type and screen (neonatal), coagulation
+- **Strict latex-free environment**
 
 ---
 
@@ -76,15 +76,15 @@
 4. Avoid leaving epithelial elements (dermoid/retethering)
 
 ### Equipment
-- [ ] Microscope, microsurgical/neonatal instruments, fine bipolar
-- [ ] Nerve stimulator, dural substitute (if needed), fine suture
-- [ ] **Latex-free everything**, neonatal warming, plastics backup (large defects)
+- Microscope, microsurgical/neonatal instruments, fine bipolar
+- Nerve stimulator, dural substitute (if needed), fine suture
+- **Latex-free everything**, neonatal warming, plastics backup (large defects)
 
 ### Monitoring
-- [ ] Neonatal anesthesia monitoring; optional EMG
+- Neonatal anesthesia monitoring; optional EMG
 
 ### Anesthesia
-- [ ] Neonatal general anesthesia, thermoregulation, **latex-free**, careful fluid/glucose, prone neonatal precautions
+- Neonatal general anesthesia, thermoregulation, **latex-free**, careful fluid/glucose, prone neonatal precautions
 
 ### Potential Complications
 1. **CSF leak / wound breakdown / meningitis** (closure integrity)
@@ -120,9 +120,9 @@ The infant was transferred to the NICU prone/side-lying with serial head-circumf
 ---
 
 ## Postoperative Plan
-- [ ] NICU, **prone/side-lying positioning** (protect closure, off the back)
-- [ ] Monitor wound for CSF leak/breakdown, **serial head circumference and head US (hydrocephalus)**
-- [ ] Watch for Chiari II symptoms (stridor, apnea, feeding) — may need urgent intervention
-- [ ] Latex-free, neurogenic bladder management (urology — CIC), orthopedics (feet/hips), multidisciplinary spina bifida team
-- [ ] **Plan for CSF diversion (VP shunt/ETV) if hydrocephalus progresses** (often ~1-2 weeks)
-- [ ] Long-term: tethered cord surveillance, developmental follow-up
+- NICU, **prone/side-lying positioning** (protect closure, off the back)
+- Monitor wound for CSF leak/breakdown, **serial head circumference and head US (hydrocephalus)**
+- Watch for Chiari II symptoms (stridor, apnea, feeding) — may need urgent intervention
+- Latex-free, neurogenic bladder management (urology — CIC), orthopedics (feet/hips), multidisciplinary spina bifida team
+- **Plan for CSF diversion (VP shunt/ETV) if hydrocephalus progresses** (often ~1-2 weeks)
+- Long-term: tethered cord surveillance, developmental follow-up

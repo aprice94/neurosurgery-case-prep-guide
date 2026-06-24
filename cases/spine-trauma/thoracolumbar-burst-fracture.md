@@ -40,7 +40,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch
+- CBC, BMP, Coags, Type and crossmatch
 
 ---
 
@@ -91,15 +91,15 @@
 4. Dura (laminar/posterior element fractures — dural tears common in burst with laminar fracture)
 
 ### Equipment
-- [ ] Pedicle screw/rod system, navigation/fluoroscopy
-- [ ] Decompression tools (Kerrison, drill, tamps), bone graft
-- [ ] Anterior cage/corpectomy set (if anterior), hemostatic agents, drain
+- Pedicle screw/rod system, navigation/fluoroscopy
+- Decompression tools (Kerrison, drill, tamps), bone graft
+- Anterior cage/corpectomy set (if anterior), hemostatic agents, drain
 
 ### Monitoring
-- [ ] SSEPs, MEPs, EMG (esp. with deficit/decompression)
+- SSEPs, MEPs, EMG (esp. with deficit/decompression)
 
 ### Anesthesia
-- [ ] Arterial line, MAP support (SCI), no paralytic (IONM), crossmatched blood, prone/log-roll precautions
+- Arterial line, MAP support (SCI), no paralytic (IONM), crossmatched blood, prone/log-roll precautions
 
 ### Potential Complications
 1. Neurological worsening (reduction, retropulsion manipulation)
@@ -138,8 +138,8 @@ Hemostasis was obtained, a subfascial drain placed, and the wound closed in laye
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks (conus/cauda — bowel/bladder), MAP support if SCI
-- [ ] CT/X-ray postop (hardware, alignment, canal), TLSO brace per surgeon
-- [ ] If dural tear: flat bed rest, leak precautions
-- [ ] DVT prophylaxis, mobilize with brace, bowel/bladder management
-- [ ] Follow-up imaging for fusion/alignment; rehab
+- ICU/step-down, neuro checks (conus/cauda — bowel/bladder), MAP support if SCI
+- CT/X-ray postop (hardware, alignment, canal), TLSO brace per surgeon
+- If dural tear: flat bed rest, leak precautions
+- DVT prophylaxis, mobilize with brace, bowel/bladder management
+- Follow-up imaging for fusion/alignment; rehab

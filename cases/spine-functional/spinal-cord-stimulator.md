@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] Prior spine surgery (epidural scar — may favor paddle/laminotomy), bleeding disorder/anticoagulation, infection risk, **MRI needs in future** (device MRI-conditionality), pacemaker/ICD
-- [ ] **Psychological clearance**, opioid use
+- Prior spine surgery (epidural scar — may favor paddle/laminotomy), bleeding disorder/anticoagulation, infection risk, **MRI needs in future** (device MRI-conditionality), pacemaker/ICD
+- **Psychological clearance**, opioid use
 - Standard PMH
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ## Labs
-- [ ] CBC, **Coags (epidural — bleeding/hematoma risk)**, BMP
+- CBC, **Coags (epidural — bleeding/hematoma risk)**, BMP
 
 ---
 
@@ -72,11 +72,11 @@
 3. Nerve roots, scar tissue (paddle for scarred space)
 
 ### Equipment
-- [ ] SCS system (leads — percutaneous/paddle, IPG, anchors, tunneler), Tuohy needle, fluoroscopy
-- [ ] Programmer/testing equipment, laminotomy set (paddle)
+- SCS system (leads — percutaneous/paddle, IPG, anchors, tunneler), Tuohy needle, fluoroscopy
+- Programmer/testing equipment, laminotomy set (paddle)
 
 ### Anesthesia
-- [ ] **Local + sedation** (awake testing for percutaneous) or general (paddle); prone; antibiotics (implant — infection prevention bundle)
+- **Local + sedation** (awake testing for percutaneous) or general (paddle); prone; antibiotics (implant — infection prevention bundle)
 
 ### Potential Complications
 1. **Epidural hematoma** (cord compression — emergency), dural puncture/CSF leak/headache, cord/nerve injury
@@ -109,8 +109,8 @@ Closure was performed. The patient was monitored for epidural hematoma (new defi
 ---
 
 ## Postoperative Plan
-- [ ] Outpatient/short stay; **neuro checks (epidural hematoma — new deficit → emergent MRI/decompression)**
-- [ ] Trial: external programming, pain diary; assess ≥50% relief at end of trial → decide on permanent
-- [ ] Permanent: incision care, **activity restriction (limit bending/reaching/lifting to reduce lead migration x weeks)**, device programming (pain/rep)
-- [ ] Antibiotics per protocol, infection monitoring
-- [ ] Pain management/device clinic follow-up; document MRI-conditionality for the patient
+- Outpatient/short stay; **neuro checks (epidural hematoma — new deficit → emergent MRI/decompression)**
+- Trial: external programming, pain diary; assess ≥50% relief at end of trial → decide on permanent
+- Permanent: incision care, **activity restriction (limit bending/reaching/lifting to reduce lead migration x weeks)**, device programming (pain/rep)
+- Antibiotics per protocol, infection monitoring
+- Pain management/device clinic follow-up; document MRI-conditionality for the patient

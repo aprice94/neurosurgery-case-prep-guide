@@ -42,12 +42,12 @@
 - Hyperostosis of tuberculum/planum, optic canal anatomy, sphenoid pneumatization (for endonasal)
 
 ### Ophthalmology
-- [ ] Formal fields, acuity, OCT/RNFL
+- Formal fields, acuity, OCT/RNFL
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen; pituitary panel (baseline)
+- CBC, BMP, Coags, Type and screen; pituitary panel (baseline)
 
 ---
 
@@ -86,14 +86,14 @@
 5. Optic canal (decompress)
 
 ### Equipment
-- [ ] Microscope (± endoscope), navigation, high-speed drill (optic canal), CUSA, ICG
-- [ ] Skull base reconstruction (nasoseptal flap if endonasal; graft/sealant)
+- Microscope (± endoscope), navigation, high-speed drill (optic canal), CUSA, ICG
+- Skull base reconstruction (nasoseptal flap if endonasal; graft/sealant)
 
 ### Monitoring
-- [ ] SSEPs; VEPs (optional)
+- SSEPs; VEPs (optional)
 
 ### Anesthesia
-- [ ] Arterial line, mannitol, dexamethasone, lumbar drain (endonasal)
+- Arterial line, mannitol, dexamethasone, lumbar drain (endonasal)
 
 ### Potential Complications
 1. **Visual worsening** — devascularization of chiasm (superior hypophyseal artery injury)
@@ -127,7 +127,7 @@ Closure was completed and the patient transferred to the ICU with serial visual 
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h, **visual checks**
-- [ ] Endonasal: DI/Na monitoring, CSF leak precautions, AM cortisol
-- [ ] MRI postop, ophthalmology and endocrine follow-up
-- [ ] Steroid taper, DVT prophylaxis
+- ICU, neuro checks q1h, **visual checks**
+- Endonasal: DI/Na monitoring, CSF leak precautions, AM cortisol
+- MRI postop, ophthalmology and endocrine follow-up
+- Steroid taper, DVT prophylaxis

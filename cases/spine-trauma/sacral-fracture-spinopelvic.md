@@ -24,7 +24,7 @@
 ---
 
 ## Past Medical History
-- [ ] Associated pelvic/visceral/GU injuries, osteoporosis (insufficiency sacral fractures in elderly — different management), anticoagulation
+- Associated pelvic/visceral/GU injuries, osteoporosis (insufficiency sacral fractures in elderly — different management), anticoagulation
 - Standard PMH
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **type and crossmatch**, trauma labs
+- CBC, BMP, Coags, **type and crossmatch**, trauma labs
 
 ---
 
@@ -75,14 +75,14 @@
 3. **L5 nerve root** (anterior sacral ala), presacral vessels/structures, sacroiliac joint
 
 ### Equipment
-- [ ] Spinopelvic system (pedicle + **iliac/S2AI screws**, rods, connectors), fluoroscopy/navigation
-- [ ] Decompression instruments, bone graft, cell saver, crossmatched blood
+- Spinopelvic system (pedicle + **iliac/S2AI screws**, rods, connectors), fluoroscopy/navigation
+- Decompression instruments, bone graft, cell saver, crossmatched blood
 
 ### Monitoring
-- [ ] **EMG (sacral roots), SSEPs, MEPs**
+- **EMG (sacral roots), SSEPs, MEPs**
 
 ### Anesthesia
-- [ ] Arterial line, crossmatched blood, MAP support (if neural injury), prone precautions, coordinate trauma
+- Arterial line, crossmatched blood, MAP support (if neural injury), prone precautions, coordinate trauma
 
 ### Potential Complications
 1. **Sacral nerve injury / persistent bowel-bladder-sexual dysfunction**
@@ -117,7 +117,7 @@ Hemostasis was obtained, a drain placed, and closure performed in layers. The pa
 ---
 
 ## Postoperative Plan
-- [ ] ICU/floor per trauma, neuro checks (**sacral function**), MAP support if neural injury
-- [ ] CT postop (hardware, reduction), weight-bearing per ortho/construct
-- [ ] DVT prophylaxis (high risk — pelvic trauma), bowel/bladder management (urology), wound monitoring
-- [ ] Rehab, follow-up imaging; counsel re: recovery of sacral function (variable)
+- ICU/floor per trauma, neuro checks (**sacral function**), MAP support if neural injury
+- CT postop (hardware, reduction), weight-bearing per ortho/construct
+- DVT prophylaxis (high risk — pelvic trauma), bowel/bladder management (urology), wound monitoring
+- Rehab, follow-up imaging; counsel re: recovery of sacral function (variable)

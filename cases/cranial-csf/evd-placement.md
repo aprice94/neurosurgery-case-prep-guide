@@ -47,10 +47,10 @@
 ---
 
 ## Labs
-- [ ] CBC (Plt > 50K minimum, ideally > 100K)
-- [ ] **Coags (INR < 1.4, PTT normal)** — correct coagulopathy before procedure
-- [ ] BMP
-- [ ] Blood cultures (if infection suspected)
+- CBC (Plt > 50K minimum, ideally > 100K)
+- **Coags (INR < 1.4, PTT normal)** — correct coagulopathy before procedure
+- BMP
+- Blood cultures (if infection suspected)
 
 ---
 
@@ -127,15 +127,15 @@
 6. **Cortical vessels** — at entry site; cannot be avoided, but small caliber usually
 
 ### Equipment
-- [ ] EVD kit (catheter, stylet, drainage system, tunneling rod)
-- [ ] Twist drill or hand drill
-- [ ] Sterile drapes and prep
-- [ ] #11 blade scalpel
-- [ ] Local anesthesia (1% lidocaine with epinephrine)
-- [ ] Monopolar cautery (for dura)
-- [ ] Suture (2-0 silk or nylon)
-- [ ] Sterile dressing materials
-- [ ] Measuring tape or ruler
+- EVD kit (catheter, stylet, drainage system, tunneling rod)
+- Twist drill or hand drill
+- Sterile drapes and prep
+- #11 blade scalpel
+- Local anesthesia (1% lidocaine with epinephrine)
+- Monopolar cautery (for dura)
+- Suture (2-0 silk or nylon)
+- Sterile dressing materials
+- Measuring tape or ruler
 
 ### Potential Complications
 1. **Hemorrhage** — intracerebral or intraventricular (~5%); limit to <= 3 passes; correct coagulopathy
@@ -180,25 +180,25 @@ The catheter was tunneled subcutaneously [5 cm] from the burr hole and secured a
 ---
 
 ## Postoperative Plan / EVD Management
-- [ ] **ICU** with continuous ICP monitoring
-- [ ] Neuro checks q1h
-- [ ] **EVD drain level:** Set at ___ cm H2O above the tragus (typical: 15-20)
+- **ICU** with continuous ICP monitoring
+- Neuro checks q1h
+- **EVD drain level:** Set at ___ cm H2O above the tragus (typical: 15-20)
   - **Wean protocol:** Gradually raise drain level (e.g., increase by 5 cm H2O q12-24h)
   - **Clamp trial:** Once at 20-25 cm, clamp for 24h → if ICP stable (< 20) and clinically well → consider removal
-- [ ] **Record output:** q1h; document volume, color, and clarity
-- [ ] **ICP alarms:** Set upper limit (typically 20-22 mmHg)
-- [ ] **CSF sampling:** Send daily or per protocol (cell count, glucose, protein, culture)
+- **Record output:** q1h; document volume, color, and clarity
+- **ICP alarms:** Set upper limit (typically 20-22 mmHg)
+- **CSF sampling:** Send daily or per protocol (cell count, glucose, protein, culture)
   - Surveillance for ventriculitis: increasing WBC count, decreasing glucose, positive culture
-- [ ] **Infection prevention:**
+- **Infection prevention:**
   - Minimize catheter access/manipulation
   - Sterile technique for any sampling
   - Keep system closed
   - Daily site inspection
   - No routine catheter changes
-- [ ] **CT head:** Daily or per clinical change to monitor ventricle size
-- [ ] **Duration:** Attempt to remove as soon as possible (infection risk increases with time)
+- **CT head:** Daily or per clinical change to monitor ventricle size
+- **Duration:** Attempt to remove as soon as possible (infection risk increases with time)
   - Typical: 5-14 days depending on indication
-- [ ] **Transition to definitive CSF diversion:** VP shunt or ETV if unable to wean EVD
-- [ ] **Removal:** When clamp trial successful for 24-48h
+- **Transition to definitive CSF diversion:** VP shunt or ETV if unable to wean EVD
+- **Removal:** When clamp trial successful for 24-48h
   - Remove at bedside: Pull catheter, purse-string suture on skin, pressure dressing
   - CT head after removal

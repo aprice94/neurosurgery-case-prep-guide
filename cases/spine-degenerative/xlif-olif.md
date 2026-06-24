@@ -36,8 +36,8 @@
 ---
 
 ## Past Medical History
-- [ ] Prior retroperitoneal/abdominal surgery, vascular disease
-- [ ] **Hip/iliac crest anatomy** (limits access to L4-5), psoas anatomy
+- Prior retroperitoneal/abdominal surgery, vascular disease
+- **Hip/iliac crest anatomy** (limits access to L4-5), psoas anatomy
 - Standard PMH
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen, HbA1c
+- CBC, BMP, Coags, Type and screen, HbA1c
 
 ---
 
@@ -87,15 +87,15 @@
 5. **Subsidence** (lateral cage on apophyseal ring — good support, but osteoporosis risk)
 
 ### Equipment
-- [ ] Lateral access/retractor system with **EMG-directional dilators**, neuromonitoring
-- [ ] Lateral interbody cages + trials, graft, ± lateral plate
-- [ ] Fluoroscopy, posterior pedicle screw set (if combined)
+- Lateral access/retractor system with **EMG-directional dilators**, neuromonitoring
+- Lateral interbody cages + trials, graft, ± lateral plate
+- Fluoroscopy, posterior pedicle screw set (if combined)
 
 ### Monitoring
-- [ ] **EMG (free-run + triggered/directional — essential for psoas transit)**, MEP/SSEP for deformity
+- **EMG (free-run + triggered/directional — essential for psoas transit)**, MEP/SSEP for deformity
 
 ### Anesthesia
-- [ ] No paralytic (EMG), lateral positioning precautions, arterial line for deformity, type and screen
+- No paralytic (EMG), lateral positioning precautions, arterial line for deformity, type and screen
 
 ### Potential Complications
 1. **Lumbar plexus injury** — thigh weakness (hip flexion, quads), numbness, pain (esp. L4-5); often transient psoas-related, but femoral nerve injury can be lasting
@@ -130,8 +130,8 @@ Closure was performed. The patient was transferred with documentation of hip-fle
 ---
 
 ## Postoperative Plan
-- [ ] Floor, neuro checks — **document hip flexion strength, quad strength, thigh sensation** (plexus)
-- [ ] Counsel: transient thigh pain/numbness/hip flexor weakness common (usually resolves weeks-months)
-- [ ] Mobilize POD0/1, X-rays, DVT prophylaxis
-- [ ] Diet advance (ileus watch), activity/brace per surgeon
-- [ ] Follow-up for fusion and plexopathy resolution
+- Floor, neuro checks — **document hip flexion strength, quad strength, thigh sensation** (plexus)
+- Counsel: transient thigh pain/numbness/hip flexor weakness common (usually resolves weeks-months)
+- Mobilize POD0/1, X-rays, DVT prophylaxis
+- Diet advance (ileus watch), activity/brace per surgeon
+- Follow-up for fusion and plexopathy resolution

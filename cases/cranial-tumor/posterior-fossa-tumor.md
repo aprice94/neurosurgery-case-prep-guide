@@ -38,12 +38,12 @@
 - Hydrocephalus, calcification, acute bleed
 
 ### Workup
-- [ ] VHL evaluation (hemangioblastoma), primary search (metastasis), neuraxis MRI (embryonal/ependymal)
+- VHL evaluation (hemangioblastoma), primary search (metastasis), neuraxis MRI (embryonal/ependymal)
 
 ---
 
 ## Labs
-- [ ] CBC (polycythemia in hemangioblastoma), BMP, Coags, Type and crossmatch
+- CBC (polycythemia in hemangioblastoma), BMP, Coags, Type and crossmatch
 
 ---
 
@@ -81,15 +81,15 @@
 5. Occipital sinus, transverse/sigmoid sinuses, torcula
 
 ### Equipment
-- [ ] Microscope, navigation, CUSA, ICG (hemangioblastoma)
-- [ ] EVD kit, bipolar, hemostatic agents, dural substitute
-- [ ] Preop embolization (vascular hemangioblastoma)
+- Microscope, navigation, CUSA, ICG (hemangioblastoma)
+- EVD kit, bipolar, hemostatic agents, dural substitute
+- Preop embolization (vascular hemangioblastoma)
 
 ### Monitoring
-- [ ] SSEPs, MEPs, CN EMG (VII, IX-XII), BAER; precordial Doppler if sitting
+- SSEPs, MEPs, CN EMG (VII, IX-XII), BAER; precordial Doppler if sitting
 
 ### Anesthesia
-- [ ] Arterial line, crossmatched blood, **VAE precautions if sitting** (Doppler, central line, end-tidal CO2), antiemetics, mannitol
+- Arterial line, crossmatched blood, **VAE precautions if sitting** (Doppler, central line, end-tidal CO2), antiemetics, mannitol
 
 ### Potential Complications
 1. **Posterior fossa syndrome / cerebellar mutism** (children, vermian/dentate)
@@ -125,8 +125,8 @@ A watertight dural closure was performed (to prevent pseudomeningocele/CSF leak)
 ---
 
 ## Postoperative Plan
-- [ ] ICU, neuro checks q1h, **posterior fossa precautions** (consciousness, breathing, CN, swallowing)
-- [ ] Swallow eval before PO, eye/airway protection
-- [ ] CT 6h, MRI postop (EOR); EVD/hydrocephalus management
-- [ ] Antiemetics, steroid taper, DVT prophylaxis
-- [ ] Pathology-specific: tumor board; medulloblastoma → craniospinal RT + chemo, neuraxis staging; metastasis → SRS/WBRT; hemangioblastoma → VHL workup
+- ICU, neuro checks q1h, **posterior fossa precautions** (consciousness, breathing, CN, swallowing)
+- Swallow eval before PO, eye/airway protection
+- CT 6h, MRI postop (EOR); EVD/hydrocephalus management
+- Antiemetics, steroid taper, DVT prophylaxis
+- Pathology-specific: tumor board; medulloblastoma → craniospinal RT + chemo, neuraxis staging; metastasis → SRS/WBRT; hemangioblastoma → VHL workup

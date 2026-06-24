@@ -24,8 +24,8 @@
 ---
 
 ## Past Medical History
-- [ ] **Cardiac disease** (CAS may be favored if very high cardiac risk), **antiplatelet response** (dual antiplatelet required), contrast allergy, renal function
-- [ ] **Arch/access anatomy** (tortuous/type III arch, heavy calcification → higher CAS risk), prior CEA/radiation
+- **Cardiac disease** (CAS may be favored if very high cardiac risk), **antiplatelet response** (dual antiplatelet required), contrast allergy, renal function
+- **Arch/access anatomy** (tortuous/type III arch, heavy calcification → higher CAS risk), prior CEA/radiation
 - Standard PMH
 
 ---
@@ -38,7 +38,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP (renal), Coags, **platelet function (dual antiplatelet efficacy)**, type and screen
+- CBC, BMP (renal), Coags, **platelet function (dual antiplatelet efficacy)**, type and screen
 
 ---
 
@@ -71,12 +71,12 @@
 3. Carotid wall (dissection, perforation), access vessels, **hyperperfusion** post-revascularization
 
 ### Equipment / Team
-- [ ] Guide sheath/catheters, wires, **embolic protection device**, balloons, **self-expanding carotid stent**
-- [ ] **Atropine/glycopyrrolate, vasopressors, pacing** (bradycardia), heparin, contrast
-- [ ] Neurointervention/vascular team, anesthesia
+- Guide sheath/catheters, wires, **embolic protection device**, balloons, **self-expanding carotid stent**
+- **Atropine/glycopyrrolate, vasopressors, pacing** (bradycardia), heparin, contrast
+- Neurointervention/vascular team, anesthesia
 
 ### Anesthesia
-- [ ] Usually **conscious sedation** (awake neuro monitoring), arterial line, **manage bradycardia/hypotension** during dilation, BP control (hyperperfusion)
+- Usually **conscious sedation** (awake neuro monitoring), arterial line, **manage bradycardia/hypotension** during dilation, BP control (hyperperfusion)
 
 ### Potential Complications
 1. **Embolic stroke** (procedural — higher periprocedural stroke than CEA in some trials, esp. elderly/tortuous arch), distal embolization
@@ -110,7 +110,7 @@ The patient was transferred with strict BP control (hyperperfusion), telemetry (
 ---
 
 ## Post-Procedure Plan
-- [ ] Step-down/ICU, neuro checks q1h, NIHSS, **strict BP control** (hyperperfusion/hemorrhage; also avoid hypotension)
-- [ ] **Continue dual antiplatelet** (do not interrupt — stent thrombosis), access/pulse checks
-- [ ] Telemetry (bradycardia), hydration (contrast)
-- [ ] Watch hyperperfusion syndrome (headache/seizure/deficit), carotid duplex follow-up (restenosis), risk factor modification
+- Step-down/ICU, neuro checks q1h, NIHSS, **strict BP control** (hyperperfusion/hemorrhage; also avoid hypotension)
+- **Continue dual antiplatelet** (do not interrupt — stent thrombosis), access/pulse checks
+- Telemetry (bradycardia), hydration (contrast)
+- Watch hyperperfusion syndrome (headache/seizure/deficit), carotid duplex follow-up (restenosis), risk factor modification

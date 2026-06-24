@@ -25,8 +25,8 @@
 ---
 
 ## Past Medical History
-- [ ] Prematurity/PVL, prior orthopedic surgery, baclofen pump, dystonia component (relative contraindication), fixed contractures (ortho first), scoliosis
-- [ ] Hip status (subluxation — caution; spasticity may be "holding" hips)
+- Prematurity/PVL, prior orthopedic surgery, baclofen pump, dystonia component (relative contraindication), fixed contractures (ortho first), scoliosis
+- Hip status (subluxation — caution; spasticity may be "holding" hips)
 - Standard pediatric history
 
 ---
@@ -35,12 +35,12 @@
 ### MRI brain + spine
 - PVL (typical), exclude other cause; spinal anatomy, conus level, exclude tethered cord/syrinx
 ### Gait analysis / functional assessment
-- [ ] Formal gait lab, spasticity (Ashworth), ROM, strength, selective motor control — baseline
+- Formal gait lab, spasticity (Ashworth), ROM, strength, selective motor control — baseline
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, type and screen; pediatric pre-op
+- CBC, BMP, Coags, type and screen; pediatric pre-op
 
 ---
 
@@ -75,14 +75,14 @@
 4. Dura (CSF leak), spinal stability (laminoplasty mitigates)
 
 ### Equipment
-- [ ] Microscope, **intraoperative EMG (multichannel lower extremity + anal sphincter), nerve stimulator**
-- [ ] Micro-instruments, fine bipolar, ultrasound/fluoroscopy, dural substitute, laminoplasty fixation
+- Microscope, **intraoperative EMG (multichannel lower extremity + anal sphincter), nerve stimulator**
+- Micro-instruments, fine bipolar, ultrasound/fluoroscopy, dural substitute, laminoplasty fixation
 
 ### Monitoring
-- [ ] **EMG-guided rootlet selection (the core of the procedure), sphincter EMG, SSEP** — IONM is essential
+- **EMG-guided rootlet selection (the core of the procedure), sphincter EMG, SSEP** — IONM is essential
 
 ### Anesthesia
-- [ ] **No paralytic** (EMG-dependent), TIVA (anesthesia that preserves EMG responses), pediatric, prone precautions
+- **No paralytic** (EMG-dependent), TIVA (anesthesia that preserves EMG responses), pediatric, prone precautions
 
 ### Potential Complications
 1. **Transient sensory changes / dysesthesia** (usually resolve), **bladder dysfunction** (sacral — avoid over-cutting)
@@ -115,8 +115,8 @@ A **watertight dural closure** and laminoplasty reconstruction were performed. T
 ---
 
 ## Postoperative Plan
-- [ ] Floor/PICU, **flat bed rest** per protocol (CSF leak/dural healing), neuro checks (motor/sensory/**bladder**)
-- [ ] Pain/spasm management, bladder function monitoring, wound/CSF leak watch
-- [ ] **Intensive PT/rehab is essential** (months — strengthening, gait retraining; outcomes depend heavily on rehab)
-- [ ] MRI if concern; long-term: monitor for spinal deformity, functional gains
-- [ ] Multidisciplinary follow-up (neurosurgery, PT, physiatry, ortho); counsel re: permanent spasticity reduction and rehab commitment
+- Floor/PICU, **flat bed rest** per protocol (CSF leak/dural healing), neuro checks (motor/sensory/**bladder**)
+- Pain/spasm management, bladder function monitoring, wound/CSF leak watch
+- **Intensive PT/rehab is essential** (months — strengthening, gait retraining; outcomes depend heavily on rehab)
+- MRI if concern; long-term: monitor for spinal deformity, functional gains
+- Multidisciplinary follow-up (neurosurgery, PT, physiatry, ortho); counsel re: permanent spasticity reduction and rehab commitment

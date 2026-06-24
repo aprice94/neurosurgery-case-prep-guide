@@ -27,8 +27,8 @@
 ---
 
 ## Past Medical History
-- [ ] Cervical alignment (kyphosis is relative contraindication — cord won't drift back)
-- [ ] Prior anterior surgery, RA, osteoporosis, smoking
+- Cervical alignment (kyphosis is relative contraindication — cord won't drift back)
+- Prior anterior surgery, RA, osteoporosis, smoking
 - Standard PMH
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, **Type and crossmatch** (posterior cervical can bleed), HbA1c
+- CBC, BMP, Coags, **Type and crossmatch** (posterior cervical can bleed), HbA1c
 
 ---
 
@@ -83,15 +83,15 @@
 4. Facet joints (preserve unfused adjacent levels)
 
 ### Equipment
-- [ ] Lateral mass/pedicle screw system, rods
-- [ ] High-speed drill, Kerrison rongeurs, fluoroscopy/navigation
-- [ ] Bone graft, hemostatic agents, drain
+- Lateral mass/pedicle screw system, rods
+- High-speed drill, Kerrison rongeurs, fluoroscopy/navigation
+- Bone graft, hemostatic agents, drain
 
 ### Monitoring
-- [ ] **SSEPs, MEPs (essential for myelopathy), EMG**; check after positioning
+- **SSEPs, MEPs (essential for myelopathy), EMG**; check after positioning
 
 ### Anesthesia
-- [ ] Arterial line, **MAP > 85** (cord perfusion), no paralytic (IONM), crossmatched blood, prone precautions (eyes, face), TXA
+- Arterial line, **MAP > 85** (cord perfusion), no paralytic (IONM), crossmatched blood, prone precautions (eyes, face), TXA
 
 ### Potential Complications
 1. **C5 palsy** (delayed deltoid weakness, often recovers)
@@ -129,8 +129,8 @@ Contoured rods were placed to maintain cervical lordosis and the set screws were
 ---
 
 ## Postoperative Plan
-- [ ] ICU/step-down, neuro checks q1-2h (**watch for C5 palsy**), MAP support if cord at risk
-- [ ] X-rays POD1, CT for screw assessment
-- [ ] Cervical collar per surgeon, drain management
-- [ ] DVT prophylaxis, pain control, smoking cessation
-- [ ] Wound monitoring (infection), follow-up X-ray/CT for fusion; counsel re: C5 palsy possibility
+- ICU/step-down, neuro checks q1-2h (**watch for C5 palsy**), MAP support if cord at risk
+- X-rays POD1, CT for screw assessment
+- Cervical collar per surgeon, drain management
+- DVT prophylaxis, pain control, smoking cessation
+- Wound monitoring (infection), follow-up X-ray/CT for fusion; counsel re: C5 palsy possibility

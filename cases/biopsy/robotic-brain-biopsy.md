@@ -25,7 +25,7 @@
 ---
 
 ## Past Medical History
-- [ ] **Anticoagulant/antiplatelet (stop/correct)**, bleeding disorder, immunocompromise, prior malignancy
+- **Anticoagulant/antiplatelet (stop/correct)**, bleeding disorder, immunocompromise, prior malignancy
 - Standard PMH
 
 ---
@@ -39,7 +39,7 @@
 ---
 
 ## Labs
-- [ ] CBC (Plt), **Coags**, BMP, type and screen
+- CBC (Plt), **Coags**, BMP, type and screen
 
 ---
 
@@ -70,13 +70,13 @@
 3. Deep targets — robot rigidity is advantageous
 
 ### Equipment
-- [ ] **Robotic stereotactic platform (ROSA / Mazor / Neuromate / Cirq)** + planning software
-- [ ] Registration tools (fiducials / O-arm / surface), Mayfield/robot clamp
-- [ ] Twist drill, **biopsy needle (Sedan side-cutting)**, bipolar
-- [ ] Intraoperative/postop CT, frozen-section pathology
+- **Robotic stereotactic platform (ROSA / Mazor / Neuromate / Cirq)** + planning software
+- Registration tools (fiducials / O-arm / surface), Mayfield/robot clamp
+- Twist drill, **biopsy needle (Sedan side-cutting)**, bipolar
+- Intraoperative/postop CT, frozen-section pathology
 
 ### Anesthesia
-- [ ] GA (common); BP control; cefazolin
+- GA (common); BP control; cefazolin
 
 ### Potential Complications
 1. **Hemorrhage** (~1-3%), non-diagnostic sample
@@ -108,8 +108,8 @@ The incision(s) were closed and a **CT obtained to confirm positions and exclude
 ---
 
 ## Postoperative Plan
-- [ ] **Postop CT head (hemorrhage)**
-- [ ] Floor/observation, neuro checks
-- [ ] Pathology (permanent/molecular; flow cytometry if lymphoma; cultures if infection)
-- [ ] Hold steroids if lymphoma pending; resume meds per bleeding risk
-- [ ] Tumor board/management; follow-up
+- **Postop CT head (hemorrhage)**
+- Floor/observation, neuro checks
+- Pathology (permanent/molecular; flow cytometry if lymphoma; cultures if infection)
+- Hold steroids if lymphoma pending; resume meds per bleeding risk
+- Tumor board/management; follow-up

@@ -27,8 +27,8 @@
 ---
 
 ## Past Medical History
-- [ ] Contraindications: significant facet arthrosis, ankylosis, instability, severe osteoporosis, infection, significant kyphotic deformity, OPLL, prior fusion adjacent
-- [ ] Metal allergy (implant materials)
+- Contraindications: significant facet arthrosis, ankylosis, instability, severe osteoporosis, infection, significant kyphotic deformity, OPLL, prior fusion adjacent
+- Metal allergy (implant materials)
 - Standard PMH, smoking, etc.
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and screen
+- CBC, BMP, Coags, Type and screen
 
 ---
 
@@ -77,11 +77,11 @@
 4. Vertebral arteries (lateral limit)
 
 ### Equipment
-- [ ] Cervical arthroplasty device + trials (level-specific instrumentation)
-- [ ] Fluoroscopy, microscope/loupes, Caspar pins (careful — avoid endplate damage), Kerrison/curettes, drill
+- Cervical arthroplasty device + trials (level-specific instrumentation)
+- Fluoroscopy, microscope/loupes, Caspar pins (careful — avoid endplate damage), Kerrison/curettes, drill
 
 ### Monitoring
-- [ ] SSEPs, MEPs (myelopathy), EMG
+- SSEPs, MEPs (myelopathy), EMG
 
 ### Anesthesia
 - Same as ACDF
@@ -121,8 +121,8 @@ Hemostasis was obtained and the wound closed in layers. The patient was awakened
 ---
 
 ## Postoperative Plan
-- [ ] Floor, neuro checks, airway/neck swelling monitoring (as ACDF)
-- [ ] **NO rigid collar** (motion preservation; soft collar only briefly for comfort)
-- [ ] **NSAIDs often given** to reduce heterotopic ossification (opposite of fusion philosophy)
-- [ ] Early ROM, X-rays POD1
-- [ ] Activity, follow-up; flexion/extension films to confirm motion at follow-up
+- Floor, neuro checks, airway/neck swelling monitoring (as ACDF)
+- **NO rigid collar** (motion preservation; soft collar only briefly for comfort)
+- **NSAIDs often given** to reduce heterotopic ossification (opposite of fusion philosophy)
+- Early ROM, X-rays POD1
+- Activity, follow-up; flexion/extension films to confirm motion at follow-up

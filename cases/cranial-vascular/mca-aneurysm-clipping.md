@@ -52,13 +52,13 @@
 ---
 
 ## Past Medical History
-- [ ] Hypertension (most significant modifiable risk factor)
-- [ ] Smoking history
-- [ ] Family history of aneurysms / SAH
-- [ ] Connective tissue disorder (Ehlers-Danlos, Marfan, ADPKD)
-- [ ] Prior aneurysm treatment
-- [ ] Anticoagulant/antiplatelet use
-- [ ] Cocaine/stimulant use
+- Hypertension (most significant modifiable risk factor)
+- Smoking history
+- Family history of aneurysms / SAH
+- Connective tissue disorder (Ehlers-Danlos, Marfan, ADPKD)
+- Prior aneurysm treatment
+- Anticoagulant/antiplatelet use
+- Cocaine/stimulant use
 - Allergies:
 - Medications:
 
@@ -98,18 +98,18 @@
 - Vasospasm (if ruptured)
 
 ### Navigation
-- [ ] Thin-cut CTA loaded to navigation
-- [ ] Sylvian fissure and aneurysm localized
-- [ ] Temporal lobe thickness assessed
+- Thin-cut CTA loaded to navigation
+- Sylvian fissure and aneurysm localized
+- Temporal lobe thickness assessed
 
 ---
 
 ## Labs
-- [ ] CBC (Hgb > 8, Plt > 100K)
-- [ ] BMP (Na target 135-145, avoid hyponatremia/cerebral salt wasting)
-- [ ] Coagulation (PT/INR < 1.4, PTT normal)
-- [ ] Type and crossmatch (2 units pRBC)
-- [ ] Fibrinogen (> 200)
+- CBC (Hgb > 8, Plt > 100K)
+- BMP (Na target 135-145, avoid hyponatremia/cerebral salt wasting)
+- Coagulation (PT/INR < 1.4, PTT normal)
+- Type and crossmatch (2 units pRBC)
+- Fibrinogen (> 200)
 
 ---
 
@@ -205,43 +205,43 @@
 7. **M1 perforators to corona radiata/internal capsule**
 
 ### Equipment & Instrumentation
-- [ ] Operating microscope
-- [ ] Navigation (CTA-based)
-- [ ] Micro-Doppler
-- [ ] ICG (indocyanine green) — for videoangiography
-- [ ] High-speed drill (for sphenoid wing)
-- [ ] Microsurgical instrument set
-- [ ] Aneurysm clips — multiple types and sizes
+- Operating microscope
+- Navigation (CTA-based)
+- Micro-Doppler
+- ICG (indocyanine green) — for videoangiography
+- High-speed drill (for sphenoid wing)
+- Microsurgical instrument set
+- Aneurysm clips — multiple types and sizes
   - Straight clips (various lengths)
   - Curved clips
   - Fenestrated clips (in case M2 branch incorporated)
   - Temporary clips (multiple)
   - Clip appliers (straight and bayonet)
-- [ ] Bipolar forceps (fine tip)
-- [ ] Papaverine (topical for vasospasm)
-- [ ] Hemostatic agents (Surgicel, Gelfoam)
-- [ ] Cottonoid patties (various sizes)
+- Bipolar forceps (fine tip)
+- Papaverine (topical for vasospasm)
+- Hemostatic agents (Surgicel, Gelfoam)
+- Cottonoid patties (various sizes)
 
 ### Monitoring
-- [ ] SSEPs
-- [ ] MEPs (transcranial)
-- [ ] EEG (for burst suppression if temporary clipping prolonged)
-- [ ] Consider: direct cortical stimulation (if near eloquent cortex)
+- SSEPs
+- MEPs (transcranial)
+- EEG (for burst suppression if temporary clipping prolonged)
+- Consider: direct cortical stimulation (if near eloquent cortex)
 
 ### Anesthesia Considerations
-- [ ] Arterial line (pre-induction)
-- [ ] Two large-bore IVs
-- [ ] Foley catheter
-- [ ] Lumbar drain (consider for ruptured cases — brain relaxation)
-- [ ] Mannitol 1 g/kg available (or 23.4% saline)
-- [ ] Dexamethasone 10 mg IV
-- [ ] Anticonvulsant (levetiracetam 1000 mg IV)
-- [ ] Cefazolin 2g IV
-- [ ] Burst suppression capability (propofol/etomidate) for temporary clipping > 5 min
-- [ ] Induced mild hypertension capability
-- [ ] Blood products in room (2 units pRBC)
-- [ ] Avoid nitrous oxide (increases ICP)
-- [ ] Target: SBP 100-140 (ruptured, pre-clipping), allow permissive hypertension post-clipping if needed
+- Arterial line (pre-induction)
+- Two large-bore IVs
+- Foley catheter
+- Lumbar drain (consider for ruptured cases — brain relaxation)
+- Mannitol 1 g/kg available (or 23.4% saline)
+- Dexamethasone 10 mg IV
+- Anticonvulsant (levetiracetam 1000 mg IV)
+- Cefazolin 2g IV
+- Burst suppression capability (propofol/etomidate) for temporary clipping > 5 min
+- Induced mild hypertension capability
+- Blood products in room (2 units pRBC)
+- Avoid nitrous oxide (increases ICP)
+- Target: SBP 100-140 (ruptured, pre-clipping), allow permissive hypertension post-clipping if needed
 
 ### Potential Complications & Contingencies
 1. **Intraoperative rupture** — temporary clip on M1, suction, complete neck dissection under proximal control, definitive clipping
@@ -305,17 +305,17 @@ Proximal control was established on M1. [A temporary clip was placed on M1 for _
 ---
 
 ## Postoperative Plan
-- [ ] Neurosurgical ICU admission
-- [ ] Neuro checks q1h x 24h
-- [ ] HOB 30 degrees
-- [ ] Postop CT head within 6 hours
-- [ ] SBP goal: [< 160 if ruptured / normal if unruptured]
-- [ ] If SAH: Nimodipine 60 mg PO q4h x 21 days
-- [ ] If SAH: Daily TCDs for vasospasm monitoring (days 3-14)
-- [ ] DVT prophylaxis: SCDs immediately, heparin SQ starting POD1
-- [ ] Dexamethasone taper
-- [ ] Levetiracetam 500 mg BID x 7 days (ruptured) or per protocol
-- [ ] Pain management: acetaminophen, avoid NSAIDs (first 24h)
-- [ ] Diet: advance as tolerated
-- [ ] CTA or DSA to confirm clip position (before discharge or at follow-up)
-- [ ] Follow-up: Clinic 2-4 weeks, DSA at 6-12 months
+- Neurosurgical ICU admission
+- Neuro checks q1h x 24h
+- HOB 30 degrees
+- Postop CT head within 6 hours
+- SBP goal: [< 160 if ruptured / normal if unruptured]
+- If SAH: Nimodipine 60 mg PO q4h x 21 days
+- If SAH: Daily TCDs for vasospasm monitoring (days 3-14)
+- DVT prophylaxis: SCDs immediately, heparin SQ starting POD1
+- Dexamethasone taper
+- Levetiracetam 500 mg BID x 7 days (ruptured) or per protocol
+- Pain management: acetaminophen, avoid NSAIDs (first 24h)
+- Diet: advance as tolerated
+- CTA or DSA to confirm clip position (before discharge or at follow-up)
+- Follow-up: Clinic 2-4 weeks, DSA at 6-12 months

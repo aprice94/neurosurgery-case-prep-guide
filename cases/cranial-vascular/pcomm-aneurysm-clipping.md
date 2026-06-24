@@ -49,8 +49,8 @@
 ---
 
 ## Past Medical History
-- [ ] Hypertension, smoking, family history of aneurysm
-- [ ] Anticoagulation/antiplatelet
+- Hypertension, smoking, family history of aneurysm
+- Anticoagulation/antiplatelet
 - Allergies / Medications:
 
 ---
@@ -69,12 +69,12 @@
 - SAH pattern, temporal/basal cisterns
 
 ### Navigation
-- [ ] CTA loaded, ICA–PComA–AchA complex mapped
+- CTA loaded, ICA–PComA–AchA complex mapped
 
 ---
 
 ## Labs
-- [ ] CBC, BMP, Coags, Type and crossmatch (2 units)
+- CBC, BMP, Coags, Type and crossmatch (2 units)
 
 ---
 
@@ -121,13 +121,13 @@
 5. **ICA** — parent vessel
 
 ### Equipment
-- [ ] Microscope, navigation, micro-Doppler, ICG
-- [ ] Aneurysm clips (straight, curved, fenestrated), temporary clips
-- [ ] High-speed drill (for clinoidectomy)
-- [ ] Microsurgical instruments
+- Microscope, navigation, micro-Doppler, ICG
+- Aneurysm clips (straight, curved, fenestrated), temporary clips
+- High-speed drill (for clinoidectomy)
+- Microsurgical instruments
 
 ### Monitoring
-- [ ] SSEPs, MEPs, EEG (burst suppression for temporary clipping)
+- SSEPs, MEPs, EEG (burst suppression for temporary clipping)
 
 ### Anesthesia
 - Standard aneurysm protocol; burst suppression available; 2 units crossmatched
@@ -149,8 +149,8 @@
 ---
 
 ## Postoperative Plan
-- [ ] NSICU, neuro checks q1h, postop CT, CTA/DSA to confirm clip
-- [ ] If SAH: nimodipine, TCDs, Na monitoring
-- [ ] **CN III recovery tracking** — document pupil and EOM; recovery over weeks-months
-- [ ] Anterior choroidal syndrome screening
-- [ ] Standard aneurysm post-op care
+- NSICU, neuro checks q1h, postop CT, CTA/DSA to confirm clip
+- If SAH: nimodipine, TCDs, Na monitoring
+- **CN III recovery tracking** — document pupil and EOM; recovery over weeks-months
+- Anterior choroidal syndrome screening
+- Standard aneurysm post-op care

@@ -11,19 +11,19 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 
 ## Best general sources
 
-| Source | URL | What it has | Use |
-|--------|-----|-------------|-----|
-| **The Neurosurgical Atlas** (Cohen-Gadol) | https://www.neurosurgicalatlas.com | Operative illustrations, surgical-anatomy figures, step-by-step + HD operative videos for most cranial/spine cases | Link (free, © — best single operative resource) |
-| **Radiopaedia** | https://radiopaedia.org | Huge imaging case library + articles per pathology (CT/MR/angio) | Link / embed with attribution (CC BY-NC-SA) |
-| **AO Surgery Reference** | https://surgeryreference.aofoundation.org | Superb spine & trauma technique illustrations, step-by-step | Link (free, ©) |
-| **Wikimedia Commons** | https://commons.wikimedia.org | Anatomy diagrams, historical plates, some imaging | **Embeddable** (check each: PD / CC) |
-| **Wikipedia** | https://en.wikipedia.org | Labeled anatomy/pathology diagrams (sourced from Commons) | Link / embed (per-image license) |
-| **PubMed Central (open access)** | https://www.ncbi.nlm.nih.gov/pmc | Operative & anatomy figures in OA reviews | Link / embed CC-BY figures with attribution |
-| **StatPearls (NCBI Bookshelf)** | https://www.ncbi.nlm.nih.gov/books | OA chapters with figures per topic | Link / embed (per license) |
-| **neuroangio.org** (Gandhi) | https://neuroangio.org | Outstanding cerebral vascular & endovascular anatomy/angio | Link (free, ©) |
-| **IMAIOS e-Anatomy** | https://www.imaios.com/en/e-anatomy | Cross-sectional & 3D neuroanatomy atlas | Link (freemium) |
-| **Wheeless' Textbook of Orthopaedics** | https://www.wheelessonline.com | Spine technique/anatomy notes & figures | Link (free) |
-| **Gray's Anatomy plates (public domain)** | https://en.wikipedia.org/wiki/Gray%27s_Anatomy_plates | Classic labeled anatomy plates | **Embeddable** (public domain) |
+| Source | What it has | Use |
+|--------|-------------|-----|
+| [**The Neurosurgical Atlas** (Cohen-Gadol) ↗](https://www.neurosurgicalatlas.com) | Operative illustrations, surgical-anatomy figures, step-by-step + HD operative videos for most cranial/spine cases | Link (free, © — best single operative resource) |
+| [**Radiopaedia** ↗](https://radiopaedia.org) | Huge imaging case library + articles per pathology (CT/MR/angio) | Link / embed with attribution (CC BY-NC-SA) |
+| [**AO Surgery Reference** ↗](https://surgeryreference.aofoundation.org) | Superb spine & trauma technique illustrations, step-by-step | Link (free, ©) |
+| [**Wikimedia Commons** ↗](https://commons.wikimedia.org) | Anatomy diagrams, historical plates, some imaging | **Embeddable** (check each: PD / CC) |
+| [**Wikipedia** ↗](https://en.wikipedia.org) | Labeled anatomy/pathology diagrams (sourced from Commons) | Link / embed (per-image license) |
+| [**PubMed Central (open access)** ↗](https://www.ncbi.nlm.nih.gov/pmc) | Operative & anatomy figures in OA reviews | Link / embed CC-BY figures with attribution |
+| [**StatPearls (NCBI Bookshelf)** ↗](https://www.ncbi.nlm.nih.gov/books) | OA chapters with figures per topic | Link / embed (per license) |
+| [**neuroangio.org** (Gandhi) ↗](https://neuroangio.org) | Outstanding cerebral vascular & endovascular anatomy/angio | Link (free, ©) |
+| [**IMAIOS e-Anatomy** ↗](https://www.imaios.com/en/e-anatomy) | Cross-sectional & 3D neuroanatomy atlas | Link (freemium) |
+| [**Wheeless' Textbook of Orthopaedics** ↗](https://www.wheelessonline.com) | Spine technique/anatomy notes & figures | Link (free) |
+| [**Gray's Anatomy plates (public domain)** ↗](https://en.wikipedia.org/wiki/Gray%27s_Anatomy_plates) | Classic labeled anatomy plates | **Embeddable** (public domain) |
 
 ---
 

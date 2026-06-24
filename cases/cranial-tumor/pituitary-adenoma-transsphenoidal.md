@@ -38,16 +38,16 @@
 ---
 
 ## Past Medical History
-- [ ] Prior transsphenoidal surgery
-- [ ] Prior radiation (conventional, SRS)
-- [ ] Diabetes mellitus (acromegaly)
-- [ ] Hypertension (Cushing)
-- [ ] Osteoporosis (Cushing, hypopituitarism)
-- [ ] Adrenal insufficiency (on replacement)
-- [ ] Hypothyroidism (on replacement)
-- [ ] Obstructive sleep apnea (acromegaly)
-- [ ] Cardiac disease (acromegaly)
-- [ ] MEN1 syndrome
+- Prior transsphenoidal surgery
+- Prior radiation (conventional, SRS)
+- Diabetes mellitus (acromegaly)
+- Hypertension (Cushing)
+- Osteoporosis (Cushing, hypopituitarism)
+- Adrenal insufficiency (on replacement)
+- Hypothyroidism (on replacement)
+- Obstructive sleep apnea (acromegaly)
+- Cardiac disease (acromegaly)
+- MEN1 syndrome
 - Allergies:
 - Medications (including hormone replacements):
 
@@ -87,26 +87,26 @@
 - Cavernous ICA prominence
 
 ### Navigation
-- [ ] Thin-cut MRI sella loaded
-- [ ] Thin-cut CT sinuses fused (for bony anatomy)
-- [ ] ICA trajectories noted
-- [ ] Sphenoid sinus septation mapped
+- Thin-cut MRI sella loaded
+- Thin-cut CT sinuses fused (for bony anatomy)
+- ICA trajectories noted
+- Sphenoid sinus septation mapped
 
 ---
 
 ## Labs — Endocrine Workup
-- [ ] **Prolactin** (rule out prolactinoma — medical management first if prolactin > 200)
-- [ ] **IGF-1** (screen for GH excess)
-- [ ] **GH** (random and OGTT suppression if IGF-1 elevated)
-- [ ] **AM cortisol** + **ACTH** (Cushing disease or adrenal insufficiency)
-- [ ] **24-hour urine free cortisol** (if Cushing suspected)
-- [ ] **Low-dose dexamethasone suppression test** (if Cushing suspected)
-- [ ] **TSH, free T4** (TSH-secreting adenoma or central hypothyroidism)
-- [ ] **LH, FSH, estradiol/testosterone** (hypogonadism)
-- [ ] **Alpha subunit** (gonadotroph adenoma)
-- [ ] **BMP** (Na — risk of DI/SIADH; glucose — acromegaly)
-- [ ] **CBC, coagulation**
-- [ ] **Type and screen**
+- **Prolactin** (rule out prolactinoma — medical management first if prolactin > 200)
+- **IGF-1** (screen for GH excess)
+- **GH** (random and OGTT suppression if IGF-1 elevated)
+- **AM cortisol** + **ACTH** (Cushing disease or adrenal insufficiency)
+- **24-hour urine free cortisol** (if Cushing suspected)
+- **Low-dose dexamethasone suppression test** (if Cushing suspected)
+- **TSH, free T4** (TSH-secreting adenoma or central hypothyroidism)
+- **LH, FSH, estradiol/testosterone** (hypogonadism)
+- **Alpha subunit** (gonadotroph adenoma)
+- **BMP** (Na — risk of DI/SIADH; glucose — acromegaly)
+- **CBC, coagulation**
+- **Type and screen**
 
 ### Pre-op Endocrine Considerations
 - **Prolactinoma (PRL > 200):** Trial of cabergoline first; surgery if refractory, intolerant, or CSF leak
@@ -209,38 +209,38 @@
 9. **Arachnoid membrane** — intact arachnoid = no CSF leak; if violated, must repair
 
 ### Equipment & Instrumentation
-- [ ] 0-degree and 30-degree rigid endoscopes (4mm)
-- [ ] Endoscope holder/arm
-- [ ] High-definition camera and monitor
-- [ ] Navigation system (electromagnetic preferred for endonasal)
-- [ ] High-speed drill (diamond burr for sellar floor)
-- [ ] Kerrison rongeurs (various angles)
-- [ ] Ring curettes (various sizes and angles)
-- [ ] Micro-Doppler (to confirm ICA location)
-- [ ] Endonasal instrument set (suction, dissectors, scissors)
-- [ ] Hemostatic agents (Surgicel, Gelfoam, Floseal, fibrin glue)
-- [ ] Closure materials: collagen matrix (DuraGen/DuraMatrix), fascia lata, abdominal fat
-- [ ] Nasoseptal flap instruments
-- [ ] Nasal packing (Merocel / NasoPore)
-- [ ] Specimen containers
+- 0-degree and 30-degree rigid endoscopes (4mm)
+- Endoscope holder/arm
+- High-definition camera and monitor
+- Navigation system (electromagnetic preferred for endonasal)
+- High-speed drill (diamond burr for sellar floor)
+- Kerrison rongeurs (various angles)
+- Ring curettes (various sizes and angles)
+- Micro-Doppler (to confirm ICA location)
+- Endonasal instrument set (suction, dissectors, scissors)
+- Hemostatic agents (Surgicel, Gelfoam, Floseal, fibrin glue)
+- Closure materials: collagen matrix (DuraGen/DuraMatrix), fascia lata, abdominal fat
+- Nasoseptal flap instruments
+- Nasal packing (Merocel / NasoPore)
+- Specimen containers
 
 ### Monitoring
-- [ ] Standard ASA monitors
-- [ ] Visual evoked potentials (VEPs) — if significant chiasmal compression (not universally used)
-- [ ] No IONM typically required for standard transsphenoidal
+- Standard ASA monitors
+- Visual evoked potentials (VEPs) — if significant chiasmal compression (not universally used)
+- No IONM typically required for standard transsphenoidal
 
 ### Anesthesia Considerations
-- [ ] Arterial line (not always needed for straightforward cases)
-- [ ] Two large-bore IVs
-- [ ] Foley catheter (for DI monitoring — strict I&Os)
-- [ ] No Foley suction (risk of mucosal injury to urethra from DI-related polyuria)
-- [ ] Throat pack (prevents blood swallowing)
-- [ ] Dexamethasone 10 mg IV (if not Cushing disease)
-- [ ] **Cushing disease: Do NOT give steroids pre-op** (need post-op cortisol nadir)
-- [ ] **Adrenal insufficiency: Stress-dose hydrocortisone 100 mg IV at induction**
-- [ ] Cefazolin 2g IV
-- [ ] Topical vasoconstrictors for nasal mucosa (oxymetazoline)
-- [ ] Avoid excessive fluid administration (if concern for DI)
+- Arterial line (not always needed for straightforward cases)
+- Two large-bore IVs
+- Foley catheter (for DI monitoring — strict I&Os)
+- No Foley suction (risk of mucosal injury to urethra from DI-related polyuria)
+- Throat pack (prevents blood swallowing)
+- Dexamethasone 10 mg IV (if not Cushing disease)
+- **Cushing disease: Do NOT give steroids pre-op** (need post-op cortisol nadir)
+- **Adrenal insufficiency: Stress-dose hydrocortisone 100 mg IV at induction**
+- Cefazolin 2g IV
+- Topical vasoconstrictors for nasal mucosa (oxymetazoline)
+- Avoid excessive fluid administration (if concern for DI)
 
 ### Potential Complications & Contingencies
 1. **CSF leak** — most common complication; nasoseptal flap closure, possible lumbar drain
@@ -300,22 +300,22 @@ The patient was positioned supine with the head slightly extended in a [Mayfield
 ---
 
 ## Postoperative Plan
-- [ ] ICU monitoring x 24 hours (or step-down)
-- [ ] Neuro checks q1h x 12h, then q2h
-- [ ] Strict I&Os: Urine output q1h (DI monitoring)
-- [ ] Serum Na q6h x 48 hours, then BID until discharge
-- [ ] **DI protocol:** If UOP > 300 mL/hr x 2 consecutive hours with rising Na > 145 → DDAVP 1 mcg IV; hold if Na < 135
-- [ ] **AM cortisol POD1** (6 AM): If < 2 → adrenal insufficiency, start hydrocortisone; if 2-10 → borderline, may need replacement; if > 10 → reassuring
-- [ ] MRI sella within 24-48 hours (extent of resection)
-- [ ] Visual fields: Formal perimetry at 4-6 weeks
-- [ ] **Cushing disease:** Serial cortisol q6h (looking for nadir < 2-5 for remission); do NOT give steroids until cortisol confirmed low or patient symptomatic
-- [ ] **Acromegaly:** IGF-1 and GH at 6-12 weeks post-op
-- [ ] Activity: No nose blowing, no straining, no heavy lifting x 6 weeks
-- [ ] Nasal care: Saline irrigations starting after packing removal (POD 3-5)
-- [ ] Sinus precautions: No bending, no valsalva
-- [ ] CSF leak precautions: If repair performed, HOB 30 degrees, stool softeners
-- [ ] DVT prophylaxis: SCDs, heparin SQ POD1
-- [ ] Discharge: POD 2-3 typically (if no DI, no CSF leak, Na stable)
-- [ ] Follow-up: ENT debridement 1-2 weeks; Neurosurgery clinic 2-4 weeks; Endocrine 4-6 weeks
-- [ ] Long-term: Annual MRI sella; endocrine labs; visual fields as needed
-- [ ] **Delayed hyponatremia warning:** Educate patient to check Na at day 7-10 or return for symptoms (nausea, headache, confusion)
+- ICU monitoring x 24 hours (or step-down)
+- Neuro checks q1h x 12h, then q2h
+- Strict I&Os: Urine output q1h (DI monitoring)
+- Serum Na q6h x 48 hours, then BID until discharge
+- **DI protocol:** If UOP > 300 mL/hr x 2 consecutive hours with rising Na > 145 → DDAVP 1 mcg IV; hold if Na < 135
+- **AM cortisol POD1** (6 AM): If < 2 → adrenal insufficiency, start hydrocortisone; if 2-10 → borderline, may need replacement; if > 10 → reassuring
+- MRI sella within 24-48 hours (extent of resection)
+- Visual fields: Formal perimetry at 4-6 weeks
+- **Cushing disease:** Serial cortisol q6h (looking for nadir < 2-5 for remission); do NOT give steroids until cortisol confirmed low or patient symptomatic
+- **Acromegaly:** IGF-1 and GH at 6-12 weeks post-op
+- Activity: No nose blowing, no straining, no heavy lifting x 6 weeks
+- Nasal care: Saline irrigations starting after packing removal (POD 3-5)
+- Sinus precautions: No bending, no valsalva
+- CSF leak precautions: If repair performed, HOB 30 degrees, stool softeners
+- DVT prophylaxis: SCDs, heparin SQ POD1
+- Discharge: POD 2-3 typically (if no DI, no CSF leak, Na stable)
+- Follow-up: ENT debridement 1-2 weeks; Neurosurgery clinic 2-4 weeks; Endocrine 4-6 weeks
+- Long-term: Annual MRI sella; endocrine labs; visual fields as needed
+- **Delayed hyponatremia warning:** Educate patient to check Na at day 7-10 or return for symptoms (nausea, headache, confusion)
