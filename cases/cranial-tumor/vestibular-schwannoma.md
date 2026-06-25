@@ -21,6 +21,14 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+![Vestibular schwannoma — MRI/CT fusion showing tumor, sigmoid sinus and labyrinth with lateral-safe-line classification](../../figures/cranial-tumor/vs-mri-ct-fusion-classification_fsurg-889402.jpg)
+
+*MRI/CT fusion: tumor (yellow), sigmoid sinus (blue), labyrinth (green); lateral vs medial type relative to the lateral safe line. Source: Jia et al., Front Surg 2022;9:889402, Fig 1. CC BY 4.0.*
+
+![Intraoperative retrosigmoid microscopic view — intrameatal tumor at the IAC fundus with the tumor–nerve interface preserved](../../figures/cranial-tumor/vs-iac-microscopic-facialnerve_fsurg-889402.jpg)
+
+*Microscopic view of the intrameatal tumor (blue) / IAC fundus (green) interface, with postop imaging confirming complete resection and intact labyrinth. Source: Jia et al., Front Surg 2022;9:889402, Fig 3. CC BY 4.0.*
+
 ---
 
 ## History of Present Illness

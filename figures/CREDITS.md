@@ -72,5 +72,7 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `far-lateral/condylectomy-hypoglossal_cureus-e31257.jpg` | Posterior-third condylectomy & hypoglossal canal | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
 | `cranial-tumor/glioma-preop-postop-mri-dti_fneur-644804.jpg` | GBM — preop MRI + DTI tractography / postop gross-total-resection MRI | Maragkos GA et al. *Front Neurol* 2021;12:644804 ([doi:10.3389/fneur.2021.644804](https://doi.org/10.3389/fneur.2021.644804)) | CC BY 4.0 |
 | `cranial-tumor/glioma-5ala-fluorescence_fneur-644804.jpg` | Intraoperative 5-ALA (PpIX) fluorescence — tumor bulk & infiltrative margin | Maragkos GA et al. *Front Neurol* 2021;12:644804 | CC BY 4.0 |
+| `cranial-tumor/vs-mri-ct-fusion-classification_fsurg-889402.jpg` | Vestibular schwannoma — MRI/CT fusion (tumor, sigmoid sinus, labyrinth); LSL classification | Jia X et al. *Front Surg* 2022;9:889402 ([doi:10.3389/fsurg.2022.889402](https://doi.org/10.3389/fsurg.2022.889402)) | CC BY 4.0 |
+| `cranial-tumor/vs-iac-microscopic-facialnerve_fsurg-889402.jpg` | Intraoperative microscopic IAC view — intrameatal tumor / fundus interface | Jia X et al. *Front Surg* 2022;9:889402 | CC BY 4.0 |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*
