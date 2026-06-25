@@ -70,5 +70,7 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `far-lateral/muscles-va_cureus-e31257.jpg` | Suboccipital muscle layers & vertebral artery | Payman A et al. *Cureus.* 2022;14(11):e31257 ([PMC9733796](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9733796/)) | CC BY |
 | `far-lateral/craniotomy-c1-dura_cureus-e31257.jpg` | Far-lateral craniotomy + C1, dura/VA/sinuses | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
 | `far-lateral/condylectomy-hypoglossal_cureus-e31257.jpg` | Posterior-third condylectomy & hypoglossal canal | Payman A et al. *Cureus.* 2022;14(11):e31257 | CC BY |
+| `cranial-tumor/glioma-preop-postop-mri-dti_fneur-644804.jpg` | GBM — preop MRI + DTI tractography / postop gross-total-resection MRI | Maragkos GA et al. *Front Neurol* 2021;12:644804 ([doi:10.3389/fneur.2021.644804](https://doi.org/10.3389/fneur.2021.644804)) | CC BY 4.0 |
+| `cranial-tumor/glioma-5ala-fluorescence_fneur-644804.jpg` | Intraoperative 5-ALA (PpIX) fluorescence — tumor bulk & infiltrative margin | Maragkos GA et al. *Front Neurol* 2021;12:644804 | CC BY 4.0 |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*

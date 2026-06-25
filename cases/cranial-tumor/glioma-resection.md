@@ -20,6 +20,14 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+![Glioblastoma — preoperative MRI with DTI tractography (A–D) and postoperative MRI showing gross total resection (E–F)](../../figures/cranial-tumor/glioma-preop-postop-mri-dti_fneur-644804.jpg)
+
+*Preoperative MRI + DTI and postoperative gross-total-resection MRI. Source: Maragkos et al., Front Neurol 2021;12:644804, Fig 1. CC BY 4.0.*
+
+![Intraoperative 5-ALA (PpIX) fluorescence — pink tumor bulk (asterisk) and infiltrative margin (white arrows) under violet light](../../figures/cranial-tumor/glioma-5ala-fluorescence_fneur-644804.jpg)
+
+*Intraoperative 5-ALA fluorescence guiding resection of tumor bulk and infiltrative margin. Source: Maragkos et al., Front Neurol 2021;12:644804, Fig 2. CC BY 4.0.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=high%20grade%20glioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=glioma+resection+awake+mapping) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
