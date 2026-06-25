@@ -9,7 +9,11 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=vestibular+schwannoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=vestibular+schwannoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=vestibular+schwannoma+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — *Extended Retrosigmoid Craniotomy for Vestibular Schwannoma* · Barrow Neurological Institute
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/zxYYb4ES5G4" title="Extended Retrosigmoid Craniotomy for Vestibular Schwannoma" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+More operative video: [YouTube ▸](https://www.youtube.com/results?search_query=vestibular+schwannoma+retrosigmoid+resection) · [Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

@@ -9,7 +9,11 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=chronic+subdural+haematoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=chronic+subdural+haematoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=chronic+subdural+haematoma+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — *Chronic Subdural Hematoma — Burr-Hole Evacuation* · Peyman Pakzaban, MD
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/lBgQqvYK8xA" title="Chronic Subdural Hematoma — Burr-Hole Evacuation" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+More operative video: [YouTube ▸](https://www.youtube.com/results?search_query=chronic+subdural+hematoma+burr+hole+evacuation) · [Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

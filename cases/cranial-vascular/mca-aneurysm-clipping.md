@@ -9,7 +9,11 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=middle+cerebral+artery+aneurysm+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=middle+cerebral+artery+aneurysm+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=middle+cerebral+artery+aneurysm+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — *Microsurgical Clipping of MCA & ICA-Terminus Aneurysms* · Barrow Neurological Institute
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/lrPJBNjfXEU" title="Microsurgical Clipping of MCA & ICA-Terminus Aneurysms" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+More operative video: [YouTube ▸](https://www.youtube.com/results?search_query=middle+cerebral+artery+aneurysm+clipping) · [Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

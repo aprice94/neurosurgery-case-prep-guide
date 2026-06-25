@@ -9,7 +9,11 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cervical+disc+herniation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cervical+disc+herniation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cervical+disc+herniation+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — *Inside the OR: Anterior Cervical Discectomy & Fusion* · Antonio J. Webb, MD
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/2tVzP-mlt10" title="Inside the OR: Anterior Cervical Discectomy & Fusion" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+More operative video: [YouTube ▸](https://www.youtube.com/results?search_query=anterior+cervical+discectomy+fusion+ACDF+surgery) · [Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 
