@@ -10,7 +10,7 @@ The posterior cervical approach is the **midline corridor to the posterior eleme
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cervical+myelopathy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cervical+myelopathy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cervical+myelopathy+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+myelopathy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

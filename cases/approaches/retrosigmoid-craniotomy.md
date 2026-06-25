@@ -10,7 +10,7 @@ The retrosigmoid craniotomy is the **workhorse posterolateral corridor to the ce
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cerebellopontine+angle+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cerebellopontine+angle+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cerebellopontine+angle+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebellopontine+angle+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

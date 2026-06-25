@@ -9,7 +9,7 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=thoracolumbar+burst+fracture+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=thoracolumbar+burst+fracture+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=thoracolumbar+burst+fracture+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=thoracolumbar+burst+fracture+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

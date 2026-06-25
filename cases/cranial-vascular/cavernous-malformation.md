@@ -9,7 +9,7 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cerebral+cavernous+malformation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cerebral+cavernous+malformation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cerebral+cavernous+malformation+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebral+cavernous+malformation+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

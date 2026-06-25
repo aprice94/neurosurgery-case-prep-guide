@@ -9,7 +9,7 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=spinal+dural+arteriovenous+fistula+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=spinal+dural+arteriovenous+fistula+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=spinal+dural+arteriovenous+fistula+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spinal+dural+arteriovenous+fistula+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

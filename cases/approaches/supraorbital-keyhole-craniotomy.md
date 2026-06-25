@@ -10,7 +10,7 @@ The supraorbital keyhole ("eyebrow") craniotomy is the **minimally invasive subf
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=tuberculum+sellae+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=tuberculum+sellae+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=tuberculum+sellae+meningioma+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=tuberculum+sellae+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 

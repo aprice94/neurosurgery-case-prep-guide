@@ -9,7 +9,7 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=intrathecal+baclofen+pump+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=intrathecal+baclofen+pump+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=intrathecal+baclofen+pump+%22neurosurgical+focus%22+video)
+**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=intrathecal+baclofen+pump+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 **📑 Key evidence — landmark trials & guidelines**
 
