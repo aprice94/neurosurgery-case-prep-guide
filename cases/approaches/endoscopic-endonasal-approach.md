@@ -148,3 +148,12 @@ Postoperative CSF leak (1–5% sellar, 10–15% extended); DI (transient ~30%, p
 8. The Neurosurgical Atlas (Cohen-Gadol AA) — Endoscopic Endonasal Approach chapter (operative figures/videos, linked).
 9. Laws ER Jr, Sheehan JP, eds. *Pituitary Surgery — A Modern Approach.* Karger; 2006.
 10. Knosp E, Steiner E, Kitz K, Matula C. Pituitary adenomas with invasion of the cavernous sinus space: a magnetic resonance imaging classification compared with surgical findings. *Neurosurgery.* 1993;33(4):610–618.
+
+---
+
+## Key evidence — landmark trials & guidelines
+
+- **Endoscopic vs microscopic** — Meta-analyses of endoscopic vs microscopic transsphenoidal surgery — GTR & CSF-leak outcomes. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=endoscopic+versus+microscopic+transsphenoidal+pituitary+adenoma+meta-analysis)
+- **Nonfunctioning adenoma** — Pituitary/Endocrine Society management guidance for nonfunctioning adenomas. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=nonfunctioning+pituitary+adenoma+guideline+management+Endocrine+Society)
+- **Cushing disease** — Nieman LK et al. *JCEM* 2015 — treatment of Cushing's syndrome guideline. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Nieman+treatment+Cushing+syndrome+Endocrine+Society+guideline+2015)
+- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [Endocrine Society](https://www.endocrine.org/clinical-practice-guidelines)

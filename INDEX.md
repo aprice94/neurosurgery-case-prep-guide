@@ -16,6 +16,7 @@ title: Home
 
 <div class="cards">
   <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 · complete</span></a>
+  <a class="card aids" href="cases/approaches/approach-selection.md"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
   <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
   <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
   <a class="card" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>

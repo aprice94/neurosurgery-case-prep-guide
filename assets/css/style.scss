@@ -284,6 +284,11 @@ html { scroll-padding-top: 84px; }
 .quicklinks a { display: inline-block; background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 7px 15px; font-weight: 600; font-size: .9rem; color: var(--primary-d); text-decoration: none; box-shadow: var(--shadow); transition: transform .12s, background .12s, color .12s; }
 .quicklinks a:hover { transform: translateY(-2px); background: var(--primary); color: #fff; border-color: var(--primary); }
 
+/* highlighted decision-aids card + per-guide review date */
+.card.aids { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(20,87,168,.14), var(--shadow); }
+.reviewed { font-size: .78rem; color: var(--muted); font-weight: 600; align-self: center; white-space: nowrap; }
+@media (max-width: 640px) { .reviewed { display: none; } }
+
 /* ---------- Print: clean single-column guide for the OR ---------- */
 @media print {
   .site-header, .subbar, .site-footer, .to-top, .theme-toggle, .filter-box, .toc, #lightbox, .hanchor, .cards { display: none !important; }

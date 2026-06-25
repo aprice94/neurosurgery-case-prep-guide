@@ -139,3 +139,12 @@ Frontalis (CN VII) palsy; temporalis atrophy / trismus; CSF leak / mucocele (sin
 7. Rhoton AL Jr. *Cranial Anatomy and Surgical Approaches.* Congress of Neurological Surgeons.
 8. The Neurosurgical Atlas (Cohen-Gadol AA) — Pterional Craniotomy chapter (operative figures/videos, linked).
 9. Further open-access technique papers: [PubMed Central — pterional craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=pterional+craniotomy+technique); [Surgical Neurology International — suprafascial dissection](https://surgicalneurologyint.com/surgicalint-articles/suprafascial-dissection-for-pterional-craniotomy-to-preserve-the-frontotemporal-branch-of-the-facial-nerve-with-less-temporal-hollowing/).
+
+---
+
+## Key evidence — landmark trials & guidelines
+
+- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — endovascular coiling vs surgical clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
+- **ISUIA** — Wiebers DO et al. *Lancet* 2003 — natural history & treatment risk of unruptured aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebers+unruptured+intracranial+aneurysms+investigators+2003+Lancet)
+- **BRAT** — Spetzler RF et al. *J Neurosurg* 2012/2015 — Barrow Ruptured Aneurysm Trial, clip vs coil. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Spetzler+Barrow+Ruptured+Aneurysm+Trial+clipping+coiling)
+- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)

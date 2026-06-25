@@ -41,6 +41,7 @@
         {% if page.title %}<span class="sep">›</span><span class="crumb crumb-current">{{ page.title }}</span>{% endif %}
       </div>
       <div class="subbar-actions">
+        {% assign rev = site.data.reviewed[page.path] %}{% if rev %}<span class="reviewed" title="Last updated (from git history)">Updated {{ rev }}</span>{% endif %}
         <button class="subbar-btn" type="button" onclick="window.print()" title="Print or save this guide as a PDF">🖨️ PDF</button>
         <a class="subbar-btn" href="{{ site.github_repo }}/edit/main/{{ page.path }}" target="_blank" rel="noopener" title="Suggest an edit on GitHub">✏️ Edit</a>
       </div>
