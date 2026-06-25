@@ -76,5 +76,11 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `cranial-tumor/vs-iac-microscopic-facialnerve_fsurg-889402.jpg` | Intraoperative microscopic IAC view — intrameatal tumor / fundus interface | Jia X et al. *Front Surg* 2022;9:889402 | CC BY 4.0 |
 | `cranial-vascular/mca-clip-icg_fsurg-2019-34.jpg` | MCA aneurysm — dissected/clipped neck + intraop ICG showing exclusion & branch patency | Norat P et al. *Front Surg* 2019;6:34 ([doi:10.3389/fsurg.2019.00034](https://doi.org/10.3389/fsurg.2019.00034)) | CC BY 4.0 |
 | `cranial-vascular/basilar-clip-icg-perforators_fsurg-2019-34.jpg` | Basilar-apex aneurysm (OZ) — perforator dissection + post-clip ICG perforator preservation | Norat P et al. *Front Surg* 2019;6:34 | CC BY 4.0 |
+| `cranial-functional/dbs-workflow-planning-mer_fneur-683532.jpg` | DBS workflow — planning, MER/microstimulation, lead-placement assessment | Shi L et al. *Front Neurol* 2021;12:683532 ([doi:10.3389/fneur.2021.683532](https://doi.org/10.3389/fneur.2021.683532)) | CC BY 4.0 |
+| `cranial-functional/dbs-mri-targeting-postop-verification_fneur-683532.jpg` | DBS — preop MRI targeting + postop CT/MRI-fusion lead verification | Shi L et al. *Front Neurol* 2021;12:683532 | CC BY 4.0 |
+| `cranial-functional/dbs-stn-snr-mer-signals_fneur-683532.jpg` | Intraoperative MER — STN vs SNr signal signatures | Shi L et al. *Front Neurol* 2021;12:683532 | CC BY 4.0 |
+| `cranial-tumor/metastasis-perirolandic-anatomy_fonc-572644.jpg` | Perirolandic homunculus + BM infiltrative growth pattern | Zuo C et al. *Front Oncol* 2020;10:572644 ([doi:10.3389/fonc.2020.572644](https://doi.org/10.3389/fonc.2020.572644)) | CC BY 4.0 |
+| `cranial-tumor/metastasis-dti-cst-postop_fonc-572644.jpg` | Metastasis vs corticospinal tract — DTI/MRI fusion + postop resection | Zuo C et al. *Front Oncol* 2020;10:572644 | CC BY 4.0 |
+| `cranial-tumor/metastasis-brain-mapping_fonc-572644.jpg` | Intraoperative SEP phase-reversal / central-sulcus mapping | Zuo C et al. *Front Oncol* 2020;10:572644 | CC BY 4.0 |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*

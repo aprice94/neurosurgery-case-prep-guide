@@ -17,6 +17,18 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+![Perirolandic region — motor/sensory homunculus and the infiltrative growth pattern of brain metastases beyond the gliotic pseudocapsule](../../figures/cranial-tumor/metastasis-perirolandic-anatomy_fonc-572644.jpg)
+
+*Perirolandic functional anatomy and BM infiltration up to ~5 mm beyond the pseudocapsule. Source: Zuo et al., Front Oncol 2020;10:572644, Fig 1. CC BY 4.0.*
+
+![Metastasis adjacent to the corticospinal tract — merged DTI + contrast T1 MRI with 3D tract reconstruction and postoperative MRI confirming resection](../../figures/cranial-tumor/metastasis-dti-cst-postop_fonc-572644.jpg)
+
+*DTI/MRI fusion showing CST proximity and displacement; postop MRI confirming total removal. Source: Zuo et al., Front Oncol 2020;10:572644, Fig 2. CC BY 4.0.*
+
+![Intraoperative brain mapping — subdural strip SEP N20 phase-reversal localizing the central sulcus before resection](../../figures/cranial-tumor/metastasis-brain-mapping_fonc-572644.jpg)
+
+*Central-sulcus identification by SEP phase reversal and motor mapping prior to perirolandic metastasis removal. Source: Zuo et al., Front Oncol 2020;10:572644, Fig 3. CC BY 4.0.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20metastasis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brain+metastasis+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---

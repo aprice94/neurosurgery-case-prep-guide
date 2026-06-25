@@ -17,6 +17,18 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+![DBS surgical workflow — preoperative trajectory planning, intraoperative microelectrode recording/microstimulation, and lead-placement assessment](../../figures/cranial-functional/dbs-workflow-planning-mer_fneur-683532.jpg)
+
+*Workflow: planning → MER / microstimulation (ventral STN, dorsal SNr) → lead-placement assessment. Source: Shi et al., Front Neurol 2021;12:683532, Fig 1. CC BY 4.0.*
+
+![DBS targeting — preoperative MRI plan (targets along the anterior edge of the red nucleus) and postoperative CT–MRI fusion verifying lead location](../../figures/cranial-functional/dbs-mri-targeting-postop-verification_fneur-683532.jpg)
+
+*Preoperative MRI targeting and postoperative CT/MRI-fusion verification of lead position. Source: Shi et al., Front Neurol 2021;12:683532, Fig 2. CC BY 4.0.*
+
+![Intraoperative microelectrode recording — characteristic STN signal (high background, irregular firing) versus SNr (lower noise, regular high-frequency)](../../figures/cranial-functional/dbs-stn-snr-mer-signals_fneur-683532.jpg)
+
+*MER signatures distinguishing STN from SNr during trajectory mapping. Source: Shi et al., Front Neurol 2021;12:683532, Fig 4. CC BY 4.0.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=deep%20brain%20stimulation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=deep+brain+stimulation+STN+targeting) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
