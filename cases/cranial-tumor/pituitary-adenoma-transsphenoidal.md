@@ -24,6 +24,14 @@
 
 *Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
 
+![Pituitary macroadenoma — preoperative and intraoperative contrast coronal T1 MRI showing residual tumor at the sellar diaphragm and cavernous sinus](../../figures/cranial-tumor/pituitary-macroadenoma-iomri-cavernous_fonc-733838.jpg)
+
+*Macroadenoma with cavernous-sinus / suprasellar extension; intraoperative MRI detecting residual tumor (arrows). Source: Celtikci et al., Front Oncol 2021;11:733838, Fig 1. CC BY 4.0.*
+
+![Endoscopic endonasal side-firing intraoperative ultrasound — parasellar anatomy with adenoma and the cavernous segment of the internal carotid artery](../../figures/cranial-tumor/pituitary-ious-endonasal-cavernous-ica_fonc-1043697.jpg)
+
+*Intraoperative ultrasound during endonasal resection localizing the cavernous ICA and tumor margin. Source: Baker et al., Front Oncol 2022;12:1043697, Fig 1. CC BY 4.0.*
+
 ---
 
 ## History of Present Illness

@@ -82,5 +82,7 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `cranial-tumor/metastasis-perirolandic-anatomy_fonc-572644.jpg` | Perirolandic homunculus + BM infiltrative growth pattern | Zuo C et al. *Front Oncol* 2020;10:572644 ([doi:10.3389/fonc.2020.572644](https://doi.org/10.3389/fonc.2020.572644)) | CC BY 4.0 |
 | `cranial-tumor/metastasis-dti-cst-postop_fonc-572644.jpg` | Metastasis vs corticospinal tract — DTI/MRI fusion + postop resection | Zuo C et al. *Front Oncol* 2020;10:572644 | CC BY 4.0 |
 | `cranial-tumor/metastasis-brain-mapping_fonc-572644.jpg` | Intraoperative SEP phase-reversal / central-sulcus mapping | Zuo C et al. *Front Oncol* 2020;10:572644 | CC BY 4.0 |
+| `cranial-tumor/pituitary-macroadenoma-iomri-cavernous_fonc-733838.jpg` | Pituitary macroadenoma — preop + intraop coronal T1 MRI (cavernous-sinus residual) | Celtikci E et al. *Front Oncol* 2021;11:733838 ([doi:10.3389/fonc.2021.733838](https://doi.org/10.3389/fonc.2021.733838)) | CC BY 4.0 |
+| `cranial-tumor/pituitary-ious-endonasal-cavernous-ica_fonc-1043697.jpg` | Endonasal side-firing intraoperative ultrasound — parasellar/cavernous ICA | Baker C et al. *Front Oncol* 2022;12:1043697 ([doi:10.3389/fonc.2022.1043697](https://doi.org/10.3389/fonc.2022.1043697)) | CC BY 4.0 |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*
