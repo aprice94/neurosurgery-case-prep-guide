@@ -1,4 +1,4 @@
-# CLAUDE.md — Neurosurgery Case Prep Guide
+# AGENTS.md — Neurosurgery Case Prep Guide
 
 Neurosurgical case-preparation knowledge base (107 case guides + operative-approach chapters), published as a GitHub Pages site. **This folder is the project root** (`/Users/anthonyprice/Documents/Neurosurgery Case Prep Guide`).
 
