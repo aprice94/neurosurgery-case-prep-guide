@@ -25,6 +25,14 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
+![Parasagittal meningioma — classification by superior sagittal sinus involvement (Type I patent → Type III complete occlusion) with corresponding resection / sinus-management strategy](../../figures/cranial-tumor/parasagittal-meningioma-classification_fneur-1364917.jpg)
+
+*Sinus-invasion classification and surgical strategy. Source: Duan et al., Front Neurol 2024;15:1364917, Fig 1. CC BY 4.0.*
+
+![Type II parasagittal meningioma — preoperative enhanced MRI + MRV, intraoperative sinus-wall suture repair, postoperative MRI + MRV](../../figures/cranial-tumor/parasagittal-meningioma-mri-mrv-intraop_fneur-1364917.jpg)
+
+*Preop MRI/MRV → intraoperative sinus repair → postop MRI/MRV. Source: Duan et al., Front Neurol 2024;15:1364917, Fig 3. CC BY 4.0.*
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=parasagittal%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=parasagittal+meningioma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
