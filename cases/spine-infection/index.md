@@ -6,8 +6,10 @@ title: Spine — Infection
 
 <p class="lead">2 guides in this category.</p>
 
-- [Spinal Epidural Abscess — Decompression & Drainage](spinal-epidural-abscess.md)
-- [Vertebral Osteomyelitis / Discitis — Surgical Management](vertebral-osteomyelitis-discitis.md)
+<div class="index-grid">
+  <a href="spinal-epidural-abscess.html">Spinal Epidural Abscess — Decompression & Drainage</a>
+  <a href="vertebral-osteomyelitis-discitis.html">Vertebral Osteomyelitis / Discitis — Surgical Management</a>
+</div>
 
 ---
 

@@ -6,11 +6,13 @@ title: Brain Biopsy
 
 <p class="lead">5 guides in this category.</p>
 
-- [Reference: Brain Biopsy Systems and Stereotactic Platforms](biopsy-systems-reference.md)
-- [Open Brain Biopsy (Craniotomy/Burr-Hole Open Biopsy)](open-brain-biopsy.md)
-- [Robot-Assisted Stereotactic Brain Biopsy (ROSA / Mazor / Neuromate)](robotic-brain-biopsy.md)
-- [Frame-Based Stereotactic Brain Biopsy (Leksell / CRW)](stereotactic-brain-biopsy-framed.md)
-- [Frameless (Navigation-Based) Stereotactic Brain Biopsy](stereotactic-brain-biopsy-frameless.md)
+<div class="index-grid">
+  <a href="biopsy-systems-reference.html">Reference: Brain Biopsy Systems and Stereotactic Platforms</a>
+  <a href="open-brain-biopsy.html">Open Brain Biopsy (Craniotomy/Burr-Hole Open Biopsy)</a>
+  <a href="robotic-brain-biopsy.html">Robot-Assisted Stereotactic Brain Biopsy (ROSA / Mazor / Neuromate)</a>
+  <a href="stereotactic-brain-biopsy-framed.html">Frame-Based Stereotactic Brain Biopsy (Leksell / CRW)</a>
+  <a href="stereotactic-brain-biopsy-frameless.html">Frameless (Navigation-Based) Stereotactic Brain Biopsy</a>
+</div>
 
 ---
 

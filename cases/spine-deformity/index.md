@@ -6,8 +6,10 @@ title: Spine — Deformity
 
 <p class="lead">2 guides in this category.</p>
 
-- [Adult Spinal Deformity Correction (with Osteotomy — SPO / PSO / VCR)](adult-spinal-deformity-osteotomy.md)
-- [Vertebral Augmentation (Kyphoplasty / Vertebroplasty)](kyphoplasty-vertebroplasty.md)
+<div class="index-grid">
+  <a href="adult-spinal-deformity-osteotomy.html">Adult Spinal Deformity Correction (with Osteotomy — SPO / PSO / VCR)</a>
+  <a href="kyphoplasty-vertebroplasty.html">Vertebral Augmentation (Kyphoplasty / Vertebroplasty)</a>
+</div>
 
 ---
 

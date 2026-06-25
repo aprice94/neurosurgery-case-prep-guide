@@ -306,3 +306,61 @@ html { scroll-padding-top: 84px; }
   .prose h1, .prose h2, .prose h3 { page-break-after: avoid; }
   .prose table, .prose blockquote { page-break-inside: avoid; }
 }
+
+/* ---------- Decision-aid / toolkit pages ---------- */
+.tool-hero {
+  display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(220px, .9fr); gap: 18px; align-items: stretch;
+  margin: 4px 0 18px; padding: 24px; border-radius: 12px;
+  background: linear-gradient(135deg, rgba(13,124,134,.10), rgba(20,87,168,.12));
+  border: 1px solid var(--line); box-shadow: var(--shadow);
+}
+.tool-hero.compact h2 { display: block; border: none; padding: 0; margin: .15em 0 .35em; font-size: 1.45rem; }
+.tool-hero p { margin: .2em 0; max-width: 68ch; color: var(--muted); }
+.eyebrow { display: inline-block; font-size: .78rem; font-weight: 800; color: var(--primary-d); text-transform: uppercase; letter-spacing: .08em; }
+.tool-stat-grid { display: grid; grid-template-columns: 1fr; gap: 10px; }
+.tool-stat-grid a, .next-grid a {
+  display: block; padding: 13px 14px; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--primary);
+  border-radius: 9px; box-shadow: var(--shadow); text-decoration: none; color: var(--ink);
+}
+.tool-stat-grid a b, .next-grid a b { display: block; color: var(--ink); }
+.tool-stat-grid a span, .next-grid a span { display: block; color: var(--muted); font-size: .86rem; margin-top: 1px; }
+.tool-stat-grid a:hover, .next-grid a:hover { transform: translateY(-1px); border-left-color: var(--accent); }
+.decision-strip { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 18px; }
+.decision-strip a {
+  display: inline-block; padding: 6px 11px; border-radius: 999px; background: #eef8f9; border: 1px solid rgba(13,124,134,.20);
+  color: var(--primary-d); font-size: .86rem; font-weight: 700; text-decoration: none;
+}
+.decision-strip a:hover { background: var(--primary); color: #fff; border-color: var(--primary); }
+.chooser-grid, .callout-grid, .next-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 14px 0 20px; }
+.callout-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.chooser-card, .callout-grid > div {
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 15px 16px; box-shadow: var(--shadow);
+}
+.chooser-card span {
+  display: inline-grid; place-items: center; width: 28px; height: 28px; border-radius: 50%; background: var(--primary); color: #fff;
+  font-weight: 800; font-size: .85rem; margin-bottom: 6px;
+}
+.chooser-card h3 { margin: .1em 0 .25em; color: var(--ink); font-size: 1.02rem; }
+.chooser-card p, .callout-grid > div { color: var(--muted); font-size: .93rem; }
+.decision-table-wrap { overflow-x: auto; margin: 10px 0 18px; border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--shadow); }
+.decision-table-wrap table { margin: 0; box-shadow: none; border-radius: 0; min-width: 760px; }
+.decision-table-wrap th:first-child, .decision-table-wrap td:first-child { min-width: 150px; }
+.decision-table-wrap td { font-size: .92rem; line-height: 1.45; }
+.next-grid { grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); }
+[data-theme="dark"] .tool-hero { background: linear-gradient(135deg, rgba(79,209,197,.10), rgba(116,182,245,.12)); }
+[data-theme="dark"] .decision-strip a { background: #132b32; color: var(--primary-d); border-color: #25414a; }
+[data-theme="dark"] .decision-strip a:hover { background: var(--primary-d); color: #071017; }
+@media (max-width: 760px) {
+  .tool-hero, .chooser-grid, .callout-grid { grid-template-columns: 1fr; }
+  .tool-hero { padding: 18px; }
+  .decision-table-wrap table { min-width: 680px; }
+}
+
+/* ---------- Category index pages ---------- */
+.index-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 11px; margin: 14px 0 22px; }
+.index-grid a {
+  display: block; min-height: 82px; padding: 14px 15px; background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--primary);
+  border-radius: 9px; box-shadow: var(--shadow); text-decoration: none; color: var(--ink); font-weight: 700;
+}
+.index-grid a span { display: block; margin-top: 4px; color: var(--muted); font-weight: 500; font-size: .85rem; line-height: 1.35; }
+.index-grid a:hover { transform: translateY(-2px); color: var(--primary-d); border-left-color: var(--accent); }

@@ -6,8 +6,10 @@ title: Spine — Congenital / CSF
 
 <p class="lead">2 guides in this category.</p>
 
-- [Syringomyelia — Management / Syringosubarachnoid Shunt](syringomyelia.md)
-- [Tethered Cord Release](tethered-cord-release.md)
+<div class="index-grid">
+  <a href="syringomyelia.html">Syringomyelia — Management / Syringosubarachnoid Shunt</a>
+  <a href="tethered-cord-release.html">Tethered Cord Release</a>
+</div>
 
 ---
 

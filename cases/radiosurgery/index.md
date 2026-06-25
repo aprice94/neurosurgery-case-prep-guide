@@ -6,8 +6,10 @@ title: Radiosurgery / Ablative
 
 <p class="lead">2 guides in this category.</p>
 
-- [Laser Interstitial Thermal Therapy (LITT)](litt.md)
-- [Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife](stereotactic-radiosurgery.md)
+<div class="index-grid">
+  <a href="litt.html">Laser Interstitial Thermal Therapy (LITT)</a>
+  <a href="stereotactic-radiosurgery.html">Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife</a>
+</div>
 
 ---
 

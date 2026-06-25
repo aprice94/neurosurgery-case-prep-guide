@@ -6,19 +6,23 @@ title: Cranial — CSF / Hydrocephalus
 
 <p class="lead">10 guides in this category.</p>
 
-- [Endoscopic Third Ventriculostomy (ETV)](etv.md)
-- [External Ventricular Drain (EVD) Placement](evd-placement.md)
-- [Lumbar Drain Placement](lumbar-drain.md)
-- [Ventriculoperitoneal (VP) Shunt Placement](vp-shunt.md)
+<div class="index-grid">
+  <a href="etv.html">Endoscopic Third Ventriculostomy (ETV)</a>
+  <a href="evd-placement.html">External Ventricular Drain (EVD) Placement</a>
+  <a href="lumbar-drain.html">Lumbar Drain Placement</a>
+  <a href="vp-shunt.html">Ventriculoperitoneal (VP) Shunt Placement</a>
+</div>
 
 ### Shunts
 
-- [Lumboperitoneal (LP) Shunt Placement](shunts/lumboperitoneal-shunt.md)
-- [Shunt Revision / Exploration](shunts/shunt-revision.md)
-- [Reference: CSF Shunt Systems, Types, and Valves](shunts/shunt-systems-reference.md)
-- [Subduroperitoneal (Subdural-Peritoneal) Shunt Placement](shunts/subduroperitoneal-shunt.md)
-- [Ventriculoatrial (VA) Shunt Placement](shunts/ventriculoatrial-shunt.md)
-- [Ventriculopleural (VPL) Shunt Placement](shunts/ventriculopleural-shunt.md)
+<div class="index-grid">
+  <a href="shunts/lumboperitoneal-shunt.html">Lumboperitoneal (LP) Shunt Placement</a>
+  <a href="shunts/shunt-revision.html">Shunt Revision / Exploration</a>
+  <a href="shunts/shunt-systems-reference.html">Reference: CSF Shunt Systems, Types, and Valves</a>
+  <a href="shunts/subduroperitoneal-shunt.html">Subduroperitoneal (Subdural-Peritoneal) Shunt Placement</a>
+  <a href="shunts/ventriculoatrial-shunt.html">Ventriculoatrial (VA) Shunt Placement</a>
+  <a href="shunts/ventriculopleural-shunt.html">Ventriculopleural (VPL) Shunt Placement</a>
+</div>
 
 ---
 

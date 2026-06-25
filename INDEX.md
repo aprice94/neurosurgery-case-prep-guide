@@ -16,7 +16,7 @@ title: Home
 
 <div class="cards">
   <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 · complete</span></a>
-  <a class="card aids" href="cases/approaches/approach-selection.md"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
+  <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
   <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
   <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
   <a class="card" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
@@ -26,20 +26,20 @@ title: Home
 
 <h2 id="start-here" class="start-here">⭐ Start here — high-yield, bread-and-butter cases</h2>
 <div class="quicklinks">
-  <a href="cases/cranial-trauma/chronic-subdural-hematoma.md">Chronic SDH</a>
-  <a href="cases/cranial-csf/evd-placement.md">EVD placement</a>
-  <a href="cases/cranial-csf/vp-shunt.md">VP shunt</a>
-  <a href="cases/cranial-trauma/decompressive-craniectomy-tbi.md">Decompressive craniectomy</a>
-  <a href="cases/spine-degenerative/acdf.md">ACDF</a>
-  <a href="cases/spine-degenerative/lumbar-microdiscectomy.md">Lumbar microdiscectomy</a>
-  <a href="cases/spine-degenerative/lumbar-laminectomy.md">Lumbar laminectomy</a>
-  <a href="cases/cranial-tumor/glioma-resection.md">Glioma resection</a>
-  <a href="cases/cranial-tumor/cerebral-metastasis.md">Brain metastasis</a>
-  <a href="cases/cranial-vascular/mca-aneurysm-clipping.md">MCA aneurysm clipping</a>
-  <a href="cases/cranial-tumor/vestibular-schwannoma.md">Vestibular schwannoma</a>
-  <a href="cases/cranial-functional/chiari-decompression.md">Chiari decompression</a>
-  <a href="cases/cranial-functional/dbs-placement.md">DBS placement</a>
-  <a href="cases/cranial-tumor/pituitary-adenoma-transsphenoidal.md">Pituitary (transsphenoidal)</a>
+  <a href="cases/cranial-trauma/chronic-subdural-hematoma.html">Chronic SDH</a>
+  <a href="cases/cranial-csf/evd-placement.html">EVD placement</a>
+  <a href="cases/cranial-csf/vp-shunt.html">VP shunt</a>
+  <a href="cases/cranial-trauma/decompressive-craniectomy-tbi.html">Decompressive craniectomy</a>
+  <a href="cases/spine-degenerative/acdf.html">ACDF</a>
+  <a href="cases/spine-degenerative/lumbar-microdiscectomy.html">Lumbar microdiscectomy</a>
+  <a href="cases/spine-degenerative/lumbar-laminectomy.html">Lumbar laminectomy</a>
+  <a href="cases/cranial-tumor/glioma-resection.html">Glioma resection</a>
+  <a href="cases/cranial-tumor/cerebral-metastasis.html">Brain metastasis</a>
+  <a href="cases/cranial-vascular/mca-aneurysm-clipping.html">MCA aneurysm clipping</a>
+  <a href="cases/cranial-tumor/vestibular-schwannoma.html">Vestibular schwannoma</a>
+  <a href="cases/cranial-functional/chiari-decompression.html">Chiari decompression</a>
+  <a href="cases/cranial-functional/dbs-placement.html">DBS placement</a>
+  <a href="cases/cranial-tumor/pituitary-adenoma-transsphenoidal.html">Pituitary (transsphenoidal)</a>
 </div>
 
 > ⚠️ **Educational reference — not medical advice.** Summarizes standard teaching; verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before any patient care. See the [full disclaimer](DISCLAIMER.md).

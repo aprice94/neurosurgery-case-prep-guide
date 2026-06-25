@@ -6,14 +6,16 @@ title: Spine — Trauma
 
 <p class="lead">8 guides in this category.</p>
 
-- [Traumatic Central Cord Syndrome](central-cord-syndrome.md)
-- [Flexion-Distraction (Chance) Injury Fixation](flexion-distraction-chance.md)
-- [Occipitocervical Fusion](occipitocervical-fusion.md)
-- [Odontoid (Type II) Fracture Fixation](odontoid-fracture.md)
-- [Penetrating Spine Injury (Gunshot / Stab) Management](penetrating-spine-injury.md)
-- [Sacral Fracture / Spinopelvic (Lumbopelvic) Fixation](sacral-fracture-spinopelvic.md)
-- [Subaxial Cervical Spine Fracture / Dislocation Fixation](subaxial-cervical-fracture.md)
-- [Thoracolumbar Burst Fracture Fixation](thoracolumbar-burst-fracture.md)
+<div class="index-grid">
+  <a href="central-cord-syndrome.html">Traumatic Central Cord Syndrome</a>
+  <a href="flexion-distraction-chance.html">Flexion-Distraction (Chance) Injury Fixation</a>
+  <a href="occipitocervical-fusion.html">Occipitocervical Fusion</a>
+  <a href="odontoid-fracture.html">Odontoid (Type II) Fracture Fixation</a>
+  <a href="penetrating-spine-injury.html">Penetrating Spine Injury (Gunshot / Stab) Management</a>
+  <a href="sacral-fracture-spinopelvic.html">Sacral Fracture / Spinopelvic (Lumbopelvic) Fixation</a>
+  <a href="subaxial-cervical-fracture.html">Subaxial Cervical Spine Fracture / Dislocation Fixation</a>
+  <a href="thoracolumbar-burst-fracture.html">Thoracolumbar Burst Fracture Fixation</a>
+</div>
 
 ---
 
