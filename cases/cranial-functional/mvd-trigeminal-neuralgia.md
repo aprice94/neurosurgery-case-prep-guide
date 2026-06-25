@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=trigeminal+neuralgia+neurovascular+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=trigeminal+neuralgia+neurovascular+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=trigeminal+neuralgia+neurovascular+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=trigeminal+neuralgia+neurovascular+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=trigeminal+neuralgia+neurovascular+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=trigeminal+neuralgia+neurovascular)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **MVD outcome** — Barker FG 2nd et al. *NEJM* 1996 — long-term outcome of microvascular decompression for TN. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Barker+microvascular+decompression+trigeminal+neuralgia+1996+NEJM)
+- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

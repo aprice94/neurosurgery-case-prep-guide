@@ -12,7 +12,12 @@ The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor 
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=olfactory+groove+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=olfactory+groove+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=olfactory+groove+meningioma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=olfactory+groove+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=olfactory+groove+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=olfactory+groove+meningioma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
+- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
+- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas — olfactory groove / anterior base](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma) · [Radiopaedia — olfactory groove meningioma](https://radiopaedia.org/search?q=olfactory%20groove%20meningioma&scope=all) · [PubMed Central — bifrontal craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=bifrontal+craniotomy+anterior+skull+base)
 
 ![Interior base of skull — anterior cranial fossa floor: crista galli, cribriform plate, planum, orbital roofs](../../figures/anatomy/skull-base-interior_gray193.png)

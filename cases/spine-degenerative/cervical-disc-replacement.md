@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cervical+disc+arthroplasty+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cervical+disc+arthroplasty+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cervical+disc+arthroplasty+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+disc+arthroplasty+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cervical+disc+arthroplasty+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cervical+disc+arthroplasty)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
+- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
+- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
 
 > 🧭 **Operative approach:** [Anterior cervical (Smith-Robinson) approach](../approaches/anterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 

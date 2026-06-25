@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=hemifacial+spasm+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=hemifacial+spasm+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=hemifacial+spasm+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=hemifacial+spasm+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=hemifacial+spasm+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=hemifacial+spasm)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **MVD outcome** — Barker FG 2nd et al. *NEJM* 1996 — long-term outcome of microvascular decompression for TN. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Barker+microvascular+decompression+trigeminal+neuralgia+1996+NEJM)
+- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

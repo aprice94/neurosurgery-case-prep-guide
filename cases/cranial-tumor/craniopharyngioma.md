@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=craniopharyngioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=craniopharyngioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=craniopharyngioma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=craniopharyngioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=craniopharyngioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=craniopharyngioma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Surgical series** — Yasargil MG et al. *J Neurosurg* 1990 — total removal of craniopharyngiomas. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Yasargil+total+removal+craniopharyngioma+1990+J+Neurosurg)
+- **GTR vs STR+RT** — Outcomes of radical resection vs subtotal + radiotherapy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniopharyngioma+gross+total+resection+subtotal+radiotherapy+outcome)
+- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Supraorbital keyhole craniotomy](../approaches/supraorbital-keyhole-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

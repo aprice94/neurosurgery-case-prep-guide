@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=third+ventriculostomy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=third+ventriculostomy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=third+ventriculostomy+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=third+ventriculostomy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=third+ventriculostomy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=third+ventriculostomy)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **ETV Success Score** — Kulkarni AV et al. *J Pediatr* 2009 — predicting ETV success. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kulkarni+ETV+success+score+endoscopic+third+ventriculostomy+2009)
+- **ETV/CPC** — Warf BC — ETV with choroid plexus cauterization in infants. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Warf+endoscopic+third+ventriculostomy+choroid+plexus+cauterization+infant)
+- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=third%20ventriculostomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pediatric+endoscopic+third+ventriculostomy+choroid+plexus) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — third ventricle floor & foramen of Monro](../../figures/anatomy/ventricles_gray734.png)

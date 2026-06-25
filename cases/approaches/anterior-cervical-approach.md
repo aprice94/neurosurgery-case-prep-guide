@@ -12,7 +12,10 @@ The anterior cervical (Smith-Robinson) approach is the **workhorse anterior corr
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cervical+spondylosis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cervical+spondylosis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cervical+spondylosis+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+spondylosis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cervical+spondylosis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cervical+spondylosis)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **AOSpine CSM** — Fehlings MG et al. — guidelines & prospective outcomes for cervical spondylotic myelopathy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+AOSpine+cervical+spondylotic+myelopathy+guideline+outcomes)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [AO Surgery Reference — anterior cervical](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — ACDF](https://radiopaedia.org/search?q=anterior%20cervical%20discectomy&scope=all) · [PubMed Central — Smith-Robinson](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+cervical+approach+smith+robinson)
 
 ![Vertebral column — cervical spine (anterior column targets of the approach)](../../figures/spine/vertebral-column_gray111.png)

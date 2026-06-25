@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=awake+craniotomy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=awake+craniotomy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=awake+craniotomy+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=awake+craniotomy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=awake+craniotomy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=awake+craniotomy)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Insular glioma** — Sanai N, Polley MY, Berger MS. *J Neurosurg* 2010 — surgical outcomes/safety of insular gliomas. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sanai+insular+glioma+resection+outcome+2010+J+Neurosurg)
+- **Intraop mapping (meta)** — De Witt Hamer PC et al. *J Clin Oncol* 2012 — stimulation mapping improves outcomes. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=De+Witt+Hamer+intraoperative+stimulation+mapping+glioma+meta-analysis+2012)
+- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
 
 ![Cerebral cortex & ventricles (eloquent-area mapping)](../../figures/anatomy/ventricles_gray734.png)
 

@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=lumbar+drain+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=lumbar+drain+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=lumbar+drain+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=lumbar+drain+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=lumbar+drain+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=lumbar+drain)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **ETV Success Score** — Kulkarni AV et al. *J Pediatr* 2009 — predicting ETV success. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kulkarni+ETV+success+score+endoscopic+third+ventriculostomy+2009)
+- **ETV/CPC** — Warf BC — ETV with choroid plexus cauterization in infants. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Warf+endoscopic+third+ventriculostomy+choroid+plexus+cauterization+infant)
+- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
 
 ![Vertebral column — lumbar spine (thecal sac / drain site)](../../figures/spine/vertebral-column_gray111.png)
 

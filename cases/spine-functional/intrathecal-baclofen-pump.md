@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=intrathecal+baclofen+pump+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=intrathecal+baclofen+pump+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=intrathecal+baclofen+pump+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=intrathecal+baclofen+pump+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=intrathecal+baclofen+pump+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=intrathecal+baclofen+pump)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SDR meta-analysis** — McLaughlin J et al. *Dev Med Child Neurol* 2002 — selective dorsal rhizotomy for spasticity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=McLaughlin+selective+dorsal+rhizotomy+spasticity+meta-analysis+2002)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=intrathecal%20baclofen%20pump&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intrathecal+baclofen+pump) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (intrathecal catheter / subarachnoid space)](../../figures/spine/spinal-cord-cross-section_gray664.png)

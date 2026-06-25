@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cerebral+arteriovenous+malformation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cerebral+arteriovenous+malformation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cerebral+arteriovenous+malformation+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cerebral+arteriovenous+malformation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cerebral+arteriovenous+malformation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cerebral+arteriovenous+malformation)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **ARUBA** — Mohr JP et al. *Lancet* 2014 — medical management vs intervention for unruptured brain AVMs. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mohr+ARUBA+unruptured+brain+arteriovenous+malformations+2014+Lancet)
+- **Spetzler–Martin grade** — Spetzler RF, Martin NA. *J Neurosurg* 1986 — AVM surgical grading scale. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Spetzler+Martin+grading+arteriovenous+malformation+1986)
+- **Supplementary grade** — Spetzler RF, Ponce FA. *J Neurosurg* 2011 — supplementary AVM grading. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Spetzler+Ponce+supplementary+grading+arteriovenous+malformation+2011)
+- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

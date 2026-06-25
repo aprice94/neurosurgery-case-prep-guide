@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=stereotactic+brain+biopsy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=stereotactic+brain+biopsy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=stereotactic+brain+biopsy+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=stereotactic+brain+biopsy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=stereotactic+brain+biopsy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=stereotactic+brain+biopsy)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Yield & risk** — Hall WA. *Cancer* 1998 — diagnostic yield and complications of stereotactic brain biopsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hall+stereotactic+brain+biopsy+diagnostic+yield+complications+1998+Cancer)
+- **Molecular era** — Tissue adequacy for integrated WHO CNS5 molecular diagnosis guides target selection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=stereotactic+biopsy+molecular+diagnosis+glioma+WHO+classification+adequacy)
+- **Guidelines:** [NCCN CNS](https://www.nccn.org/guidelines/category_1) · [CNS](https://www.cns.org/guidelines)
 
 ![Ventricular system & deep structures (stereotactic targets)](../../figures/anatomy/ventricles_gray734.png)
 

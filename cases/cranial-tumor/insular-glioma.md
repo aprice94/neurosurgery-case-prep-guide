@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=insular+glioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=insular+glioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=insular+glioma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=insular+glioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=insular+glioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=insular+glioma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Insular glioma** — Sanai N, Polley MY, Berger MS. *J Neurosurg* 2010 — surgical outcomes/safety of insular gliomas. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sanai+insular+glioma+resection+outcome+2010+J+Neurosurg)
+- **Intraop mapping (meta)** — De Witt Hamer PC et al. *J Clin Oncol* 2012 — stimulation mapping improves outcomes. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=De+Witt+Hamer+intraoperative+stimulation+mapping+glioma+meta-analysis+2012)
+- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

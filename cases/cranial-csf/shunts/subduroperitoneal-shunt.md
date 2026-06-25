@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=subdural+hygroma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=subdural+hygroma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=subdural+hygroma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=subdural+hygroma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=subdural+hygroma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=subdural+hygroma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
+- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
 
 ![Ventricular / subdural compartments (shunt)](../../../figures/anatomy/ventricles_gray734.png)
 

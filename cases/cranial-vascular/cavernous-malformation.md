@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cerebral+cavernous+malformation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cerebral+cavernous+malformation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cerebral+cavernous+malformation+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cerebral+cavernous+malformation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cerebral+cavernous+malformation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cerebral+cavernous+malformation)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Natural history** — Al-Shahi Salman R et al. *Lancet Neurol* 2012 — prospective hemorrhage risk of cerebral cavernous malformations. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Al-Shahi+Salman+cerebral+cavernous+malformations+prospective+2012+Lancet+Neurology)
+- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
 
 ![Arteries of the base of the brain (vascular context)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 

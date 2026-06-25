@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=spinal+metastasis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=spinal+metastasis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=spinal+metastasis+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+metastasis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=spinal+metastasis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=spinal+metastasis)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Patchell (cord compression)** — Patchell RA et al. *Lancet* 2005 — decompressive surgery + RT for metastatic epidural compression. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+decompressive+surgery+metastatic+epidural+spinal+cord+compression+2005+Lancet)
+- **SINS** — Fisher CG et al. *Spine* 2010 — spinal instability neoplastic score. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fisher+spinal+instability+neoplastic+score+SINS+2010)
+- **NOMS** — Laufer I et al. *Oncologist* 2013 — NOMS decision framework. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Laufer+NOMS+framework+spinal+metastases+2013+Oncologist)
+- **Guidelines:** [NASS / SSO](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
 
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 

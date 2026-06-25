@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=malignant+MCA+infarction+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=malignant+MCA+infarction+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=malignant+MCA+infarction+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=malignant+MCA+infarction+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=malignant+MCA+infarction+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=malignant+MCA+infarction)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Pooled DECIMAL/DESTINY/HAMLET** — Vahedi K et al. *Lancet Neurol* 2007 — hemicraniectomy in malignant MCA infarction. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vahedi+DECIMAL+DESTINY+HAMLET+decompressive+surgery+malignant+middle+cerebral+artery+2007)
+- **DESTINY II** — Jüttler E et al. *NEJM* 2014 — hemicraniectomy in patients >60 y. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Juttler+DESTINY+II+hemicraniectomy+older+patients+2014+NEJM)
+- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 
 **Operative technique & approach**

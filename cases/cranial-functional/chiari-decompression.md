@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=chiari+i+malformation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=chiari+i+malformation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=chiari+i+malformation+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=chiari+i+malformation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=chiari+i+malformation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=chiari+i+malformation)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Temporal lobe RCT** — Wiebe S et al. *NEJM* 2001 — surgery vs medical therapy for temporal lobe epilepsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebe+randomized+trial+surgery+temporal+lobe+epilepsy+2001+NEJM)
+- **ERSET** — Engel J et al. *JAMA* 2012 — early surgical therapy for drug-resistant TLE. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Engel+early+surgery+mesial+temporal+lobe+epilepsy+ERSET+2012+JAMA)
+- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Midline suboccipital craniotomy](../approaches/midline-suboccipital-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

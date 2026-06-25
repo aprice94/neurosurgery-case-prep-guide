@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=carpal+tunnel+syndrome+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=carpal+tunnel+syndrome+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=carpal+tunnel+syndrome+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=carpal+tunnel+syndrome+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=carpal+tunnel+syndrome+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=carpal+tunnel+syndrome)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **CTS guideline** — AAOS Clinical Practice Guideline 2016 — management of carpal tunnel syndrome. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=AAOS+clinical+practice+guideline+carpal+tunnel+syndrome+2016)
+- **Open vs endoscopic CTR** — Sayegh ET, Strauch RJ. *Clin Orthop Relat Res* 2015 — meta-analysis of release techniques. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sayegh+Strauch+open+endoscopic+carpal+tunnel+release+meta-analysis+2015)
+- **Cubital tunnel** — Bartels RHMA et al. *Neurosurgery* 2005 — simple decompression vs anterior transposition. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bartels+simple+decompression+anterior+transposition+ulnar+nerve+cubital+tunnel+2005)
+- **Guidelines:** [AAOS Clinical Practice Guidelines](https://www.aaos.org/quality/quality-programs/)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=carpal%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carpal+tunnel+release) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Brachial plexus & upper-limb nerves (median nerve to the hand)](../../figures/peripheral/brachial-plexus_gray808.png)

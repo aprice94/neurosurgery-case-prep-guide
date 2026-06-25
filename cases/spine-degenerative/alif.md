@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=lumbar+degenerative+disc+disease+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=lumbar+degenerative+disc+disease+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=lumbar+degenerative+disc+disease+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=lumbar+degenerative+disc+disease+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=lumbar+degenerative+disc+disease+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=lumbar+degenerative+disc+disease)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
+- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
+- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20degenerative%20disc%20disease&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — lumbosacral spine](../../figures/spine/vertebral-column_gray111.png)

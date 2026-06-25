@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cranioplasty+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cranioplasty+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cranioplasty+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cranioplasty+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cranioplasty+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cranioplasty)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Surgical TBI guidelines** — Bullock MR et al. *Neurosurgery* 2006 — surgical management of acute SDH/EDH/contusion. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bullock+surgical+management+traumatic+acute+subdural+epidural+2006+Neurosurgery)
+- **BTF guidelines** — Carney N et al. *Neurosurgery* 2017 — Brain Trauma Foundation, 4th ed. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carney+Brain+Trauma+Foundation+guidelines+severe+TBI+2017)
+- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
 
 **Operative technique & approach**

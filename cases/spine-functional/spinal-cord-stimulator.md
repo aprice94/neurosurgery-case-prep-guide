@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=spinal+cord+stimulator+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=spinal+cord+stimulator+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=spinal+cord+stimulator+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+cord+stimulator+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=spinal+cord+stimulator+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=spinal+cord+stimulator)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SDR meta-analysis** — McLaughlin J et al. *Dev Med Child Neurol* 2002 — selective dorsal rhizotomy for spasticity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=McLaughlin+selective+dorsal+rhizotomy+spasticity+meta-analysis+2002)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20cord%20stimulator&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+cord+stimulator+implantation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (dorsal columns — stimulation target)](../../figures/spine/spinal-cord-cross-section_gray664.png)

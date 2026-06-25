@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=syringomyelia+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=syringomyelia+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=syringomyelia+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=syringomyelia+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=syringomyelia+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=syringomyelia)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=syringomyelia&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=syringomyelia+treatment) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (central canal — syrinx cavity)](../../figures/spine/spinal-cord-cross-section_gray664.png)

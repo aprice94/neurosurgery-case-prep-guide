@@ -12,7 +12,12 @@ The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the t
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=petroclival+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=petroclival+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=petroclival+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=petroclival+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=petroclival+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=petroclival)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
+- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
+- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas — Subtemporal](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy) · [Radiopaedia — petroclival](https://radiopaedia.org/search?q=petroclival&scope=all) · [PubMed Central — subtemporal / Kawase](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+petrosectomy+kawase+approach)
 
 ![Interior base of skull — middle cranial fossa floor, foramen ovale/spinosum, petrous apex](../../figures/anatomy/skull-base-interior_gray193.png)

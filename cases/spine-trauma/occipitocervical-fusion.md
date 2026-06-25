@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=craniovertebral+junction+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=craniovertebral+junction+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=craniovertebral+junction+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=craniovertebral+junction+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=craniovertebral+junction+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=craniovertebral+junction)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
+- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
+- **Guidelines:** [AOSpine / NASS](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
 
 > 🧭 **Operative approach:** [Far-lateral / craniocervical approach](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

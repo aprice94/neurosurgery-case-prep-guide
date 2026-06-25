@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=mechanical+thrombectomy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=mechanical+thrombectomy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=mechanical+thrombectomy+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=mechanical+thrombectomy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=mechanical+thrombectomy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=mechanical+thrombectomy)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — coiling vs clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
+- **Flow diversion (PUFS)** — Becske T et al. *Radiology* 2013 — Pipeline embolization for uncoilable/failed aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Becske+Pipeline+embolization+device+PUFS+aneurysm+2013+Radiology)
+- **Thrombectomy (HERMES)** — Goyal M et al. *Lancet* 2016 — pooled endovascular thrombectomy for large-vessel stroke. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goyal+HERMES+endovascular+thrombectomy+stroke+2016+Lancet)
+- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [SNIS](https://www.snisonline.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=mechanical%20thrombectomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=mechanical+thrombectomy+large+vessel+occlusion) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — circle of Willis (LVO sites: ICA, M1, basilar)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

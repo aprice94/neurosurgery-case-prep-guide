@@ -12,7 +12,12 @@ The petrosal (presigmoid) approaches drill **through the petrous temporal bone**
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=petroclival+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=petroclival+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=petroclival+meningioma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=petroclival+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=petroclival+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=petroclival+meningioma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
+- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
+- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas — petrosectomy](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy) · [Radiopaedia — petroclival meningioma](https://radiopaedia.org/search?q=petroclival%20meningioma&scope=all) · [PubMed Central — combined petrosal](https://www.ncbi.nlm.nih.gov/pmc/?term=combined+petrosal+approach)
 
 ![Interior base of skull — petrous temporal bone, internal acoustic meatus, clivus, jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)

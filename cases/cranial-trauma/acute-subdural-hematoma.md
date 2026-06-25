@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=acute+subdural+haematoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=acute+subdural+haematoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=acute+subdural+haematoma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=acute+subdural+haematoma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=acute+subdural+haematoma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=acute+subdural+haematoma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Surgical TBI guidelines** — Bullock MR et al. *Neurosurgery* 2006 — surgical management of acute SDH/EDH/contusion. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bullock+surgical+management+traumatic+acute+subdural+epidural+2006+Neurosurgery)
+- **BTF guidelines** — Carney N et al. *Neurosurgery* 2017 — Brain Trauma Foundation, 4th ed. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carney+Brain+Trauma+Foundation+guidelines+severe+TBI+2017)
+- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
 
 ![Interior skull base / calvarium (subdural space)](../../figures/anatomy/skull-base-interior_gray193.png)
 

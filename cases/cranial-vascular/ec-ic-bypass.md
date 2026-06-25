@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=moyamoya+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=moyamoya+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=moyamoya+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=moyamoya+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=moyamoya+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=moyamoya)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **EC/IC Bypass Study** — *NEJM* 1985 — extracranial–intracranial bypass for atherosclerotic disease (negative). [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=EC+IC+bypass+study+extracranial+intracranial+1985+NEJM)
+- **COSS** — Powers WJ et al. *JAMA* 2011 — Carotid Occlusion Surgery Study (bypass for symptomatic occlusion). [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Powers+Carotid+Occlusion+Surgery+Study+COSS+2011+JAMA)
+- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

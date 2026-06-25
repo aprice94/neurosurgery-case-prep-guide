@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=pituitary+adenoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=pituitary+adenoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=pituitary+adenoma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=pituitary+adenoma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=pituitary+adenoma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=pituitary+adenoma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Endoscopic vs microscopic** — Endoscopic transsphenoidal outcomes — meta-analyses of GTR/CSF leak. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=endoscopic+versus+microscopic+transsphenoidal+pituitary+adenoma+meta-analysis)
+- **Nonfunctioning adenoma** — Endocrine Society / Pituitary Society management guidance. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=nonfunctioning+pituitary+adenoma+guideline+management+Endocrine+Society)
+- **Cushing disease** — Nieman LK et al. *JCEM* 2015 — treatment of Cushing's syndrome guideline. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Nieman+treatment+Cushing+syndrome+Endocrine+Society+guideline+2015)
+- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Endoscopic endonasal approach](../approaches/endoscopic-endonasal-approach.md) — detailed corridor setup, step-by-step technique & figures
 

@@ -12,7 +12,11 @@ The posterior thoracolumbar approach is the **universal posterior corridor to th
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=thoracolumbar+fracture+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=thoracolumbar+fracture+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=thoracolumbar+fracture+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=thoracolumbar+fracture+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=thoracolumbar+fracture+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=thoracolumbar+fracture)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
+- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [AO Surgery Reference — posterior thoracolumbar](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — pedicle screws](https://radiopaedia.org/search?q=pedicle%20screw&scope=all) · [PubMed Central — Wiltse approach](https://www.ncbi.nlm.nih.gov/pmc/?term=wiltse+paraspinal+approach)
 
 ![Vertebral column — thoracolumbar spine (posterior elements & pedicles)](../../figures/spine/vertebral-column_gray111.png)

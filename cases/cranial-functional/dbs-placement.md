@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=deep+brain+stimulation+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=deep+brain+stimulation+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=deep+brain+stimulation+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=deep+brain+stimulation+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=deep+brain+stimulation+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=deep+brain+stimulation)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **DBS vs medical** — Deuschl G et al. *NEJM* 2006 — STN-DBS vs best medical therapy in PD. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Deuschl+deep+brain+stimulation+Parkinson+disease+2006+NEJM)
+- **EARLYSTIM** — Schuepbach WMM et al. *NEJM* 2013 — DBS in earlier disease with motor complications. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Schuepbach+EARLYSTIM+deep+brain+stimulation+Parkinson+2013+NEJM)
+- **CSP-468** — Weaver FM et al. *JAMA* 2009 — DBS vs medical therapy, randomized. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Weaver+deep+brain+stimulation+Parkinson+randomized+2009+JAMA)
+- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
 
 ![Ventricular system & deep nuclei (DBS target relations)](../../figures/anatomy/ventricles_gray734.png)
 

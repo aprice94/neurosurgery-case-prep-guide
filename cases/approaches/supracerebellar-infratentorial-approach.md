@@ -12,7 +12,13 @@ The supracerebellar infratentorial approach is the **primary corridor to the pin
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=pineal+region+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=pineal+region+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=pineal+region+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=pineal+region+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=pineal+region+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=pineal+region)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Patchell I** — Patchell RA et al. *NEJM* 1990 — surgery + WBRT for single brain metastasis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+surgery+single+brain+metastasis+1990+NEJM)
+- **Patchell II** — Patchell RA et al. *JAMA* 1998 — postoperative WBRT after resection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+postoperative+radiotherapy+resected+brain+metastasis+1998+JAMA)
+- **N0574** — Brown PD et al. *JAMA* 2016 — SRS alone vs SRS + WBRT. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
+- **Postop cavity SRS** — Mahajan A et al. *Lancet Oncol* 2017 — postoperative SRS to the resection cavity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mahajan+postoperative+stereotactic+radiosurgery+resection+cavity+2017+Lancet+Oncology)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 
 ![Ventricular system — pineal region & third ventricle (supracerebellar-infratentorial target)](../../figures/anatomy/ventricles_gray734.png)
 

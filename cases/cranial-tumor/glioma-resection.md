@@ -11,7 +11,13 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=high+grade+glioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=high+grade+glioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=high+grade+glioma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=high+grade+glioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=high+grade+glioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=high+grade+glioma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Stupp protocol** — Stupp R et al. *NEJM* 2005 — radiotherapy plus temozolomide for glioblastoma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stupp+radiotherapy+temozolomide+glioblastoma+2005+NEJM)
+- **5-ALA (FGS)** — Stummer W et al. *Lancet Oncol* 2006 — fluorescence-guided resection improves completeness. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stummer+5-aminolevulinic+acid+fluorescence+guided+resection+glioma+2006+Lancet+Oncology)
+- **Extent of resection** — Sanai N et al. *J Neurosurg* 2011 — EOR threshold and survival in GBM. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sanai+Berger+extent+of+resection+glioblastoma+survival+2011+J+Neurosurg)
+- **TTFields** — Stupp R et al. *JAMA* 2017 — tumor-treating fields with maintenance temozolomide. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stupp+tumor+treating+fields+glioblastoma+2017+JAMA)
+- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

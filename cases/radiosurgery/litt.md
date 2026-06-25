@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=laser+interstitial+thermal+therapy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=laser+interstitial+thermal+therapy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=laser+interstitial+thermal+therapy+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=laser+interstitial+thermal+therapy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=laser+interstitial+thermal+therapy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=laser+interstitial+thermal+therapy)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Brain mets (N0574)** — Brown PD et al. *JAMA* 2016 — SRS alone vs SRS + WBRT. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
+- **Trigeminal SRS** — Kondziolka D et al. *NEJM* 1996 — Gamma Knife radiosurgery for trigeminal neuralgia. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kondziolka+stereotactic+radiosurgery+trigeminal+neuralgia+1996)
+- **AVM/VS SRS** — Pollock BE et al. — long-term radiosurgery outcomes (AVM, vestibular schwannoma). [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pollock+stereotactic+radiosurgery+arteriovenous+malformation+vestibular+schwannoma+outcome)
+- **Guidelines:** [ASTRO guidelines](https://www.astro.org/Patient-Care-and-Practice/Clinical-Practice-Statements) · [CNS](https://www.cns.org/guidelines)
 
 ![Deep cerebral targets (LITT ablation sites)](../../figures/anatomy/ventricles_gray734.png)
 

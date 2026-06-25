@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=decompressive+craniectomy+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=decompressive+craniectomy+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=decompressive+craniectomy+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=decompressive+craniectomy+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=decompressive+craniectomy+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=decompressive+craniectomy)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **DECRA** — Cooper DJ et al. *NEJM* 2011 — early decompressive craniectomy in diffuse TBI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Cooper+DECRA+decompressive+craniectomy+traumatic+brain+injury+2011+NEJM)
+- **RESCUEicp** — Hutchinson PJ et al. *NEJM* 2016 — craniectomy for refractory intracranial hypertension. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hutchinson+RESCUEicp+decompressive+craniectomy+intracranial+pressure+2016+NEJM)
+- **BTF guidelines** — Carney N et al. *Neurosurgery* 2017 — Brain Trauma Foundation, 4th ed. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carney+Brain+Trauma+Foundation+guidelines+severe+TBI+2017)
+- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
 
 **Operative technique**

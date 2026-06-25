@@ -12,7 +12,11 @@ The retrosigmoid craniotomy is the **workhorse posterolateral corridor to the ce
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cerebellopontine+angle+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cerebellopontine+angle+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cerebellopontine+angle+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cerebellopontine+angle+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cerebellopontine+angle+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cerebellopontine+angle)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SRS vs microsurgery** — Pollock BE et al. *Neurosurgery* 2006 — prospective comparison for small/medium VS. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pollock+vestibular+schwannoma+radiosurgery+resection+prospective+2006)
+- **Natural history** — Stangerup SE et al. — growth and hearing in conservatively managed VS. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stangerup+vestibular+schwannoma+natural+history+hearing+growth)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas — Retromastoid](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy) · [Rhoton CPA anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+cerebellopontine+angle+anatomy) · [Radiopaedia — CPA](https://radiopaedia.org/search?q=cerebellopontine%20angle&scope=all) · [PubMed Central — retrosigmoid](https://www.ncbi.nlm.nih.gov/pmc/?term=retrosigmoid+approach+surgical+anatomy)
 
 ![Interior base of skull — posterior fossa, internal acoustic meatus, jugular foramen, foramen magnum](../../figures/anatomy/skull-base-interior_gray193.png)

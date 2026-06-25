@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=craniosynostosis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=craniosynostosis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=craniosynostosis+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=craniosynostosis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=craniosynostosis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=craniosynostosis)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
+- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
 
 ![Cranial base & vault — skull/suture morphology](../../figures/anatomy/skull-base-interior_gray193.png)
 

@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=mesial+temporal+sclerosis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=mesial+temporal+sclerosis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=mesial+temporal+sclerosis+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=mesial+temporal+sclerosis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=mesial+temporal+sclerosis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=mesial+temporal+sclerosis)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Temporal lobe RCT** — Wiebe S et al. *NEJM* 2001 — surgery vs medical therapy for temporal lobe epilepsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebe+randomized+trial+surgery+temporal+lobe+epilepsy+2001+NEJM)
+- **ERSET** — Engel J et al. *JAMA* 2012 — early surgical therapy for drug-resistant TLE. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Engel+early+surgery+mesial+temporal+lobe+epilepsy+ERSET+2012+JAMA)
+- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=mesial%20temporal%20sclerosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+temporal+lobectomy+amygdalohippocampectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — temporal horn (amygdala/hippocampus region)](../../figures/anatomy/ventricles_gray734.png)

@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=cervical+foraminal+stenosis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=cervical+foraminal+stenosis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=cervical+foraminal+stenosis+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+foraminal+stenosis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=cervical+foraminal+stenosis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=cervical+foraminal+stenosis)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **AOSpine CSM** — Fehlings MG et al. — guidelines & prospective outcomes for cervical spondylotic myelopathy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+AOSpine+cervical+spondylotic+myelopathy+guideline+outcomes)
+- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
 
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 

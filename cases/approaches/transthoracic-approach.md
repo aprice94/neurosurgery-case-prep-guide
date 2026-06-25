@@ -12,7 +12,12 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=thoracic+spine+tumour+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=thoracic+spine+tumour+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=thoracic+spine+tumour+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=thoracic+spine+tumour+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=thoracic+spine+tumour+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=thoracic+spine+tumour)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Patchell (cord compression)** — Patchell RA et al. *Lancet* 2005 — decompressive surgery + RT for metastatic epidural compression. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+decompressive+surgery+metastatic+epidural+spinal+cord+compression+2005+Lancet)
+- **SINS** — Fisher CG et al. *Spine* 2010 — spinal instability neoplastic score. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fisher+spinal+instability+neoplastic+score+SINS+2010)
+- **NOMS** — Laufer I et al. *Oncologist* 2013 — NOMS decision framework. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Laufer+NOMS+framework+spinal+metastases+2013+Oncologist)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [AO Surgery Reference — anterior thoracic](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracic disc/tumour](https://radiopaedia.org/search?q=thoracic%20disc%20calcified&scope=all) · [PubMed Central — transthoracic corpectomy](https://www.ncbi.nlm.nih.gov/pmc/?term=transthoracic+thoracic+corpectomy)
 
 ![Vertebral column — thoracic spine (anterior vertebral bodies, rib heads)](../../figures/spine/vertebral-column_gray111.png)

@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=lumbar+spinal+stenosis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=lumbar+spinal+stenosis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=lumbar+spinal+stenosis+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=lumbar+spinal+stenosis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=lumbar+spinal+stenosis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=lumbar+spinal+stenosis)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SPORT (stenosis)** — Weinstein JN et al. *NEJM* 2008 — surgery vs nonoperative for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Weinstein+SPORT+lumbar+spinal+stenosis+2008+NEJM)
+- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
 
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 

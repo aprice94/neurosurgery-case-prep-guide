@@ -4,7 +4,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=Anterior+Interhemispheric+Approach+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=Anterior+Interhemispheric+Approach+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=Anterior+Interhemispheric+Approach+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=Anterior+Interhemispheric+Approach+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=Anterior+Interhemispheric+Approach+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=Anterior+Interhemispheric+Approach)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
+- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
+- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 
 ![Ventricular system — lateral & third ventricles (interhemispheric / transcallosal corridor)](../../figures/anatomy/ventricles_gray734.png)
 

@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=spinal+cord+cavernoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=spinal+cord+cavernoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=spinal+cord+cavernoma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+cord+cavernoma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=spinal+cord+cavernoma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=spinal+cord+cavernoma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Patchell (cord compression)** — Patchell RA et al. *Lancet* 2005 — decompressive surgery + RT for metastatic epidural compression. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+decompressive+surgery+metastatic+epidural+spinal+cord+compression+2005+Lancet)
+- **SINS** — Fisher CG et al. *Spine* 2010 — spinal instability neoplastic score. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fisher+spinal+instability+neoplastic+score+SINS+2010)
+- **NOMS** — Laufer I et al. *Oncologist* 2013 — NOMS decision framework. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Laufer+NOMS+framework+spinal+metastases+2013+Oncologist)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20cord%20cavernoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intramedullary+spinal+cavernous+malformation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (dorsal myelotomy / surface-presenting lesion)](../../figures/spine/spinal-cord-cross-section_gray664.png)

@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=vestibular+schwannoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=vestibular+schwannoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=vestibular+schwannoma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=vestibular+schwannoma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=vestibular+schwannoma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=vestibular+schwannoma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SRS vs microsurgery** — Pollock BE et al. *Neurosurgery* 2006 — prospective comparison for small/medium VS. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pollock+vestibular+schwannoma+radiosurgery+resection+prospective+2006)
+- **Natural history** — Stangerup SE et al. — growth and hearing in conservatively managed VS. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stangerup+vestibular+schwannoma+natural+history+hearing+growth)
+- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
 
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

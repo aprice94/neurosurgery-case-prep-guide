@@ -11,7 +11,10 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=encephalocele+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=encephalocele+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=encephalocele+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=encephalocele+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=encephalocele+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=encephalocele)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
+- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=encephalocele&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=encephalocele+repair) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Interior base of skull (skull-base / cribriform defect site)](../../figures/anatomy/skull-base-interior_gray193.png)

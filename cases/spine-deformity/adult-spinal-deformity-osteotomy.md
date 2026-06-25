@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=adult+spinal+deformity+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=adult+spinal+deformity+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=adult+spinal+deformity+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=adult+spinal+deformity+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=adult+spinal+deformity+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=adult+spinal+deformity)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
+- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=adult%20spinal%20deformity&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pedicle+subtraction+osteotomy+deformity) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — sagittal alignment / osteotomy levels](../../figures/spine/vertebral-column_gray111.png)

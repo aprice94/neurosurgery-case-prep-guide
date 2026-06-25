@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=peripheral+nerve+sheath+tumour+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=peripheral+nerve+sheath+tumour+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=peripheral+nerve+sheath+tumour+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=peripheral+nerve+sheath+tumour+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=peripheral+nerve+sheath+tumour+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=peripheral+nerve+sheath+tumour)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **CTS guideline** — AAOS Clinical Practice Guideline 2016 — management of carpal tunnel syndrome. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=AAOS+clinical+practice+guideline+carpal+tunnel+syndrome+2016)
+- **Open vs endoscopic CTR** — Sayegh ET, Strauch RJ. *Clin Orthop Relat Res* 2015 — meta-analysis of release techniques. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sayegh+Strauch+open+endoscopic+carpal+tunnel+release+meta-analysis+2015)
+- **Cubital tunnel** — Bartels RHMA et al. *Neurosurgery* 2005 — simple decompression vs anterior transposition. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bartels+simple+decompression+anterior+transposition+ulnar+nerve+cubital+tunnel+2005)
+- **Guidelines:** [AAOS Clinical Practice Guidelines](https://www.aaos.org/quality/quality-programs/)
 
 ![Peripheral nerve plexus (nerve sheath tumor context)](../../figures/peripheral/brachial-plexus_gray808.png)
 

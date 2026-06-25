@@ -11,7 +11,12 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=chronic+subdural+haematoma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=chronic+subdural+haematoma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=chronic+subdural+haematoma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=chronic+subdural+haematoma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=chronic+subdural+haematoma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=chronic+subdural+haematoma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Dex-CSDH** — Hutchinson PJ et al. *NEJM* 2020 — dexamethasone in chronic subdural hematoma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hutchinson+dexamethasone+chronic+subdural+hematoma+Dex-CSDH+2020+NEJM)
+- **Subdural drains** — Santarius T et al. *Lancet* 2009 — drains reduce recurrence after burr-hole drainage. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Santarius+subdural+drain+recurrence+chronic+subdural+hematoma+2009+Lancet)
+- **MMA embolization** — EMBOLISE & MAGIC-MT *NEJM* 2024 — middle meningeal artery embolization as adjunct. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=middle+meningeal+artery+embolization+chronic+subdural+hematoma+2024+NEJM)
+- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
 
 ![Interior skull base / calvarium (subdural space)](../../figures/anatomy/skull-base-interior_gray193.png)
 

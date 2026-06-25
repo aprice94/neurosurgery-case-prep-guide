@@ -12,7 +12,12 @@ The far-lateral craniotomy is the **posterolateral corridor to the ventral and v
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=foramen+magnum+meningioma+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=foramen+magnum+meningioma+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=foramen+magnum+meningioma+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=foramen+magnum+meningioma+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=foramen+magnum+meningioma+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=foramen+magnum+meningioma)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
+- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
+- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas — Transcondylar](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach) · [Rhoton CCJ anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+far+lateral+transcondylar+anatomy) · [Radiopaedia — foramen magnum](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central — far lateral](https://www.ncbi.nlm.nih.gov/pmc/?term=far+lateral+transcondylar+approach)
 
 ![Interior base of skull — foramen magnum, occipital condyle, hypoglossal canal, jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)

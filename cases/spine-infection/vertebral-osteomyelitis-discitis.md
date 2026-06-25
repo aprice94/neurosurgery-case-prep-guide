@@ -11,7 +11,11 @@
 
 **🎥 Operative videos:** [YouTube](https://www.youtube.com/results?search_query=spondylodiscitis+surgery) · [Neurosurgical Atlas](https://www.google.com/search?q=spondylodiscitis+site:neurosurgicalatlas.com) · [JNS Neurosurgical Focus: Video](https://www.google.com/search?q=spondylodiscitis+%22neurosurgical+focus%22+video)
 
-**📑 Evidence & guidelines:** [PubMed reviews](https://pubmed.ncbi.nlm.nih.gov/?term=spondylodiscitis+review) · [Guidelines — CNS / AANS](https://www.google.com/search?q=spondylodiscitis+guidelines+CNS+OR+AANS) · [Google Scholar](https://scholar.google.com/scholar?q=spondylodiscitis)
+**📑 Key evidence — landmark trials & guidelines**
+
+- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
+- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
+- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spondylodiscitis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+osteomyelitis+discitis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — disc & vertebral body (infection crosses the disc)](../../figures/spine/vertebral-column_gray111.png)
