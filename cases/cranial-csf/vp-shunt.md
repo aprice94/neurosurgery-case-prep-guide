@@ -9,13 +9,17 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=ventriculoperitoneal+shunt+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
+**🎥 Operative videos & resources**
+- **Technique searches:** [VP shunt placement on YouTube](https://www.youtube.com/results?search_query=ventriculoperitoneal+shunt+placement+neurosurgery) · [laparoscopic VP shunt distal catheter placement](https://www.youtube.com/results?search_query=laparoscopic+ventriculoperitoneal+shunt+distal+catheter+placement)
+- **Imaging review:** [Radiopaedia — VP shunt](https://radiopaedia.org/search?q=ventriculoperitoneal%20shunt&scope=all) · [Radiopaedia — hydrocephalus](https://radiopaedia.org/search?q=hydrocephalus&scope=all)
+- **Open-access anatomy/technique:** [PubMed Central — ventriculoperitoneal shunt](https://www.ncbi.nlm.nih.gov/pmc/?term=ventriculoperitoneal+shunt+technique)
 
 **📑 Key evidence — landmark trials & guidelines**
 
 - **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=ventriculoperitoneal%20shunt&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ventriculoperitoneal+shunt) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+- **SINPHONI / NPH evidence** — prospective idiopathic normal-pressure hydrocephalus cohorts; useful for counseling gait/cognition response and selection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=SINPHONI+idiopathic+normal+pressure+hydrocephalus+shunt)
+- **Shunt infection prevention** — HCRN protocols and perioperative bundles. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hydrocephalus+Clinical+Research+Network+shunt+infection+prevention+protocol)
+- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS pediatric hydrocephalus guidelines](https://www.cns.org/guidelines) · [AANS patient hydrocephalus resources](https://www.aans.org/patients/conditions-treatments/hydrocephalus/)
 
 ![Ventricular system — lateral ventricle / frontal horn (proximal catheter target)](../../figures/anatomy/ventricles_gray734.png)
 

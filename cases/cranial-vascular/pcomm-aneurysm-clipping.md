@@ -9,7 +9,10 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=posterior+communicating+artery+aneurysm+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
+**🎥 Operative videos & resources**
+- **Atlas / approach:** [Pterional craniotomy chapter](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy) — sylvian split, opticocarotid triangle, proximal ICA control
+- **Video searches:** [PComA aneurysm clipping on YouTube](https://www.youtube.com/results?search_query=posterior+communicating+artery+aneurysm+clipping) · [PComA aneurysm surgery on Neurosurgical Atlas](https://www.neurosurgicalatlas.com)
+- **Angio anatomy:** [neuroangio.org](https://neuroangio.org) — ICA/PComA/anterior choroidal relationships and fetal PCA variants
 
 **📑 Key evidence — landmark trials & guidelines**
 
@@ -20,17 +23,7 @@
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
-> External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
-
-**Operative technique & approach**
-- [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"posterior communicating artery aneurysm"* (operative illustrations + HD video)
-- [neuroangio.org](https://neuroangio.org) — ICA / PComA / anterior choroidal anatomy
-
-**Imaging**
-- [Radiopaedia — PComA aneurysm](https://radiopaedia.org/search?q=posterior%20communicating%20artery%20aneurysm&scope=all)
-
-**Open-access figures**
-- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=posterior+communicating+artery+aneurysm)
+> Copyrighted operative figures/videos are linked, not copied. Embedded figures below are public-domain or CC-BY; see [media-sources.md](../../resources/media-sources.md) and [CREDITS.md](../../figures/CREDITS.md).
 
 **Anatomy (public domain)**
 

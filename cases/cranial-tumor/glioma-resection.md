@@ -9,7 +9,10 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=high+grade+glioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
+**🎥 Operative videos & resources**
+- **Atlas / approach:** [Pterional craniotomy chapter](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy) for frontal/temporal/insular corridors; use approach-specific pages for midline, posterior fossa, or awake mapping cases
+- **Video searches:** [glioma resection awake mapping on YouTube](https://www.youtube.com/results?search_query=glioma+resection+awake+mapping+operative+video) · [5-ALA glioma resection](https://www.youtube.com/results?search_query=5-ALA+glioma+resection+operative+video)
+- **Open-access figures:** [PubMed Central — glioma resection awake mapping](https://www.ncbi.nlm.nih.gov/pmc/?term=glioma+resection+awake+mapping) · [Radiopaedia — high-grade glioma](https://radiopaedia.org/search?q=high%20grade%20glioma&scope=all)
 
 **📑 Key evidence — landmark trials & guidelines**
 
@@ -34,7 +37,6 @@
 
 *Intraoperative 5-ALA fluorescence guiding resection of tumor bulk and infiltrative margin. Source: Maragkos et al., Front Neurol 2021;12:644804, Fig 2. CC BY 4.0.*
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=high%20grade%20glioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=glioma+resection+awake+mapping) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
 

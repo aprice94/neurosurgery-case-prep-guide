@@ -9,7 +9,10 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=pituitary+adenoma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
+**🎥 Operative videos & resources**
+- **Atlas / approach:** [Endoscopic endonasal approach chapter](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/endoscopic-endonasal-approach) — nasal phase, sphenoidotomy, sellar opening, tumor removal, and reconstruction
+- **Video searches:** [endoscopic transsphenoidal pituitary adenoma on YouTube](https://www.youtube.com/results?search_query=endoscopic+transsphenoidal+pituitary+adenoma+surgery) · [pituitary adenoma endonasal resection operative video](https://www.youtube.com/results?search_query=pituitary+adenoma+endonasal+resection+operative+video)
+- **Imaging/endocrine review:** [Radiopaedia — pituitary adenoma](https://radiopaedia.org/search?q=pituitary%20adenoma&scope=all) · [PubMed Central — endoscopic transsphenoidal pituitary adenoma](https://www.ncbi.nlm.nih.gov/pmc/?term=endoscopic+transsphenoidal+pituitary+adenoma)
 
 **📑 Key evidence — landmark trials & guidelines**
 
@@ -20,10 +23,7 @@
 
 > 🧭 **Operative approach:** [Endoscopic endonasal approach](../approaches/endoscopic-endonasal-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-> Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
-- **Technique/approach:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"endoscopic transsphenoidal pituitary adenoma"*
-- **Imaging:** [Radiopaedia — pituitary adenoma](https://radiopaedia.org/search?q=pituitary%20adenoma&scope=all)
-- **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=endoscopic+transsphenoidal+pituitary+adenoma)
+> Copyrighted operative figures/videos are linked, not copied. Embedded figures below are public-domain or CC-BY; see [media-sources.md](../../resources/media-sources.md) and [CREDITS.md](../../figures/CREDITS.md).
 
 ![Median sagittal section — pituitary gland & sella turcica](../../figures/anatomy/pituitary-sella_gray1180.png)
 

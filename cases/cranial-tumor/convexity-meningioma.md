@@ -9,7 +9,10 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=convexity+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
+**🎥 Operative videos & resources**
+- **Atlas / technique:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *convexity meningioma* and review dural devascularization, circumferential dissection, cortical vein preservation, and Simpson-grade strategy
+- **Video searches:** [convexity meningioma resection on YouTube](https://www.youtube.com/results?search_query=convexity+meningioma+resection+microsurgery) · [meningioma craniotomy operative video](https://www.youtube.com/results?search_query=meningioma+craniotomy+operative+video)
+- **Imaging review:** [Radiopaedia — convexity meningioma](https://radiopaedia.org/search?q=convexity%20meningioma&scope=all) · [PubMed Central — convexity meningioma resection](https://www.ncbi.nlm.nih.gov/pmc/?term=convexity+meningioma+resection)
 
 **📑 Key evidence — landmark trials & guidelines**
 
@@ -22,7 +25,6 @@
 
 *Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=convexity%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=convexity+meningioma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
 

@@ -9,7 +9,10 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebral+arteriovenous+malformation+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
+**🎥 Operative videos & resources**
+- **Atlas / technique:** [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *brain AVM resection* and review circumferential dissection, feeder control, and draining-vein preservation
+- **Video searches:** [brain AVM resection on YouTube](https://www.youtube.com/results?search_query=brain+AVM+resection+microsurgery) · [Spetzler-Martin AVM surgery](https://www.youtube.com/results?search_query=Spetzler+Martin+AVM+resection)
+- **Angio anatomy:** [neuroangio.org](https://neuroangio.org) — feeders, nidus, early draining veins, associated aneurysms, and embolization strategy
 
 **📑 Key evidence — landmark trials & guidelines**
 
@@ -20,17 +23,7 @@
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
-> External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
-
-**Operative technique & approach**
-- [The Neurosurgical Atlas](https://www.neurosurgicalatlas.com) — search *"arteriovenous malformation resection"* (illustrations + HD video)
-- [neuroangio.org](https://neuroangio.org) — brain AVM angioarchitecture & feeders
-
-**Imaging**
-- [Radiopaedia — cerebral AVM](https://radiopaedia.org/search?q=cerebral%20arteriovenous%20malformation&scope=all)
-
-**Open-access figures**
-- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brain+arteriovenous+malformation+resection)
+> Copyrighted operative figures/videos are linked, not copied. Embedded figures below are public-domain or CC-BY; see [media-sources.md](../../resources/media-sources.md) and [CREDITS.md](../../figures/CREDITS.md).
 
 **Anatomy (public domain)**
 

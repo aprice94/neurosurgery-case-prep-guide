@@ -9,14 +9,17 @@
 
 ## Figures, Imaging & Video
 
-**🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=external+ventricular+drain+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
+**🎥 Operative videos & resources**
+- **Technique searches:** [EVD placement / ventriculostomy on YouTube](https://www.youtube.com/results?search_query=external+ventricular+drain+placement+Kocher%27s+point) · [freehand ventriculostomy technique](https://www.youtube.com/results?search_query=freehand+ventriculostomy+Kocher%27s+point)
+- **Imaging review:** [Radiopaedia — EVD](https://radiopaedia.org/search?q=external%20ventricular%20drain&scope=all) · [Radiopaedia — hydrocephalus](https://radiopaedia.org/search?q=hydrocephalus&scope=all)
+- **Open-access anatomy/technique:** [PubMed Central — EVD Kocher point](https://www.ncbi.nlm.nih.gov/pmc/?term=external+ventricular+drain+Kocher+point+ventriculostomy)
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **ETV Success Score** — Kulkarni AV et al. *J Pediatr* 2009 — predicting ETV success. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kulkarni+ETV+success+score+endoscopic+third+ventriculostomy+2009)
-- **ETV/CPC** — Warf BC — ETV with choroid plexus cauterization in infants. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Warf+endoscopic+third+ventriculostomy+choroid+plexus+cauterization+infant)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=external%20ventricular%20drain&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=external+ventricular+drain+Kocher) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+- **CLEAR III** — Hanley DF et al. *Lancet* 2017 — intraventricular alteplase via EVD for IVH; know the survival/function tradeoffs and clot-clearance endpoints. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hanley+CLEAR+III+intraventricular+alteplase+2017+Lancet)
+- **Severe TBI guidelines** — Brain Trauma Foundation 4th ed. — indications for ICP monitoring/CSF drainage in severe TBI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brain+Trauma+Foundation+severe+TBI+guidelines+2017+ICP+monitoring)
+- **Ventriculitis prevention/management** — IDSA healthcare-associated ventriculitis/meningitis guideline. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=IDSA+healthcare-associated+ventriculitis+meningitis+guidelines+2017)
+- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
 
 ![Ventricular system — lateral & third ventricles, foramen of Monro (the EVD target)](../../figures/anatomy/ventricles_gray734.png)
 
