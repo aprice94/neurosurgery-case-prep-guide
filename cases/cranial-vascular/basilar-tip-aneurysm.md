@@ -37,6 +37,10 @@
 
 *Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
 
+![Basilar-apex aneurysm via orbitozygomatic approach — posterior perforators visualized (A), dissected off the dome and excluded from the clip construct (B), with post-clip ICG confirming perforator preservation (C)](../../figures/cranial-vascular/basilar-clip-icg-perforators_fsurg-2019-34.jpg)
+
+*Basilar-tip clipping: P1/basilar-apex perforators dissected off the dome; post-clip ICG videoangiography confirms perforator preservation. Source: Norat et al., Front Surg 2019;6:34, Fig 3. CC BY 4.0.*
+
 ---
 
 ## History of Present Illness

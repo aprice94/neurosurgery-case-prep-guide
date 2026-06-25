@@ -74,5 +74,7 @@ Open-licensed images stored in this repository, with source and attribution. **O
 | `cranial-tumor/glioma-5ala-fluorescence_fneur-644804.jpg` | Intraoperative 5-ALA (PpIX) fluorescence — tumor bulk & infiltrative margin | Maragkos GA et al. *Front Neurol* 2021;12:644804 | CC BY 4.0 |
 | `cranial-tumor/vs-mri-ct-fusion-classification_fsurg-889402.jpg` | Vestibular schwannoma — MRI/CT fusion (tumor, sigmoid sinus, labyrinth); LSL classification | Jia X et al. *Front Surg* 2022;9:889402 ([doi:10.3389/fsurg.2022.889402](https://doi.org/10.3389/fsurg.2022.889402)) | CC BY 4.0 |
 | `cranial-tumor/vs-iac-microscopic-facialnerve_fsurg-889402.jpg` | Intraoperative microscopic IAC view — intrameatal tumor / fundus interface | Jia X et al. *Front Surg* 2022;9:889402 | CC BY 4.0 |
+| `cranial-vascular/mca-clip-icg_fsurg-2019-34.jpg` | MCA aneurysm — dissected/clipped neck + intraop ICG showing exclusion & branch patency | Norat P et al. *Front Surg* 2019;6:34 ([doi:10.3389/fsurg.2019.00034](https://doi.org/10.3389/fsurg.2019.00034)) | CC BY 4.0 |
+| `cranial-vascular/basilar-clip-icg-perforators_fsurg-2019-34.jpg` | Basilar-apex aneurysm (OZ) — perforator dissection + post-clip ICG perforator preservation | Norat P et al. *Front Surg* 2019;6:34 | CC BY 4.0 |
 
 *Images resized for repo size; originals at the linked source. CC-BY figures are used with attribution per license. If any license is later found incompatible, the file is removed and replaced with a link.*

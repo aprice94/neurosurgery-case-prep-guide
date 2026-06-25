@@ -41,6 +41,10 @@
 
 *Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
 
+![MCA aneurysm — dissected neck with parent vessel and two branches (A), clipped neck (B), and intraoperative ICG videoangiography confirming aneurysm exclusion with branch patency (C)](../../figures/cranial-vascular/mca-clip-icg_fsurg-2019-34.jpg)
+
+*Intraoperative clipping with ICG videoangiography confirming complete aneurysm exclusion and preserved MCA branch flow. Source: Norat et al., Front Surg 2019;6:34, Fig 2. CC BY 4.0.*
+
 ---
 
 ## History of Present Illness
