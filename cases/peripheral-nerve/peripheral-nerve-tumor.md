@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Peripheral Nerve Sheath Tumor Resection (Schwannoma / Neurofibroma)"
+description: "Case-prep guide for Peripheral Nerve Sheath Tumor Resection (Schwannoma / Neurofibroma) with workup, operative planning, note template, figures, and references."
+category: "Peripheral Nerve"
+tags:
+  - "peripheral"
+  - "nerve"
+  - "tumor"
+  - "schwannoma"
+---
+
 # Case Prep: Peripheral Nerve Sheath Tumor Resection (Schwannoma / Neurofibroma)
 
 ---
@@ -13,10 +24,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **CTS guideline** — AAOS Clinical Practice Guideline 2016 — management of carpal tunnel syndrome. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=AAOS+clinical+practice+guideline+carpal+tunnel+syndrome+2016)
-- **Open vs endoscopic CTR** — Sayegh ET, Strauch RJ. *Clin Orthop Relat Res* 2015 — meta-analysis of release techniques. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sayegh+Strauch+open+endoscopic+carpal+tunnel+release+meta-analysis+2015)
-- **Cubital tunnel** — Bartels RHMA et al. *Neurosurgery* 2005 — simple decompression vs anterior transposition. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bartels+simple+decompression+anterior+transposition+ulnar+nerve+cubital+tunnel+2005)
-- **Guidelines:** [AAOS Clinical Practice Guidelines](https://www.aaos.org/quality/quality-programs/)
+- **Benign PNST surgery** — schwannoma/neurofibroma resection outcomes and nerve-preservation strategy. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=peripheral+nerve+sheath+tumor+schwannoma+resection+outcomes+nerve+preservation)
+- **NF1 / malignant transformation** — risk stratification and malignant peripheral nerve sheath tumor literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=malignant+peripheral+nerve+sheath+tumor+NF1+guideline)
 
 ![Peripheral nerve plexus (nerve sheath tumor context)](../../figures/peripheral/brachial-plexus_gray808.png)
 

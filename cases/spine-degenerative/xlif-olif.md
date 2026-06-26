@@ -1,3 +1,17 @@
+---
+title: "Case Prep: Lateral Lumbar Interbody Fusion (XLIF / OLIF)"
+description: "Case-prep guide for Lateral Lumbar Interbody Fusion (XLIF / OLIF) with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "lateral"
+  - "lumbar"
+  - "fusion"
+  - "xlif"
+  - "olif"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Lateral Lumbar Interbody Fusion (XLIF / OLIF)
 
 ---

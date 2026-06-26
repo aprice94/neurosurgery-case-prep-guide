@@ -1,3 +1,11 @@
+---
+title: "Case Prep: Craniosynostosis Repair"
+description: "Case-prep guide for Craniosynostosis Repair with workup, operative planning, note template, figures, and references."
+category: "Pediatric"
+tags:
+  - "pediatric"
+---
+
 # Case Prep: Craniosynostosis Repair
 
 ---
@@ -13,8 +21,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
-- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
+- **Craniosynostosis guideline** — evaluation and treatment principles for single-suture and syndromic craniosynostosis. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniosynostosis+guideline+surgical+treatment)
+- **Open vs endoscopic repair** — age selection, helmet therapy, transfusion, and reoperation literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniosynostosis+endoscopic+versus+open+repair+outcomes+helmet)
 
 ![Cranial base & vault — skull/suture morphology](../../figures/anatomy/skull-base-interior_gray193.png)
 

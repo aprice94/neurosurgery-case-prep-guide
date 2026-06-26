@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Cerebral Metastasis Resection"
+description: "Case-prep guide for Cerebral Metastasis Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "cranial"
+  - "tumor"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Cerebral Metastasis Resection
 
 ---
@@ -13,11 +24,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Patchell I** — Patchell RA et al. *NEJM* 1990 — surgery + WBRT for single brain metastasis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+surgery+single+brain+metastasis+1990+NEJM)
-- **Patchell II** — Patchell RA et al. *JAMA* 1998 — postoperative WBRT after resection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+postoperative+radiotherapy+resected+brain+metastasis+1998+JAMA)
-- **N0574** — Brown PD et al. *JAMA* 2016 — SRS alone vs SRS + WBRT. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
-- **Postop cavity SRS** — Mahajan A et al. *Lancet Oncol* 2017 — postoperative SRS to the resection cavity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mahajan+postoperative+stereotactic+radiosurgery+resection+cavity+2017+Lancet+Oncology)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Patchell I** — surgery + WBRT for selected single brain metastasis. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+surgery+single+brain+metastasis+1990+NEJM)
+- **N0574 / postop SRS era** — SRS alone vs WBRT and cavity-SRS literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
 
 ![Ventricular system & cerebral lobes (metastasis localization)](../../figures/anatomy/ventricles_gray734.png)
 

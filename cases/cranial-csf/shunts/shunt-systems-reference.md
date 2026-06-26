@@ -1,3 +1,14 @@
+---
+title: "Reference: CSF Shunt Systems, Types, and Valves"
+description: "Reference guide for CSF Shunt Systems, Types, and Valves with practical setup, selection points, and source links."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "csf"
+  - "shunt"
+  - "cranial"
+  - "hydrocephalus"
+---
+
 # Reference: CSF Shunt Systems, Types, and Valves
 
 ## Figures, Imaging & Video

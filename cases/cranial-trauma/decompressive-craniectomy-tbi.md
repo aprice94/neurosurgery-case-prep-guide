@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Decompressive Craniectomy for Traumatic Brain Injury"
+description: "Case-prep guide for Decompressive Craniectomy for Traumatic Brain Injury with workup, operative planning, note template, figures, and references."
+category: "Cranial Trauma"
+tags:
+  - "craniectomy"
+  - "cranial"
+  - "trauma"
+---
+
 # Case Prep: Decompressive Craniectomy for Traumatic Brain Injury
 
 ---

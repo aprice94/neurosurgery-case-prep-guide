@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Intradural Extramedullary Spinal Tumor Resection (Meningioma / Schwannoma)"
+description: "Case-prep guide for Intradural Extramedullary Spinal Tumor Resection (Meningioma / Schwannoma) with workup, operative planning, note template, figures, and references."
+category: "Spine Tumor"
+tags:
+  - "tumor"
+  - "meningioma"
+  - "schwannoma"
+  - "spine"
+---
+
 # Case Prep: Intradural Extramedullary Spinal Tumor Resection (Meningioma / Schwannoma)
 
 ---
@@ -13,10 +24,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Patchell (cord compression)** — Patchell RA et al. *Lancet* 2005 — decompressive surgery + RT for metastatic epidural compression. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+decompressive+surgery+metastatic+epidural+spinal+cord+compression+2005+Lancet)
-- **SINS** — Fisher CG et al. *Spine* 2010 — spinal instability neoplastic score. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fisher+spinal+instability+neoplastic+score+SINS+2010)
-- **NOMS** — Laufer I et al. *Oncologist* 2013 — NOMS decision framework. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Laufer+NOMS+framework+spinal+metastases+2013+Oncologist)
-- **Guidelines:** [NASS / SSO](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
+- **Simpson grade** — resection extent and recurrence framework for meningioma surgery. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
+- **EANO guideline** — diagnosis, observation, surgery, radiation, and surveillance for meningiomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
 
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 

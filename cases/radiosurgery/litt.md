@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Laser Interstitial Thermal Therapy (LITT)"
+description: "Case-prep guide for Laser Interstitial Thermal Therapy (LITT) with workup, operative planning, note template, figures, and references."
+category: "Radiosurgery / Ablative"
+tags:
+  - "litt"
+  - "radiosurgery"
+  - "ablative"
+---
+
 # Case Prep: Laser Interstitial Thermal Therapy (LITT)
 
 ---

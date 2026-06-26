@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Frameless (Navigation-Based) Stereotactic Brain Biopsy"
+description: "Case-prep guide for Frameless (Navigation-Based) Stereotactic Brain Biopsy with workup, operative planning, note template, figures, and references."
+category: "Brain Biopsy"
+tags:
+  - "brain"
+  - "biopsy"
+---
+
 # Case Prep: Frameless (Navigation-Based) Stereotactic Brain Biopsy
 
 ---

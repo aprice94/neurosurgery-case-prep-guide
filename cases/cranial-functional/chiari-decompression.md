@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Chiari I Malformation Decompression"
+description: "Case-prep guide for Chiari I Malformation Decompression with workup, operative planning, note template, figures, and references."
+category: "Cranial Functional"
+tags:
+  - "cranial"
+  - "functional"
+---
+
 # Case Prep: Chiari I Malformation Decompression
 
 ---

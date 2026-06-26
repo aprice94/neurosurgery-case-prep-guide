@@ -1,3 +1,16 @@
+---
+title: "Operative Approach: Posterior Cervical Approach (Laminectomy / Laminoplasty / Foraminotomy / Lateral Mass Fixation)"
+description: "Operative approach guide for Posterior Cervical Approach (Laminectomy / Laminoplasty / Foraminotomy / Lateral Mass Fixation) with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "cervical"
+  - "laminectomy"
+  - "lateral"
+  - "approaches"
+---
+
 # Operative Approach: Posterior Cervical Approach (Laminectomy / Laminoplasty / Foraminotomy / Lateral Mass Fixation)
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).

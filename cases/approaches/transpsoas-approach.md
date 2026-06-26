@@ -1,3 +1,19 @@
+---
+title: "Operative Approach: Transpsoas Lateral Approach (LLIF / XLIF / OLIF) to the Lumbar Spine"
+description: "Operative approach guide for Transpsoas Lateral Approach (LLIF / XLIF / OLIF) to the Lumbar Spine with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "transpsoas"
+  - "lateral"
+  - "xlif"
+  - "olif"
+  - "lumbar"
+  - "spine"
+  - "approaches"
+---
+
 # Operative Approach: Transpsoas Lateral Approach (LLIF / XLIF / OLIF) to the Lumbar Spine
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).

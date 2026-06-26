@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Pineal Region Tumor Resection"
+description: "Case-prep guide for Pineal Region Tumor Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "pineal"
+  - "tumor"
+  - "cranial"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Pineal Region Tumor Resection
 
 ---
@@ -13,10 +25,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Pineal region tumors** — diagnosis, germ-cell markers, biopsy/resection, and CSF diversion literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=pineal+region+tumor+management+guideline+neurosurgery)
+- **Supracerebellar infratentorial approach** — microsurgical anatomy and outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=supracerebellar+infratentorial+approach+pineal+region+anatomy+outcomes)
 
 > 🧭 **Operative approach:** [Supracerebellar-infratentorial approach](../approaches/supracerebellar-infratentorial-approach.md) — detailed corridor setup, step-by-step technique & figures
 

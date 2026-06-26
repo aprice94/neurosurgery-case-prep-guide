@@ -1,3 +1,13 @@
+---
+title: "Operative Approach: Bifrontal (Subfrontal) Craniotomy"
+description: "Operative approach guide for Bifrontal (Subfrontal) Craniotomy with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "approaches"
+---
+
 # Operative Approach: Bifrontal (Subfrontal) Craniotomy
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
@@ -14,10 +24,9 @@ The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor 
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **Approach anatomy** — operative anatomy and corridor-selection literature for this skull-base route. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=+Bifrontal+(Subfrontal)+Craniotomy+surgical+anatomy+approach)
+- **Meningioma guideline anchor** — EANO guidance for skull-base meningioma decision-making when applicable. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
+
 [Neurosurgical Atlas — olfactory groove / anterior base](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma) · [Radiopaedia — olfactory groove meningioma](https://radiopaedia.org/search?q=olfactory%20groove%20meningioma&scope=all) · [PubMed Central — bifrontal craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=bifrontal+craniotomy+anterior+skull+base)
 
 ![Interior base of skull — anterior cranial fossa floor: crista galli, cribriform plate, planum, orbital roofs](../../figures/anatomy/skull-base-interior_gray193.png)

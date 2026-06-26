@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Stereo-EEG (SEEG) Depth Electrode Placement"
+description: "Case-prep guide for Stereo-EEG (SEEG) Depth Electrode Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial Functional"
+tags:
+  - "seeg"
+  - "cranial"
+  - "functional"
+---
+
 # Case Prep: Stereo-EEG (SEEG) Depth Electrode Placement
 
 ---

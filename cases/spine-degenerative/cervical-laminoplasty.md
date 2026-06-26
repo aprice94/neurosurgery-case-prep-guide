@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Cervical Laminoplasty"
+description: "Case-prep guide for Cervical Laminoplasty with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "cervical"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Cervical Laminoplasty
 
 ---

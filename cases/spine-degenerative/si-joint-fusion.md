@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Sacroiliac (SI) Joint Fusion"
+description: "Case-prep guide for Sacroiliac (SI) Joint Fusion with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "fusion"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Sacroiliac (SI) Joint Fusion
 
 ---
@@ -13,9 +23,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
+- **SI fusion trials** — minimally invasive SI joint fusion vs nonsurgical management outcomes. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=sacroiliac+joint+fusion+randomized+trial+nonsurgical+management)
+- **Diagnosis standards** — provocative testing and diagnostic block literature for SI-mediated pain. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=sacroiliac+joint+pain+diagnosis+provocative+tests+diagnostic+block+guideline)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=sacroiliac%20joint&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=sacroiliac+joint+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — sacrum / sacroiliac region](../../figures/spine/vertebral-column_gray111.png)

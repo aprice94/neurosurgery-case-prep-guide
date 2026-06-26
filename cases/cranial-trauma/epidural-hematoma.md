@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Epidural Hematoma (EDH) Evacuation"
+description: "Case-prep guide for Epidural Hematoma (EDH) Evacuation with workup, operative planning, note template, figures, and references."
+category: "Cranial Trauma"
+tags:
+  - "epidural"
+  - "cranial"
+  - "trauma"
+---
+
 # Case Prep: Epidural Hematoma (EDH) Evacuation
 
 ---

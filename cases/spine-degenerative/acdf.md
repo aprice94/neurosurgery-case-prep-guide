@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Anterior Cervical Discectomy and Fusion (ACDF)"
+description: "Case-prep guide for Anterior Cervical Discectomy and Fusion (ACDF) with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "cervical"
+  - "discectomy"
+  - "fusion"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Anterior Cervical Discectomy and Fusion (ACDF)
 
 ---

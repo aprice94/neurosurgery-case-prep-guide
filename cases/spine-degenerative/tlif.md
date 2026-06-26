@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Transforaminal Lumbar Interbody Fusion (TLIF)"
+description: "Case-prep guide for Transforaminal Lumbar Interbody Fusion (TLIF) with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "lumbar"
+  - "fusion"
+  - "tlif"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Transforaminal Lumbar Interbody Fusion (TLIF)
 
 ---

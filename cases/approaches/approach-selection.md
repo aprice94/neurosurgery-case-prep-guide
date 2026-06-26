@@ -1,6 +1,11 @@
 ---
-title: Approach Selection — Decision Aids
-description: Practical corridor-selection tables and quick triage prompts for common cranial, skull-base, CSF, and spine cases.
+title: "Approach Selection — Decision Aids"
+description: "Practical corridor-selection tables and quick triage prompts for common cranial, skull-base, CSF, and spine cases."
+category: "Operative Approaches"
+tags:
+  - "approach"
+  - "approaches"
+  - "operative"
 ---
 
 # Approach Selection — Decision Aids

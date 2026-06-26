@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Vestibular Schwannoma (Acoustic Neuroma) Resection"
+description: "Case-prep guide for Vestibular Schwannoma (Acoustic Neuroma) Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "schwannoma"
+  - "cranial"
+  - "tumor"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Vestibular Schwannoma (Acoustic Neuroma) Resection
 
 ---
@@ -17,9 +29,8 @@ More operative video: [YouTube ▸](https://www.youtube.com/results?search_query
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **SRS vs microsurgery** — Pollock BE et al. *Neurosurgery* 2006 — prospective comparison for small/medium VS. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pollock+vestibular+schwannoma+radiosurgery+resection+prospective+2006)
-- **Natural history** — Stangerup SE et al. — growth and hearing in conservatively managed VS. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stangerup+vestibular+schwannoma+natural+history+hearing+growth)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **CNS vestibular schwannoma guidelines** — observation, microsurgery, SRS, hearing/facial-nerve outcomes. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Congress+Neurological+Surgeons+vestibular+schwannoma+guideline)
+- **Natural history / hearing** — growth and hearing preservation data for observed vestibular schwannomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=vestibular+schwannoma+natural+history+hearing+growth)
 
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

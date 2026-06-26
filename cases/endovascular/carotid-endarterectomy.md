@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Carotid Endarterectomy (CEA)"
+description: "Case-prep guide for Carotid Endarterectomy (CEA) with workup, operative planning, note template, figures, and references."
+category: "Endovascular"
+tags:
+  - "carotid"
+  - "endovascular"
+---
+
 # Case Prep: Carotid Endarterectomy (CEA)
 
 ---
@@ -13,10 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — coiling vs clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **Flow diversion (PUFS)** — Becske T et al. *Radiology* 2013 — Pipeline embolization for uncoilable/failed aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Becske+Pipeline+embolization+device+PUFS+aneurysm+2013+Radiology)
-- **Thrombectomy (HERMES)** — Goyal M et al. *Lancet* 2016 — pooled endovascular thrombectomy for large-vessel stroke. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goyal+HERMES+endovascular+thrombectomy+stroke+2016+Lancet)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [SNIS](https://www.snisonline.org)
+- **NASCET / symptomatic stenosis** — benefit of carotid endarterectomy for selected symptomatic carotid stenosis. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NASCET+symptomatic+carotid+stenosis+endarterectomy+trial)
+- **CREST** — carotid stenting vs endarterectomy outcomes and perioperative risk trade-offs. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=CREST+carotid+revascularization+endarterectomy+stenting+trial)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+endarterectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — ICA / circle of Willis (collateral supply)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

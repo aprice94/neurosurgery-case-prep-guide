@@ -1,3 +1,12 @@
+---
+title: "Case Prep: AVM / dAVF Endovascular Embolization"
+description: "Case-prep guide for AVM / dAVF Endovascular Embolization with workup, operative planning, note template, figures, and references."
+category: "Endovascular"
+tags:
+  - "avm"
+  - "endovascular"
+---
+
 # Case Prep: AVM / dAVF Endovascular Embolization
 
 ---
@@ -13,10 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — coiling vs clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **Flow diversion (PUFS)** — Becske T et al. *Radiology* 2013 — Pipeline embolization for uncoilable/failed aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Becske+Pipeline+embolization+device+PUFS+aneurysm+2013+Radiology)
-- **Thrombectomy (HERMES)** — Goyal M et al. *Lancet* 2016 — pooled endovascular thrombectomy for large-vessel stroke. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goyal+HERMES+endovascular+thrombectomy+stroke+2016+Lancet)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [SNIS](https://www.snisonline.org)
+- **ARUBA context** — unruptured AVM intervention vs medical management; interpret carefully for surgical/endovascular selection. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=ARUBA+unruptured+brain+arteriovenous+malformation+Lancet+2014)
+- **Embolization strategy** — staged embolization, adjunctive preoperative embolization, and complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=brain+arteriovenous+malformation+embolization+preoperative+adjunct+complications)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20AVM%20embolization&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brain+AVM+dural+fistula+embolization) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — cerebral vascular anatomy](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

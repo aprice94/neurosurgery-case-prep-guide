@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Odontoid (Type II) Fracture Fixation"
+description: "Case-prep guide for Odontoid (Type II) Fracture Fixation with workup, operative planning, note template, figures, and references."
+category: "Spine Trauma"
+tags:
+  - "spine"
+  - "trauma"
+---
+
 # Case Prep: Odontoid (Type II) Fracture Fixation
 
 ---
@@ -13,9 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
-- **Guidelines:** [AOSpine / NASS](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
+- **Odontoid fracture management** — anterior screw vs posterior C1-2 fusion selection and elderly outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=type+II+odontoid+fracture+anterior+screw+posterior+fusion+elderly+outcomes)
+- **Upper cervical trauma guidance** — immobilization, nonunion, and operative indication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=odontoid+fracture+guideline+nonunion+operative+indications)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=odontoid%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=odontoid+fracture+screw+fixation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — upper cervical (C1–C2 / odontoid)](../../figures/spine/vertebral-column_gray111.png)

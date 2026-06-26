@@ -1,3 +1,12 @@
+---
+title: "Reference: Brain Biopsy Systems and Stereotactic Platforms"
+description: "Reference guide for Brain Biopsy Systems and Stereotactic Platforms with practical setup, selection points, and source links."
+category: "Brain Biopsy"
+tags:
+  - "brain"
+  - "biopsy"
+---
+
 # Reference: Brain Biopsy Systems and Stereotactic Platforms
 
 ## Figures, Imaging & Video

@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Acute Subdural Hematoma (aSDH) — Craniotomy/Craniectomy for Evacuation"
+description: "Case-prep guide for Acute Subdural Hematoma (aSDH) — Craniotomy/Craniectomy for Evacuation with workup, operative planning, note template, figures, and references."
+category: "Cranial Trauma"
+tags:
+  - "subdural"
+  - "craniectomy"
+  - "cranial"
+  - "trauma"
+---
+
 # Case Prep: Acute Subdural Hematoma (aSDH) — Craniotomy/Craniectomy for Evacuation
 
 ---

@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Arteriovenous Malformation (AVM) Resection"
+description: "Case-prep guide for Arteriovenous Malformation (AVM) Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Vascular"
+tags:
+  - "avm"
+  - "cranial"
+  - "vascular"
+---
+
 # Case Prep: Arteriovenous Malformation (AVM) Resection
 
 ---

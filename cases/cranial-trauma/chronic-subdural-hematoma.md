@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Chronic Subdural Hematoma (cSDH) Evacuation"
+description: "Case-prep guide for Chronic Subdural Hematoma (cSDH) Evacuation with workup, operative planning, note template, figures, and references."
+category: "Cranial Trauma"
+tags:
+  - "subdural"
+  - "cranial"
+  - "trauma"
+---
+
 # Case Prep: Chronic Subdural Hematoma (cSDH) Evacuation
 
 ---

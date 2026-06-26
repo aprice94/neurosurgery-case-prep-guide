@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Ventriculoperitoneal (VP) Shunt Placement"
+description: "Case-prep guide for Ventriculoperitoneal (VP) Shunt Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "shunt"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: Ventriculoperitoneal (VP) Shunt Placement
 
 ---

@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Awake Craniotomy with Cortical/Subcortical Mapping"
+description: "Case-prep guide for Awake Craniotomy with Cortical/Subcortical Mapping with workup, operative planning, note template, figures, and references."
+category: "Cranial Functional"
+tags:
+  - "awake"
+  - "cranial"
+  - "functional"
+---
+
 # Case Prep: Awake Craniotomy with Cortical/Subcortical Mapping
 
 ---

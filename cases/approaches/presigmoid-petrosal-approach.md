@@ -1,3 +1,13 @@
+---
+title: "Operative Approach: Presigmoid / Petrosal Approaches (Retrolabyrinthine · Translabyrinthine · Transcochlear · Combined Petrosal)"
+description: "Operative approach guide for Presigmoid / Petrosal Approaches (Retrolabyrinthine · Translabyrinthine · Transcochlear · Combined Petrosal) with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "approaches"
+---
+
 # Operative Approach: Presigmoid / Petrosal Approaches (Retrolabyrinthine · Translabyrinthine · Transcochlear · Combined Petrosal)
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
@@ -14,10 +24,9 @@ The petrosal (presigmoid) approaches drill **through the petrous temporal bone**
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **Approach anatomy** — operative anatomy and corridor-selection literature for this skull-base route. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=+Presigmoid+/+Petrosal+Approaches+(Retrolabyrinthine+·+Translabyrinthine+·+Transcochlear+·+Combined+Petrosal)+surgical+anatomy+approach)
+- **Meningioma guideline anchor** — EANO guidance for skull-base meningioma decision-making when applicable. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
+
 [Neurosurgical Atlas — petrosectomy](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy) · [Radiopaedia — petroclival meningioma](https://radiopaedia.org/search?q=petroclival%20meningioma&scope=all) · [PubMed Central — combined petrosal](https://www.ncbi.nlm.nih.gov/pmc/?term=combined+petrosal+approach)
 
 ![Interior base of skull — petrous temporal bone, internal acoustic meatus, clivus, jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)

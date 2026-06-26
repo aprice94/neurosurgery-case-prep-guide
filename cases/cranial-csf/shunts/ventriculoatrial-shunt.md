@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Ventriculoatrial (VA) Shunt Placement"
+description: "Case-prep guide for Ventriculoatrial (VA) Shunt Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "shunt"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: Ventriculoatrial (VA) Shunt Placement
 
 ---

@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Anterior Communicating Artery (AComA) Aneurysm Clipping"
+description: "Case-prep guide for Anterior Communicating Artery (AComA) Aneurysm Clipping with workup, operative planning, note template, figures, and references."
+category: "Cranial Vascular"
+tags:
+  - "aneurysm"
+  - "cranial"
+  - "vascular"
+---
+
 # Case Prep: Anterior Communicating Artery (AComA) Aneurysm Clipping
 
 ---

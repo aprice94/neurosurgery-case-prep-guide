@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Pediatric Endoscopic Third Ventriculostomy (± Choroid Plexus Cauterization)"
+description: "Case-prep guide for Pediatric Endoscopic Third Ventriculostomy (± Choroid Plexus Cauterization) with workup, operative planning, note template, figures, and references."
+category: "Pediatric"
+tags:
+  - "pediatric"
+  - "etv"
+---
+
 # Case Prep: Pediatric Endoscopic Third Ventriculostomy (± Choroid Plexus Cauterization)
 
 ---
@@ -13,9 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **ETV Success Score** — Kulkarni AV et al. *J Pediatr* 2009 — predicting ETV success. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kulkarni+ETV+success+score+endoscopic+third+ventriculostomy+2009)
-- **ETV/CPC** — Warf BC — ETV with choroid plexus cauterization in infants. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Warf+endoscopic+third+ventriculostomy+choroid+plexus+cauterization+infant)
-- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
+- **ETV Success Score** — predicting pediatric ETV success by age, etiology, and shunt history. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kulkarni+ETV+Success+Score+2009)
+- **ETV/CPC** — infant hydrocephalus literature for choroid plexus cauterization adjunct. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Warf+endoscopic+third+ventriculostomy+choroid+plexus+cauterization+infant)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=third%20ventriculostomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pediatric+endoscopic+third+ventriculostomy+choroid+plexus) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — third ventricle floor & foramen of Monro](../../figures/anatomy/ventricles_gray734.png)

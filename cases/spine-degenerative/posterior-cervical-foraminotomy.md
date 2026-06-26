@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Posterior Cervical Foraminotomy (Laminoforaminotomy)"
+description: "Case-prep guide for Posterior Cervical Foraminotomy (Laminoforaminotomy) with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "cervical"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Posterior Cervical Foraminotomy (Laminoforaminotomy)
 
 ---

@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Cavernous Malformation (Cavernoma) Resection"
+description: "Case-prep guide for Cavernous Malformation (Cavernoma) Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Vascular"
+tags:
+  - "cranial"
+  - "vascular"
+---
+
 # Case Prep: Cavernous Malformation (Cavernoma) Resection
 
 ---

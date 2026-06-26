@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Cervical Disc Arthroplasty (Cervical Disc Replacement)"
+description: "Case-prep guide for Cervical Disc Arthroplasty (Cervical Disc Replacement) with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "cervical"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Cervical Disc Arthroplasty (Cervical Disc Replacement)
 
 ---
@@ -13,9 +23,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
+- **Cervical arthroplasty trials** — randomized IDE and long-term adjacent-segment outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+disc+arthroplasty+randomized+trial+adjacent+segment+disease+long+term)
+- **Patient selection** — contraindications including instability, kyphosis, facet disease, and myelopathy considerations. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+disc+arthroplasty+indications+contraindications+guideline)
 
 > 🧭 **Operative approach:** [Anterior cervical (Smith-Robinson) approach](../approaches/anterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 

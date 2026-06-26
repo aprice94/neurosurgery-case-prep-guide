@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Epidermoid Tumor Resection"
+description: "Case-prep guide for Epidermoid Tumor Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "tumor"
+  - "cranial"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Epidermoid Tumor Resection
 
 ---
@@ -13,10 +24,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **CPA/intracranial epidermoid surgery** — extent of capsule removal vs cranial-nerve morbidity literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=intracranial+epidermoid+tumor+resection+capsule+cranial+nerve+outcomes)
+- **Diffusion MRI diagnosis** — imaging features and recurrence surveillance literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=intracranial+epidermoid+diffusion+weighted+imaging+recurrence)
 
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

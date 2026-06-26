@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Colloid Cyst Resection"
+description: "Case-prep guide for Colloid Cyst Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "cranial"
+  - "tumor"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Colloid Cyst Resection
 
 ---
@@ -13,10 +24,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Endoscopic vs microsurgical cyst removal** — comparative recurrence, GTR, and complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=colloid+cyst+endoscopic+microsurgical+resection+meta-analysis)
+- **Risk stratification** — natural history and Colloid Cyst Risk Score literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=colloid+cyst+risk+score+natural+history)
 
 > 🧭 **Operative approach:** [Anterior interhemispheric / transcallosal](../approaches/anterior-interhemispheric-approach.md) — detailed corridor setup, step-by-step technique & figures
 

@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Tethered Cord Release"
+description: "Case-prep guide for Tethered Cord Release with workup, operative planning, note template, figures, and references."
+category: "Spine Congenital / CSF"
+tags:
+  - "spine"
+  - "congenital"
+  - "csf"
+---
+
 # Case Prep: Tethered Cord Release
 
 ---

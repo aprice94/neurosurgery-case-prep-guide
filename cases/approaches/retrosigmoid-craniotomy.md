@@ -1,3 +1,14 @@
+---
+title: "Operative Approach: Retrosigmoid (Retromastoid) Craniotomy"
+description: "Operative approach guide for Retrosigmoid (Retromastoid) Craniotomy with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "retrosigmoid"
+  - "approaches"
+---
+
 # Operative Approach: Retrosigmoid (Retromastoid) Craniotomy
 
 > **About the figures.** Copyrighted operative figures and videos are **linked** (Neurosurgical Atlas, Rhoton collection); embedded images are **public-domain** (Gray's Anatomy) or **Creative Commons CC‑BY** (open-access cadaveric anatomy), each credited beneath the image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).

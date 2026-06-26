@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Syringomyelia — Management / Syringosubarachnoid Shunt"
+description: "Case-prep guide for Syringomyelia — Management / Syringosubarachnoid Shunt with workup, operative planning, note template, figures, and references."
+category: "Spine Congenital / CSF"
+tags:
+  - "shunt"
+  - "spine"
+  - "congenital"
+  - "csf"
+---
+
 # Case Prep: Syringomyelia — Management / Syringosubarachnoid Shunt
 
 ---

@@ -1,3 +1,16 @@
+---
+title: "Case Prep: Jugular Foramen Tumor (Glomus Jugulare / Schwannoma / Meningioma)"
+description: "Case-prep guide for Jugular Foramen Tumor (Glomus Jugulare / Schwannoma / Meningioma) with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "tumor"
+  - "schwannoma"
+  - "meningioma"
+  - "cranial"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Jugular Foramen Tumor (Glomus Jugulare / Schwannoma / Meningioma)
 
 ---
@@ -13,10 +26,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Jugular foramen tumors** — paraganglioma/schwannoma surgical approach and cranial-nerve outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=jugular+foramen+tumor+surgery+cranial+nerve+outcomes)
+- **Paraganglioma management** — observation, embolization, surgery, and radiosurgery literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=jugular+paraganglioma+management+surgery+radiosurgery+embolization)
 
 > 🧭 **Operative approach:** [Far-lateral (transcondylar) craniotomy](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

@@ -1,3 +1,14 @@
+---
+title: "Case Prep: EC-IC Bypass (STA-MCA)"
+description: "Case-prep guide for EC-IC Bypass (STA-MCA) with workup, operative planning, note template, figures, and references."
+category: "Cranial Vascular"
+tags:
+  - "bypass"
+  - "mca"
+  - "cranial"
+  - "vascular"
+---
+
 # Case Prep: EC-IC Bypass (STA-MCA)
 
 ---

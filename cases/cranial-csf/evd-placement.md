@@ -1,3 +1,14 @@
+---
+title: "Case Prep: External Ventricular Drain (EVD) Placement"
+description: "Case-prep guide for External Ventricular Drain (EVD) Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "evd"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: External Ventricular Drain (EVD) Placement
 
 ---

@@ -1,5 +1,9 @@
 ---
-title: Top 100 Neurosurgery Resources
+title: "Top 100 Neurosurgery Resources"
+description: "Curated educational resources, media sources, figure credits, and source links for the neurosurgery case-prep guide."
+category: "Resources"
+tags:
+  - "resources"
 ---
 
 # 📚 Top 100 Neurosurgery Resources

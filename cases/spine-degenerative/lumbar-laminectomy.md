@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Lumbar Laminectomy for Spinal Stenosis"
+description: "Case-prep guide for Lumbar Laminectomy for Spinal Stenosis with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "lumbar"
+  - "laminectomy"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Lumbar Laminectomy for Spinal Stenosis
 
 ---

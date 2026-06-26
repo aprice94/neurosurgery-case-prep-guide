@@ -2,4 +2,4 @@
 layout: null
 sitemap: false
 ---
-[{% assign first = true %}{% for p in site.pages %}{% if p.url contains "/cases/" and p.name != "index.md" and p.title %}{% unless first %},{% endunless %}{"t":{{ p.title | jsonify }},"u":{{ p.url | relative_url | jsonify }},"c":{{ p.path | split: "/" | slice: 1, 1 | first | replace: "-", " " | jsonify }},"x":{{ p.content | strip_html | strip_newlines | truncate: 480 | jsonify }}}{% assign first = false %}{% endif %}{% endfor %}]
+[{% assign first = true %}{% for p in site.pages %}{% if p.url contains "/cases/" and p.name != "index.md" and p.title %}{% unless first %},{% endunless %}{"t":{{ p.title | jsonify }},"u":{{ p.url | relative_url | jsonify }},"c":{{ p.category | default: "" | jsonify }},"d":{{ p.description | default: "" | jsonify }},"g":{{ p.tags | default: empty | join: " " | jsonify }},"x":{{ p.content | strip_html | strip_newlines | truncate: 650 | jsonify }}}{% assign first = false %}{% endif %}{% endfor %}]

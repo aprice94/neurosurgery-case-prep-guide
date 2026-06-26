@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Endovascular Aneurysm Treatment (Coiling / Stent-Assisted / Flow Diversion)"
+description: "Case-prep guide for Endovascular Aneurysm Treatment (Coiling / Stent-Assisted / Flow Diversion) with workup, operative planning, note template, figures, and references."
+category: "Endovascular"
+tags:
+  - "endovascular"
+  - "aneurysm"
+  - "coiling"
+---
+
 # Case Prep: Endovascular Aneurysm Treatment (Coiling / Stent-Assisted / Flow Diversion)
 
 ---
@@ -13,10 +23,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — coiling vs clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **Flow diversion (PUFS)** — Becske T et al. *Radiology* 2013 — Pipeline embolization for uncoilable/failed aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Becske+Pipeline+embolization+device+PUFS+aneurysm+2013+Radiology)
-- **Thrombectomy (HERMES)** — Goyal M et al. *Lancet* 2016 — pooled endovascular thrombectomy for large-vessel stroke. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goyal+HERMES+endovascular+thrombectomy+stroke+2016+Lancet)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [SNIS](https://www.snisonline.org)
+- **ISAT** — coiling vs clipping after aneurysmal SAH. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
+- **Flow diversion** — treatment durability and antiplatelet-risk literature for wide-neck/fusiform aneurysms. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=flow+diversion+intracranial+aneurysm+long+term+outcomes+antiplatelet)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20aneurysm%20coiling&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=endovascular+coiling+flow+diversion+aneurysm) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — circle of Willis (aneurysm sites)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

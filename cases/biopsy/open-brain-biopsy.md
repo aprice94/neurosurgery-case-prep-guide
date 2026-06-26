@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Open Brain Biopsy (Craniotomy/Burr-Hole Open Biopsy)"
+description: "Case-prep guide for Open Brain Biopsy (Craniotomy/Burr-Hole Open Biopsy) with workup, operative planning, note template, figures, and references."
+category: "Brain Biopsy"
+tags:
+  - "brain"
+  - "biopsy"
+---
+
 # Case Prep: Open Brain Biopsy (Craniotomy/Burr-Hole Open Biopsy)
 
 ---

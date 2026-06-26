@@ -1,3 +1,14 @@
+---
+title: "Operative Approach: Anterior Cervical (Smith-Robinson) Approach"
+description: "Operative approach guide for Anterior Cervical (Smith-Robinson) Approach with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "cervical"
+  - "approaches"
+---
+
 # Operative Approach: Anterior Cervical (Smith-Robinson) Approach
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).

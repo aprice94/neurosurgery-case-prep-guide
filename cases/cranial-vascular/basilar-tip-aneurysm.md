@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Basilar Apex (Tip) Aneurysm"
+description: "Case-prep guide for Basilar Apex (Tip) Aneurysm with workup, operative planning, note template, figures, and references."
+category: "Cranial Vascular"
+tags:
+  - "basilar"
+  - "aneurysm"
+  - "cranial"
+  - "vascular"
+---
+
 # Case Prep: Basilar Apex (Tip) Aneurysm
 
 ---

@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Robot-Assisted Stereotactic Brain Biopsy (ROSA / Mazor / Neuromate)"
+description: "Case-prep guide for Robot-Assisted Stereotactic Brain Biopsy (ROSA / Mazor / Neuromate) with workup, operative planning, note template, figures, and references."
+category: "Brain Biopsy"
+tags:
+  - "brain"
+  - "biopsy"
+---
+
 # Case Prep: Robot-Assisted Stereotactic Brain Biopsy (ROSA / Mazor / Neuromate)
 
 ---

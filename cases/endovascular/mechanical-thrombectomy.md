@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Mechanical Thrombectomy for Acute Ischemic Stroke (Large Vessel Occlusion)"
+description: "Case-prep guide for Mechanical Thrombectomy for Acute Ischemic Stroke (Large Vessel Occlusion) with workup, operative planning, note template, figures, and references."
+category: "Endovascular"
+tags:
+  - "thrombectomy"
+  - "stroke"
+  - "endovascular"
+---
+
 # Case Prep: Mechanical Thrombectomy for Acute Ischemic Stroke (Large Vessel Occlusion)
 
 ---
@@ -13,10 +23,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — coiling vs clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **Flow diversion (PUFS)** — Becske T et al. *Radiology* 2013 — Pipeline embolization for uncoilable/failed aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Becske+Pipeline+embolization+device+PUFS+aneurysm+2013+Radiology)
-- **Thrombectomy (HERMES)** — Goyal M et al. *Lancet* 2016 — pooled endovascular thrombectomy for large-vessel stroke. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goyal+HERMES+endovascular+thrombectomy+stroke+2016+Lancet)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [SNIS](https://www.snisonline.org)
+- **MR CLEAN / early EVT trials** — thrombectomy benefit for anterior-circulation LVO. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=MR+CLEAN+trial+mechanical+thrombectomy+large+vessel+occlusion+2015)
+- **DAWN / DEFUSE 3** — extended-window thrombectomy selection by clinical-core mismatch/perfusion imaging. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=DAWN+DEFUSE+3+trial+thrombectomy+extended+window)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=mechanical%20thrombectomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=mechanical+thrombectomy+large+vessel+occlusion) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Arteries of the base of the brain — circle of Willis (LVO sites: ICA, M1, basilar)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)

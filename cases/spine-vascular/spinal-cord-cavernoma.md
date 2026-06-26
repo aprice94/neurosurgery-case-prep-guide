@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Spinal Cord Cavernous Malformation Resection"
+description: "Case-prep guide for Spinal Cord Cavernous Malformation Resection with workup, operative planning, note template, figures, and references."
+category: "Spine Vascular"
+tags:
+  - "spine"
+  - "vascular"
+---
+
 # Case Prep: Spinal Cord Cavernous Malformation Resection
 
 ---

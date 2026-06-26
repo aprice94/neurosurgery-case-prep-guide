@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Clival Chordoma Resection"
+description: "Case-prep guide for Clival Chordoma Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "chordoma"
+  - "cranial"
+  - "tumor"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Clival Chordoma Resection
 
 ---
@@ -13,10 +25,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Chordoma consensus/guidelines** — maximal safe resection and high-dose particle/photon radiotherapy principles. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=clival+chordoma+consensus+guideline+surgery+radiotherapy)
+- **Endoscopic endonasal clival chordoma** — approach outcomes and recurrence literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=endoscopic+endonasal+clival+chordoma+outcomes)
 
 > 🧭 **Operative approach:** [Endoscopic endonasal approach](../approaches/endoscopic-endonasal-approach.md) — detailed corridor setup, step-by-step technique & figures
 

@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Pediatric Posterior Fossa Tumor Resection (Medulloblastoma / Pilocytic Astrocytoma / Ependymoma)"
+description: "Case-prep guide for Pediatric Posterior Fossa Tumor Resection (Medulloblastoma / Pilocytic Astrocytoma / Ependymoma) with workup, operative planning, note template, figures, and references."
+category: "Pediatric"
+tags:
+  - "pediatric"
+  - "tumor"
+---
+
 # Case Prep: Pediatric Posterior Fossa Tumor Resection (Medulloblastoma / Pilocytic Astrocytoma / Ependymoma)
 
 ---
@@ -13,8 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
-- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
+- **Posterior fossa tumor surgery** — safe resection, hydrocephalus, and cerebellar-mutism literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+tumor+surgery+cerebellar+mutism+hydrocephalus)
+- **Disease-specific adjuvant therapy** — medulloblastoma/ependymoma risk stratification and postoperative treatment literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+ependymoma+medulloblastoma+guideline+surgery+radiation)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=medulloblastoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pediatric+posterior+fossa+tumor+telovelar) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Ventricular system — fourth ventricle (telovelar approach target)](../../figures/anatomy/ventricles_gray734.png)

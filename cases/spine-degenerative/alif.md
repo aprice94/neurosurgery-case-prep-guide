@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Anterior Lumbar Interbody Fusion (ALIF)"
+description: "Case-prep guide for Anterior Lumbar Interbody Fusion (ALIF) with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "lumbar"
+  - "fusion"
+  - "alif"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Anterior Lumbar Interbody Fusion (ALIF)
 
 ---

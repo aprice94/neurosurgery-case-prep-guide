@@ -1,3 +1,17 @@
+---
+title: "Case Prep: Pituitary Adenoma — Endoscopic Endonasal Transsphenoidal Approach"
+description: "Case-prep guide for Pituitary Adenoma — Endoscopic Endonasal Transsphenoidal Approach with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "pituitary"
+  - "endonasal"
+  - "approach"
+  - "cranial"
+  - "tumor"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Pituitary Adenoma — Endoscopic Endonasal Transsphenoidal Approach
 
 ---
@@ -16,10 +30,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Endoscopic vs microscopic** — Endoscopic transsphenoidal outcomes — meta-analyses of GTR/CSF leak. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=endoscopic+versus+microscopic+transsphenoidal+pituitary+adenoma+meta-analysis)
-- **Nonfunctioning adenoma** — Endocrine Society / Pituitary Society management guidance. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=nonfunctioning+pituitary+adenoma+guideline+management+Endocrine+Society)
-- **Cushing disease** — Nieman LK et al. *JCEM* 2015 — treatment of Cushing's syndrome guideline. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Nieman+treatment+Cushing+syndrome+Endocrine+Society+guideline+2015)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Endoscopic vs microscopic** — meta-analyses of endoscopic transsphenoidal outcomes and CSF leak. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=endoscopic+versus+microscopic+transsphenoidal+pituitary+adenoma+meta-analysis)
+- **Endocrine guidance** — pituitary adenoma endocrine and surveillance management literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=pituitary+adenoma+clinical+practice+guideline+endocrine+society)
 
 > 🧭 **Operative approach:** [Endoscopic endonasal approach](../approaches/endoscopic-endonasal-approach.md) — detailed corridor setup, step-by-step technique & figures
 

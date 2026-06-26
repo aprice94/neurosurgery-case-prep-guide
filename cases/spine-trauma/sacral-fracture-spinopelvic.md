@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Sacral Fracture / Spinopelvic (Lumbopelvic) Fixation"
+description: "Case-prep guide for Sacral Fracture / Spinopelvic (Lumbopelvic) Fixation with workup, operative planning, note template, figures, and references."
+category: "Spine Trauma"
+tags:
+  - "spine"
+  - "trauma"
+---
+
 # Case Prep: Sacral Fracture / Spinopelvic (Lumbopelvic) Fixation
 
 ---
@@ -13,9 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
-- **Guidelines:** [AOSpine / NASS](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
+- **Spinopelvic fixation** — lumbopelvic fixation and triangular osteosynthesis outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=sacral+fracture+spinopelvic+fixation+triangular+osteosynthesis+outcomes)
+- **Sacral neurologic injury** — decompression and fixation indications in unstable sacral fractures. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=sacral+fracture+neurologic+injury+decompression+fixation)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=sacral%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=sacral+fracture+spinopelvic+fixation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — sacrum / lumbosacral junction](../../figures/spine/vertebral-column_gray111.png)

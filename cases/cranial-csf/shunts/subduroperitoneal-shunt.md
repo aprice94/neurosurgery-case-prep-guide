@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Subduroperitoneal (Subdural-Peritoneal) Shunt Placement"
+description: "Case-prep guide for Subduroperitoneal (Subdural-Peritoneal) Shunt Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "subdural"
+  - "shunt"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: Subduroperitoneal (Subdural-Peritoneal) Shunt Placement
 
 ---

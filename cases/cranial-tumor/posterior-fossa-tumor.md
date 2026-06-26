@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Posterior Fossa Tumor Resection (Cerebellar — Metastasis / Hemangioblastoma / Medulloblastoma / Ependymoma)"
+description: "Case-prep guide for Posterior Fossa Tumor Resection (Cerebellar — Metastasis / Hemangioblastoma / Medulloblastoma / Ependymoma) with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "tumor"
+  - "cranial"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Posterior Fossa Tumor Resection (Cerebellar — Metastasis / Hemangioblastoma / Medulloblastoma / Ependymoma)
 
 ---
@@ -13,10 +24,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Posterior fossa tumor surgery** — safe resection, hydrocephalus, and cerebellar-mutism literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+tumor+surgery+cerebellar+mutism+hydrocephalus)
+- **Disease-specific adjuvant therapy** — medulloblastoma/ependymoma risk stratification and postoperative treatment literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+ependymoma+medulloblastoma+guideline+surgery+radiation)
 
 > 🧭 **Operative approach:** [Telovelar approach](../approaches/telovelar-approach.md) — detailed corridor setup, step-by-step technique & figures
 

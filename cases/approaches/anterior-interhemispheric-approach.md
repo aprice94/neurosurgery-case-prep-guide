@@ -1,3 +1,13 @@
+---
+title: "Operative Approach: Anterior Interhemispheric (Transcallosal) Approach"
+description: "Operative approach guide for Anterior Interhemispheric (Transcallosal) Approach with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "approaches"
+---
+
 # Operative Approach: Anterior Interhemispheric (Transcallosal) Approach
 
 ## Figures, Imaging & Video
@@ -6,10 +16,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **Interhemispheric/transcallosal anatomy** — corpus callosum, pericallosal arteries, and venous corridor literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=anterior+interhemispheric+transcallosal+approach+surgical+anatomy)
+- **Intraventricular lesion surgery** — callosotomy length, disconnection risk, and approach selection literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=transcallosal+approach+intraventricular+tumors+outcomes+complications)
 
 ![Ventricular system — lateral & third ventricles (interhemispheric / transcallosal corridor)](../../figures/anatomy/ventricles_gray734.png)
 

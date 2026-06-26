@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Spinal Cord Stimulator (SCS) Placement"
+description: "Case-prep guide for Spinal Cord Stimulator (SCS) Placement with workup, operative planning, note template, figures, and references."
+category: "Spine Functional"
+tags:
+  - "spine"
+  - "functional"
+---
+
 # Case Prep: Spinal Cord Stimulator (SCS) Placement
 
 ---

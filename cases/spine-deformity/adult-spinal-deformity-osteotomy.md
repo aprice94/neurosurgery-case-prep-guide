@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Adult Spinal Deformity Correction (with Osteotomy — SPO / PSO / VCR)"
+description: "Case-prep guide for Adult Spinal Deformity Correction (with Osteotomy — SPO / PSO / VCR) with workup, operative planning, note template, figures, and references."
+category: "Spine Deformity"
+tags:
+  - "deformity"
+  - "spine"
+---
+
 # Case Prep: Adult Spinal Deformity Correction (with Osteotomy — SPO / PSO / VCR)
 
 ---
@@ -13,9 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **SRS-Schwab classification** — sagittal modifiers and adult spinal deformity outcome correlation. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=SRS+Schwab+adult+spinal+deformity+classification+sagittal+modifiers)
+- **Deformity surgery risk** — complications, frailty, alignment targets, and revision literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=adult+spinal+deformity+surgery+complications+frailty+alignment+targets)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=adult%20spinal%20deformity&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pedicle+subtraction+osteotomy+deformity) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — sagittal alignment / osteotomy levels](../../figures/spine/vertebral-column_gray111.png)

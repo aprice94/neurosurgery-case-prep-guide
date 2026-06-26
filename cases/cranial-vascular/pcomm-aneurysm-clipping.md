@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Posterior Communicating Artery (PComA) Aneurysm Clipping"
+description: "Case-prep guide for Posterior Communicating Artery (PComA) Aneurysm Clipping with workup, operative planning, note template, figures, and references."
+category: "Cranial Vascular"
+tags:
+  - "aneurysm"
+  - "cranial"
+  - "vascular"
+---
+
 # Case Prep: Posterior Communicating Artery (PComA) Aneurysm Clipping
 
 ---

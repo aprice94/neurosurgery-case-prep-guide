@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Microvascular Decompression (MVD) for Trigeminal Neuralgia"
+description: "Case-prep guide for Microvascular Decompression (MVD) for Trigeminal Neuralgia with workup, operative planning, note template, figures, and references."
+category: "Cranial Functional"
+tags:
+  - "mvd"
+  - "cranial"
+  - "functional"
+---
+
 # Case Prep: Microvascular Decompression (MVD) for Trigeminal Neuralgia
 
 ---

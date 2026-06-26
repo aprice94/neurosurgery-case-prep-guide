@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife"
+description: "Case-prep guide for Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife with workup, operative planning, note template, figures, and references."
+category: "Radiosurgery / Ablative"
+tags:
+  - "radiosurgery"
+  - "ablative"
+---
+
 # Case Prep: Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife
 
 ---

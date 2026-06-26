@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Vertebral Osteomyelitis / Discitis — Surgical Management"
+description: "Case-prep guide for Vertebral Osteomyelitis / Discitis — Surgical Management with workup, operative planning, note template, figures, and references."
+category: "Spine Infection"
+tags:
+  - "spine"
+  - "infection"
+---
+
 # Case Prep: Vertebral Osteomyelitis / Discitis — Surgical Management
 
 ---
@@ -13,9 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **IDSA vertebral osteomyelitis guideline** — diagnosis, biopsy/culture, antibiotics, and surgical indications. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=IDSA+guideline+native+vertebral+osteomyelitis+2015)
+- **Spinal epidural abscess timing** — neurologic deficit, decompression timing, and outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+epidural+abscess+surgical+timing+neurologic+deficit+outcomes)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spondylodiscitis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+osteomyelitis+discitis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — disc & vertebral body (infection crosses the disc)](../../figures/spine/vertebral-column_gray111.png)

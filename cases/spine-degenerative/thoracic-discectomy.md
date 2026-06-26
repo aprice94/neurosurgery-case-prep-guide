@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Thoracic Discectomy (Transpedicular / Costotransversectomy / Lateral Extracavitary / Thoracoscopic)"
+description: "Case-prep guide for Thoracic Discectomy (Transpedicular / Costotransversectomy / Lateral Extracavitary / Thoracoscopic) with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "thoracic"
+  - "discectomy"
+  - "lateral"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Thoracic Discectomy (Transpedicular / Costotransversectomy / Lateral Extracavitary / Thoracoscopic)
 
 ---
@@ -13,9 +25,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
+- **Thoracic disc surgery** — approach selection for central/calcified vs lateral thoracic discs. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thoracic+disc+herniation+surgical+approach+calcified+transpedicular+transthoracic)
+- **Calcified thoracic disc risk** — dural adherence, intradural extension, and neurologic complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=calcified+thoracic+disc+herniation+dural+tear+intradural+surgery)
 
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 

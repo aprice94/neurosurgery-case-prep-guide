@@ -1,3 +1,12 @@
+---
+title: "Case Prep Template: [PROCEDURE NAME]"
+description: "[Age]yo [M/F] with [diagnosis/presentation] presenting with [chief complaint/duration] planned for [procedure]."
+category: "Templates"
+tags:
+  - "template"
+  - "templates"
+---
+
 # Case Prep Template: [PROCEDURE NAME]
 
 ---

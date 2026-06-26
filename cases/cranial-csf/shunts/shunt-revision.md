@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Shunt Revision / Exploration"
+description: "Case-prep guide for Shunt Revision / Exploration with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "shunt"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: Shunt Revision / Exploration
 
 ---

@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Glioma Resection (Supratentorial)"
+description: "Case-prep guide for Glioma Resection (Supratentorial) with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "glioma"
+  - "cranial"
+  - "tumor"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Glioma Resection (Supratentorial)
 
 ---
@@ -16,11 +28,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Stupp protocol** — Stupp R et al. *NEJM* 2005 — radiotherapy plus temozolomide for glioblastoma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stupp+radiotherapy+temozolomide+glioblastoma+2005+NEJM)
-- **5-ALA (FGS)** — Stummer W et al. *Lancet Oncol* 2006 — fluorescence-guided resection improves completeness. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stummer+5-aminolevulinic+acid+fluorescence+guided+resection+glioma+2006+Lancet+Oncology)
-- **Extent of resection** — Sanai N et al. *J Neurosurg* 2011 — EOR threshold and survival in GBM. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sanai+Berger+extent+of+resection+glioblastoma+survival+2011+J+Neurosurg)
-- **TTFields** — Stupp R et al. *JAMA* 2017 — tumor-treating fields with maintenance temozolomide. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stupp+tumor+treating+fields+glioblastoma+2017+JAMA)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Stupp protocol** — radiotherapy plus temozolomide for glioblastoma. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stupp+radiotherapy+temozolomide+glioblastoma+2005)
+- **5-ALA fluorescence** — randomized evidence for fluorescence-guided malignant glioma resection. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=5-ALA+fluorescence+guided+surgery+malignant+glioma+randomized+trial)
+- **EANO diffuse glioma guideline** — integrated molecular diagnosis and management. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=EANO+guideline+diffuse+glioma+adult+2021)
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

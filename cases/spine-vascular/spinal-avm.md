@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Spinal Arteriovenous Malformation (Intramedullary / Perimedullary)"
+description: "Case-prep guide for Spinal Arteriovenous Malformation (Intramedullary / Perimedullary) with workup, operative planning, note template, figures, and references."
+category: "Spine Vascular"
+tags:
+  - "spine"
+  - "vascular"
+  - "avm"
+---
+
 # Case Prep: Spinal Arteriovenous Malformation (Intramedullary / Perimedullary)
 
 ---

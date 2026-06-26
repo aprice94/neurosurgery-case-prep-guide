@@ -54,7 +54,7 @@
       {{ content }}
     </article>
     {% if page.url contains "/cases/" and page.name != "index.md" %}
-    <nav id="related" class="related" aria-label="Related guides" data-cat="{{ page.path | split: '/' | slice: 1,1 | first | replace: '-',' ' }}" data-url="{{ page.url | relative_url }}"></nav>
+    <nav id="related" class="related" aria-label="Related guides" data-cat="{{ page.category }}" data-url="{{ page.url | relative_url }}"></nav>
     {% endif %}
   </main>
 
@@ -145,7 +145,7 @@
       fetch('{{ "/assets/search-index.json" | relative_url }}').then(function (r) { return r.json(); }).then(function (data) {
         data.forEach(function (d) { docs[d.u] = d; });
         idx = lunr(function () {
-          this.ref('u'); this.field('t', { boost: 10 }); this.field('c', { boost: 4 }); this.field('x');
+          this.ref('u'); this.field('t', { boost: 10 }); this.field('c', { boost: 5 }); this.field('g', { boost: 4 }); this.field('d', { boost: 3 }); this.field('x');
           data.forEach(function (d) { this.add(d); }, this);
         });
       }).catch(function () { loaded = false; });
@@ -157,7 +157,7 @@
       var r = [];
       try { r = idx.search(q.split(/\s+/).filter(Boolean).map(function (t) { return t + '^2 ' + t + '*'; }).join(' ')); } catch (e) { try { r = idx.search(q); } catch (e2) {} }
       if (!r.length) { res.innerHTML = '<div class="sr-empty">No matches for &ldquo;' + esc(q) + '&rdquo;</div>'; res.hidden = false; return; }
-      res.innerHTML = r.slice(0, 12).map(function (m) { var d = docs[m.ref]; return '<a href="' + d.u + '"><span class="sr-t">' + esc(d.t) + '</span><span class="sr-c">' + esc(d.c) + '</span></a>'; }).join('');
+      res.innerHTML = r.slice(0, 12).map(function (m) { var d = docs[m.ref]; return '<a href="' + d.u + '"><span class="sr-t">' + esc(d.t) + '</span><span class="sr-c">' + esc(d.c) + '</span><span class="sr-d">' + esc(d.d || '') + '</span><span class="sr-g">' + esc(d.g || '') + '</span></a>'; }).join('');
       res.hidden = false;
     }
     var t; box.addEventListener('input', function () { clearTimeout(t); var q = this.value.trim(); t = setTimeout(function () { render(q); }, 110); });

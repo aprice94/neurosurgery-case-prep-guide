@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Depressed Skull Fracture Elevation"
+description: "Case-prep guide for Depressed Skull Fracture Elevation with workup, operative planning, note template, figures, and references."
+category: "Cranial Trauma"
+tags:
+  - "skull"
+  - "cranial"
+  - "trauma"
+---
+
 # Case Prep: Depressed Skull Fracture Elevation
 
 ---

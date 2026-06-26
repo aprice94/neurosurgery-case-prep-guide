@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Microvascular Decompression for Hemifacial Spasm"
+description: "Case-prep guide for Microvascular Decompression for Hemifacial Spasm with workup, operative planning, note template, figures, and references."
+category: "Cranial Functional"
+tags:
+  - "cranial"
+  - "functional"
+  - "mvd"
+---
+
 # Case Prep: Microvascular Decompression for Hemifacial Spasm
 
 ---

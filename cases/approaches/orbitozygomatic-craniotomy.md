@@ -1,3 +1,13 @@
+---
+title: "Operative Approach: Orbitozygomatic (Frontotemporal-Orbitozygomatic, FTOZ) Craniotomy"
+description: "Operative approach guide for Orbitozygomatic (Frontotemporal-Orbitozygomatic, FTOZ) Craniotomy with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "approaches"
+---
+
 # Operative Approach: Orbitozygomatic (Frontotemporal-Orbitozygomatic, FTOZ) Craniotomy
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).

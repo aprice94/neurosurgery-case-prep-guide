@@ -1,3 +1,14 @@
+---
+title: "Approach: Endoscopic Endonasal (Transsphenoidal) Approach"
+description: "Operative approach guide for Endoscopic Endonasal (Transsphenoidal) Approach with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "approach"
+  - "endonasal"
+  - "approaches"
+  - "operative"
+---
+
 # Approach: Endoscopic Endonasal (Transsphenoidal) Approach
 
 *Detailed operative reference written for a senior resident / fellow / attending. Pathology guides (e.g., [pituitary adenoma](../cranial-tumor/pituitary-adenoma-transsphenoidal.md), [craniopharyngioma](../cranial-tumor/craniopharyngioma.md)) link here for technique.*

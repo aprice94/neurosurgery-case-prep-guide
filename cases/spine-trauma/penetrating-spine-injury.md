@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Penetrating Spine Injury (Gunshot / Stab) Management"
+description: "Case-prep guide for Penetrating Spine Injury (Gunshot / Stab) Management with workup, operative planning, note template, figures, and references."
+category: "Spine Trauma"
+tags:
+  - "spine"
+  - "trauma"
+---
+
 # Case Prep: Penetrating Spine Injury (Gunshot / Stab) Management
 
 ---
@@ -13,9 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
-- **Guidelines:** [AOSpine / NASS](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
+- **Penetrating spine injury** — indications for decompression, dural repair, antibiotics, and bullet removal. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=penetrating+spinal+injury+gunshot+surgery+dural+repair+antibiotics)
+- **Civilian GSW spine outcomes** — neurologic recovery and operative vs nonoperative management literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=civilian+gunshot+wound+spine+operative+nonoperative+neurologic+recovery)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20gunshot%20injury&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=penetrating+spinal+injury+gunshot) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (injured by penetrating trajectory)](../../figures/spine/spinal-cord-cross-section_gray664.png)

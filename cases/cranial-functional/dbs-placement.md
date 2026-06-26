@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Deep Brain Stimulation (DBS) Lead Placement"
+description: "Case-prep guide for Deep Brain Stimulation (DBS) Lead Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial Functional"
+tags:
+  - "dbs"
+  - "cranial"
+  - "functional"
+---
+
 # Case Prep: Deep Brain Stimulation (DBS) Lead Placement
 
 ---

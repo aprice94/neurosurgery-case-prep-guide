@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Ventriculopleural (VPL) Shunt Placement"
+description: "Case-prep guide for Ventriculopleural (VPL) Shunt Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "shunt"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: Ventriculopleural (VPL) Shunt Placement
 
 ---

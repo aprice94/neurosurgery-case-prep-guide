@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Spinal Epidural Abscess — Decompression & Drainage"
+description: "Case-prep guide for Spinal Epidural Abscess — Decompression & Drainage with workup, operative planning, note template, figures, and references."
+category: "Spine Infection"
+tags:
+  - "epidural"
+  - "spine"
+  - "infection"
+---
+
 # Case Prep: Spinal Epidural Abscess — Decompression & Drainage
 
 ---
@@ -13,9 +23,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **IDSA vertebral osteomyelitis guideline** — diagnosis, biopsy/culture, antibiotics, and surgical indications. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=IDSA+guideline+native+vertebral+osteomyelitis+2015)
+- **Spinal epidural abscess timing** — neurologic deficit, decompression timing, and outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+epidural+abscess+surgical+timing+neurologic+deficit+outcomes)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20epidural%20abscess&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+epidural+abscess+management) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column / spinal canal (epidural space)](../../figures/spine/vertebral-column_gray111.png)

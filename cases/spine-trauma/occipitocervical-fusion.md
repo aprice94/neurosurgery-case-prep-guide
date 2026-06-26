@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Occipitocervical Fusion"
+description: "Case-prep guide for Occipitocervical Fusion with workup, operative planning, note template, figures, and references."
+category: "Spine Trauma"
+tags:
+  - "fusion"
+  - "spine"
+  - "trauma"
+---
+
 # Case Prep: Occipitocervical Fusion
 
 ---
@@ -13,9 +23,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
-- **Guidelines:** [AOSpine / NASS](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
+- **Occipitocervical fixation** — indications, alignment, fusion constructs, and complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=occipitocervical+fusion+indications+alignment+complications)
+- **Craniocervical junction trauma** — instability patterns and operative management literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniocervical+junction+trauma+occipitocervical+fusion)
 
 > 🧭 **Operative approach:** [Far-lateral / craniocervical approach](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

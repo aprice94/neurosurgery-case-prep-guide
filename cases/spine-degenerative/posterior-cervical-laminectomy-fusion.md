@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Posterior Cervical Laminectomy and Fusion"
+description: "Case-prep guide for Posterior Cervical Laminectomy and Fusion with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "cervical"
+  - "laminectomy"
+  - "fusion"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Posterior Cervical Laminectomy and Fusion
 
 ---

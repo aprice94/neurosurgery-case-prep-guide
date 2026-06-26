@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Spinal Dural Arteriovenous Fistula (dAVF) — Surgical Ligation"
+description: "Case-prep guide for Spinal Dural Arteriovenous Fistula (dAVF) — Surgical Ligation with workup, operative planning, note template, figures, and references."
+category: "Spine Vascular"
+tags:
+  - "spine"
+  - "vascular"
+---
+
 # Case Prep: Spinal Dural Arteriovenous Fistula (dAVF) — Surgical Ligation
 
 ---

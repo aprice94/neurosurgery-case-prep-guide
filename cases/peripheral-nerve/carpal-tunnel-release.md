@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Carpal Tunnel Release"
+description: "Case-prep guide for Carpal Tunnel Release with workup, operative planning, note template, figures, and references."
+category: "Peripheral Nerve"
+tags:
+  - "peripheral"
+  - "nerve"
+---
+
 # Case Prep: Carpal Tunnel Release
 
 ---
@@ -13,10 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **CTS guideline** — AAOS Clinical Practice Guideline 2016 — management of carpal tunnel syndrome. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=AAOS+clinical+practice+guideline+carpal+tunnel+syndrome+2016)
-- **Open vs endoscopic CTR** — Sayegh ET, Strauch RJ. *Clin Orthop Relat Res* 2015 — meta-analysis of release techniques. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sayegh+Strauch+open+endoscopic+carpal+tunnel+release+meta-analysis+2015)
-- **Cubital tunnel** — Bartels RHMA et al. *Neurosurgery* 2005 — simple decompression vs anterior transposition. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bartels+simple+decompression+anterior+transposition+ulnar+nerve+cubital+tunnel+2005)
-- **Guidelines:** [AAOS Clinical Practice Guidelines](https://www.aaos.org/quality/quality-programs/)
+- **AAOS CTS guideline** — evidence-based diagnosis and treatment guidance for carpal tunnel syndrome. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=AAOS+clinical+practice+guideline+carpal+tunnel+syndrome)
+- **Open vs endoscopic CTR** — comparative outcomes and complication profiles for release techniques. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=open+versus+endoscopic+carpal+tunnel+release+meta-analysis)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=carpal%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carpal+tunnel+release) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Brachial plexus & upper-limb nerves (median nerve to the hand)](../../figures/peripheral/brachial-plexus_gray808.png)

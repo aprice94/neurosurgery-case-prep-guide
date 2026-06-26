@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Endoscopic Third Ventriculostomy (ETV)"
+description: "Case-prep guide for Endoscopic Third Ventriculostomy (ETV) with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "etv"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: Endoscopic Third Ventriculostomy (ETV)
 
 ---

@@ -1,3 +1,13 @@
+---
+title: "Operative Approach: Posterior Thoracolumbar Approach (Midline & Wiltse / Pedicle Screw Fixation)"
+description: "Operative approach guide for Posterior Thoracolumbar Approach (Midline & Wiltse / Pedicle Screw Fixation) with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "approaches"
+---
+
 # Operative Approach: Posterior Thoracolumbar Approach (Midline & Wiltse / Pedicle Screw Fixation)
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).

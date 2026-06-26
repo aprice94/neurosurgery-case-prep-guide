@@ -1,3 +1,14 @@
+---
+title: "Operative Approach: Midline Suboccipital Craniotomy (Posterior Fossa Craniotomy / Craniectomy)"
+description: "Operative approach guide for Midline Suboccipital Craniotomy (Posterior Fossa Craniotomy / Craniectomy) with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "craniectomy"
+  - "approaches"
+---
+
 # Operative Approach: Midline Suboccipital Craniotomy (Posterior Fossa Craniotomy / Craniectomy)
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
@@ -14,11 +25,9 @@ The midline suboccipital craniotomy is the **workhorse posterior approach to the
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Patchell I** — Patchell RA et al. *NEJM* 1990 — surgery + WBRT for single brain metastasis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+surgery+single+brain+metastasis+1990+NEJM)
-- **Patchell II** — Patchell RA et al. *JAMA* 1998 — postoperative WBRT after resection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+postoperative+radiotherapy+resected+brain+metastasis+1998+JAMA)
-- **N0574** — Brown PD et al. *JAMA* 2016 — SRS alone vs SRS + WBRT. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
-- **Postop cavity SRS** — Mahajan A et al. *Lancet Oncol* 2017 — postoperative SRS to the resection cavity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mahajan+postoperative+stereotactic+radiosurgery+resection+cavity+2017+Lancet+Oncology)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **Telovelar / fourth-ventricle anatomy** — cerebellomedullary fissure route and vermis-sparing exposure literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=telovelar+approach+fourth+ventricle+cerebellomedullary+fissure+anatomy)
+- **Posterior fossa morbidity** — cerebellar mutism and lower cranial nerve risk literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+surgery+cerebellar+mutism+telovelar+approach)
+
 [Neurosurgical Atlas — Midline Suboccipital](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/midline-suboccipital-craniotomy) · [Rhoton posterior fossa anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+posterior+fossa+surgical+anatomy) · [Radiopaedia — posterior fossa](https://radiopaedia.org/search?q=posterior+fossa+tumor&scope=all) · [PubMed Central — suboccipital craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=suboccipital+craniotomy+posterior+fossa)
 
 ![Interior base of skull — posterior fossa, foramen magnum, internal occipital protuberance, grooves for transverse and sigmoid sinuses](../../figures/anatomy/skull-base-interior_gray193.png)

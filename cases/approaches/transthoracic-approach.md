@@ -1,3 +1,16 @@
+---
+title: "Operative Approach: Transthoracic (Anterior Thoracic) Approach to the Spine"
+description: "Operative approach guide for Transthoracic (Anterior Thoracic) Approach to the Spine with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "transthoracic"
+  - "thoracic"
+  - "spine"
+  - "approaches"
+---
+
 # Operative Approach: Transthoracic (Anterior Thoracic) Approach to the Spine
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).

@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Cranioplasty"
+description: "Case-prep guide for Cranioplasty with workup, operative planning, note template, figures, and references."
+category: "Cranial Trauma"
+tags:
+  - "cranioplasty"
+  - "cranial"
+  - "trauma"
+---
+
 # Case Prep: Cranioplasty
 
 ---

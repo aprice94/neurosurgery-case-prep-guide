@@ -1,3 +1,11 @@
+---
+title: "Case Prep: Encephalocele Repair"
+description: "Case-prep guide for Encephalocele Repair with workup, operative planning, note template, figures, and references."
+category: "Pediatric"
+tags:
+  - "pediatric"
+---
+
 # Case Prep: Encephalocele Repair
 
 ---
@@ -13,8 +21,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
-- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
+- **Encephalocele repair** — workup, associated anomalies, CSF leak, and reconstruction literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=encephalocele+repair+neurosurgery+management+CSF+leak)
+- **Anterior skull-base defects** — endoscopic/open repair and recurrence literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=anterior+skull+base+encephalocele+repair+endoscopic+outcomes)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=encephalocele&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=encephalocele+repair) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Interior base of skull (skull-base / cribriform defect site)](../../figures/anatomy/skull-base-interior_gray193.png)

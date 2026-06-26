@@ -257,6 +257,8 @@ html { scroll-padding-top: 84px; }
 .search-results a:hover { background: #eef6f8; }
 .search-results .sr-t { font-weight: 700; color: var(--ink); font-size: .95rem; }
 .search-results .sr-c { font-size: .76rem; color: var(--primary-d); text-transform: capitalize; }
+.search-results .sr-d { font-size: .8rem; color: var(--muted); line-height: 1.35; margin-top: 2px; }
+.search-results .sr-g { font-size: .72rem; color: var(--muted); opacity: .8; }
 .search-results .sr-empty { padding: 12px; color: var(--muted); font-size: .9rem; }
 [data-theme="dark"] .search-results a:hover { background: #213040; }
 @media (max-width: 760px) { .search-wrap { max-width: 230px; margin: 0 8px; } }

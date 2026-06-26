@@ -1,3 +1,13 @@
+---
+title: "Case Prep: Lumbar Microdiscectomy"
+description: "Case-prep guide for Lumbar Microdiscectomy with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "lumbar"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Lumbar Microdiscectomy
 
 ---

@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Anterior Thoracic Corpectomy and Reconstruction (Transthoracic / Thoracoscopic)"
+description: "Case-prep guide for Anterior Thoracic Corpectomy and Reconstruction (Transthoracic / Thoracoscopic) with workup, operative planning, note template, figures, and references."
+category: "Spine Degenerative"
+tags:
+  - "thoracic"
+  - "transthoracic"
+  - "spine"
+  - "degenerative"
+---
+
 # Case Prep: Anterior Thoracic Corpectomy and Reconstruction (Transthoracic / Thoracoscopic)
 
 ---
@@ -13,9 +24,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
+- **Metastatic cord compression** — decompressive surgery + radiotherapy in selected patients. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+metastatic+spinal+cord+compression+surgery+radiotherapy+Lancet+2005)
+- **NOMS / SINS** — decision frameworks for spinal metastasis and mechanical instability. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NOMS+framework+SINS+spinal+metastases+instability)
 
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 

@@ -1,3 +1,12 @@
+---
+title: "Figures, Imaging & Video — Reputable Sources"
+description: "Curated educational resources, media sources, figure credits, and source links for the neurosurgery case-prep guide."
+category: "Resources"
+tags:
+  - "sources"
+  - "resources"
+---
+
 # Figures, Imaging & Video — Reputable Sources
 
 Curated, reputable sources for **already-made** figures, diagrams, operative illustrations, imaging, and video for the case guides. Each case's **Figures, Imaging & Video** section links into these.

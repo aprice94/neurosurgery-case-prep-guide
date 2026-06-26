@@ -1,3 +1,13 @@
+---
+title: "Operative Approach: Supracerebellar Infratentorial (Krause)"
+description: "Operative approach guide for Supracerebellar Infratentorial (Krause) with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "approaches"
+---
+
 # Operative Approach: Supracerebellar Infratentorial (Krause)
 
 > **About the figures.** Copyrighted operative figures and videos are **linked** (Neurosurgical Atlas, Rhoton collection); embedded images are **public-domain** (Gray's Anatomy) or **Creative Commons CC-BY** (open-access cadaveric anatomy), each credited beneath the image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
@@ -14,11 +24,8 @@ The supracerebellar infratentorial approach is the **primary corridor to the pin
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Patchell I** — Patchell RA et al. *NEJM* 1990 — surgery + WBRT for single brain metastasis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+surgery+single+brain+metastasis+1990+NEJM)
-- **Patchell II** — Patchell RA et al. *JAMA* 1998 — postoperative WBRT after resection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+postoperative+radiotherapy+resected+brain+metastasis+1998+JAMA)
-- **N0574** — Brown PD et al. *JAMA* 2016 — SRS alone vs SRS + WBRT. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
-- **Postop cavity SRS** — Mahajan A et al. *Lancet Oncol* 2017 — postoperative SRS to the resection cavity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mahajan+postoperative+stereotactic+radiosurgery+resection+cavity+2017+Lancet+Oncology)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **Pineal-region approach anatomy** — supracerebellar infratentorial route and venous anatomy literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=supracerebellar+infratentorial+approach+pineal+region+venous+anatomy)
+- **Positioning variants** — sitting/park-bench/prone approach considerations and complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=supracerebellar+infratentorial+approach+sitting+position+complications)
 
 ![Ventricular system — pineal region & third ventricle (supracerebellar-infratentorial target)](../../figures/anatomy/ventricles_gray734.png)
 

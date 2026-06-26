@@ -1,3 +1,14 @@
+---
+title: "Approach: Pterional (Frontotemporal) Craniotomy"
+description: "Operative approach guide for Pterional (Frontotemporal) Craniotomy with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "approach"
+  - "pterional"
+  - "approaches"
+  - "operative"
+---
+
 # Approach: Pterional (Frontotemporal) Craniotomy
 
 *Detailed operative reference written for a senior resident / fellow / attending. Pathology guides (e.g., [MCA aneurysm](../cranial-vascular/mca-aneurysm-clipping.md), [sphenoid wing meningioma](../cranial-tumor/sphenoid-wing-meningioma.md)) link here for technique.*

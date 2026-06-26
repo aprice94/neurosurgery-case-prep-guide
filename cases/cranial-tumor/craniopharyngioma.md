@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Craniopharyngioma Resection"
+description: "Case-prep guide for Craniopharyngioma Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "cranial"
+  - "tumor"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Craniopharyngioma Resection
 
 ---
@@ -13,9 +24,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Surgical series** — Yasargil MG et al. *J Neurosurg* 1990 — total removal of craniopharyngiomas. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Yasargil+total+removal+craniopharyngioma+1990+J+Neurosurg)
-- **GTR vs STR+RT** — Outcomes of radical resection vs subtotal + radiotherapy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniopharyngioma+gross+total+resection+subtotal+radiotherapy+outcome)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Craniopharyngioma management** — surgical extent, hypothalamic preservation, and adjuvant radiotherapy literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniopharyngioma+surgery+hypothalamic+preservation+radiotherapy+guideline)
+- **Endoscopic endonasal outcomes** — selected midline craniopharyngioma approach literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=endoscopic+endonasal+craniopharyngioma+outcomes+meta-analysis)
 
 > 🧭 **Operative approach:** [Supraorbital keyhole craniotomy](../approaches/supraorbital-keyhole-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

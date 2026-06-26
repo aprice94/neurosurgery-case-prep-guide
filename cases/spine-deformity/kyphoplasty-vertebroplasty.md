@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Vertebral Augmentation (Kyphoplasty / Vertebroplasty)"
+description: "Case-prep guide for Vertebral Augmentation (Kyphoplasty / Vertebroplasty) with workup, operative planning, note template, figures, and references."
+category: "Spine Deformity"
+tags:
+  - "spine"
+  - "deformity"
+---
+
 # Case Prep: Vertebral Augmentation (Kyphoplasty / Vertebroplasty)
 
 ---
@@ -13,9 +22,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
+- **FREE trial / kyphoplasty** — balloon kyphoplasty vs nonsurgical care for painful compression fractures. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=FREE+trial+balloon+kyphoplasty+nonsurgical+care+compression+fracture)
+- **Vertebroplasty sham trials** — vertebroplasty evidence and patient-selection controversy. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=vertebroplasty+sham+trial+osteoporotic+compression+fracture+NEJM)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=vertebroplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=kyphoplasty+vertebral+augmentation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Vertebral column — vertebral body (transpedicular cement augmentation)](../../figures/spine/vertebral-column_gray111.png)

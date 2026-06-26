@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Frame-Based Stereotactic Brain Biopsy (Leksell / CRW)"
+description: "Case-prep guide for Frame-Based Stereotactic Brain Biopsy (Leksell / CRW) with workup, operative planning, note template, figures, and references."
+category: "Brain Biopsy"
+tags:
+  - "brain"
+  - "biopsy"
+---
+
 # Case Prep: Frame-Based Stereotactic Brain Biopsy (Leksell / CRW)
 
 ---

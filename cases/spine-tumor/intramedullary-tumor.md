@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Intramedullary Spinal Cord Tumor Resection (Ependymoma / Astrocytoma / Hemangioblastoma)"
+description: "Case-prep guide for Intramedullary Spinal Cord Tumor Resection (Ependymoma / Astrocytoma / Hemangioblastoma) with workup, operative planning, note template, figures, and references."
+category: "Spine Tumor"
+tags:
+  - "tumor"
+  - "spine"
+---
+
 # Case Prep: Intramedullary Spinal Cord Tumor Resection (Ependymoma / Astrocytoma / Hemangioblastoma)
 
 ---

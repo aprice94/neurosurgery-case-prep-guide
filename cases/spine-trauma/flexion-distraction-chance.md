@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Flexion-Distraction (Chance) Injury Fixation"
+description: "Case-prep guide for Flexion-Distraction (Chance) Injury Fixation with workup, operative planning, note template, figures, and references."
+category: "Spine Trauma"
+tags:
+  - "spine"
+  - "trauma"
+---
+
 # Case Prep: Flexion-Distraction (Chance) Injury Fixation
 
 ---
@@ -13,9 +22,8 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **STASCIS** — Fehlings MG et al. *PLoS One* 2012 — early vs late decompression in acute SCI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS** — Vaccaro AR et al. *Spine* 2005 — thoracolumbar injury classification & severity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vaccaro+thoracolumbar+injury+classification+severity+TLICS+2005)
-- **Guidelines:** [AOSpine / NASS](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
+- **STASCIS** — early vs late decompression in acute spinal cord injury. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
+- **TLICS / AO Spine** — classification-based operative decision frameworks for thoracolumbar and cervical trauma. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=TLICS+AO+Spine+classification+thoracolumbar+cervical+trauma)
 
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 

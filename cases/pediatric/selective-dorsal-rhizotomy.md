@@ -1,3 +1,11 @@
+---
+title: "Case Prep: Selective Dorsal Rhizotomy (SDR)"
+description: "Case-prep guide for Selective Dorsal Rhizotomy (SDR) with workup, operative planning, note template, figures, and references."
+category: "Pediatric"
+tags:
+  - "pediatric"
+---
+
 # Case Prep: Selective Dorsal Rhizotomy (SDR)
 
 ---
@@ -13,8 +21,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **SDR meta-analysis** — McLaughlin J et al. *Dev Med Child Neurol* 2002 — selective dorsal rhizotomy for spasticity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=McLaughlin+selective+dorsal+rhizotomy+spasticity+meta-analysis+2002)
-- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
+- **SDR outcomes** — spastic diplegic cerebral palsy gait/function outcomes after selective dorsal rhizotomy. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=selective+dorsal+rhizotomy+cerebral+palsy+long+term+outcomes)
+- **Patient selection** — GMFCS, strength, dystonia exclusion, and rehab-dependent outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=selective+dorsal+rhizotomy+patient+selection+cerebral+palsy+guideline)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20palsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=selective+dorsal+rhizotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (dorsal rootlets / conus — rhizotomy target)](../../figures/spine/spinal-cord-cross-section_gray664.png)

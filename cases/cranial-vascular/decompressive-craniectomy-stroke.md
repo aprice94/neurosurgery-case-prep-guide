@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Decompressive Hemicraniectomy for Malignant MCA Infarction"
+description: "Case-prep guide for Decompressive Hemicraniectomy for Malignant MCA Infarction with workup, operative planning, note template, figures, and references."
+category: "Cranial Vascular"
+tags:
+  - "mca"
+  - "cranial"
+  - "vascular"
+  - "craniectomy"
+  - "stroke"
+---
+
 # Case Prep: Decompressive Hemicraniectomy for Malignant MCA Infarction
 
 ---

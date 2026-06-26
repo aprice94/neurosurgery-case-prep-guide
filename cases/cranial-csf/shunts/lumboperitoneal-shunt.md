@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Lumboperitoneal (LP) Shunt Placement"
+description: "Case-prep guide for Lumboperitoneal (LP) Shunt Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "shunt"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: Lumboperitoneal (LP) Shunt Placement
 
 ---

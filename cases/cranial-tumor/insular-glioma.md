@@ -1,3 +1,15 @@
+---
+title: "Case Prep: Insular Glioma Resection"
+description: "Case-prep guide for Insular Glioma Resection with workup, operative planning, note template, figures, and references."
+category: "Cranial Tumor / Skull Base"
+tags:
+  - "glioma"
+  - "cranial"
+  - "tumor"
+  - "skull"
+  - "base"
+---
+
 # Case Prep: Insular Glioma Resection
 
 ---
@@ -13,9 +25,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **Insular glioma** — Sanai N, Polley MY, Berger MS. *J Neurosurg* 2010 — surgical outcomes/safety of insular gliomas. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sanai+insular+glioma+resection+outcome+2010+J+Neurosurg)
-- **Intraop mapping (meta)** — De Witt Hamer PC et al. *J Clin Oncol* 2012 — stimulation mapping improves outcomes. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=De+Witt+Hamer+intraoperative+stimulation+mapping+glioma+meta-analysis+2012)
-- **Guidelines:** [NCCN CNS Cancers](https://www.nccn.org/guidelines/category_1) · [EANO](https://www.eano.eu/publications/eano-guidelines/) · [CNS](https://www.cns.org/guidelines)
+- **Stupp protocol** — radiotherapy plus temozolomide for glioblastoma. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stupp+radiotherapy+temozolomide+glioblastoma+2005)
+- **5-ALA fluorescence** — randomized evidence for fluorescence-guided malignant glioma resection. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=5-ALA+fluorescence+guided+surgery+malignant+glioma+randomized+trial)
+- **EANO diffuse glioma guideline** — integrated molecular diagnosis and management. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=EANO+guideline+diffuse+glioma+adult+2021)
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 

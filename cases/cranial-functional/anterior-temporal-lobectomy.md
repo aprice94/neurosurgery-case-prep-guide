@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Anterior Temporal Lobectomy / Selective Amygdalohippocampectomy (Epilepsy)"
+description: "Case-prep guide for Anterior Temporal Lobectomy / Selective Amygdalohippocampectomy (Epilepsy) with workup, operative planning, note template, figures, and references."
+category: "Cranial Functional"
+tags:
+  - "cranial"
+  - "functional"
+---
+
 # Case Prep: Anterior Temporal Lobectomy / Selective Amygdalohippocampectomy (Epilepsy)
 
 ---

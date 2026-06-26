@@ -1,3 +1,12 @@
+---
+title: "Case Prep: Intrathecal Baclofen (ITB) Pump Implantation"
+description: "Case-prep guide for Intrathecal Baclofen (ITB) Pump Implantation with workup, operative planning, note template, figures, and references."
+category: "Spine Functional"
+tags:
+  - "spine"
+  - "functional"
+---
+
 # Case Prep: Intrathecal Baclofen (ITB) Pump Implantation
 
 ---

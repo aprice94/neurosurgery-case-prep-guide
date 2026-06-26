@@ -1,3 +1,14 @@
+---
+title: "Case Prep: Lumbar Drain Placement"
+description: "Case-prep guide for Lumbar Drain Placement with workup, operative planning, note template, figures, and references."
+category: "Cranial CSF / Hydrocephalus"
+tags:
+  - "lumbar"
+  - "cranial"
+  - "csf"
+  - "hydrocephalus"
+---
+
 # Case Prep: Lumbar Drain Placement
 
 ---

@@ -1,3 +1,15 @@
+---
+title: "Operative Approach: Far-Lateral (Transcondylar) Craniotomy"
+description: "Operative approach guide for Far-Lateral (Transcondylar) Craniotomy with positioning, anatomy, technique, pitfalls, figures, and references."
+category: "Operative Approaches"
+tags:
+  - "operative"
+  - "approach"
+  - "far"
+  - "lateral"
+  - "approaches"
+---
+
 # Operative Approach: Far-Lateral (Transcondylar) Craniotomy
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).

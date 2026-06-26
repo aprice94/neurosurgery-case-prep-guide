@@ -1,3 +1,11 @@
+---
+title: "Case Prep: Myelomeningocele Repair (Open Neural Tube Defect Closure)"
+description: "Case-prep guide for Myelomeningocele Repair (Open Neural Tube Defect Closure) with workup, operative planning, note template, figures, and references."
+category: "Pediatric"
+tags:
+  - "pediatric"
+---
+
 # Case Prep: Myelomeningocele Repair (Open Neural Tube Defect Closure)
 
 ---
@@ -13,8 +21,9 @@
 
 **📑 Key evidence — landmark trials & guidelines**
 
-- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
-- **Guidelines:** [CNS Pediatric guidelines](https://www.cns.org/guidelines)
+- **MOMS** — prenatal vs postnatal myelomeningocele repair and hydrocephalus/motor outcomes. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
+- **Postnatal closure principles** — timing, infection prevention, Chiari II/hydrocephalus surveillance literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=myelomeningocele+postnatal+closure+timing+hydrocephalus+Chiari+II)
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=myelomeningocele&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=myelomeningocele+repair) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ![Spinal cord cross-section (neural placode / dorsal closure)](../../figures/spine/spinal-cord-cross-section_gray664.png)

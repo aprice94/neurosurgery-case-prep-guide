@@ -1,3 +1,14 @@
+---
+title: "Case Prep: MCA Aneurysm Clipping"
+description: "Case-prep guide for MCA Aneurysm Clipping with workup, operative planning, note template, figures, and references."
+category: "Cranial Vascular"
+tags:
+  - "mca"
+  - "aneurysm"
+  - "cranial"
+  - "vascular"
+---
+
 # Case Prep: MCA Aneurysm Clipping
 
 ---
