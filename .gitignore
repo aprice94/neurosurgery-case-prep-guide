@@ -16,3 +16,11 @@ Thumbs.db
 
 # Claude Code local (machine-specific) settings — keep shared settings tracked
 .claude/settings.local.json
+
+# Local Jekyll / generated build output
+_site/
+.Rhistory
+.bundle/
+vendor/bundle/
+.jekyll-cache/
+.sass-cache/
