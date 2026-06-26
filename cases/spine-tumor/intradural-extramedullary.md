@@ -13,6 +13,20 @@ tags:
 
 ---
 
+
+<!-- BEGIN CASE DOSSIER -->
+
+## Case / Approach Dossier
+
+- **Anatomy at risk:** cord, roots, dura, epidural venous plexus, tumor vascular supply, vertebral body/posterior element involvement, and stabilization corridors.
+- **Operative steps:** define oncologic and neurologic goals, localize levels, decompress neural elements, obtain tissue or resect/debulk safely, reconstruct stability, and coordinate radiation/systemic therapy planning; use the detailed operative sequence and approach notes below as the step-by-step source.
+- **Rescue plans:** major blood loss, neuromonitoring change, durotomy/CSF leak, pathologic instability, wound breakdown after radiation, residual disease strategy, and staged embolization or reconstruction.
+- **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
+- **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
+- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
+
+<!-- END CASE DOSSIER -->
+
 ## One-Liner
 [Age]yo [M/F] with a [cervical/thoracic/lumbar] intradural extramedullary tumor ([meningioma / schwannoma / neurofibroma]) at [level] presenting with [pain / myelopathy / radiculopathy] planned for laminectomy/laminoplasty for microsurgical resection.
 

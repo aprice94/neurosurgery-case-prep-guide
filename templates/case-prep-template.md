@@ -16,6 +16,16 @@ tags:
 
 ---
 
+## Case / Approach Dossier
+- **Anatomy at risk:** [corridor/level-specific neural, vascular, bony, CSF, and soft-tissue structures]
+- **Operative steps:** [positioning, exposure, key maneuver, verification, closure]
+- **Rescue plans:** [bleeding, neurologic change, wrong target/level, CSF leak, hardware/reconstruction issue, staged or alternate plan]
+- **Figures:** [open-access/public-domain/local figures and linked operative videos]
+- **Papers:** [seminal papers, modern reviews/trials/guidelines, PubMed links]
+- **Textbook cross-checks:** [copyrighted textbooks/atlases to cite and summarize in original words]
+
+---
+
 ## History of Present Illness
 - Chief complaint:
 - Duration/onset:

@@ -11,6 +11,20 @@ tags:
 
 ---
 
+
+<!-- BEGIN CASE DOSSIER -->
+
+## Case / Approach Dossier
+
+- **Anatomy at risk:** target margins, vascular/necrotic zones, entry cortex, sulci/vessels, ventricles, deep nuclei, and eloquent tracts along the trajectory.
+- **Operative steps:** choose the safest diagnostic target, plan trajectory, verify registration or frame coordinates, obtain staged samples, confirm hemostasis/trajectory imaging, and coordinate pathology/molecular testing; use the detailed operative sequence and approach notes below as the step-by-step source.
+- **Rescue plans:** nondiagnostic tissue, hemorrhage, seizure, edema, neurologic change, target shift, infection, and open biopsy or repeat sampling plan.
+- **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
+- **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
+- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
+
+<!-- END CASE DOSSIER -->
+
 ## One-Liner
 [Age]yo [M/F] with a [deep / eloquent / multifocal] [location] brain lesion of uncertain diagnosis planned for frame-based stereotactic needle biopsy ([Leksell / CRW]) for tissue diagnosis.
 

@@ -11,6 +11,20 @@ tags:
 
 ---
 
+
+<!-- BEGIN CASE DOSSIER -->
+
+## Case / Approach Dossier
+
+- **Anatomy at risk:** target volume, organs at risk, cranial nerves, optic apparatus/brainstem/cord tolerance, vascular structures, and prior-treatment fields.
+- **Operative steps:** define indication, fuse imaging, contour target and organs at risk, choose dose/fractionation, check constraints and conformity, deliver treatment, and plan imaging follow-up; use the detailed operative sequence and approach notes below as the step-by-step source.
+- **Rescue plans:** edema, radionecrosis, cranial neuropathy, optic/brainstem tolerance issue, hemorrhage, progression versus treatment effect, steroids/bevacizumab, surgery, or repeat radiation strategy.
+- **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
+- **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
+- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
+
+<!-- END CASE DOSSIER -->
+
 ## One-Liner
 [Age]yo [M/F] with [brain metastasis(es) / vestibular schwannoma / meningioma / AVM / trigeminal neuralgia / functional target] planned for stereotactic radiosurgery ([Gamma Knife / LINAC / CyberKnife]).
 

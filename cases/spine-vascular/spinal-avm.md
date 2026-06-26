@@ -12,6 +12,20 @@ tags:
 
 ---
 
+
+<!-- BEGIN CASE DOSSIER -->
+
+## Case / Approach Dossier
+
+- **Anatomy at risk:** cord, roots, dura, posterior elements, segmental and radiculomedullary arteries, venous plexus, and level-specific bony landmarks.
+- **Operative steps:** localize the level, expose while preserving stability, obtain proximal/distal vascular control when relevant, decompress or disconnect/reconstruct the lesion, confirm flow/decompression, and close with CSF-leak prevention; use the detailed operative sequence and approach notes below as the step-by-step source.
+- **Rescue plans:** neuromonitoring change, bleeding from epidural/foraminal vessels, durotomy, wrong-level exposure, cord swelling/ischemia, instability, and staged/endovascular adjuncts.
+- **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
+- **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
+- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
+
+<!-- END CASE DOSSIER -->
+
 ## One-Liner
 [Age]yo [M/F] with a [cervical/thoracic] [intramedullary glomus / perimedullary fistulous] spinal AVM presenting with [hemorrhage / myelopathy / radiculopathy] planned for [embolization ± microsurgical resection].
 

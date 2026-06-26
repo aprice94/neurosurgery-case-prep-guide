@@ -12,6 +12,20 @@ tags:
 
 ---
 
+
+<!-- BEGIN CASE DOSSIER -->
+
+## Case / Approach Dossier
+
+- **Anatomy at risk:** hematoma compartment, fracture and sinus landmarks, cortical/venous/arterial injury, swollen brain physiology, dural edges, and decompressive flap constraints.
+- **Operative steps:** move quickly from imaging to exposure, choose flap or burr-hole strategy, evacuate clot or decompress, control bleeding, decide duraplasty/bone-flap/drain strategy, and hand off to ICU resuscitation goals; use the detailed operative sequence and approach notes below as the step-by-step source.
+- **Rescue plans:** refractory swelling, coagulopathy, venous sinus bleeding, arterial source, seizures, infection, hydrocephalus, malignant ICP, and staged decompression or reoperation.
+- **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
+- **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
+- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
+
+<!-- END CASE DOSSIER -->
+
 ## One-Liner
 [Age]yo [M/F] with severe TBI and refractory intracranial hypertension [± mass lesion] planned for [unilateral hemicraniectomy / bifrontal] decompressive craniectomy.
 

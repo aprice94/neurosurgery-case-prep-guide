@@ -11,6 +11,20 @@ tags:
 
 ---
 
+
+<!-- BEGIN CASE DOSSIER -->
+
+## Case / Approach Dossier
+
+- **Anatomy at risk:** nerve course, fascicles, compression points, motor and sensory branches, adjacent vessels, scar planes, and distal targets for repair or transfer.
+- **Operative steps:** mark landmarks, expose normal nerve proximally/distally, decompress or mobilize gently, resect/repair/graft/transfer as indicated, verify tension-free alignment, and close to protect gliding tissue; use the detailed operative sequence and approach notes below as the step-by-step source.
+- **Rescue plans:** iatrogenic nerve injury, neuroma or neuropathic pain, vascular injury, incomplete decompression, recurrence, wound problems, and therapy/splinting or revision plan.
+- **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
+- **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
+- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
+
+<!-- END CASE DOSSIER -->
+
 ## One-Liner
 [Age]yo [M/F] with [left/right] carpal tunnel syndrome refractory to conservative management planned for [open / endoscopic] carpal tunnel release (median nerve decompression at the wrist).
 

@@ -12,6 +12,20 @@ tags:
 
 ---
 
+
+<!-- BEGIN CASE DOSSIER -->
+
+## Case / Approach Dossier
+
+- **Anatomy at risk:** the named neural, vascular, bony, CSF, and soft-tissue structures that determine the safe corridor and likely morbidity.
+- **Operative steps:** confirm indication and imaging, position and expose deliberately, complete the core surgical maneuver, verify the result, and close with a complication-prevention plan; use the detailed operative sequence and approach notes below as the step-by-step source.
+- **Rescue plans:** bleeding, neurologic change, wrong target or level, CSF leak, infection, hardware or reconstruction failure, and a staged or alternate-treatment plan.
+- **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
+- **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
+- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
+
+<!-- END CASE DOSSIER -->
+
 ## One-Liner
 [Age]yo [M/F] [child/adult] with tethered cord syndrome ([tight filum / lipomyelomeningocele / post-repair retethering / split cord]) presenting with [back/leg pain, motor or sensory decline, bladder dysfunction, scoliosis, foot deformity] planned for [level] laminectomy for microsurgical untethering.
 

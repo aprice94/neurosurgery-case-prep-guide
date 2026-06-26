@@ -96,13 +96,26 @@ Avoid:
 
 Each procedure page should eventually have:
 
+- **Case / approach dossier:** an upfront synthesis of anatomy at risk, operative steps, rescue plans, figures, papers, and textbook cross-checks.
 - **Textbook cross-checks:** 3-6 source families to review before the case.
 - **Open figures:** 10+ unique PD/CC/open-access figures when possible.
 - **Primary literature:** seminal papers plus modern reviews/trials/guidelines.
 - **Private-board prompts:** topic keywords only, not copied stems or answers.
 - **Operative atlas/video links:** links only for copyrighted sources.
 
-Suggested guide block:
+Suggested dossier block:
+
+```markdown
+## Case / Approach Dossier
+- **Anatomy at risk:** [patient- and corridor-specific structures]
+- **Operative steps:** [positioning, exposure, key maneuver, verification, closure]
+- **Rescue plans:** [bleeding, neurologic change, CSF leak, reconstruction/device failure, staged alternate plan]
+- **Figures:** [open-license figures and linked videos/atlases]
+- **Papers:** [seminal and modern evidence]
+- **Textbook cross-checks:** [copyrighted sources to cite and summarize, not copy]
+```
+
+Suggested textbook block:
 
 ```markdown
 ## Textbook Cross-Checks
