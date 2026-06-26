@@ -20,17 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereotactic+brain+biopsy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Yield & risk** — Hall WA. *Cancer* 1998 — diagnostic yield and complications of stereotactic brain biopsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hall+stereotactic+brain+biopsy+diagnostic+yield+complications+1998+Cancer)
-- **Molecular era** — Tissue adequacy for integrated WHO CNS5 molecular diagnosis guides target selection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=stereotactic+biopsy+molecular+diagnosis+glioma+WHO+classification+adequacy)
-- **Guidelines:** [NCCN CNS](https://www.nccn.org/guidelines/category_1) · [CNS](https://www.cns.org/guidelines)
-
-![Ventricular system & deep structures (stereotactic targets)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20brain%20biopsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=frame+based+stereotactic+brain+biopsy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Complications after frame-based stereotactic brain biopsy: a systematic review** — Riche M. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31900737/)
+- **Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis** — Kesserwan MA. Surgical neurology international 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33654555/)
+- **Comparison of Frame-Based Versus Frameless Image-Guided Intracranial Stereotactic Brain Biopsy: A Retrospective Analysis of Safety and Efficacy** — Ungar L. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34332151/)
+- **Blurring the boundaries between frame-based and frameless stereotaxy: feasibility study for brain biopsies performed with the use of a head-mounted robot** — Grimm F. Journal of neurosurgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26067616/)
+- **Comparison of Frame-Based Versus Frameless Intracranial Stereotactic Biopsy: Systematic Review and Meta-Analysis** — Dhawan S. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30974279/)
+- **Frame-Based Stereotactic Biopsy - A Single Neurosurgeon Experience of 604 Diagnostic Procedures and Literature Review** — Samanci Y. Turkish neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36066051/)
+- **Surgical technique** — Guénot M. Neurophysiologie clinique = Clinical neurophysiology 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29273384/)
+- **Related factors with diagnostic yield and intracranial hemorrhagic complications in frame-based stereotactic biopsy. Review** — Lara-Almunia M. Neurocirugia 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33446460/)
+- **Related factors with diagnostic yield and intracranial hemorrhagic complications in frame-based stereotactic biopsy. Review** — Lara-Almunia M. Neurocirugia 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34743826/)
+- **Comparative Analysis of Efficacy and Safety of Frame-Based, Frameless, and Robot-Assisted Stereotactic Brain Biopsies: A Systematic Review and Meta-Analysis** — Gecici NN. Operative neurosurgery (Hagerstown, Md.) 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40062857/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 2:](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-01-figure-2-sni-12-52-g002-jpg.jpg)
+*Figure 2:. Pooled analysis of risk ratios of measured outcomes. Source: [Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7911151/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 3:](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-02-figure-3-sni-12-52-g003-jpg.jpg)
+*Figure 3:. Grading of Recommendations Assessment, Development, and Evaluation summary of findings. Source: [Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7911151/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 3](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-03-figure-3-sni-12-52-inline001-jpg.jpg)
+*Figure 3. Source: [Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7911151/) — Surg Neurol Int. 2021 Feb 10;12:52. doi: 10.25259/SNI_824_2020; CC BY-NC-SA.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 4](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-04-figure-4-sni-12-52-t001-jpg.jpg)
+*Figure 4. Source: [Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7911151/) — Surg Neurol Int. 2021 Feb 10;12:52. doi: 10.25259/SNI_824_2020; CC BY-NC-SA.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 1](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-05-figure-1-gr1-jpg.jpg)
+*Figure 1. Multimodal imaging findings of a patient with primary CNS lymphoma in the splenium of the corpus callosum: A: slightly higher CT plain scan density; B: hypointense in T1; C: hypointense... Source: [Preliminary clinical application of multimodal imaging combined with frameless robotic stereotactic biopsy in the diagnosis of primary central nervous system lymphoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC9758408/) — Heliyon 2022; CC BY.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 2](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-06-figure-2-gr2-jpg.jpg)
+*Figure 2. The spectra showed an obvious increase in CHO, a decrease in NAA, and an increase in CHO/Cr and Cho/NAA ratios in the lesion (in the red boxes) compared with the normal brain (in the... Source: [Preliminary clinical application of multimodal imaging combined with frameless robotic stereotactic biopsy in the diagnosis of primary central nervous system lymphoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC9758408/) — Heliyon 2022; CC BY.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 3](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-07-figure-3-gr3-jpg.jpg)
+*Figure 3. Procedure of frameless stereotactic robotic needle biopsy in the patient with PCNSL: A: the puncture trajectory was determined according to the puncture target; B: Four spherical... Source: [Preliminary clinical application of multimodal imaging combined with frameless robotic stereotactic biopsy in the diagnosis of primary central nervous system lymphoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC9758408/) — Heliyon 2022; CC BY.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 1](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-08-figure-1-fneur-14-1173776-g001-jpg.jpg)
+*Figure 1. All patients underwent robot-assisted stereotactic brain biopsy using one of three systems: a ROSA robotic system (Zimmer Biomet Robotics, Montpellier, France), the CAS-R-2 (Tianjin... Source: [Novel application of robot-guided stereotactic technique on biopsy diagnosis of intracranial lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC10421699/) — Frontiers in Neurology 2023; CC BY.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 2](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-09-figure-2-fneur-14-1173776-g002-jpg.jpg)
+*Figure 2. (A,B) The REMEBOT and (C,D) the CAS-R-2 use scalp markers for registration. The patient’s head is prepared for skin adhesion to the scalp markers before surgery (E,F). The ROSA robot... Source: [Novel application of robot-guided stereotactic technique on biopsy diagnosis of intracranial lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC10421699/) — Frontiers in Neurology 2023; CC BY.*
+
+![Frame-Based Stereotactic Brain Biopsy — Figure 3](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-10-figure-3-fneur-14-1173776-g003-jpg.jpg)
+*Figure 3. Measurement of entry point and target point error based on preoperatively planned target and on the fusion of postoperative CT to the preoperative dataset. Source: [Novel application of robot-guided stereotactic technique on biopsy diagnosis of intracranial lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC10421699/) — Frontiers in Neurology 2023; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

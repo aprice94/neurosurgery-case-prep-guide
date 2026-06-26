@@ -22,18 +22,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spinal+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Simpson grade** — resection extent and recurrence framework for meningioma surgery. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **EANO guideline** — diagnosis, observation, surgery, radiation, and surveillance for meningiomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intradural+extramedullary+spinal+tumor) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (intradural extramedullary relations)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Surgical resection of an intradural extramedullary spinal tumor** — Yunga Tigre J. Neurosurgical focus: Video 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37854646/)
+- **Intradural Extramedullary Spinal Tumor Suspected Angiosarcoma Based on Clinical Course and Pathological Findings: A Case Report** — Iijima Y. Spine surgery and related research 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36348692/)
+- **Large primary Intradural extramedullary spinal tumors: A case report** — Hadar AK. International journal of surgery case reports 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37716052/)
+- **Primary Intradural Extramedullary Sporadic Spinal Hemangioblastomas: Case Report and Systematic Review** — Li D. World neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34087464/)
+- **Differentiation of the Intradural Extramedullary Spinal Tumors, Schwannomas, and Meningiomas Utilizing the Contrast Ratio as a Quantitative Magnetic Resonance Imaging Method** — Nakamae T. World neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38797281/)
+- **Intradural extramedullary tumor location in the axial view affects the alert timing of intraoperative neurophysiologic monitoring** — Morito S. Journal of clinical monitoring and computing 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36635568/)
+- **Extramedullary Intradural Primary Spinal Angiosarcoma: A Case Study** — Catalo M. Cureus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39734979/)
+- **Hydrocephalus Secondary to Intradural Extramedullary Malignant Melanoma of Spinal Cord** — Hironaka K. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31302270/)
+- **Spinal intradural extramedullary cavernous hemangioma** — Pétillon P. Neuroradiology 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30090980/)
+- **Accuracy of intraoperative neurophysiological monitoring in predicting postoperative neurological decline in intradural extramedullary spinal tumor surgery: a systematic review and meta-analysis** — Antkowiak L. Neurosurgical review 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41240239/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Intradural Extramedullary Spinal Tumor Resection — Figure 1.](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-01-figure-1-2432-261x-6-0577-g001-jpg.jpg)
+*Figure 1.. Preoperative MRIs.Sagittal T2-weighted (A), axial T1-weighted (B), and axial T2-weighted (C) MRIs showing a poorly marginated mass with a T1-low and T2-mosaic pattern located... Source: [Intradural Extramedullary Spinal Tumor Suspected Angiosarcoma Based on Clinical Course and Pathological Findings: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9605765/) — Spine Surgery and Related Research 2022; CC BY-NC-ND.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Figure 2.](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-02-figure-2-2432-261x-6-0577-g002-jpg.jpg)
+*Figure 2.. Intraoperative microscopic views.Intraoperative photographs following laminectomy and durotomy at T12–L2 showing a dark red mass in the subarachnoid space (A). The mass was not connected... Source: [Intradural Extramedullary Spinal Tumor Suspected Angiosarcoma Based on Clinical Course and Pathological Findings: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9605765/) — Spine Surgery and Related Research 2022; CC BY-NC-ND.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Figure 3.](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-03-figure-3-2432-261x-6-0577-g003-jpg.jpg)
+*Figure 3.. Histological findings.Hematoxylin and eosin (H&E) staining ×400 (A, B). Cluster of differentiation (CD) 31 staining ×200 (C), and CD34 staining ×200 (D).H&E staining showing atypical... Source: [Intradural Extramedullary Spinal Tumor Suspected Angiosarcoma Based on Clinical Course and Pathological Findings: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9605765/) — Spine Surgery and Related Research 2022; CC BY-NC-ND.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Figure 4.](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-04-figure-4-2432-261x-6-0577-g004-jpg.jpg)
+*Figure 4.. Postoperative MRIs.Sagittal T2-weighted MRI (A) at 2 weeks after surgery showing the mass was mostly resected, but a small mass is seen below the conus medullaris (white arrow).Sagittal... Source: [Intradural Extramedullary Spinal Tumor Suspected Angiosarcoma Based on Clinical Course and Pathological Findings: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9605765/) — Spine Surgery and Related Research 2022; CC BY-NC-ND.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Figure 1](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-05-figure-1-ms9-85-3054-g001-jpg.jpg)
+*Figure 1. Masses present all over the scalp, each averaging about 4×4 cm, with the largest one located in the occipital area of 6×7 cm in dimensions. Source: [Rare case of multiple neurofibromas of the scalp and trunk in association with intradural extramedullary spinal tumor: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10289696/) — Annals of Medicine and Surgery 2023; CC BY-NC-ND.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Figure 2](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-06-figure-2-ms9-85-3054-g002-jpg.jpg)
+*Figure 2. MRI of SPINE revealing T11–T12 neurofibroma. Source: [Rare case of multiple neurofibromas of the scalp and trunk in association with intradural extramedullary spinal tumor: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10289696/) — Annals of Medicine and Surgery 2023; CC BY-NC-ND.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Figure 3](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-07-figure-3-ms9-85-3054-g003-jpg.jpg)
+*Figure 3. Excised tumor by total excision from intraspinal region. Source: [Rare case of multiple neurofibromas of the scalp and trunk in association with intradural extramedullary spinal tumor: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10289696/) — Annals of Medicine and Surgery 2023; CC BY-NC-ND.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Fig. 1](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-08-fig-1-jkms-21-778-g001-jpg.jpg)
+*Fig. 1. T1-(A) and T2-weighted (B) sagittal magnetic resonance images demonstrating a mass-like lesion. Source: [Intradural Disc Herniation at L5-S1 Mimicking an Intradural Extramedullary Spinal Tumor: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC2729910/) — Journal of Korean Medical Science 2006; CC BY-NC.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Fig. 2](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-09-fig-2-jkms-21-778-g002-jpg.jpg)
+*Fig. 2. Contrast-enhanced axial image showing peripheral enhancement of the lesion (arrow). Source: [Intradural Disc Herniation at L5-S1 Mimicking an Intradural Extramedullary Spinal Tumor: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC2729910/) — Journal of Korean Medical Science 2006; CC BY-NC.*
+
+![Intradural Extramedullary Spinal Tumor Resection — Fig. 3](../../figures/curated/case-prep-intradural-extramedullary-spinal-tumor-resection-meningioma-schwannoma/figure-10-fig-3-jkms-21-778-g003-jpg.jpg)
+*Fig. 3. Intraoperative photograph (A) outlining the peripheral displacement of the adherent cauda equine nerve roots (arrows) by the large intradural disc fragment. Intraoperative photograph (B)... Source: [Intradural Disc Herniation at L5-S1 Mimicking an Intradural Extramedullary Spinal Tumor: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC2729910/) — Journal of Korean Medical Science 2006; CC BY-NC.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

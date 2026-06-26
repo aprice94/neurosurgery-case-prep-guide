@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=medulloblastoma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Posterior fossa tumor surgery** — safe resection, hydrocephalus, and cerebellar-mutism literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+tumor+surgery+cerebellar+mutism+hydrocephalus)
-- **Disease-specific adjuvant therapy** — medulloblastoma/ependymoma risk stratification and postoperative treatment literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+ependymoma+medulloblastoma+guideline+surgery+radiation)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=medulloblastoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pediatric+posterior+fossa+tumor+telovelar) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Ventricular system — fourth ventricle (telovelar approach target)](../../figures/anatomy/ventricles_gray734.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Postoperative facial palsy after pediatric posterior fossa tumor resection** — Chu JK. Journal of neurosurgery. Pediatrics 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33711807/)
+- **A review of long-term deficits in memory systems following radiotherapy for pediatric posterior fossa tumor** — Baudou E. Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35640769/)
+- **Deep Learning for Pediatric Posterior Fossa Tumor Detection and Classification: A Multi-Institutional Study** — Quon JL. AJNR. American journal of neuroradiology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32816765/)
+- **An Analysis of Temporal Trend of Incidence of Post-Resection Cerebrospinal Fluid Diversion in Pediatric Posterior Fossa Tumor Patients and the Predictive Factors** — Kumar A. Neurology India 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36861578/)
+- **Volumetric predictors for shunt-dependency in pediatric posterior fossa tumors** — Wilhelmy F. Scientific reports 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40542153/)
+- **Machine Assist for Pediatric Posterior Fossa Tumor Diagnosis: A Multinational Study** — Zhang M. Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34392363/)
+- **Impact of a pediatric posterior fossa tumor and its treatments on motor procedural learning** — Baudou E. European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37060708/)
+- **Executive and social functioning in pediatric posterior fossa tumor survivors and healthy controls** — Ramjan S. Neuro-oncology practice 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36970175/)
+- **Intraoperative neurophysiology in posterior fossa tumor surgery in children** — Sala F. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26351231/)
+- **Arterial Spin-Labeling Perfusion Metrics in Pediatric Posterior Fossa Tumor Surgery** — Toescu SM. AJNR. American journal of neuroradiology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36137658/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Pediatric Posterior Fossa Tumor Resection — Figure 1:](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-01-figure-1-sni-17-68-g001-jpg.jpg)
+*Figure 1:. Intraoperative steps of autologous cervical fascia graft for watertight duroplasty in pediatric posterior fossa surgery: (a) lateral dissection, (b) graft detachment, (c) muscular plane... Source: [Autologous cervical fascia duraplasty in pediatric posterior fossa tumor surgery: A low-cost and viable alternative](https://pmc.ncbi.nlm.nih.gov/articles/PMC12954250/) — Surgical Neurology International 2026; CC BY-NC-SA.*
+
+![Pediatric Posterior Fossa Tumor Resection — Figure 2:](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-02-figure-2-sni-17-68-g002-jpg.jpg)
+*Figure 2:. Intraoperative images of posterior fossa exposure and dural repair using an autologous cervical fascia graft: (a) cerebellum and brainstem with dura opened. (b) Final view showing... Source: [Autologous cervical fascia duraplasty in pediatric posterior fossa tumor surgery: A low-cost and viable alternative](https://pmc.ncbi.nlm.nih.gov/articles/PMC12954250/) — Surgical Neurology International 2026; CC BY-NC-SA.*
+
+![Pediatric Posterior Fossa Tumor Resection — Figure 3](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-03-figure-3-sni-17-68-inline001-jpg.jpg)
+*Figure 3. Source: [Autologous cervical fascia duraplasty in pediatric posterior fossa tumor surgery: A low-cost and viable alternative](https://pmc.ncbi.nlm.nih.gov/articles/PMC12954250/) — Surg Neurol Int. 2026 Feb 6;17:68. doi: 10.25259/SNI_1177_2025; CC BY-NC-SA.*
+
+![Pediatric Posterior Fossa Tumor Resection — Figure 4](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-04-figure-4-sni-17-68-t001-jpg.jpg)
+*Figure 4. Source: [Autologous cervical fascia duraplasty in pediatric posterior fossa tumor surgery: A low-cost and viable alternative](https://pmc.ncbi.nlm.nih.gov/articles/PMC12954250/) — Surg Neurol Int. 2026 Feb 6;17:68. doi: 10.25259/SNI_1177_2025; CC BY-NC-SA.*
+
+![Pediatric Posterior Fossa Tumor Resection — Fig. 1](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-05-fig-1-10334-2025-1297-fig1-html-jpg.jpg)
+*Fig. 1. Anatomical illustration of the dentato-rubro-thalamic tract (DRTT). The dark green tract represents the decussating DRTT, the classic component that decussates from the dentate nucleus... Source: [Evaluation of tractography parameters for dentato-rubro-thalamic tract reconstruction during pediatric posterior fossa tumor surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124821/) — Magma (New York, N.y.) 2025; CC BY.*
+
+![Pediatric Posterior Fossa Tumor Resection — Fig. 2](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-06-fig-2-10334-2025-1297-fig2-html-jpg.jpg)
+*Fig. 2. Example of patient preparation for MR acquisition before surgery. A After positioning the patient in the surgical prone position (i.e., laying on their stomach with their chest lifted... Source: [Evaluation of tractography parameters for dentato-rubro-thalamic tract reconstruction during pediatric posterior fossa tumor surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124821/) — Magma (New York, N.y.) 2025; CC BY.*
+
+![Pediatric Posterior Fossa Tumor Resection — Fig. 3](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-07-fig-3-10334-2025-1297-fig3-html-jpg.jpg)
+*Fig. 3. Example of T1-weighted images before and during surgery and placement of the regions of interest used for fiber tractography. T1-weighted (T1w) images of a 14-year-old girl with a 4th... Source: [Evaluation of tractography parameters for dentato-rubro-thalamic tract reconstruction during pediatric posterior fossa tumor surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124821/) — Magma (New York, N.y.) 2025; CC BY.*
+
+![Pediatric Posterior Fossa Tumor Resection — Fig. 4](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-08-fig-4-10334-2025-1297-fig4-html-jpg.jpg)
+*Fig. 4. Example of eight fiber tractography parameter combinations for one side dentato-rubro-thalamic tract. All panels show the dentato-rubro-thalamic tract (DRTT) crossing from the dentate... Source: [Evaluation of tractography parameters for dentato-rubro-thalamic tract reconstruction during pediatric posterior fossa tumor surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124821/) — Magma (New York, N.y.) 2025; CC BY.*
+
+![Pediatric Posterior Fossa Tumor Resection — Fig. 5](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-09-fig-5-10334-2025-1297-fig5-html-jpg.jpg)
+*Fig. 5. Qualitative results fiber tractography parameter combinations. In healthy volunteers (A) and pediatric posterior fossa tumor patients (B), an FOD threshold of 0.01 and an angle threshold... Source: [Evaluation of tractography parameters for dentato-rubro-thalamic tract reconstruction during pediatric posterior fossa tumor surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124821/) — Magma (New York, N.y.) 2025; CC BY.*
+
+![Pediatric Posterior Fossa Tumor Resection — Fig. 6](../../figures/curated/case-prep-pediatric-posterior-fossa-tumor-resection-medulloblastoma-pilocytic-astrocytom/figure-10-fig-6-10334-2025-1297-fig6-html-jpg.jpg)
+*Fig. 6. Dentato-rubro-thalamic tracts (DRTT) reconstructed with the best parameter combination of our dataset. The first two columns show both DRTTs (1 and 2) crossing from the dentate nucleus... Source: [Evaluation of tractography parameters for dentato-rubro-thalamic tract reconstruction during pediatric posterior fossa tumor surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124821/) — Magma (New York, N.y.) 2025; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

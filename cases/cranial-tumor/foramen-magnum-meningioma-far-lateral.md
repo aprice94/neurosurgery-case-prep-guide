@@ -26,24 +26,83 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=foramen+magnum+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Simpson grade** — resection extent and recurrence framework for meningioma surgery. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **EANO guideline** — diagnosis, observation, surgery, radiation, and surveillance for meningiomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 > 🧭 **Operative approach:** [Far-lateral (transcondylar) craniotomy](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=foramen+magnum+meningioma+far+lateral) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull — foramen magnum / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
-
-![Far-lateral craniotomy with C1 removed — posterior-fossa & spinal dura, vertebral artery, transverse/sigmoid sinuses](../../figures/far-lateral/craniotomy-c1-dura_cureus-e31257.jpg)
-
-*Payman A, et al. Cureus 2022;14(11):e31257 — CC BY 4.0.*
 
 **▶ Full corridor technique:** see the [**Far-lateral (transcondylar) approach chapter**](../approaches/far-lateral-craniotomy.md) — positioning, suboccipital-triangle VA control, condyle/jugular-tubercle drilling limits, dural opening, and intradural lower-CN microsurgery, step by step.
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **The far-lateral approach for foramen magnum meningiomas** — Flores BC. Neurosurgical focus 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24289120/)
+- **Far Lateral Approach for Resection of a Foramen Magnum Meningioma: 3-Dimensional Surgical Video** — Campero A. Operative neurosurgery (Hagerstown, Md.) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31173144/)
+- **Far Lateral Transcondylar Transtubercular Approach for Microsurgical Resection of Foramen Magnum Meningioma: Operative Video and Technical Nuances** — Liu JK. Journal of neurological surgery. Part B, Skull base 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33717806/)
+- **Surgical corridors to foramen magnum meningiomas: a mini-review** — Baldoncini M. Frontiers in neurology 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37528861/)
+- **Key Aspects in Foramen Magnum Meningiomas: From Old Neuroanatomical Conceptions to Current Far Lateral Neurosurgical Intervention** — Leon-Ariza DS. World neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28712910/)
+- **Extreme Lateral Approach to the Craniocervical Junction, Operative Technique and Approach Essentials: 2-Dimensional Operative Video** — Ber R. Operative neurosurgery (Hagerstown, Md.) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37387583/)
+- **The Vagoaccessory Triangle (VAT): The Arena of ELITE** — Liyadipita NM. Asian journal of neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40485798/)
+- **Foramen Magnum Meningioma: Far Lateral Approach** — Vasquez C. Journal of neurological surgery. Part B, Skull base 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31750063/)
+- **Far Lateral Craniotomy for Resection of Foramen Magnum Meningioma** — Wicks RT. Journal of neurological surgery. Part B, Skull base 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31750060/)
+- **Foramen magnum meningiomas** — Bir SC. Handbook of clinical neurology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32586488/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Foramen Magnum Meningioma Far Lateral Approach — Fig. 1](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-01-fig-1-10143-2007-97-fig1-html-jpg.jpg)
+*Fig. 1. Illustration of the foramen magnum anatomy through a postero-lateral approach. The skin incision (dotted line) extends on the midline just upper to the occipital protuberance and curves... Source: [Foramen magnum meningiomas: detailed surgical approaches and technical aspects at Lariboisière Hospital and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2077911/) — Neurosurgical Review 2007; open access.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Fig. 2](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-02-fig-2-10143-2007-97-fig2-html-jpg.jpg)
+*Fig. 2. Classification of foramen magnum meningiomas. Foramen magnum meningiomas are classified according to their compartment of development, their dural insertion, and their relation to the... Source: [Foramen magnum meningiomas: detailed surgical approaches and technical aspects at Lariboisière Hospital and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2077911/) — Neurosurgical Review 2007; open access.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Fig. 3](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-03-fig-3-10143-2007-97-fig3-html-jpg.jpg)
+*Fig. 3. a–c Preoperative MRI. A large lateral foramen magnum meningioma displaces the neuraxis. d, e Postoperative CT scan. The meningioma has been completely resected. The spinal cord has... Source: [Foramen magnum meningiomas: detailed surgical approaches and technical aspects at Lariboisière Hospital and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2077911/) — Neurosurgical Review 2007; open access.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Fig. 4](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-04-fig-4-10143-2007-97-fig4-html-jpg.jpg)
+*Fig. 4. a, b Preoperative MRI. A large anterior foramen magnum meningioma severely compresses the neuraxis, which is reduced to a crescent (star). c, d Postoperative MR images confirm the... Source: [Foramen magnum meningiomas: detailed surgical approaches and technical aspects at Lariboisière Hospital and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2077911/) — Neurosurgical Review 2007; open access.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Fig. 5](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-05-fig-5-10143-2007-97-fig5-html-jpg.jpg)
+*Fig. 5. Surgical steps during a postero-lateral approach. a The left vertebral artery V3 segment (black arrow) has been elevated from the lateral part of the C1 posterior arch (white arrowhead).... Source: [Foramen magnum meningiomas: detailed surgical approaches and technical aspects at Lariboisière Hospital and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2077911/) — Neurosurgical Review 2007; open access.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Figure 1](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-06-figure-1-pamj-34-5-g001-jpg.jpg)
+*Figure 1. 62 years old female patient (A) pre-operative sagittal MRI, (B) pre-operative axial MRI. Black arrow indicates tumor Source: [Our surgical experience in foramen magnum meningiomas: clinical series of 11 cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC6850739/) — The Pan African Medical Journal 2019; CC BY.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Figure 2](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-07-figure-2-pamj-34-5-g002-jpg.jpg)
+*Figure 2. 68 years old female patient (A) pre-operative sagittal MRI, (B) post-operative sagittal MRI. Black arrow indicates tumor Source: [Our surgical experience in foramen magnum meningiomas: clinical series of 11 cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC6850739/) — The Pan African Medical Journal 2019; CC BY.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Figure 3](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-08-figure-3-pamj-34-5-g003-jpg.jpg)
+*Figure 3. 54 years old female patient pre-op MRI images and back arrow indicates tumor Source: [Our surgical experience in foramen magnum meningiomas: clinical series of 11 cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC6850739/) — The Pan African Medical Journal 2019; CC BY.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Figure 4](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-09-figure-4-pamj-34-5-g004-jpg.jpg)
+*Figure 4. 54 years old female patient post-op MRI images Source: [Our surgical experience in foramen magnum meningiomas: clinical series of 11 cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC6850739/) — The Pan African Medical Journal 2019; CC BY.*
+
+![Foramen Magnum Meningioma Far Lateral Approach — Figure 5](../../figures/curated/case-prep-foramen-magnum-meningioma-far-lateral-approach/figure-10-figure-5-pamj-34-5-g005-jpg.jpg)
+*Figure 5. Postoperative cervical axial ct ((A) postoperative the patient's bone removed by suboccipital craniotomy was repositioned with mini-plate and mini-screw and (B) C1 laminoplasty. Black... Source: [Our surgical experience in foramen magnum meningiomas: clinical series of 11 cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC6850739/) — The Pan African Medical Journal 2019; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

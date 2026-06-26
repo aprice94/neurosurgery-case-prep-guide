@@ -19,16 +19,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=craniosynostosis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Craniosynostosis guideline** — evaluation and treatment principles for single-suture and syndromic craniosynostosis. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniosynostosis+guideline+surgical+treatment)
-- **Open vs endoscopic repair** — age selection, helmet therapy, transfusion, and reoperation literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniosynostosis+endoscopic+versus+open+repair+outcomes+helmet)
-
-![Cranial base & vault — skull/suture morphology](../../figures/anatomy/skull-base-interior_gray193.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=craniosynostosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=craniosynostosis+cranial+vault+remodeling) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Craniosynostosis - Recognition, clinical characteristics, and treatment** — Kajdic N. Bosnian journal of basic medical sciences 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28623672/)
+- **The clinical manifestations, molecular mechanisms and treatment of craniosynostosis** — Stanton E. Disease models & mechanisms 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35451466/)
+- **Craniosynostosis** — Governale LS. Pediatric neurology 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26371995/)
+- **Syndromic Craniosynostosis** — Sawh-Martinez R. Clinics in plastic surgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30851747/)
+- **Nonsyndromic Craniosynostosis** — Dempsey RF. Clinics in plastic surgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30851746/)
+- **Craniosynostosis** — Kabbani H. American family physician 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15222651/)
+- **Craniosynostosis: A Pediatric Neurologist's Perspective** — Shruthi NM. Journal of pediatric neurosciences 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36388006/)
+- **FGFR Craniosynostosis Syndromes Overview** — Adam MP. 1993. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20301628/)
+- **Imaging in craniosynostosis: when and what?** — Massimi L. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31289853/)
+- **Craniosynostosis and oculomotor disorders** — Dalmas F. Neuro-Chirurgie 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31866515/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Craniosynostosis Repair — Figure 1](../../figures/curated/case-prep-craniosynostosis-repair/figure-01-figure-1-jbm4-7-e10728-g001-jpg.jpg)
+*Figure 1. Source: [Craniosynostosis in Patients With X‐Linked Hypophosphatemia: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10184010/) — JBMR Plus. 2023 Mar 14;7(5):e10728. doi: 10.1002/jbm4.10728; CC BY.*
+
+![Craniosynostosis Repair — Fig. 2](../../figures/curated/case-prep-craniosynostosis-repair/figure-02-fig-2-jbm4-7-e10728-g002-jpg.jpg)
+*Fig. 2. Age distribution of craniosynostosis diagnosis in patients with XLH identified in this review. Note, the age of craniosynostosis diagnosis was not reported for all patients; this... Source: [Craniosynostosis in Patients With X‐Linked Hypophosphatemia: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10184010/) — JBMR Plus 2023; CC BY.*
+
+![Craniosynostosis Repair — Fig. 3](../../figures/curated/case-prep-craniosynostosis-repair/figure-03-fig-3-jbm4-7-e10728-g003-jpg.jpg)
+*Fig. 3. (A) Distribution of fused sutures and (B) distribution of symptoms/complications in craniosynostosis in patients with XLH identified in this review. Note, the sutures fused were not... Source: [Craniosynostosis in Patients With X‐Linked Hypophosphatemia: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10184010/) — JBMR Plus 2023; CC BY.*
+
+![Craniosynostosis Repair — Fig. 2](../../figures/curated/case-prep-craniosynostosis-repair/figure-04-fig-2-381-2024-6409-fig2-html-jpg.jpg)
+*Fig. 2. Flow diagram depicting the method of extracting data, training models, and its use in craniosynostosis Source: [Machine learning applications in craniosynostosis diagnosis and treatment prediction: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11269440/) — Child's Nervous System 2024; CC BY.*
+
+![Craniosynostosis Repair — Figure 1](../../figures/curated/case-prep-craniosynostosis-repair/figure-05-figure-1-41598-2021-85620-fig1-html-jpg.jpg)
+*Figure 1. Age distribution of the syndromic craniosynostosis, non-syndromic craniosynostosis, and control groups. Source: [Ocular biometric features of pediatric patients with fibroblast growth factor receptor-related syndromic craniosynostosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7969619/) — Scientific Reports 2021; CC BY.*
+
+![Craniosynostosis Repair — Figure 2](../../figures/curated/case-prep-craniosynostosis-repair/figure-06-figure-2-41598-2021-85620-fig2-html-jpg.jpg)
+*Figure 2. Comparison of biometric values between the syndromic craniosynostosis, non-syndromic craniosynostosis, and control groups. The distribution of (A) spherical equivalent, (B) axial length,... Source: [Ocular biometric features of pediatric patients with fibroblast growth factor receptor-related syndromic craniosynostosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7969619/) — Scientific Reports 2021; CC BY.*
+
+![Craniosynostosis Repair — Figure 1](../../figures/curated/case-prep-craniosynostosis-repair/figure-07-figure-1-bmjophth-2020-000677f01-jpg.jpg)
+*Figure 1. Prevalence of strabismus preoperatively and postoperatively in sagittal, unicoronal and metopic non-syndromic craniosynostosis. Source: [Ophthalmological findings in children with non-syndromic craniosynostosis: preoperatively and postoperatively up to 12 months after surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC8076926/) — BMJ Open Ophthalmology 2021; CC BY.*
+
+![Craniosynostosis Repair — Figure 8](../../figures/curated/case-prep-craniosynostosis-repair/figure-08-figure-8-bmjophth-2020-000677ilf01-jpg.jpg)
+*Figure 8. Source: [Ophthalmological findings in children with non-syndromic craniosynostosis: preoperatively and postoperatively up to 12 months after surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC8076926/) — BMJ Open Ophthalmol. 2021 Apr 25;6(1):e000677. doi: 10.1136/bmjophth-2020-000677; CC BY.*
+
+![Craniosynostosis Repair — Figure 9](../../figures/curated/case-prep-craniosynostosis-repair/figure-09-figure-9-bmjophth-2020-000677ilf02-jpg.jpg)
+*Figure 9. Source: [Ophthalmological findings in children with non-syndromic craniosynostosis: preoperatively and postoperatively up to 12 months after surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC8076926/) — BMJ Open Ophthalmol. 2021 Apr 25;6(1):e000677. doi: 10.1136/bmjophth-2020-000677; CC BY.*
+
+![Craniosynostosis Repair — Fig. 1.](../../figures/curated/case-prep-craniosynostosis-repair/figure-10-fig-1-dmm-15-049390-g1-jpg.jpg)
+*Fig. 1.. Cranial sutures and craniosynostosis in humans. (A) A normal human infant skull shown from above (left) and human infant skull shown from the side (right). (B) Skull deformities caused... Source: [The clinical manifestations, molecular mechanisms and treatment of craniosynostosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9044212/) — Disease Models & Mechanisms 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

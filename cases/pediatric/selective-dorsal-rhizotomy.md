@@ -19,16 +19,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebral+palsy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SDR outcomes** — spastic diplegic cerebral palsy gait/function outcomes after selective dorsal rhizotomy. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=selective+dorsal+rhizotomy+cerebral+palsy+long+term+outcomes)
-- **Patient selection** — GMFCS, strength, dystonia exclusion, and rehab-dependent outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=selective+dorsal+rhizotomy+patient+selection+cerebral+palsy+guideline)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20palsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=selective+dorsal+rhizotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (dorsal rootlets / conus — rhizotomy target)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **SELECTIVE DORSAL RHIZOTOMY IN CEREBRAL PALSY: SELECTION CRITERIA AND POSTOPERATIVE PHYSICAL THERAPY PROTOCOLS** — Nicolini-Panisson RD. Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29412426/)
+- **Selective dorsal rhizotomy for spasticity of genetic etiology** — Lohkamp LN. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32300873/)
+- **Selective dorsal rhizotomy: an illustrated review of operative techniques** — Warsi NM. Journal of neurosurgery. Pediatrics 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32032949/)
+- **State of the Evidence Traffic Lights 2019: Systematic Review of Interventions for Preventing and Treating Children with Cerebral Palsy** — Novak I. Current neurology and neuroscience reports 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32086598/)
+- **Cerebral Palsy: An Overview** — Vitrikas K. American family physician 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32053326/)
+- **Cauda Equina-Level Selective Dorsal Rhizotomy** — Enslin JMN. Advances and technical standards in neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40445344/)
+- **Selective dorsal rhizotomy** — Engsberg JR. Journal of neurosurgery. Pediatrics 2008. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18352759/)
+- **The selective dorsal rhizotomy technique for spasticity in 2020: a review** — Abbott R. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32642977/)
+- **The Evolution of Selective Dorsal Rhizotomy for the Management of Spasticity** — Enslin JMN. Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30460456/)
+- **Selective dorsal rhizotomy: current state of practice and the role of imaging** — Graham D. Quantitative imaging in medicine and surgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29675362/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Selective Dorsal Rhizotomy — Fig. 1](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-01-fig-1-381-2024-6439-fig1-html-jpg.jpg)
+*Fig. 1. Rapid MRI of the lumbar spine. a Representative examples of rapid MRI of the lumbar spine for conus localization. Sagittal SSH T2 images were chosen from 8 individual patients with conus... Source: [Single-level laminoplasty approach to selective dorsal rhizotomy with conus localization by rapid spine MRI](https://pmc.ncbi.nlm.nih.gov/articles/PMC11269339/) — Child's Nervous System 2024; CC BY.*
+
+![Selective Dorsal Rhizotomy — Fig. 1](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-02-fig-1-10-1055-a-2482-9156-i24aug0048-1-jpg.jpg)
+*Fig. 1. Preoperative magnetic resonance imaging (MRI) of lumbosacral spine. ( a ) Sagittal view. 1, arachnoid cyst; 2, cauda equina. ( b ) Axial view. 1, arachnoid cyst; 2, cauda equina. Source: [Arachnoid Cyst as a Late Complication of Selective Dorsal Rhizotomy: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11666321/) — Journal of Neurological Surgery Reports 2024; CC BY.*
+
+![Selective Dorsal Rhizotomy — Fig. 1](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-03-fig-1-jco-12-413-g0001-jpg.jpg)
+*Fig. 1. Tone management options in cerebral palsy. Tone management is only one aspect of the musculoskeletal care needs of children with spastic cerebral palsy: lever arm dysfunction and joint... Source: [Selective dorsal rhizotomy in ambulant children with cerebral palsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169562/) — Journal of Children's Orthopaedics 2018; CC BY-NC.*
+
+![Selective Dorsal Rhizotomy — Fig. 2](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-04-fig-2-jco-12-413-g0002-jpg.jpg)
+*Fig. 2. Spasticity reflex arc schematic diagram. Muscle stretch stimulates dorsal (afferent) sensory nerve rootlets, which in turn has a net excitatory effect on alpha motor neurons within the... Source: [Selective dorsal rhizotomy in ambulant children with cerebral palsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169562/) — Journal of Children's Orthopaedics 2018; CC BY-NC.*
+
+![Selective Dorsal Rhizotomy — Fig. 3](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-05-fig-3-jco-12-413-g0003-jpg.jpg)
+*Fig. 3. Kinematic traces of ‘mass flexion (Flx)/extension (Ext)’. Mass flexion-extension is a primitive movement pattern suggesting reduced selective motor control. This can be seen typically... Source: [Selective dorsal rhizotomy in ambulant children with cerebral palsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169562/) — Journal of Children's Orthopaedics 2018; CC BY-NC.*
+
+![Selective Dorsal Rhizotomy — Fig. 4](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-06-fig-4-jco-12-413-g0004-jpg.jpg)
+*Fig. 4. Kinematic traces in dystonia. Uncontrollable movements in dystonia results in large cycle to cycle variations between individual cycles. This individual also walks with plantarflexed... Source: [Selective dorsal rhizotomy in ambulant children with cerebral palsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169562/) — Journal of Children's Orthopaedics 2018; CC BY-NC.*
+
+![Selective Dorsal Rhizotomy — Fig. 5](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-07-fig-5-jco-12-413-g0005-jpg.jpg)
+*Fig. 5. Kinematic pattern of predominantly underlying spasticity affecting gait. ‘Double bump’ pelvis, slow and delayed knee flexion in early swing, reduced knee extension in late swing and... Source: [Selective dorsal rhizotomy in ambulant children with cerebral palsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169562/) — Journal of Children's Orthopaedics 2018; CC BY-NC.*
+
+![Selective Dorsal Rhizotomy — Fig. 6](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-08-fig-6-jco-12-413-g0006-jpg.jpg)
+*Fig. 6. Hamstring length. Musculotendinous length modelling can be performed given known muscle insertions and joint positions. Spasticity is associated with short hamstring length and slow... Source: [Selective dorsal rhizotomy in ambulant children with cerebral palsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169562/) — Journal of Children's Orthopaedics 2018; CC BY-NC.*
+
+![Selective Dorsal Rhizotomy — Fig. 7](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-09-fig-7-jco-12-413-g0007-jpg.jpg)
+*Fig. 7. Brain MRI in periventricular leukomalacia (PVL). The ‘ideal’ candidate for selective dorsal rhizotomy will have isolated PVL (red arrows). Source: [Selective dorsal rhizotomy in ambulant children with cerebral palsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169562/) — Journal of Children's Orthopaedics 2018; CC BY-NC.*
+
+![Selective Dorsal Rhizotomy — FIG. 1.](../../figures/curated/case-prep-selective-dorsal-rhizotomy-sdr/figure-10-fig-1-case25433-figure-1-jpg.jpg)
+*FIG. 1.. Preoperative ankle kinematics demonstrate excessive dynamic right plantar (Plan) flexion during stance and swing. Dor = dorsal. Source: [Repeat selective dorsal rhizotomy for residual spasticity: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC12455223/) — Journal of Neurosurgery: Case Lessons 2025; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

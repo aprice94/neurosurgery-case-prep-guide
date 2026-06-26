@@ -20,19 +20,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=chiari+i+malformation+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Temporal lobe RCT** — Wiebe S et al. *NEJM* 2001 — surgery vs medical therapy for temporal lobe epilepsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebe+randomized+trial+surgery+temporal+lobe+epilepsy+2001+NEJM)
-- **ERSET** — Engel J et al. *JAMA* 2012 — early surgical therapy for drug-resistant TLE. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Engel+early+surgery+mesial+temporal+lobe+epilepsy+ERSET+2012+JAMA)
-- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
-
 > 🧭 **Operative approach:** [Midline suboccipital craniotomy](../approaches/midline-suboccipital-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=chiari%20i%20malformation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=chiari+decompression+duraplasty) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull — foramen magnum / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **The Chiari I malformation** — McClugage SG. Journal of neurosurgery. Pediatrics 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31473667/)
+- **Chiari I malformation in children-the natural history** — Chatrath A. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31363830/)
+- **Chiari I malformation in patients with RASopathies** — Han Y. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33409618/)
+- **Sociodemographics of Chiari I Malformation** — Abbas Akbari SH. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36424058/)
+- **Imaging in Chiari I Malformation** — Pindrik J. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36424066/)
+- **Epidemiology of Chiari I Malformation and Syringomyelia** — Holste KG. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36424068/)
+- **The Chiari-I malformation** — Sclafani AP. Ear, nose, & throat journal 1991. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1874153/)
+- **Arachnoiditis and Chiari I malformation** — Demetriades AK. Acta neurochirurgica 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32948891/)
+- **Elucidating the Genetic Basis of Chiari I Malformation** — Haller G. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36424064/)
+- **Spine Deformity Associated with Chiari I Malformation and Syringomyelia** — Das S. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36424055/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Chiari I Malformation Decompression — Figure 1](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-01-figure-1-cureus-0018-00000108906-i01-jpg.jpg)
+*Figure 1. Frontal photograph of left House-Brackmann grade III facial palsy.Smile reveals left oral commissure deviation with blunted excursion and effaced nasolabial fold, consistent with... Source: [Non-syndromic Developmental Facial Palsy Co-occurring With Chiari I Malformation: Parallel Manifestations of a Shared Prenatal Disturbance?](https://pmc.ncbi.nlm.nih.gov/articles/PMC13265094/) — Cureus 2026; CC BY.*
+
+![Chiari I Malformation Decompression — Figure 2](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-02-figure-2-cureus-0018-00000108906-i02-jpg.jpg)
+*Figure 2. Pre-operative sagittal T1-weighted MRIA. 12-mm cerebellar tonsillar ectopia below McRae line (red arrow, blue line). B. Craniocervical junction crowding with obliterated cerebrospinal... Source: [Non-syndromic Developmental Facial Palsy Co-occurring With Chiari I Malformation: Parallel Manifestations of a Shared Prenatal Disturbance?](https://pmc.ncbi.nlm.nih.gov/articles/PMC13265094/) — Cureus 2026; CC BY.*
+
+![Chiari I Malformation Decompression — Figure 3](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-03-figure-3-cureus-0018-00000108906-i03-jpg.jpg)
+*Figure 3. Post-operative sagittal head computed tomography (CT) following posterior fossa decompression and duraplasty.A. Demonstrates suboccipital craniectomy with bony decompression and expanded... Source: [Non-syndromic Developmental Facial Palsy Co-occurring With Chiari I Malformation: Parallel Manifestations of a Shared Prenatal Disturbance?](https://pmc.ncbi.nlm.nih.gov/articles/PMC13265094/) — Cureus 2026; CC BY.*
+
+![Chiari I Malformation Decompression — Fig. 2.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-04-fig-2-pne-2026-0061-0002-550058-f02-jpg.jpg)
+*Fig. 2.. Sagittal MR showing CMI in a 3-year-old boy who complained of typical nuchal headache (a). IOUS after bony decompression (b) and after scoring of the posterior atlanto-occipital membrane... Source: [Tailoring the Surgical Approach to Chiari I Malformation with Intraoperative Ultrasounds: Advantages, Limitations, and Controversies](https://pmc.ncbi.nlm.nih.gov/articles/PMC13245948/) — Pediatric Neurosurgery 2025; CC BY-NC.*
+
+![Chiari I Malformation Decompression — Fig. 3.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-05-fig-3-pne-2026-0061-0002-550058-f03-jpg.jpg)
+*Fig. 3.. a MRI at 2 years of age showing normal findings. MRI at 5 years of age (b) showing asymptomatic tonsillar ectopia that evolved to symptomatic CMI at 9 years of age (c). Despite adequate... Source: [Tailoring the Surgical Approach to Chiari I Malformation with Intraoperative Ultrasounds: Advantages, Limitations, and Controversies](https://pmc.ncbi.nlm.nih.gov/articles/PMC13245948/) — Pediatric Neurosurgery 2025; CC BY-NC.*
+
+![Chiari I Malformation Decompression — Fig. 4.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-06-fig-4-pne-2026-0061-0002-550058-f04-jpg.jpg)
+*Fig. 4.. Sagittal MR showing CMI with cervical syringomyelia (a) in a 4-year-old boy who received bony decompression based on IOUS findings (b). Postoperative MR confirmed adequate decompression... Source: [Tailoring the Surgical Approach to Chiari I Malformation with Intraoperative Ultrasounds: Advantages, Limitations, and Controversies](https://pmc.ncbi.nlm.nih.gov/articles/PMC13245948/) — Pediatric Neurosurgery 2025; CC BY-NC.*
+
+![Chiari I Malformation Decompression — Fig. 5.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-07-fig-5-pne-2026-0061-0002-550058-f05-jpg.jpg)
+*Fig. 5.. Sagittal MR showing symptomatic complex Chiari in an 8-year-old girl (a) who received bony decompression based on IOUS findings (b). c Radiological outcome on postoperative MR was... Source: [Tailoring the Surgical Approach to Chiari I Malformation with Intraoperative Ultrasounds: Advantages, Limitations, and Controversies](https://pmc.ncbi.nlm.nih.gov/articles/PMC13245948/) — Pediatric Neurosurgery 2025; CC BY-NC.*
+
+![Chiari I Malformation Decompression — FIGURE 2.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-08-figure-2-neu-99-019-g002-jpg.jpg)
+*FIGURE 2.. Sunburst graph for each study. Left half shows the PFD (yellow) and PFD+ (gray) rates of index surgeries. Right half illustrates the proportion of successful PFD (green) and the... Source: [Intraoperative Ultrasound in Chiari 1 Decompression: Clarity or Confusion? A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13236052/) — Neurosurgery 2026; CC BY.*
+
+![Chiari I Malformation Decompression — FIGURE 3.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-09-figure-3-neu-99-019-g003-jpg.jpg)
+*FIGURE 3.. Proposed reporting framework for iUS studies, highlighting a minimum reporting checklist (green), possible emerging techniques (yellow), and relevant outcome measures (grey). Specific... Source: [Intraoperative Ultrasound in Chiari 1 Decompression: Clarity or Confusion? A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13236052/) — Neurosurgery 2026; CC BY.*
+
+![Chiari I Malformation Decompression — Fig. 5](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-10-fig-5-11689-2026-9691-fig5-html-jpg.jpg)
+*Fig. 5. Leave-one-out sensitivity analysis. After removing one study at a time and calculating the pooled prevalence through a random effects model, we found that no single study exerted a... Source: [The prevalence of autism in cerebellar malformations: a systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC13224601/) — Journal of Neurodevelopmental Disorders 2026; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

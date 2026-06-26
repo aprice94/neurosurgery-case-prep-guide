@@ -23,16 +23,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=subdural+hygroma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
-
-![Ventricular / subdural compartments (shunt)](../../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=subdural%20hygroma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=subduroperitoneal+shunt) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Complications of subduroperitoneal shunting** — Ersahin Y. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2000. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10958553/)
+- **A new catheter for subduro-peritoneal shunting** — Erşahin Y. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12382178/)
+- **Minicraniotomy with a subgaleal pocket for the treatment of subdural fluid collections in infants** — Palmer AW. Journal of neurosurgery. Pediatrics 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30717055/)
+- **Managing subdural fluid collection in infants** — Miyake H. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12382175/)
+- **Subdural-atrial and subdural-peritoneal shunting in infants with chronic subdural fluid collections** — Korinth MC. Journal of pediatric surgery 2000. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10999693/)
+- **Rectal dural metastasis masquerading as chronic subdural hematoma: illustrative case** — Siy HFC. Journal of neurosurgery. Case lessons 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37127032/)
+- **Subdural hygroma: results of treatment by ventriculo-abdominal shunt** — Njiokiktjien CJ. Child's brain 1980. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7226982/)
+- **A Rare Complication of Subdural-peritoneal Shunt: Migration of Catheter Components through the Pelvic Inlet into the Subdural Space** — Çakir M. Journal of pediatric neurosciences 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28904576/)
+- **Ruptured intracranial arachnoid cysts in the subdural space: evaluation of subduro-peritoneal shunts in a pediatric population** — Tinois J. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32062780/)
+- **Management of symptomatic chronic extra-axial fluid collections in pediatric patients** — Litofsky NS. Neurosurgery 1992. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1407427/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Subduroperitoneal Shunt Placement — Figure 1](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-01-figure-1-jpn-12-162-g001-jpg.jpg)
+*Figure 1. First admission image with left chronic subdural effusion Source: [A Rare Complication of Subdural-peritoneal Shunt: Migration of Catheter Components through the Pelvic Inlet into the Subdural Space](https://pmc.ncbi.nlm.nih.gov/articles/PMC5588643/) — Journal of Pediatric Neurosciences 2017; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 2](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-02-figure-2-jpn-12-162-g002-jpg.jpg)
+*Figure 2. After the subduroperitoneal shunt placement surgery Source: [A Rare Complication of Subdural-peritoneal Shunt: Migration of Catheter Components through the Pelvic Inlet into the Subdural Space](https://pmc.ncbi.nlm.nih.gov/articles/PMC5588643/) — Journal of Pediatric Neurosciences 2017; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 3](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-03-figure-3-jpn-12-162-g003-jpg.jpg)
+*Figure 3. Control abdominal X-ray showing that the shunt material completely migrated into the pelvic inlet Source: [A Rare Complication of Subdural-peritoneal Shunt: Migration of Catheter Components through the Pelvic Inlet into the Subdural Space](https://pmc.ncbi.nlm.nih.gov/articles/PMC5588643/) — Journal of Pediatric Neurosciences 2017; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 4](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-04-figure-4-jpn-12-162-g004-jpg.jpg)
+*Figure 4. Control brain computed tomography scan showing that the shunt material completely migrated into the cranium Source: [A Rare Complication of Subdural-peritoneal Shunt: Migration of Catheter Components through the Pelvic Inlet into the Subdural Space](https://pmc.ncbi.nlm.nih.gov/articles/PMC5588643/) — Journal of Pediatric Neurosciences 2017; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 5](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-05-figure-5-jpn-12-162-g005-jpg.jpg)
+*Figure 5. Control plane anterior-posterior X-ray of the skull showing that the shunt material completely migrated into the cranium Source: [A Rare Complication of Subdural-peritoneal Shunt: Migration of Catheter Components through the Pelvic Inlet into the Subdural Space](https://pmc.ncbi.nlm.nih.gov/articles/PMC5588643/) — Journal of Pediatric Neurosciences 2017; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 6](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-06-figure-6-jpn-12-162-g006-jpg.jpg)
+*Figure 6. Three months later, control magnetic resonance imaging. After the surgical evacuation Source: [A Rare Complication of Subdural-peritoneal Shunt: Migration of Catheter Components through the Pelvic Inlet into the Subdural Space](https://pmc.ncbi.nlm.nih.gov/articles/PMC5588643/) — Journal of Pediatric Neurosciences 2017; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 1](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-07-figure-1-sni-2-88-g001-jpg.jpg)
+*Figure 1. Evolution of Subdural Collection through sequential computed tomography scans. The collection reaches its peak volume by day 31, then, a subdural catheter is placed by day 32. By day 35,... Source: [Normal pressure subdural hygroma with mass effect as a complication of decompressive craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3130440/) — Surgical Neurology International 2011; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 2](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-08-figure-2-sni-2-88-g002-jpg.jpg)
+*Figure 2. Surgical view: Brain parenchyma is depressed, and neomembranes are seeing in the operative field with thick vessels Source: [Normal pressure subdural hygroma with mass effect as a complication of decompressive craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3130440/) — Surgical Neurology International 2011; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 9](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-09-figure-9-sni-2-88-g003-jpg.jpg)
+*Figure 9. Source: [Normal pressure subdural hygroma with mass effect as a complication of decompressive craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3130440/) — Surg Neurol Int. 2011 Jun 30;2:88. doi: 10.4103/2152-7806.82370; CC BY-NC-SA.*
+
+![Subduroperitoneal Shunt Placement — Figure 3](../../../figures/curated/case-prep-subduroperitoneal-subdural-peritoneal-shunt-placement/figure-10-figure-3-sni-2-88-g004-jpg.jpg)
+*Figure 3. Open cranial Vault: the abnormal permeability allows the protein leakage, thus increasing the oncotic pressure of the subdural effusion, and drawing water. With the decompressive... Source: [Normal pressure subdural hygroma with mass effect as a complication of decompressive craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3130440/) — Surgical Neurology International 2011; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -21,18 +21,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=trigeminal+neuralgia+neurovascular+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **MVD outcome** — Barker FG 2nd et al. *NEJM* 1996 — long-term outcome of microvascular decompression for TN. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Barker+microvascular+decompression+trigeminal+neuralgia+1996+NEJM)
-- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
-
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=trigeminal%20neuralgia%20neurovascular&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=microvascular+decompression+trigeminal+neuralgia) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull — posterior fossa / cerebellopontine angle (CN V root entry zone)](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Trigeminal Neuralgia** — Cruccu G. The New England journal of medicine 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32813951/)
+- **[Microvascular Decompression for Trigeminal Neuralgia Due to Venous Compression]** — Toda H. No shinkei geka. Neurological surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38246674/)
+- **[Microvascular decompression in trigeminal neuralgia following vertebrobasilar dolichoectasia]** — Shulev YA. Zhurnal voprosy neirokhirurgii imeni N. N. Burdenko 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33095533/)
+- **Microvascular decompression for trigeminal neuralgia due to vertebrobasilar artery compression: a systematic review and meta-analysis** — Di Carlo DT. Neurosurgical review 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34309748/)
+- **Surgical technique management of microvascular decompression for trigeminal neuralgia** — Yang L. Ideggyogyaszati szemle 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36541149/)
+- **Trigeminal Neuralgia** — Cruccu G. Continuum (Minneapolis, Minn.) 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28375911/)
+- **Trigeminal Neuralgia** — Zakrzewska JM. American family physician 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27419329/)
+- **Endoscopic microvascular decompression versus microscopic microvascular decompression for trigeminal neuralgia: A systematic review and meta-analysis** — Chen L. Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37776679/)
+- **Microvascular decompression for trigeminal neuralgia** — Sade B. Neurosurgery clinics of North America 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25240661/)
+- **Microvascular decompression for pediatric onset trigeminal neuralgia: patterns and variation** — Dou NN. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35034138/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Microvascular Decompression Trigeminal Neuralgia — Fig. 1](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-01-fig-1-10072-2013-1518-fig1-html-jpg.jpg)
+*Fig. 1. Representative intraoperative images of a artery compression and vein close, b vein compression, and c arachnoid adhesions Source: [Arterial compression of nerve is the primary cause of trigeminal neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC3889704/) — Neurological Sciences 2013; CC BY.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Fig. 1](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-02-fig-1-10194-2019-969-fig1-html-jpg.jpg)
+*Fig. 1. Neuroimaging findings in a representative patient with TN secondary to MS possibly due to a double crush mechanism. 3D time-of-flight (TOF) magnetic resonance angiography scans (a) and... Source: [Trigeminal neuralgia secondary to multiple sclerosis: from the clinical picture to the treatment options](https://pmc.ncbi.nlm.nih.gov/articles/PMC6734488/) — The Journal of Headache and Pain 2019; CC BY.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Fig. 2](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-03-fig-2-10194-2019-969-fig2-html-jpg.jpg)
+*Fig. 2. Voxel-based analysis in patients with TN secondary to MS. Voxel-based brainstem model in patients with TN secondary to MS (TN group, n = 42) and in patients with trigeminal sensory... Source: [Trigeminal neuralgia secondary to multiple sclerosis: from the clinical picture to the treatment options](https://pmc.ncbi.nlm.nih.gov/articles/PMC6734488/) — The Journal of Headache and Pain 2019; CC BY.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Figure 1](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-04-figure-1-scs-33-e497-g001-jpg.jpg)
+*Figure 1. Patient 1: (A) Three-dimensional time-of-flight magnetic resonance angiography findings. Anterior inferior cerebellar artery compresses the right trigeminal nerve, left side was... Source: [Unilateral Approach to Primary Bilateral Trigeminal Neuralgia Via Bilateral Microvascular Decompression](https://pmc.ncbi.nlm.nih.gov/articles/PMC9275838/) — The Journal of Craniofacial Surgery 2022; CC BY-NC-ND.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Figure 2](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-05-figure-2-scs-33-e497-g002-jpg.jpg)
+*Figure 2. Patient 2: (A) Three-dimensional time-of-flight magnetic resonance angiography findings. Superior cerebellar artery compressed the left trigeminal nerve. (b) Contralateral trigeminal... Source: [Unilateral Approach to Primary Bilateral Trigeminal Neuralgia Via Bilateral Microvascular Decompression](https://pmc.ncbi.nlm.nih.gov/articles/PMC9275838/) — The Journal of Craniofacial Surgery 2022; CC BY-NC-ND.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Figure 6](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-06-figure-6-medi-98-e14239-g001-jpg.jpg)
+*Figure 6. Source: [Acupuncture treatment on idiopathic trigeminal neuralgia: A systematic review protocol](https://pmc.ncbi.nlm.nih.gov/articles/PMC6358347/) — Medicine (Baltimore). 2019 Jan 25;98(4):e14239. doi: 10.1097/MD.0000000000014239; CC BY.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Figure 1](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-07-figure-1-medi-98-e14239-g002-jpg.jpg)
+*Figure 1. Flow diagram of selection process. Source: [Acupuncture treatment on idiopathic trigeminal neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC6358347/) — Medicine 2019; CC BY.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Figure 1](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-08-figure-1-acc-61-supp2-96-f1-jpg.jpg)
+*Figure 1. A Passage of the needle through the lateral part of the foramen ovale, B advancement of the needle towards the Gasseri ganglia, C position of the needle for radiofrequency ablation of... Source: [TREATMENT OPTIONS FOR TRIGEMINAL NEURALGIA](https://pmc.ncbi.nlm.nih.gov/articles/PMC9942467/) — Acta Clinica Croatica 2022; CC BY-NC-ND.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Figure 9](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-09-figure-9-jove-53-2590-0-jpg.jpg)
+*Figure 9. Source: [Microvascular Decompression: Salient Surgical Principles and Technical Nuances](https://pmc.ncbi.nlm.nih.gov/articles/PMC3196190/) — J Vis Exp. 2011 Jul 5;(53):2590. doi: 10.3791/2590; CC BY-NC-ND.*
+
+![Microvascular Decompression Trigeminal Neuralgia — Figure 10](../../figures/curated/case-prep-microvascular-decompression-mvd-for-trigeminal-neuralgia/figure-10-figure-10-jove-53-2590-1-jpg.jpg)
+*Figure 10. Source: [Microvascular Decompression: Salient Surgical Principles and Technical Nuances](https://pmc.ncbi.nlm.nih.gov/articles/PMC3196190/) — J Vis Exp. 2011 Jul 5;(53):2590. doi: 10.3791/2590; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -20,17 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spinal+cord+cavernoma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Patchell (cord compression)** — Patchell RA et al. *Lancet* 2005 — decompressive surgery + RT for metastatic epidural compression. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+decompressive+surgery+metastatic+epidural+spinal+cord+compression+2005+Lancet)
-- **SINS** — Fisher CG et al. *Spine* 2010 — spinal instability neoplastic score. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fisher+spinal+instability+neoplastic+score+SINS+2010)
-- **NOMS** — Laufer I et al. *Oncologist* 2013 — NOMS decision framework. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Laufer+NOMS+framework+spinal+metastases+2013+Oncologist)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20cord%20cavernoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intramedullary+spinal+cavernous+malformation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (dorsal myelotomy / surface-presenting lesion)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Spinal Cord Cavernous Malformation: A Case Report** — Izi Z. Global pediatric health 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37434870/)
+- **How I do it: resection of spinal cord cavernous malformation** — Agosti E. Acta neurochirurgica 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35764695/)
+- **A Rare Instance of Spinal Cord Cavernous Malformation With Adjacent Intramedullary Microhemorrhage** — Yu L. The Journal of craniofacial surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38682949/)
+- **Clinical features and long-term outcomes of pediatric spinal cord cavernous malformation-a report of 18 cases and literature review** — Zhang L. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32591875/)
+- **C5-C6 Cervical Spinal Cord Cavernous Malformation Microsurgical Resection: 2-Dimensional Operative Video** — Enriquez-Marulanda A. Operative neurosurgery (Hagerstown, Md.) 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29635403/)
+- **Natural history of hemorrhagic events in spinal cord cavernous malformation: an updated systematic review and Meta-Analysis** — Wadhwa A. Neurosurgical review 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41609901/)
+- **Acceptance of Early Surgery for Treatment of Spinal Cord Cavernous Malformation in Contemporary Japan** — Kurokawa R. Neurospine 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37401077/)
+- **Ascending Spinal Cord Infarction Secondary to Recurrent Spinal Cord Cavernous Malformation Hemorrhage** — Huntley GD. Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28236596/)
+- **Conservative and Surgical Management of Spinal Cord Cavernous Malformations** — Ohnishi YI. World neurosurgery: X 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31891154/)
+- **Microsurgical resection of symptomatic intramedullary cervical spinal cord cavernous malformation** — Dziedzic TA. Neurosurgical focus: Video 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36285059/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Spinal Cord Cavernous Malformation Resection — Figure 1](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-01-figure-1-ns-2346574-287i1-jpg.jpg)
+*Figure 1. Source: [The Reality of Benefit in Surgical Removal for Spinal Cord Cavernous Malformation: Commentary on “Acceptance of Early Surgery for Treatment of Spinal Cord Cavernous Malformation in Contemporary Japan”](https://pmc.ncbi.nlm.nih.gov/articles/PMC10323340/) — Neurospine. 2023 Jun 30;20(2):595–6. doi: 10.14245/ns.2346574.287; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Figure 1.](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-02-figure-1-10-1177-2333794x231184317-fig1-jpg.jpg)
+*Figure 1.. Sagittal (A and B) and axial (C) T2-W spinal MR images shows 2 focal hyperintensity with hypointense edge with surrounding spinal cord edema, this appearance described as « Popcorn ». Source: [Spinal Cord Cavernous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10331179/) — Global Pediatric Health 2023; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Figure 2.](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-03-figure-2-10-1177-2333794x231184317-fig2-jpg.jpg)
+*Figure 2.. Susceptibility-weighted imaging gradient echo (GE) shows hypointense lesions “blooming.” Source: [Spinal Cord Cavernous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10331179/) — Global Pediatric Health 2023; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Figure 3.](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-04-figure-3-10-1177-2333794x231184317-fig3-jpg.jpg)
+*Figure 3.. Sagittal T1-W spinal MR images before (A) and after injection of Gadolinium (B) shows 2 focal hyperintensity with no enhancement (pink arrows), with linear hyperintensity reflect... Source: [Spinal Cord Cavernous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10331179/) — Global Pediatric Health 2023; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Figure 5](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-05-figure-5-10-1177-2333794x231184317-img1-jpg.jpg)
+*Figure 5. Source: [Spinal Cord Cavernous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10331179/) — Glob Pediatr Health. 2023 Jul 6;10:2333794X231184317. doi: 10.1177/2333794X231184317; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Fig. 1.](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-06-fig-1-ns-2346134-067f1-jpg.jpg)
+*Fig. 1.. Disease duration before presentation to the hospital, stratified by preoperative modified McCormick scale (mMS). Source: [Acceptance of Early Surgery for Treatment of Spinal Cord Cavernous Malformation in Contemporary Japan](https://pmc.ncbi.nlm.nih.gov/articles/PMC10323330/) — Neurospine 2023; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Fig. 2.](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-07-fig-2-ns-2346134-067f2-jpg.jpg)
+*Fig. 2.. Number of days between the first visit to hospital and surgery, stratified by preoperative modified McCormick scale (mMS). Source: [Acceptance of Early Surgery for Treatment of Spinal Cord Cavernous Malformation in Contemporary Japan](https://pmc.ncbi.nlm.nih.gov/articles/PMC10323330/) — Neurospine 2023; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Fig. 3.](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-08-fig-3-ns-2346134-067f3-jpg.jpg)
+*Fig. 3.. Time between symptom onset and surgery, stratified by preoperative modified McCormick scale (mMS). Source: [Acceptance of Early Surgery for Treatment of Spinal Cord Cavernous Malformation in Contemporary Japan](https://pmc.ncbi.nlm.nih.gov/articles/PMC10323330/) — Neurospine 2023; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Fig. 1](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-09-fig-1-jchim-13-03-062f1-jpg.jpg)
+*Fig. 1. MRI demonstrating cavernous malformation in Short Tau Inversion Recovery sagittal and T2 axial views. Source: [Spontaneous Hemorrhage of Thoracic Cavernous Malformation Leading to Bilateral Lower Extremity Paralysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10593171/) — Journal of Community Hospital Internal Medicine Perspectives 2023; CC BY-NC.*
+
+![Spinal Cord Cavernous Malformation Resection — Fig. 2](../../figures/curated/case-prep-spinal-cord-cavernous-malformation-resection/figure-10-fig-2-10143-2026-4144-fig2-html-jpg.jpg)
+*Fig. 2. Proportion of included studies reporting demographic variables Source: [Reporting practices of baseline and surgical variables in spinal cavernous malformation surgery: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12923459/) — Neurosurgical Review 2026; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

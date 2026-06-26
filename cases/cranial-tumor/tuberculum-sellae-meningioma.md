@@ -23,11 +23,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=tuberculum+sellae+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Simpson grade** — resection extent and recurrence framework for meningioma surgery. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **EANO guideline** — diagnosis, observation, surgery, radiation, and surveillance for meningiomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 > 🧭 **Operative approach:** [Supraorbital keyhole craniotomy](../approaches/supraorbital-keyhole-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
@@ -35,9 +30,76 @@ tags:
 - **Imaging:** [Radiopaedia — tuberculum sellae meningioma](https://radiopaedia.org/search?q=tuberculum%20sellae%20meningioma&scope=all)
 - **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=tuberculum+sellae+meningioma)
 
-![Median sagittal section — sella turcica / suprasellar region](../../figures/anatomy/pituitary-sella_gray1180.png)
 
-*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **International Tuberculum Sellae Meningioma Study: Surgical Outcomes and Management Trends** — Magill ST. Neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37389475/)
+- **Tuberculum Sellae Meningioma: Report of Two Cases and Literature Review of Limits of the Transcranial and Endonasal Endoscopic Approaches** — Silvestri M. Acta neurochirurgica. Supplement 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38153452/)
+- **International Tuberculum Sellae Meningioma Study: Preoperative Grading Scale to Predict Outcomes and Propensity-Matched Outcomes by Endonasal Versus Transcranial Approach** — Magill ST. Neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37418417/)
+- **Surgical Management of Tuberculum Sellae Meningioma: Our Experience and Review of the Literature** — Sankhla SK. Neurology India 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34979648/)
+- **Olfactory groove and tuberculum sellae meningioma resection by endoscopic endonasal approach versus transcranial approach: A systematic review and meta-analysis of comparative studies** — Lu VM. Clinical neurology and neurosurgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30193170/)
+- **Surgical management of tuberculum sellae meningioma: Transcranial approach or endoscopic endonasal approach?** — Qian K. Frontiers in surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36117830/)
+- **Contralateral supraorbital eyebrow approach for tuberculum sellae meningioma** — Das KK. Acta neurochirurgica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37452902/)
+- **Tuberculum sellae meningioma surgery: visual outcomes and surgical aspects of contralateral approach** — Voznyak O. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32180047/)
+- **Contralateral subfrontal approach for tuberculum sellae meningioma: techniques and clinical outcomes** — Kim YJ. Journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35901684/)
+- **Microsurgical Resection of Tuberculum Sellae Meningioma through Pterional Approach with Extradural Optic Canal Unroofing** — Matsuo S. Journal of neurological surgery. Part B, Skull base 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36068909/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Tuberculum Sellae Meningioma Resection — Figure 1](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-01-figure-1-ajns-7-21-g001-jpg.jpg)
+*Figure 1. Pterional approach marking (a) A representative head CT scan before; (b) and after pterional approach surgery; (c) Red arrow: Tuberculum sellae meningioma Source: [Pterional approach versus unilateral frontal approach on tuberculum sellae meningioma: Single centre experiences](https://pmc.ncbi.nlm.nih.gov/articles/PMC3358953/) — Asian Journal of Neurosurgery 2012; CC BY-NC-SA.*
+
+![Tuberculum Sellae Meningioma Resection — Figure 2](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-02-figure-2-ajns-7-21-g002-jpg.jpg)
+*Figure 2. Source: [Pterional approach versus unilateral frontal approach on tuberculum sellae meningioma: Single centre experiences](https://pmc.ncbi.nlm.nih.gov/articles/PMC3358953/) — Asian J Neurosurg. 2012 Jan-Mar;7(1):21–4. doi: 10.4103/1793-5482.95691; CC BY-NC-SA.*
+
+![Tuberculum Sellae Meningioma Resection — Figure 3](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-03-figure-3-ajns-7-21-g003-jpg.jpg)
+*Figure 3. Source: [Pterional approach versus unilateral frontal approach on tuberculum sellae meningioma: Single centre experiences](https://pmc.ncbi.nlm.nih.gov/articles/PMC3358953/) — Asian J Neurosurg. 2012 Jan-Mar;7(1):21–4. doi: 10.4103/1793-5482.95691; CC BY-NC-SA.*
+
+![Tuberculum Sellae Meningioma Resection — Figure 4](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-04-figure-4-ajns-7-21-g004-jpg.jpg)
+*Figure 4. Source: [Pterional approach versus unilateral frontal approach on tuberculum sellae meningioma: Single centre experiences](https://pmc.ncbi.nlm.nih.gov/articles/PMC3358953/) — Asian J Neurosurg. 2012 Jan-Mar;7(1):21–4. doi: 10.4103/1793-5482.95691; CC BY-NC-SA.*
+
+![Tuberculum Sellae Meningioma Resection — Figure 5](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-05-figure-5-ajns-7-21-g005-jpg.jpg)
+*Figure 5. Source: [Pterional approach versus unilateral frontal approach on tuberculum sellae meningioma: Single centre experiences](https://pmc.ncbi.nlm.nih.gov/articles/PMC3358953/) — Asian J Neurosurg. 2012 Jan-Mar;7(1):21–4. doi: 10.4103/1793-5482.95691; CC BY-NC-SA.*
+
+![Tuberculum Sellae Meningioma Resection — Figure 1](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-06-figure-1-ajns-9-236-g001-jpg.jpg)
+*Figure 1. Magnetic resonance images: T1 weighted contrast-enhanced sagittal (a) and coronal (b) preoperative images showing coexistent macroadenoma and tuberculum sellae meningioma. Postoperative... Source: [Endoscopic endonasal transsphenoidal approach for resection of a coexistent pituitary macroadenoma and a tuberculum sellae meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC4323972/) — Asian Journal of Neurosurgery 2014; CC BY-NC-SA.*
+
+![Tuberculum Sellae Meningioma Resection — Figure 2](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-07-figure-2-ajns-9-236-g002-jpg.jpg)
+*Figure 2. (a) The intraoperative endoscopic view (screenshot) of the endonasal transsphenoidal approach to the planum sphenoidale and tuberculum sellae and identification of the meningioma. (b)... Source: [Endoscopic endonasal transsphenoidal approach for resection of a coexistent pituitary macroadenoma and a tuberculum sellae meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC4323972/) — Asian Journal of Neurosurgery 2014; CC BY-NC-SA.*
+
+![Tuberculum Sellae Meningioma Resection — Fig. 1](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-08-fig-1-10-1055-s-0037-1620245-i170081ov-1-jpg.jpg)
+*Fig. 1. ( A ) Preoperative MRI shows a contrast-enhanced tuberculum sellae lesion, suspicious of meningioma. ( B ) The left optic nerve (II c.n.) is evidenced through a left pterional approach.... Source: [Tuberculum Sellae Meningioma Resection: Technical Nuances on the Frontopterional Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC5797317/) — Journal of Neurological Surgery. Part B, Skull Base 2018; CC BY-NC-ND.*
+
+![Tuberculum Sellae Meningioma Resection — Figure](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-09-figure-sni-13-93-g001-jpg.jpg)
+*Figure. Figure 1 Source: [Keyhole supraorbital eyebrow approach for the resection of a tuberculum sellae meningioma with intraoperative endoscopic assistance](https://pmc.ncbi.nlm.nih.gov/articles/PMC8986636/) — Surgical Neurology International 2022; CC BY-NC-SA.*
+
+![Tuberculum Sellae Meningioma Resection — Figure 10](../../figures/curated/case-prep-tuberculum-sellae-meningioma-resection/figure-10-figure-10-sni-13-93-inline001-jpg.jpg)
+*Figure 10. Source: [Keyhole supraorbital eyebrow approach for the resection of a tuberculum sellae meningioma with intraoperative endoscopic assistance](https://pmc.ncbi.nlm.nih.gov/articles/PMC8986636/) — Surg Neurol Int. 2022 Mar 18;13:93. doi: 10.25259/SNI_1173_2021; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

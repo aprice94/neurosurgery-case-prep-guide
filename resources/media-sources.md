@@ -15,6 +15,7 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 - **Linked, not copied:** Copyrighted figures (textbooks, the Neurosurgical Atlas, Rhoton collection, most journal figures) are **linked to their source**, not downloaded into this repo. Copying them here — especially on GitHub — would infringe copyright.
 - **Embedded only if openly licensed:** Images that are **public domain** or **Creative Commons** (Wikimedia Commons, Gray's/Sobotta historical plates, open-access CC-BY journal figures) may be embedded directly, **with attribution + license**.
 - **Attribution format for embeds:** `*Source: <work>, <author/year>. <License>. via <site> (<url>).*`
+- **Source discipline:** See the [Source Crosswalk & Copyright-Safe Use](source-crosswalk.md) page for how to cite textbooks, board-card material, and proprietary atlases without re-hosting protected content.
 
 ---
 

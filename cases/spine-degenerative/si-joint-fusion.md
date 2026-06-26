@@ -21,16 +21,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=sacroiliac+joint+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SI fusion trials** — minimally invasive SI joint fusion vs nonsurgical management outcomes. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=sacroiliac+joint+fusion+randomized+trial+nonsurgical+management)
-- **Diagnosis standards** — provocative testing and diagnostic block literature for SI-mediated pain. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=sacroiliac+joint+pain+diagnosis+provocative+tests+diagnostic+block+guideline)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=sacroiliac%20joint&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=sacroiliac+joint+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — sacrum / sacroiliac region](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Sacroiliac Joint Interventions** — Yang AJ. Physical medicine and rehabilitation clinics of North America 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35526971/)
+- **Sacroiliac Joint Anatomy** — Roberts SL. Physical medicine and rehabilitation clinics of North America 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34593138/)
+- **Sacroiliac joint dysfunction: anatomy, pathophysiology, differential diagnosis, and treatment approaches** — Waldman LE. Skeletal radiology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39556269/)
+- **Sacroiliac Joint Interventions** — Soto Quijano DA. Physical medicine and rehabilitation clinics of North America 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29173661/)
+- **The sacroiliac joint: an overview of its anatomy, function and potential clinical implications** — Vleeming A. Journal of anatomy 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22994881/)
+- **Sacroiliac Joint: Mimics and Pitfalls** — Lowry MKJ. Seminars in musculoskeletal radiology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40164078/)
+- **Sacroiliac joint pain** — Dreyfuss P. The Journal of the American Academy of Orthopaedic Surgeons 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15473677/)
+- **The Sacroiliac Joint** — Polly DW Jr. Neurosurgery clinics of North America 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28600004/)
+- **Sacroiliac Joint Diagnostic Block and Radiofrequency Ablation Techniques** — Loh E. Physical medicine and rehabilitation clinics of North America 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34593139/)
+- **The Sacroiliac Joint: A Current State-of-the-Art Review** — Polly DW Jr. JBJS reviews 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38315777/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Sacroiliac Joint Fusion — Fig. 1](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-01-fig-1-jbjsam-101-400-g001-00022f1-jpg.jpg)
+*Fig. 1. Patient flow. SIJA = sacroiliac joint arthrodesis, CM = conservative management, FU = follow-up, m = month, X-over = crossover, and LTFU = lost to FU. Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 2](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-02-fig-2-jbjsam-101-400-g002-00022f2-jpg.jpg)
+*Fig. 2. Change in VAS low back (LB) pain, VAS leg pain, ODI, EQ-5D time trade-off (TTO), EQ-5D VAS, and Zung Depression Scale scores. Blue indicates the conservative management group, and green... Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 3](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-03-fig-3-jbjsam-101-400-g003-00022f3-jpg.jpg)
+*Fig. 3. Change in functional test (active straight leg raise test) by treatment and time (left) and the number of positive physical examination signs (right). Blue indicates the conservative... Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 4](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-04-fig-4-jbjsam-101-400-g004-00022f4-jpg.jpg)
+*Fig. 4. Proportion of subjects reporting opioid use in the past 2 weeks by treatment and study visit. Blue indicates the conservative management (CM) group, and green indicates the sacroiliac... Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 5-A](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-05-fig-5-a-jbjsam-101-400-g005-00022f5a-jpg.jpg)
+*Fig. 5-A. Change in walking distance and ambulatory status. Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 5-B](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-06-fig-5-b-jbjsam-101-400-g006-00022f5b-jpg.jpg)
+*Fig. 5-B. Change in work status and comparison with baseline. Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 5-C](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-07-fig-5-c-jbjsam-101-400-g007-00022f5c-jpg.jpg)
+*Fig. 5-C. Change in satisfaction and desirability of having a surgical procedure again by treatment and follow-up visit. Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 6](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-08-fig-6-jbjsam-101-400-g008-00022f6-jpg.jpg)
+*Fig. 6. Change in VAS low back (LB) pain, VAS leg pain, ODI, Zung Depression Scale, EQ-5D time trade-off (TTO), and EQ-5D VAS scores including subjects who crossed over from conservative... Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 7](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-09-fig-7-jbjsam-101-400-g009-00022f7-jpg.jpg)
+*Fig. 7. Imaging of typical configuration of implants. Fig. 7-A Inlet-view pelvic radiograph. Fig. 7-B A 12-month CT image from a different subject showing no radiolucencies around the first... Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+![Sacroiliac Joint Fusion — Fig. 8](../../figures/curated/case-prep-sacroiliac-si-joint-fusion/figure-10-fig-8-jbjsam-101-400-g010-00022f8-jpg.jpg)
+*Fig. 8. A 12-month CT image depicting bilateral implants with bone apposition along the entire length of the superior and inferior sides of both implants. Also, there is bone overgrowth at the... Source: [Randomized Trial of Sacroiliac Joint Arthrodesis Compared with Conservative Management for Chronic Low Back Pain Attributed to the Sacroiliac Joint](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467578/) — The Journal of Bone and Joint Surgery. American Volume 2019; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

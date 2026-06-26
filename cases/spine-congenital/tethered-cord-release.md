@@ -21,15 +21,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=tethered+spinal+cord+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=tethered%20spinal%20cord&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=tethered+cord+release+filum) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (conus / cauda equina / filum region)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Tethered cord syndrome** — Agarwalla PK. Neurosurgery clinics of North America 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17678753/)
+- **Tethered Cord Syndrome After Myelomeningocele Repair: A Literature Update** — Ferreira Furtado LM. Cureus 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33072445/)
+- **Clinical criteria for filum terminale resection in occult tethered cord syndrome** — Klinge PM. Journal of neurosurgery. Spine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38489815/)
+- **Tethered cord syndrome from pediatric and adult perspectives: a comprehensive systematic review of 6135 cases** — He K. Neurosurgical focus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38823051/)
+- **Mapping and monitoring of tethered cord and cauda equina surgeries** — Galloway G. Handbook of clinical neurology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35772890/)
+- **[Tethered cord syndrome in children: about a case]** — Hode L. The Pan African medical journal 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32110267/)
+- **Tethered cord syndrome in KBG syndrome** — Hills S. American journal of medical genetics. Part A 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36722669/)
+- **Tethered Cord Syndrome (TCS)** — Weisbrod LJ. 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36256768/)
+- **Diagnosis and Management of Tethered Cord Syndrome** — Hara T. Advances and technical standards in neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38700679/)
+- **Split cord malformation and tethered cord syndrome: case series with long-term follow-up and literature review** — Kobets AJ. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33242106/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Tethered Cord Release — Figure 1](../../figures/curated/case-prep-tethered-cord-release/figure-01-figure-1-tp-11-03-403-f1-jpg.jpg)
+*Figure 1. Flow chart of retrieving articles. RCT, randomized controlled trial. Source: [A systematic review and meta-analysis of minimally invasive surgery in children with occult tethered cord syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC8976679/) — Translational Pediatrics 2022; CC BY-NC-ND.*
+
+![Tethered Cord Release — Fig. 1](../../figures/curated/case-prep-tethered-cord-release/figure-02-fig-1-f1200003-1-jpg.jpg)
+*Fig. 1. Patient 2 preoperative supine anteroposterior view (90 degrees T11–L3). Abbreviation: AP, anteroposterior. Source: [Concurrent Tethered Cord Release and Growing-Rod Implantation—Is It Safe?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864420/) — Global Spine Journal 2012; open access.*
+
+![Tethered Cord Release — Fig. 2](../../figures/curated/case-prep-tethered-cord-release/figure-03-fig-2-f1200003-2-jpg.jpg)
+*Fig. 2. Patient 2 postoperative supine anteroposterior view (53 degrees T11–L3). Abbreviations: AP, anteroposterior; post op, postoperative. Source: [Concurrent Tethered Cord Release and Growing-Rod Implantation—Is It Safe?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864420/) — Global Spine Journal 2012; open access.*
+
+![Tethered Cord Release — Fig. 3](../../figures/curated/case-prep-tethered-cord-release/figure-04-fig-3-f1200003-3-jpg.jpg)
+*Fig. 3. Patient 2 preoperative recumbent lateral view. Note thoracolumbar kyphosis. Source: [Concurrent Tethered Cord Release and Growing-Rod Implantation—Is It Safe?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864420/) — Global Spine Journal 2012; open access.*
+
+![Tethered Cord Release — Fig. 4](../../figures/curated/case-prep-tethered-cord-release/figure-05-fig-4-f1200003-4-jpg.jpg)
+*Fig. 4. Patient 2 postoperative lateral view. Abbreviations: post op, postoperative. Source: [Concurrent Tethered Cord Release and Growing-Rod Implantation—Is It Safe?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864420/) — Global Spine Journal 2012; open access.*
+
+![Tethered Cord Release — Figure 6](../../figures/curated/case-prep-tethered-cord-release/figure-06-figure-6-nrr-14-149-g001-jpg.jpg)
+*Figure 6. Source: [Microsurgical efficacy in 326 children with tethered cord syndrome: a retrospective analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6262992/) — Neural Regen Res. 2019 Jan;14(1):149–55. doi: 10.4103/1673-5374.243720; CC BY-NC-SA.*
+
+![Tethered Cord Release — Figure 2](../../figures/curated/case-prep-tethered-cord-release/figure-07-figure-2-nrr-14-149-g003-jpg.jpg)
+*Figure 2. Spina Bifida Neurological Scale (SBNS) functional classification of children with different types of tethered cord syndrome before surgery and 3 months after surgery (n = 326).Horizontal... Source: [Microsurgical efficacy in 326 children with tethered cord syndrome: a retrospective analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6262992/) — Neural Regeneration Research 2019; CC BY-NC-SA.*
+
+![Tethered Cord Release — Figure 3](../../figures/curated/case-prep-tethered-cord-release/figure-08-figure-3-nrr-14-149-g004-jpg.jpg)
+*Figure 3. Efficacy analysis of different types of tethered cord syndrome postoperatively.Horizontal axis shows the number of patients (n = 326). Source: [Microsurgical efficacy in 326 children with tethered cord syndrome: a retrospective analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6262992/) — Neural Regeneration Research 2019; CC BY-NC-SA.*
+
+![Tethered Cord Release — Figure 4](../../figures/curated/case-prep-tethered-cord-release/figure-09-figure-4-nrr-14-149-g005-jpg.jpg)
+*Figure 4. Efficacy percentage of different types of tethered cord syndrome postoperatively.Efficiency = (marked effect + stable)/total number of cases followed up (n = 326). Source: [Microsurgical efficacy in 326 children with tethered cord syndrome: a retrospective analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6262992/) — Neural Regeneration Research 2019; CC BY-NC-SA.*
+
+![Tethered Cord Release — Figure 10](../../figures/curated/case-prep-tethered-cord-release/figure-10-figure-10-nrr-14-149-g006-jpg.jpg)
+*Figure 10. Source: [Microsurgical efficacy in 326 children with tethered cord syndrome: a retrospective analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6262992/) — Neural Regen Res. 2019 Jan;14(1):149–55. doi: 10.4103/1673-5374.243720; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

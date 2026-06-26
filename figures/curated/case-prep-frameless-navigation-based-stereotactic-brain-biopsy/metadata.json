@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC9954386",
+    "article_title": "A Comparison of the Safety, Efficacy, and Accuracy of Frame-Based versus Remebot Robot-Assisted Stereotactic Systems for Biopsy of Brainstem Tumors",
+    "journal": "Brain Sciences",
+    "year": "2023",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Image of the Remebot system.",
+    "href": "brainsci-13-00362-g001.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-01-figure-1-brainsci-13-00362-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9954386.1/brainsci-13-00362-g001.jpg?md5=f4a6ab15538347d44268bb1d26a119f7"
+  },
+  {
+    "pmcid": "PMC9954386",
+    "article_title": "A Comparison of the Safety, Efficacy, and Accuracy of Frame-Based versus Remebot Robot-Assisted Stereotactic Systems for Biopsy of Brainstem Tumors",
+    "journal": "Brain Sciences",
+    "year": "2023",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Case presentation: (A) MRI with T1 sequence in axial view. (B) MRI T2 sequence in axial view. (C) MRI T2 flair sequence in axial view. (D) MRI T1 gadolinium sequence in axial view. (E) MRI T1 gadolinium sequence in sagittal view. (F) 1-day postoperative CT scan. (G) Surgical plan with transcerebellar approach in Remebot system.",
+    "href": "brainsci-13-00362-g002.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-02-figure-2-brainsci-13-00362-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9954386.1/brainsci-13-00362-g002.jpg?md5=b5ba28558f6352e581769ec5ad551a51"
+  },
+  {
+    "pmcid": "PMC9954386",
+    "article_title": "A Comparison of the Safety, Efficacy, and Accuracy of Frame-Based versus Remebot Robot-Assisted Stereotactic Systems for Biopsy of Brainstem Tumors",
+    "journal": "Brain Sciences",
+    "year": "2023",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Case presentation: (A) MRI with T1 sequence in axial view. (B) MRI T2 sequence in axial view. (C) MRI T2 flair sequence in axial view. (D) MRI T1 gadolinium sequence in axial view. (E) MRI T1 gadolinium sequence in sagittal view. (F) 1-day postoperative CT scan. (G) Surgical plan with transtemporal approach in Remebot system.",
+    "href": "brainsci-13-00362-g003.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-03-figure-3-brainsci-13-00362-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9954386.1/brainsci-13-00362-g003.jpg?md5=8db7c434a391f5cb136e13273388beb4"
+  },
+  {
+    "pmcid": "PMC9339900",
+    "article_title": "A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy",
+    "journal": "Frontiers in Neurology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "(A) The SINO surgical robot. (B,C) The robot for brain biopsy.",
+    "href": "fneur-13-928070-g0001.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-04-figure-1-fneur-13-928070-g0001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9339900.1/fneur-13-928070-g0001.jpg?md5=f9818d5d63aded1463f67b6173eb5d84"
+  },
+  {
+    "pmcid": "PMC9339900",
+    "article_title": "A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy",
+    "journal": "Frontiers in Neurology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "(A,B) Design the stereotactic trajectory on the Sinoplan software. (C) Three-dimensional (3D) visualization technology of craniocerebral vascular.",
+    "href": "fneur-13-928070-g0002.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-05-figure-2-fneur-13-928070-g0002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9339900.1/fneur-13-928070-g0002.jpg?md5=f6e96d3e8aec5d1d7bbf3bd375237630"
+  },
+  {
+    "pmcid": "PMC9339900",
+    "article_title": "A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy",
+    "journal": "Frontiers in Neurology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "(A\u2013C) Measurement of entry point error based on postoperative CT scanning. The red lines represent the biopsy trajectory planned preoperatively. Bone defects represent the actual biopsy trajectory of the operation. The EPEs are computed as the average of the measurement of the inner part, midpoint and outer part of the cranial bone. (D) The picture shows the measurement results of one of the patients. The EPEs were 0.48, 0.48, and 0.49 mm, respectively.",
+    "href": "fneur-13-928070-g0003.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-06-figure-3-fneur-13-928070-g0003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9339900.1/fneur-13-928070-g0003.jpg?md5=622d31596a5af9e9335de8701e4549e9"
+  },
+  {
+    "pmcid": "PMC9339900",
+    "article_title": "A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy",
+    "journal": "Frontiers in Neurology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "(A\u2013C) Measurement of target point error based on postoperative CT scanning. The centers of the red circles represent the target points planned preoperatively. The TPEs are computed based on the errors from axial position, coronal position and sagittal position respectively. (D) The picture shows the measurement of one of the patients. And the TPEs were 0.52, 0.54, and 0.76 mm, respectively. The actual TPE was 1.07 mm.",
+    "href": "fneur-13-928070-g0004.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-07-figure-4-fneur-13-928070-g0004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9339900.1/fneur-13-928070-g0004.jpg?md5=1236fd6befb3130c827d367f326eb489"
+  },
+  {
+    "pmcid": "PMC9339900",
+    "article_title": "A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy",
+    "journal": "Frontiers in Neurology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 5",
+    "caption": "(A,B) The EPE and TPE of robot-assisted group were significantly less than that of frame-based group. (C) There was a significant reduction in operation time ***means P < 0.001.",
+    "href": "fneur-13-928070-g0005.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-08-figure-5-fneur-13-928070-g0005-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9339900.1/fneur-13-928070-g0005.jpg?md5=e03f2729f01386d80a977238ee1dc1b8"
+  },
+  {
+    "pmcid": "PMC8863864",
+    "article_title": "Feasability of a Frameless Brain Biopsy System for Companion Animals Using Cone-Beam CT-Based Automated Registration",
+    "journal": "Frontiers in Veterinary Science",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Set up of the mobile cone-beam computed tomography and navigation system in the operating room showing a dog cadaver in sternal recumbency. The head has been secured to the bite plate. For image registration to the patient's anatomy, a head scan is performed during which the infrared camera must see the reference array and indicator box of the scanner (red dotted lines).",
+    "href": "fvets-08-779845-g0001.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-09-figure-1-fvets-08-779845-g0001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8863864.1/fvets-08-779845-g0001.jpg?md5=f482b0801aac43fd9b61adb9b6070b6f"
+  },
+  {
+    "pmcid": "PMC8863864",
+    "article_title": "Feasability of a Frameless Brain Biopsy System for Companion Animals Using Cone-Beam CT-Based Automated Registration",
+    "journal": "Frontiers in Veterinary Science",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Transverse T2-weighted (A) and T1-weighted contrast enhanced (B) image and of an 11-year-old female spayed Poodle with biopsy proven vasculitis and meningoencephalitis of unknown origin. Corresponding intraoperative cone beam computed tomography (CBCT) image (C) for image fusion. (D) Example of image fusion of the CBCT images with magnetic resonance images of a 9-year-old female spayed German Shepherd Dog with a biopsy proven WHO grade II cerebellar diffuse astrocytoma.",
+    "href": "fvets-08-779845-g0002.jpg",
+    "local": "figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-10-figure-2-fvets-08-779845-g0002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8863864.1/fvets-08-779845-g0002.jpg?md5=0f3aafe3b7d5388bc11111ecf9f8d6c8"
+  }
+]

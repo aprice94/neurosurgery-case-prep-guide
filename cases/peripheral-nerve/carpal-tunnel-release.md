@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=carpal+tunnel+syndrome+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **AAOS CTS guideline** — evidence-based diagnosis and treatment guidance for carpal tunnel syndrome. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=AAOS+clinical+practice+guideline+carpal+tunnel+syndrome)
-- **Open vs endoscopic CTR** — comparative outcomes and complication profiles for release techniques. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=open+versus+endoscopic+carpal+tunnel+release+meta-analysis)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=carpal%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carpal+tunnel+release) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Brachial plexus & upper-limb nerves (median nerve to the hand)](../../figures/peripheral/brachial-plexus_gray808.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Peripheral nerve anatomy:** Youmans and Winn; Greenberg; peripheral nerve surgery texts — confirm nerve course, fascicular anatomy, compression points, vascular supply, and nearby structures.
+- **Technique sequence:** Youmans and Winn; specialty operative references — review incision, exposure, neurolysis/decompression/resection strategy, graft/repair options, and closure.
+- **Complication rescue:** Greenberg; specialty literature — summarize neuropathic pain, motor deficit, wound issues, recurrence, and rehabilitation expectations.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Carpal Tunnel Syndrome** — Rotem G. The Israel Medical Association journal : IMAJ 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37461179/)
+- **[Carpal tunnel syndrome]** — Koehl P. MMW Fortschritte der Medizin 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35391696/)
+- **Carpal tunnel syndrome** — Middleton SD. BMJ (Clinical research ed.) 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25378457/)
+- **Carpal Tunnel Syndrome** — Alvarez CA. American family physician 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38905558/)
+- **Carpal Tunnel Syndrome and Distal Radius Fractures** — Pope D. Hand clinics 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29169594/)
+- **Acute Carpal Tunnel Syndrome and Median Nerve Neurapraxia: A Review** — Holbrook HS. The Orthopedic clinics of North America 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35365264/)
+- **Carpal Tunnel Syndrome: Making Evidence-Based Treatment Decisions** — Calandruccio JH. The Orthopedic clinics of North America 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29499823/)
+- **[Carpal Tunnel Syndrome]** — Erni S. Praxis 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36597686/)
+- **Recurrent carpal tunnel syndrome** — Mosier BA. Hand clinics 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23895723/)
+- **Carpal tunnel syndrome** — Belmonte K. Journal of the American Academy of Nurse Practitioners 1996. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9305052/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Carpal Tunnel Release — Fig. 1](../../figures/curated/case-prep-carpal-tunnel-release/figure-01-fig-1-cios-6-253-g001-jpg.jpg)
+*Fig. 1. Introducing the cannula to the exit portal. HH: hook of hamate, KL: Kaplan line, TCL: transverse carpal ligament. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clinics in Orthopedic Surgery 2014; CC BY-NC.*
+
+![Carpal Tunnel Release — Fig. 2](../../figures/curated/case-prep-carpal-tunnel-release/figure-02-fig-2-cios-6-253-g002-jpg.jpg)
+*Fig. 2. Undersurface of transverse carpal ligament with washboard appearance. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clinics in Orthopedic Surgery 2014; CC BY-NC.*
+
+![Carpal Tunnel Release — Fig. 3](../../figures/curated/case-prep-carpal-tunnel-release/figure-03-fig-3-cios-6-253-g003-jpg.jpg)
+*Fig. 3. Triangular blade cutting the middle of the transverse carpal ligament in retrograde fashion. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clinics in Orthopedic Surgery 2014; CC BY-NC.*
+
+![Carpal Tunnel Release — Fig. 4](../../figures/curated/case-prep-carpal-tunnel-release/figure-04-fig-4-cios-6-253-g004-jpg.jpg)
+*Fig. 4. Transection of the transverse carpal ligament by using a retrograde knife. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clinics in Orthopedic Surgery 2014; CC BY-NC.*
+
+![Carpal Tunnel Release — Figure 5](../../figures/curated/case-prep-carpal-tunnel-release/figure-05-figure-5-cios-6-253-i001-jpg.jpg)
+*Figure 5. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clin Orthop Surg. 2014 Aug 5;6(3):253–7. doi: 10.4055/cios.2014.6.3.253; CC BY-NC.*
+
+![Carpal Tunnel Release — Figure 6](../../figures/curated/case-prep-carpal-tunnel-release/figure-06-figure-6-cios-6-253-i002-jpg.jpg)
+*Figure 6. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clin Orthop Surg. 2014 Aug 5;6(3):253–7. doi: 10.4055/cios.2014.6.3.253; CC BY-NC.*
+
+![Carpal Tunnel Release — Figure 7](../../figures/curated/case-prep-carpal-tunnel-release/figure-07-figure-7-cios-6-253-i003-jpg.jpg)
+*Figure 7. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clin Orthop Surg. 2014 Aug 5;6(3):253–7. doi: 10.4055/cios.2014.6.3.253; CC BY-NC.*
+
+![Carpal Tunnel Release — Figure 8](../../figures/curated/case-prep-carpal-tunnel-release/figure-08-figure-8-cios-6-253-i004-jpg.jpg)
+*Figure 8. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clin Orthop Surg. 2014 Aug 5;6(3):253–7. doi: 10.4055/cios.2014.6.3.253; CC BY-NC.*
+
+![Carpal Tunnel Release — Figure 1](../../figures/curated/case-prep-carpal-tunnel-release/figure-09-figure-1-nrr-8-1418-g001-jpg.jpg)
+*Figure 1. Results of median motor nerve studies in patients with carpal tunnel syndrome.Data are expressed as mean ± SD. Group I had minimal carpal tunnel syndrome, and group II had mild or... Source: [Axonal degeneration of the ulnar nerve secondary to carpal tunnel syndrome: fact or fiction?☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC4107769/) — Neural Regeneration Research 2013; CC BY-NC-SA.*
+
+![Carpal Tunnel Release — Figure 2](../../figures/curated/case-prep-carpal-tunnel-release/figure-10-figure-2-nrr-8-1418-g002-jpg.jpg)
+*Figure 2. Results of median sensory nerve studies in patients with carpal tunnel syndrome.Data are expressed as mean ± SD. Group I had minimal carpal tunnel syndrome, and group II had mild or... Source: [Axonal degeneration of the ulnar nerve secondary to carpal tunnel syndrome: fact or fiction?☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC4107769/) — Neural Regeneration Research 2013; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

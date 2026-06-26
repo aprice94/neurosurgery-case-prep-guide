@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=carotid+artery+stenting+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **NASCET / symptomatic stenosis** — benefit of carotid endarterectomy for selected symptomatic carotid stenosis. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NASCET+symptomatic+carotid+stenosis+endarterectomy+trial)
-- **CREST** — carotid stenting vs endarterectomy outcomes and perioperative risk trade-offs. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=CREST+carotid+revascularization+endarterectomy+stenting+trial)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenting&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+artery+stenting) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Arteries of the base of the brain — ICA / circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909, public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Casper vs. Closed-Cell Stent : Carotid Artery Stenting Randomized Trial** — Vanzin JR. Clinical neuroradiology 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32747973/)
+- **Early versus late carotid artery stenting for symptomatic carotid stenosis** — de Castro-Afonso LH. Journal of neuroradiology = Journal de neuroradiologie 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25841700/)
+- **Is carotid artery stenting equivalent or superior to carotid endarterectomy for treatment of carotid artery stenosis?** — Shrivastava V. Interactive cardiovascular and thoracic surgery 2005. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17670480/)
+- **Flow reversal versus filter protection: a pilot carotid artery stenting randomized trial** — Castro-Afonso LH. Circulation. Cardiovascular interventions 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24084627/)
+- **Carotid artery revascularization using the Walrus balloon guide catheter: safety and feasibility from a US multicenter experience** — Salem MM. Journal of neurointerventional surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34686574/)
+- **Why the United States Center for Medicare and Medicaid Services (CMS) should not extend reimbursement indications for carotid artery angioplasty/stenting** — Brain and behavior 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22574286/)
+- **Advances and innovations in revascularization of extracranial vertebral artery** — Brasiliense LB. Neurosurgery 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24402479/)
+- **Characteristics from the 100 most influential articles on carotid stenosis** — Hwang JW. Annals of palliative medicine 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35272469/)
+- **Why the United States Center for Medicare and Medicaid Services should not extend reimbursement indications for carotid artery angioplasty/stenting** — Abbott AL. Vascular 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22271806/)
+- **Periprocedural embolic events related to carotid artery stenting detected by diffusion-weighted MRI: comparison between proximal and distal embolus protection devices** — El-Koussy M. Journal of endovascular therapy : an official journal of the International Society of Endovascular Specialists 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17723007/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Carotid Artery Angioplasty Stenting — Figure 1](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-01-figure-1-bc-7-281-g001-jpg.jpg)
+*Figure 1. (a) Work incidence of pretreatment three-dimensional angiography showing the characteristic string of bead appearance of fibromuscular dysplasia in the right cervical internal carotid... Source: [Casper stent in the treatment of pulsatile tinnitus in fibromuscular dysplasia: Therapeutic review and case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8757508/) — Brain Circulation 2021; CC BY-NC-SA.*
+
+![Carotid Artery Angioplasty Stenting — Figure 2](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-02-figure-2-bc-7-281-g002-jpg.jpg)
+*Figure 2. (a) Follow-up computed tomography angiogram, 12 months after stenting. The image showing the right cervical internal carotid artery in the sagittal plane. (b) Follow-up computed... Source: [Casper stent in the treatment of pulsatile tinnitus in fibromuscular dysplasia: Therapeutic review and case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8757508/) — Brain Circulation 2021; CC BY-NC-SA.*
+
+![Carotid Artery Angioplasty Stenting — Figure 1](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-03-figure-1-cureus-0012-00000008541-i01-jpg.jpg)
+*Figure 1. Pre- and post-operative brain images.A: Pre-operative diffusion weighted brain MRI showing previous punctate infarcts in the right middle cerebral artery territory (arrows). B: Cervical... Source: [Concomitant Reversible Cerebral Vasoconstriction and Hyperperfusion Syndromes Following Carotid Endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7357340/) — Cureus 2020; CC BY.*
+
+![Carotid Artery Angioplasty Stenting — Figure 2](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-04-figure-2-cureus-0012-00000008541-i02-jpg.jpg)
+*Figure 2. Cerebral angiogram.A: Catheter angiogram images showing resolution of right internal carotid artery stenosis after endarterectomy. Arrow points to the internal carotid artery.... Source: [Concomitant Reversible Cerebral Vasoconstriction and Hyperperfusion Syndromes Following Carotid Endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7357340/) — Cureus 2020; CC BY.*
+
+![Carotid Artery Angioplasty Stenting — Figure 1](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-05-figure-1-neurintsurg-2021-018523f01-jpg.jpg)
+*Figure 1. Readmission rates after CEA or CAS in asymptomatic and symptomatic patients. CAS=carotid artery stenting; CEA=carotid endarterectomy. Source: [Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database](https://pmc.ncbi.nlm.nih.gov/articles/PMC9985736/) — Journal of Neurointerventional Surgery 2023; CC BY-NC.*
+
+![Carotid Artery Angioplasty Stenting — Figure 2](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-06-figure-2-neurintsurg-2021-018523f02-jpg.jpg)
+*Figure 2. Trends in readmission rates (A, B) and APC (C, D) from 2010 to 2015 in asymptomatic and symptomatic patients. APC=annual percent change; CAS=carotid artery stenting; CEA=carotid... Source: [Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database](https://pmc.ncbi.nlm.nih.gov/articles/PMC9985736/) — Journal of Neurointerventional Surgery 2023; CC BY-NC.*
+
+![Carotid Artery Angioplasty Stenting — Figure 3](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-07-figure-3-neurintsurg-2021-018523f03-jpg.jpg)
+*Figure 3. Grouped categories tabulating proportion of causes of readmission for asymptomatic stenosis (left) and symptomatic stenosis (right). CAS=carotid artery stenting; CEA=carotid... Source: [Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database](https://pmc.ncbi.nlm.nih.gov/articles/PMC9985736/) — Journal of Neurointerventional Surgery 2023; CC BY-NC.*
+
+![Carotid Artery Angioplasty Stenting — Figure 4](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-08-figure-4-neurintsurg-2021-018523f04-jpg.jpg)
+*Figure 4. Postoperative adverse events or outcome at initial carotid revascularization and risk ratio of 30-day readmission. CAS=carotid artery stenting; CEA=carotid endarterectomy; CI=CI... Source: [Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database](https://pmc.ncbi.nlm.nih.gov/articles/PMC9985736/) — Journal of Neurointerventional Surgery 2023; CC BY-NC.*
+
+![Carotid Artery Angioplasty Stenting — Figure 1](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-09-figure-1-fneur-13-739999-g0001-jpg.jpg)
+*Figure 1. Average 12-month outcomes for every 85 patients with asymptomatic carotid stenosis randomized to CEA in ACAS (35). Calculated from ACAS data regarding patients with 60–99% asymptomatic... Source: [Extra-Cranial Carotid Artery Stenosis: An Objective Analysis of the Available Evidence](https://pmc.ncbi.nlm.nih.gov/articles/PMC9253595/) — Frontiers in Neurology 2022; CC BY.*
+
+![Carotid Artery Angioplasty Stenting — Figure 2](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-10-figure-2-fneur-13-739999-g0002-jpg.jpg)
+*Figure 2. Average 12-month outcomes for every 31 symptomatic patients randomized to CEA in NASCET, ECST, and VACS. Calculated from pooled randomized trial data regarding symptomatic patients with... Source: [Extra-Cranial Carotid Artery Stenosis: An Objective Analysis of the Available Evidence](https://pmc.ncbi.nlm.nih.gov/articles/PMC9253595/) — Frontiers in Neurology 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

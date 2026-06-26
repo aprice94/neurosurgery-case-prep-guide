@@ -23,15 +23,78 @@ The anterior cervical (Smith-Robinson) approach is the **workhorse anterior corr
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+spondylosis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **AOSpine CSM** — Fehlings MG et al. — guidelines & prospective outcomes for cervical spondylotic myelopathy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+AOSpine+cervical+spondylotic+myelopathy+guideline+outcomes)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [AO Surgery Reference — anterior cervical](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — ACDF](https://radiopaedia.org/search?q=anterior%20cervical%20discectomy&scope=all) · [PubMed Central — Smith-Robinson](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+cervical+approach+smith+robinson)
 
-![Vertebral column — cervical spine (anterior column targets of the approach)](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **High anterior cervical approach to the clivus and foramen magnum: a microsurgical anatomy study** — Russo VM. Neurosurgery 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21415787/)
+- **Why the Craniovertebral Junction?** — Visocchi M. Acta neurochirurgica. Supplement 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30610295/)
+- **Microsurgical Neurovascular Anatomy of the Brain: The Anterior Circulation (Part I)** — Giotta Lucifero A. Acta bio-medica : Atenei Parmensis 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34437363/)
+- **Anterior Microsurgical Approach to Ventral Lower Cervical Spine Meningiomas: Indications, Surgical Technique and Long Term Outcome** — Fraioli MF. Technology in cancer research & treatment 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26269613/)
+- **The Smith-Robinson Approach to the Subaxial Cervical Spine: A Stepwise Microsurgical Technique Using Volumetric Models From Anatomic Dissections** — Vigo V. Operative neurosurgery (Hagerstown, Md.) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32864701/)
+- **360° around the orbit: key surgical anatomy of the microsurgical and endoscopic cranio-orbital and orbitocranial approaches** — Agosti E. Neurosurgical focus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38560949/)
+- **Anterior approach to remove a pre-medullary meningioma in the cervical spine: Technical case report** — Broussolle T. Neuro-Chirurgie 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34619166/)
+- **Anterior Petrosectomy vs. Retrosigmoid Approach-Surgical Anatomy and Navigation-Augmented Morphometric Analysis: A Comparative Study in Cadaveric Laboratory Setting** — Signoretti S. Brain sciences 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40002437/)
+- **Microsurgical anatomy of anterior communicating artery aneurysms** — Rhoton AL Jr. Neurological research 1980. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6111033/)
+- **Microsurgical cervical nerve root decompression by anterolateral approach** — Bruneau M. Neurosurgery 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16543867/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Anterior Cervical Approach — Figure 1](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-01-figure-1-cureus-0014-00000031257-i01-jpg.jpg)
+*Figure 1. Occipital bone anatomy. (A) Superolateral perspective of the inferior view of the skull showing the bony prominences, such as the mastoid tip and the condyles. (B) Inferior and lateral... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 2](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-02-figure-2-cureus-0014-00000031257-i02-jpg.jpg)
+*Figure 2. Occipital bone overview. (A) Superior perspective of the occipital bone, depicting the jugular foramen, jugular tubercle, lower clivus, and foramen magnum. (B) Inferior perspective of... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 3](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-03-figure-3-cureus-0014-00000031257-i03-jpg.jpg)
+*Figure 3. C1 anatomy. (A) Superior view of the C1 vertebra, showing the transverse foramina, medular canal, and articular facets. (B) Surgical perspective of C1 during a left FL approach. (C)... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 4](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-04-figure-4-cureus-0014-00000031257-i04-jpg.jpg)
+*Figure 4. Myofascial anatomy during the FL approach. (A) Posterior view of the muscular, vascular, and nervous anatomy encountered during the FL approach. (B) Close-up perspective of the left... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 5](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-05-figure-5-cureus-0014-00000031257-i05-jpg.jpg)
+*Figure 5. Overview of the craniocervical junction anatomy relevant to the FL approach after muscle dissection and suboccipital plexus resection. (A) Posterior and slightly lateral perspective of a... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 6](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-06-figure-6-cureus-0014-00000031257-i06-jpg.jpg)
+*Figure 6. Overview of the resection of the posterior arch of C1. (A) We observe shaded in blue the portion of the posterior arch to be resected. (B) Posterior and close-up perspective of the... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 7](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-07-figure-7-cureus-0014-00000031257-i07-jpg.jpg)
+*Figure 7. Surgical view after craniotomy, showing the dura mater of the posterior fossa and the spine, the occipital and vertebral arteries, and the transverse and sigmoid sinuses. (Published with... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 8](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-08-figure-8-cureus-0014-00000031257-i08-jpg.jpg)
+*Figure 8. Close-up view after a posterior-third condylectomy (transcondylar approach), where we can observe the hypoglossal canal as our medial limit. Here, we preserved the C0-C1 junction.... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 9](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-09-figure-9-cureus-0014-00000031257-i09-jpg.jpg)
+*Figure 9. Surgical view after durotomy, where (A) we can appreciate the cerebellar hemisphere and tonsil, C1 and C2 rootlets, and (B) after mobilization of the cerebellum, the jugular foramen with... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Anterior Cervical Approach — Figure 10](../../figures/curated/operative-approach-anterior-cervical-smith-robinson-approach/figure-10-figure-10-cureus-0014-00000031257-i10-jpg.jpg)
+*Figure 10. Overview of the transodontoid variation of the FL approach. In this posterolateral, surgical perspective, (A) the ipsilateral colliculus atlantis with the transverse ligament attached is... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -73,13 +136,11 @@ The anterior cervical (Smith-Robinson) approach is the **workhorse anterior corr
 ---
 
 ## Positioning
-📷 *[AO Surgery Reference — positioning](https://surgeryreference.aofoundation.org)*
 
 - **Supine** with a **transverse shoulder roll** for gentle neck extension (avoid over-extension in stenosis/myelopathy), head neutral or slightly rotated away (~10–15°), on a **donut/horseshoe or Mayfield**.
 - **Tape the shoulders down** (caudal traction) to expose low cervical levels under fluoroscopy. Pad the arms; confirm a relaxed, accessible neck and obtainable lateral fluoro of the target.
 
 ## Incision & Approach (the Smith-Robinson interval)
-📷 *[AO Surgery Reference — anterior approach steps](https://surgeryreference.aofoundation.org)*
 
 1. **Transverse incision in a natural skin crease** at the target level (landmark-guided), from the midline to the medial border of the SCM (oblique along the SCM for long multilevel constructs).
 2. Divide **platysma** (in line or transversely); open the superficial fascia along the **medial border of the SCM.**
@@ -89,9 +150,6 @@ The anterior cervical (Smith-Robinson) approach is the **workhorse anterior corr
 
 → proceed to the procedure-specific steps ([ACDF](../spine-degenerative/acdf.md) discectomy/uncovertebral decompression, [corpectomy](../spine-tumor/vertebral-corpectomy.md), or [arthroplasty](../spine-degenerative/cervical-disc-replacement.md)). The **uncovertebral joints are the lateral limit** — beyond them lies the **vertebral artery.**
 
-![Spinal cord cross-section — the myelopathic cord decompressed anteriorly via this corridor](../../figures/spine/spinal-cord-cross-section_gray664.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 ---
 

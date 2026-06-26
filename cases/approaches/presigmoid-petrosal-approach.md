@@ -22,16 +22,78 @@ The petrosal (presigmoid) approaches drill **through the petrous temporal bone**
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=petroclival+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Approach anatomy** — operative anatomy and corridor-selection literature for this skull-base route. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=+Presigmoid+/+Petrosal+Approaches+(Retrolabyrinthine+·+Translabyrinthine+·+Transcochlear+·+Combined+Petrosal)+surgical+anatomy+approach)
-- **Meningioma guideline anchor** — EANO guidance for skull-base meningioma decision-making when applicable. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 [Neurosurgical Atlas — petrosectomy](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy) · [Radiopaedia — petroclival meningioma](https://radiopaedia.org/search?q=petroclival%20meningioma&scope=all) · [PubMed Central — combined petrosal](https://www.ncbi.nlm.nih.gov/pmc/?term=combined+petrosal+approach)
 
-![Interior base of skull — petrous temporal bone, internal acoustic meatus, clivus, jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Petrosal Approach With Preservation of the Superior Petrosal Sinus (the Graceful Petrosal) for Resection of Giant Trigeminal Schwannoma: 2-Dimensional Operative Video** — Almefty KK. Operative neurosurgery (Hagerstown, Md.) 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33855455/)
+- **Microsurgical Resection of Giant Petroclival Meningioma via the Posterior Petrosal Approach: 2-Dimensional Operative Video** — Ceccato GHW. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35963609/)
+- **Partial labyrinthectomy petrous apicectomy approach to the petroclival region: an anatomic and technical study** — Chanda A. Neurosurgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12182413/)
+- **Combined petrosal approach** — Polster SP. Current opinion in otolaryngology & head and neck surgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30045103/)
+- **Presigmoid approach preserving the superior petrosal sinus in a pontine cavernous malformation associated to abnormal venous drainage of the brainstem: how I do it** — Butrón-Díaz C. Acta neurochirurgica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36331611/)
+- **Combined presigmoid approach: A literature review** — Albairmani SS. Surgical neurology international 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39372980/)
+- **Dissection of the Petrosal Presigmoid-Retrolabyrinthine Approach for the Petroclival Region on a Cadaver: 2-Dimensional Operative Video** — Borba Moreira L. Operative neurosurgery (Hagerstown, Md.) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32392291/)
+- **Combined petrosal approach: a systematic review and meta-analysis of surgical complications** — Giammattei L. Neurosurgical review 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37439884/)
+- **Development of a virtual dissection environment integrated into cadaveric dissection for skull base anatomy education** — Uchida T. Journal of neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40513247/)
+- **Pediatric Pontine Cavernous Malformations: The Presigmoid, Posterior Petrosal Approach** — Kulwin CG. Operative neurosurgery (Hagerstown, Md.) 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29514285/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Presigmoid Petrosal Approaches — Fig. 4](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-01-fig-4-701-2026-6789-fig4-html-jpg.jpg)
+*Fig. 4. Transorbital approach. A 3D reconstruction of the skull prior to dissection. A neuronavigation probe (green) indicates the trajectory of the right transorbital approach. The lateral... Source: [Anatomical insights into the peri-trigeminal zone via transorbital, transclival, and retrosigmoid routes: a comparative cadaveric study with surgical implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC12950089/) — Acta Neurochirurgica 2026; CC BY.*
+
+![Presigmoid Petrosal Approaches — Fig. 5](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-02-fig-5-701-2026-6789-fig5-html-jpg.jpg)
+*Fig. 5. Comparative image of the three surgical approaches. The peritrigeminal zone (PTZ) is bounded laterally by the root entry zone of the trigeminal nerve (highlighted with an orange dotted... Source: [Anatomical insights into the peri-trigeminal zone via transorbital, transclival, and retrosigmoid routes: a comparative cadaveric study with surgical implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC12950089/) — Acta Neurochirurgica 2026; CC BY.*
+
+![Presigmoid Petrosal Approaches — Figure 1](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-03-figure-1-sni-8-129-g001-jpg.jpg)
+*Figure 1. Example of petrous slope angle. (a) Example of a small petrous slope angle of approximately 116 degrees. (b) Example of a large petrous slope of approximately 155 degrees Source: [Radiographic Assessment of the presigmoid retrolabyrinthine approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC5502293/) — Surgical Neurology International 2017; CC BY-NC-SA.*
+
+![Presigmoid Petrosal Approaches — Figure 4](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-04-figure-4-sni-8-129-g002-jpg.jpg)
+*Figure 4. Source: [Radiographic Assessment of the presigmoid retrolabyrinthine approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC5502293/) — Surg Neurol Int. 2017 Jun 27;8:129. doi: 10.4103/sni.sni_243_16; CC BY-NC-SA.*
+
+![Presigmoid Petrosal Approaches — Figure 1:](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-05-figure-1-sni-16-68-g001-jpg.jpg)
+*Figure 1:. (a) Depiction of the clival zone II with longitudinal classification of the basilar artery position in relation to the midline: grade-0, midline; grade-1, right paramedian; grade-2; left... Source: [A standalone minimally invasive presigmoid retrolabyrinthine suprameatal approach: A cadaveric morphometric study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11878714/) — Surgical Neurology International 2025; CC BY-NC-SA.*
+
+![Presigmoid Petrosal Approaches — Figure 2:](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-06-figure-2-sni-16-68-g002-jpg.jpg)
+*Figure 2:. Pre- and post-procedural cranial computed tomography scans showing the variation of the presigmoid retrolabyrinthine suprameatal approach (PRSA) corridor and the exposure of prepontine... Source: [A standalone minimally invasive presigmoid retrolabyrinthine suprameatal approach: A cadaveric morphometric study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11878714/) — Surgical Neurology International 2025; CC BY-NC-SA.*
+
+![Presigmoid Petrosal Approaches — Figure 3:](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-07-figure-3-sni-16-68-g003-jpg.jpg)
+*Figure 3:. Operative steps on injected cadaver head showing the extent of the minimally invasive bone cavity of left side Presigmoid retrolabyrinthine suprameatal approach: (a and b) microscopic... Source: [A standalone minimally invasive presigmoid retrolabyrinthine suprameatal approach: A cadaveric morphometric study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11878714/) — Surgical Neurology International 2025; CC BY-NC-SA.*
+
+![Presigmoid Petrosal Approaches — Figure 4:](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-08-figure-4-sni-16-68-g004-jpg.jpg)
+*Figure 4:. Artistic depiction of the Presigmoid retrolabyrinthine suprameatal approach with related operative anatomy. AICA: Anterior inferior cerebellar artery; C: Cerebellum; EAC: External... Source: [A standalone minimally invasive presigmoid retrolabyrinthine suprameatal approach: A cadaveric morphometric study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11878714/) — Surgical Neurology International 2025; CC BY-NC-SA.*
+
+![Presigmoid Petrosal Approaches — Figure 9](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-09-figure-9-sni-16-68-inline001-jpg.jpg)
+*Figure 9. Source: [A standalone minimally invasive presigmoid retrolabyrinthine suprameatal approach: A cadaveric morphometric study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11878714/) — Surg Neurol Int. 2025 Feb 28;16:68. doi: 10.25259/SNI_1110_2024; CC BY-NC-SA.*
+
+![Presigmoid Petrosal Approaches — Figure 10](../../figures/curated/operative-approach-presigmoid-petrosal-approaches-retrolabyrinthine-translabyrinthine-tr/figure-10-figure-10-sni-16-68-t001-jpg.jpg)
+*Figure 10. Source: [A standalone minimally invasive presigmoid retrolabyrinthine suprameatal approach: A cadaveric morphometric study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11878714/) — Surg Neurol Int. 2025 Feb 28;16:68. doi: 10.25259/SNI_1110_2024; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -76,12 +138,10 @@ The petrosal (presigmoid) approaches drill **through the petrous temporal bone**
 ---
 
 ## Positioning
-📷 *[Atlas — petrosal positioning](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy)*
 
 - **Supine with the head turned** to the contralateral side (or lateral/park-bench), mastoid uppermost, Mayfield fixation; the ipsilateral shoulder is supported/tucked. The vein-of-Labbé–bearing temporal lobe must not be compromised by positioning or retraction.
 
 ## Exposure — Craniotomy + Petrosectomy Drilling
-📷 *[Atlas — mastoidectomy & petrous drilling](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy)*
 
 1. **Large C-shaped retroauricular + temporal incision**; a **temporo-occipital craniotomy spanning the transverse sinus** (presigmoid + subtemporal exposure), preserving a vascularized pericranial/temporalis flap for reconstruction.
 2. **Mastoidectomy:** skeletonize the **sigmoid sinus, SPS, and sinodural angle**; identify the **labyrinth and facial nerve canal.**
@@ -92,14 +152,10 @@ The petrosal (presigmoid) approaches drill **through the petrous temporal bone**
 *Front Neurol 2026;17:1736101 — CC BY 4.0. Stepwise temporal-bone drilling exposing the presigmoid corridor and CPA.*
 
 ## Dural Opening, Tentorial Division & Intradural Work
-📷 *[Atlas — presigmoid dural opening & tentorial division](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy)*
 
 - Open the dura **presigmoid (anterior to the sigmoid sinus)** and along the temporal base; **ligate/divide the superior petrosal sinus** and **divide the tentorium behind the entry of CN IV**, uniting the supra- and infratentorial fields.
 - **Protect the vein of Labbé** (do not tether/sacrifice), the sigmoid sinus, and CN IV. Work the petroclival lesion: devascularize the clival/petrous dural base, debulk, and dissect the capsule off the **brainstem, basilar/AICA/SCA, and CN III–XI**; preserve perforators.
 
-![Arteries of the base of the brain — basilar trunk, AICA/SCA, and the petroclival vascular field](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
-
-*Sobotta 1909, public domain — via Wikimedia Commons.*
 
 ---
 

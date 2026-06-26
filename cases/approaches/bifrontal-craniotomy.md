@@ -22,16 +22,78 @@ The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor 
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=olfactory+groove+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Approach anatomy** — operative anatomy and corridor-selection literature for this skull-base route. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=+Bifrontal+(Subfrontal)+Craniotomy+surgical+anatomy+approach)
-- **Meningioma guideline anchor** — EANO guidance for skull-base meningioma decision-making when applicable. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 [Neurosurgical Atlas — olfactory groove / anterior base](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma) · [Radiopaedia — olfactory groove meningioma](https://radiopaedia.org/search?q=olfactory%20groove%20meningioma&scope=all) · [PubMed Central — bifrontal craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=bifrontal+craniotomy+anterior+skull+base)
 
-![Interior base of skull — anterior cranial fossa floor: crista galli, cribriform plate, planum, orbital roofs](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Microsurgical Anatomy Review of Bifrontal Limited Transbasal Approach - Quantitative and Anatomy Study** — Ng AF. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32113996/)
+- **Anatomical Step-by-Step Dissection of Complex Skull Base Approaches for Trainees: Surgical Anatomy of the Bifrontal Transbasal Approach, Surgical Principles, and Illustrative Cases** — Vilany L. Journal of neurological surgery. Part B, Skull base 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39483163/)
+- **[Olfactory groove meningiomas. Radical microsurgical treatment through the bifrontal approach]** — González-Darder JM. Neurocirugia (Asturias, Spain) 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21597654/)
+- **Olfactory groove meningiomas from neurosurgical and ear, nose, and throat perspectives: approaches, techniques, and outcomes** — Spektor S. Neurosurgery 2005. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16234674/)
+- **Operative Technique and Complication Management in a Case of Giant Esthesioneuroblastoma Resected by a Combined Transcranial and Endonasal Endoscopic Approach: Technical Case Report** — McAvoy M. Operative neurosurgery (Hagerstown, Md.) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36804514/)
+- **Vascularized anterolateral thigh free flap for salvage reconstruction of complex anterior skull base and nasion defects after failed conventional reconstruction- how I do it** — Liu H. Acta neurochirurgica 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42065774/)
+- **Microsurgical Resection of a Primary Intraosseous Meningioma Encasing the Superior Sagittal Sinus** — Ene CI. The Journal of craniofacial surgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32657980/)
+- **Validity of the frontolateral approach as a minimally invasive corridor for olfactory groove meningiomas** — El-Bahy K. Acta neurochirurgica 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19730777/)
+- **Olfactory groove meningiomas: functional outcome in a series treated microsurgically** — Bassiouni H. Acta neurochirurgica 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17180303/)
+- **Precision in Complexity: A Protocol-Driven Quantitative Anatomic Strategy for Giant Olfactory Groove Meningioma Resection in a High-Risk Geriatric Patient** — Grigorean VT. Diagnostics (Basel, Switzerland) 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41515621/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Bifrontal Craniotomy — Figure 1:](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-01-figure-1-jcis-10-81-g001-jpg.jpg)
+*Figure 1:. A 40-year-old man with planum sphenoidale meningioma on an axial T1 magnetic resonance imaging with gadolinium (a), requiring frontal craniotomy. Three-dimensional volume rendering (b)... Source: [An Illustrative Review of Common Modern Craniotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7771396/) — Journal of Clinical Imaging Science 2020; CC BY-NC-SA.*
+
+![Bifrontal Craniotomy — Figure 2:](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-02-figure-2-jcis-10-81-g002-jpg.jpg)
+*Figure 2:. A 63-year-old man with the left temporal sclerosing meningioma (a – arrow) on axial T1 MRI with gadolinium, requiring temporal craniotomy. Three-dimensional volume rendering (b)... Source: [An Illustrative Review of Common Modern Craniotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7771396/) — Journal of Clinical Imaging Science 2020; CC BY-NC-SA.*
+
+![Bifrontal Craniotomy — Figure 3:](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-03-figure-3-jcis-10-81-g003-jpg.jpg)
+*Figure 3:. A 78-year-old man with the left parietal melanoma metastasis (a) on axial T1 MRI with gadolinium. Three-dimensional volume rendering (b) demonstrates parietal craniotomy, the preferred... Source: [An Illustrative Review of Common Modern Craniotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7771396/) — Journal of Clinical Imaging Science 2020; CC BY-NC-SA.*
+
+![Bifrontal Craniotomy — Figure 4:](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-04-figure-4-jcis-10-81-g004-jpg.jpg)
+*Figure 4:. A 69-year-old woman with the right middle cerebral artery aneurysm (a – arrow) on axial CT angiogram. Sagittal oblique illustration (b) and three-dimensional volume rendering (c)... Source: [An Illustrative Review of Common Modern Craniotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7771396/) — Journal of Clinical Imaging Science 2020; CC BY-NC-SA.*
+
+![Bifrontal Craniotomy — Figure 5:](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-05-figure-5-jcis-10-81-g005-jpg.jpg)
+*Figure 5:. A 55-year-old woman with the right paraclinoid meningioma (a – arrow) on sagittal T1 magnetic resonance imaging. Three-dimensional volume rendering (b) demonstrates post-operative... Source: [An Illustrative Review of Common Modern Craniotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7771396/) — Journal of Clinical Imaging Science 2020; CC BY-NC-SA.*
+
+![Bifrontal Craniotomy — Figure 6:](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-06-figure-6-jcis-10-81-g006-jpg.jpg)
+*Figure 6:. A 59-year-old man with pontine melanoma metastasis (a) on axial T1 magnetic resonance imaging. Sagittal oblique illustration (b) and three-dimensional volume rendering (c) demonstrating... Source: [An Illustrative Review of Common Modern Craniotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7771396/) — Journal of Clinical Imaging Science 2020; CC BY-NC-SA.*
+
+![Bifrontal Craniotomy — Figure 7:](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-07-figure-7-jcis-10-81-g007-jpg.jpg)
+*Figure 7:. A 45-year-old woman with Chiari I malformation (a – arrow) on axial and sagittal T2W magnetic resonance imaging. Coronal view illustration (b) and three-dimensional volume rendering (c)... Source: [An Illustrative Review of Common Modern Craniotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7771396/) — Journal of Clinical Imaging Science 2020; CC BY-NC-SA.*
+
+![Bifrontal Craniotomy — Figure 1](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-08-figure-1-brainsci-12-00163-g001-jpg.jpg)
+*Figure 1. Illustration of the key steps for the bifrontal osteoplastic flap technique. (A): The midline is identified using the sagittal suture and the six necessary burr holes are marked. (B):... Source: [Bifrontal Osteoplastic Flap: An Option to Decrease Infection in Bifrontal Craniotomies with Skull Base Osteotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC8870631/) — Brain Sciences 2022; CC BY.*
+
+![Bifrontal Craniotomy — Figure 2](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-09-figure-2-brainsci-12-00163-g002-jpg.jpg)
+*Figure 2. Post-operative computed tomography 3D reconstruction of the patient is presented in Figure 1. This patient underwent a combined bifrontal osteoplastic flap and transnasal approach for... Source: [Bifrontal Osteoplastic Flap: An Option to Decrease Infection in Bifrontal Craniotomies with Skull Base Osteotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC8870631/) — Brain Sciences 2022; CC BY.*
+
+![Bifrontal Craniotomy — Figure 1](../../figures/curated/operative-approach-bifrontal-subfrontal-craniotomy/figure-10-figure-1-cureus-0017-00000097765-i01-jpg.jpg)
+*Figure 1. HADS score timeline.HADS: Hospital Anxiety and Depression Scale Source: [Transient Psychiatric Disturbances Following Bifrontal Craniotomy for Suprasellar Tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC12740201/) — Cureus 2025; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -70,12 +132,10 @@ The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor 
 ---
 
 ## Positioning
-📷 *[Atlas — bifrontal positioning](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma)*
 
 - **Supine, head neutral**, in Mayfield, with **slight extension** so the frontal lobes fall away from the anterior fossa floor (gravity retraction); vertex neutral. Bicoronal field prepped.
 
 ## Incision, Pericranial Flap & Craniotomy
-📷 *[Atlas — bicoronal flap & bifrontal craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma)*
 
 1. **Bicoronal incision** behind the hairline; reflect the scalp and **harvest a long, robust pericranial flap** (preserve its supraorbital/supratrochlear pedicles) for later floor reconstruction.
 2. **Bifrontal bone flap** low to the anterior fossa floor, **crossing the SSS** (strip the sinus off the inner table carefully). 
@@ -87,14 +147,10 @@ The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor 
 *Cureus 2026;18:e101289 — CC BY 4.0. Bifrontal craniotomy outlines after midline anterior-skull-base tumor resection.*
 
 ## Subfrontal Exposure & Tumor Work
-📷 *[Atlas — subfrontal tumor resection](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma)*
 
 - After CSF release (lumbar drain), **gently elevate the frontal lobes** to expose the floor. **Devascularize the tumor base early** by coagulating the **ethmoidal arteries** at the cribriform; **drill hyperostotic bone/crista galli** and remove involved dura (Simpson grade).
 - Internally debulk, then dissect the capsule off the **frontal lobes, optic nerves/chiasm, and ACA–AComA complex** posteriorly, preserving perforators. For invasive tumors, resect involved cribriform/ethmoid and plan a **cranionasal reconstruction.**
 
-![Arteries of the base of the brain — ACA/AComA complex (the posterior neurovascular limit of the subfrontal corridor)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
-
-*Sobotta 1909, public domain — via Wikimedia Commons.*
 
 ---
 

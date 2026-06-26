@@ -23,18 +23,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+spondylotic+myelopathy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **AOSpine CSM** — Fehlings MG et al. — guidelines & prospective outcomes for cervical spondylotic myelopathy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+AOSpine+cervical+spondylotic+myelopathy+guideline+outcomes)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
-
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20spondylotic%20myelopathy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=posterior+cervical+laminectomy+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — cervical spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Cervical kyphosis after posterior cervical laminectomy with and without fusion** — Jentzsch T. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38825607/)
+- **Minimally Invasive Posterior Cervical Laminectomy: 2-Dimensional Operative Video** — Lewis CS. Operative neurosurgery (Hagerstown, Md.) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36701552/)
+- **Multilevel cervical laminectomy and fusion with posterior cervical cages** — Bou Monsef JN. Journal of craniovertebral junction & spine 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29403242/)
+- **Cervical laminoplasty versus laminectomy and posterior cervical fusion for cervical myelopathy: propensity-matched analysis of 24-month outcomes from the Quality Outcomes Database** — Yang E. Journal of neurosurgery. Spine 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37728378/)
+- **Intraoperative Ultrasound-Guided Posterior Cervical Laminectomy for Degenerative Cervical Myelopathy** — Schär RT. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30312813/)
+- **Ischemia-Reperfusion Injury After Posterior Cervical Laminectomy** — Malinovic M. Cureus 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34722073/)
+- **The Efficacy of Posterior Cervical Laminectomy for Multilevel Degenerative Cervical Spondylotic Myelopathy in Long Term Period** — Kire N. Asian journal of neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31497113/)
+- **Posterior Cervical Laminectomy Results in Better Radiographic Decompression of Spinal Cord Compared with Anterior Cervical Discectomy and Fusion** — Piazza M. World neurosurgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29138070/)
+- **Post-operative quadriparesis following posterior cervical laminectomy and fusion: A case-series of incidence, risk factors, and management** — Hernandez NS. Clinical neurology and neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35033792/)
+- **Bridging the cervicothoracic junction during posterior cervical laminectomy and fusion for the treatment of multilevel cervical ossification of the posterior longitudinal ligament: a retrospective case series** — Wu DZ. BMC musculoskeletal disorders 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35550067/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Posterior Cervical Laminectomy Fusion — Figure 1.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-01-figure-1-10-1177-21925682241254327-fig1-jpg.jpg)
+*Figure 1.. CONSORT flow diagram. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
+![Posterior Cervical Laminectomy Fusion — Figure 2.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-02-figure-2-10-1177-21925682241254327-fig2-jpg.jpg)
+*Figure 2.. Demonstration of US-guided ISP block. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
+![Posterior Cervical Laminectomy Fusion — Figure 3.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-03-figure-3-10-1177-21925682241254327-fig3-jpg.jpg)
+*Figure 3.. Mean heart rate distribution between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
+![Posterior Cervical Laminectomy Fusion — Figure 4.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-04-figure-4-10-1177-21925682241254327-fig4-jpg.jpg)
+*Figure 4.. Mean arterial pressure distribution between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
+![Posterior Cervical Laminectomy Fusion — Figure 5.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-05-figure-5-10-1177-21925682241254327-fig5-jpg.jpg)
+*Figure 5.. Average NRS between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
+![Posterior Cervical Laminectomy Fusion — Figure 6.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-06-figure-6-10-1177-21925682241254327-fig6-jpg.jpg)
+*Figure 6.. Average MOASS score between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
+![Posterior Cervical Laminectomy Fusion — Figure 7.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-07-figure-7-10-1177-21925682241254327-fig7-jpg.jpg)
+*Figure 7.. Average PONV score between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
+![Posterior Cervical Laminectomy Fusion — Fig. 1](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-08-fig-1-12891-2022-5417-fig1-html-jpg.jpg)
+*Fig. 1. The evaluation of the C2–C7 Cobb angle and the SVA Source: [Bridging the cervicothoracic junction during posterior cervical laminectomy and fusion for the treatment of multilevel cervical ossification of the posterior longitudinal ligament: a retrospective case series](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097402/) — BMC Musculoskeletal Disorders 2022; CC BY.*
+
+![Posterior Cervical Laminectomy Fusion — Fig. 2](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-09-fig-2-12891-2022-5417-fig2-html-jpg.jpg)
+*Fig. 2. A 63-year-old male patient with multilevel, mixed-type ossification of the posterior longitudinal ligament. Preoperative computed tomography scan showed ossification of the posterior... Source: [Bridging the cervicothoracic junction during posterior cervical laminectomy and fusion for the treatment of multilevel cervical ossification of the posterior longitudinal ligament: a retrospective case series](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097402/) — BMC Musculoskeletal Disorders 2022; CC BY.*
+
+![Posterior Cervical Laminectomy Fusion — Figure 1](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-10-figure-1-ajns-14-848-g001-jpg.jpg)
+*Figure 1. Graphical diagram neurology (pre and postoperative) Source: [The Efficacy of Posterior Cervical Laminectomy for Multilevel Degenerative Cervical Spondylotic Myelopathy in Long Term Period](https://pmc.ncbi.nlm.nih.gov/articles/PMC6703065/) — Asian Journal of Neurosurgery 2019; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

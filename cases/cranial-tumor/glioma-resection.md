@@ -26,18 +26,9 @@ tags:
 - **Video searches:** [glioma resection awake mapping on YouTube](https://www.youtube.com/results?search_query=glioma+resection+awake+mapping+operative+video) · [5-ALA glioma resection](https://www.youtube.com/results?search_query=5-ALA+glioma+resection+operative+video)
 - **Open-access figures:** [PubMed Central — glioma resection awake mapping](https://www.ncbi.nlm.nih.gov/pmc/?term=glioma+resection+awake+mapping) · [Radiopaedia — high-grade glioma](https://radiopaedia.org/search?q=high%20grade%20glioma&scope=all)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Stupp protocol** — radiotherapy plus temozolomide for glioblastoma. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stupp+radiotherapy+temozolomide+glioblastoma+2005)
-- **5-ALA fluorescence** — randomized evidence for fluorescence-guided malignant glioma resection. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=5-ALA+fluorescence+guided+surgery+malignant+glioma+randomized+trial)
-- **EANO diffuse glioma guideline** — integrated molecular diagnosis and management. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=EANO+guideline+diffuse+glioma+adult+2021)
-
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 
-![Ventricular system & cerebral lobes (glioma / eloquent relations)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 ![Glioblastoma — preoperative MRI with DTI tractography (A–D) and postoperative MRI showing gross total resection (E–F)](../../figures/cranial-tumor/glioma-preop-postop-mri-dti_fneur-644804.jpg)
 
@@ -47,6 +38,76 @@ tags:
 
 *Intraoperative 5-ALA fluorescence guiding resection of tumor bulk and infiltrative margin. Source: Maragkos et al., Front Neurol 2021;12:644804, Fig 2. CC BY 4.0.*
 
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **[Pediatric Hemispheric Glioma]** — Nakano Y. No shinkei geka. Neurological surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35169092/)
+- **H3 K27M-altered glioma and diffuse intrinsic pontine glioma: Semi-systematic review of treatment landscape and future directions** — van den Bent M. Neuro-oncology 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38102230/)
+- **Glioma stem cells: drivers of tumor progression and recurrence** — He J. Stem cell research & therapy 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40483525/)
+- **Glioma and Neurokinin-1 Receptor Antagonists: A New Therapeutic Approach** — Muñoz M. Anti-cancer agents in medicinal chemistry 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29692265/)
+- **Pediatric-Type Diffuse Low Grade Glioma** — Kotch C. Advances in cancer research 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41198334/)
+- **A map of the altered glioma metabolism** — Deshmukh R. Trends in molecular medicine 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34489164/)
+- **Updates in Pediatric Glioma Pathology** — Hakar MH. Surgical pathology clinics 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33183734/)
+- **Neuroscience in glioma biology (Review)** — Zhang C. Oncology reports 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40999988/)
+- **Recent advances in glioma microenvironment-response nanoplatforms for phototherapy and sonotherapy** — Li X. Pharmacological research 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35413423/)
+- **What Epigenetics Teaches Us About Neuron-Glioma Interactions** — Chakraborty C. BioEssays : news and reviews in molecular, cellular and developmental biology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40685688/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Glioma Resection — Figure 1](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-01-figure-1-oncotarget-08-4864-g001-jpg.jpg)
+*Figure 1. SEB facilitates glioma-specific Th9 response in glioma-bearing miceGlioma-bearing mice were treated with Ag (the GL261 cell extracts; 100 μg/mouse; cAg, the NG108-15 cell extracts, 100... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
+![Glioma Resection — Figure 2](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-02-figure-2-oncotarget-08-4864-g002-jpg.jpg)
+*Figure 2. Counts of IL-9+ CD4+ T cells in glioma tissue(A–F) the photomicrographs show the IL-9+ (in red) CD4+ (in brown) T cells in glioma tissue from glioma-bearing mice. Panel F is negative... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
+![Glioma Resection — Figure 3](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-03-figure-3-oncotarget-08-4864-g003-jpg.jpg)
+*Figure 3. SEB regulates IL-9 gene expression in CD4+ T cellsCD4+ CD25− T cells were cultured SEB (at gradient doses as denoted) for 6 days. Cytosolic and nuclear extracts were prepared from the... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
+![Glioma Resection — Figure 4](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-04-figure-4-oncotarget-08-4864-g004-jpg.jpg)
+*Figure 4. SEB induces Th9 cellsCD4+ CD25− T cells and DCs (T cell:DC = 5:1) were cultured in the presence of SEB (100 ng/ml) and IL-2 (10 ng/ml; used as a T cell activator) for 6 days. The medium... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
+![Glioma Resection — Figure 5](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-05-figure-5-oncotarget-08-4864-g005-jpg.jpg)
+*Figure 5. SEB and glioma cell extracts induce glioma-specific Th9 cellsTh9 cells were generated from naïve CD4+ CD25− T cells with the presence of glioma extracts (5 μg/ml) and DCs in the presence... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
+![Glioma Resection — Figure 6](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-06-figure-6-oncotarget-08-4864-g006-jpg.jpg)
+*Figure 6. Glioma-specific Th9 cells induce glioma cell apoptosisTh9 cells were generated in the same procedures of Figure 4D. The cells (contain both Th9 cells and DCs; or #, naïve CD4+ T cells)... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
+![Glioma Resection — Figure 7](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-07-figure-7-oncotarget-08-4864-g007-jpg.jpg)
+*Figure 7. Administration with SEB enforces the effect of immunotherapy of Ag on experimental gliomaThe bars indicate the tumor size (mean ± SD) recorded from glioma-bearing mice. The treatment is... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
+![Glioma Resection — FIGURE 1](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-08-figure-1-cns-30-e14822-g001-jpg.jpg)
+*FIGURE 1. Glioma tissues are susceptible to SARS‐CoV‐2. (A) Immunofluorescent staining detecting the presence of the SARS‐CoV‐2 spike protein and ACE2 in glioblastoma tissue obtained from a... Source: [Evidences of neurological injury caused by COVID‐19 from glioma tissues and glioma organoids](https://pmc.ncbi.nlm.nih.gov/articles/PMC11199819/) — CNS Neuroscience & Therapeutics 2024; CC BY.*
+
+![Glioma Resection — FIGURE 2](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-09-figure-2-cns-30-e14822-g002-jpg.jpg)
+*FIGURE 2. Difference analyses of normal brain tissues, glioma tissues, and glioma‐COVID tissues. (A) The workflow for the comparative analysis of the three groups of tissues. (B, C) UMAP... Source: [Evidences of neurological injury caused by COVID‐19 from glioma tissues and glioma organoids](https://pmc.ncbi.nlm.nih.gov/articles/PMC11199819/) — CNS Neuroscience & Therapeutics 2024; CC BY.*
+
+![Glioma Resection — FIGURE 3](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-10-figure-3-cns-30-e14822-g003-jpg.jpg)
+*FIGURE 3. The global comparison of the differences of the neuronal cells or non‐neuronal cells in normal brain tissues, glioma tissues, and glioma‐COVID tissues. (A, B) UMAP representation of the... Source: [Evidences of neurological injury caused by COVID‐19 from glioma tissues and glioma organoids](https://pmc.ncbi.nlm.nih.gov/articles/PMC11199819/) — CNS Neuroscience & Therapeutics 2024; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -20,18 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereotactic+radiosurgery+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Brain mets (N0574)** — Brown PD et al. *JAMA* 2016 — SRS alone vs SRS + WBRT. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
-- **Trigeminal SRS** — Kondziolka D et al. *NEJM* 1996 — Gamma Knife radiosurgery for trigeminal neuralgia. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kondziolka+stereotactic+radiosurgery+trigeminal+neuralgia+1996)
-- **AVM/VS SRS** — Pollock BE et al. — long-term radiosurgery outcomes (AVM, vestibular schwannoma). [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pollock+stereotactic+radiosurgery+arteriovenous+malformation+vestibular+schwannoma+outcome)
-- **Guidelines:** [ASTRO guidelines](https://www.astro.org/Patient-Care-and-Practice/Clinical-Practice-Statements) · [CNS](https://www.cns.org/guidelines)
-
-![Skull base & intracranial targets (radiosurgery)](../../figures/anatomy/skull-base-interior_gray193.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20radiosurgery&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=stereotactic+radiosurgery+gamma+knife) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Single- and Multifraction Stereotactic Radiosurgery Dose/Volume Tolerances of the Brain** — Milano MT. International journal of radiation oncology, biology, physics 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32921513/)
+- **The current role of Gamma Knife radiosurgery in the management of intracranial haemangiopericytoma** — Spina A. Acta neurochirurgica 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26887864/)
+- **Stereotactic Therapies for Meningiomas** — Tuleasca C. Advances in experimental medicine and biology 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37432623/)
+- **A multi-centre stereotactic radiosurgery planning study of multiple brain metastases using isocentric linear accelerators with 5 and 2.5 mm width multi-leaf collimators, CyberKnife and Gamma Knife** — Hanvey S. BJR open 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38371494/)
+- **Gamma Knife, CyberKnife or micro-multileaf collimator LINAC for intracranial radiosurgery?** — Mindermann T. Acta neurochirurgica 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25413164/)
+- **LINAC stereotactic radiosurgery for vestibular schwannomas** — Ahmad M. Handbook of clinical neurology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41052849/)
+- **Cyberknife stereotactic radiosurgery and radiation therapy treatment planning system** — Ding C. Medical dosimetry : official journal of the American Association of Medical Dosimetrists 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29605528/)
+- **Dosimetric comparison of fractionated radiosurgery plans using frameless Gamma Knife ICON and CyberKnife systems with linear accelerator-based radiosurgery plans for multiple large brain metastases** — Han EY. Journal of neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30952125/)
+- **Image-guided LINAC radiosurgery in hypothalamic hamartomas** — Romanelli P. Frontiers in neurology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36119668/)
+- **Evaluation of CyberKnife Radiosurgery for Recurrent Trigeminal Neuralgia** — Berti A. Cureus 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30013862/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Fig. 1](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-01-fig-1-10-1055-s-0043-1761240-i22100018-1-jpg.jpg)
+*Fig. 1. Publication trends for the top 100 most cited articles on the stereotactic radiosurgical management of trigeminal neuralgia (1971–2019). Source: [Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery for Trigeminal Neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089752/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Fig. 2](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-02-fig-2-10-1055-s-0043-1761240-i22100018-2-jpg.jpg)
+*Fig. 2. Categorical distribution of different stereotactic radiosurgical modalities in the top 100 cited articles. SRS, stereotactic radiosurgery. Source: [Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery for Trigeminal Neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089752/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Fig. 3](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-03-fig-3-10-1055-s-0043-1761240-i22100018-3-jpg.jpg)
+*Fig. 3. Top countries generating articles in the top 100 cited articles on stereotactic radiosurgical management of trigeminal neuralgia based on the first author. Source: [Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery for Trigeminal Neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089752/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Fig. 4](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-04-fig-4-10-1055-s-0043-1761240-i22100018-4-jpg.jpg)
+*Fig. 4. Top contributing academic institutions in the top 100 cited articles. UCLA, University of California, Los Angeles; UPMC, University of Pittsburgh Medical Center. Source: [Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery for Trigeminal Neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089752/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Fig. 5](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-05-fig-5-10-1055-s-0043-1761240-i22100018-5-jpg.jpg)
+*Fig. 5. Top contributing authors in the list of the top 100 cited articles. Source: [Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery for Trigeminal Neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089752/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Fig. 6](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-06-fig-6-10-1055-s-0043-1761240-i22100018-6-jpg.jpg)
+*Fig. 6. Top contributing journals in the list of the top 100 cited articles. Source: [Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery for Trigeminal Neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089752/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Fig. 7](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-07-fig-7-10-1055-s-0043-1761240-i22100018-7-jpg.jpg)
+*Fig. 7. Categorical distribution of 100 most cited articles per targeted anatomical site. Source: [Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery for Trigeminal Neuralgia](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089752/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Figure 1.](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-08-figure-1-tzae003f1-jpg.jpg)
+*Figure 1.. Five arc beam arrangement used in Elements Multiple Brain Mets SRS planning. OARs shown are left eye (red), right eye (green), optic nerve and optic tracts (orange), optic chiasm... Source: [A multi-centre stereotactic radiosurgery planning study of multiple brain metastases using isocentric linear accelerators with 5 and 2.5 mm width multi-leaf collimators, CyberKnife and Gamma Knife](https://pmc.ncbi.nlm.nih.gov/articles/PMC10873585/) — BJR Open 2024; CC BY.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Figure 2.](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-09-figure-2-tzae003f2-jpg.jpg)
+*Figure 2.. Dose distribution for (A) linac with HD MLCs and (B) standard MLCs; (C) CK and (D) GK for a patient with 5 targets all treated to 24 Gy. Source: [A multi-centre stereotactic radiosurgery planning study of multiple brain metastases using isocentric linear accelerators with 5 and 2.5 mm width multi-leaf collimators, CyberKnife and Gamma Knife](https://pmc.ncbi.nlm.nih.gov/articles/PMC10873585/) — BJR Open 2024; CC BY.*
+
+![Stereotactic Radiosurgery Gamma Knife LINAC CyberKnife — Figure 3.](../../figures/curated/case-prep-stereotactic-radiosurgery-srs-gamma-knife-linac-cyberknife/figure-10-figure-3-tzae003f3-jpg.jpg)
+*Figure 3.. Cumulative DVHs of the five PTVs all prescribed to 24 Gy and the normal whole brain for a selected patient comparing the linac using HD MLCs with (A) standard MLCs, (B) CK, and (C) GK.... Source: [A multi-centre stereotactic radiosurgery planning study of multiple brain metastases using isocentric linear accelerators with 5 and 2.5 mm width multi-leaf collimators, CyberKnife and Gamma Knife](https://pmc.ncbi.nlm.nih.gov/articles/PMC10873585/) — BJR Open 2024; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

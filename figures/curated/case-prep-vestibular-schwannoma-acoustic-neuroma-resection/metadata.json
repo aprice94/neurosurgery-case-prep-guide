@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC11604085",
+    "article_title": "Alternatively activated macrophages are associated with faster growth rate in vestibular schwannoma",
+    "journal": "Brain Communications",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Graphical Abstract",
+    "caption": "",
+    "href": "fcae400_ga.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-01-graphical-abstract-fcae400-ga-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11604085.1/fcae400_ga.jpg?md5=deaec6a7847e2d16da63cbbdafc1a0e0"
+  },
+  {
+    "pmcid": "PMC11604085",
+    "article_title": "Alternatively activated macrophages are associated with faster growth rate in vestibular schwannoma",
+    "journal": "Brain Communications",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Growing VS have more cells residing in proliferative, immune-enriched neighbourhoods. (A) Schematic detailing how the cells within a three-step connection from the target cell define a single cell\u2019s local environment (neighbourhood). (B) Cell types enriched within each neighbourhood plotted and used to annotate whether neighbourhoods were tumour-enriched, vasculature-enriched or immune-enriched, as well as whether they contained proliferative cells. Fold change (FC) of cell type enrichment represented by node size, with grey FC < 1 and red FC \u2265 1. Neighbourhood cell type enrichment analysis included all cells from all VS cases (N = 9). (C) IMC images with matched neighbourhood plots of cells coloured by 11 annotated neighbourhoods. Scale bars denote 100 \u00b5m. (D) Neighbourhood proximity analysis used pairwise analytical neighbourhood enrichment (CellCharter) to define whether pairs of the 11 neighbourhoods were likely to associate positively or negatively with one-another when compared with random chance (observed/expected). Neighbourhood proximity analysis included all cells from all VS cases (N = 9). (E) Proportions of cells within each neighbourhood by individual case and averaged from in four static (three male and one female) and five growing (four male and one female) VS. Static or growing VS defined as volume change/year < 20% or \u2265 20%, respectively. Shapiro\u2013Wilk normality test followed by Mann\u2013Whitney test for static (N = 4) and growing (N = 5) cases. (F) Proportion of cells in proliferative/non-proliferative neighbourhoods in static and growing VS, as per annotation in (D). Shapiro\u2013Wilk normality test followed by 2-way ANOVA for static (N = 4) and growing (N = 5) cases. Statistical significance *P < 0.05, **P < 0.01. Prolif., proliferative; Alt. Act. TAMs, alternatively activated TAMs; Class. Act. TAMs, classically activated TAMs; trans. monos., transitioning monocytes; IMC, imaging mass cytometry.",
+    "href": "fcae400f3.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-02-figure-3-fcae400f3-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11604085.1/fcae400f3.jpg?md5=479a7e39149564af5f0b581f6daa7f82"
+  },
+  {
+    "pmcid": "PMC11604085",
+    "article_title": "Alternatively activated macrophages are associated with faster growth rate in vestibular schwannoma",
+    "journal": "Brain Communications",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "Classically activated TAMs associate with alternatively activated TAMs in static but not growing VS. (A) Schematic detailing how significant positive and negative cell\u2013cell spatial associations are first determined by QCM in 100 \u00b5m2 quadrats and then cross pair correlation functions (cross-PCF). (B) IMC images matched with centroid XY location plots of cells coloured by their annotated populations. Scale bars denote 100 \u00b5m. (C) Significant positively and negatively associating cell type pairs at a distance of 20 \u00b5m (gr20) by cross-PCF (significance when P < 0.05) in static (N = 4, three male and one female) and growing (N = 5, four male and one female) VS cases (volume change/year < 20% or \u2265 20%, respectively). (D) Summary adjacency cell networks of cell populations in static (N = 4) and growing (N = 5) VS indicating significant spatial associations by both QCM and PCF (significance when P < 0.05). Edge width proportional to gr20, edge colour by % total contacts of the sending cell type to receiving cell type. Node size by proportional relative abundance, node colour by cell type. prolif., proliferative; trans. monos., transitioning monocytes; Sch., Schwann cells; Alt. Act. TAMs, alternatively activated TAMs.",
+    "href": "fcae400f4.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-03-figure-4-fcae400f4-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11604085.1/fcae400f4.jpg?md5=ada6c13be43e06268cbb98cab9eb2301"
+  },
+  {
+    "pmcid": "PMC10765230",
+    "article_title": "Sudden Sensorineural Hearing Loss and Facial Palsy in Patients with Vestibular Schwannoma Based on the Population Data of Korea",
+    "journal": "J Int Adv Otol. 2023 Nov 1;19(6):468\u201371. doi: 10.5152/iao.2023.231121",
+    "year": "",
+    "license": "CC BY-NC",
+    "label": "Figure 4",
+    "caption": "",
+    "href": "88x31.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-04-figure-4-88x31-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10765230.1/88x31.jpg?md5=5e6b5693218cf565c65877341a0eac27"
+  },
+  {
+    "pmcid": "PMC9984973",
+    "article_title": "Immunological Analysis of Vestibular Schwannoma Patients",
+    "journal": "J Int Adv Otol. 2023 Jan 1;19(1):1\u20134. doi: 10.5152/iao.2023.22581",
+    "year": "",
+    "license": "CC BY-NC",
+    "label": "Figure 5",
+    "caption": "",
+    "href": "88x31.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-05-figure-5-88x31-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9984973.1/88x31.jpg?md5=5e6b5693218cf565c65877341a0eac27"
+  },
+  {
+    "pmcid": "PMC9984973",
+    "article_title": "Immunological Analysis of Vestibular Schwannoma Patients",
+    "journal": "The Journal of International Advanced Otology",
+    "year": "2023",
+    "license": "CC BY-NC",
+    "label": "Figure 1.",
+    "caption": "Level of growth factors in the tumor growth group vs. the no tumor growth group.",
+    "href": "jiao-19-1-1_f001.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-06-figure-1-jiao-19-1-1-f001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9984973.1/jiao-19-1-1_f001.jpg?md5=ed18c44f820140dc05e95c88e0d3b894"
+  },
+  {
+    "pmcid": "PMC9984973",
+    "article_title": "Immunological Analysis of Vestibular Schwannoma Patients",
+    "journal": "The Journal of International Advanced Otology",
+    "year": "2023",
+    "license": "CC BY-NC",
+    "label": "Figure 2.",
+    "caption": "Concentration of carcinoembryonic antigen in patients with different stages of vestibular schwannoma in comparison to the control group.",
+    "href": "jiao-19-1-1_f002.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-07-figure-2-jiao-19-1-1-f002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9984973.1/jiao-19-1-1_f002.jpg?md5=bc08d8bdfc08f29085c670f23f9bccba"
+  },
+  {
+    "pmcid": "PMC6417465",
+    "article_title": "A Man with Juvenile Nasopharyngeal Angiofibroma, Vestibular Schwannoma, Cleft Lip and Cleft Palate, and Various Nevi: Case Report and Review",
+    "journal": "Cureus",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Juvenile nasopharyngeal angiofibroma and cleft lip and cleft palate.A 38-year-old man has atrophy of the right temporal area (arrows) resulting from the surgical treatment of his recurrent juvenile nasopharyngeal angiofibroma (A). He also has a healed scar (arrows) on the right side of his upper lip following repair of his cleft lip and cleft palate (B).",
+    "href": "cureus-0010-00000003304-i01.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-08-figure-1-cureus-0010-00000003304-i01-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6417465.1/cureus-0010-00000003304-i01.jpg?md5=d4a5ddad403ff1fdd8cb3b3d654024b2"
+  },
+  {
+    "pmcid": "PMC6417465",
+    "article_title": "A Man with Juvenile Nasopharyngeal Angiofibroma, Vestibular Schwannoma, Cleft Lip and Cleft Palate, and Various Nevi: Case Report and Review",
+    "journal": "Cureus",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Compound dysplastic nevus with mild atypia on the right mid-back.Distant (A) and closer (B) views of an oval dark brown patch (arrow) on the right mid-back. Microscopic examination of the shave biopsy, which completely removed the lesion, demonstrated a compound dysplastic nevus with mild atypia.",
+    "href": "cureus-0010-00000003304-i02.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-09-figure-2-cureus-0010-00000003304-i02-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6417465.1/cureus-0010-00000003304-i02.jpg?md5=0f1a0180a2d4c0d188b16de0c59ae84f"
+  },
+  {
+    "pmcid": "PMC6417465",
+    "article_title": "A Man with Juvenile Nasopharyngeal Angiofibroma, Vestibular Schwannoma, Cleft Lip and Cleft Palate, and Various Nevi: Case Report and Review",
+    "journal": "Cureus",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Combined (blue and intradermal) nevus of the right mid-chest.Distant (A) and closer (B) views of a small black macule (arrow) on the right mid-chest. Microscopic examination of the shave biopsy, which completely removed the lesion, demonstrated a combined nevus composed of a blue nevus and an intradermal nevus.",
+    "href": "cureus-0010-00000003304-i03.jpg",
+    "local": "figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-10-figure-3-cureus-0010-00000003304-i03-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6417465.1/cureus-0010-00000003304-i03.jpg?md5=9e278f9632ce9eae1ca0057413051133"
+  }
+]

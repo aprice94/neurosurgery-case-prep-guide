@@ -21,17 +21,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=awake+craniotomy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Insular glioma** — Sanai N, Polley MY, Berger MS. *J Neurosurg* 2010 — surgical outcomes/safety of insular gliomas. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Sanai+insular+glioma+resection+outcome+2010+J+Neurosurg)
-- **Intraop mapping (meta)** — De Witt Hamer PC et al. *J Clin Oncol* 2012 — stimulation mapping improves outcomes. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=De+Witt+Hamer+intraoperative+stimulation+mapping+glioma+meta-analysis+2012)
-- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
-
-![Cerebral cortex & ventricles (eloquent-area mapping)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=awake%20craniotomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=awake+craniotomy+cortical+mapping) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Awake surgery with cortical-subcortical mapping in diffuse gliomas adjacent to central lobe. Report of two cases and literature review** — Núñez-Velasco S. Cirugia y cirujanos 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31264990/)
+- **A Review of Cortical and Subcortical Stimulation Mapping for Language** — Young JS. Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33444451/)
+- **Awake brain mapping of cortex and subcortical pathways in brain tumor surgery** — Freyschlag CF. Journal of neurosurgical sciences 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25418274/)
+- **White matter tracts and executive functions: a review of causal and correlation evidence** — Ribeiro M. Brain : a journal of neurology 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37703295/)
+- **Awake brain mapping by direct cortical stimulation; technical note to get higher resection rate and low morbidity in low-grade glioma patients** — Ahmed Khan R. Annals of medicine and surgery (2012) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38576956/)
+- **Awake Craniotomy with Cortical and Subcortical Speech Mapping for Supramarginal Cavernoma Resection** — Domingo RA. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32585378/)
+- **[Awake neurosurgery: usefullness of intraoperative cortical and subcortical functional mapping]** — Mikuni N. No shinkei geka. Neurological surgery 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15570875/)
+- **Surgery for gliomas** — Tate MC. Cancer treatment and research 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25468224/)
+- **Functional cortical mapping and structural subcortical anatomy predicts intra-operative speech arrest: a nTMS-tractography study** — Jung J. Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40902377/)
+- **Intraoperative augmented reality fiber tractography complements cortical and subcortical mapping** — Chidambaram S. World neurosurgery: X 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37456694/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 1](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-01-figure-1-fnana-05-00065-g001-jpg.jpg)
+*Figure 1. The comprehensive neuroanatomical picture formed by synthesizing hundreds of original neuroanatomical studies into the homotypical blueprint underlying cognition. The interactive... Source: [Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3243081/) — Frontiers in Neuroanatomy 2011; CC BY-NC.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 3](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-02-figure-3-fnana-05-00065-g003-jpg.jpg)
+*Figure 3. Prediction of human laminar corticocortical projections. Synthesis of von Economo cortical laminar types and homotypical laminar corticocortical projections in the monkey. Lateral (A)... Source: [Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3243081/) — Frontiers in Neuroanatomy 2011; CC BY-NC.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 4](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-03-figure-4-fnana-05-00065-g004-jpg.jpg)
+*Figure 4. Cognitive circuits as shown at http://www.frontiersin.org/files/cognitiveconsilience/index.html. Circuits from left to right. Orange: consolidated declarative long-term memory. Green:... Source: [Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3243081/) — Frontiers in Neuroanatomy 2011; CC BY-NC.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 5](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-04-figure-5-fnana-05-00065-g005-jpg.jpg)
+*Figure 5. Summary diagram of proposed flow of cognitive information. Seven of the circuits described in the text are shown to illustrate a summarized functional viewpoint of the hypothesized flow... Source: [Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3243081/) — Frontiers in Neuroanatomy 2011; CC BY-NC.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 5](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-05-figure-5-brb3-15-e70604-g001-jpg.jpg)
+*Figure 5. Source: [Cognitive Profiles and Determinants of Eligibility for Awake Surgery in Non‐Dominant Hemisphere Gliomas: A Narrative Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12123447/) — Brain Behav. 2025 May 30;15(6):e70604. doi: 10.1002/brb3.70604; CC BY.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 2](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-06-figure-2-pone-0107850-g002-jpg.jpg)
+*Figure 2. Restoration of DMN under mechanical ventilation.(A). Comparison of BOLD signal between MV and SB revealed a specific increase of activation in the default-mode network associated in... Source: [The Cerebral Cost of Breathing: An fMRI Case-Study in Congenital Central Hypoventilation Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4182437/) — PLoS ONE 2014; CC0.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 1](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-07-figure-1-fnhum-15-612890-g0001-jpg.jpg)
+*Figure 1. Inclusion criteria. A total of 139 patients who underwent awake surgery in our institution were included; 36 of them matched our inclusion criteria. Of these, 22 patients underwent... Source: [Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7920969/) — Frontiers in Human Neuroscience 2021; CC BY.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 3](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-08-figure-3-fnhum-15-612890-g0003-jpg.jpg)
+*Figure 3. Distribution of the positive mapping sites (Aa, white circle) and regions with negative responses (Ab, dark blue circle) at the cortical level. Each positive mapping site is stimulated... Source: [Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7920969/) — Frontiers in Human Neuroscience 2021; CC BY.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 5](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-09-figure-5-fnhum-15-612890-g0005-jpg.jpg)
+*Figure 5. Time course of assessment for basic emotion in patients whose positive mappings were identified during awake surgery. The figure of time series of individuals (A) indicates that three... Source: [Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7920969/) — Frontiers in Human Neuroscience 2021; CC BY.*
+
+![Awake Craniotomy Cortical Subcortical Mapping — Figure 6](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-10-figure-6-fnhum-15-612890-g0006-jpg.jpg)
+*Figure 6. Pre- and postoperative magnetic resonance (MR) images (gadolinium-enhanced T1 image for Case 1 and FLAIR image for Case 2) and intraoperative findings of illustrative two cases are... Source: [Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7920969/) — Frontiers in Human Neuroscience 2021; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

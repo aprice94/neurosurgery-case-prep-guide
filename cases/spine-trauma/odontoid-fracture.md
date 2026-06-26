@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=odontoid+fracture+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Odontoid fracture management** — anterior screw vs posterior C1-2 fusion selection and elderly outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=type+II+odontoid+fracture+anterior+screw+posterior+fusion+elderly+outcomes)
-- **Upper cervical trauma guidance** — immobilization, nonunion, and operative indication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=odontoid+fracture+guideline+nonunion+operative+indications)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=odontoid%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=odontoid+fracture+screw+fixation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — upper cervical (C1–C2 / odontoid)](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Predicting Mortality Following Odontoid Fracture Fixation in Elderly Patients: CAADS-16 Score** — ElNemer W. Global spine journal 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38037824/)
+- **Outcomes of Odontoid Process Fracture Surgery** — Sowa D. Ortopedia, traumatologia, rehabilitacja 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38088099/)
+- **Odontoid process type II and III fracture fixation using bone allograft screws versus cannulated screws: a biomechanical study** — Benca E. Archives of orthopaedic and trauma surgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40119913/)
+- **Biomechanics of odontoid fracture fixation. Comparison of the one- and two-screw technique** — Sasso R. Spine 1993. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8272941/)
+- **Percutaneous anterior odontoid screw fixation technique. A new instrument and a cadaveric study** — Kazan S. Acta neurochirurgica 1999. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10392209/)
+- **Computed tomographic evaluation of odontoid process: implications for anterior screw fixation of odontoid fractures in an adult population** — Daher MT. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21691900/)
+- **Cervical Spine Navigation and Enabled Robotics: A New Frontier in Minimally Invasive Surgery** — Lebl DR. HSS journal : the musculoskeletal journal of Hospital for Special Surgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34539275/)
+- **Medical devices of the head, neck, and spine** — Hunter TB. Radiographics : a review publication of the Radiological Society of North America, Inc 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14730051/)
+- **Salvage of failed odontoid fixation through anterior C1/C2 transarticular screws** — Salem KM. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25619489/)
+- **Odontoid Fusion** — Walker CT. Acta neurochirurgica. Supplement 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30610335/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Odontoid Fracture Fixation — Figure 2.](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-01-figure-2-10-1177-21925682231220019-fig2-jpg.jpg)
+*Figure 2.. ROC curves for CAADS-16 score and ASA classification. The AUC is displayed in the legend, and the cut off values are represented in the squares of the curve. The ASA classification was... Source: [Predicting Mortality Following Odontoid Fracture Fixation in Elderly Patients: CAADS-16 Score](https://pmc.ncbi.nlm.nih.gov/articles/PMC11877605/) — Global Spine Journal 2023; CC BY-NC-ND.*
+
+![Odontoid Fracture Fixation — Fig. 1](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-02-fig-1-402-2025-5805-fig1-html-jpg.jpg)
+*Fig. 1. An overview of the study methodology. Eighty-four C2 specimens were scanned in high-resolution peripheral quantitative computed tomography (HR-pQCT) and biomechanically tested in... Source: [Odontoid process type II and III fracture fixation using bone allograft screws versus cannulated screws: a biomechanical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11929696/) — Archives of Orthopaedic and Trauma Surgery 2025; CC BY.*
+
+![Odontoid Fracture Fixation — Fig. 2](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-03-fig-2-402-2025-5805-fig2-html-jpg.jpg)
+*Fig. 2. Region of interest for the assessment of the volumetric bone mineral density (vBMD) (green). The cross-sectional ratio of cortical bone to total bone (Ct.Ar/Tt.Ar) was assessed in the... Source: [Odontoid process type II and III fracture fixation using bone allograft screws versus cannulated screws: a biomechanical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11929696/) — Archives of Orthopaedic and Trauma Surgery 2025; CC BY.*
+
+![Odontoid Fracture Fixation — Fig. 3](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-04-fig-3-402-2025-5805-fig3-html-jpg.jpg)
+*Fig. 3. Assessment of specimen-specific cross-sectional area and ratio of cortical bone of the odontoid process. Two polylines were created based on multiple manually set points on the outer and... Source: [Odontoid process type II and III fracture fixation using bone allograft screws versus cannulated screws: a biomechanical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11929696/) — Archives of Orthopaedic and Trauma Surgery 2025; CC BY.*
+
+![Odontoid Fracture Fixation — Fig. 4](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-05-fig-4-402-2025-5805-fig4-html-jpg.jpg)
+*Fig. 4. Experimental setup with a specimen mounted for biomechanical testing. The embedded specimen (A) was securely placed within an aluminum cup and could be rotated at either − 50° or 0° in... Source: [Odontoid process type II and III fracture fixation using bone allograft screws versus cannulated screws: a biomechanical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11929696/) — Archives of Orthopaedic and Trauma Surgery 2025; CC BY.*
+
+![Odontoid Fracture Fixation — Fig. 5](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-06-fig-5-402-2025-5805-fig5-html-jpg.jpg)
+*Fig. 5. Tested fixation devices (from top to bottom): self-drilling cannulated screws ⌀3.5 mm, L32/12 mm, L34/12 mm, L36/12 mm, L38/12 mm, L40/12 mm (Synthes GmbH, Zuchwil, Switzerland) and, 35... Source: [Odontoid process type II and III fracture fixation using bone allograft screws versus cannulated screws: a biomechanical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11929696/) — Archives of Orthopaedic and Trauma Surgery 2025; CC BY.*
+
+![Odontoid Fracture Fixation — Fig. 6](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-07-fig-6-402-2025-5805-fig6-html-jpg.jpg)
+*Fig. 6. Typical load-displacement curves from both implant groups including the evaluated biomechanical variables Source: [Odontoid process type II and III fracture fixation using bone allograft screws versus cannulated screws: a biomechanical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11929696/) — Archives of Orthopaedic and Trauma Surgery 2025; CC BY.*
+
+![Odontoid Fracture Fixation — Fig. 7](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-08-fig-7-402-2025-5805-fig7-html-jpg.jpg)
+*Fig. 7. Mean machine displacements over the corresponding load levels for the intact specimens and the following instrumentation with the two implant types. The whiskers represent the standard... Source: [Odontoid process type II and III fracture fixation using bone allograft screws versus cannulated screws: a biomechanical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11929696/) — Archives of Orthopaedic and Trauma Surgery 2025; CC BY.*
+
+![Odontoid Fracture Fixation — FIG. 1.](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-09-fig-1-case21501f1-jpg.jpg)
+*FIG. 1.. A: Identifying the joint space below the lateral mass of the atlas (anatomical drawing). B: Inserting osteotome for manipulation (anatomical drawing). C: Rotating the osteotome to open... Source: [Unstable odontoid fractures: technical appraisal of anterior extrapharyangeal open reduction internal fixation for irreducible unstable odontoid fractures. Patient series](https://pmc.ncbi.nlm.nih.gov/articles/PMC9435568/) — Journal of Neurosurgery: Case Lessons 2021; CC BY-NC-ND.*
+
+![Odontoid Fracture Fixation — FIG. 2.](../../figures/curated/case-prep-odontoid-type-ii-fracture-fixation/figure-10-fig-2-case21501f2-jpg.jpg)
+*FIG. 2.. A: Posteriorly displaced impacted fracture (anatomical image). B: Impaling the anterior arch of the atlas and distal fracture fragment with a tap (anatomical image). C: Repositioning the... Source: [Unstable odontoid fractures: technical appraisal of anterior extrapharyangeal open reduction internal fixation for irreducible unstable odontoid fractures. Patient series](https://pmc.ncbi.nlm.nih.gov/articles/PMC9435568/) — Journal of Neurosurgery: Case Lessons 2021; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

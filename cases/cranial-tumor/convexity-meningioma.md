@@ -26,15 +26,77 @@ tags:
 - **Video searches:** [convexity meningioma resection on YouTube](https://www.youtube.com/results?search_query=convexity+meningioma+resection+microsurgery) · [meningioma craniotomy operative video](https://www.youtube.com/results?search_query=meningioma+craniotomy+operative+video)
 - **Imaging review:** [Radiopaedia — convexity meningioma](https://radiopaedia.org/search?q=convexity%20meningioma&scope=all) · [PubMed Central — convexity meningioma resection](https://www.ncbi.nlm.nih.gov/pmc/?term=convexity+meningioma+resection)
 
-**📑 Key evidence — landmark trials & guidelines**
 
-- **Simpson grade** — resection extent and recurrence framework for meningioma surgery. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **EANO guideline** — diagnosis, observation, surgery, radiation, and surveillance for meningiomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
 
-![Cerebral surface & ventricles (convexity relations)](../../figures/anatomy/ventricles_gray734.png)
+---
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **[Convexity Meningioma, Parasagittal Meningioma, Falx Meningioma]** — Matsuda M. No shinkei geka. Neurological surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39034511/)
+- **Convexity meningioma resection in the modern neurosurgical era** — Sarris C. Handbook of clinical neurology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32586511/)
+- **Convexity meningioma associated with noncontiguous dural arteriovenous fistula** — Manzo M. Surgical neurology international 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32494401/)
+- **Atypical convexity meningioma presenting with photophobia and skull erosion** — Kuroda K. Radiology case reports 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36411850/)
+- **Simultaneous Convexity Meningioma and Prolactinoma** — Figueroa-Angel V. Journal of neurosciences in rural practice 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29204043/)
+- **Recurrent subcutaneous metastasis of a convexity meningioma: a case report and literature review** — Hachicha A. The International journal of neuroscience 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37929581/)
+- **Convexity dural hemangioma: illustrative case** — Hayden EA. Journal of neurosurgery. Case lessons 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39556829/)
+- **A convexity meningioma presenting with an acute subdural hematoma** — Itani M. Surgical neurology international 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33024601/)
+- **[Convexity meningioma?]** — Blum U. Der Radiologe 1988. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3375449/)
+- **A Rare Case of Postoperative Symptomatic Cyst Formation After Resection of a Large Convexity Meningioma** — Fujimori T. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30974281/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Convexity Meningioma Resection — Figure 1](../../figures/curated/case-prep-convexity-meningioma-resection/figure-01-figure-1-medi-95-e4047-g001-jpg.jpg)
+*Figure 1. Preoperative magnetic resonance images postcontrast images revealed a rounded lesion on the axial T1-weighted image (arrow, A) and the spindle-shaped on sagittal image (arrow, D), with... Source: [Extra-axial isolated cerebral varix misdiagnosed as convexity meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC4937951/) — Medicine 2016; CC BY.*
+
+![Convexity Meningioma Resection — Figure 2](../../figures/curated/case-prep-convexity-meningioma-resection/figure-02-figure-2-medi-95-e4047-g002-jpg.jpg)
+*Figure 2. Intraoperative exposure of the isolate cerebral varix and postoperative CT image. A focal dilatation of the convexity vein was found. It has the filling stage (A) and the loose stage... Source: [Extra-axial isolated cerebral varix misdiagnosed as convexity meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC4937951/) — Medicine 2016; CC BY.*
+
+![Convexity Meningioma Resection — Figure 1:](../../figures/curated/case-prep-convexity-meningioma-resection/figure-03-figure-1-sni-11-270-g001-jpg.jpg)
+*Figure 1:. The axial T2 image (a) shows two discrete heterogeneous extra-axial lesions at suprasellar cistern (white arrow) and left frontal convexity (red arrow). The axial (b), sagittal, (c) and... Source: [Coexistent pituitary adenoma and frontal convexity meningioma with frontal sinus invasion: A rare association](https://pmc.ncbi.nlm.nih.gov/articles/PMC7538984/) — Surgical Neurology International 2020; CC BY-NC-SA.*
+
+![Convexity Meningioma Resection — Figure 2:](../../figures/curated/case-prep-convexity-meningioma-resection/figure-04-figure-2-sni-11-270-g002-jpg.jpg)
+*Figure 2:. (a and b) Hematoxylin and eosin (H&E) staining, ×10, shows sheets of monomorphic cells with round nuclei, salt and pepper chromatin consistent with pituitary adenoma (c). H&E, ×10,... Source: [Coexistent pituitary adenoma and frontal convexity meningioma with frontal sinus invasion: A rare association](https://pmc.ncbi.nlm.nih.gov/articles/PMC7538984/) — Surgical Neurology International 2020; CC BY-NC-SA.*
+
+![Convexity Meningioma Resection — Figure 5](../../figures/curated/case-prep-convexity-meningioma-resection/figure-05-figure-5-sni-11-270-inline001-jpg.jpg)
+*Figure 5. Source: [Coexistent pituitary adenoma and frontal convexity meningioma with frontal sinus invasion: A rare association](https://pmc.ncbi.nlm.nih.gov/articles/PMC7538984/) — Surg Neurol Int. 2020 Sep 5;11:270. doi: 10.25259/SNI_164_2020; CC BY-NC-SA.*
+
+![Convexity Meningioma Resection — Figure 6](../../figures/curated/case-prep-convexity-meningioma-resection/figure-06-figure-6-sni-11-270-t001-jpg.jpg)
+*Figure 6. Source: [Coexistent pituitary adenoma and frontal convexity meningioma with frontal sinus invasion: A rare association](https://pmc.ncbi.nlm.nih.gov/articles/PMC7538984/) — Surg Neurol Int. 2020 Sep 5;11:270. doi: 10.25259/SNI_164_2020; CC BY-NC-SA.*
+
+![Convexity Meningioma Resection — Figure 1:](../../figures/curated/case-prep-convexity-meningioma-resection/figure-07-figure-1-sni-16-362-g001-jpg.jpg)
+*Figure 1:. (a) Magnetic resonance imaging (MRI) of the patient in T1 sequence with contrast, axial view. (b) MRI of the patient in T1 sequence with contrast, coronal and sagittal views. (c)... Source: [Application of a head-mounted augmented reality display for visualization in convexity meningioma resection: A technical note](https://pmc.ncbi.nlm.nih.gov/articles/PMC12482705/) — Surgical Neurology International 2025; CC BY-NC-SA.*
+
+![Convexity Meningioma Resection — Figure 2:](../../figures/curated/case-prep-convexity-meningioma-resection/figure-08-figure-2-sni-16-362-g002-jpg.jpg)
+*Figure 2:. (a and b) An overview of the surgical setup, showcasing both the surgeon and the assistant in ergonomic positions while performing the procedure, highlighting the benefits of the MyVeo... Source: [Application of a head-mounted augmented reality display for visualization in convexity meningioma resection: A technical note](https://pmc.ncbi.nlm.nih.gov/articles/PMC12482705/) — Surgical Neurology International 2025; CC BY-NC-SA.*
+
+![Convexity Meningioma Resection — Figure 9](../../figures/curated/case-prep-convexity-meningioma-resection/figure-09-figure-9-sni-16-362-inline001-jpg.jpg)
+*Figure 9. Source: [Application of a head-mounted augmented reality display for visualization in convexity meningioma resection: A technical note](https://pmc.ncbi.nlm.nih.gov/articles/PMC12482705/) — Surg Neurol Int. 2025 Aug 22;16:362. doi: 10.25259/SNI_362_2025; CC BY-NC-SA.*
+
+![Convexity Meningioma Resection — Figure 10](../../figures/curated/case-prep-convexity-meningioma-resection/figure-10-figure-10-sni-16-362-t001-jpg.jpg)
+*Figure 10. Source: [Application of a head-mounted augmented reality display for visualization in convexity meningioma resection: A technical note](https://pmc.ncbi.nlm.nih.gov/articles/PMC12482705/) — Surg Neurol Int. 2025 Aug 22;16:362. doi: 10.25259/SNI_362_2025; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -20,26 +20,82 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spinal+metastasis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Metastatic cord compression** — decompressive surgery + radiotherapy in selected patients. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+metastatic+spinal+cord+compression+surgery+radiotherapy+Lancet+2005)
-- **NOMS / SINS** — decision frameworks for spinal metastasis and mechanical instability. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NOMS+framework+SINS+spinal+metastases+instability)
-
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20metastasis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+corpectomy+metastasis+separation+surgery) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — thoracolumbar spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-![Thoracic vertebra (superior view) — pedicle & canal](../../figures/spine/thoracic-vertebra-superior_gray90.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
 
-![Lumbar vertebra (superior view) — pedicle, lamina & facets](../../figures/spine/lumbar-vertebra-superior_gray93.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Thoracic corpectomy and vertebral body reconstruction (TCVBR): a systematic review and meta-analysis** — Badary A. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41870608/)
+- **Distractable vertebral cages for reconstruction after cervical corpectomy** — Woiciechowsky C. Spine 2005. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16094275/)
+- **Transpedicular partial corpectomy without anterior vertebral reconstruction in thoracic spinal metastases** — Chen YJ. Spine 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18090069/)
+- **Medium Term Outcomes in Palliative Transpedicular Corpectomy with Cement Based Anterior Vertebral Reconstruction Performed for Patients with Spinal Metastasis** — Rizkallah M. Spine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38864462/)
+- **Palliative transpedicular partial corpectomy without anterior vertebral reconstruction in lower thoracic and thoracolumbar junction spinal metastases** — Chang CC. Journal of orthopaedic surgery and research 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26183322/)
+- **Titanium cage reconstruction after cervical corpectomy** — Dorai Z. Journal of neurosurgery 2003. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12859051/)
+- **The use of an expandable cage for corpectomy reconstruction of vertebral body tumors through a posterior extracavitary approach: a multicenter consecutive case series of prospectively followed patients** — Shen FH. The spine journal : official journal of the North American Spine Society 2008. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17923442/)
+- **Differences in surgical outcome after anterior corpectomy and reconstruction with an expandable cage with rectangular footplates between thoracolumbar and lumbar osteoporotic vertebral fracture** — Terai H. North American Spine Society journal 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35141636/)
+- **Comparison of polymethylmethacrylate versus expandable cage in anterior vertebral column reconstruction after posterior extracavitary corpectomy in lumbar and thoraco-lumbar metastatic spine tumors** — Eleraky M. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21390557/)
+- **Cervical spinal stenosis: outcome after anterior corpectomy, allograft reconstruction, and instrumentation** — Mayr MT. Journal of neurosurgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11795694/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Vertebral Corpectomy Reconstruction — Fig. 1](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-01-fig-1-gr1-jpg.jpg)
+*Fig. 1. Sagittal (a) and Axial (b) T1 Post Gadolinium MRI: Expansile lytic lesion involving the T10 vertebral body and posterior elements with pathologic fracture and epidural compression. Source: [Dual expandable interbody cage utilization for enhanced stability in vertebral column reconstruction following thoracolumbar corpectomy: A report of two cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC8819912/) — North American Spine Society Journal 2021; CC BY-NC-ND.*
+
+![Vertebral Corpectomy Reconstruction — Fig. 2](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-02-fig-2-gr2-jpg.jpg)
+*Fig. 2. Axial T1 MRI Thoracic Spine Post-Gadolinium: superior endplate of the caudal T11 vertebral body indicating larger footprint of reconstruction required during VBR. Source: [Dual expandable interbody cage utilization for enhanced stability in vertebral column reconstruction following thoracolumbar corpectomy: A report of two cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC8819912/) — North American Spine Society Journal 2021; CC BY-NC-ND.*
+
+![Vertebral Corpectomy Reconstruction — Fig. 3](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-03-fig-3-gr3-jpg.jpg)
+*Fig. 3. Intra-operative view of the posterior approach for vertebral body reconstruction. Source: [Dual expandable interbody cage utilization for enhanced stability in vertebral column reconstruction following thoracolumbar corpectomy: A report of two cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC8819912/) — North American Spine Society Journal 2021; CC BY-NC-ND.*
+
+![Vertebral Corpectomy Reconstruction — Fig. 4](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-04-fig-4-gr4-jpg.jpg)
+*Fig. 4. AP (a) and lateral (b) radiographs of the thoracic spine showing bilateral expandable cage placement during vertebral body reconstruction. Source: [Dual expandable interbody cage utilization for enhanced stability in vertebral column reconstruction following thoracolumbar corpectomy: A report of two cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC8819912/) — North American Spine Society Journal 2021; CC BY-NC-ND.*
+
+![Vertebral Corpectomy Reconstruction — Fig. 5](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-05-fig-5-gr5-jpg.jpg)
+*Fig. 5. Coronal (a) and axial (b) CT Thoracic Spine Without IV Contrast at 6-month follow up showing arthrodesis across the corpectomy defect Source: [Dual expandable interbody cage utilization for enhanced stability in vertebral column reconstruction following thoracolumbar corpectomy: A report of two cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC8819912/) — North American Spine Society Journal 2021; CC BY-NC-ND.*
+
+![Vertebral Corpectomy Reconstruction — Fig. 6](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-06-fig-6-gr6-jpg.jpg)
+*Fig. 6. Representative mid-sagittal (a) and axial (b) CT cuts of L1 burst fracture with significant bony retropulsion. Source: [Dual expandable interbody cage utilization for enhanced stability in vertebral column reconstruction following thoracolumbar corpectomy: A report of two cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC8819912/) — North American Spine Society Journal 2021; CC BY-NC-ND.*
+
+![Vertebral Corpectomy Reconstruction — Fig. 7](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-07-fig-7-gr7-jpg.jpg)
+*Fig. 7. Representative mid-sagittal STIR MRI (a) and T2 sequence MRI (b) of L1 burst fracture demonstrating cord compression. Source: [Dual expandable interbody cage utilization for enhanced stability in vertebral column reconstruction following thoracolumbar corpectomy: A report of two cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC8819912/) — North American Spine Society Journal 2021; CC BY-NC-ND.*
+
+![Vertebral Corpectomy Reconstruction — Fig. 8](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-08-fig-8-gr8-jpg.jpg)
+*Fig. 8. Final intraoperative AP (a) and lateral (b) radiographs for L1 vertebral body reconstruction with bilateral expandable cages. Source: [Dual expandable interbody cage utilization for enhanced stability in vertebral column reconstruction following thoracolumbar corpectomy: A report of two cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC8819912/) — North American Spine Society Journal 2021; CC BY-NC-ND.*
+
+![Vertebral Corpectomy Reconstruction — Figure 4](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-09-figure-4-pone-0096265-g004-jpg.jpg)
+*Figure 4. A 53-year-old male who underwent 1-level corpectomy with a titanium mesh cage used for cervical reconstruction.The preoperative cervical X-ray film (4A) and immediately postoperative... Source: [Evaluation of Anterior Cervical Reconstruction with Titanium Mesh Cages versus Nano-Hydroxyapatite/Polyamide66 Cages after 1- or 2-Level Corpectomy for Multilevel Cervical Spondylotic Myelopathy: A Retrospective Study of 117 Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC4008500/) — PLoS ONE 2014; CC BY.*
+
+![Vertebral Corpectomy Reconstruction — Figure 5](../../figures/curated/case-prep-vertebral-corpectomy-and-reconstruction-metastatic-primary-vertebral-tumor/figure-10-figure-5-pone-0096265-g005-jpg.jpg)
+*Figure 5. A 46-year-old male who underwent 2-level corpectomy with a titanium mesh cage used for cervical reconstruction.A cervical MRI scan (5A) shows multi-level disc herniations (C4/5, C5/6,... Source: [Evaluation of Anterior Cervical Reconstruction with Titanium Mesh Cages versus Nano-Hydroxyapatite/Polyamide66 Cages after 1- or 2-Level Corpectomy for Multilevel Cervical Spondylotic Myelopathy: A Retrospective Study of 117 Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC4008500/) — PLoS ONE 2014; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

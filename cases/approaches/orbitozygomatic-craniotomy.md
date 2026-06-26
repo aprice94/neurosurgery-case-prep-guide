@@ -22,17 +22,78 @@ The orbitozygomatic craniotomy is the **maximal anterolateral skull-base exposur
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=orbitozygomatic+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — endovascular coiling vs surgical clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **ISUIA** — Wiebers DO et al. *Lancet* 2003 — natural history and treatment risk of unruptured aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebers+unruptured+intracranial+aneurysms+investigators+2003+Lancet)
-- **BRAT** — Spetzler RF et al. *J Neurosurg* 2012/2015 — Barrow Ruptured Aneurysm Trial, clip vs coil. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Spetzler+Barrow+Ruptured+Aneurysm+Trial+clipping+coiling)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas — Orbitozygomatic](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/orbitozygomatic-craniotomy) · [Radiopaedia — skull base](https://radiopaedia.org/search?q=orbitozygomatic&scope=all) · [PubMed Central — orbitozygomatic](https://www.ncbi.nlm.nih.gov/pmc/?term=orbitozygomatic+approach+technique)
 
-![Interior base of skull — anterior & middle fossae, sphenoid wing, superior/inferior orbital fissures](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons. The OZ osteotomy removes the superolateral orbital rim/roof and zygoma to flatten the trajectory across the anterior and middle fossa floors.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **360° around the orbit: key surgical anatomy of the microsurgical and endoscopic cranio-orbital and orbitocranial approaches** — Agosti E. Neurosurgical focus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38560949/)
+- **Frontotemporal orbitozygomatic craniotomy to exposure the cavernous sinus and its surrounding regions. Microsurgical anatomy** — Jian FZ. Journal of neurosurgical sciences 2001. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11466504/)
+- **Cranio-Orbito-Zygomatic Approach: Core Techniques for Tailoring Target Exposure and Surgical Freedom** — Luzzi S. Brain sciences 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35326360/)
+- **Comparison of the Orbitozygomatic and Transmandibular Approaches to the Infratemporal Fossa** — Aydin L. World neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40914195/)
+- **Lipotranferences in post neurosurgical esthetic defects** — Demichelis MDRE. Surgical neurology international 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38213453/)
+- **Critically located cavernous malformations** — Batay F. Minimally invasive neurosurgery : MIN 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17674291/)
+- **The pretemporal transcavernous approach to the interpeduncular and prepontine cisterns: microsurgical anatomy and technique application** — Seoane E. Neurosurgery 2000. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10764262/)
+- **The one-piece orbitozygomatic approach: the MacCarty burr hole and the inferior orbital fissure as keys to technique and application** — Aziz KM. Acta neurochirurgica 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11807643/)
+- **Orbitozygomatic Transsylvian Resection of a Craniopharyngioma: A Step-by-Step Guide** — Rodríguez RG. World neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37657589/)
+- **Minimally invasive approaches to aneurysms of the anterior circulation: selection criteria and clinical outcomes** — Gandhi S. Journal of neurosurgical sciences 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30207433/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Orbitozygomatic Craniotomy — Figure 1](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-01-figure-1-medicina-60-01267-g001-jpg.jpg)
+*Figure 1. After the first (transconjunctival) surgery, a fistula and intermittent inflammatory symptoms developed in the orbital area and skin around the right outer canthus ((A,B); white arrow).... Source: [Modified Orbitozygomatic Craniotomy Approach for a Recurrent Orbital Tumor in a Pediatric Patient](https://pmc.ncbi.nlm.nih.gov/articles/PMC11356619/) — Medicina 2024; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 2](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-02-figure-2-medicina-60-01267-g002-jpg.jpg)
+*Figure 2. Radiographic work up. T2-(A–C) and T1-weighted MR images with contrast material (D–F) show a hyperintense lesion and an isointense lesion with postcontrast peripheral enhancement in the... Source: [Modified Orbitozygomatic Craniotomy Approach for a Recurrent Orbital Tumor in a Pediatric Patient](https://pmc.ncbi.nlm.nih.gov/articles/PMC11356619/) — Medicina 2024; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 3](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-03-figure-3-medicina-60-01267-g003-jpg.jpg)
+*Figure 3. Intraoperative photographs from the reoperation using mOZ one-piece craniotomy. The patient is in supine position. The skull is rotated 45° to the left (A). After right-sided one-piece... Source: [Modified Orbitozygomatic Craniotomy Approach for a Recurrent Orbital Tumor in a Pediatric Patient](https://pmc.ncbi.nlm.nih.gov/articles/PMC11356619/) — Medicina 2024; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 4](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-04-figure-4-medicina-60-01267-g004-jpg.jpg)
+*Figure 4. Bone work, which is a crucial part of the modified orbitozygomatic one-piece craniotomy, is demonstrated in the lateral (A) and anteroposterior (B) views. The trephinations corresponding... Source: [Modified Orbitozygomatic Craniotomy Approach for a Recurrent Orbital Tumor in a Pediatric Patient](https://pmc.ncbi.nlm.nih.gov/articles/PMC11356619/) — Medicina 2024; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 5](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-05-figure-5-medicina-60-01267-g005-jpg.jpg)
+*Figure 5. Histopathological examination shows a fibrous capsule lined with squamous epithelium, keratin, and inflammatory cells. No dysplastic transformation is detected. The patient was diagnosed... Source: [Modified Orbitozygomatic Craniotomy Approach for a Recurrent Orbital Tumor in a Pediatric Patient](https://pmc.ncbi.nlm.nih.gov/articles/PMC11356619/) — Medicina 2024; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 1](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-06-figure-1-life-15-01804-g001-jpg.jpg)
+*Figure 1. Incision line for pterional craniotomy with all anatomical landmarks visible [(A) demonstration, (B,C) incision view; red line: midline; blue line: incision]. Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 2](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-07-figure-2-life-15-01804-g002-jpg.jpg)
+*Figure 2. (A) Course of the superficial temporal artery [red arrow] and facial nerve [black arrow]. (B) The superficial temporal artery was visualized on the skin flap and elevated using a hook.... Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 3](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-08-figure-3-life-15-01804-g003-jpg.jpg)
+*Figure 3. (A) View of the temporal muscle fascia. (B) Subfascial dissection. (C) Interfacial dissection [Z: zygomatic arch; F: fat pad; M: temporal muscle; red line: deep layer of deep temporal... Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 4](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-09-figure-4-life-15-01804-g004-jpg.jpg)
+*Figure 4. After initial dissection from the keyhole with a dissector, the temporalis muscle was elevated in a subperiosteal plane and retracted inferiorly [(A) demonstration, (B,C) cadaver... Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+![Orbitozygomatic Craniotomy — Figure 5](../../figures/curated/operative-approach-orbitozygomatic-frontotemporal-orbitozygomatic-ftoz-craniotomy/figure-10-figure-5-life-15-01804-g005-jpg.jpg)
+*Figure 5. The initial burr hole was made at the McCarty point [black arrow], known as the “keyhole,” followed by three additional burr holes. A pterional craniotomy was then completed to elevate... Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -78,7 +139,6 @@ The OZ **builds on the pterional** — review [pterional-craniotomy.md](pteriona
 ---
 
 ## Positioning
-📷 *[Atlas — OZ positioning](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/orbitozygomatic-craniotomy)*
 
 As for the [pterional](pterional-craniotomy.md), supine with the head in Mayfield fixation, but tuned for a basal trajectory:
 - **Rotation** ~20–30° to the contralateral side (less for more midline/superior targets such as basilar apex; more for ipsilateral parasellar lesions).
@@ -86,7 +146,6 @@ As for the [pterional](pterional-craniotomy.md), supine with the head in Mayfiel
 - Vertex down slightly; ipsilateral shoulder roll if needed; reconfirm IONM after positioning.
 
 ## Incision & Soft-Tissue Dissection
-📷 *[Atlas — interfascial dissection / exposure](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/orbitozygomatic-craniotomy)*
 
 - **Curvilinear (reverse question-mark)** incision behind the hairline, from the zygomatic root (~1 cm anterior to the tragus, **never below the arch** — facial-nerve trunk) to the contralateral mid-pupillary line.
 - Use an **interfascial or subfascial** dissection to carry the **superficial temporal fat pad and the frontalis branch of CN VII** down with the flap (see pterional chapter). Expose the **superior and lateral orbital rim, the frontozygomatic suture, the body of the zygoma, and the zygomatic arch** subperiosteally. Preserve the **supraorbital nerve** (release from its notch/foramen with a small osteotome if it is in a true foramen).
@@ -102,7 +161,6 @@ As for the [pterional](pterional-craniotomy.md), supine with the head in Mayfiel
 ## Bone Work — Pterional Flap + Orbitozygomatic Osteotomy
 
 ### Step 1 — Pterional craniotomy
-📷 *[Atlas — pterional flap](pterional-craniotomy.md)*
 Perform the standard pterional craniotomy and sphenoid-wing removal first (one-piece OZ keeps the flap connected to the bar; two/three-piece removes the pterional flap separately). Strip dura off the orbital roof and flatten the sphenoid ridge as in the [extended pterional](pterional-craniotomy.md).
 
 ### Step 2 — Expose orbit and protect periorbita
@@ -129,19 +187,14 @@ Drill the remaining **lateral sphenoid wing, orbital roof irregularities, and th
 ---
 
 ## Dural Opening & Intradural Work
-📷 *[Atlas — dural opening / basal cisterns](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/orbitozygomatic-craniotomy)*
 
 - Open the dura curvilinearly and reflect it anteroinferiorly toward the now-flattened base; the **frontal and temporal lobes fall away**, exposing the basal cisterns with little or no retraction.
 - Release CSF from the carotid/chiasmatic/Sylvian cisterns; split the Sylvian fissure as needed. The expanded corridor supports **subfrontal, trans-Sylvian, subtemporal, and transcavernous** trajectories — proceed to the pathology-specific intradural steps (basilar apex clipping, cavernous/parasellar tumor, craniopharyngioma via the opticocarotid/lamina terminalis windows).
 
-![Arteries of the base of the brain — circle of Willis & basilar apex (the deep targets of the OZ corridor)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
-
-*Sobotta 1909, public domain — via Wikimedia Commons.*
 
 ---
 
 ## Closure & Reconstruction
-📷 *[Atlas — orbital/zygomatic reconstruction](https://www.neurosurgicalatlas.com/cases/orbitozygomatic-osteotomy-bone-work)*
 
 - **Watertight dura** (graft any defect; especially if the SOF/orbit or ventricle was entered). Reconstruct the **orbital roof** if removed (the periorbita must be supported to prevent **pulsatile exophthalmos/enophthalmos**) — bone, mesh, or graft.
 - **Replace the orbitozygomatic bar and pterional flap** with low-profile titanium plates; **precise anatomic reduction of the orbital rim and zygomatic arch is essential for cosmesis** (malar projection, no step-off). Burr-hole covers/cranioplasty for contour.

@@ -23,16 +23,78 @@ The retrosigmoid craniotomy is the **workhorse posterolateral corridor to the ce
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebellopontine+angle+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SRS vs microsurgery** — Pollock BE et al. *Neurosurgery* 2006 — prospective comparison for small/medium VS. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pollock+vestibular+schwannoma+radiosurgery+resection+prospective+2006)
-- **Natural history** — Stangerup SE et al. — growth and hearing in conservatively managed VS. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stangerup+vestibular+schwannoma+natural+history+hearing+growth)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas — Retromastoid](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy) · [Rhoton CPA anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+cerebellopontine+angle+anatomy) · [Radiopaedia — CPA](https://radiopaedia.org/search?q=cerebellopontine%20angle&scope=all) · [PubMed Central — retrosigmoid](https://www.ncbi.nlm.nih.gov/pmc/?term=retrosigmoid+approach+surgical+anatomy)
 
-![Interior base of skull — posterior fossa, internal acoustic meatus, jugular foramen, foramen magnum](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons. The retrosigmoid corridor targets the posterior petrous face: porus acusticus (CN VII/VIII), jugular foramen (IX–XI) below, and the trigeminal porus above.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Microsurgical Anatomy of the Endoscopy-Assisted Retrosigmoid Intradural Suprameatal Approach to the Meckel's Cave** — Xu Y. Operative neurosurgery (Hagerstown, Md.) 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33930162/)
+- **Anterior Petrosectomy vs. Retrosigmoid Approach-Surgical Anatomy and Navigation-Augmented Morphometric Analysis: A Comparative Study in Cadaveric Laboratory Setting** — Signoretti S. Brain sciences 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40002437/)
+- **Microsurgical anatomy of acoustic neuroma** — Rhoton AL Jr. Otolaryngologic clinics of North America 1992. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1630829/)
+- **Suprameatal extension of the retrosigmoid approach: microsurgical anatomy** — Seoane E. Neurosurgery 1999. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10069592/)
+- **Microsurgical treatment of intracanalicular vestibular schwannomas** — Noudel R. Progress in neurological surgery 2008. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18810218/)
+- **Critically located cavernous malformations** — Batay F. Minimally invasive neurosurgery : MIN 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17674291/)
+- **Microsurgical anatomy of the inner surface of the petrous bone: neuroradiological and morphometric analysis as an adjunct to the retrosigmoid transmeatal approach** — Day JD. Neurosurgery 1994. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8084384/)
+- **Endoscopic retrosigmoid trans-petrosal fissure approach for vestibular schwannomas: case series** — Feng S. Neurosurgical review 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39235642/)
+- **Supracerebellar-supratrochlear and supracerebellar-infratrochlear triangles as gateways to the posterolateral midbrain and ambient cistern: descriptive and quantitative analysis of microsurgical anatomy** — Hanalioglu S. Neurosurgical review 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40668419/)
+- **Retrosigmoid suprafloccular transhorizontal fissure approach for resection of brainstem cavernous malformation** — Ohue S. Neurosurgery 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20489521/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Retrosigmoid Craniotomy — Fig. 1](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-01-fig-1-10143-2014-602-fig1-html-jpg.jpg)
+*Fig. 1. Arrangement of the da Vinci master-slave system. a The surgeon is seated comfortably at the console and remotely controls the robots’ actions. b The surgical cart includes an endoscope... Source: [da Vinci robot-assisted keyhole neurosurgery: a cadaver study on feasibility and safety](https://pmc.ncbi.nlm.nih.gov/articles/PMC4365271/) — Neurosurgical Review 2014; CC BY.*
+
+![Retrosigmoid Craniotomy — Fig. 2](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-02-fig-2-10143-2014-602-fig2-html-jpg.jpg)
+*Fig. 2. Left supraorbital subfrontal approach through an eyebrow incision demonstrating the following: a keyhole craniotomy approximately 25 × 15 mm in size, b a 12-mm endoscope and two standard... Source: [da Vinci robot-assisted keyhole neurosurgery: a cadaver study on feasibility and safety](https://pmc.ncbi.nlm.nih.gov/articles/PMC4365271/) — Neurosurgical Review 2014; CC BY.*
+
+![Retrosigmoid Craniotomy — Figure 1.](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-03-figure-1-10-1177-0300060520910299-fig1-jpg.jpg)
+*Figure 1.. Illustration of muscle flap repair. (a) Diagram of muscle flap repair. The black bar shows cerebrospinal fluid flow. (b) Free muscle flap before subdural packing. (c) Subdural muscle... Source: [Effect of subdural muscle packing in repairing dura mater after retrosigmoid craniotomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7132562/) — The Journal of International Medical Research 2020; CC BY-NC.*
+
+![Retrosigmoid Craniotomy — Fig. 1](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-04-fig-1-10143-2024-2583-fig1-html-jpg.jpg)
+*Fig. 1. The method of locating the keypoint and “keyhole”. A: location of the TSJ; B: drilling the “keyhole” (6 mm in diameter); C: confirming the baseline; D: marking the extracranial... Source: [A novel theory for rapid localization of the transverse-sigmoid sinus junction and “keyhole” in the retrosigmoid keyhole approach: micro-anatomical study, technique nuances, and clinical application](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249418/) — Neurosurgical Review 2024; CC BY.*
+
+![Retrosigmoid Craniotomy — Fig. 2](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-05-fig-2-10143-2024-2583-fig2-html-jpg.jpg)
+*Fig. 2. Establishing the coordinate system for locating “keypoint” and “keyhole”. A: observing the relationship between burr hole and TSJ from skull surface; B: measuring the position between... Source: [A novel theory for rapid localization of the transverse-sigmoid sinus junction and “keyhole” in the retrosigmoid keyhole approach: micro-anatomical study, technique nuances, and clinical application](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249418/) — Neurosurgical Review 2024; CC BY.*
+
+![Retrosigmoid Craniotomy — Fig. 3](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-06-fig-3-10143-2024-2583-fig3-html-jpg.jpg)
+*Fig. 3. Imitating and evaluating the new craniotomic method of the retrosigmoid keyhole approach on cadaveric specimens. A: Incision of the scalp; B: recognize the bone landmarks; C:... Source: [A novel theory for rapid localization of the transverse-sigmoid sinus junction and “keyhole” in the retrosigmoid keyhole approach: micro-anatomical study, technique nuances, and clinical application](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249418/) — Neurosurgical Review 2024; CC BY.*
+
+![Retrosigmoid Craniotomy — Fig. 4](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-07-fig-4-10143-2024-2583-fig4-html-jpg.jpg)
+*Fig. 4. microsurgical treatment of Hemifacial spasm via suboccipital retrosigmoid keyhole approach based on “one point, two lines and two distances” theory. A: MR scan; B and C: multimodal... Source: [A novel theory for rapid localization of the transverse-sigmoid sinus junction and “keyhole” in the retrosigmoid keyhole approach: micro-anatomical study, technique nuances, and clinical application](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249418/) — Neurosurgical Review 2024; CC BY.*
+
+![Retrosigmoid Craniotomy — Fig. 5](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-08-fig-5-10143-2024-2583-fig5-html-jpg.jpg)
+*Fig. 5. microsurgical treatment of Trigminal neuralgia via suboccipital retrosigmoid keyhole approach based on “one point, two lines and two distances” theory. A: MR scan; B and C: multimodal... Source: [A novel theory for rapid localization of the transverse-sigmoid sinus junction and “keyhole” in the retrosigmoid keyhole approach: micro-anatomical study, technique nuances, and clinical application](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249418/) — Neurosurgical Review 2024; CC BY.*
+
+![Retrosigmoid Craniotomy — Fig. 6](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-09-fig-6-10143-2024-2583-fig6-html-jpg.jpg)
+*Fig. 6. microsurgical treatment of vestibular neuroma via suboccipital retrosigmoid keyhole approach based on “one point, two lines and two distances” theory. A-C: MR scan; D : multimodal... Source: [A novel theory for rapid localization of the transverse-sigmoid sinus junction and “keyhole” in the retrosigmoid keyhole approach: micro-anatomical study, technique nuances, and clinical application](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249418/) — Neurosurgical Review 2024; CC BY.*
+
+![Retrosigmoid Craniotomy — Fig. 7](../../figures/curated/operative-approach-retrosigmoid-retromastoid-craniotomy/figure-10-fig-7-10143-2024-2583-fig7-html-jpg.jpg)
+*Fig. 7. the method of precisely locating the central point of keyhole via suboccipital retrosigmoid keyhole approach based on “one point, two lines and two distances” theory. A: the top point of... Source: [A novel theory for rapid localization of the transverse-sigmoid sinus junction and “keyhole” in the retrosigmoid keyhole approach: micro-anatomical study, technique nuances, and clinical application](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249418/) — Neurosurgical Review 2024; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -88,7 +150,6 @@ The retrosigmoid craniotomy is the **workhorse posterolateral corridor to the ce
 
 ## Positioning
 
-📷 *[Atlas — retromastoid positioning & set-up](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy)*
 
 Several positions achieve the same goal — the **mastoid eminence as the highest point**, the petrous face perpendicular to the floor, and gravity assisting cerebellar relaxation:
 
@@ -102,7 +163,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 
 ## Incision & Soft-Tissue Dissection
 
-📷 *[Atlas — incision & exposure](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy)*
 
 - **Incision options:** a **vertical/slightly curved linear** incision ~1 fingerbreadth behind the mastoid groove, centered on the asterion and extending from just above the pinna to the level of the mastoid tip (workhorse for MVD and most VS); or a **C-/inverted-U myocutaneous flap** for larger tumors needing wider exposure. Mark the **asterion, mastoid tip, digastric groove, and superior nuchal line**; navigation or Doppler can mark the sinuses on the skin.
 - Incise scalp and the suboccipital muscles in line with the skin and elevate as a cuff, preserving a **muscular/fascial cuff superiorly and at the superior nuchal line** for a secure, watertight closure later (key to preventing CSF leak/pseudomeningocele).
@@ -116,7 +176,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 
 ## Craniotomy / Craniectomy
 
-📷 *[Atlas — bone work & sinus exposure](https://www.neurosurgicalatlas.com/neuroanatomy/the-retrosigmoid-craniotomy)*
 
 1. **Burr hole** placed just **inferomedial to the asterion**, over the inferior transverse sinus or the TSJ (navigation/anatomy-guided). Some surgeons use a single keyhole at the junction; care is taken to separate dura from bone over the sinus before turning the flap.
 2. **Turn a craniotomy (preferred) or perform a craniectomy** ~2.5–3 cm, deliberately carrying the superolateral margin to **unroof the medial edge of the sigmoid sinus and the inferior edge of the transverse sinus.** A diamond/cutting burr thins the bone over the sinuses, which are then exposed with a small curette/Kerrison — bony decompression of the sinuses (not their retraction) is what opens the trajectory.
@@ -131,7 +190,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 
 ## Dural Opening
 
-📷 *[Atlas — dural opening](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy)*
 
 - Open the dura in a **C-shaped (or cruciate/Y-shaped) flap based on the sigmoid sinus**, hinged laterally, and tack the flap toward the sinuses with stay sutures to widen the corridor and protect the sinus.
 - Before wide opening, gently elevate the inferolateral cerebellum and **open the cisterna magna / cerebellomedullary cistern to release CSF**; the cerebellum relaxes and falls medially, opening the CPA without fixed retraction.
@@ -141,7 +199,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 
 ## Intradural Work
 
-📷 *[Atlas — CPA microsurgery](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy)*
 
 1. Under the microscope, follow the petrous face medially. **Sharp arachnoid dissection** opens the CPA cistern; identify the **CN VII/VIII complex** at the porus acusticus, the **flocculus and choroid plexus** at Luschka marking the root exit zone, and **AICA** looping nearby.
 2. Define the lesion-specific targets:

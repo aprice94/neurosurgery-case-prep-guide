@@ -21,11 +21,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=depressed+skull+fracture+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Surgical TBI guidelines** — Bullock MR et al. *Neurosurgery* 2006 — surgical management of acute SDH/EDH/contusion. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bullock+surgical+management+traumatic+acute+subdural+epidural+2006+Neurosurgery)
-- **BTF guidelines** — Carney N et al. *Neurosurgery* 2017 — Brain Trauma Foundation, 4th ed. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carney+Brain+Trauma+Foundation+guidelines+severe+TBI+2017)
-- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
 
 **Operative technique & approach**
@@ -38,11 +33,77 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=depressed+skull+fracture+elevation)
 
-**Anatomy (public domain)**
 
-![Interior of the skull base — cranial fossae and calvarium](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy plate 193 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gray193.png). Note the inner table of the calvarium and relationship of the dural sinuses to the overlying bone.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Emergency anatomy and exposure:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm incision/flap planning, sinus/vessel risks, decompression goals, and mass-effect physiology.
+- **Technique sequence:** Greenberg; Youmans and Winn — review evacuation/decompression sequence, hemostasis, dural strategy, drain use, and bone-flap/cranioplasty decisions.
+- **Complication rescue:** Greenberg; trauma guidelines and primary literature — summarize swelling, coagulopathy, seizures, infection, hydrocephalus, and ICU surveillance in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Elevation of Depressed Skull Fracture in Neonates Using a Breast Pump and a Custom-Molded Flange** — Martinez EL. Operative neurosurgery (Hagerstown, Md.) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38299805/)
+- **Depressed Skull Fracture in Infants: The Role of Vacuum-Assisted Intervention** — Villahermosa A. NeoReviews 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39616143/)
+- **Depressed skull fracture compressing eloquent cortex causing focal neurologic deficits** — In A. Brain injury 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36703296/)
+- **Everted skull fracture** — Balasubramaniam S. World neurosurgery 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22152585/)
+- **Midline depressed skull fracture presenting with quadriplegia: A rare phenomenon** — Mathew MJ. Surgical neurology international 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28458953/)
+- **Delayed repair of open depressed skull fracture** — Curry DJ. Pediatric neurosurgery 1999. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10702728/)
+- **The Evolution of Modern Treatment for Depressed Skull Fractures** — Stein SC. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30326316/)
+- **Pediatric ping-pong skull fractures treated with vacuum-assisted elevation** — Ahmed SD. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38411706/)
+- **Depressed skull fracture overlying the superior sagittal sinus causing benign intracranial hypertension. Description of two cases and review of the literature** — Fuentes S. British journal of neurosurgery 2005. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16455569/)
+- **Depressed skull fracture in Ping Pong: elevation with Medeva extractor** — Mastrapa TL. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17486354/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Depressed Skull Fracture Elevation — FIG. 1.](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-01-fig-1-case23742-figure-1-jpg.jpg)
+*FIG. 1.. Case 1.Preoperative coronal bone (A) and brain (B) window noncontrast CT scans, axial bone (C) and brain (D) window noncontrast CT scans, and a 3D reconstruction (E) showing a depressed... Source: [Use of a percutaneous bone fiducial screw for elevating simple closed depressed skull fractures: illustrative cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC11558686/) — Journal of Neurosurgery: Case Lessons 2024; CC BY-NC-ND.*
+
+![Depressed Skull Fracture Elevation — FIG. 2.](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-02-fig-2-case23742-figure-2-jpg.jpg)
+*FIG. 2.. Case 1. A: The bone fiducial used: total length 1.5 cm, screwhead length 3 mm. B: Percutaneous placement of the bone fiducial at the point of maximal fracture depression. C: Elevation of... Source: [Use of a percutaneous bone fiducial screw for elevating simple closed depressed skull fractures: illustrative cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC11558686/) — Journal of Neurosurgery: Case Lessons 2024; CC BY-NC-ND.*
+
+![Depressed Skull Fracture Elevation — FIG. 3.](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-03-fig-3-case23742-figure-3-jpg.jpg)
+*FIG. 3.. Case 2.Images showing the elevation of a right parietal depressed skull fracture. Preoperative coronal bone (A) and brain (B) window noncontrast CT scans. Preoperative axial bone (C) and... Source: [Use of a percutaneous bone fiducial screw for elevating simple closed depressed skull fractures: illustrative cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC11558686/) — Journal of Neurosurgery: Case Lessons 2024; CC BY-NC-ND.*
+
+![Depressed Skull Fracture Elevation — FIGURE 2.](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-04-figure-2-neu-95-0986-g002-jpg.jpg)
+*FIGURE 2.. Surgical care pathways of participants with EDHs, by presence of concomitant acute subdural hematomas and/or IPHs on the first scan. A, Participants with isolated EDHs (n = 133). Most of... Source: [Clinical and Imaging Characteristics, Care Pathways, and Outcomes of Traumatic Epidural Hematomas: A Collaborative European NeuroTrauma Effectiveness Research in Traumatic Brain Injury Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11449426/) — Neurosurgery 2024; CC BY.*
+
+![Depressed Skull Fracture Elevation — FIG. 1.](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-05-fig-1-case22175f1-jpg.jpg)
+*FIG. 1.. A: Coronal CT shows depressed skull fracture fragment at midline. B: Sagittal CT venogram (CTV) shows occlusion of SSS anterior to fracture. C: Coronal CTV shows thrombus in sagittal... Source: [Pediatric skull fracture with injury and thrombosis of the superior sagittal sinus: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC9237661/) — Journal of Neurosurgery: Case Lessons 2022; CC BY-NC-ND.*
+
+![Depressed Skull Fracture Elevation — FIG. 2.](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-06-fig-2-case22175f2-jpg.jpg)
+*FIG. 2.. MRV at follow-up showing resolution of sagittal sinus thrombosis. Source: [Pediatric skull fracture with injury and thrombosis of the superior sagittal sinus: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC9237661/) — Journal of Neurosurgery: Case Lessons 2022; CC BY-NC-ND.*
+
+![Depressed Skull Fracture Elevation — Figure 4.](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-07-figure-4-10-1177-0271678x16648711-fig4-jpg.jpg)
+*Figure 4.. (a) Depressed skull fracture and subsequent (superior sagittal sinus) SSS thrombosis caused by a hammer blow – (i) midsagittal reconstruction on day 2 with increasing headaches... Source: [Monro-Kellie 2.0: The dynamic vascular and venous pathophysiological components of intracranial pressure](https://pmc.ncbi.nlm.nih.gov/articles/PMC4971608/) — Journal of Cerebral Blood Flow & Metabolism 2016; CC BY-NC.*
+
+![Depressed Skull Fracture Elevation — Figure 7.](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-08-figure-7-10-1177-0271678x16648711-fig7-jpg.jpg)
+*Figure 7.. Diagram demonstrating that relative venous outflow restriction can occur intracranially (with compression/obstruction (e.g. with thrombus or fractures) of isolated or diffuse venous... Source: [Monro-Kellie 2.0: The dynamic vascular and venous pathophysiological components of intracranial pressure](https://pmc.ncbi.nlm.nih.gov/articles/PMC4971608/) — Journal of Cerebral Blood Flow & Metabolism 2016; CC BY-NC.*
+
+![Depressed Skull Fracture Elevation — Figure 1](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-09-figure-1-cureus-0011-00000005205-i01-jpg.jpg)
+*Figure 1. Illustrative case – Lateral head photograph showing the depressed skull fracture (black arrow). Source: [Closed Depressed Skull Fracture in Childhood Reduced with Suction Cup Vacuum Method: Case Report and a Systematic Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6758970/) — Cureus 2019; CC BY.*
+
+![Depressed Skull Fracture Elevation — Figure 2](../../figures/curated/case-prep-depressed-skull-fracture-elevation/figure-10-figure-2-cureus-0011-00000005205-i02-jpg.jpg)
+*Figure 2. Illustrative case – Anteroposterior X-ray showing the bone deformity (white arrow). Source: [Closed Depressed Skull Fracture in Childhood Reduced with Suction Cup Vacuum Method: Case Report and a Systematic Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6758970/) — Cureus 2019; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -20,15 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=intrathecal+baclofen+pump+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SDR meta-analysis** — McLaughlin J et al. *Dev Med Child Neurol* 2002 — selective dorsal rhizotomy for spasticity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=McLaughlin+selective+dorsal+rhizotomy+spasticity+meta-analysis+2002)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=intrathecal%20baclofen%20pump&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intrathecal+baclofen+pump) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (intrathecal catheter / subarachnoid space)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Scoliosis, spinal fusion, and intrathecal baclofen pump implantation** — Scannell B. Physical medicine and rehabilitation clinics of North America 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25479781/)
+- **Clinical practices in intrathecal baclofen pump implantation in children with cerebral palsy in France** — Mietton C. Annals of physical and rehabilitation medicine 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27158102/)
+- **Surgical treatment of spasticity: intrathecal baclofen pump implantation under subarachnoid block** — Scerrati A. Neurosurgical focus: Video 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36285267/)
+- **Complications of intrathecal baclofen pump: prevention and cure** — Awaad Y. ISRN neurology 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22548189/)
+- **Intrathecal baclofen pump implantation** — Clinical privilege white paper 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26790167/)
+- **Intrathecal Baclofen Pump Implantation for Type 2 Gaucher Disease** — Hori YS. Pediatric neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28848108/)
+- **Intrathecal baclofen pump implantation** — Clinical privilege white paper 2000. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11010677/)
+- **[Radiculopathy following intrathecal baclofen pump implantation]** — Roche N. Annales de readaptation et de medecine physique : revue scientifique de la Societe francaise de reeducation fonctionnelle de readaptation et de medecine physique 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16675056/)
+- **An algorithmic approach to the management of unrecognized hydrocephalus in pediatric candidates for intrathecal baclofen pump implantation** — Hanak BW. Surgical neurology international 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28168091/)
+- **Intrathecal baclofen pump implantation in prone position for a cerebral palsy patient with severe scoliosis: a case report** — Arishima H. Neuromodulation : journal of the International Neuromodulation Society 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24945783/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Intrathecal Baclofen Pump Implantation — Fig. 1](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-01-fig-1-2188-4226-12-0483-g001-jpg.jpg)
+*Fig. 1. A) ITB pump implantation was performed 5 years of age. Three-dimensional CT imaging demonstrates an Ascenda catheter with its tip positioned at the C7 vertebral level (yellow arrow... Source: [Late-onset Kinking of the Ascenda Catheter following Intrathecal Baclofen Pump Implantation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12623138/) — NMC Case Report Journal 2025; CC BY-NC-ND.*
+
+![Intrathecal Baclofen Pump Implantation — Fig. 2](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-02-fig-2-2188-4226-12-0483-g002-jpg.jpg)
+*Fig. 2. A) Kinking of the catheter was observed just proximal to the anchor on three dimensional CT (yellow arrow). B) Intraoperatively, a looped and kinked segment of the previously implanted... Source: [Late-onset Kinking of the Ascenda Catheter following Intrathecal Baclofen Pump Implantation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12623138/) — NMC Case Report Journal 2025; CC BY-NC-ND.*
+
+![Intrathecal Baclofen Pump Implantation — Fig. 1](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-03-fig-1-gr1-jpg.jpg)
+*Fig. 1. Pump reservoir incisional site on POD 1∗∗Note: photo was taken with patient in the supine position in his hospital bed. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
+
+![Intrathecal Baclofen Pump Implantation — Fig. 2](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-04-fig-2-gr2-jpg.jpg)
+*Fig. 2. Pump reservoir incision site on POD 37∗∗Note: photo taken while patient seated in his electric wheelchair. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
+
+![Intrathecal Baclofen Pump Implantation — Fig. 3](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-05-fig-3-gr3-jpg.jpg)
+*Fig. 3. Pump reservoir incision site on POD 47. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
+
+![Intrathecal Baclofen Pump Implantation — Fig. 4](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-06-fig-4-gr4-jpg.jpg)
+*Fig. 4. Posterior trunk cutaneous rash on POD 54. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
+
+![Intrathecal Baclofen Pump Implantation — Fig. 5](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-07-fig-5-gr5-jpg.jpg)
+*Fig. 5. Pump reservoir site incision at POD 64 showing resolution of erythema and skin lesions. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
+
+![Intrathecal Baclofen Pump Implantation — Figure 1](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-08-figure-1-sni-7-105-g001-jpg.jpg)
+*Figure 1. Flow chart demonstrating the clinical protocol employed for patients identified as candidates for intrathecal baclofen pump implantation Source: [An algorithmic approach to the management of unrecognized hydrocephalus in pediatric candidates for intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC5223398/) — Surgical Neurology International 2016; CC BY-NC-SA.*
+
+![Intrathecal Baclofen Pump Implantation — Figure 9](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-09-figure-9-sni-7-105-g002-jpg.jpg)
+*Figure 9. Source: [An algorithmic approach to the management of unrecognized hydrocephalus in pediatric candidates for intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC5223398/) — Surg Neurol Int. 2016 Dec 20;7:105. doi: 10.4103/2152-7806.196236; CC BY-NC-SA.*
+
+![Intrathecal Baclofen Pump Implantation — Figure 1](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-10-figure-1-isrn-neurology2012-575168-001-jpg.jpg)
+*Figure 1. Tear at metal connector to pump within protective silicone covering. Source: [Complications of Intrathecal Baclofen Pump: Prevention and Cure](https://pmc.ncbi.nlm.nih.gov/articles/PMC3323842/) — ISRN Neurology 2012; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

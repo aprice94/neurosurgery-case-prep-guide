@@ -23,11 +23,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=malignant+MCA+infarction+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Pooled DECIMAL/DESTINY/HAMLET** — Vahedi K et al. *Lancet Neurol* 2007 — hemicraniectomy in malignant MCA infarction. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Vahedi+DECIMAL+DESTINY+HAMLET+decompressive+surgery+malignant+middle+cerebral+artery+2007)
-- **DESTINY II** — Jüttler E et al. *NEJM* 2014 — hemicraniectomy in patients >60 y. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Juttler+DESTINY+II+hemicraniectomy+older+patients+2014+NEJM)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 
 **Operative technique & approach**
@@ -39,11 +34,77 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=decompressive+craniectomy+malignant+MCA+infarction)
 
-**Anatomy (public domain)**
 
-![Arteries of the base of the brain — MCA / circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Decompressive Hemicraniectomy in the Treatment of Malignant Middle Cerebral Artery Infarction: A Meta-Analysis** — Das S. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30500591/)
+- **Decompressive Surgery for the Treatment of Malignant Infarction of the Middle Cerebral Artery (DESTINY): a randomized, controlled trial** — Jüttler E. Stroke 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17690310/)
+- **It is all about timing: decompressive hemicraniectomy for malignant middle-cerebral-artery infarction** — Macha K. Arquivos de neuro-psiquiatria 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37160135/)
+- **Decompressive hemicraniectomy after malignant middle cerebral artery infarction: does hospital of origin matter?** — Smyth D. Internal medicine journal 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30288900/)
+- **Decompressive hemicraniectomy versus medical treatment of malignant middle cerebral artery infarction: a systematic review and meta-analysis** — Wei H. Bioscience reports 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31854446/)
+- **Decompressive hemicraniectomy in patients with malignant middle cerebral artery infarction: A real-world study** — Pilato F. Journal of the neurological sciences 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35952455/)
+- **Surgical decompression for space-occupying cerebral infarction (the Hemicraniectomy After Middle Cerebral Artery infarction with Life-threatening Edema Trial [HAMLET]): a multicentre, open, randomised trial** — Hofmeijer J. The Lancet. Neurology 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19269254/)
+- **Decompressive hemicraniectomy in patients with malignant middle cerebral artery infarction: A systematic review and meta-analysis** — Yang MH. The surgeon : journal of the Royal Colleges of Surgeons of Edinburgh and Ireland 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25661677/)
+- **Decompressive hemicraniectomy for malignant middle cerebral artery infarction: an update** — Subramaniam S. The neurologist 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19590377/)
+- **Long-term outcome after decompressive hemicraniectomy for malignant middle cerebral artery infarction** — Berger N. Journal of neurology 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37004558/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 1](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-01-figure-1-fneur-17-1801932-g0001-jpg.jpg)
+*Figure 1. Trial profile. Source: [Early decompressive hemicraniectomy combined with mild hypothermia treatment for malignant middle cerebral artery infarction](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230002/) — Frontiers in Neurology 2026; CC BY.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 2](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-02-figure-2-fneur-17-1801932-g0002-jpg.jpg)
+*Figure 2. Distribution of 6-month modified Rankin scale scores in patients receiving DHC alone vs. those receiving DHC combined with mild hypothermia. Source: [Early decompressive hemicraniectomy combined with mild hypothermia treatment for malignant middle cerebral artery infarction](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230002/) — Frontiers in Neurology 2026; CC BY.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 1](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-03-figure-1-neurosciences-22-192-g001-jpg.jpg)
+*Figure 1. Case illustration of a 39-year-old male (case 4) who presented with left massive MCA infarction demonstrated on A) plain CT scan which was delineated by MRI diffusion B) and ADC scan C)... Source: [Decompressive hemicraniectomy for malignant middle cerebral artery infarction](https://pmc.ncbi.nlm.nih.gov/articles/PMC5946363/) — Neurosciences 2017; CC BY.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Fig. 1](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-04-fig-1-gr1-jpg.jpg)
+*Fig. 1. (clockwise from top left) overhead view of a 3D-rendered fully segmented brain before (orange) and after (blue) decompressive hemicraniectomy (DCE); front view of a 3D-rendered fully... Source: [How much space is needed for decompressive surgery in malignant middle cerebral artery infarction: Enabling single-stage surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10293220/) — Brain & Spine 2023; CC BY-NC-ND.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Fig. 2](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-05-fig-2-gr2-jpg.jpg)
+*Fig. 2. Schematic representation of the main surgical steps of a decompressive hemicraniectomy as described by Raabe et al. (Raabe, 2019) Dural incision after bony decompression is not shown.... Source: [How much space is needed for decompressive surgery in malignant middle cerebral artery infarction: Enabling single-stage surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10293220/) — Brain & Spine 2023; CC BY-NC-ND.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Fig. 3](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-06-fig-3-gr3-jpg.jpg)
+*Fig. 3. Flow chart representing all patients screened and the reason for their eventual exclusion from the study population. Source: [How much space is needed for decompressive surgery in malignant middle cerebral artery infarction: Enabling single-stage surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10293220/) — Brain & Spine 2023; CC BY-NC-ND.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Fig. 4](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-07-fig-4-gr4-jpg.jpg)
+*Fig. 4. A.Distribution of the different measured volumes in mL,B.the distribution of bone flap diameters, andC.the modeled swelling above the previous outer skull rim after decompressive... Source: [How much space is needed for decompressive surgery in malignant middle cerebral artery infarction: Enabling single-stage surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10293220/) — Brain & Spine 2023; CC BY-NC-ND.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 8](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-08-figure-8-medi-94-e1039-g001-jpg.jpg)
+*Figure 8. Source: [A Cohort Study of Decompressive Craniectomy for Malignant Middle Cerebral Artery Infarction: A Real-World Experience in Clinical Practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC4504625/) — Medicine (Baltimore). 2015 Jun 26;94(25):e1039. doi: 10.1097/MD.0000000000001039; CC BY-NC-ND.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 9](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-09-figure-9-medi-94-e1039-g002-jpg.jpg)
+*Figure 9. Source: [A Cohort Study of Decompressive Craniectomy for Malignant Middle Cerebral Artery Infarction: A Real-World Experience in Clinical Practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC4504625/) — Medicine (Baltimore). 2015 Jun 26;94(25):e1039. doi: 10.1097/MD.0000000000001039; CC BY-NC-ND.*
+
+![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 10](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-10-figure-10-medi-94-e1039-g003-jpg.jpg)
+*Figure 10. Source: [A Cohort Study of Decompressive Craniectomy for Malignant Middle Cerebral Artery Infarction: A Real-World Experience in Clinical Practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC4504625/) — Medicine (Baltimore). 2015 Jun 26;94(25):e1039. doi: 10.1097/MD.0000000000001039; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

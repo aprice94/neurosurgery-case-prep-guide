@@ -26,13 +26,6 @@ tags:
 
 More operative video: [YouTube ▸](https://www.youtube.com/results?search_query=middle+cerebral+artery+aneurysm+clipping) · [Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — endovascular coiling vs surgical clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **ISUIA** — Wiebers DO et al. *Lancet* 2003 — natural history and treatment risk of unruptured aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebers+unruptured+intracranial+aneurysms+investigators+2003+Lancet)
-- **BRAT** — Spetzler RF et al. *J Neurosurg* 2012/2015 — Barrow Ruptured Aneurysm Trial, clip vs coil. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Spetzler+Barrow+Ruptured+Aneurysm+Trial+clipping+coiling)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
-
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
@@ -47,23 +40,83 @@ More operative video: [YouTube ▸](https://www.youtube.com/results?search_query
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=middle+cerebral+artery+aneurysm+clipping)
 
-**Anatomy (public domain)**
 
-![Arteries of the base of the brain — circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
 
-![ICA terminal bifurcation & MCA (M1) segments — clip-relevant perforator anatomy](../../figures/cranial-vascular/ica-bifurcation-mca_brainsci-519.jpg)
-
-*Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
-
-![Supraclinoid ICA & circle of Willis (axial CTA correlation)](../../figures/cranial-vascular/circle-of-willis-cta_brainsci-519.jpg)
-
-*Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
 
 ![MCA aneurysm — dissected neck with parent vessel and two branches (A), clipped neck (B), and intraoperative ICG videoangiography confirming aneurysm exclusion with branch patency (C)](../../figures/cranial-vascular/mca-clip-icg_fsurg-2019-34.jpg)
 
 *Intraoperative clipping with ICG videoangiography confirming complete aneurysm exclusion and preserved MCA branch flow. Source: Norat et al., Front Surg 2019;6:34, Fig 2. CC BY 4.0.*
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Predicting future surgical steps during MCA aneurysm clipping using a multimodal transformer** — On TJ. Frontiers in surgery 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42311640/)
+- **Unilateral blindness and complete ophthalmoplegia following middle cerebral artery aneurysm clipping: a case report** — Afshar F. BMC ophthalmology 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42185814/)
+- **Long-term outcomes of surgical clipping of saccular middle cerebral artery aneurysms: a consecutive series of 92 patients** — Yang K. Neurosurgical review 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37843680/)
+- **The Morphology of Somatosensory Evoked Potentials During Middle Cerebral Artery Aneurysm Clipping (MoSAC): A Pilot Study** — Tecchio F. Clinical EEG and neuroscience 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31514539/)
+- **Clinical features of ischemic complications after unruptured middle cerebral artery aneurysm clipping: patients and radiologically related factors** — Lee HS. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33462782/)
+- **M2/M2 side-to-side rescue anastomosis for accidental M2 trunk occlusion during middle cerebral artery aneurysm clipping: technical note** — Steiger HJ. Neurosurgery 2001. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11523689/)
+- **Contralateral clipping of middle cerebral artery aneurysms: rationale, indications, and surgical technique** — Rodríguez-Hernández A. Neurosurgery 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22307073/)
+- **Training Artificial Intelligence to Recognize Surgical Steps in Microscope-Based Videos of Middle Cerebral Artery Aneurysm Clipping** — Tangsrivimol JA. Operative neurosurgery (Hagerstown, Md.) 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41778359/)
+- **MR-Guided Focused Ultrasound Thalamotomy in the Setting of Aneurysm Clip** — Odéen H. AJNR. American journal of neuroradiology 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38272573/)
+- **Intraoperative Transit Time Flowmetry for Unruptured Middle Cerebral Artery Aneurysms** — Priban V. Neurologia i neurochirurgia polska 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41117761/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![MCA Aneurysm Clipping — Fig. 1](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-01-fig-1-41016-2018-110-fig1-html-jpg.jpg)
+*Fig. 1. Contrast Pterional approach, LSO approach and modified LSO approach bone window shape in craniotomy. a represents a conventional Pterional approach, b represents a classical LSO... Source: [Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms](https://pmc.ncbi.nlm.nih.gov/articles/PMC7393864/) — Chinese Neurosurgical Journal 2018; CC BY.*
+
+![MCA Aneurysm Clipping — Fig. 2](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-02-fig-2-41016-2018-110-fig2-html-jpg.jpg)
+*Fig. 2. Contrast modified LSO approach and Pterional approach bone window shape in middle aneurysm clipping surgery. a and b represent the shape of the bone flap of the modified LSO approach and... Source: [Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms](https://pmc.ncbi.nlm.nih.gov/articles/PMC7393864/) — Chinese Neurosurgical Journal 2018; CC BY.*
+
+![MCA Aneurysm Clipping — Fig. 3](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-03-fig-3-41016-2018-110-fig3-html-jpg.jpg)
+*Fig. 3. Operation flow chart of MCA aneurysm clipping by modified LSO approach. a is the skin incision pattern. b and c represent the presentation of MCA aneurysms. d represents temporary... Source: [Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms](https://pmc.ncbi.nlm.nih.gov/articles/PMC7393864/) — Chinese Neurosurgical Journal 2018; CC BY.*
+
+![MCA Aneurysm Clipping — Figure 1](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-04-figure-1-fsurg-13-1827725-g001-jpg.jpg)
+*Figure 1. Multimodal transformer architecture for future surgical step prediction. RGB microscope frames were processed through a CNN-LSTM visual branch, and observed ground-truth surgical step... Source: [Predicting future surgical steps during MCA aneurysm clipping using a multimodal transformer](https://pmc.ncbi.nlm.nih.gov/articles/PMC13269259/) — Frontiers in Surgery 2026; CC BY.*
+
+![MCA Aneurysm Clipping — Figure 2](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-05-figure-2-fsurg-13-1827725-g002-jpg.jpg)
+*Figure 2. Temporal alignment of predicted and ground-truth surgical step sequences across test cases. Panels A–C correspond to Cases 1, 2, and 4; panels D–F correspond to Cases 5, 6, and 7; and... Source: [Predicting future surgical steps during MCA aneurysm clipping using a multimodal transformer](https://pmc.ncbi.nlm.nih.gov/articles/PMC13269259/) — Frontiers in Surgery 2026; CC BY.*
+
+![MCA Aneurysm Clipping — Figure 1](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-06-figure-1-41598-2020-60377-fig1-html-jpg.jpg)
+*Figure 1. Based on logistic regression analysis based on the 28 instances of temporary clipping, if a temporary clip needed to be applied for 312 seconds or more, there was a higher probability... Source: [Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044220/) — Scientific Reports 2020; CC BY.*
+
+![MCA Aneurysm Clipping — Figure 2](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-07-figure-2-41598-2020-60377-fig2-html-jpg.jpg)
+*Figure 2. A CT scan taken at admission showed SAH (Fisher group 3) (Fig. 2a,b), and 3DCTA showed an intracranial aneurysm in the left MCA bifurcation (Fig. 2c). Intraoperative monitoring results... Source: [Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044220/) — Scientific Reports 2020; CC BY.*
+
+![MCA Aneurysm Clipping — Figure 3](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-08-figure-3-41598-2020-60377-fig3-html-jpg.jpg)
+*Figure 3. Flow diagram. Source: [Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044220/) — Scientific Reports 2020; CC BY.*
+
+![MCA Aneurysm Clipping — Figure 4](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-09-figure-4-41598-2020-60377-fig4-html-jpg.jpg)
+*Figure 4. Time course for clipping surgery with temporary clipping under precise MEP monitoring. Source: [Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044220/) — Scientific Reports 2020; CC BY.*
+
+![MCA Aneurysm Clipping — Figure 10](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-10-figure-10-sni-8-79-g001-jpg.jpg)
+*Figure 10. Source: [Safe time duration for temporary middle cerebral artery occlusion in aneurysm surgery based on motor-evoked potential monitoring](https://pmc.ncbi.nlm.nih.gov/articles/PMC5445649/) — Surg Neurol Int. 2017 May 10;8:79. doi: 10.4103/sni.sni_410_16; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

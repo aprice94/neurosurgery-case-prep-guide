@@ -20,20 +20,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=intramedullary+spinal+cord+tumour+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Patchell (cord compression)** — Patchell RA et al. *Lancet* 2005 — decompressive surgery + RT for metastatic epidural compression. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+decompressive+surgery+metastatic+epidural+spinal+cord+compression+2005+Lancet)
-- **SINS** — Fisher CG et al. *Spine* 2010 — spinal instability neoplastic score. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fisher+spinal+instability+neoplastic+score+SINS+2010)
-- **NOMS** — Laufer I et al. *Oncologist* 2013 — NOMS decision framework. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Laufer+NOMS+framework+spinal+metastases+2013+Oncologist)
-- **Guidelines:** [NASS / SSO](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines)
-
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=intramedullary%20spinal%20cord%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intramedullary+spinal+cord+tumor+ependymoma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (dorsal midline myelotomy plane)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Intraoperative neurophysiology in intramedullary spinal cord tumor surgery** — Sala F. Handbook of clinical neurology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35772888/)
+- **The role of intraoperative neurophysiological monitoring in intramedullary spinal cord tumor surgery** — Liu K. Chinese neurosurgical journal 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38031178/)
+- **Neuromonitoring for Intramedullary Spinal Cord Tumor Surgery** — Verla T. World neurosurgery 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27474459/)
+- **The evolution of intramedullary spinal cord tumor surgery** — Sciubba DM. Neurosurgery 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19935006/)
+- **Automatic multiclass intramedullary spinal cord tumor segmentation on MRI with deep learning** — Lemay A. NeuroImage. Clinical 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34352654/)
+- **Intramedullary Thoracic Spinal Cord Abscess Mimicking an Intramedullary Tumor: A Case Report** — Ul Haq N. Cureus 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37700988/)
+- **Metastatic Upper Thoracic Intramedullary Spinal Cord Tumor of Ovarian Adenocarcinoma: A Rare Case Report and Literature Review** — Heidari V. Cancer reports (Hoboken, N.J.) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39410866/)
+- **Intraoperative Neuromonitoring in Patients with Intramedullary Spinal Cord Tumor: A Systematic Review, Meta-Analysis, and Case Series** — Rijs K. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30659972/)
+- **Spinal Cord Deformities Associated with Intramedullary Spinal Cord Tumors** — Hamrick F. Neurosurgery clinics of North America 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42264672/)
+- **Spinal Cord Ependymomas** — Borges LF. Neurosurgery clinics of North America 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42264664/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Intramedullary Spinal Cord Tumor Resection — Fig. 1](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-01-fig-1-2186-3326-77-0653-g001-jpg.jpg)
+*Fig. 1. (a) T2 MRI and (b) Gd-enhanced MRI before the initial surgery (nine years ago), showing the presence of an intramedullary tumor. Source: [Tuberculous meningitis with dementia as the presenting symptom after intramedullary spinal cord tumor resection](https://pmc.ncbi.nlm.nih.gov/articles/PMC4664597/) — Nagoya Journal of Medical Science 2015; CC BY-NC-ND.*
+
+![Intramedullary Spinal Cord Tumor Resection — Fig. 2](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-02-fig-2-2186-3326-77-0653-g002-jpg.jpg)
+*Fig. 2. (a) T2 MRI after the first surgery, showing total resection of the tumor. (b) T2 MRI four years after the first surgery, showing regrowth of the tumor. (c) T2 MRI and (d) Gd enhanced MRI... Source: [Tuberculous meningitis with dementia as the presenting symptom after intramedullary spinal cord tumor resection](https://pmc.ncbi.nlm.nih.gov/articles/PMC4664597/) — Nagoya Journal of Medical Science 2015; CC BY-NC-ND.*
+
+![Intramedullary Spinal Cord Tumor Resection — Fig. 3](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-03-fig-3-2186-3326-77-0653-g003-jpg.jpg)
+*Fig. 3. (a) Normal chest X-ray. (b) Brain CT showing slight ventricle enlargement. (c) Brain MRI showing ventricle enlargement. Source: [Tuberculous meningitis with dementia as the presenting symptom after intramedullary spinal cord tumor resection](https://pmc.ncbi.nlm.nih.gov/articles/PMC4664597/) — Nagoya Journal of Medical Science 2015; CC BY-NC-ND.*
+
+![Intramedullary Spinal Cord Tumor Resection — FIG. 1.](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-04-fig-1-case26123-figure-1-jpg.jpg)
+*FIG. 1.. Preoperative cervical spine MR images demonstrating an intramedullary mass extending from C6 to T2. A: T2-weighted image showing an associated syringomyelia with cranial extension of the... Source: [Anterior intradural CSF collection causing postoperative neurological deterioration after intramedullary tumor resection and associated syringomyelia: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC13273442/) — Journal of Neurosurgery: Case Lessons 2026; CC BY-NC-ND.*
+
+![Intramedullary Spinal Cord Tumor Resection — FIG. 2.](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-05-fig-2-case26123-figure-2-jpg.jpg)
+*FIG. 2.. Cervical spine MR images demonstrating an anterior intradural fluid collection resulting in dorsal displacement of the spinal cord (arrow). A and B: T2-weighted images showing a... Source: [Anterior intradural CSF collection causing postoperative neurological deterioration after intramedullary tumor resection and associated syringomyelia: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC13273442/) — Journal of Neurosurgery: Case Lessons 2026; CC BY-NC-ND.*
+
+![Intramedullary Spinal Cord Tumor Resection — FIG. 3.](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-06-fig-3-case26123-figure-3-jpg.jpg)
+*FIG. 3.. Intraoperative findings and ultrasound images. A: Intraoperative ultrasound demonstrating a prominent anterior CSF space compressing the spinal cord posteriorly, consistent with a... Source: [Anterior intradural CSF collection causing postoperative neurological deterioration after intramedullary tumor resection and associated syringomyelia: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC13273442/) — Journal of Neurosurgery: Case Lessons 2026; CC BY-NC-ND.*
+
+![Intramedullary Spinal Cord Tumor Resection — FIG. 4.](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-07-fig-4-case26123-figure-4-jpg.jpg)
+*FIG. 4.. Postoperative cervical spine MR image demonstrating restoration of the spinal cord to its normal position (arrow) with a marked reduction in the associated syrinx (arrowheads) compared... Source: [Anterior intradural CSF collection causing postoperative neurological deterioration after intramedullary tumor resection and associated syringomyelia: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC13273442/) — Journal of Neurosurgery: Case Lessons 2026; CC BY-NC-ND.*
+
+![Intramedullary Spinal Cord Tumor Resection — Figure 1:](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-08-figure-1-sni-14-333-g001-jpg.jpg)
+*Figure 1:. (a and b) Preoperative images – T1 pre- and postcontrast of thoracic spine and (c) one year postoperative – T1 postcontrast of thoracic spine. Source: [Primary thoracic intramedullary spinal cord tumor with likely metastases of glial origin to the lumbosacral vertebrae: Illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10559382/) — Surgical Neurology International 2023; CC BY-NC-SA.*
+
+![Intramedullary Spinal Cord Tumor Resection — Figure 2:](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-09-figure-2-sni-14-333-g002-jpg.jpg)
+*Figure 2:. (a) 18 months postoperatively – T2 noncontrast of thoracic spine, (b) 20 months postoperatively – T1 with contrast of thoracic spine, and 3 years postoperatively showing progression (c)... Source: [Primary thoracic intramedullary spinal cord tumor with likely metastases of glial origin to the lumbosacral vertebrae: Illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10559382/) — Surgical Neurology International 2023; CC BY-NC-SA.*
+
+![Intramedullary Spinal Cord Tumor Resection — Figure 3:](../../figures/curated/case-prep-intramedullary-spinal-cord-tumor-resection-ependymoma-astrocytoma-hemangioblas/figure-10-figure-3-sni-14-333-g003-jpg.jpg)
+*Figure 3:. (a) Three years postoperatively – T1 with the contrast of cervical spine, (b) 3 years postoperatively – T1 with the contrast of lumbar spine, and (c) X-ray-guided biopsy of L4 vertebral... Source: [Primary thoracic intramedullary spinal cord tumor with likely metastases of glial origin to the lumbosacral vertebrae: Illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10559382/) — Surgical Neurology International 2023; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

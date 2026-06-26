@@ -21,18 +21,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=hemifacial+spasm+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **MVD outcome** — Barker FG 2nd et al. *NEJM* 1996 — long-term outcome of microvascular decompression for TN. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Barker+microvascular+decompression+trigeminal+neuralgia+1996+NEJM)
-- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
-
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=hemifacial%20spasm&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=microvascular+decompression+hemifacial+spasm) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull — posterior fossa / cerebellopontine angle (CN VII root exit zone)](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Microvascular decompression for pediatric-onset hemifacial spasm: case series and literature review** — Jia A. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35419625/)
+- **Spasm Freedom Following Microvascular Decompression for Hemifacial Spasm: Systematic Review and Meta-Analysis** — Holste K. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32305605/)
+- **Microvascular decompression for hemifacial spasm : Surgical techniques and intraoperative monitoring** — Sindou M. Neuro-Chirurgie 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29784430/)
+- **Microvascular Decompression for Hemifacial Spasm** — Ghali MGZ. International ophthalmology clinics 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29239883/)
+- **Hemifacial spasm: an update on pathophysiology, investigations and management** — Jesuthasan A. Journal of neurology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40640398/)
+- **Fully endoscopic microvascular decompression for hemifacial spasm: a systematic review** — Ansari A. Neurosurgical review 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40050528/)
+- **Microvascular decompression for hemifacial spasm: Outcome on spasm and complications. A review** — Sindou M. Neuro-Chirurgie 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29454467/)
+- **Microvascular decompression in patients with hemifacial spasm** — Niu X. Brain and behavior 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31617334/)
+- **Challenging Microvascular Decompression Surgery for Hemifacial Spasm** — Lee S. World neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33819711/)
+- **[Microvascular decompression in hemifacial spasm: functional outcome]** — Suárez M. Medicina 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39666409/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Microvascular Decompression Hemifacial Spasm — Figure 1](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-01-figure-1-gr1-jpg.jpg)
+*Figure 1. Minimally invasive retrosigmoid approach (right side). The image shows the anatomic landmarks for the surgical access: (1) Frankfurt plane between the external canthus and tragus... Source: [Endoscope-assisted retrosigmoid approach in hemifacial spasm: our experience☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9443034/) — Brazilian Journal of Otorhinolaryngology 2019; CC BY.*
+
+![Microvascular Decompression Hemifacial Spasm — Figure 2](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-02-figure-2-gr2-jpg.jpg)
+*Figure 2. Endoscopic view of the neurovascular conflict before the decompression (A) and after Teflon® sponge interposition between the posterior–inferior cerebellar artery (PICA) and the facial... Source: [Endoscope-assisted retrosigmoid approach in hemifacial spasm: our experience☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9443034/) — Brazilian Journal of Otorhinolaryngology 2019; CC BY.*
+
+![Microvascular Decompression Hemifacial Spasm — Figure 3](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-03-figure-3-gr3-jpg.jpg)
+*Figure 3. Frequency of the different vessels involved in the neurovascular conflict with the facial nerve in our study group. PICA, posterior–inferior cerebellar artery; AICA, anterior–inferior... Source: [Endoscope-assisted retrosigmoid approach in hemifacial spasm: our experience☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9443034/) — Brazilian Journal of Otorhinolaryngology 2019; CC BY.*
+
+![Microvascular Decompression Hemifacial Spasm — Figure 4](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-04-figure-4-gr4-jpg.jpg)
+*Figure 4. Frequency of the different neurovascular conflict sites in our series. REZ, root entry zone; IAC, internal auditory canal; N/A, non-arterial conflict (vein). Source: [Endoscope-assisted retrosigmoid approach in hemifacial spasm: our experience☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9443034/) — Brazilian Journal of Otorhinolaryngology 2019; CC BY.*
+
+![Microvascular Decompression Hemifacial Spasm — Figure 5](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-05-figure-5-gr5-jpg.jpg)
+*Figure 5. Timing (days after surgery) of hemifacial spasm resolution. Source: [Endoscope-assisted retrosigmoid approach in hemifacial spasm: our experience☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9443034/) — Brazilian Journal of Otorhinolaryngology 2019; CC BY.*
+
+![Microvascular Decompression Hemifacial Spasm — Figure 6](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-06-figure-6-gr6-jpg.jpg)
+*Figure 6. T2 weighted MRI showing the boundaries of the root entry zone (REZ) in the cerebellopontine angle and the internal auditory canal (IAC). Notice the conflict between the vessel (white... Source: [Endoscope-assisted retrosigmoid approach in hemifacial spasm: our experience☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9443034/) — Brazilian Journal of Otorhinolaryngology 2019; CC BY.*
+
+![Microvascular Decompression Hemifacial Spasm — Figure 7](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-07-figure-7-gr7-jpg.jpg)
+*Figure 7. Endoscopic (A, B) and microscopic (C, D) image of a neurovascular conflict before the decompression (A, C) and after Teflon® sheet interposition between the vascular loop and the facial... Source: [Endoscope-assisted retrosigmoid approach in hemifacial spasm: our experience☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9443034/) — Brazilian Journal of Otorhinolaryngology 2019; CC BY.*
+
+![Microvascular Decompression Hemifacial Spasm — Fig. 1.](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-08-fig-1-0392-100x-36-220-g001-jpg.jpg)
+*Fig. 1.. Pre- and post-operative HFS-8 score. The median is indicated by a thick black line inside the box. The top and bottom of the box are the upper and lower quartile [25th-75th percentiles]... Source: [Long-term surgical results in microvascular decompression for hemifacial spasm: efficacy, morbidity and quality of life](https://pmc.ncbi.nlm.nih.gov/articles/PMC4977010/) — Acta Otorhinolaryngologica Italica 2016; CC BY-NC-ND.*
+
+![Microvascular Decompression Hemifacial Spasm — Figure 1](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-09-figure-1-medi-97-e11825-g001-jpg.jpg)
+*Figure 1. (A–F) The surgical processes are partially shown. Green arrow: anterior inferior cerebellar artery. Blue arrow: auditory nerve. Orange arrow: facial nerve. Red arrow: lower cranial... Source: [Retrospective clinical analysis of 320 cases of microvascular decompression for hemifacial spasm](https://pmc.ncbi.nlm.nih.gov/articles/PMC6203468/) — Medicine 2018; CC BY.*
+
+![Microvascular Decompression Hemifacial Spasm — Fig. 1](../../figures/curated/case-prep-microvascular-decompression-for-hemifacial-spasm/figure-10-fig-1-1349-8029-65-5-0230-g001-jpg.jpg)
+*Fig. 1. Axial MRI (constructive interference in steady state) before endoscopic MVD.In A and B, the left image was from near the jugular foramen level, the right image from the IAM level, and... Source: [Comparison of Surgical Outcomes in Microscopic and Fully Endoscopic Microvascular Decompression for Hemifacial Spasm](https://pmc.ncbi.nlm.nih.gov/articles/PMC12137054/) — Neurologia medico-chirurgica 2025; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -23,17 +23,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=parasagittal+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Simpson grade** — resection extent and recurrence framework for meningioma surgery. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **EANO guideline** — diagnosis, observation, surgery, radiation, and surveillance for meningiomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 > 🧭 **Operative approach:** [Anterior interhemispheric approach](../approaches/anterior-interhemispheric-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 
-![Interior skull base — dural venous sinus grooves (parasagittal / SSS relations)](../../figures/anatomy/skull-base-interior_gray193.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 ![Parasagittal meningioma — classification by superior sagittal sinus involvement (Type I patent → Type III complete occlusion) with corresponding resection / sinus-management strategy](../../figures/cranial-tumor/parasagittal-meningioma-classification_fneur-1364917.jpg)
 
@@ -44,6 +36,76 @@ tags:
 *Preop MRI/MRV → intraoperative sinus repair → postop MRI/MRV. Source: Duan et al., Front Neurol 2024;15:1364917, Fig 3. CC BY 4.0.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=parasagittal%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=parasagittal+meningioma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Purely endoscopic removal of a parasagittal/falx meningioma** — Spektor S. Acta neurochirurgica 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26746827/)
+- **Preoperative antiepileptic drug prophylaxis for early postoperative seizures in supratentorial meningioma: a single-center experience** — Cai Q. Journal of neuro-oncology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35434765/)
+- **[Convexity Meningioma, Parasagittal Meningioma, Falx Meningioma]** — Matsuda M. No shinkei geka. Neurological surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39034511/)
+- **Resection of falx and parasagittal meningioma: complication avoidance** — Magill ST. Journal of neuro-oncology 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27778211/)
+- **Falcine meningiomas** — Casali C. Handbook of clinical neurology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32586481/)
+- **Parasagittal Meningiomas: Prognostic Factors for Recurrence** — Antunes A. Advances and technical standards in neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37770688/)
+- **Challenging Resection of Bilateral Parasagittal and Falcine Meningioma Involving Both Anterior Third and Middle Third of the Superior Sagittal Sinus: A Case Report and Literature Review** — Alzughaibi RA. Cureus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39156289/)
+- **Xanthomatous meningioma: a case report with review of the literature** — Ishida M. International journal of clinical and experimental pathology 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24133605/)
+- **[Systematic review of complications for proper informed consent (7) surgery for convexity/parasagittal/falx meningiomas]** — Ochi T. No shinkei geka. Neurological surgery 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23542799/)
+- **Meningiomas of the rolandic region: risk factors for motor deficit and role of intra-operative monitoring** — Maiuri F. Acta neurochirurgica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37277557/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Parasagittal Falx Meningioma Resection — Figure 4](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-01-figure-4-fonc-15-1458934-g004-jpg.jpg)
+*Figure 4. Multiple risk factors leading to postoperative motor decline after parasagittal/falx meningioma resection in the middle third SSS. (A, B) The tumor invading the pia mater was completely... Source: [Risk factors for motor decline following parasagittal and falx meningioma resection in the middle third](https://pmc.ncbi.nlm.nih.gov/articles/PMC11832386/) — Frontiers in Oncology 2025; CC BY.*
+
+![Parasagittal Falx Meningioma Resection — Figure 1](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-02-figure-1-cureus-0016-00000074950-i01-jpg.jpg)
+*Figure 1. Operating room setup for the 4K three-dimensional exoscope system.A main large monitor for the primary surgeon is placed at the foot of the operating table. Source: [Microsurgical Resection of Meningiomas Using a 4K Three-Dimensional Exoscope: A Descriptive Observational Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11694846/) — Cureus 2024; CC BY.*
+
+![Parasagittal Falx Meningioma Resection — Figure 2](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-03-figure-2-cureus-0016-00000074950-i02-jpg.jpg)
+*Figure 2. Representative magnetic resonance images (gadolinium-enhanced T1-weighted images).(A)-(B) Before and after surgery of case 2 in the presence of a left convexity-parasagittal meningioma... Source: [Microsurgical Resection of Meningiomas Using a 4K Three-Dimensional Exoscope: A Descriptive Observational Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11694846/) — Cureus 2024; CC BY.*
+
+![Parasagittal Falx Meningioma Resection — Figure 3](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-04-figure-3-cureus-0016-00000074950-i03-jpg.jpg)
+*Figure 3. View of the dural incision for meningioma resections.(A) A macroscopic view of the dural incision to resect a right parietal convexity meningioma in a sample case. This photo was taken... Source: [Microsurgical Resection of Meningiomas Using a 4K Three-Dimensional Exoscope: A Descriptive Observational Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11694846/) — Cureus 2024; CC BY.*
+
+![Parasagittal Falx Meningioma Resection — Figure 4](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-05-figure-4-cureus-0016-00000074950-i04-jpg.jpg)
+*Figure 4. Visibility of deeply located fine structures during tuberculum sellae meningioma resections.(A) A view of the deep structures during surgery in an exemplar case of a tuberculum sellae... Source: [Microsurgical Resection of Meningiomas Using a 4K Three-Dimensional Exoscope: A Descriptive Observational Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11694846/) — Cureus 2024; CC BY.*
+
+![Parasagittal Falx Meningioma Resection — Figure 5](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-06-figure-5-cureus-0016-00000074950-i05-jpg.jpg)
+*Figure 5. Surgeon’s head orientation during the surgery using a 4K 3D exoscope for case 3 in the presence of a right frontal parasagittal-falx meningioma.(A)-(B) During the tumor detachment from... Source: [Microsurgical Resection of Meningiomas Using a 4K Three-Dimensional Exoscope: A Descriptive Observational Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11694846/) — Cureus 2024; CC BY.*
+
+![Parasagittal Falx Meningioma Resection — Fig. 1](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-07-fig-1-jnet-15-517-g001-jpg.jpg)
+*Fig. 1. A 41-year-old woman with sphenoid ridge meningioma: (A) Pre-embolization gadolinium enhanced T1-weighted image. (B) Lateral view of left external carotid artery angiography. The sole... Source: [Clinicopathologic Factors Associated with Tumor Necrosis after Preoperative Embolization of Meningiomas](https://pmc.ncbi.nlm.nih.gov/articles/PMC10370582/) — Journal of Neuroendovascular Therapy 2021; CC BY-NC-ND.*
+
+![Parasagittal Falx Meningioma Resection — Fig. 2](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-08-fig-2-jnet-15-517-g002-jpg.jpg)
+*Fig. 2. Illustrative meningioma model: (A) Convexity meningioma with simple feeder artery. Microsphere penetration throughout the entire tumor is easily achieved. (B) Parasagittal/falx... Source: [Clinicopathologic Factors Associated with Tumor Necrosis after Preoperative Embolization of Meningiomas](https://pmc.ncbi.nlm.nih.gov/articles/PMC10370582/) — Journal of Neuroendovascular Therapy 2021; CC BY-NC-ND.*
+
+![Parasagittal Falx Meningioma Resection — Fig. 1](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-09-fig-1-701-2025-6497-fig1-html-jpg.jpg)
+*Fig. 1. Contrast-enhanced MRI axial (a), coronal (b), and sagittal (c) images showed a homogeneous enhanced lesion with a maximum diameter of 35 mm attached at anterior part of the ipsilateral... Source: [Endoscopic-assisted contralateral interhemispheric transfalcine keyhole approach for falcine meningioma: How I do it](https://pmc.ncbi.nlm.nih.gov/articles/PMC11933132/) — Acta Neurochirurgica 2025; CC BY-NC-ND.*
+
+![Parasagittal Falx Meningioma Resection — Fig. 2](../../figures/curated/case-prep-parasagittal-falx-meningioma-resection/figure-10-fig-2-701-2025-6497-fig2-html-jpg.jpg)
+*Fig. 2. The patient was placed in the supine position with the head slightly vertexed up (a), a linear skin incision of about 9 cm was designed (b), and a small craniotomy of about 4 × 3 cm was... Source: [Endoscopic-assisted contralateral interhemispheric transfalcine keyhole approach for falcine meningioma: How I do it](https://pmc.ncbi.nlm.nih.gov/articles/PMC11933132/) — Acta Neurochirurgica 2025; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

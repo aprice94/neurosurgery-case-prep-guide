@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC3243081",
+    "article_title": "Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition",
+    "journal": "Frontiers in Neuroanatomy",
+    "year": "2011",
+    "license": "CC BY-NC",
+    "label": "Figure 1",
+    "caption": "The comprehensive neuroanatomical picture formed by synthesizing hundreds of original neuroanatomical studies into the homotypical blueprint underlying cognition. The interactive visualization can be experienced at http://www.frontiersin.org/files/cognitiveconsilience/index.html. The visualization is designed to be interactively zoomable, therefore details may not be clear in the above image. The 6-layered cerebral isocortex with 9 distinct pyramidal neurons and 8 cortical interneurons is presented at the top with a Nissl background. The parahippocampal gyrus including upper (PH23) and lower (PH56) layers and the hippocampus including the dentate gyrus (Dg), CA3 fields, CA1 fields, and subiculum (Sb; green). The thalamus is divided into 4 parts namely the specific, intralaminar, layer 1 projecting and thalamic reticular nucleus (Trn; orange). The basal ganglia includes the matrix (D1 and D2 receptors) and patch portions of the striatum, the external globus pallidus (Gpe), the internal globus pallidus (Gpi) and substantia nigra pars reticulata (Snr), the subthalamic nucleus (Stn), and the substantia nigra pars compacta (Snc; blue). The metencephalon includes the pons, cerebellum, and deep cerebellar nuclei (Dcn; purple). Finally the spinal chord, claustrum, and basal forebrain are shown in black.",
+    "href": "fnana-05-00065-g001.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-01-figure-1-fnana-05-00065-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3243081.1/fnana-05-00065-g001.jpg?md5=f8dd415ebd32f49fdc74026415c5d898"
+  },
+  {
+    "pmcid": "PMC3243081",
+    "article_title": "Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition",
+    "journal": "Frontiers in Neuroanatomy",
+    "year": "2011",
+    "license": "CC BY-NC",
+    "label": "Figure 3",
+    "caption": "Prediction of human laminar corticocortical projections. Synthesis of von Economo cortical laminar types and homotypical laminar corticocortical projections in the monkey. Lateral (A) and medial (B) view of human cortical regions colored to correspond to the five fundamental cortical types depicted in (C) with numbers corresponding to Brodmann\u2019s areas. (C) Von Economo\u2019s five fundamental human cortical lamination types (von Economo, 1929). 1 = purple, 2 = dark blue, 3 = green, 4 = orange, 5 = yellow. The laminar distribution in the human cerebral cortex can be identified along a smooth numerical gradient, where 5 corresponds to \u201cinput\u201d granular koniocortex and 1 corresponds to \u201coutput\u201d agranular cortex. Horizontal red lines highlight layer boundaries, with average human cortical thickness = 2.5 mm. (D) Rough prediction of human laminar corticocortical (origin/termination) projection percentages predicted by numerical difference of cortical types in (C). Dotted red = % neurons originating in upper layers 2, 3. Dotted blue = % neurons originating in lower layers 5, 6, and lesser 4. Solid red = % synaptic terminations in layers 1, 2, and lesser 3. Solid blue = % synaptic terminations in mid/lower layers 4, 5, and lesser 6. In general, \u201cfeedforward\u201d = (dotted red/solid blue), \u201cfeedback\u201d = (solid red/dotted blue). Example: A type 2 (blue origin) projecting to a type 4 (orange target) would have a difference of -2(feedback), and predict roughly 25% of the projections from type 2 would originate from neurons in upper layers 2, 3, and roughly 20% of synaptic terminations in the type 3 cortical area would terminate in middle/lower layers.",
+    "href": "fnana-05-00065-g003.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-02-figure-3-fnana-05-00065-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3243081.1/fnana-05-00065-g003.jpg?md5=6e2352d54a42d57f2aa58aa9b93304ca"
+  },
+  {
+    "pmcid": "PMC3243081",
+    "article_title": "Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition",
+    "journal": "Frontiers in Neuroanatomy",
+    "year": "2011",
+    "license": "CC BY-NC",
+    "label": "Figure 4",
+    "caption": "Cognitive circuits as shown at http://www.frontiersin.org/files/cognitiveconsilience/index.html. Circuits from left to right. Orange: consolidated declarative long-term memory. Green: short-term declarative memory. Purple: working memory/Information processing. Blue: Behavioral memory action selection. Black: behavioral memory output. Red: cognitive control. Yellow: cortical information flow regulation. Arrow head type indicates neurotransmitter: solid arrow-glutamate, feather-GABA, flower-acetylcholine, reverse arrow-dopamine. See website and text for additional details.",
+    "href": "fnana-05-00065-g004.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-03-figure-4-fnana-05-00065-g004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3243081.1/fnana-05-00065-g004.jpg?md5=a5113983a87e897bdb6ac39fac87dc9a"
+  },
+  {
+    "pmcid": "PMC3243081",
+    "article_title": "Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition",
+    "journal": "Frontiers in Neuroanatomy",
+    "year": "2011",
+    "license": "CC BY-NC",
+    "label": "Figure 5",
+    "caption": "Summary diagram of proposed flow of cognitive information. Seven of the circuits described in the text are shown to illustrate a summarized functional viewpoint of the hypothesized flow of information. Generally information flows from left to right through the color coded circuits. Circuit names and colors are represented at the top. Long-term memory is split into \u201cperceptions\u201d and \u201cassociations\u201d as discussed in 4.1. Information flow details are describe in the text. Cortical neuron x (Cx), Parahippocampal gyrus (PH), Hippocampus (H), Specific thalamus (Ts), Layer 1 projecting thalamus (TL1), Intralaminar thalamus (Ti), Cerebellum (C), Striatum (S), External segment globus pallidus (Gpe), Internal segment globus pallidus (Gpi), Substantia nigra par reticulata (Snr), Basal forebrain (BF; note: the basal forebrain is placed in layer 1 to demonstrate the primary target of its projections).",
+    "href": "fnana-05-00065-g005.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-04-figure-5-fnana-05-00065-g005-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3243081.1/fnana-05-00065-g005.jpg?md5=619219c8823239883cf8a4ecbba152e4"
+  },
+  {
+    "pmcid": "PMC12123447",
+    "article_title": "Cognitive Profiles and Determinants of Eligibility for Awake Surgery in Non\u2010Dominant Hemisphere Gliomas: A Narrative Review",
+    "journal": "Brain Behav. 2025 May 30;15(6):e70604. doi: 10.1002/brb3.70604",
+    "year": "",
+    "license": "CC BY",
+    "label": "Figure 5",
+    "caption": "",
+    "href": "BRB3-15-e70604-g001.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-05-figure-5-brb3-15-e70604-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12123447.1/BRB3-15-e70604-g001.jpg?md5=dd6fbe56ccba19db0314468fe1b86458"
+  },
+  {
+    "pmcid": "PMC4182437",
+    "article_title": "The Cerebral Cost of Breathing: An fMRI Case-Study in Congenital Central Hypoventilation Syndrome",
+    "journal": "PLoS ONE",
+    "year": "2014",
+    "license": "CC0",
+    "label": "Figure 2",
+    "caption": "Restoration of DMN under mechanical ventilation.(A). Comparison of BOLD signal between MV and SB revealed a specific increase of activation in the default-mode network associated in awake controls in introspection and self-consciousness. No significant result was observed in the opposite contrast. See Table 1 for detailed fMRI results. (B&C). Functional connectivity assessed with a hypothesis-driven approach revealed a larger correlation with precuneus activity in posterior mesial areas during MV than during SB (B), and a larger correlation between brainstem activity and a large anterior cortico-subcortical network during SB than during MV (C). This large network resembles the executive attention network.",
+    "href": "pone.0107850.g002.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-06-figure-2-pone-0107850-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4182437.1/pone.0107850.g002.jpg?md5=1bd314808540e45c502c6cc27f7de482"
+  },
+  {
+    "pmcid": "PMC7920969",
+    "article_title": "Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion",
+    "journal": "Frontiers in Human Neuroscience",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Inclusion criteria. A total of 139 patients who underwent awake surgery in our institution were included; 36 of them matched our inclusion criteria. Of these, 22 patients underwent intraoperative monitoring of basic emotion successfully and were studied. P, point.",
+    "href": "fnhum-15-612890-g0001.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-07-figure-1-fnhum-15-612890-g0001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7920969.1/fnhum-15-612890-g0001.jpg?md5=df927f867fc725e82ffe1ceea8568a9f"
+  },
+  {
+    "pmcid": "PMC7920969",
+    "article_title": "Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion",
+    "journal": "Frontiers in Human Neuroscience",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Distribution of the positive mapping sites (Aa, white circle) and regions with negative responses (Ab, dark blue circle) at the cortical level. Each positive mapping site is stimulated two or three times, and when the error or delayed responses are observed at least twice, the region is considered as \u201cpositive.\u201d The lower image (B) shows the type of errors for each positive mapping. The type of emotion for which the incorrect responses were elicited is shown. Red, happiness; yellow, surprise; orange, anger; cyan, sadness; pink, contempt; blue, fear; brown, disgust; light green, neutral face.",
+    "href": "fnhum-15-612890-g0003.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-08-figure-3-fnhum-15-612890-g0003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7920969.1/fnhum-15-612890-g0003.jpg?md5=9ae8a05a3554f4ec49e01a69fad847b3"
+  },
+  {
+    "pmcid": "PMC7920969",
+    "article_title": "Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion",
+    "journal": "Frontiers in Human Neuroscience",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 5",
+    "caption": "Time course of assessment for basic emotion in patients whose positive mappings were identified during awake surgery. The figure of time series of individuals (A) indicates that three patients declined under cut-off value (Z \u2264 \u22121.65) just after surgery, but they recovered completely. When scores are compared among time series using Steel-Dwass analysis (B), though the mean value declined significantly just after surgery, there is no decline at 3 months postoperatively compared with the preoperative score.",
+    "href": "fnhum-15-612890-g0005.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-09-figure-5-fnhum-15-612890-g0005-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7920969.1/fnhum-15-612890-g0005.jpg?md5=a97902f85b12da199882e5c49b3b795b"
+  },
+  {
+    "pmcid": "PMC7920969",
+    "article_title": "Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion",
+    "journal": "Frontiers in Human Neuroscience",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 6",
+    "caption": "Pre- and postoperative magnetic resonance (MR) images (gadolinium-enhanced T1 image for Case 1 and FLAIR image for Case 2) and intraoperative findings of illustrative two cases are shown. MR images and number tags with the yellow circle of the middle column show the exact location of positive mappings of basic emotion identified using iPlan Stereotaxy 3.0 software (BrainLab). A: anterior; P: posterior; M: medial side; yellow broken circle, tags of incorrect responses for basic emotion. Tags and symptoms elicited by electrical stimulation are shown. Case 1: Tag 1\u20135, involuntary movement; Tag 6, emotion recognition; Case 2: Tag 1 and 2, dysarthria; Tag 3, emotion recognition; Tag 4, negative motor response; Tag 6, Stroop test.",
+    "href": "fnhum-15-612890-g0006.jpg",
+    "local": "figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-10-figure-6-fnhum-15-612890-g0006-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7920969.1/fnhum-15-612890-g0006.jpg?md5=a5f1916d3da9502fdf8d8955450208f1"
+  }
+]

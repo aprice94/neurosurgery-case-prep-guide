@@ -19,16 +19,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=encephalocele+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Encephalocele repair** — workup, associated anomalies, CSF leak, and reconstruction literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=encephalocele+repair+neurosurgery+management+CSF+leak)
-- **Anterior skull-base defects** — endoscopic/open repair and recurrence literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=anterior+skull+base+encephalocele+repair+endoscopic+outcomes)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=encephalocele&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=encephalocele+repair) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull (skull-base / cribriform defect site)](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Posterior Encephalocele** — Society for Maternal-Fetal Medicine. American journal of obstetrics and gynecology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33168216/)
+- **Frontoethmoidal encephalocele. Report of a case** — Horcajadas A. Neurocirugia 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29610064/)
+- **Occipital Encephalocele: Cause, Incidence, Neuroimaging and Surgical Management** — Markovic I. Current pediatric reviews 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31656152/)
+- **Occipital encephalocele associated with Dandy-Walker malformation: a case-based review** — Gutierrez F. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35588332/)
+- **Hydrocephalus in encephalocele** — Akyol ME. European review for medical and pharmacological sciences 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35993634/)
+- **Quadrigeminal arachnoid cyst with perinatal encephalocele** — Akutagawa K. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32328704/)
+- **Anterior encephalocele** — Rapport RL 2nd. Journal of neurosurgery 1981. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7452336/)
+- **Encephalocele** — Jowi JO. East African medical journal 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19894466/)
+- **ENCEPHALOCELE** — ACERS TE. Archives of ophthalmology (Chicago, Ill. : 1960) 1965. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14220612/)
+- **[Frontoethmoidal encephalocele]** — Parada Vásquez RH. Medicina clinica 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26971979/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Encephalocele Repair — Figure 1](../../figures/curated/case-prep-encephalocele-repair/figure-01-figure-1-brainsci-13-00115-g001-jpg.jpg)
+*Figure 1. Preoperative computed tomography showing the anterior skull base defect (arrow) (A). MR images showing a prolapsed right rectal gyrus into the frontal sinus on T1-weighted image and... Source: [Frontal Encephalocele Plus Epilepsy: A Case Report and Review of the Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9857174/) — Brain Sciences 2023; CC BY.*
+
+![Encephalocele Repair — Figure 2](../../figures/curated/case-prep-encephalocele-repair/figure-02-figure-2-brainsci-13-00115-g002-jpg.jpg)
+*Figure 2. Intraoperative ECoG showing interictal epileptiform discharges (black circle) at right frontal lateral cortex (A). Postoperative intraoperative ECoG showing no obvious interictal... Source: [Frontal Encephalocele Plus Epilepsy: A Case Report and Review of the Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9857174/) — Brain Sciences 2023; CC BY.*
+
+![Encephalocele Repair — Fig. 1.](../../figures/curated/case-prep-encephalocele-repair/figure-03-fig-1-dmm-12-040683-g1-jpg.jpg)
+*Fig. 1.. Cranial and spinal defects in mouse fetuses with conditional deletion of Rac1. (A-F) Non-Cre control (A) and Grhl3Cre-Rac1 mutant fetuses (B-F) at E13.5. Fetuses with exencephaly (Exenc)... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
+
+![Encephalocele Repair — Fig. 2.](../../figures/curated/case-prep-encephalocele-repair/figure-04-fig-2-dmm-12-040683-g2-jpg.jpg)
+*Fig. 2.. Association of cranial, spinal and abdominal defects in Grhl3Cre-Rac1 mutants. (A) Number of Grhl3Cre-Rac1 mutant fetuses (E13.5-E18 pooled; n=29) with various combinations of cranial... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
+
+![Encephalocele Repair — Fig. 3.](../../figures/curated/case-prep-encephalocele-repair/figure-05-fig-3-dmm-12-040683-g3-jpg.jpg)
+*Fig. 3.. Grhl3Cre-Rac1 mutants with encephalocele or exencephaly exhibit calvarial skull defects. Grhl3Cre-Con (A,B,C); and Grhl3Cre-Rac1 (D-I) conditional mutants at E17.5. (A,D,G) Normal head... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
+
+![Encephalocele Repair — Fig. 4.](../../figures/curated/case-prep-encephalocele-repair/figure-06-fig-4-dmm-12-040683-g4-jpg.jpg)
+*Fig. 4.. Structure of late-stage fetal encephalocele in Grhl3Cre-Rac1 mutants. (A,H) Normal Grhl3Cre-Con fetus (A) and Grhl3Cre-Rac1 conditional mutant with occipito-parietal encephalocele (H) at... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
+
+![Encephalocele Repair — Fig. 5.](../../figures/curated/case-prep-encephalocele-repair/figure-07-fig-5-dmm-12-040683-g5-jpg.jpg)
+*Fig. 5.. First appearance of encephalocele in Grhl3Cre-Rac1 mutants. (A,H,O) Non-Cre control fetus (A) and Grhl3Cre-Rac1 conditional mutants with occipito-parietal encephalocele (Enceph; H,O) at... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
+
+![Encephalocele Repair — Fig. 6.](../../figures/curated/case-prep-encephalocele-repair/figure-08-fig-6-dmm-12-040683-g6-jpg.jpg)
+*Fig. 6.. Knockdown of Rac1 in surface ectoderm by Grhl3Cre-specific recombination. (A-D) In situ hybridisation on coronal sections through the midbrain region at E12.5, using an antisense RNA... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
+
+![Encephalocele Repair — Figure 9](../../figures/curated/case-prep-encephalocele-repair/figure-09-figure-9-dmm-12-040683-i1-jpg.jpg)
+*Figure 9. Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Dis Model Mech. 2019 Nov 14;12(11):dmm040683. doi: 10.1242/dmm.040683; CC BY.*
+
+![Encephalocele Repair — Figure 1](../../figures/curated/case-prep-encephalocele-repair/figure-10-figure-1-ajns-9-158-g001-jpg.jpg)
+*Figure 1. (a) The occipito-frontal circumference was 31 cm and (b) encephalocele circumference was 45 cm Source: [A giant occipital encephalocele with spontaneous hemorrhage into the sac: A rare case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4323900/) — Asian Journal of Neurosurgery 2014; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -22,16 +22,78 @@ The supraorbital keyhole ("eyebrow") craniotomy is the **minimally invasive subf
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=tuberculum+sellae+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Approach anatomy** — operative anatomy and corridor-selection literature for this skull-base route. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=+Supraorbital+\+surgical+anatomy+approach)
-- **Meningioma guideline anchor** — EANO guidance for skull-base meningioma decision-making when applicable. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 [Neurosurgical Atlas — Supraorbital](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/supraorbital-craniotomy) · [Radiopaedia — tuberculum sellae meningioma](https://radiopaedia.org/search?q=tuberculum%20sellae%20meningioma&scope=all) · [PubMed Central — supraorbital keyhole](https://www.ncbi.nlm.nih.gov/pmc/?term=supraorbital+keyhole+eyebrow+craniotomy)
 
-![Interior base of skull — anterior cranial fossa floor, cribriform/planum, tuberculum, optic canals](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons. The subfrontal keyhole looks down the anterior fossa floor to the planum, tuberculum, optic canals, and suprasellar cisterns.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Factors determining the side of approach for clipping ruptured anterior communicating artery aneurysm via supraorbital eyebrow keyhole approach** — Bhattarai R. Chinese journal of traumatology = Zhonghua chuang shang za zhi 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32081450/)
+- **The fully endoscopic supraorbital trans-eyebrow keyhole approach to the anterior and middle skull base** — Berhouma M. Acta neurochirurgica 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21818644/)
+- **Obtaining the olfactory bulb as a source of olfactory ensheathing cells with the use of minimally invasive neuroendoscopy-assisted supraorbital keyhole approach--cadaveric feasibility study** — Czyz M. British journal of neurosurgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25659961/)
+- **Same viewing angle, minimal craniotomy enlargement, extreme exposure increase: the extended supraorbital eyebrow approach** — Martinez-Perez R. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32394302/)
+- **Supraorbital Keyhole Craniotomy via Eyebrow Incision: A Systematic Review and Meta-Analysis** — Robinow ZM. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34775096/)
+- **Eyebrow supraorbital keyhole craniotomy for olfactory groove meningiomas with endoscope assistance: case series and systematic review of extent of resection, quantification of postoperative frontal lobe injury, anosmia, and recurrence** — Youngerman BE. Acta neurochirurgica 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32888076/)
+- **Trans-eyebrow supraorbital keyhole approach for suprasellar and intra-suprasellar Rathke cleft cysts: the experience of 16 cases and a literature review** — Cai M. British journal of neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35762111/)
+- **Keyhole supraorbital eyebrow approach for fully endoscopic resection of tuberculum sellae meningioma** — Zheng X. Frontiers in surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36157417/)
+- **The Supraorbital Eyebrow Approach in Pediatric Neurosurgery: Perspectives and Challenges of Frontal Keyhole Surgery** — Sanchin A. Advances and technical standards in neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37770683/)
+- **The Supraorbital Keyhole Approach** — Tatarli N. The Journal of craniofacial surgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26114521/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Fig. 1](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-01-fig-1-10143-2024-2554-fig1-html-jpg.jpg)
+*Fig. 1. A: An incision with a 15-scalpel blade was performed on the left eyebrow. The incision length is approximately 3 cm with an extension of 5 mm laterally for access to the MacCarty... Source: [Exploring optimal microscopic keyhole access to the skull base: an anatomical evaluation of transciliary supraorbital and transpalpebral orbitofrontal craniotomy approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249509/) — Neurosurgical Review 2024; CC BY.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Fig. 2](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-02-fig-2-10143-2024-2554-fig2-html-jpg.jpg)
+*Fig. 2. (A) After the temporal muscle was detached from the superior temporal line, the periorbita was also detached from the orbital bone. Then the periosteum was dissected laterally, exposing... Source: [Exploring optimal microscopic keyhole access to the skull base: an anatomical evaluation of transciliary supraorbital and transpalpebral orbitofrontal craniotomy approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249509/) — Neurosurgical Review 2024; CC BY.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Fig. 3](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-03-fig-3-10143-2024-2554-fig3-html-jpg.jpg)
+*Fig. 3. TCA subfrontal dissection. (A-C: left side) A: During the dissection, the ipsilateral optic nerve was first accessed on the anterior skull base, with the falciform ligament covering the... Source: [Exploring optimal microscopic keyhole access to the skull base: an anatomical evaluation of transciliary supraorbital and transpalpebral orbitofrontal craniotomy approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249509/) — Neurosurgical Review 2024; CC BY.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Fig. 4](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-04-fig-4-10143-2024-2554-fig4-html-jpg.jpg)
+*Fig. 4. Illustration drawing. The angle of attack between the TCA and TPA. A. TCA allows a better cranial-caudal angle of attack. B. In TPA, the angle of attack is directed from a caudal-cranial... Source: [Exploring optimal microscopic keyhole access to the skull base: an anatomical evaluation of transciliary supraorbital and transpalpebral orbitofrontal craniotomy approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249509/) — Neurosurgical Review 2024; CC BY.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Fig. 5](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-05-fig-5-10143-2024-2554-fig5-html-jpg.jpg)
+*Fig. 5. Illustrative Case 2. A-C: Pre-operative T1-weighted post-contrast magnetic resonance imaging demonstrating an extra-axial, enhanced lesion in the tuberculum extending to the planum... Source: [Exploring optimal microscopic keyhole access to the skull base: an anatomical evaluation of transciliary supraorbital and transpalpebral orbitofrontal craniotomy approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249509/) — Neurosurgical Review 2024; CC BY.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Fig. 6](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-06-fig-6-10143-2024-2554-fig6-html-jpg.jpg)
+*Fig. 6. Illustrative Case 3. A, B: Axial and coronal T1-weighted with contrast MRI post-contrast demonstrating an extra-axial, enhancing, spheno-orbital left-sided lesion. C: A 3D-CT... Source: [Exploring optimal microscopic keyhole access to the skull base: an anatomical evaluation of transciliary supraorbital and transpalpebral orbitofrontal craniotomy approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249509/) — Neurosurgical Review 2024; CC BY.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Fig. 1](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-07-fig-1-gr1-jpg.jpg)
+*Fig. 1. Computed tomography angiography and intraoperative photographs of the procedure. Supraorbital eyebrow keyhole approach. (A) Open A2 plane; (B) Closed A2 planes4. Source: [Factors determining the side of approach for clipping ruptured anterior communicating artery aneurysm via supraorbital eyebrow keyhole approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC7049606/) — Chinese Journal of Traumatology 2020; CC BY-NC-ND.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Fig. 3](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-08-fig-3-10143-2014-602-fig3-html-jpg.jpg)
+*Fig. 3. Comparison of a 8-mm da Vinci instruments with articulated wrist joints and (b) 5-mm da Vinci instruments with tentacle-like continuum tool shafts Source: [da Vinci robot-assisted keyhole neurosurgery: a cadaver study on feasibility and safety](https://pmc.ncbi.nlm.nih.gov/articles/PMC4365271/) — Neurosurgical Review 2014; CC BY.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Figure 1:](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-09-figure-1-sni-13-566-g001-jpg.jpg)
+*Figure 1:. Representative case illustrating the surgical technique of the supraorbital eyebrow approach. (a) Proper positioning including head extension and rotation, with the line marking the skin... Source: [Supraorbital eyebrow approach: A single-center experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC9805653/) — Surgical Neurology International 2022; CC BY-NC-SA.*
+
+![Supraorbital \"Eyebrow\" Keyhole Craniotomy — Figure 2:](../../figures/curated/operative-approach-supraorbital-eyebrow-keyhole-craniotomy/figure-10-figure-2-sni-13-566-g002-jpg.jpg)
+*Figure 2:. Preoperative postgadolinium-enhanced T1 magnetic resonance imaging (MRI) images (a) sagittal, (b) coronal, and (c) axial views showing a giant olfactory groove meningioma spanning the... Source: [Supraorbital eyebrow approach: A single-center experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC9805653/) — Surgical Neurology International 2022; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -75,13 +137,11 @@ The supraorbital keyhole ("eyebrow") craniotomy is the **minimally invasive subf
 ---
 
 ## Positioning
-📷 *[Atlas — supraorbital positioning](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/supraorbital-craniotomy)*
 
 - **Supine, Mayfield 3-pin.** Head **extended ~15–20°** so the frontal lobe falls away from the anterior fossa floor (gravity retraction), **rotated ~15–30° to the contralateral side** (more rotation for ipsilateral parasellar targets, less/neutral for midline AComA), with slight lateral tilt; **vertex slightly down.**
 - The goal is the same as the pterional: let gravity, CSF, and bone removal — not retractors — create the exposure.
 
 ## Incision & Soft-Tissue Dissection
-📷 *[Atlas — eyebrow incision](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/supraorbital-craniotomy)*
 
 - **Eyebrow incision within the lateral two-thirds of the eyebrow**, along the supraorbital rim, **lateral to the supraorbital notch** (do **not** shave the eyebrow). Incise skin, then **orbicularis oculi/frontalis in line with their fibers**, staying **below the frontalis nerve branch.**
 - Elevate a small **subperiosteal/galeal flap** to expose the supraorbital rim and the frontal bone just above it; a **pericranial/galeal flap is preserved** for frontal-sinus repair if needed. Protect the **supraorbital nerve** (release from a true foramen with a fine osteotome).
@@ -93,14 +153,12 @@ The supraorbital keyhole ("eyebrow") craniotomy is the **minimally invasive subf
 ---
 
 ## Craniotomy
-📷 *[Atlas — keyhole craniotomy & orbital-roof drilling](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/supraorbital-craniotomy)*
 
 1. A **single burr hole** behind the superior temporal line (under the muscle, for cosmesis), then a **small frontal craniotomy (~2.5 × 1.5–2 cm)** flush with the supraorbital rim/anterior fossa floor.
 2. **Drill the inner table and the orbital-roof bump flat** — this, not a bigger window, is what opens the subfrontal trajectory.
 3. **Frontal sinus management:** if entered, **exenterate the mucosa, occlude the ostium, and buttress with the pericranial/galeal flap** (± fat/wax) to prevent CSF leak and mucocele.
 
 ## Dural Opening & Intradural Work
-📷 *[Atlas — dural opening & subfrontal microsurgery](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/supraorbital-craniotomy)*
 
 - Open the dura in a **C-shaped flap based inferiorly toward the orbital rim**; tack it down out of the working line.
 - **Release CSF** from the chiasmatic/carotid cisterns (or via the lumbar drain); the frontal lobe relaxes and the **subfrontal cone opens** to the optic nerves, chiasm, ICA, and AComA complex — **retractor-free** in most cases.
@@ -110,9 +168,6 @@ The supraorbital keyhole ("eyebrow") craniotomy is the **minimally invasive subf
 
 *Wang et al., Front Surg 2022;9:971063 — CC BY 4.0. The optic nerve is displaced by tumor (A,C) and decompressed after resection (B,D).*
 
-![Arteries of the base of the brain — circle of Willis & AComA complex (deep targets of the subfrontal keyhole)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
-
-*Sobotta 1909, public domain — via Wikimedia Commons.*
 
 ---
 

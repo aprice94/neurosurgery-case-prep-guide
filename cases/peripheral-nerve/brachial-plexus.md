@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=brachial+plexus+injury+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Timing of reconstruction** — outcomes after early vs delayed brachial plexus repair and nerve transfer. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+injury+timing+nerve+transfer+outcomes)
-- **Root avulsion / transfer strategy** — preganglionic injury, donor selection, and neurotization literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+root+avulsion+nerve+transfer+neurotization)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=brachial%20plexus%20injury&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brachial+plexus+injury+nerve+transfer) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Brachial plexus — roots, trunks, divisions, cords, branches](../../figures/peripheral/brachial-plexus_gray808.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Peripheral nerve anatomy:** Youmans and Winn; Greenberg; peripheral nerve surgery texts — confirm nerve course, fascicular anatomy, compression points, vascular supply, and nearby structures.
+- **Technique sequence:** Youmans and Winn; specialty operative references — review incision, exposure, neurolysis/decompression/resection strategy, graft/repair options, and closure.
+- **Complication rescue:** Greenberg; specialty literature — summarize neuropathic pain, motor deficit, wound issues, recurrence, and rehabilitation expectations.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Spinal accessory nerve transfer for shoulder abduction has no benefit over supraclavicular exploration and nerve grafting in brachial plexus birth injury: a systematic review** — Mendiratta D. Frontiers in pediatrics 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39748811/)
+- **Treatment of brachial plexus injury** — Nagano A. Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association 1998. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9654558/)
+- **Management of Adult Traumatic Brachial Plexus Injury** — Datta NK. Mymensingh medical journal : MMJ 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37002755/)
+- **Management of Adult Brachial Plexus Injuries** — Hill JR. The Journal of hand surgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34158206/)
+- **High radial nerve palsy** — Laulan J. Hand surgery & rehabilitation 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30528552/)
+- **Traumatic upper plexus palsy: Is the exploration of brachial plexus necessary?** — Gkiatas I. European journal of orthopaedic surgery & traumatology : orthopedie traumatologie 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30483967/)
+- **Combined injury of the accessory nerve and brachial plexus** — Bertelli JA. Neurosurgery 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21135731/)
+- **Adjunctive Dorsal Scapular Nerve Transfer to Suprascapular Nerve for Brachial Plexus Birth Injuries: Case Series** — Augustine HFM. The Journal of hand surgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30737063/)
+- **Proximal and Distal Nerve Transfers in the Management of Brachial Plexus Injuries** — Woo SJ. Clinics in plastic surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39216935/)
+- **A systematic review of nerve transfer and nerve repair for the treatment of adult upper brachial plexus injury** — Yang LJ. Neurosurgery 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22811085/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Fig. 2.](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-01-fig-2-prs-158-076e-g002-jpg.jpg)
+*Fig. 2.. (Left) Improvement and (right) final outcome in active shoulder ER range of motion in degrees after brachial plexus reconstruction surgery with C5–SSN or SAN–SSN. Gray dots represent... Source: [Comparison of Spinal Accessory Nerve Transfer versus C5 Grafting for Suprascapular Nerve Reinnervation in Brachial Plexus Birth Injury](https://pmc.ncbi.nlm.nih.gov/articles/PMC13290028/) — Plastic and Reconstructive Surgery 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Fig. 3.](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-02-fig-3-prs-158-076e-g003-jpg.jpg)
+*Fig. 3.. (Left) Survival probability without secondary surgery for shoulder ER after brachial plexus reconstruction surgery with C5–SSN or SAN–SSN, with 95% confidence intervals. Secondary... Source: [Comparison of Spinal Accessory Nerve Transfer versus C5 Grafting for Suprascapular Nerve Reinnervation in Brachial Plexus Birth Injury](https://pmc.ncbi.nlm.nih.gov/articles/PMC13290028/) — Plastic and Reconstructive Surgery 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Figure 1](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-03-figure-1-jmedlife-18-375-g001-jpg.jpg)
+*Figure 1. Classification of brachial plexus injuries [3,7,21,22] Source: [Functional outcomes following nerve transfers for shoulder and elbow reanimation in brachial plexus injuries: a 10-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12094303/) — Journal of Medicine and Life 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Figure 2](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-04-figure-2-jmedlife-18-375-g002-jpg.jpg)
+*Figure 2. Spinal accessory to suprascapular nerve transfer. The yellow arrow points towards the spinal accessory nerve, and the black arrow points towards the suprascapular nerve. Source: [Functional outcomes following nerve transfers for shoulder and elbow reanimation in brachial plexus injuries: a 10-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12094303/) — Journal of Medicine and Life 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Figure 3](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-05-figure-3-jmedlife-18-375-g003-jpg.jpg)
+*Figure 3. Radial nerve fascicle to axillary nerve transfer. A, Axillary nerve identification (black arrow); B, Radial nerve fascicle identification with nerve stimulator (black arrow pointing... Source: [Functional outcomes following nerve transfers for shoulder and elbow reanimation in brachial plexus injuries: a 10-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12094303/) — Journal of Medicine and Life 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Figure 4](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-06-figure-4-jmedlife-18-375-g004-jpg.jpg)
+*Figure 4. Intercostal nerves to the musculocutaneous nerve transfer. A, Intercostal nerve harvested for transfer (black arrow); B, Musculocutaneous nerve identification (black arrow); C,... Source: [Functional outcomes following nerve transfers for shoulder and elbow reanimation in brachial plexus injuries: a 10-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12094303/) — Journal of Medicine and Life 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Figure 5](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-07-figure-5-jmedlife-18-375-g005-jpg.jpg)
+*Figure 5. Contralateral C7 to median nerve transfer A, Ulnar nerve harvested for transfer (black arrow); B, Ulnar nerve reflected towards contralateral C7 through a subcutaneous tunnel C; C, C7... Source: [Functional outcomes following nerve transfers for shoulder and elbow reanimation in brachial plexus injuries: a 10-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12094303/) — Journal of Medicine and Life 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Figure 6](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-08-figure-6-jmedlife-18-375-g006-jpg.jpg)
+*Figure 6. Mechanism of injury to the brachial plexus Source: [Functional outcomes following nerve transfers for shoulder and elbow reanimation in brachial plexus injuries: a 10-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12094303/) — Journal of Medicine and Life 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Figure 7](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-09-figure-7-jmedlife-18-375-g007-jpg.jpg)
+*Figure 7. Global shoulder function recovery grade Source: [Functional outcomes following nerve transfers for shoulder and elbow reanimation in brachial plexus injuries: a 10-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12094303/) — Journal of Medicine and Life 2025; CC BY.*
+
+![Brachial Plexus Injury Exploration, Repair, Grafting, Nerve Transfer — Figure 8](../../figures/curated/case-prep-brachial-plexus-injury-exploration-repair-grafting-and-nerve-transfer/figure-10-figure-8-jmedlife-18-375-g008-jpg.jpg)
+*Figure 8. Global shoulder function recovery in relation to the surgical procedure used Source: [Functional outcomes following nerve transfers for shoulder and elbow reanimation in brachial plexus injuries: a 10-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12094303/) — Journal of Medicine and Life 2025; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

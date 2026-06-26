@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC13132771",
+    "article_title": "Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study",
+    "journal": "Frontiers in Neurology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Differences in brain network functional connectivity between PT and the HC under different frequency bands and stimulation types. The lines in the figure represent functional connections with significant differences, with thicker lines indicating greater differences in functional connections. The number of lines represents the total number of functional connections with differences between the two groups. (A\u2013C) Delta band, for standard, deviant, and novel stimuli, respectively; (D\u2013F) Theta band, for standard, deviant, and novel stimuli, respectively; (G\u2013I) Alpha band, for standard, deviant, and novel stimuli, respectively; (J\u2013L) Beta band, for standard, deviant, and novel stimuli, respectively.",
+    "href": "fneur-17-1790718-g001.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-01-figure-1-fneur-17-1790718-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13132771.1/fneur-17-1790718-g001.jpg?md5=38748b794ffb17908bcc1e33a4bd569f"
+  },
+  {
+    "pmcid": "PMC13132771",
+    "article_title": "Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study",
+    "journal": "Frontiers in Neurology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Differences in brain network functional connectivity between left insular glioma patients and the HC under different frequency bands and stimulation types. The lines in the figure represent functional connections with significant differences, with thicker lines indicating greater differences in functional connections. The number of lines represents the total number of functional connections with differences between the two groups. (A\u2013C) Delta\u2013band, for standard, deviant, and novel stimuli, respectively; (D\u2013F) theta band, for standard, deviant, and novel stimuli, respectively; (G\u2013I) alpha band, for standard, deviant, and novel stimuli, respectively; (J\u2013L) beta band, for standard, deviant, and novel stimuli, respectively.",
+    "href": "fneur-17-1790718-g002.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-02-figure-2-fneur-17-1790718-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13132771.1/fneur-17-1790718-g002.jpg?md5=8af85f50ab178b7adf529d9774f8cdd8"
+  },
+  {
+    "pmcid": "PMC13132771",
+    "article_title": "Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study",
+    "journal": "Frontiers in Neurology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Differences in brain network functional connectivity between right insular glioma patients and the HC under different frequency bands and stimulation types. The lines in the figure represent functional connections with significant differences, with thicker lines indicating greater differences in functional connections. The number of lines represents the total number of functional connections with differences between the two groups. (A\u2013C) Delta band, for standard, deviant, and novel stimuli, respectively; (D\u2013F) Theta band, for standard, deviant, and novel stimuli, respectively; (G\u2013I) Alpha band, for standard, deviant, and novel stimuli, respectively; (J\u2013L) Beta band, for standard, deviant, and novel stimuli, respectively.",
+    "href": "fneur-17-1790718-g003.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-03-figure-3-fneur-17-1790718-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13132771.1/fneur-17-1790718-g003.jpg?md5=5d8700830f0c70b27fffc0a911104328"
+  },
+  {
+    "pmcid": "PMC13132771",
+    "article_title": "Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study",
+    "journal": "Frontiers in Neurology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "Comparison of graph theory indicators within the beta band under novel stimuli between PT and HC. (A\u2013C) are violin plots comparing the clustering coefficient, local efficiency, and smallworldness coefficient between two groups, respectively.",
+    "href": "fneur-17-1790718-g004.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-04-figure-4-fneur-17-1790718-g004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13132771.1/fneur-17-1790718-g004.jpg?md5=378ed69503d4cd3d561573b088d4f250"
+  },
+  {
+    "pmcid": "PMC13132771",
+    "article_title": "Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study",
+    "journal": "Frontiers in Neurology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 5",
+    "caption": "Comparison of graph theory indicators within the beta band under novel stimuli between the right insular glioma patients group and HC. (A\u2013C) are violin plots comparing the clustering coefficient, local efficiency, and small-worldness coefficient between two groups, respectively.",
+    "href": "fneur-17-1790718-g005.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-05-figure-5-fneur-17-1790718-g005-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13132771.1/fneur-17-1790718-g005.jpg?md5=9f7cef00132a725f411a17dda93ed072"
+  },
+  {
+    "pmcid": "PMC13132771",
+    "article_title": "Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study",
+    "journal": "Frontiers in Neurology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 6",
+    "caption": "The correlation between HDRS and HAMA scores and network measures in the beta band of whole insular glioma patients. (A,B) represent the correlation between clustering coefficients and HDRS and HAMA scores, respectively; (C,D) represents the correlation between local efficiency and HDRS and HAMA scores, respectively; (E,F) represents the correlation between small-worldness coefficient and HDRS and HAMA scores, respectively.",
+    "href": "fneur-17-1790718-g006.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-06-figure-6-fneur-17-1790718-g006-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13132771.1/fneur-17-1790718-g006.jpg?md5=accfc2e65f88d2a542f7fc563f13dfae"
+  },
+  {
+    "pmcid": "PMC13132771",
+    "article_title": "Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study",
+    "journal": "Frontiers in Neurology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 7",
+    "caption": "The relationships between HDRS and HAMA scores and network measures in the beta band of right insular glioma patients. (A,B) Represent the correlation between clustering coefficients and HDRS and HAMA scores, respectively; (C,D) represents the correlation between local efficiency and HDRS and HAMA scores, respectively; (E,F) represents the correlation between small-worldness coefficient and HDRS and HAMA scores, respectively.",
+    "href": "fneur-17-1790718-g007.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-07-figure-7-fneur-17-1790718-g007-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13132771.1/fneur-17-1790718-g007.jpg?md5=bf542eab0252491cf68ca718d3aad2eb"
+  },
+  {
+    "pmcid": "PMC10175985",
+    "article_title": "Structural alterations of the salience network in patients with insular glioma",
+    "journal": "Brain and Behavior",
+    "year": "2023",
+    "license": "CC BY",
+    "label": "FIGURE 6",
+    "caption": "FA map comparison between HCs and patients with right insula glioma. STG.L, left superior temporal gyrus; SFG.L, left superior frontal gyrus; SOG.L, left superior occipital gyrus; RIGs, right insula gliomas; LFG, left front gyrus; LOG, left occipital gyrus; LTI, left temporal insula; ACC, anterior cingulate. We compared FA between HCs and patients with right temporal insula glioma in LFG (A), ACC (B), LTI (C), and LOG (D). Compared with HCs, RIGs group showed decreased FA in STG.L, ACC, and SFG.L, but increased in SOG.L.",
+    "href": "BRB3-13-e2969-g001.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-08-figure-6-brb3-13-e2969-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10175985.1/BRB3-13-e2969-g001.jpg?md5=0ead50def6863ea89a91b6edf8d33918"
+  },
+  {
+    "pmcid": "PMC10175985",
+    "article_title": "Structural alterations of the salience network in patients with insular glioma",
+    "journal": "Brain and Behavior",
+    "year": "2023",
+    "license": "CC BY",
+    "label": "FIGURE 1",
+    "caption": "FA network comparisons between HCs and patients. The left column: the dots on these coordinates represent 90 brain regions in the automated anatomical labeling (AAL) template. The dots in different locations in the matrix represent the structural connectivity between the two different brain regions identified by the horizontal axis and vertical axis. The colors of the dots represent structural connection strength, quantified by the values on the right of the color bar. The warm dot color with a positive value represents decreased structural connection between the two brain regions in the patient group, compared with the HCs group, while the cool dot color with a negative value represents increased structural connection. The right column: it represented the significant connections (edges) between brain regions (nodes) visualized by BrainNet Viewer (NKLCNL, Beijing Normal University), which is the visualization of the matrix of the left column (p < .05, FDR\u2010corrected). LIGs, left insula gliomas; RIGs, right insula gliomas. (A) FA network comparisons between HCs and LIGs. FA network decline mainly located in the insula, basal ganglia region, and anterior cingulate cortex (ACC) in LIGs group compared with HCs group (p < .05, FDR\u2010corrected). (B) FA network comparisons between HCs and RIGs. FA network decline mainly located in the insula, basal ganglia region, and ACC in RIGs group compared with HCs group (p < .05, FDR\u2010corrected).",
+    "href": "BRB3-13-e2969-g002.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-09-figure-1-brb3-13-e2969-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10175985.1/BRB3-13-e2969-g002.jpg?md5=4dbe3db25fb66b481bfa1c63dfbe9715"
+  },
+  {
+    "pmcid": "PMC10175985",
+    "article_title": "Structural alterations of the salience network in patients with insular glioma",
+    "journal": "Brain and Behavior",
+    "year": "2023",
+    "license": "CC BY",
+    "label": "FIGURE 5",
+    "caption": "FA map comparison between HCs and patients with left insula glioma. STG.R, right superior temporal gyrus; MTG.R, right middle temporal gyrus; ACC, anterior cingulate; SFG.R, right superior frontal gyrus; SOG.R, right superior occipital gyrus; LIGs, left insula gliomas; RFG, right front gyrus; RTI, right temporal insula; ACC, anterior cingulate; ROG, right occipital gyrus. We compared FA between HCs and patients with left temporal insula glioma in RFG (A), ACC (B), RTI (C), and ROG (D). Compared with HCs, LIGs group showed decreased FA in STG.R, MTG.R, ACC, SFG.R, and SOG.R.",
+    "href": "BRB3-13-e2969-g003.jpg",
+    "local": "figures/curated/case-prep-insular-glioma-resection/figure-10-figure-5-brb3-13-e2969-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10175985.1/BRB3-13-e2969-g003.jpg?md5=7e688aac0941b9a8508f2a364818e121"
+  }
+]

@@ -19,16 +19,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=myelomeningocele+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **MOMS** — prenatal vs postnatal myelomeningocele repair and hydrocephalus/motor outcomes. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
-- **Postnatal closure principles** — timing, infection prevention, Chiari II/hydrocephalus surveillance literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=myelomeningocele+postnatal+closure+timing+hydrocephalus+Chiari+II)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=myelomeningocele&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=myelomeningocele+repair) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (neural placode / dorsal closure)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Myelomeningocele** — Karsonovich T. 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31536302/)
+- **Update on prenatal diagnosis and fetal surgery for myelomeningocele** — Meller C. Archivos argentinos de pediatria 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34033426/)
+- **The Management of Myelomeningocele Study: full cohort 30-month pediatric outcomes** — Farmer DL. American journal of obstetrics and gynecology 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29246577/)
+- **Fetal myelomeningocele repair** — Yamashiro KJ. Seminars in pediatric surgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31451171/)
+- **Open myelomeningocele** — Hahn YS. Neurosurgery clinics of North America 1995. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7620350/)
+- **Myelomeningocele closure: A review and decision-making guidance** — Ghadban E. JPRAS open 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41280468/)
+- **Reflections upon the intrauterine repair of myelomeningocele** — Talamonti G. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38514517/)
+- **Myelomeningocele with Associated Anomalies – Case Report and Literature Review** — Kitov B. Folia medica 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32337935/)
+- **Fetal myelomeningocele repair: a narrative review of the history, current controversies and future directions** — Yamashiro KJ. Translational pediatrics 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34189108/)
+- **Hydrocephalus in myelomeningocele** — Cavalheiro S. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34435215/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Myelomeningocele Repair — Figure 1](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-01-figure-1-jmu-32-21-g001-jpg.jpg)
+*Figure 1. Classification of cervical myelomeningocele and meningocele. (a) Fibrovascular or neuroglial tissue protruding from the posterior surface of the spinal cord attached to the sac wall. (b)... Source: [Prenatal Diagnosis and Outcomes of Cervical Meningocele and Myelomeningocele](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040477/) — Journal of Medical Ultrasound 2024; CC BY-NC-SA.*
+
+![Myelomeningocele Repair — Figure 1](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-02-figure-1-fneur-13-861308-g0001-jpg.jpg)
+*Figure 1. Representative photographs of spinal cord in fetuses with lumbosacral myelomeningocele. (A) E16, neural tube closure failed, nerve tissue is exposed dorsally and protrudes above the skin... Source: [The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218472/) — Frontiers in Neurology 2022; CC BY.*
+
+![Myelomeningocele Repair — Figure 2](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-03-figure-2-fneur-13-861308-g0002-jpg.jpg)
+*Figure 2. Cell proliferation, apoptosis, and neuromuscular development-related protein changes in fetal rat bladder at E16–E22. (A) Expression of PCNA, cleaved caspase-3, NeuN, and a-SMA proteins... Source: [The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218472/) — Frontiers in Neurology 2022; CC BY.*
+
+![Myelomeningocele Repair — Figure 3](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-04-figure-3-fneur-13-861308-g0003-jpg.jpg)
+*Figure 3. Expression and distribution of bladder cleaved caspase-3 at E22. (A) The distribution of cleaved caspase-3 at E22. (B) The expression of cleaved caspase-3 in the bladder muscle layer was... Source: [The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218472/) — Frontiers in Neurology 2022; CC BY.*
+
+![Myelomeningocele Repair — Fig. 1](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-05-fig-1-gr1-jpg.jpg)
+*Fig. 1. Identification of DEGs in the GSE101141 GEO dataset. A Normalization of the GSE101141 dataset was performed using Log2 transformation: N, Control; C, myelomeningocele; B UMAP plot; C... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
+![Myelomeningocele Repair — Fig. 2](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-06-fig-2-gr2-jpg.jpg)
+*Fig. 2. Functional enrichment analysis of ferroptosis-related DEGs. A GO enrichment analysis of ferroptosis-related DEGs using SRplot: BP, biological process; CC, cellular component; MF,... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
+![Myelomeningocele Repair — Fig. 3](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-07-fig-3-gr3-jpg.jpg)
+*Fig. 3. Functional enrichment analysis of autophagy-related DEGs. A GO enrichment analysis of autophagy-related DEGs using DAVID and SRplot: BP, biological process; CC, cellular component; MF,... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
+![Myelomeningocele Repair — Fig. 4](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-08-fig-4-gr4-jpg.jpg)
+*Fig. 4. PPI analysis of ferroptosis- and autophagy-related DEGs. A and B PPI analysis of ferroptosis- and autophagy-related DEGs: orange, upregulated genes; blue, downregulated genes; C and D... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
+![Myelomeningocele Repair — Fig. 5](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-09-fig-5-gr5-jpg.jpg)
+*Fig. 5. Expression and function enrichment of candidate genes. A Expression of candidate genes from GSE101141; B and C GO and KEGG enrichment analyses of candidate genes using DAVID and SRplot:... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
+![Myelomeningocele Repair — Fig. 6](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-10-fig-6-gr6-jpg.jpg)
+*Fig. 6. Interaction network among miRNAs, TFs, and candidate genes. A Interaction network between candidate genes and targeted miRNAs: red, candidate genes; blue, miRNA; B Interaction network of... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebral+AVM+embolization+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **ARUBA context** — unruptured AVM intervention vs medical management; interpret carefully for surgical/endovascular selection. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=ARUBA+unruptured+brain+arteriovenous+malformation+Lancet+2014)
-- **Embolization strategy** — staged embolization, adjunctive preoperative embolization, and complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=brain+arteriovenous+malformation+embolization+preoperative+adjunct+complications)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20AVM%20embolization&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brain+AVM+dural+fistula+embolization) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Arteries of the base of the brain — cerebral vascular anatomy](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909, public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Transvenous embolization of brain arteriovenous malformations: a review of techniques, indications, and outcomes** — Chen CJ. Neurosurgical focus 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29961383/)
+- **Role of endovascular embolization for trigeminal neuralgia related to cerebral vascular malformation** — Ge H. Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27402800/)
+- **Cerebral abscess after neuro-vascular embolization: Own experience and review of the literature** — Cossu G. Acta neurochirurgica 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28116528/)
+- **Pediatric intracranial arteriovenous shunts: Advances in diagnosis and treatment** — Lv X. European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31996298/)
+- **Simulation of superselective catheterization for cerebrovascular lesions using a virtual injection software** — Sundararajan SH. CVIR endovascular 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34125300/)
+- **Clinical importance of the occipital artery in vascular lesions: A review of the literature** — Guo Y. The neuroradiology journal 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31188082/)
+- **Long-term angiographic results of endovascularly "cured" intracranial dural arteriovenous fistulas** — Ambekar S. Journal of neurosurgery 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26406789/)
+- **Radiation exposure in the endovascular therapy of cranial and spinal dural arteriovenous fistula in the last decade: a retrospective, single-center observational study** — Opitz M. Neuroradiology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34570252/)
+- **The impact of software-based metal artifact reduction on the liquid embolic agent Onyx in cone-beam CT: a systematic in vitro and in vivo study** — Schmitt N. Journal of neurointerventional surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34433643/)
+- **Treatment Strategy of a Patient With a Brain Arteriovenous Malformation and Cranial Dural Fistula: 2-Dimensional Operative Video** — Sattur MG. Operative neurosurgery (Hagerstown, Md.) 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30202995/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![AVM dAVF Endovascular Embolization — Figure 1](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-01-figure-1-gels-10-00312-g001-jpg.jpg)
+*Figure 1. Graphical representation of the chemical formula, macroscopic appearance and material for the injection of OnyxTMgel. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure 2](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-02-figure-2-gels-10-00312-g002-jpg.jpg)
+*Figure 2. Coil bare (a), coil endovascular application (b), hydrogel-coated coil (c) for embolisation. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure 3](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-03-figure-3-gels-10-00312-g003-jpg.jpg)
+*Figure 3. Chitosan hydrogel as embolic agent for embolisation process. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure A1](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-04-figure-a1-gels-10-00312-g0a1-jpg.jpg)
+*Figure A1. Pre-operative 3DMPR CT reconstruction. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure A1](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-05-figure-a1-gels-10-00312-g0a1-jpg.jpg)
+*Figure A1. Pre-operative 3DMPR CT reconstruction. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure A1](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-06-figure-a1-gels-10-00312-g0a1-jpg.jpg)
+*Figure A1. Pre-operative 3DMPR CT reconstruction. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure A1](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-07-figure-a1-gels-10-00312-g0a1-jpg.jpg)
+*Figure A1. Pre-operative 3DMPR CT reconstruction. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure A2](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-08-figure-a2-gels-10-00312-g0a2-jpg.jpg)
+*Figure A2. Intraoperative diagnostic angiography. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure A3](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-09-figure-a3-gels-10-00312-g0a3-jpg.jpg)
+*Figure A3. Angiographic control post-coil release. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+![AVM dAVF Endovascular Embolization — Figure A4](../../figures/curated/case-prep-avm-davf-endovascular-embolization/figure-10-figure-a4-gels-10-00312-g0a4-jpg.jpg)
+*Figure A4. Control CT scan with contrast medium at 30 days with evidence of coils on release and absence of AVM. Source: [OnyxTMGel or Coil versus Hydrogel as Embolic Agents in Endovascular Applications: Review of the Literature and Case Series](https://pmc.ncbi.nlm.nih.gov/articles/PMC11120993/) — Gels 2024; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

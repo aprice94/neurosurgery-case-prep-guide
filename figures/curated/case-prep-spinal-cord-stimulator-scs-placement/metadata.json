@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC9514589",
+    "article_title": "\ucc99\uc218 \uc790\uadf9\uae30 \uc0bd\uc785\uc220\uc744 \ubc1b\uc558\ub358 \ud658\uc790\uc5d0\uac8c \ub4dc\ubb3c\uac8c \uc0dd\uae34 \ud749\ucd94\ubd80 \uacbd\ub9c9\ub0b4 \ud45c\ud53c\uc591 \ub0ad\uc885: \uc99d\ub840 \ubcf4\uace0",
+    "journal": "Journal of the Korean Society of Radiology",
+    "year": "2022",
+    "license": "CC BY-NC",
+    "label": "Fig. 1",
+    "caption": "An intradural extramedullary epidermoid cyst formed at the T9 after spinal cord stimulator insertion in a 50-year-old female.A. The T2-weighted (TR/TE 3100/105) sagittal MRI image reveals no mass at the T9 level before spinal cord stimulator insertion.B. The tip of the spinal cord stimulator is located around the lower endplate of T10 on the T-spine AP view (arrow).C. Axial images of MRI at the T9 level show that the spinal cord (arrow) is severely compressed and shifted anterolaterally by the intradural extramedullary tumor (*).D. T2-weighted (TR/TE 3520/92) sagittal MRI image shows the heterogeneous high signal intensity of the mass (arrow). T1-weighted (TR/TE 721/11) sagittal image reveals slightly low and high signal intensities of the mass (arrow) compared to the spinal cord and cerebrospinal fluid, respectively. The Gd-enhanced fat-saturated T1-weighted (TR/TE 540/13) image displays no signal enhancement of the mass (arrow).E. Photomicrograph shows fibrous tissue lined by the stratified squamous epithelium containing keratinous materials (arrows).AP = anterior-posterior, Gd = gadolinium, H&E = hematoxylin and eosin, T1WI = T1-weighted image, T2WI = T2-weighted image, TE = echo time, TR = repetition time",
+    "href": "jksr-83-938-g001.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-01-fig-1-jksr-83-938-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9514589.1/jksr-83-938-g001.jpg?md5=457f8f03a865358aeaa71d7bb76f6e4c"
+  },
+  {
+    "pmcid": "PMC8778878",
+    "article_title": "A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "A fully implantable neural stimulation system. The neural stimulator consisting of an implantable pulse generator and stimulation electrodes are located outside of the vertebra and at the epidural part of the spinal cord, respectively. The external relay is attached on the skin to wirelessly transfer the power and data to the implanted neural stimulator.",
+    "href": "sensors-22-00501-g001.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-02-figure-1-sensors-22-00501-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8778878.1/sensors-22-00501-g001.jpg?md5=77d434e46ea6201034dac4aa8dc5c345"
+  },
+  {
+    "pmcid": "PMC8778878",
+    "article_title": "A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "(a) A block diagram of the neural stimulator and the external relay. The internal device receives power and data from the external relay through 2.5 MHz inductive link to generate a biphasic pulse. (b) Fabrication process of the designed neural stimulator. Microfabricated electrode/circuit layers are thermally laminated, laser machined, and electrical components are mounted before being packaged with customized LCP (liquid crystal polymer) lids. HT-LCP: high melting temperature LCP, LT-LCP: low melting temperature LCP.",
+    "href": "sensors-22-00501-g002.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-03-figure-2-sensors-22-00501-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8778878.1/sensors-22-00501-g002.jpg?md5=36f996cc24e1e1265df7bdb9bb497be6"
+  },
+  {
+    "pmcid": "PMC8778878",
+    "article_title": "A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "(a) Fabricated implantable neural stimulator; (b) Electrode part; (c) Circuit layer; and (d) coil layer in the package.",
+    "href": "sensors-22-00501-g003.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-04-figure-3-sensors-22-00501-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8778878.1/sensors-22-00501-g003.jpg?md5=362027fecd59120648df8c52b36fbf97"
+  },
+  {
+    "pmcid": "PMC8778878",
+    "article_title": "A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "Exemplar waveform of the wireless operation of spinal cord stimulator and its stimulation current pulse generation. The voltage measured across the (a) the transmitter coil and (b) the receiver coil; the output voltage at the (c) oscillator; and (d,e) stimulation generator ASIC.",
+    "href": "sensors-22-00501-g004.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-05-figure-4-sensors-22-00501-g004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8778878.1/sensors-22-00501-g004.jpg?md5=5783a207fa461faea0c6f5cfa2632405"
+  },
+  {
+    "pmcid": "PMC8778878",
+    "article_title": "A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 5",
+    "caption": "Electrochemical characterization of the stimulation electrodes array. (a) Electrochemical impedance spectroscopy (EIS) measurements as represented by the mean (black line) and the standard deviation (blue bar) of the (a) magnitude and the (b) phase angle of the impedance. The typical (c) cyclic voltammetry (CV).",
+    "href": "sensors-22-00501-g005.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-06-figure-5-sensors-22-00501-g005-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8778878.1/sensors-22-00501-g005.jpg?md5=f98f14b5b80e554e72f6903a5384c090"
+  },
+  {
+    "pmcid": "PMC8778878",
+    "article_title": "A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control",
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 6",
+    "caption": "(a) Surgical implantation of a neural stimulator in the rat model of neuropathic pain. (b) Photograph of the rat after surgery, and (c) confirmation of implantation using X-ray images. (d) Experimental setup for Von Frey test to determine thresholds of the flexion withdrawal reflex in response to mechanical stimulation of the left hind limb. (e) Verification of the spinal cord stimulation effect. Measured mechanical withdrawal threshold according to the stimulation intensity (* p < 0.05, *** p < 0.005).",
+    "href": "sensors-22-00501-g006.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-07-figure-6-sensors-22-00501-g006-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8778878.1/sensors-22-00501-g006.jpg?md5=f570ed22c1d84480f60be07056342639"
+  },
+  {
+    "pmcid": "PMC12190327",
+    "article_title": "Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation",
+    "journal": "Brain Sciences",
+    "year": "2025",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Spinal cord stimulation explained.",
+    "href": "brainsci-15-00616-g001.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-08-figure-1-brainsci-15-00616-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12190327.1/brainsci-15-00616-g001.jpg?md5=e3040be28b515dabcca3a828340d71fc"
+  },
+  {
+    "pmcid": "PMC12190327",
+    "article_title": "Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation",
+    "journal": "Brain Sciences",
+    "year": "2025",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Study timeline.",
+    "href": "brainsci-15-00616-g002.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-09-figure-2-brainsci-15-00616-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12190327.1/brainsci-15-00616-g002.jpg?md5=cd83c95856d34ab7b44c6f58a0d028bf"
+  },
+  {
+    "pmcid": "PMC12190327",
+    "article_title": "Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation",
+    "journal": "Brain Sciences",
+    "year": "2025",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Selection of the sample.",
+    "href": "brainsci-15-00616-g003.jpg",
+    "local": "figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-10-figure-3-brainsci-15-00616-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12190327.1/brainsci-15-00616-g003.jpg?md5=f7d811be91193151239578e81c8ba47b"
+  }
+]

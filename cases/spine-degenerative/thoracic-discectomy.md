@@ -23,26 +23,82 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=thoracic+disc+herniation+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Thoracic disc surgery** — approach selection for central/calcified vs lateral thoracic discs. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=thoracic+disc+herniation+surgical+approach+calcified+transpedicular+transthoracic)
-- **Calcified thoracic disc risk** — dural adherence, intradural extension, and neurologic complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=calcified+thoracic+disc+herniation+dural+tear+intradural+surgery)
-
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=thoracic%20disc%20herniation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=thoracic+discectomy+transpedicular) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (thoracic level — at risk in central/calcified discs)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-![Thoracic vertebra (superior view) — pedicle & canal](../../figures/spine/thoracic-vertebra-superior_gray90.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
 
-![Thoracic vertebra (lateral view) — body & rib facets](../../figures/spine/thoracic-vertebra-lateral_gray91.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Full Endoscopic Transforaminal Thoracic Discectomy Operative Technique** — Barber SM. Journal of visualized experiments : JoVE 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38284530/)
+- **Transforaminal endoscopic thoracic discectomy: surgical technique** — Telfeian AE. Journal of spine surgery (Hong Kong) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37435321/)
+- **Mini-open lateral retropleural thoracic discectomy approach** — Uribe JS. Neurosurgical focus: Video 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36284725/)
+- **Anterior Versus Posterior Thoracic Discectomy: A Systematic Review** — Hurley ET. Spine 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28422798/)
+- **Uniportal, Transforaminal Endoscopic Thoracic Discectomy: Review and Technical Note** — Lee SH. Neurospine 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37016850/)
+- **Percutaneous endoscopic thoracic discectomy** — Regan JJ. Neurosurgery clinics of North America 1996. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8835149/)
+- **Surgical efficacy of minimally invasive thoracic discectomy** — Elhadi AM. Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26206758/)
+- **Retropleural Thoracic Approach** — Wewel JT. Neurosurgery clinics of North America 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31739928/)
+- **Thoracic discectomy and plating** — Hsieh PC. Neurosurgical focus 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21456927/)
+- **Endoscopic Versus Traditional Thoracic Discectomy: A Multicenter Retrospective Case Series and Meta-Analysis** — Sofoluke N. Neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38899868/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Thoracic Discectomy — Figure 1](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-01-figure-1-medi-98-e17579-g001-jpg.jpg)
+*Figure 1. Preoperation magnetic resonance imaging revealed disc herniation on T11-12. Horizontal view (A and B) displayed secondary thoracic stenosis induced by herniated disc fragment; sagittal... Source: [Percutaneous endoscopic thoracic discectomy via posterolateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC6799733/) — Medicine 2019; CC BY.*
+
+![Thoracic Discectomy — Figure 2](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-02-figure-2-medi-98-e17579-g002-jpg.jpg)
+*Figure 2. Intraoperation C-arm fluoroscopy displayed the location of the reamer cannula. The LT view showed that the distal end of the reamer cannula was anchored upon the cortex of superior... Source: [Percutaneous endoscopic thoracic discectomy via posterolateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC6799733/) — Medicine 2019; CC BY.*
+
+![Thoracic Discectomy — Figure 3](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-03-figure-3-medi-98-e17579-g003-jpg.jpg)
+*Figure 3. Intraoperation endoscopic views. After identifying the facet joint (A, arrow), the reamer was operated manually to remove the corresponding part of superior articular process (B). When... Source: [Percutaneous endoscopic thoracic discectomy via posterolateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC6799733/) — Medicine 2019; CC BY.*
+
+![Thoracic Discectomy — Figure 4](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-04-figure-4-medi-98-e17579-g004-jpg.jpg)
+*Figure 4. Post-operation imaging revealed satisfying decompression on T11–12. Magnetic resonance imaging demonstrated restored spinal canal and postoperative change of the disc and laminar (A and... Source: [Percutaneous endoscopic thoracic discectomy via posterolateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC6799733/) — Medicine 2019; CC BY.*
+
+![Thoracic Discectomy — Fig. 1.](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-05-fig-1-ns-2346074-037f1-jpg.jpg)
+*Fig. 1.. A 72-year-old female with thoracic myelopathy. (A, B) Preoperative magnetic resonance imaging show right paracentral disc extrusion with spinal cord compression (the circle and arrow)... Source: [Uniportal, Transforaminal Endoscopic Thoracic Discectomy: Review and Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC10080421/) — Neurospine 2023; CC BY-NC.*
+
+![Thoracic Discectomy — Fig. 2.](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-06-fig-2-ns-2346074-037f2-jpg.jpg)
+*Fig. 2.. A 36-year-old female with thoracic myelopathy. The preoperative magnetic resonance imaging (MRI) (A) and computed tomography (B) show severe spinal cord compression and intramedullary... Source: [Uniportal, Transforaminal Endoscopic Thoracic Discectomy: Review and Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC10080421/) — Neurospine 2023; CC BY-NC.*
+
+![Thoracic Discectomy — Fig. 3.](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-07-fig-3-ns-2346074-037f3-jpg.jpg)
+*Fig. 3.. Axial magnetic resonance image demonstrates the location of portal (the entry of a discography needle) and access angle. The entry is located at around 5–8 cm from the midline, and the... Source: [Uniportal, Transforaminal Endoscopic Thoracic Discectomy: Review and Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC10080421/) — Neurospine 2023; CC BY-NC.*
+
+![Thoracic Discectomy — Fig. 4.](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-08-fig-4-ns-2346074-037f4-jpg.jpg)
+*Fig. 4.. The initial discography needle and guide wide should touch the posterolateral corner of the intervertebral disc (A, B) on fluoroscopic images. (C, D) The obturator and working cannula is... Source: [Uniportal, Transforaminal Endoscopic Thoracic Discectomy: Review and Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC10080421/) — Neurospine 2023; CC BY-NC.*
+
+![Thoracic Discectomy — Fig. 5.](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-09-fig-5-ns-2346074-037f5-jpg.jpg)
+*Fig. 5.. Computed tomography (CT) images demonstrate anatomical characteristics of the thoracic spine. (A) T10/11, T11/12 disc space is not covered by the corresponding rib heads (red arrows),... Source: [Uniportal, Transforaminal Endoscopic Thoracic Discectomy: Review and Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC10080421/) — Neurospine 2023; CC BY-NC.*
+
+![Thoracic Discectomy — Fig. 6.](../../figures/curated/case-prep-thoracic-discectomy-transpedicular-costotransversectomy-lateral-extracavitary-/figure-10-fig-6-ns-2346074-037f6-jpg.jpg)
+*Fig. 6.. Intraoperative pictures of sequential steps showing exposure of a right side T9/10 intervertebral foramen and intervertebral disc space. (A) After soft tissue removal, lateral aspect of... Source: [Uniportal, Transforaminal Endoscopic Thoracic Discectomy: Review and Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC10080421/) — Neurospine 2023; CC BY-NC.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

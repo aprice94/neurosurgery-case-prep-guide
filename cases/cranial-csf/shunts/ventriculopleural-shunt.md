@@ -22,15 +22,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=ventriculopleural+shunt+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=ventriculopleural%20shunt&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ventriculopleural+shunt) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
 
-![Ventricular system — lateral ventricle / frontal horn (proximal catheter target)](../../../figures/anatomy/ventricles_gray734.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Spontaneous Extrusion of Ventriculopleural Shunt Catheter Associated with Pleural Effusion** — Robles LA. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32298817/)
+- **Ventriculopleural shunt: Review of literature and novel ways to improve ventriculopleural shunt tolerance** — Wong T. Journal of the neurological sciences 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34242833/)
+- **Are ventriculopleural shunts the second option for treating hydrocephalus? A meta-analysis of 543 patients** — Brenner LBO. Clinical neurology and neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38981168/)
+- **Abdominal pseudocyst complicating ventriculoperitoneal shunt: A rare indication for ventriculopleural shunt conversion** — Shrestha N. Clinical case reports 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37692158/)
+- **Ultrasound-guided percutaneous ventriculopleural shunt placement: a minimally invasive technique** — Baro V. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31897630/)
+- **Ventriculopleural shunts in a pediatric population: a review of 170 consecutive patients** — Christian EA. Journal of neurosurgery. Pediatrics 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34388722/)
+- **Case series of ventriculopleural shunts in adults: a single-center experience** — Craven C. Journal of neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27392271/)
+- **Ventriculopleural shunts for hydrocephalus: a useful alternative** — Jones RF. Neurosurgery 1988. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3216974/)
+- **Cross-sectional imaging of thoracic and abdominal complications of cerebrospinal fluid shunt catheters** — Bolster F. Emergency radiology 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26610766/)
+- **Migration of the abdominal catheter of a ventriculoperitoneal shunt into the mouth: a rare presentation** — Low SW. The Malaysian journal of medical sciences : MJMS 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22135552/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Ventriculopleural Shunt Placement — Fig. 1](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-01-fig-1-13052-2018-480-fig1-html-jpg.jpg)
+*Fig. 1. Sagittal MR image shows marked ventricular dilatation in our patient affected by Pfeiffer syndrome Source: [Pleural effusion from intrathoracic migration of a ventriculo-peritoneal shunt catheter: pediatric case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC5870185/) — Italian Journal of Pediatrics 2018; CC BY.*
+
+![Ventriculopleural Shunt Placement — Fig. 2](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-02-fig-2-13052-2018-480-fig2-html-jpg.jpg)
+*Fig. 2. a Coronal plane of chest and abdomen CT scan demonstrating the dislocation of the distal end of VP shunt situated over the diaphragmatic cupola and within the pleural cavity. b Abdomen... Source: [Pleural effusion from intrathoracic migration of a ventriculo-peritoneal shunt catheter: pediatric case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC5870185/) — Italian Journal of Pediatrics 2018; CC BY.*
+
+![Ventriculopleural Shunt Placement — Fig. 3](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-03-fig-3-13052-2018-480-fig3-html-jpg.jpg)
+*Fig. 3. Factors contributing to CSF hydrothorax with or without intrathoracic VP migration Source: [Pleural effusion from intrathoracic migration of a ventriculo-peritoneal shunt catheter: pediatric case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC5870185/) — Italian Journal of Pediatrics 2018; CC BY.*
+
+![Ventriculopleural Shunt Placement — Fig. 1](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-04-fig-1-gr1-jpg.jpg)
+*Fig. 1. (A) Chest radiograph taken before thoracentesis demonstrating a large left-sided pleural effusion. (B) Post-thoracentesis chest radiograph demonstrating an air-fluid level over the left... Source: [Pleural cerebrospinal fluid shunting causing trapped lung: A respiratory physician's approach to management and prevention](https://pmc.ncbi.nlm.nih.gov/articles/PMC6199769/) — Respiratory Medicine Case Reports 2018; CC BY-NC-ND.*
+
+![Ventriculopleural Shunt Placement — Fig. 2](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-05-fig-2-gr2-jpg.jpg)
+*Fig. 2. (A) Post-thoracentesis computed tomography scan showing left hydropneumothorax, left lung collapse, and rightwards mediastinum shift. Source: [Pleural cerebrospinal fluid shunting causing trapped lung: A respiratory physician's approach to management and prevention](https://pmc.ncbi.nlm.nih.gov/articles/PMC6199769/) — Respiratory Medicine Case Reports 2018; CC BY-NC-ND.*
+
+![Ventriculopleural Shunt Placement — Figure 1](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-06-figure-1-atm-5-166-g001-jpg.jpg)
+*Figure 1. Chest X-ray of case 2 after the VPLS placement. Arrow shows the ventriculo-pleural shunt Source: [Pleural effusion following ventriculopleural shunt: Case reports and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2930656/) — Annals of Thoracic Medicine 2010; CC BY.*
+
+![Ventriculopleural Shunt Placement — Figure 2](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-07-figure-2-atm-5-166-g002-jpg.jpg)
+*Figure 2. Chest X-ray of the case 2. left-sided large pleural effusion after the VPLS. Source: [Pleural effusion following ventriculopleural shunt: Case reports and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2930656/) — Annals of Thoracic Medicine 2010; CC BY.*
+
+![Ventriculopleural Shunt Placement — Fig. 1](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-08-fig-1-381-2016-3120-fig1-html-jpg.jpg)
+*Fig. 1. Range of ages at which the primary VA shunt was inserted Source: [Ultrasound guided placement of the distal catheter in paediatric ventriculoatrial shunts—an appraisal of efficacy and complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC4947480/) — Child's Nervous System 2016; CC BY.*
+
+![Ventriculopleural Shunt Placement — Fig. 2](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-09-fig-2-381-2016-3120-fig2-html-jpg.jpg)
+*Fig. 2. Kaplan-Meier curve of shunt survival over time (in years) Source: [Ultrasound guided placement of the distal catheter in paediatric ventriculoatrial shunts—an appraisal of efficacy and complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC4947480/) — Child's Nervous System 2016; CC BY.*
+
+![Ventriculopleural Shunt Placement — Fig. 3](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-10-fig-3-381-2016-3120-fig3-html-jpg.jpg)
+*Fig. 3. Reasons for shunt failure Source: [Ultrasound guided placement of the distal catheter in paediatric ventriculoatrial shunts—an appraisal of efficacy and complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC4947480/) — Child's Nervous System 2016; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

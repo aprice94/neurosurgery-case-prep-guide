@@ -20,18 +20,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=chance+fracture+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **STASCIS** — early vs late decompression in acute spinal cord injury. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS / AO Spine** — classification-based operative decision frameworks for thoracolumbar and cervical trauma. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=TLICS+AO+Spine+classification+thoracolumbar+cervical+trauma)
-
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=chance%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=flexion+distraction+chance+fracture) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — thoracolumbar (posterior tension band)](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Internal fixation without fusion of a flexion-distraction injury in the lower cervical spine of a three-year-old** — Hooley E. The spine journal : official journal of the North American Spine Society 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16413448/)
+- **Anterior Surgical Fixation for Cervical Spine Flexion-Distraction Injuries** — Jack A. World neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28213193/)
+- **Management of flexion distraction injuries to the thoracolumbar spine** — Lopez AJ. Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26209922/)
+- **Flexion-distraction injury of the thoracolumbar spine** — Liu YJ. Injury 2003. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14636735/)
+- **Flexion-distraction injuries of the thoracolumbar spine: open fusion versus percutaneous pedicle screw fixation** — Grossbach AJ. Neurosurgical focus 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23905953/)
+- **Purely Ligamentous Flexion-Distraction Injury in a Five-Year-Old Child Treated with Surgical Management** — Schiedo RM. Cureus 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28473948/)
+- **Flexion-distraction injury of the L1 vertebra treated with short-segment posterior fixation and Optimesh** — Inamasu J. Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia 2008. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18068985/)
+- **Percutaneous lumbar pedicle fixation in young children with flexion-distraction injury-case report and operative technique** — Krafft PR. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32740674/)
+- **Temporary Monosegmental Fixation Using Multiaxial Percutaneous Pedicle Screws for Surgical Management of Bony Flexion-Distraction Injuries of the Thoracolumbar Spine: A Technical Note** — Kitamura K. Spine surgery and related research 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36561155/)
+- **Minimally invasive treatment of thoracolumbar flexion-distraction fracture** — Laghmouche N. Orthopaedics & traumatology, surgery & research : OTSR 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30792168/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Flexion-Distraction Injury Fixation — Fig. 4](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-01-fig-4-os-14-2119-g001-jpg.jpg)
+*Fig. 4. A 19‐year‐old male who presented with an AO Type B2 fracture at L1‐L2 and severe back pain. (A, B) CT scan of the lumbar spine showed an L2 fracture involving the vertebral body and... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
+![Flexion-Distraction Injury Fixation — Fig. 5](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-02-fig-5-os-14-2119-g002-jpg.jpg)
+*Fig. 5. A 64‐year‐old male with a T12 chance fracture (AO B2) caused by a fall from height. (A) Preoperative sagittal CT images show transosseous failure of the posterior column at T12 with an... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
+![Flexion-Distraction Injury Fixation — Fig. 6](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-03-fig-6-os-14-2119-g003-jpg.jpg)
+*Fig. 6. A 46‐year‐old female patient who had a fall from a height. She suffered a L1 B2 with L1 A3 fracture according to the AO Classification. (A) Sagittal CT scans show the flexion‐distraction... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
+![Flexion-Distraction Injury Fixation — Figure 4](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-04-figure-4-os-14-2119-g004-jpg.jpg)
+*Figure 4. Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthop Surg. 2022 Aug 5;14(9):2119–31. doi: 10.1111/os.13400; CC BY-NC-ND.*
+
+![Flexion-Distraction Injury Fixation — Fig. 1](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-05-fig-1-os-14-2119-g005-jpg.jpg)
+*Fig. 1. Classification of traumatic intervertebral disc lesions in B2 injuries: Photographs of discs showing (A) grade 0 (cranial), (B) grade 1 (cranial), (C) grade 2 (caudal), and (D) grade 3... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
+![Flexion-Distraction Injury Fixation — Fig. 2](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-06-fig-2-os-14-2119-g006-jpg.jpg)
+*Fig. 2. Radiological measurement using plain lateral radiography. AVBH = [2AVH0/(AVH1 + AVH2) × 100]. UIDH = (a1 + a2 + a3)/3, LIDH = (b1 + b2 + b3)/3. CA, Cobb angle; LK, Local kyphosis; AVBH,... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
+![Flexion-Distraction Injury Fixation — Fig. 7](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-07-fig-7-os-14-2119-g007-jpg.jpg)
+*Fig. 7. A 48‐year‐old male patient who had a vehicle accident. He suffered a L1‐L2 B2 with L2 A4 fracture according to the AO Classification. (A) Preoperative MRI showing abnormal shapes in the... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
+![Flexion-Distraction Injury Fixation — Fig. 3](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-08-fig-3-os-14-2119-g008-jpg.jpg)
+*Fig. 3. The flow chart of the study Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
+![Flexion-Distraction Injury Fixation — Fig. 2](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-09-fig-2-586-2010-1415-fig2-html-jpg.jpg)
+*Fig. 2. Three-phase validation process for fracture classification systems as proposed by Audigé et al. [7], reprinted with permission Source: [What should an ideal spinal injury classification system consist of? A methodological review and conceptual proposal for future classifications](https://pmc.ncbi.nlm.nih.gov/articles/PMC2989196/) — European Spine Journal 2010; CC BY-NC.*
+
+![Flexion-Distraction Injury Fixation — Figure 1](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-10-figure-1-1679-4508-eins-14-1-0067-gf01-jpg.jpg)
+*Figure 1. Sagittal computed tomography scan showing an enlargement of T11 and T12 spinous processes, which suggests a ligament injury Source: [Thoracolumbar Chance fracture during a professional female soccer game: case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4872921/) — Einstein 2016; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

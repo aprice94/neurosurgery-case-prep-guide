@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spondylodiscitis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **IDSA vertebral osteomyelitis guideline** — diagnosis, biopsy/culture, antibiotics, and surgical indications. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=IDSA+guideline+native+vertebral+osteomyelitis+2015)
-- **Spinal epidural abscess timing** — neurologic deficit, decompression timing, and outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+epidural+abscess+surgical+timing+neurologic+deficit+outcomes)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spondylodiscitis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+osteomyelitis+discitis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — disc & vertebral body (infection crosses the disc)](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Microbial etiology of vertebral osteomyelitis/discitis amid the opioid epidemic** — Ammerman SA. Journal of neurosurgery. Spine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38996396/)
+- **Posterior Fixation Without Debridement for Vertebral Body Osteomyelitis and Discitis: A 10-Year Retrospective Review** — Lindsay SE. International journal of spine surgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37586747/)
+- **Clinical prediction for surgical versus nonsurgical interventions in patients with vertebral osteomyelitis and discitis** — Lee J. Journal of spine surgery (Hong Kong) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38974494/)
+- **Vertebral Osteomyelitis, Discitis, and Epidural Abscess: A Rare Complication of Cardiobacterium Endocarditis** — Yadava SK. Journal of investigative medicine high impact case reports 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30397618/)
+- **Management Outcomes after Image-Guided Percutaneous Biopsy for Suspected Vertebral Osteomyelitis-Discitis** — Malik DG. AJNR. American journal of neuroradiology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39715673/)
+- **Preclinical models of vertebral osteomyelitis and associated infections: Current models and recommendations for study design** — Joyce K. JOR spine 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34337331/)
+- **Enterobacter cloacae as sole organism responsible for vertebral osteomyelitis/discitis and vertebral collapse in a patient with intravenous drug abuse** — Khine S. BMJ case reports 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37553172/)
+- **Management of Refractory Post-operative Osteomyelitis and Discitis: A Case Report** — DeLong CA. Cureus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38374846/)
+- **Case report: vertebral osteomyelitis/discitis as a complication of Capnocytophaga canimorsus bacteremia** — Nelson MJ. The Journal of emergency medicine 2008. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17976760/)
+- **Group B Streptococcus vertebral osteomyelitis-discitis in an immunocompetent adolescent** — Trehan I. The Pediatric infectious disease journal 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19483527/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Figure 1.](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-01-figure-1-10-1177-2324709618807504-fig1-jpg.jpg)
+*Figure 1.. Magnetic resonance imaging: Discitis/osteomyelitis at L4-L5 with preservation of vertebral body height but an extension of infection into the epidural space, as well as anteriorly and... Source: [Vertebral Osteomyelitis, Discitis, and Epidural Abscess: A Rare Complication of Cardiobacterium Endocarditis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6207954/) — Journal of Investigative Medicine High Impact Case Reports 2018; CC BY.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Figure 2.](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-02-figure-2-10-1177-2324709618807504-fig2-jpg.jpg)
+*Figure 2.. Gram staining of vertebral biopsy, gram-negative rods. Source: [Vertebral Osteomyelitis, Discitis, and Epidural Abscess: A Rare Complication of Cardiobacterium Endocarditis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6207954/) — Journal of Investigative Medicine High Impact Case Reports 2018; CC BY.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Figure 3](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-03-figure-3-10-1177-2324709618807504-img1-jpg.jpg)
+*Figure 3. Source: [Vertebral Osteomyelitis, Discitis, and Epidural Abscess: A Rare Complication of Cardiobacterium Endocarditis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6207954/) — J Investig Med High Impact Case Rep. 2018 Oct 28;6:2324709618807504. doi: 10.1177/2324709618807504; CC BY.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Fig. 1](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-04-fig-1-gr1-jpg.jpg)
+*Fig. 1. At time of admission- Contrast Enhanced Computed Tomography (CECT) pelvis-axial section showing hypo dense collection concerning for bilateral psoas abscess (as black arrow). Source: [A rare case of Streptococcus pyogenes vertebral osteomyelitis in a young, immunocompetent male](https://pmc.ncbi.nlm.nih.gov/articles/PMC12666441/) — IDCases 2025; CC BY-NC-ND.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Fig. 2](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-05-fig-2-gr2-jpg.jpg)
+*Fig. 2. Magnetic Resonance Imaging (MRI) lumbar spine with contrast –sagittal section revealing cortical erosions L3-L4 vertebral bodies with anterior epidural collection. Source: [A rare case of Streptococcus pyogenes vertebral osteomyelitis in a young, immunocompetent male](https://pmc.ncbi.nlm.nih.gov/articles/PMC12666441/) — IDCases 2025; CC BY-NC-ND.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Figure 2.](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-06-figure-2-ofac026-fig2-jpg.jpg)
+*Figure 2.. Patient biopsy findings in a subset of patients without blood cultures obtained. Abbreviations: -ve, negative; +ve, positive; HP, histopathology. Source: [Culture Yield in the Diagnosis of Native Vertebral Osteomyelitis: A Single Tertiary Center Retrospective Case Series With Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8860156/) — Open Forum Infectious Diseases 2022; CC BY-NC-ND.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Fig. 1](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-07-fig-1-12941-2021-419-fig1-html-jpg.jpg)
+*Fig. 1. Magnetic resonance imaging (MRI) of the lumbar spine demonstrating discitis and vertebral osteomyelitis. T1 post-contrast sagittal MRI demonstrating enhancement at the L3–4... Source: [An unusual case of Cardiobacterium valvarum causing aortic endograft infection and osteomyelitis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7916262/) — Annals of Clinical Microbiology and Antimicrobials 2021; CC BY.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Fig. 2](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-08-fig-2-12941-2021-419-fig2-html-jpg.jpg)
+*Fig. 2. Gram staining. Microscopic morphology in gram staining of blood culture after 96 h of aerobic incubation at 37 °C demonstrating bipolar-staining gram-negative bacilli. 16S ribosomal RNA... Source: [An unusual case of Cardiobacterium valvarum causing aortic endograft infection and osteomyelitis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7916262/) — Annals of Clinical Microbiology and Antimicrobials 2021; CC BY.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Fig. 3](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-09-fig-3-12941-2021-419-fig3-html-jpg.jpg)
+*Fig. 3. Positron emission tomography–computed tomography (PET/CT) of the chest. Hypermetabolic soft tissue (arrows) along the right lateral and anterior aspect of the ascending aortic endograft... Source: [An unusual case of Cardiobacterium valvarum causing aortic endograft infection and osteomyelitis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7916262/) — Annals of Clinical Microbiology and Antimicrobials 2021; CC BY.*
+
+![Vertebral Osteomyelitis Discitis Surgical Management — Figure 1](../../figures/curated/case-prep-vertebral-osteomyelitis-discitis-surgical-management/figure-10-figure-1-cureus-0016-00000052620-i01-jpg.jpg)
+*Figure 1. Pre-operative MRI Scan of Lumbar Spine, with Arrows Denoting L3/4 Disc HerniationPre-operative MRI demonstrating multilevel spondylosis and a focal disc herniation at L3-4. Source: [Management of Refractory Post-operative Osteomyelitis and Discitis: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10875402/) — Cureus 2024; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

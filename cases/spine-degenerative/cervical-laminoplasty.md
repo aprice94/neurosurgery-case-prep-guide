@@ -21,18 +21,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+laminoplasty+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **AOSpine CSM** — Fehlings MG et al. — guidelines & prospective outcomes for cervical spondylotic myelopathy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+AOSpine+cervical+spondylotic+myelopathy+guideline+outcomes)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
-
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20laminoplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=cervical+laminoplasty+open+door) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — cervical spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Cervical laminoplasty: indication, technique, complications** — Weinberg DS. Journal of spine surgery (Hong Kong) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32309667/)
+- **Cervical laminoplasty** — Steinmetz MP. The spine journal : official journal of the North American Spine Society 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17097547/)
+- **Laminoplasty for cervical myelopathy** — Ito M. Global spine journal 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24353967/)
+- **Cervical Laminoplasty: Indications, Surgical Considerations, and Clinical Outcomes** — Cho SK. The Journal of the American Academy of Orthopaedic Surgeons 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29521698/)
+- **Cervical Laminoplasty: The History and the Future** — Kurokawa R. Neurologia medico-chirurgica 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26119898/)
+- **Cervical laminoplasty versus laminectomy and fusion: An umbrella review of postoperative outcomes** — Jagtiani P. Neurosurgical review 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38062318/)
+- **Deformity Considerations in Cervical Laminoplasty: A Narrative Review** — Drain JP. Clinical spine surgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39056550/)
+- **Cervical laminoplasty: a critical review** — Ratliff JK. Journal of neurosurgery 2003. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12691377/)
+- **Cervical laminoplasty** — Mehdain H. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25371088/)
+- **Factors predicting loss of cervical lordosis following cervical laminoplasty: A critical review** — Alam I. Journal of craniovertebral junction & spine 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33100764/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Cervical Laminoplasty — Fig. 2](../../figures/curated/case-prep-cervical-laminoplasty/figure-01-fig-2-10-1055-s-0033-1357361-i1300015sr-2-jpg.jpg)
+*Fig. 2. Pre-op lateral radiograph. Source: [Comparative Effectiveness of Different Types of Cervical Laminoplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836957/) — Evidence-Based Spine-Care Journal 2013; open access.*
+
+![Cervical Laminoplasty — Fig. 3](../../figures/curated/case-prep-cervical-laminoplasty/figure-02-fig-3-10-1055-s-0033-1357361-i1300015sr-3-jpg.jpg)
+*Fig. 3. Pre-op magnetic resonance image sagittal view. Source: [Comparative Effectiveness of Different Types of Cervical Laminoplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836957/) — Evidence-Based Spine-Care Journal 2013; open access.*
+
+![Cervical Laminoplasty — Fig. 4](../../figures/curated/case-prep-cervical-laminoplasty/figure-03-fig-4-10-1055-s-0033-1357361-i1300015sr-4-jpg.jpg)
+*Fig. 4. Pre-op computed tomography sagittal view. Source: [Comparative Effectiveness of Different Types of Cervical Laminoplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836957/) — Evidence-Based Spine-Care Journal 2013; open access.*
+
+![Cervical Laminoplasty — Fig. 5](../../figures/curated/case-prep-cervical-laminoplasty/figure-04-fig-5-10-1055-s-0033-1357361-i1300015sr-5-jpg.jpg)
+*Fig. 5. Post-op lateral radiograph. Source: [Comparative Effectiveness of Different Types of Cervical Laminoplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836957/) — Evidence-Based Spine-Care Journal 2013; open access.*
+
+![Cervical Laminoplasty — Figure 5](../../figures/curated/case-prep-cervical-laminoplasty/figure-05-figure-5-10-1055-s-0033-1357361-i1300015sr-6-jpg.jpg)
+*Figure 5. Source: [Comparative Effectiveness of Different Types of Cervical Laminoplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836957/) — Evid Based Spine Care J. 2013 Oct;4(2):105–15. doi: 10.1055/s-0033-1357361; open access.*
+
+![Cervical Laminoplasty — Figure 6](../../figures/curated/case-prep-cervical-laminoplasty/figure-06-figure-6-10-1055-s-0033-1357361-i1300015sr-7-jpg.jpg)
+*Figure 6. Source: [Comparative Effectiveness of Different Types of Cervical Laminoplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC3836957/) — Evid Based Spine Care J. 2013 Oct;4(2):105–15. doi: 10.1055/s-0033-1357361; open access.*
+
+![Cervical Laminoplasty — Figure 1](../../figures/curated/case-prep-cervical-laminoplasty/figure-07-figure-1-f110054-1-jpg.jpg)
+*Figure 1. (A) The top view of unilateral open-door laminoplasty (Hirabayashi's method). Three laminae are lifted bilaterally. (B) The axial view of unilateral open-door laminoplasty. The lamina is... Source: [Laminoplasty for Cervical Myelopathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864408/) — Global Spine Journal 2012; open access.*
+
+![Cervical Laminoplasty — Figure 2](../../figures/curated/case-prep-cervical-laminoplasty/figure-08-figure-2-f110054-2-jpg.jpg)
+*Figure 2. (A) Bilateral open-door laminoplasty. The top view of Kurokawa's method. The spinous processes and laminae are split at the midline and opened. (B) A block of bone graft is placed... Source: [Laminoplasty for Cervical Myelopathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864408/) — Global Spine Journal 2012; open access.*
+
+![Cervical Laminoplasty — Figure 3](../../figures/curated/case-prep-cervical-laminoplasty/figure-09-figure-3-f110054-3-jpg.jpg)
+*Figure 3. (A) Muscle-preservation approach for cervical laminoplasty (Shiraishi's method). Divide the interspinalis muscles by a pair of nerve retractors. (B) Split the spinous processes with a... Source: [Laminoplasty for Cervical Myelopathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864408/) — Global Spine Journal 2012; open access.*
+
+![Cervical Laminoplasty — Figure 4](../../figures/curated/case-prep-cervical-laminoplasty/figure-10-figure-4-f110054-4-jpg.jpg)
+*Figure 4. (A) A preoperative sagittal computed tomography (CT) image of the cervical spine of a 62-year-old man shows cervical ossification of the posterior longitudinal ligament (OPLL) from C3 to... Source: [Laminoplasty for Cervical Myelopathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864408/) — Global Spine Journal 2012; open access.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

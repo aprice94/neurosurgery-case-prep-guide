@@ -23,16 +23,78 @@ The midline suboccipital craniotomy is the **workhorse posterior approach to the
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=posterior+fossa+tumor+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Telovelar / fourth-ventricle anatomy** — cerebellomedullary fissure route and vermis-sparing exposure literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=telovelar+approach+fourth+ventricle+cerebellomedullary+fissure+anatomy)
-- **Posterior fossa morbidity** — cerebellar mutism and lower cranial nerve risk literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+surgery+cerebellar+mutism+telovelar+approach)
-
 [Neurosurgical Atlas — Midline Suboccipital](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/midline-suboccipital-craniotomy) · [Rhoton posterior fossa anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+posterior+fossa+surgical+anatomy) · [Radiopaedia — posterior fossa](https://radiopaedia.org/search?q=posterior+fossa+tumor&scope=all) · [PubMed Central — suboccipital craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=suboccipital+craniotomy+posterior+fossa)
 
-![Interior base of skull — posterior fossa, foramen magnum, internal occipital protuberance, grooves for transverse and sigmoid sinuses](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons. The midline suboccipital window spans the posterior fossa between the transverse sinuses superiorly and the foramen magnum inferiorly; the internal occipital crest and protuberance (torcula) define the midline venous anatomy.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Telovelar surgical approach** — Ghali MGZ. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31807931/)
+- **Anatomical Step-by-Step Dissection of Midline Suboccipital Approaches to the Fourth Ventricle for Trainees: Surgical Anatomy of the Telovelar, Transvermian, and Superior Transvelar Routes, Surgical Principles, and Illustrative Cases** — Dang DD. Journal of neurological surgery. Part B, Skull base 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38449580/)
+- **The far-lateral approach for foramen magnum meningiomas** — Flores BC. Neurosurgical focus 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24289120/)
+- **Midline Suboccipital Unilateral Trans-Cerebellomedullary Fissure Approach for Clipping of Ruptured VA-PICA Aneurysm: Two-Dimensional Operative Video** — Matsuo S. World neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36739896/)
+- **Primary intraventricular schwannomas** — Oertel MF. Clinical neurology and neurosurgery 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19632768/)
+- **Lateral supracerebellar infratentorial approach for microsurgical resection of large midline pineal region tumors: techniques to expand the operative corridor** — Kulwin C. Journal of neurosurgery 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26275000/)
+- **A system of anatomical triangles defining dissection routes to brainstem cavernous malformations: definitions and application to a cohort of 183 patients** — Benner D. Journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36029260/)
+- **Microsurgical Treatment for a Ruptured Posterior Inferior Cerebellar Artery Aneurysm: A 3-Dimensional Surgical Video and Anatomic Landmarks Review** — Chang Mulato JE. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34856402/)
+- **Anatomic, qualitative, and quantitative evaluation of the variants of the infratentorial supracerebellar approach to the posteroinferior thalamus** — de Oliveira Manduca Palmiero H. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33098480/)
+- **A surgical technique to expand the operative corridor for supracerebellar infratentorial approaches: technical note** — Rey-Dios R. Acta neurochirurgica 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23982230/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Midline Suboccipital Craniotomy — Fig. 3](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-01-fig-3-701-2026-6831-fig3-html-jpg.jpg)
+*Fig. 3. “Rule of Three” concept and individualized approaches of MVD. The “Rule of Three” concept provided one practical framework for three tailored approaches for the three major neurovascular... Source: [Historical evolution of microvascular decompression after Jannetta’s establishment: Anatomical maps and physiological compasses—a narrative review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12999832/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+![Midline Suboccipital Craniotomy — Fig. 5](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-02-fig-5-701-2026-6831-fig5-html-jpg.jpg)
+*Fig. 5. Noncompressive transposition technique. Following Jannetta’s establishment of MVD, interposition was widely practiced; however, long-term outcomes reported from the late 1980s onward... Source: [Historical evolution of microvascular decompression after Jannetta’s establishment: Anatomical maps and physiological compasses—a narrative review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12999832/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+![Midline Suboccipital Craniotomy — FIGURE 1](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-03-figure-1-scs-34-0607-g001-jpg.jpg)
+*FIGURE 1. Midline suboccipital keyhole craniotomy for lesions of the fourth ventricle. (A) The skin incision was placed median extending from the line between the tips of the bilateral mastoid to... Source: [Microsurgical Management of Fourth Ventricle Lesions Via the Median Suboccipital Keyhole Telovelar Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9944752/) — The Journal of Craniofacial Surgery 2023; CC BY-NC-ND.*
+
+![Midline Suboccipital Craniotomy — FIGURE 2](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-04-figure-2-scs-34-0607-g002-jpg.jpg)
+*FIGURE 2. Preoperative and postoperative enhanced magnetic resonance imaging in a typical case. (A–C) Preoperative magnetic resonance imaging revealed a mass in the fourth ventricle with... Source: [Microsurgical Management of Fourth Ventricle Lesions Via the Median Suboccipital Keyhole Telovelar Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9944752/) — The Journal of Craniofacial Surgery 2023; CC BY-NC-ND.*
+
+![Midline Suboccipital Craniotomy — FIGURE 3](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-05-figure-3-scs-34-0607-g003-jpg.jpg)
+*FIGURE 3. Intraoperative photos of a typical case. (A) The bilateral cerebellar tonsils, uvula, and posterior inferior cerebellar artery (PICA) could be observed after opening and retraction of... Source: [Microsurgical Management of Fourth Ventricle Lesions Via the Median Suboccipital Keyhole Telovelar Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9944752/) — The Journal of Craniofacial Surgery 2023; CC BY-NC-ND.*
+
+![Midline Suboccipital Craniotomy — Fig. 1](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-06-fig-1-701-2020-4418-fig1-html-jpg.jpg)
+*Fig. 1. Main anatomic external landmarks of brainstem and cerebellum: a Midline sagittal view of the brainstem and cerebellum; b coronal view at the level of the middle cerebellar peduncles of... Source: [Medial-tonsillar telovelar approach for resection of a superior medullary velum cerebral cavernous malformation: anatomical and tractography study of the surgical approach and functional implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7886669/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Midline Suboccipital Craniotomy — Fig. 2](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-07-fig-2-701-2020-4418-fig2-html-jpg.jpg)
+*Fig. 2. Anatomy of the microsurgical approach to the superior medullary velum via a medial-tonsillar approach: a suboccipital surface of the cerebellum and posterior aspect of the medulla... Source: [Medial-tonsillar telovelar approach for resection of a superior medullary velum cerebral cavernous malformation: anatomical and tractography study of the surgical approach and functional implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7886669/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Midline Suboccipital Craniotomy — Fig. 2](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-08-fig-2-701-2026-6858-fig2-html-jpg.jpg)
+*Fig. 2. Early anatomical description of the far-lateral approach (FLA). Early anatomical and technical depictions of the FLA from the report by Heros [25], which was widely regarded as the first... Source: [History and evolution of the far-lateral approach in neurosurgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230306/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+![Midline Suboccipital Craniotomy — Fig. 3](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-09-fig-3-701-2026-6858-fig3-html-jpg.jpg)
+*Fig. 3. Variations in skin incision design for the far-lateral approach. A Photograph showing a right-sided U-shaped modified far lateral incision extending from just below the mastoid tip... Source: [History and evolution of the far-lateral approach in neurosurgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230306/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+![Midline Suboccipital Craniotomy — Fig. 4](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-10-fig-4-701-2026-6858-fig4-html-jpg.jpg)
+*Fig. 4. Variation in soft tissue and muscle dissection for the far-lateral approach. A Intraoperative photographs showing a layered, anatomically meticulous dissection technique, demonstrating... Source: [History and evolution of the far-lateral approach in neurosurgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230306/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -95,7 +157,6 @@ The midline suboccipital craniotomy is the **workhorse posterior approach to the
 
 ## Step-by-Step Technique
 
-📷 *[Atlas — midline suboccipital craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/midline-suboccipital-craniotomy)*
 
 ### Positioning
 - **Prone** is standard for most midline posterior fossa work: patient on a Wilson or Jackson frame, head in **Mayfield 3-pin fixation**, flexed (chin tucked, ~2 fingerbreadths chin-to-sternum) to open the cervicooccipital angle, and slightly elevated above the heart for venous drainage. Pins: two anterior (forehead bilaterally), one posterior (contralateral to dominant hand, low parietal).

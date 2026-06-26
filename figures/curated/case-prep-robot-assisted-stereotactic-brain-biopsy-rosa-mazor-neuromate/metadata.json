@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC5996011",
+    "article_title": "Robot-assisted stereotactic brain biopsy: systematic review and bibliometric analysis",
+    "journal": "Child's Nervous System",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Fig. 2",
+    "caption": "Graphs demonstrating a the number of overall publications per annum, b the number of patients reported undergoing robot-assisted biopsy per annum, and c the number of initial and refining publications per annum",
+    "href": "381_2018_3821_Fig2_HTML.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-01-fig-2-381-2018-3821-fig2-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5996011.1/381_2018_3821_Fig2_HTML.jpg?md5=ea1abb05c5638b31f7f2dffd1d11d976"
+  },
+  {
+    "pmcid": "PMC12830220",
+    "article_title": "Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience",
+    "journal": "Brain & Spine",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 1",
+    "caption": "Preoperative MRI.(a) Axial T1-weighted post-contrast image showing a bilateral frontal \u201cbutterfly\u201d lesion crossing the corpus callosum.(b) Coronal T2-weighted image demonstrating the infiltrative nature and extent of the lesion.",
+    "href": "gr1.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-02-fig-1-gr1-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12830220.1/gr1.jpg?md5=ce1b5ca60318f48ed25cd2620efd5f9c"
+  },
+  {
+    "pmcid": "PMC12830220",
+    "article_title": "Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience",
+    "journal": "Brain & Spine",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 2",
+    "caption": "Robotic planning of the stereotactic trajectory (ExcelsiusGPS).(a) CT-MRI fusion and 3D reconstruction showing a right frontal entry point providing the shortest safe, near-perpendicular corridor avoiding eloquent cortex and superficial vessels.(b) Target positioned within the most representative component of the lesion, defining a coaxial trajectory through a micro-burr hole of approximately 57.4 mm.",
+    "href": "gr2.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-03-fig-2-gr2-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12830220.1/gr2.jpg?md5=c22f5a929f75504944307e6e5ea4f531"
+  },
+  {
+    "pmcid": "PMC12830220",
+    "article_title": "Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience",
+    "journal": "Brain & Spine",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 3",
+    "caption": "Patient positioning for minimal-access robot-assisted stereotactic biopsy.(a) Supine positioning with the head fixed in a three-pin Mayfield skull clamp and slightly rotated to elevate the right frontal entry region, facilitating a near-perpendicular trajectory for the planned micro-burr hole and unobstructed optical tracking.(b) Close-up of the prepared entry area, with a small exposed field centered over the planned puncture site.",
+    "href": "gr3.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-04-fig-3-gr3-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12830220.1/gr3.jpg?md5=200327fc5fd156ef771a27fa3dbaec08"
+  },
+  {
+    "pmcid": "PMC12830220",
+    "article_title": "Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience",
+    "journal": "Brain & Spine",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 4",
+    "caption": "CT-to-fluoroscopy acquisition for ExcelsiusGPS registration.(a) Intraoperative setup with the C-arm positioned for orthogonal anteroposterior cranial fluoroscopy, with the dynamic reference base (DRB) in view.(b) Anteroposterior fluoroscopic image selected for registration, showing clear visualization of skull base bony landmarks.(c) C-arm positioned for true lateral cranial fluoroscopy while maintaining an unobstructed line-of-sight to the DRB.d) Lateral fluoroscopic image selected for registration, providing complementary landmarks for subsequent CT-to-fluoro \u201cMerge Images\u201d alignment.",
+    "href": "gr4.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-05-fig-4-gr4-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12830220.1/gr4.jpg?md5=515cbff86c9bafc1b6d306fabbf3a55c"
+  },
+  {
+    "pmcid": "PMC12830220",
+    "article_title": "Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience",
+    "journal": "Brain & Spine",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 5",
+    "caption": "\u201cMerge Images\u201d fusion verification (ExcelsiusGPS).CT-to-fluoroscopy \u201cMerge Images\u201d verification screen on the ExcelsiusGPS platform, showing alignment of skull base bony landmarks and a merge quality score of 10/10, confirming accurate image fusion.",
+    "href": "gr5.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-06-fig-5-gr5-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12830220.1/gr5.jpg?md5=1f2107a153c594372f88eb2a468baa1d"
+  },
+  {
+    "pmcid": "PMC12830220",
+    "article_title": "Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience",
+    "journal": "Brain & Spine",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 6",
+    "caption": "Sterile setup and robotic docking for minimal-access biopsy.(a) Standard sterile surgical field exposing only the planned entry site and the sterile dynamic reference base (DRB), limiting the cranial exposure while preserving optimal tracking.(b) ExcelsiusGPS robotic arm fully draped with the sterile end-effector mounted and navigation instruments verified, ready to automatically align with the planned trajectory.",
+    "href": "gr6.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-07-fig-6-gr6-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12830220.1/gr6.jpg?md5=f2845659bbd0cb76300ebb734c8aabb3"
+  },
+  {
+    "pmcid": "PMC12830220",
+    "article_title": "Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience",
+    "journal": "Brain & Spine",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 7",
+    "caption": "Micro-burr hole creation through a punctiform scalp opening and navigation-guided biopsy.(a) A 2.7 mm drill advanced through the sterile end-effector under ExcelsiusGPS guidance, perpendicular to the calvarial surface, creating a micro-burr hole through a punctiform scalp opening, avoiding a conventional linear incision.(b) A 2.1 mm stereotactic biopsy needle introduced through the same aligned end-effector and micro-burr hole corridor, advancing under continuous real-time navigation towards the planned target.",
+    "href": "gr7.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-08-fig-7-gr7-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12830220.1/gr7.jpg?md5=651088121810d395d47ee4b08fbf423c"
+  },
+  {
+    "pmcid": "PMC12830220",
+    "article_title": "Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience",
+    "journal": "Brain & Spine",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 8",
+    "caption": "Postoperative wound appearance, micro-burr hole visualization, and radiological control.(a) Immediate postoperative view showing a single pinpoint entry site of only a few millimeters, without a conventional scalp incision.(b) Final aspect of the minimal-access robot-assisted biopsy, showing a single fine suture and no visible linear incision.(c) 3D CT reconstruction revealing the 2.7 mm micro-burr hole on the right frontal bone, barely visible on the skull surface.(d) Axial postoperative CT scan confirming correct biopsy trajectory and absence of significant hemorrhage or mass effect.",
+    "href": "gr8.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-09-fig-8-gr8-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12830220.1/gr8.jpg?md5=b8a042b605473a5a559af67067f21154"
+  },
+  {
+    "pmcid": "PMC13224175",
+    "article_title": "Robot-assisted frameless brain biopsy with computed tomography-to-fluoroscopy registration: Step-by-step surgical video",
+    "journal": "Surg Neurol Int. 2026 May 15;17:284. doi: 10.25259/SNI_158_2026",
+    "year": "",
+    "license": "CC BY-NC-SA",
+    "label": "Figure 10",
+    "caption": "",
+    "href": "SNI-17-284-inline001.jpg",
+    "local": "figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-10-figure-10-sni-17-284-inline001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13224175.1/SNI-17-284-inline001.jpg?md5=c9be54c31fcef6a1f5bbfe8586af28d8"
+  }
+]

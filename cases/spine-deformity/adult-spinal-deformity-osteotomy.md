@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=adult+spinal+deformity+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SRS-Schwab classification** — sagittal modifiers and adult spinal deformity outcome correlation. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=SRS+Schwab+adult+spinal+deformity+classification+sagittal+modifiers)
-- **Deformity surgery risk** — complications, frailty, alignment targets, and revision literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=adult+spinal+deformity+surgery+complications+frailty+alignment+targets)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=adult%20spinal%20deformity&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pedicle+subtraction+osteotomy+deformity) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — sagittal alignment / osteotomy levels](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Adult spinal deformity correction surgery using age-adjusted alignment thresholds: clinical outcomes and mechanical complication rates. A systematic review of the literature** — Quarto E. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37740115/)
+- **A systematic review of pseudarthrosis and reoperation rates in minimally invasive adult spinal deformity correction** — Kalavacherla S. World neurosurgery: X 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38444873/)
+- **A guide to selecting upper thoracic versus lower thoracic uppermost instrumented vertebra in adult spinal deformity correction** — Kumar RP. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38522054/)
+- **Editorial. Toward sustainable adult spinal deformity correction surgery** — Rabah NM. Journal of neurosurgery. Spine 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41719542/)
+- **Patient Expectations of Adult Spinal Deformity Correction Surgery** — Ryu WHA. World neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33212277/)
+- **Adult Spinal Deformity Correction in Patients with Parkinson Disease: Assessment of Surgical Complications, Reoperation, and Cost** — Berreta RS. World neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37480985/)
+- **Instrumentation techniques to prevent proximal junctional kyphosis and proximal junctional failure in adult spinal deformity correction-a systematic review of biomechanical studies** — Doodkorte RJP. The spine journal : official journal of the North American Spine Society 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33482379/)
+- **Adult Spinal Deformity Correction with Multi-level Anterior Column Releases: Description of a New Surgical Technique and Literature Review** — Demirkiran G. Clinical spine surgery 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27044020/)
+- **Medical complications following adult spinal deformity correction in patients with autoimmune disease** — Madelar RTR. Journal of neurosurgery. Spine 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37029670/)
+- **Minimally invasive surgical techniques in adult degenerative spinal deformity: a systematic review** — Bach K. Clinical orthopaedics and related research 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24488750/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Adult Spinal Deformity Correction — Figure 1.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-01-figure-1-10-1177-2192568218761032-fig1-jpg.jpg)
+*Figure 1.. Preoperative and postoperative lateral radiographs of a patient from the HYB group who underwent T9-S1/pelvis reconstruction and incurred PJK. Source: [Early and Late Reoperation Rates With Various MIS Techniques for Adult Spinal Deformity Correction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6362559/) — Global Spine Journal 2018; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 2.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-02-figure-2-10-1177-2192568218761032-fig2-jpg.jpg)
+*Figure 2.. Preoperative and postoperative PA and lateral radiographs of a patient corrected with cMIS and demonstrating lucency of the S1 screws and possible pseudarthrosis at L5-S1. Source: [Early and Late Reoperation Rates With Various MIS Techniques for Adult Spinal Deformity Correction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6362559/) — Global Spine Journal 2018; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 1.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-03-figure-1-10-1177-2192568217699187-fig1-jpg.jpg)
+*Figure 1.. Representative standing, lateral radiographs taken preoperatively (top row) and postoperatively (bottom row). (A) Patient in group 1 (negative), with a postoperative sagittal vertical... Source: [Negative Sagittal Balance Following Adult Spinal Deformity Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC5898670/) — Global Spine Journal 2017; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 1.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-04-figure-1-2432-261x-9-4-0477-g001-jpg.jpg)
+*Figure 1.. Three-dimensional images of enhanced computed tomography of the celiac artery (CA), superior mesenteric artery, and aorta (A). Reconstructed long-axis view of enhanced computed... Source: [Quantitative Assessment of Celiac and Superior Mesenteric Artery Diameters in Adult Spinal Deformity Surgery Using Three-dimensional Computed Tomography](https://pmc.ncbi.nlm.nih.gov/articles/PMC12330376/) — Spine Surgery and Related Research 2024; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 2.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-05-figure-2-2432-261x-9-4-0477-g002-jpg.jpg)
+*Figure 2.. Reconstructed sagittal (A, C) and axial (B, D) enhanced computed tomography images showing the median arcuate ligament (MAL) and the celiac artery. The MAL exists superior to the celiac... Source: [Quantitative Assessment of Celiac and Superior Mesenteric Artery Diameters in Adult Spinal Deformity Surgery Using Three-dimensional Computed Tomography](https://pmc.ncbi.nlm.nih.gov/articles/PMC12330376/) — Spine Surgery and Related Research 2024; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 3.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-06-figure-3-2432-261x-9-4-0477-g003-jpg.jpg)
+*Figure 3.. Sagittal reconstructed enhanced computed tomography images showing the MAL and CA levels (line circles). The distance between the MAL and CA (DMC) was defined as the differences in... Source: [Quantitative Assessment of Celiac and Superior Mesenteric Artery Diameters in Adult Spinal Deformity Surgery Using Three-dimensional Computed Tomography](https://pmc.ncbi.nlm.nih.gov/articles/PMC12330376/) — Spine Surgery and Related Research 2024; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 4.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-07-figure-4-2432-261x-9-4-0477-g004-jpg.jpg)
+*Figure 4.. Sagittal reconstructed enhanced computed tomography images of the MAL and vertebra. The distance between the MAL and a vertebra (DMV) was defined as the shortest distance between the MAL... Source: [Quantitative Assessment of Celiac and Superior Mesenteric Artery Diameters in Adult Spinal Deformity Surgery Using Three-dimensional Computed Tomography](https://pmc.ncbi.nlm.nih.gov/articles/PMC12330376/) — Spine Surgery and Related Research 2024; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 5.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-08-figure-5-2432-261x-9-4-0477-g005-jpg.jpg)
+*Figure 5.. Preoperative (A) and postoperative (B) radiographs. Preoperative (C) and postoperative (D) sagittal reconstructed enhanced computed tomography images. The distance between the MAL and... Source: [Quantitative Assessment of Celiac and Superior Mesenteric Artery Diameters in Adult Spinal Deformity Surgery Using Three-dimensional Computed Tomography](https://pmc.ncbi.nlm.nih.gov/articles/PMC12330376/) — Spine Surgery and Related Research 2024; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 6.](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-09-figure-6-2432-261x-9-4-0477-g006-jpg.jpg)
+*Figure 6.. Preoperative (A) and postoperative (B) illustrations of the distance between the MAL and vertebra (DMV, black dotted arrow). Reduced DMV due to thoracolumbar kyphosis correction causes... Source: [Quantitative Assessment of Celiac and Superior Mesenteric Artery Diameters in Adult Spinal Deformity Surgery Using Three-dimensional Computed Tomography](https://pmc.ncbi.nlm.nih.gov/articles/PMC12330376/) — Spine Surgery and Related Research 2024; CC BY-NC-ND.*
+
+![Adult Spinal Deformity Correction — Figure 1](../../figures/curated/case-prep-adult-spinal-deformity-correction-with-osteotomy-spo-pso-vcr/figure-10-figure-1-jcm-15-02913-g001-jpg.jpg)
+*Figure 1. (a) Preoperative images of a patient with sagittal malalignment; (b) postoperative images showing expandable LLIF cages at L1–4, 3D-printed ALIF spacers at L4–S1 and robot-assisted... Source: [Minimally Invasive Robotic-Assisted Complex Adult Spinal Deformity Correction in a Surgical Specialty Hospital: Bringing Adult Spinal Deformity Care Closer to Home](https://pmc.ncbi.nlm.nih.gov/articles/PMC13116422/) — Journal of Clinical Medicine 2026; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

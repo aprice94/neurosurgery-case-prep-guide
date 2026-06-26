@@ -35,4 +35,4 @@ tags:
 
 ---
 
-[🏠 All categories & guides](../../) 
+[🏠 All categories & guides](../../)

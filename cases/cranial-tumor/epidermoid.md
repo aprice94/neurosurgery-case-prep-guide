@@ -22,18 +22,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=intracranial+epidermoid+cyst+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **CPA/intracranial epidermoid surgery** — extent of capsule removal vs cranial-nerve morbidity literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=intracranial+epidermoid+tumor+resection+capsule+cranial+nerve+outcomes)
-- **Diffusion MRI diagnosis** — imaging features and recurrence surveillance literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=intracranial+epidermoid+diffusion+weighted+imaging+recurrence)
-
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=intracranial%20epidermoid%20cyst&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intracranial+epidermoid+cyst) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull — cerebellopontine angle / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Spinal Epidermoid Tumor: A Case Report** — Yunga Tigre J. Cureus 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37090333/)
+- **Thoracic Intradural-Extramedullary Epidermoid Tumor: The Relevance for Resection of Classic Subarachnoid Space Microsurgical Anatomy in Modern Spinal Surgery. Technical Note and Review of the Literature** — Barbagallo GMV. World neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28843754/)
+- **Removal of a thoracic intramedullary epidermoid tumor in a child** — Costanzo MD. Neurosurgical focus: Video 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37859944/)
+- **Microsurgical Resection of the Epidermoid Tumor in the Cerebellopontine Angle** — Pojskić M. Journal of neurological surgery. Part B, Skull base 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143616/)
+- **Optimal Surgical Resection of Intracranial Epidermoid Tumor: A Tailored Approach** — Javadi SA. Asian journal of neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34660352/)
+- **Management of intracranial epidermoid tumor** — Joob B. Asian journal of neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28484571/)
+- **Malignant squamous degeneration of a cerebellopontine angle epidermoid tumor. Case report** — Link MJ. Journal of neurosurgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12450053/)
+- **Intraspinal epidermoid tumor of the cauda equina region: seven cases and a review of the literature** — Morita M. Journal of spinal disorders & techniques 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21602727/)
+- **Intracerebral epidermoid tumor: a case report and review of the literature** — Iaconetta G. Surgical neurology 2001. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11358593/)
+- **Coexistence of intracranial epidermoid tumor and multiple cerebral aneurysms: A case report and literature review** — Yao PS. Medicine 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28151901/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Epidermoid Tumor Resection — Figure 1](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-01-figure-1-medi-96-e6012-g001-jpg.jpg)
+*Figure 1. Brain CT and MRI examinations showed a hypointense lesion in the right parasellar and petrous apex region (A–F). DSA and 3D-DSA images demonstrated an right saccular aneurysm (arrow)... Source: [Coexistence of intracranial epidermoid tumor and multiple cerebral aneurysms](https://pmc.ncbi.nlm.nih.gov/articles/PMC5293464/) — Medicine 2017; CC BY-ND.*
+
+![Epidermoid Tumor Resection — Figure 2](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-02-figure-2-medi-96-e6012-g002-jpg.jpg)
+*Figure 2. Source: [Coexistence of intracranial epidermoid tumor and multiple cerebral aneurysms: A case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5293464/) — Medicine (Baltimore). 2017 Feb 3;96(5):e6012. doi: 10.1097/MD.0000000000006012; CC BY-ND.*
+
+![Epidermoid Tumor Resection — Figure 2](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-03-figure-2-medi-96-e6012-g003-jpg.jpg)
+*Figure 2. (A) Illustration demonstrating the relative position between the epidermoid tumor and the aneurysm in CT image from the paper “Sakaki S, Matsuo Y, Kuwabara H, et al. Rupture of an... Source: [Coexistence of intracranial epidermoid tumor and multiple cerebral aneurysms](https://pmc.ncbi.nlm.nih.gov/articles/PMC5293464/) — Medicine 2017; CC BY-ND.*
+
+![Epidermoid Tumor Resection — Figure 1](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-04-figure-1-ajns-10-338-g001-jpg.jpg)
+*Figure 1. Noncontrast computed tomography head showing bifrontal comminuted depressed fracture with underlying extradural hematoma and subdural hematoma (L>R), multiple tiny contusions and... Source: [Incidental frontal lobe mixed density epidermoid tumor in a patient of head injury: A rare case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4558818/) — Asian Journal of Neurosurgery 2015; CC BY-NC-SA.*
+
+![Epidermoid Tumor Resection — Figure 2](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-05-figure-2-ajns-10-338-g002-jpg.jpg)
+*Figure 2. (a) Perioperative picture after durotomy showing right frontal epidermoid tumor which was adhered to overlying dura. (b) Tumor was dissected out of surrounding brain parenchyma. (c)... Source: [Incidental frontal lobe mixed density epidermoid tumor in a patient of head injury: A rare case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4558818/) — Asian Journal of Neurosurgery 2015; CC BY-NC-SA.*
+
+![Epidermoid Tumor Resection — Figure 3](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-06-figure-3-ajns-10-338-g003-jpg.jpg)
+*Figure 3. Photomicrograph showing epidermoid cyst lined by keratinized stratified squamous epithelium (H and E, ×100) Source: [Incidental frontal lobe mixed density epidermoid tumor in a patient of head injury: A rare case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4558818/) — Asian Journal of Neurosurgery 2015; CC BY-NC-SA.*
+
+![Epidermoid Tumor Resection — Figure 1](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-07-figure-1-ijhs-16-85-g001-jpg.jpg)
+*Figure 1. Pre-operative magnetic resonance imaging Axial T1W image showing hypointense extra axial lesion with mass effect on the underlying parenchyma in the left frontal region (a). Coronal T1W... Source: [An atypical case of giant intradiploic epidermoid tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC9441647/) — International Journal of Health Sciences 2022; CC BY-NC-SA.*
+
+![Epidermoid Tumor Resection — Figure 2](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-08-figure-2-ijhs-16-85-g002-jpg.jpg)
+*Figure 2. NCCT demonstrates a mixed density lesion in the left frontal region causing compression of the underlying parenchyma (a). Post-operative NCCT brain illustrated no residual tumor and... Source: [An atypical case of giant intradiploic epidermoid tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC9441647/) — International Journal of Health Sciences 2022; CC BY-NC-SA.*
+
+![Epidermoid Tumor Resection — Figure 3](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-09-figure-3-ijhs-16-85-g003-jpg.jpg)
+*Figure 3. Intraoperative findings-epidermoid with thin capsule, invading the bone (a). Skull bone with areas of erosion (b). Pearly white epidermoid tumor being excised (c). Total excision of the... Source: [An atypical case of giant intradiploic epidermoid tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC9441647/) — International Journal of Health Sciences 2022; CC BY-NC-SA.*
+
+![Epidermoid Tumor Resection — Figure 4](../../figures/curated/case-prep-epidermoid-tumor-resection/figure-10-figure-4-ijhs-16-85-g004-jpg.jpg)
+*Figure 4. H and E section ×10 magnification (a) and ×40 magnification (b) showing epidermoid inclusion cyst lined by stratified squamous epithelium and cyst is filled with keratin flakes. (c and... Source: [An atypical case of giant intradiploic epidermoid tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC9441647/) — International Journal of Health Sciences 2022; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

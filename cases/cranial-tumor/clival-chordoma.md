@@ -23,18 +23,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=clival+chordoma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Chordoma consensus/guidelines** — maximal safe resection and high-dose particle/photon radiotherapy principles. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=clival+chordoma+consensus+guideline+surgery+radiotherapy)
-- **Endoscopic endonasal clival chordoma** — approach outcomes and recurrence literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=endoscopic+endonasal+clival+chordoma+outcomes)
-
 > 🧭 **Operative approach:** [Endoscopic endonasal approach](../approaches/endoscopic-endonasal-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=clival%20chordoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=clival+chordoma+endoscopic) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull — clivus](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Clival Chordoma: Case Report and Review of Recent Developments in Surgical and Adjuvant Treatments** — Khawaja AM. Polish journal of radiology 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29662593/)
+- **Proton beam therapy for clival chordoma: Optimising rare cancer treatments in Australia** — Mathew A. Journal of medical radiation sciences 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38501158/)
+- **Clival Chordoma: Endoscopic Bilateral Transmaxillary Approach** — Youssef AS. Journal of neurological surgery. Part B, Skull base 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31750067/)
+- **Cytodiagnosis of Clival Chordoma** — Giri R. Journal of cytology 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37745806/)
+- **Clival chordoma** — Tarshis LM. The Journal of otolaryngology 1976. [PubMed](https://pubmed.ncbi.nlm.nih.gov/933253/)
+- **Clival chordoma: a single-centre outcome analysis** — Jägersberg M. Acta neurochirurgica 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28478512/)
+- **Clival chordoma with drop metastases** — Nor FEM. Journal of radiology case reports 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29875988/)
+- **Surgical Outcomes of Clival Chordoma Through Endoscopic Endonasal Approach: A Single-Center Experience** — Chen G. Frontiers in endocrinology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35464053/)
+- **Fractionated Radiotherapy After Gross Total Resection of Clival Chordoma: A Systematic Review of Survival Outcomes** — Gendreau JL. Neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36826997/)
+- **An unusual presentation of clival chordoma: a case report and review of the literature** — Andijani M. British journal of neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226887/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Clival Chordoma Resection — Figure 1](../../figures/curated/case-prep-clival-chordoma-resection/figure-01-figure-1-41598-2020-79894-fig1-html-jpg.jpg)
+*Figure 1. Comparison of ADC values between stable and aggressive chordoma (10–6 mm2/s). There were significant differences between groups in (a) maximum ADC (P = 0.012), (b) mean ADC (P < 0.001),... Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
+
+![Clival Chordoma Resection — Figure 2](../../figures/curated/case-prep-clival-chordoma-resection/figure-02-figure-2-41598-2020-79894-fig2-html-jpg.jpg)
+*Figure 2. ROC curves for ADC values differentiating aggressive chordoma from stable chordoma. Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
+
+![Clival Chordoma Resection — Figure 3](../../figures/curated/case-prep-clival-chordoma-resection/figure-03-figure-3-41598-2020-79894-fig3-html-jpg.jpg)
+*Figure 3. Kaplan–Meier curves using log-rank tests for overall survival and progression-free survival: (a) PFS according to extent of tumor resection; (b) PFS according to maximum ADC values; (c)... Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
+
+![Clival Chordoma Resection — Figure 4](../../figures/curated/case-prep-clival-chordoma-resection/figure-04-figure-4-41598-2020-79894-fig4-html-jpg.jpg)
+*Figure 4. A 37-year-old man was diagnosed with classic chordoma and placed in the aggressive group. (a) Preoperative contrast enhanced T1-weighted imaging showed a tumor compressing the brainstem.... Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
+
+![Clival Chordoma Resection — Figure 5](../../figures/curated/case-prep-clival-chordoma-resection/figure-05-figure-5-41598-2020-79894-fig5-html-jpg.jpg)
+*Figure 5. A 36-year-old man diagnosed with classic chordoma and placed in the stable group. (a) Preoperative T2-weighted imaging showed a T2 high signal mass arising from the clivus. (b) The ROI... Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
+
+![Clival Chordoma Resection — Fig. 1](../../figures/curated/case-prep-clival-chordoma-resection/figure-06-fig-1-gr1-jpg.jpg)
+*Fig. 1. A. T2-weighted MRI, axial view. The arrow shows hyperintense Clival lesion located 3 mm from the anterior end of the clivus, the mass can be seen compressing the left internal carotid... Source: [Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10943967/) — International Journal of Surgery Case Reports 2024; CC BY.*
+
+![Clival Chordoma Resection — Fig. 2](../../figures/curated/case-prep-clival-chordoma-resection/figure-07-fig-2-gr2-jpg.jpg)
+*Fig. 2. T2-weighted MRI, axial view. Signs of surgical intervention on the clivus are noted. The arrow shows residual tumor. (post-operative MRI). Source: [Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10943967/) — International Journal of Surgery Case Reports 2024; CC BY.*
+
+![Clival Chordoma Resection — Fig. 3](../../figures/curated/case-prep-clival-chordoma-resection/figure-08-fig-3-gr3-jpg.jpg)
+*Fig. 3. A. Chordoma (H&E 100×). Prominent myxoid background containing small columns or clusters of bubbly physalipharous cells. B. Chordoma (H&E 400×). Occasional cells with irregular or... Source: [Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10943967/) — International Journal of Surgery Case Reports 2024; CC BY.*
+
+![Clival Chordoma Resection — Fig. 4](../../figures/curated/case-prep-clival-chordoma-resection/figure-09-fig-4-gr4-jpg.jpg)
+*Fig. 4. A. Chordoma, Immunohistochemical staining. Arrows show positivity for cytokeratin (CK). B. Chordoma, Immunohistochemical staining. The arrow shows positivity for epithelial membrane... Source: [Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10943967/) — International Journal of Surgery Case Reports 2024; CC BY.*
+
+![Clival Chordoma Resection — Figure 1](../../figures/curated/case-prep-clival-chordoma-resection/figure-10-figure-1-fendo-13-800923-g001-jpg.jpg)
+*Figure 1. The pre- and post- MRIs of all the patients. Source: [Surgical Outcomes of Clival Chordoma Through Endoscopic Endonasal Approach: A Single-Center Experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019489/) — Frontiers in Endocrinology 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

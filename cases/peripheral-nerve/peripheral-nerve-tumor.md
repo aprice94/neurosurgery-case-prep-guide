@@ -22,16 +22,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=peripheral+nerve+sheath+tumour+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Benign PNST surgery** — schwannoma/neurofibroma resection outcomes and nerve-preservation strategy. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=peripheral+nerve+sheath+tumor+schwannoma+resection+outcomes+nerve+preservation)
-- **NF1 / malignant transformation** — risk stratification and malignant peripheral nerve sheath tumor literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=malignant+peripheral+nerve+sheath+tumor+NF1+guideline)
-
-![Peripheral nerve plexus (nerve sheath tumor context)](../../figures/peripheral/brachial-plexus_gray808.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=peripheral%20nerve%20sheath%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=peripheral+nerve+sheath+tumor+schwannoma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Peripheral nerve anatomy:** Youmans and Winn; Greenberg; peripheral nerve surgery texts — confirm nerve course, fascicular anatomy, compression points, vascular supply, and nearby structures.
+- **Technique sequence:** Youmans and Winn; specialty operative references — review incision, exposure, neurolysis/decompression/resection strategy, graft/repair options, and closure.
+- **Complication rescue:** Greenberg; specialty literature — summarize neuropathic pain, motor deficit, wound issues, recurrence, and rehabilitation expectations.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Malignant Peripheral Nerve Sheath Tumor** — James AW. Surgical oncology clinics of North America 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27591499/)
+- **Malignant peripheral nerve sheath tumor: pathology and genetics** — Thway K. Annals of diagnostic pathology 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24418643/)
+- **Malignant peripheral nerve sheath tumor of tongue: a case report** — Liu Y. Hua xi kou qiang yi xue za zhi = Huaxi kouqiang yixue zazhi = West China journal of stomatology 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37277804/)
+- **Malignant peripheral nerve sheath tumor of the transverse colon with peritoneal metastasis: a case report** — Rawal G. Journal of medical case reports 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30654838/)
+- **Malignant Peripheral Nerve Sheath Tumor Arising from Small Bowel Mesentery: an Extremely Rare Case with Review of Literature** — Zaheer S. Journal of gastrointestinal cancer 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34796455/)
+- **Giant Retroperitoneal Malignant Peripheral Nerve Sheath Tumor Treated with Multiorgan Resection: a Case Report and Review of the Literature** — Acehan T. Indian journal of surgical oncology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35782801/)
+- **Cutaneous Malignant Peripheral Nerve Sheath Tumor** — Luzar B. Surgical pathology clinics 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28477884/)
+- **Primary Malignant Peripheral Nerve Sheath Tumor of the Stomach: A Rare Case Report and Review of Literature** — Cui W. International journal of surgical pathology 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35491655/)
+- **Toward Understanding the Mechanisms of Malignant Peripheral Nerve Sheath Tumor Development** — Mohamad T. International journal of molecular sciences 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34445326/)
+- **Intraosseous Malignant Peripheral Nerve Sheath Tumor of 2 Consecutive Lumbar Vertebrae: A Case Report and Literature Review** — Liu W. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31349078/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Peripheral Nerve Sheath Tumor Resection — Fig. 1](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-01-fig-1-13256-2018-1896-fig1-html-jpg.jpg)
+*Fig. 1. Computed tomography scan showing a large, well-circumscribed, heterogenous mass arising from the transverse colon Source: [Malignant peripheral nerve sheath tumor of the transverse colon with peritoneal metastasis: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6337829/) — Journal of Medical Case Reports 2019; CC BY.*
+
+![Peripheral Nerve Sheath Tumor Resection — Fig. 2](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-02-fig-2-13256-2018-1896-fig2-html-jpg.jpg)
+*Fig. 2. a Gross specimen showing a large, globular tumor. b Cut surface showing the presence of solid gray-white areas along with areas of hemorrhage and cystic change Source: [Malignant peripheral nerve sheath tumor of the transverse colon with peritoneal metastasis: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6337829/) — Journal of Medical Case Reports 2019; CC BY.*
+
+![Peripheral Nerve Sheath Tumor Resection — Fig. 3](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-03-fig-3-13256-2018-1896-fig3-html-jpg.jpg)
+*Fig. 3. a Hematoxylin and eosin sections showing sheets and fascicles of elongated to spindle-shaped tumor cells (× 4). b Tumor cells having elongated hyperchromatic nuclei and mild to moderate... Source: [Malignant peripheral nerve sheath tumor of the transverse colon with peritoneal metastasis: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6337829/) — Journal of Medical Case Reports 2019; CC BY.*
+
+![Peripheral Nerve Sheath Tumor Resection — Fig. 4](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-04-fig-4-13256-2018-1896-fig4-html-jpg.jpg)
+*Fig. 4. Immunohistochemistry showing patchy positivity for S-100 Source: [Malignant peripheral nerve sheath tumor of the transverse colon with peritoneal metastasis: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6337829/) — Journal of Medical Case Reports 2019; CC BY.*
+
+![Peripheral Nerve Sheath Tumor Resection — Fig. 5](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-05-fig-5-13256-2018-1896-fig5-html-jpg.jpg)
+*Fig. 5. Diagnostic approach to malignant peripheral nerve sheath tumor of the colon. GANT gastrointestinal autonomic tumor, GIST gastrointestinal stromal tumor, H&E hematoxylin and eosin, IHC... Source: [Malignant peripheral nerve sheath tumor of the transverse colon with peritoneal metastasis: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6337829/) — Journal of Medical Case Reports 2019; CC BY.*
+
+![Peripheral Nerve Sheath Tumor Resection — Figure 1](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-06-figure-1-crid2016-4101423-001-jpg.jpg)
+*Figure 1. Periapical radiograph showing radiopaque image of the roots of teeth 21 and 22, which are compatible with root canal filling material, obtained from a radiolucent image of the blurred... Source: [A Rare Malignant Peripheral Nerve Sheath Tumor of the Maxilla Mimicking a Periapical Lesion](https://pmc.ncbi.nlm.nih.gov/articles/PMC5141330/) — Case Reports in Dentistry 2016; CC BY.*
+
+![Peripheral Nerve Sheath Tumor Resection — Figure 2](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-07-figure-2-crid2016-4101423-002-jpg.jpg)
+*Figure 2. (a) Cell bundle arrangements with rounded, large nuclei that sometimes contain palisades, strands, and/or hyalinized islands. Hematoxylin and eosin (HE) staining, 40x. (b) Spindle cells... Source: [A Rare Malignant Peripheral Nerve Sheath Tumor of the Maxilla Mimicking a Periapical Lesion](https://pmc.ncbi.nlm.nih.gov/articles/PMC5141330/) — Case Reports in Dentistry 2016; CC BY.*
+
+![Peripheral Nerve Sheath Tumor Resection — Figure 3](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-08-figure-3-crid2016-4101423-003-jpg.jpg)
+*Figure 3. (a) CT panoramic reconstruction of maxilla. (b) CT axial reconstruction of the jaw. (c) CT coronal reconstruction of anterior region of maxilla. (d) CT sagittal reconstruction of tooth... Source: [A Rare Malignant Peripheral Nerve Sheath Tumor of the Maxilla Mimicking a Periapical Lesion](https://pmc.ncbi.nlm.nih.gov/articles/PMC5141330/) — Case Reports in Dentistry 2016; CC BY.*
+
+![Peripheral Nerve Sheath Tumor Resection — Fig. 1](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-09-fig-1-gr1-jpg.jpg)
+*Fig. 1. Magnetic resonance imaging coronal view (panel A) and sagittal view (panel B) showing clearly the lesion with some calcification. Source: [Malignant peripheral nerve sheath tumor with extensive osteosarcomatous and chondrosarcomatous differentiation: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4936498/) — International Journal of Surgery Case Reports 2016; CC BY-NC-ND.*
+
+![Peripheral Nerve Sheath Tumor Resection — Fig. 2](../../figures/curated/case-prep-peripheral-nerve-sheath-tumor-resection-schwannoma-neurofibroma/figure-10-fig-2-gr2-jpg.jpg)
+*Fig. 2. An operative view showing the lesion as it was dissected from the surrounding structure (Panel A). Panel B showing the excised mass which looked well encapsulated with a smooth surface. Source: [Malignant peripheral nerve sheath tumor with extensive osteosarcomatous and chondrosarcomatous differentiation: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4936498/) — International Journal of Surgery Case Reports 2016; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

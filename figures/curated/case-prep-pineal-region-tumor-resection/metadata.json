@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC13259689",
+    "article_title": "Case Report: Primary choriocarcinoma of the pineal region",
+    "journal": "Frontiers in Oncology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "MRI findings of pineal region choriocarcinoma in a 9-year-old male patient presenting with dizziness and headache. (a) Sagittal T1WI showed a slightly hyperintense mass in the pineal region, with compression of the cerebral aqueduct and involvement of the bilateral dorsal thalami and midbrain. (b) Axial T2WI showed hypointense signal with patchy short T2 foci within the ventricles. (c) T2-FLAIR showed periventricular edema. (d\u2013f) Contrast-enhanced sagittal, axial, and coronal images showed heterogeneous enhancement of the mass.",
+    "href": "fonc-16-1822123-g002.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-01-figure-2-fonc-16-1822123-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13259689.1/fonc-16-1822123-g002.jpg?md5=409f40a6eb12ddcf195cc208d579da00"
+  },
+  {
+    "pmcid": "PMC13259689",
+    "article_title": "Case Report: Primary choriocarcinoma of the pineal region",
+    "journal": "Frontiers in Oncology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Diffusion-weighted imaging features (DWI). (a) On DWI, the solid component of the lesion appeared hypointense. (b) On apparent diffusion coefficient (ADC) mapping, the solid component appeared heterogeneously slightly hyperintense. No significant diffusion restriction was observed in the mass.",
+    "href": "fonc-16-1822123-g003.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-02-figure-3-fonc-16-1822123-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13259689.1/fonc-16-1822123-g003.jpg?md5=47b37f5837b7bdb4527e04c6decaf4b0"
+  },
+  {
+    "pmcid": "PMC13259689",
+    "article_title": "Case Report: Primary choriocarcinoma of the pineal region",
+    "journal": "Frontiers in Oncology",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "Pathological findings. Hemorrhage (blue arrow) and necrosis were observed within the lesion, with visible syncytiotrophoblasts (white arrow) and cytotrophoblasts (black arrow) showing marked cellular atypia.",
+    "href": "fonc-16-1822123-g004.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-03-figure-4-fonc-16-1822123-g004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13259689.1/fonc-16-1822123-g004.jpg?md5=7b16033f421d126ac1d2854d0528c3ac"
+  },
+  {
+    "pmcid": "PMC13153032",
+    "article_title": "Machine learning based on radiomics for discriminating sellar region langerhans cell histiocytosis from germ cell tumors",
+    "journal": "Frontiers in Pediatrics",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "The ROC of the four combined models. (A) Performance of ROC curves for clinical + imaging semantic model, clinical + radiomics model, imaging semantic + radiomics model, and clinical + imaging semantic + radiomics model in the training set. (B) Performance of ROC curves for clinical + imaging semantic model, clinical + radiomics model, imaging semantic + radiomics model, and clinical + imaging semantic + radiomics model in the validation set. (C) Performance of ROC curves for clinical + imaging semantic model, clinical + radiomics model, imaging semantic + radiomics model, and clinical + imaging semantic + radiomics model in the testing set.",
+    "href": "fped-14-1775150-g002.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-04-figure-2-fped-14-1775150-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13153032.1/fped-14-1775150-g002.jpg?md5=148f5dc9448951102c8ba9da68088af2"
+  },
+  {
+    "pmcid": "PMC13153032",
+    "article_title": "Machine learning based on radiomics for discriminating sellar region langerhans cell histiocytosis from germ cell tumors",
+    "journal": "Frontiers in Pediatrics",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Confusion matrix of the four combined models.",
+    "href": "fped-14-1775150-g003.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-05-figure-3-fped-14-1775150-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13153032.1/fped-14-1775150-g003.jpg?md5=e04cecc08746a2c23d5ee5e534ba0ebf"
+  },
+  {
+    "pmcid": "PMC13153032",
+    "article_title": "Machine learning based on radiomics for discriminating sellar region langerhans cell histiocytosis from germ cell tumors",
+    "journal": "Frontiers in Pediatrics",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "The decision curves and calibration curves of the four combined models.",
+    "href": "fped-14-1775150-g004.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-06-figure-4-fped-14-1775150-g004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13153032.1/fped-14-1775150-g004.jpg?md5=305a767f03aab3a590d837ce38c3d380"
+  },
+  {
+    "pmcid": "PMC13124280",
+    "article_title": "Genetic landscape and molecular targets in pediatric pineal tumors",
+    "journal": "Neuro-Oncology Advances",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 1.",
+    "caption": "Cytogenetic landscape of pineal parenchymal tumors. Representative chromosomal ideograms illustrating recurrent copy-number alterations (CNAs) across major pineal tumor subtypes, including pineoblastoma (PB), pineal parenchymal tumor of intermediate differentiation (PPTID), papillary tumor of the pineal region (PTPR), and desmoplastic myxoid tumor, SMARCB1-mutant. Distinct subtype-specific patterns of chromosomal gains and losses are observed. Pineoblastomas display recurrent imbalances involving chromosomes 2, 8, 9, 10, 14, and 16.20,52,53 PPTIDs show heterogeneous genomic profiles with variable focal alterations, including losses of 11q and 22q.20,30 PTPRs are characterized by consistent loss of chromosome 10, frequently encompassing PTEN, together with additional losses of 3p, 14q, and 22q and gains of 8p and 12q.80,81 Desmoplastic myxoid tumors, SMARCB1-mutant, show recurrent loss of 22q involving SMARCB1, in association with additional losses of 3p, 9q, 10q, 13q, and 16q and occasional gains of 8p.86 Bars indicate chromosomal gains and losses. Selected oncogenes and tumor suppressor genes mapping to recurrently altered loci are shown below the ideograms.",
+    "href": "vdag086f1.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-07-figure-1-vdag086f1-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13124280.1/vdag086f1.jpg?md5=1d38c2bb09350a1945ccf5cee04d1945"
+  },
+  {
+    "pmcid": "PMC13124280",
+    "article_title": "Genetic landscape and molecular targets in pediatric pineal tumors",
+    "journal": "Neuro-Oncology Advances",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 2.",
+    "caption": "Schematic overview of epigenetic clustering of pineal parenchymal tumors and related embryonal entities. This figure provides an illustrative summary of DNA methylation-based classifications reported in previously published studies.6,20,45,68,83,86 The depicted clusters are derived from integrated analyses of genome-wide methylation profiles and are intended to summarize established molecular subgroups rather than represent original or newly generated datasets. No primary methylation data were generated for this review. Pineoblastomas segregate into PB-miRNA1A, PB-miRNA1B, PB-miRNA2, PB-RB, and PB-MYC/FOXR2 groups, while pineal parenchymal tumors of intermediate differentiation separate into PPTID-A and PPTID-B subgroups. Papillary tumors of the pineal region further cluster into PTPR-A, PTPR-B1, and PTPR-B2 entities. Pineocytoma and DMT-SMARCB1 form distinct epigenetic clusters, consistent with published classifications. WNT-activated embryonal tumors cluster with WNT-subgroup medulloblastomas, reflecting shared epigenetic features.",
+    "href": "vdag086f2.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-08-figure-2-vdag086f2-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13124280.1/vdag086f2.jpg?md5=2bbe2c5c97dc968af0387b0910aaeb7c"
+  },
+  {
+    "pmcid": "PMC13124280",
+    "article_title": "Genetic landscape and molecular targets in pediatric pineal tumors",
+    "journal": "Neuro-Oncology Advances",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 3.",
+    "caption": "Spectrum of pineal region tumors across WHO grades, epidemiological features, and candidate targeted therapies. Schematic overview of pineal parenchymal tumor entities according to CNS WHO grade and epidemiological characteristics. The figure summarizes pineocytoma, pineal parenchymal tumor of intermediate differentiation (PPTID), papillary tumor of the pineal region (PTPR), pineoblastoma (PB), and desmoplastic myxoid tumor, SMARCB1-mutant (DMT), together with currently proposed candidate targeted therapies derived from published preclinical and clinical studies.",
+    "href": "vdag086f3.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-09-figure-3-vdag086f3-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13124280.1/vdag086f3.jpg?md5=363b85e0bf84f453324b9481e843b528"
+  },
+  {
+    "pmcid": "PMC13102526",
+    "article_title": "An Ultra-late Recurrence with Adenoid Cystic Carcinoma-like Malignant Transformation of a Pineal Immature Teratoma after 35 Years: A Case Report",
+    "journal": "NMC Case Report Journal",
+    "year": "2026",
+    "license": "CC BY-NC-ND",
+    "label": "Figure 1",
+    "caption": "Preoperative imaging and initial histopathology.(A) Axial non-contrast CT showing a pineal region mass with acute obstructive hydrocephalus.(B) Postoperative non-contrast CT showing the subtotal removal of the tumor through the subsplenial approach, with a small residual lesion remaining on the tectal side.(C) Hematoxylin and eosin (H&E) staining showing dense collagenous stroma containing cartilage, keratinizing stratified squamous epithelium, and glandular structures lined by a mucin-producing columnar epithelium reminiscent of either a gastrointestinal or respiratory epithelium, and representing elements of all 3 germ layers.(D) Glandular component (H&E staining).(E) A stratified squamous epithelium with a preserved basal layer and no overt cytologic atypia (H&E staining).(F) Cartilage showing marked atypia, including multiple chondrocytes (3-5 per lacuna) and occasional mitotic figures, supporting the diagnosis of immature teratoma (H&E staining).(G) Follow-up MRI obtained 11 years after the initial surgery. Axial gadolinium-enhanced T1-weighted MRI showing a stable right-sided residual mass without enlargement.CT: computed tomography; MRI: magnetic resonance imaging",
+    "href": "2188-4226-13-0123-g001.jpg",
+    "local": "figures/curated/case-prep-pineal-region-tumor-resection/figure-10-figure-1-2188-4226-13-0123-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13102526.1/2188-4226-13-0123-g001.jpg?md5=6cd3a77d50b2788c1f5d0940c376a81d"
+  }
+]

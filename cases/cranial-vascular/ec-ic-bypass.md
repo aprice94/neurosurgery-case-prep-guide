@@ -22,12 +22,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=moyamoya+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **EC/IC Bypass Study** — *NEJM* 1985 — extracranial–intracranial bypass for atherosclerotic disease (negative). [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=EC+IC+bypass+study+extracranial+intracranial+1985+NEJM)
-- **COSS** — Powers WJ et al. *JAMA* 2011 — Carotid Occlusion Surgery Study (bypass for symptomatic occlusion). [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Powers+Carotid+Occlusion+Surgery+Study+COSS+2011+JAMA)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
-
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
@@ -42,15 +36,78 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=STA-MCA+bypass)
 
-**Anatomy (public domain)**
 
-![Arteries of the base of the brain — ICA / MCA / circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
 
-![MCA (M1–M2) — recipient anatomy for STA-MCA bypass](../../figures/cranial-vascular/ica-bifurcation-mca_brainsci-519.jpg)
+---
 
-*Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **[EC-IC bypass for occlusion of the internal carotid artery]** — Fischer G. Radiologie (Heidelberg, Germany) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39009759/)
+- **EC/IC Bypass Study** — McDowell F. Stroke 1986. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3511567/)
+- **The role of EC-IC bypass in ICA blood blister aneurysms-a systematic review** — Meling TR. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32318921/)
+- **EC-IC bypass for cerebral revascularization following skull base tumor resection: Current practices and innovations** — Wolfswinkel EM. Journal of surgical oncology 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30196557/)
+- **EC-IC Bypass** — Auer LM. Neurosurgery 1985. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3982630/)
+- **Cerebral revascularization by EC-IC bypass--present status** — Mehdorn HM. Acta neurochirurgica. Supplement 2008. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18496948/)
+- **Can we identify patients with carotid occlusion who would benefit from EC/IC bypass? Review** — Herzig R. Biomedical papers of the Medical Faculty of the University Palacky, Olomouc, Czechoslovakia 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15744358/)
+- **EC-IC Bypass; Our Experience of Cerebral Revascularization with Intraoperative Dual-Image Video Angiography (Diva)** — Joshi G. Asian journal of neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33145198/)
+- **Editorial: Moyamoya disease** — Gu Y. Frontiers in neurology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36530626/)
+- **Early Post-operative CT-Angiography Imaging After EC-IC Bypass Surgery in Moyamoya Patients** — Hurth H. Frontiers in neurology 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33868157/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![EC-IC Bypass — Figure 1](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-01-figure-1-sni-5-178-g001-jpg.jpg)
+*Figure 1. Source: [Comparison of outcomes and utilization of extracranial–intracranial bypass versus intracranial stenting for intracranial stenosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4287911/) — Surg Neurol Int. 2014 Dec 11;5:178. doi: 10.4103/2152-7806.146831; CC BY-NC-SA.*
+
+![EC-IC Bypass — Figure 2](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-02-figure-2-sni-5-178-g002-jpg.jpg)
+*Figure 2. Source: [Comparison of outcomes and utilization of extracranial–intracranial bypass versus intracranial stenting for intracranial stenosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4287911/) — Surg Neurol Int. 2014 Dec 11;5:178. doi: 10.4103/2152-7806.146831; CC BY-NC-SA.*
+
+![EC-IC Bypass — Figure 3](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-03-figure-3-sni-5-178-g003-jpg.jpg)
+*Figure 3. Source: [Comparison of outcomes and utilization of extracranial–intracranial bypass versus intracranial stenting for intracranial stenosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4287911/) — Surg Neurol Int. 2014 Dec 11;5:178. doi: 10.4103/2152-7806.146831; CC BY-NC-SA.*
+
+![EC-IC Bypass — Figure 4](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-04-figure-4-sni-5-178-g004-jpg.jpg)
+*Figure 4. Source: [Comparison of outcomes and utilization of extracranial–intracranial bypass versus intracranial stenting for intracranial stenosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4287911/) — Surg Neurol Int. 2014 Dec 11;5:178. doi: 10.4103/2152-7806.146831; CC BY-NC-SA.*
+
+![EC-IC Bypass — Figure 5](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-05-figure-5-sni-5-178-g005-jpg.jpg)
+*Figure 5. Source: [Comparison of outcomes and utilization of extracranial–intracranial bypass versus intracranial stenting for intracranial stenosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4287911/) — Surg Neurol Int. 2014 Dec 11;5:178. doi: 10.4103/2152-7806.146831; CC BY-NC-SA.*
+
+![EC-IC Bypass — Figure 1](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-06-figure-1-sni-5-178-g006-jpg.jpg)
+*Figure 1. Trends in utilization of intracranial stenting and extracranial–intracranial bypass procedures for revascularization of patients with intracranial stenosis Source: [Comparison of outcomes and utilization of extracranial–intracranial bypass versus intracranial stenting for intracranial stenosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4287911/) — Surgical Neurology International 2014; CC BY-NC-SA.*
+
+![EC-IC Bypass — Figure 1](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-07-figure-1-bc-5-32-g001-jpg.jpg)
+*Figure 1. Extracranial–intracranial bypass surgery utilization trend for cerebrovascular steno-occlusive disorders using Florida and New York State Inpatient Databases Source: [Utilization and safety of extracranial–intracranial bypass surgery in symptomatic steno-occlusive disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC6458777/) — Brain Circulation 2019; CC BY-NC-SA.*
+
+![EC-IC Bypass — Figure 2](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-08-figure-2-bc-5-32-g002-jpg.jpg)
+*Figure 2. Trends in 30-day risk of death, stroke, or hemorrhage following extracranial–intracranial bypass surgery using Florida and New York State Inpatient Databases Source: [Utilization and safety of extracranial–intracranial bypass surgery in symptomatic steno-occlusive disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC6458777/) — Brain Circulation 2019; CC BY-NC-SA.*
+
+![EC-IC Bypass — Figure 1.](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-09-figure-1-10-1177-22925503241249761-fig1-jpg.jpg)
+*Figure 1.. Three-dimensional (3D) reconstruction of the patient's previous craniotomy (left) and intracranial vascular system with recurrent aneurysm thrombosis and surgical clips before... Source: [Extracranial-Intracranial Microsurgical Bypass Using a Y-Shaped Vein Graft From the Hand](https://pmc.ncbi.nlm.nih.gov/articles/PMC11561939/) — Plastic Surgery 2024; CC BY-NC.*
+
+![EC-IC Bypass — Figure 2.](../../figures/curated/case-prep-ec-ic-bypass-sta-mca/figure-10-figure-2-10-1177-22925503241249761-fig2-jpg.jpg)
+*Figure 2.. Preoperative digital subtraction angiogram (left internal carotid injection) of the giant partially thrombosed left MCA aneurysm. Source: [Extracranial-Intracranial Microsurgical Bypass Using a Y-Shaped Vein Graft From the Hand](https://pmc.ncbi.nlm.nih.gov/articles/PMC11561939/) — Plastic Surgery 2024; CC BY-NC.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

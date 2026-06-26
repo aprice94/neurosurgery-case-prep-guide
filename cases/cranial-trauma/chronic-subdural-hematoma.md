@@ -25,18 +25,78 @@ tags:
 
 More operative video: [YouTube ▸](https://www.youtube.com/results?search_query=chronic+subdural+hematoma+burr+hole+evacuation) · [Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Dex-CSDH** — Hutchinson PJ et al. *NEJM* 2020 — dexamethasone in chronic subdural hematoma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hutchinson+dexamethasone+chronic+subdural+hematoma+Dex-CSDH+2020+NEJM)
-- **Subdural drains** — Santarius T et al. *Lancet* 2009 — drains reduce recurrence after burr-hole drainage. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Santarius+subdural+drain+recurrence+chronic+subdural+hematoma+2009+Lancet)
-- **MMA embolization** — EMBOLISE & MAGIC-MT *NEJM* 2024 — middle meningeal artery embolization as adjunct. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=middle+meningeal+artery+embolization+chronic+subdural+hematoma+2024+NEJM)
-- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
-
-![Interior skull base / calvarium (subdural space)](../../figures/anatomy/skull-base-interior_gray193.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=chronic%20subdural%20haematoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=chronic+subdural+hematoma+burr+hole) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Emergency anatomy and exposure:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm incision/flap planning, sinus/vessel risks, decompression goals, and mass-effect physiology.
+- **Technique sequence:** Greenberg; Youmans and Winn — review evacuation/decompression sequence, hemostasis, dural strategy, drain use, and bone-flap/cranioplasty decisions.
+- **Complication rescue:** Greenberg; trauma guidelines and primary literature — summarize swelling, coagulopathy, seizures, infection, hydrocephalus, and ICU surveillance in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **A Review of Remote Intracerebral Hemorrhage after Chronic Subdural Hematoma Evacuation** — Umana GE. Journal of neurological surgery. Part A, Central European neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34911088/)
+- **Predictors of mortality in chronic subdural hematoma evacuation** — Sayed R. Neurosurgical review 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38036800/)
+- **Seizure after chronic subdural hematoma evacuation: associated factors and effect on clinical outcome** — Wu L. Frontiers in neurology 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37228408/)
+- **Single-Center Comparison of Chronic Subdural Hematoma Evacuation Outcomes Under Local Versus General Anesthesia** — Havryliv T. World neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38154679/)
+- **Focal motor weakness and recovery following chronic subdural hematoma evacuation** — Nisson PL. Journal of neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38875718/)
+- **Aphasia and Chronic Subdural Hematoma Evacuation: A Retrospective Cohort Study** — Patil S. Neurosurgery practice 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41163654/)
+- **Incidence, predictors, and management of postoperative subdural empyema following chronic subdural hematoma evacuation: a population-based cohort study** — Jansson S. Acta neurochirurgica 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40407913/)
+- **National randomized clinical trial on subdural drainage time after chronic subdural hematoma evacuation** — Jensen TSR. Journal of neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34972091/)
+- **Spreading Depolarization After Chronic Subdural Hematoma Evacuation: Associated Clinical Risk Factors and Influence on Clinical Outcome** — Meadows C. Neurocritical care 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34617253/)
+- **Is a drainage time of less than 24 h sufficient after chronic subdural hematoma evacuation?** — Bartley A. Acta neurochirurgica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36752893/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Chronic Subdural Hematoma Evacuation — Figure 1.](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-01-figure-1-amjcaserep-16-430-g001-jpg.jpg)
+*Figure 1.. (A, B) Preoperative CT scan and magnetic resonance imaging showing chronic subdural hematoma. Source: [Epidural Hematoma Complication after Rapid Chronic Subdural Hematoma Evacuation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500596/) — The American Journal of Case Reports 2015; open access.*
+
+![Chronic Subdural Hematoma Evacuation — Figure 2.](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-02-figure-2-amjcaserep-16-430-g002-jpg.jpg)
+*Figure 2.. (A–C) CT scan showing epidural hematoma complication after subdural hematoma evacuation, and the progressive improvement of epidural hematoma. Source: [Epidural Hematoma Complication after Rapid Chronic Subdural Hematoma Evacuation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4500596/) — The American Journal of Case Reports 2015; open access.*
+
+![Chronic Subdural Hematoma Evacuation — Fig. 2](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-03-fig-2-701-2023-5511-fig2-html-jpg.jpg)
+*Fig. 2. Total volume drained after chronic subdural hematoma (cSDH) evacuation in a prospective cohort of 10 patients. Time point 0 indicates arrival from the operating room to the neurosurgical... Source: [Is a drainage time of less than 24 h sufficient after chronic subdural hematoma evacuation?](https://pmc.ncbi.nlm.nih.gov/articles/PMC10006057/) — Acta Neurochirurgica 2023; CC BY.*
+
+![Chronic Subdural Hematoma Evacuation — Figure 1](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-04-figure-1-cureus-0011-00000006049-i01-jpg.jpg)
+*Figure 1. The patient’s presenting CT examination demonstrating a large, left-sided, crescent-shaped frontoparietal sSDH measuring 22 mm at the deepest point, with 14 mm of midline shift, left to... Source: [Minimally Invasive Subacute to Chronic Subdural Hematoma Evacuation with Angled Matchstick Drill and Repurposed Antibiotic Ventriculostomy Catheter Augmented with Alteplase: A Technical Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6886729/) — Cureus 2019; CC BY.*
+
+![Chronic Subdural Hematoma Evacuation — Figure 2](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-05-figure-2-cureus-0011-00000006049-i02-jpg.jpg)
+*Figure 2. POD 1 CT examination shows the midline shift improved to 9.5 mm with a maximal hematomal depth of 12.8 mm. Residual SDH is relatively more isodense with the brain, suggesting blood is... Source: [Minimally Invasive Subacute to Chronic Subdural Hematoma Evacuation with Angled Matchstick Drill and Repurposed Antibiotic Ventriculostomy Catheter Augmented with Alteplase: A Technical Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6886729/) — Cureus 2019; CC BY.*
+
+![Chronic Subdural Hematoma Evacuation — Figure 3](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-06-figure-3-cureus-0011-00000006049-i03-jpg.jpg)
+*Figure 3. POD 3 CT examination completed 11 hours after 2 mg infusion of tPA demonstrates continued hematomal drainage with only 3.7 mm left to right midline shift and maximal SDH depth reduced to... Source: [Minimally Invasive Subacute to Chronic Subdural Hematoma Evacuation with Angled Matchstick Drill and Repurposed Antibiotic Ventriculostomy Catheter Augmented with Alteplase: A Technical Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6886729/) — Cureus 2019; CC BY.*
+
+![Chronic Subdural Hematoma Evacuation — Figure 4](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-07-figure-4-cureus-0011-00000006049-i04-jpg.jpg)
+*Figure 4. Ten-week outpatient follow-up CT examination demonstrating persistent thin subdural collection with minimal mass effect and no significant midline shift.CT: computed tomography Source: [Minimally Invasive Subacute to Chronic Subdural Hematoma Evacuation with Angled Matchstick Drill and Repurposed Antibiotic Ventriculostomy Catheter Augmented with Alteplase: A Technical Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6886729/) — Cureus 2019; CC BY.*
+
+![Chronic Subdural Hematoma Evacuation — FIGURE 2](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-08-figure-2-ccr3-13-e71076-g001-jpg.jpg)
+*FIGURE 2. Postoperative Brain CT scan. Left image: Cerebellar subarachnoid hemorrhage. Middle image: Hemispheric subarachnoid hemorrhage. Right image: Basal cisterns are bilaterally symmetrically... Source: [Postoperative Remote Acute Subarachnoid Hemorrhage as a Complication of Chronic Subdural Hematoma Evacuation With Burrhole: A Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485288/) — Clinical Case Reports 2025; CC BY.*
+
+![Chronic Subdural Hematoma Evacuation — Figure 9](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-09-figure-9-ccr3-13-e71076-g002-jpg.jpg)
+*Figure 9. Source: [Postoperative Remote Acute Subarachnoid Hemorrhage as a Complication of Chronic Subdural Hematoma Evacuation With Burrhole: A Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485288/) — Clin Case Rep. 2025 Oct 1;13(10):e71076. doi: 10.1002/ccr3.71076; CC BY.*
+
+![Chronic Subdural Hematoma Evacuation — FIGURE 1](../../figures/curated/case-prep-chronic-subdural-hematoma-csdh-evacuation/figure-10-figure-1-ccr3-13-e71076-g003-jpg.jpg)
+*FIGURE 1. Preoperative Brain CT scan. Left image: The midline shift is about 10 mm. Middle image: The right lateral ventricle is visible (blue arrow), but due to hematoma, the left one is not... Source: [Postoperative Remote Acute Subarachnoid Hemorrhage as a Complication of Chronic Subdural Hematoma Evacuation With Burrhole: A Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485288/) — Clinical Case Reports 2025; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

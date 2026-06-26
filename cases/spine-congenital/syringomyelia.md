@@ -22,15 +22,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=syringomyelia+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **MOMS** — Adzick NS et al. *NEJM* 2011 — prenatal vs postnatal myelomeningocele repair. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Adzick+MOMS+prenatal+repair+myelomeningocele+2011+NEJM)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=syringomyelia&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=syringomyelia+treatment) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (central canal — syrinx cavity)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Syringosubarachnoid shunt: insertion technique** — Amarouche M. British journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31852253/)
+- **Ultrasound-guided Syringosubarachnoid Shunt Insertion for Cervicothoracic Syringomyelia** — Hussain I. Clinical spine surgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31220040/)
+- **Syringosubarachnoid shunt for treatment of syringomyelia** — Vaquero J. Acta neurochirurgica 1987. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3577853/)
+- **Treatment of syringomyelia with a syringosubarachnoid shunt** — Tator CH. The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques 1988. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3345462/)
+- **Reevaluation of syringosubarachnoid shunt for syringomyelia with Chiari malformation** — Iwasaki Y. Neurosurgery 2000. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10690730/)
+- **Syrinx shunts for syringomyelia: a systematic review and meta-analysis of syringosubarachnoid, syringoperitoneal, and syringopleural shunting** — Rothrock RJ. Journal of neurosurgery. Spine 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34330095/)
+- **[Syringosubarachnoid shunt for noncommunicating syringomyelia associated with spinal lipoma: a case report]** — Yamamuro S. No shinkei geka. Neurological surgery 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22647512/)
+- **Syringosubarachnoid shunt for syringomyelia associated with Chiari I malformation** — Hida K. Neurosurgical focus 2001. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16724817/)
+- **Polytetrafluoroethylene sponge syringosubarachnoid shunt** — Chagla AS. Turkish neurosurgery 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21845589/)
+- **Minimally invasive insertion of syringosubarachnoid shunt for posttraumatic syringomyelia: technical case report** — O'Toole JE. Neurosurgery 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18091225/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 1:](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-01-figure-1-sni-15-243-g001-jpg.jpg)
+*Figure 1:. Preoperative radiological findings. (a) A sagittal view of a plain computed tomography scan demonstrates a burst fracture of the L2 vertebra (arrow). Note that the L2 vertebra is... Source: [Cauda equina syndrome due to posttraumatic syringomyelia in conus medullaris – A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11301795/) — Surgical Neurology International 2024; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 2:](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-02-figure-2-sni-15-243-g002-jpg.jpg)
+*Figure 2:. Intraoperative findings. (a) Following the dural opening, the conus medullaris and cauda equina protruded from the dural sac. Note no adhesive arachnoiditis. (b) The conus medullaris was... Source: [Cauda equina syndrome due to posttraumatic syringomyelia in conus medullaris – A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11301795/) — Surgical Neurology International 2024; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 3:](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-03-figure-3-sni-15-243-g003-jpg.jpg)
+*Figure 3:. Postoperative radiological findings. (a) Sagittal view of T2-weighted magnetic resonance imaging (MRI) shows almost complete disappearance of syrinx in the conus medullaris (arrow). Note... Source: [Cauda equina syndrome due to posttraumatic syringomyelia in conus medullaris – A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11301795/) — Surgical Neurology International 2024; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 4](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-04-figure-4-sni-15-243-inline001-jpg.jpg)
+*Figure 4. Source: [Cauda equina syndrome due to posttraumatic syringomyelia in conus medullaris – A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11301795/) — Surg Neurol Int. 2024 Jul 12;15:243. doi: 10.25259/SNI_386_2024; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 1](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-05-figure-1-sni-7-8-g001-jpg.jpg)
+*Figure 1. T2-weighted magnetic resonance imaging cervical spine Source: [Syringosubarachnoid shunting using a myringotomy tube](https://pmc.ncbi.nlm.nih.gov/articles/PMC4722522/) — Surgical Neurology International 2016; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 2](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-06-figure-2-sni-7-8-g002-jpg.jpg)
+*Figure 2. Myringotomy tube Source: [Syringosubarachnoid shunting using a myringotomy tube](https://pmc.ncbi.nlm.nih.gov/articles/PMC4722522/) — Surgical Neurology International 2016; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 7](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-07-figure-7-sni-5-114-g001-jpg.jpg)
+*Figure 7. Source: [Surgical treatment of idiopathic syringomyelia: Silastic wedge syringosubarachnoid shunting technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123260/) — Surg Neurol Int. 2014 Jul 24;5:114. doi: 10.4103/2152-7806.137536; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 1](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-08-figure-1-sni-5-114-g002-jpg.jpg)
+*Figure 1. Opening the arachnoid membrane Source: [Surgical treatment of idiopathic syringomyelia: Silastic wedge syringosubarachnoid shunting technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123260/) — Surgical Neurology International 2014; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 2](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-09-figure-2-sni-5-114-g003-jpg.jpg)
+*Figure 2. Contoured silastic wedges Source: [Surgical treatment of idiopathic syringomyelia: Silastic wedge syringosubarachnoid shunting technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123260/) — Surgical Neurology International 2014; CC BY-NC-SA.*
+
+![Syringomyelia Management Syringosubarachnoid Shunt — Figure 3](../../figures/curated/case-prep-syringomyelia-management-syringosubarachnoid-shunt/figure-10-figure-3-sni-5-114-g004-jpg.jpg)
+*Figure 3. Initial placement of contoured silastic wedge Source: [Surgical treatment of idiopathic syringomyelia: Silastic wedge syringosubarachnoid shunting technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123260/) — Surgical Neurology International 2014; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -21,18 +21,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=laser+interstitial+thermal+therapy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Brain mets (N0574)** — Brown PD et al. *JAMA* 2016 — SRS alone vs SRS + WBRT. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
-- **Trigeminal SRS** — Kondziolka D et al. *NEJM* 1996 — Gamma Knife radiosurgery for trigeminal neuralgia. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kondziolka+stereotactic+radiosurgery+trigeminal+neuralgia+1996)
-- **AVM/VS SRS** — Pollock BE et al. — long-term radiosurgery outcomes (AVM, vestibular schwannoma). [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pollock+stereotactic+radiosurgery+arteriovenous+malformation+vestibular+schwannoma+outcome)
-- **Guidelines:** [ASTRO guidelines](https://www.astro.org/Patient-Care-and-Practice/Clinical-Practice-Statements) · [CNS](https://www.cns.org/guidelines)
-
-![Deep cerebral targets (LITT ablation sites)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=laser%20interstitial%20thermal%20therapy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=laser+interstitial+thermal+therapy+brain) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Laser interstitial thermal therapy** — Holste KG. Neuro-oncology advances 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32793888/)
+- **Laser Interstitial Thermal Therapy for Epilepsy** — Van Gompel JJ. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36906331/)
+- **Laser interstitial thermal therapy in gliomas** — Bozinov O. Cancer letters 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31991153/)
+- **Laser Interstitial Thermal Therapy for Radionecrosis** — Terrapon APR. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36906328/)
+- **Laser Interstitial Thermal Therapy for Cavernous Malformations: A Systematic Review** — Yousefi O. Frontiers in surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35647010/)
+- **Laser interstitial thermal therapy in neuro-oncology applications** — Hong CS. Surgical neurology international 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32874734/)
+- **Laser Interstitial Thermal Therapy** — Patel B. Missouri medicine 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32158050/)
+- **Laser interstitial thermal therapy in drug-resistant epilepsy** — Shimamoto S. Current opinion in neurology 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30694919/)
+- **Laser interstitial thermal therapy for treatment of cerebral radiation necrosis** — Hong CS. International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32672119/)
+- **Posterior Fossa Laser Interstitial Thermal Therapy in Children** — Mirone G. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36906329/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Laser Interstitial Thermal Therapy — Fig. 1](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-01-fig-1-gr1-jpg.jpg)
+*Fig. 1. Heterogeneous interictal epileptiform discharges. A: Left temporal sharp wave. B: Left frontotemporal sharp wave. C: Left orbitofrontal sharp wave. High pass filter: 1 Hz. Low pass... Source: [Laser interstitial thermal therapy for NPRL3-related epilepsy with multiple seizure foci: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8249776/) — Epilepsy & Behavior Reports 2021; CC BY-NC-ND.*
+
+![Laser Interstitial Thermal Therapy — Fig. 2](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-02-fig-2-gr2-jpg.jpg)
+*Fig. 2. Illustrations of two independent ictal onsets, depth electrode localization and post-ablation lesions. A: left hippocampal ictal onset (LHD7, 8) with propagation to the left anterior... Source: [Laser interstitial thermal therapy for NPRL3-related epilepsy with multiple seizure foci: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8249776/) — Epilepsy & Behavior Reports 2021; CC BY-NC-ND.*
+
+![Laser Interstitial Thermal Therapy — Fig. 1](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-03-fig-1-701-2025-6705-fig1-html-jpg.jpg)
+*Fig. 1. Step 1: Robot-assisted stereotactic biopsy. A CT scan exhibiting five skull-implanted fiducials used for registration, B Skull immobilization and connection to the ROSA system using a... Source: [How I do it: sequential robot-assisted stereotactic biopsy and laser interstitial thermal therapy for epilepsy associated with brain tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC12678548/) — Acta Neurochirurgica 2025; CC BY-NC-ND.*
+
+![Laser Interstitial Thermal Therapy — Fig. 2](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-04-fig-2-701-2025-6705-fig2-html-jpg.jpg)
+*Fig. 2. Step 2: Robot-assisted laser interstitial thermal therapy. A Placement of the guidance bold using a 1.8 mm wide reducer, B Transitory insertion of the flexible optic fiber in the cooling... Source: [How I do it: sequential robot-assisted stereotactic biopsy and laser interstitial thermal therapy for epilepsy associated with brain tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC12678548/) — Acta Neurochirurgica 2025; CC BY-NC-ND.*
+
+![Laser Interstitial Thermal Therapy — Fig. 3](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-05-fig-3-701-2025-6705-fig3-html-jpg.jpg)
+*Fig. 3. Intraoperative installation and brain magnetic resonance imaging (MRI) of laser interstitial thermal therapy. A T1-weighted coronal view showing the position of the optical fiber and the... Source: [How I do it: sequential robot-assisted stereotactic biopsy and laser interstitial thermal therapy for epilepsy associated with brain tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC12678548/) — Acta Neurochirurgica 2025; CC BY-NC-ND.*
+
+![Laser Interstitial Thermal Therapy — FIGURE 1](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-06-figure-1-nan-52-e70071-g001-jpg.jpg)
+*FIGURE 1. Pre‐ and post‐LITT neuroimaging. Pre‐operative (A) and post‐operative (B) T1‐weighted MRI obtained with half‐dose gadolinium show the trajectories of the laser fibres positioned anterior... Source: [MR‐Guided Laser Interstitial Thermal Therapy for Recurrent Glioblastoma: A Case Report With Novel Insights Into Histopathological Changes and Immunological Responses](https://pmc.ncbi.nlm.nih.gov/articles/PMC13035459/) — Neuropathology and Applied Neurobiology 2026; CC BY-NC.*
+
+![Laser Interstitial Thermal Therapy — FIGURE 2](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-07-figure-2-nan-52-e70071-g002-jpg.jpg)
+*FIGURE 2. Histological analysis of the two lesions following thermal laser ablation. (A) Macroscopic photographs of the first sample taken before and after sectioning, along with an H&E overview... Source: [MR‐Guided Laser Interstitial Thermal Therapy for Recurrent Glioblastoma: A Case Report With Novel Insights Into Histopathological Changes and Immunological Responses](https://pmc.ncbi.nlm.nih.gov/articles/PMC13035459/) — Neuropathology and Applied Neurobiology 2026; CC BY-NC.*
+
+![Laser Interstitial Thermal Therapy — Figure 8](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-08-figure-8-nan-52-e70071-g003-jpg.jpg)
+*Figure 8. Source: [MR‐Guided Laser Interstitial Thermal Therapy for Recurrent Glioblastoma: A Case Report With Novel Insights Into Histopathological Changes and Immunological Responses](https://pmc.ncbi.nlm.nih.gov/articles/PMC13035459/) — Neuropathol Appl Neurobiol. 2026 Mar 30;52(2):e70071. doi: 10.1111/nan.70071; CC BY-NC.*
+
+![Laser Interstitial Thermal Therapy — Figure 1:](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-09-figure-1-sni-12-228-g001-jpg.jpg)
+*Figure 1:. Pre and postoperative MRI. (a) Representative preoperative T1 contrast enhanced (left) and FLAIR (right) images. (b) Representative 46.9-month post-LITT T1 contrast enhanced (left) and... Source: [Prolonged survival after laser interstitial thermal therapy in glioblastoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC8248111/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Laser Interstitial Thermal Therapy — Figure 2:](../../figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-10-figure-2-sni-12-228-g002-jpg.jpg)
+*Figure 2:. Intraoperative and immediate postoperative MRI. (a) Intraoperative MRI demonstrating laser probe position. (b) Immediate postoperative T1-weighterd post-contrast and diffusion-weighted... Source: [Prolonged survival after laser interstitial thermal therapy in glioblastoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC8248111/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

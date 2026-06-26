@@ -160,6 +160,13 @@ tags:
 4.
 5.
 
+### Textbook Cross-Checks
+- **Microsurgical / surgical anatomy:** [book, chapter, page] — summarize the anatomy at risk in original words.
+- **Operative technique:** [book, chapter, page] — summarize setup, exposure, and key steps in original words.
+- **Complication rescue:** [book, chapter, page] — summarize bailout options and postoperative concerns in original words.
+- **Open figures to embed:** [PD / CC / PMC OA source + license].
+- **Copyrighted sources to link only:** [textbook / atlas / board-card source].
+
 ### Key Surgical Steps
 1.
 2.

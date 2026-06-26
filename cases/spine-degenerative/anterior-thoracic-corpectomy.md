@@ -22,26 +22,82 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=thoracic+vertebral+body+tumour+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Metastatic cord compression** — decompressive surgery + radiotherapy in selected patients. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+metastatic+spinal+cord+compression+surgery+radiotherapy+Lancet+2005)
-- **NOMS / SINS** — decision frameworks for spinal metastasis and mechanical instability. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NOMS+framework+SINS+spinal+metastases+instability)
-
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=thoracic%20vertebral%20body%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=thoracic+corpectomy+reconstruction) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (thoracic — ventral compression target)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-![Thoracic vertebra (superior view) — pedicle & canal](../../figures/spine/thoracic-vertebra-superior_gray90.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
 
-![Thoracic vertebra (lateral view) — body & rib facets](../../figures/spine/thoracic-vertebra-lateral_gray91.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Transpedicular partial corpectomy without anterior vertebral reconstruction in thoracic spinal metastases** — Chen YJ. Spine 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18090069/)
+- **Long-term outcomes of the nano-hydroxyapatite/polyamide-66 cage versus the titanium mesh cage for anterior reconstruction of thoracic and lumbar corpectomy: a retrospective study with at least 7 years of follow-up** — Hu B. Journal of orthopaedic surgery and research 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37408000/)
+- **Palliative transpedicular partial corpectomy without anterior vertebral reconstruction in lower thoracic and thoracolumbar junction spinal metastases** — Chang CC. Journal of orthopaedic surgery and research 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26183322/)
+- **Thoracic lateral extracavitary corpectomy for anterior column reconstruction with expandable and static titanium cages: clinical outcomes and surgical considerations in a consecutive case series** — Holland CM. Clinical neurology and neurosurgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25528373/)
+- **Anterior reconstruction with nano-hydroxyapatite/polyamide-66 cage after thoracic and lumbar corpectomy** — Yang X. Orthopedics 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22229617/)
+- **Low Anterior Cervical Approach Without Sternotomy or Clavicle Resection for Upper Thoracic Vertebra Corpectomy** — Babici D. Cureus 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34909292/)
+- **Anterior thoracic spine reconstruction using a titanium mesh cage and pedicled rib flap** — O'Shaughnessy BA. Spine 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16845358/)
+- **Coaxial double-lumen methylmethacrylate reconstruction in the anterior cervical and upper thoracic spine after tumor resection** — Miller DJ. Journal of neurosurgery 2000. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10763689/)
+- **Vascularized Bone Flap Options for Complex Thoracic Spinal Reconstruction** — Asaad M. Plastic and reconstructive surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35196694/)
+- **Posterior thoracic corpectomy with cage reconstruction for metastatic spinal tumors: comparing the mini-open approach to the open approach** — Lau D. Journal of neurosurgery. Spine 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25932599/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Anterior Thoracic Corpectomy Reconstruction — Fig. 7.](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-01-fig-7-ns-2040436-218f7-jpg.jpg)
+*Fig. 7.. Standard posterior instrumentation. Clinical example of a patient with moderate cervical kyphosis and residual stenosis following anterior cervical discectomy and fusion (A) receiving a... Source: [The Effect of Rod Pattern, Outrigger, and Multiple Screw-Rod Constructs for Surgical Stabilization of the 3-Column Destabilized Cervical Spine - A Biomechanical Analysis and Introduction of a Novel Technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC7538352/) — Neurospine 2020; CC BY-NC.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Fig. 9.](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-02-fig-9-ns-2040436-218f9-jpg.jpg)
+*Fig. 9.. Clinical example of a 6S3R-construct. (A–C) A 65-year-old patient presenting with a history of failed anterior cervical discectomy and fusion for degenerative instability, multilevel... Source: [The Effect of Rod Pattern, Outrigger, and Multiple Screw-Rod Constructs for Surgical Stabilization of the 3-Column Destabilized Cervical Spine - A Biomechanical Analysis and Introduction of a Novel Technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC7538352/) — Neurospine 2020; CC BY-NC.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Fig. 2](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-03-fig-2-12893-2024-2602-fig2-html-jpg.jpg)
+*Fig. 2. A titanium expandable corpectomy cage fits into the bespoke bony window using only the tagged nerve for gentle gravity retraction as demonstrated in this cadaveric specimen Source: [A rib-sparing unilateral transpedicular thoracic corpectomy using the ultrasonic bone scalpel: a novel technique and pictorial guide](https://pmc.ncbi.nlm.nih.gov/articles/PMC11466036/) — BMC Surgery 2024; CC BY-NC-ND.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Fig. 1](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-04-fig-1-586-2006-203-fig1-html-jpg.jpg)
+*Fig. 1. (Left) Swimmer’s view radiograph demonstrating kyphosis related to C4–T2 osteomyelitis. (Right) Sagittal reformatted CT scan demonstrating extensive osseous erosion with kyphotic... Source: [Successful outcome of six-level cervicothoracic corpectomy and circumferential reconstruction: case report and review of literature on multilevel cervicothoracic corpectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC1602202/) — European Spine Journal 2006; open access.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Fig. 2](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-05-fig-2-586-2006-203-fig2-html-jpg.jpg)
+*Fig. 2. (Left) Sagittal T1 post-gadolinium MR sequence revealing extensive prevertebral and circumferential enhancing epidural abscess and enhancing vertebrae, compatible with osteomyelitis.... Source: [Successful outcome of six-level cervicothoracic corpectomy and circumferential reconstruction: case report and review of literature on multilevel cervicothoracic corpectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC1602202/) — European Spine Journal 2006; open access.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Fig. 3](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-06-fig-3-586-2006-203-fig3-html-jpg.jpg)
+*Fig. 3. Postoperative AP and lateral radiographs after six-level corpectomy from C4–T2, anterior interbody contoured cage and anterior plating from C3–T3. Posterior screw-rod fusion is evident... Source: [Successful outcome of six-level cervicothoracic corpectomy and circumferential reconstruction: case report and review of literature on multilevel cervicothoracic corpectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC1602202/) — European Spine Journal 2006; open access.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Fig. 4](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-07-fig-4-586-2006-203-fig4-html-jpg.jpg)
+*Fig. 4. Flexion (left) and extension (right) plain radiographs obtained at 4-month follow-up demonstrate good hardware positioning without graft dislodgment. Note that the significant correction... Source: [Successful outcome of six-level cervicothoracic corpectomy and circumferential reconstruction: case report and review of literature on multilevel cervicothoracic corpectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC1602202/) — European Spine Journal 2006; open access.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Figure 1](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-08-figure-1-pone-0096265-g001-jpg.jpg)
+*Figure 1. Photographs of lateral (1A) and superior (1B) views of the nano-hydroxyapatite/polyamide66 cage. Source: [Evaluation of Anterior Cervical Reconstruction with Titanium Mesh Cages versus Nano-Hydroxyapatite/Polyamide66 Cages after 1- or 2-Level Corpectomy for Multilevel Cervical Spondylotic Myelopathy: A Retrospective Study of 117 Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC4008500/) — PLoS ONE 2014; CC BY.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Figure 2](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-09-figure-2-pone-0096265-g002-jpg.jpg)
+*Figure 2. A 36-year-old male who underwent 1-level corpectomy with a nano-hydroxyapatite/polyamide66 cage used for cervical reconstruction.The preoperative cervical X-ray film (2A) and MRI scan... Source: [Evaluation of Anterior Cervical Reconstruction with Titanium Mesh Cages versus Nano-Hydroxyapatite/Polyamide66 Cages after 1- or 2-Level Corpectomy for Multilevel Cervical Spondylotic Myelopathy: A Retrospective Study of 117 Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC4008500/) — PLoS ONE 2014; CC BY.*
+
+![Anterior Thoracic Corpectomy Reconstruction — Figure 3](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-10-figure-3-pone-0096265-g003-jpg.jpg)
+*Figure 3. A 61-year-old male who underwent 2-level corpectomy with a nano-hydroxyapatite/polyamide66 cage used for cervical reconstruction.A preoperative cervical X-ray film (3A) shows a loss of... Source: [Evaluation of Anterior Cervical Reconstruction with Titanium Mesh Cages versus Nano-Hydroxyapatite/Polyamide66 Cages after 1- or 2-Level Corpectomy for Multilevel Cervical Spondylotic Myelopathy: A Retrospective Study of 117 Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC4008500/) — PLoS ONE 2014; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

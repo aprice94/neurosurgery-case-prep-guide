@@ -23,24 +23,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lumbar+degenerative+disc+disease+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20degenerative%20disc%20disease&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — lumbosacral spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-![Lumbar vertebra (superior view) — pedicle, lamina & facets](../../figures/spine/lumbar-vertebra-superior_gray93.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
 
-![Lumbar vertebra (lateral view) — body, pedicle & pars](../../figures/spine/lumbar-vertebra-lateral_gray94.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Anterior lumbar interbody fusion: patient selection and workup** — Barber SM. Journal of spine surgery (Hong Kong) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39816775/)
+- **Lumbar interbody fusion: techniques, indications and comparison of interbody fusion options including PLIF, TLIF, MI-TLIF, OLIF/ATP, LLIF and ALIF** — Mobbs RJ. Journal of spine surgery (Hong Kong) 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27683674/)
+- **Anterior lumbar interbody fusion** — Burke PJ. Radiologic technology 2001. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11392300/)
+- **Animal Model for Anterior Lumbar Interbody Fusion: A Literature Review** — Yoshizato H. Spine surgery and related research 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39131411/)
+- **Expandable Cage Technology-Transforaminal, Anterior, and Lateral Lumbar Interbody Fusion** — Macki M. Operative neurosurgery (Hagerstown, Md.) 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34128070/)
+- **Lymphocele after anterior lumbar interbody fusion: a review of 1322 patients** — Scheer JK. Journal of neurosurgery. Spine 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34416719/)
+- **Minimally invasive anterior, lateral, and oblique lumbar interbody fusion: a literature review** — Xu DS. Annals of translational medicine 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29707553/)
+- **Transforaminal Versus Anterior Lumbar Interbody Fusion at L5-S1 for Degenerative Spine Disease : A Meta-Analysis** — Daniels AH. Spine 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40066769/)
+- **Anterior lumbar interbody fusion implants: a narrative review of current trends and future directions** — Bayaton AJ. Journal of spine surgery (Hong Kong) 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40621388/)
+- **Endoscopic Anterior Lumbar Interbody Fusion: Systematic Review and Meta-Analysis** — Brown NJ. Asian spine journal 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38105638/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Anterior Lumbar Interbody Fusion — Figure 1](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-01-figure-1-f00055-1-jpg.jpg)
+*Figure 1. Visual analogue scale (VAS) scores of the study population during the 10-year follow-up. Source: [Good Functional Outcome and Adjacent Segment Disc Quality 10 Years after Single-Level Anterior Lumbar Interbody Fusion with Posterior Fixation](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864470/) — Global Spine Journal 2012; open access.*
+
+![Anterior Lumbar Interbody Fusion — Figure 2](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-02-figure-2-f00055-2-jpg.jpg)
+*Figure 2. Oswestry Disability Index scores of the study population during the 10-year follow-up. Source: [Good Functional Outcome and Adjacent Segment Disc Quality 10 Years after Single-Level Anterior Lumbar Interbody Fusion with Posterior Fixation](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864470/) — Global Spine Journal 2012; open access.*
+
+![Anterior Lumbar Interbody Fusion — Fig 1](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-03-fig-1-gr1-jpg.jpg)
+*Fig 1. Intraoperative post deployment venogram demonstrates patent left common iliac vein (CIV). Source: [Adjunctive endovascular stent graft reinforcement of the common iliac vein for safer anterior lumbar interbody fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11930080/) — Journal of Vascular Surgery Cases, Innovations and Techniques 2025; CC BY-NC-ND.*
+
+![Anterior Lumbar Interbody Fusion — Fig 2](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-04-fig-2-gr2-jpg.jpg)
+*Fig 2. Postoperative lower extremity venous duplex ultrasound demonstrates good flow through the left common and external iliac vein. Normal venous Doppler waveform is shown on the left. Bottom... Source: [Adjunctive endovascular stent graft reinforcement of the common iliac vein for safer anterior lumbar interbody fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11930080/) — Journal of Vascular Surgery Cases, Innovations and Techniques 2025; CC BY-NC-ND.*
+
+![Anterior Lumbar Interbody Fusion — Fig 3](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-05-fig-3-gr3-jpg.jpg)
+*Fig 3. Coronal (left) and transverse (right) non-contrast computed tomography scans demonstrate left common iliac vein (CIV) stent with no hematoma in the retroperitoneum. Source: [Adjunctive endovascular stent graft reinforcement of the common iliac vein for safer anterior lumbar interbody fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11930080/) — Journal of Vascular Surgery Cases, Innovations and Techniques 2025; CC BY-NC-ND.*
+
+![Anterior Lumbar Interbody Fusion — Fig 4](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-06-fig-4-gr4-jpg.jpg)
+*Fig 4. Coronal (left) and sagittal (right) x-rays of lumbar spine demonstrate stable L5-S1 anterior lumbar interbody fusion (ALIF) and left common iliac vein (CIV) stent at 4-month follow-up. Source: [Adjunctive endovascular stent graft reinforcement of the common iliac vein for safer anterior lumbar interbody fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11930080/) — Journal of Vascular Surgery Cases, Innovations and Techniques 2025; CC BY-NC-ND.*
+
+![Anterior Lumbar Interbody Fusion — Figure 3.](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-07-figure-3-10-1177-21925682211072849-fig3-jpg.jpg)
+*Figure 3.. Risk of total complications across comparative study in obese and normal BMI patients. Source: [Obesity: An Independent Risk Factor for Complications in Anterior Lumbar Interbody Fusion? A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9609508/) — Global Spine Journal 2022; CC BY-NC-ND.*
+
+![Anterior Lumbar Interbody Fusion — Figure 4.](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-08-figure-4-10-1177-21925682211072849-fig4-jpg.jpg)
+*Figure 4.. Risk of vascular complications arising from each study group. Source: [Obesity: An Independent Risk Factor for Complications in Anterior Lumbar Interbody Fusion? A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9609508/) — Global Spine Journal 2022; CC BY-NC-ND.*
+
+![Anterior Lumbar Interbody Fusion — Figure 9](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-09-figure-9-10-1177-21925682211072849-img1-jpg.jpg)
+*Figure 9. Source: [Obesity: An Independent Risk Factor for Complications in Anterior Lumbar Interbody Fusion? A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9609508/) — Global Spine J. 2022 Feb 22;12(8):1894–903. doi: 10.1177/21925682211072849; CC BY-NC-ND.*
+
+![Anterior Lumbar Interbody Fusion — Figure 10](../../figures/curated/case-prep-anterior-lumbar-interbody-fusion-alif/figure-10-figure-10-10-1177-21925682211072849-img2-jpg.jpg)
+*Figure 10. Source: [Obesity: An Independent Risk Factor for Complications in Anterior Lumbar Interbody Fusion? A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9609508/) — Global Spine J. 2022 Feb 22;12(8):1894–903. doi: 10.1177/21925682211072849; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

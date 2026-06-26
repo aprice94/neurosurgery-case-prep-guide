@@ -24,30 +24,86 @@ tags:
 - **Video searches:** [AComA aneurysm clipping on YouTube](https://www.youtube.com/results?search_query=anterior+communicating+artery+aneurysm+clipping) · [AComA aneurysm surgery on Neurosurgical Atlas](https://www.neurosurgicalatlas.com)
 - **Angio anatomy:** [neuroangio.org](https://neuroangio.org) — ACA / AComA complex, perforators, cross-filling, projection patterns
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — endovascular coiling vs surgical clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **ISUIA** — Wiebers DO et al. *Lancet* 2003 — natural history and treatment risk of unruptured aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebers+unruptured+intracranial+aneurysms+investigators+2003+Lancet)
-- **BRAT** — Spetzler RF et al. *J Neurosurg* 2012/2015 — Barrow Ruptured Aneurysm Trial, clip vs coil. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Spetzler+Barrow+Ruptured+Aneurysm+Trial+clipping+coiling)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
-
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 > Copyrighted operative figures/videos are linked, not copied. Embedded figures below are public-domain or CC-BY; see [media-sources.md](../../resources/media-sources.md) and [CREDITS.md](../../figures/CREDITS.md).
 
-**Anatomy (public domain)**
 
-![Arteries of the base of the brain — circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
-
-*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
 
 ![ACA / anterior communicating complex (A1–A2, perforators)](../../figures/cranial-vascular/aca-acomm-complex_brainsci-519.jpg)
 
 *Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
 
-![Supraclinoid ICA & circle of Willis (axial CTA correlation)](../../figures/cranial-vascular/circle-of-willis-cta_brainsci-519.jpg)
 
-*Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Anterior Communicating Artery Aneurysm Clipping: Experience at a Tertiary Care Center with Respect to Intraoperative Rupture** — Singh RC. Asian journal of neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33708665/)
+- **Utility of evoked potentials during anterior cerebral artery and anterior communicating artery aneurysm clipping** — Rabai F. Clinical neurophysiology practice 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35935596/)
+- **Contralateral Vasospasm in an Uncomplicated Elective Anterior Communicating Artery Aneurysm Clipping** — Knight JA 2nd. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32145422/)
+- **Clinical use of 3D printed models for anterior communicating artery aneurysm clipping: a prospective cohort study** — Feng C. Frontiers in surgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41415533/)
+- **Paradoxical giftedness and memory decline after anterior communicating artery aneurysm clipping: A high-resolution MRI case report** — Mugikura S. Journal of clinical imaging science 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41625553/)
+- **Posterior ischemic optic neuropathy with acute monocular vision loss following clipping of anterior communicating artery aneurysm. A case report and review of literature** — Sharma AK. Surgical neurology international 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34621586/)
+- **Different Sides of Craniotomy for Anteriorly Superiorly Projecting Anterior Communicating Artery Aneurysm Clipping: Outcome and Long-Term Cognitive Function: A Single-Center Retrospective Study** — Chen J. World neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39863015/)
+- **Letter to the Editor Regarding "Contralateral Vasospasm in an Uncomplicated Elective Anterior Communicating Artery Aneurysm Clipping"** — Marrone S. World neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39623626/)
+- **Infrared thermography brain mapping surveillance in vascular neurosurgery for anterior communicating artery aneurysm clipping** — de Font-Réaulx Rojas E. Surgical neurology international 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30294492/)
+- **Anterior communicating artery aneurysm clipping using standard small fronto-pterional approach, clipping with 3 Lazic clips** — Reinert M. Neurosurgical focus 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25554847/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 1](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-01-figure-1-sni-9-188-g001-jpg.jpg)
+*Figure 1. Unruptured incidental anterior communicating artery aneurysm of 8 × 5 mm Source: [Infrared thermography brain mapping surveillance in vascular neurosurgery for anterior communicating artery aneurysm clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169343/) — Surgical Neurology International 2018; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 2](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-02-figure-2-sni-9-188-g002-jpg.jpg)
+*Figure 2. Image of the basal cortical metabolism measured by infrared thermography mapping (left). The temperature of the frontal lobe cortex is 31.4°C. Image of the second infrared thermography... Source: [Infrared thermography brain mapping surveillance in vascular neurosurgery for anterior communicating artery aneurysm clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169343/) — Surgical Neurology International 2018; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 3](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-03-figure-3-sni-9-188-g003-jpg.jpg)
+*Figure 3. Postoperative computed tomography and angio-CT. No evidence of ischemia in the A1 or anterior communicating artery territory. Adequate clip placement in the neck of the aneurysm with... Source: [Infrared thermography brain mapping surveillance in vascular neurosurgery for anterior communicating artery aneurysm clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169343/) — Surgical Neurology International 2018; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 4](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-04-figure-4-sni-9-188-g004-jpg.jpg)
+*Figure 4. Source: [Infrared thermography brain mapping surveillance in vascular neurosurgery for anterior communicating artery aneurysm clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC6169343/) — Surg Neurol Int. 2018 Sep 20;9:188. doi: 10.4103/sni.sni_58_18; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 1:](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-05-figure-1-sni-12-471-g001-jpg.jpg)
+*Figure 1:. NCCT brain showing SAH in the interhemispheric fissure and bilateral sylvian fissure. Source: [Posterior ischemic optic neuropathy with acute monocular vision loss following clipping of anterior communicating artery aneurysm. A case report and review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492431/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 2:](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-06-figure-2-sni-12-471-g002-jpg.jpg)
+*Figure 2:. Preoperative CT angiography was showing an anterior communicating artery aneurysm. Source: [Posterior ischemic optic neuropathy with acute monocular vision loss following clipping of anterior communicating artery aneurysm. A case report and review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492431/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 3:](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-07-figure-3-sni-12-471-g003-jpg.jpg)
+*Figure 3:. MRI brain showing multiple focal infarcts. Source: [Posterior ischemic optic neuropathy with acute monocular vision loss following clipping of anterior communicating artery aneurysm. A case report and review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492431/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 4:](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-08-figure-4-sni-12-471-g004-jpg.jpg)
+*Figure 4:. (a) Fundus on postoperative day 3: Normal vessels, disc margins (b) well-defined disc with attenuation of blood vessels fundus picture on 15th postoperative day. Source: [Posterior ischemic optic neuropathy with acute monocular vision loss following clipping of anterior communicating artery aneurysm. A case report and review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492431/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 9](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-09-figure-9-sni-12-471-inline001-jpg.jpg)
+*Figure 9. Source: [Posterior ischemic optic neuropathy with acute monocular vision loss following clipping of anterior communicating artery aneurysm. A case report and review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492431/) — Surg Neurol Int. 2021 Sep 20;12:471. doi: 10.25259/SNI_551_2021; CC BY-NC-SA.*
+
+![Anterior Communicating Artery Aneurysm Clipping — Figure 1:](../../figures/curated/case-prep-anterior-communicating-artery-acoma-aneurysm-clipping/figure-10-figure-1-jcis-15-49-g001-jpg.jpg)
+*Figure 1:. Anatomy of the subcallosal and recurrent arteries of Heubner. (A) A schematic illustration, viewed sagittally, demonstrates the course and territory of the subcallosal artery.... Source: [Paradoxical giftedness and memory decline after anterior communicating artery aneurysm clipping: A high-resolution MRI case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12860287/) — Journal of Clinical Imaging Science 2025; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

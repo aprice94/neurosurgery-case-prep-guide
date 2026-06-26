@@ -15,15 +15,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=Reference%3A+CSF+Shunt+Systems%2C+Types%2C+and+Valves+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
-
-![Ventricular system (shunt reference)](../../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
-
 A comprehensive reference for shunt selection. See individual procedure files for VP, VA, ventriculopleural, lumboperitoneal, subduroperitoneal, and revision techniques.
 
 ---
@@ -124,3 +115,73 @@ A comprehensive reference for shunt selection. See individual procedure files fo
 - **Shunt tap** (reservoir) — function, opening pressure, CSF for infection (sterile technique)
 - Nuclear medicine shunt patency study (selected)
 - Programmable valve: confirm/recheck setting (esp. after MRI)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Randomized trial of cerebrospinal fluid shunt valve design in pediatric hydrocephalus** — Drake JM. *Neurosurgery* 1998. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9696082/)
+- **Determining the best cerebrospinal fluid shunt valve design: the pediatric valve design trial** — Drake JM. *Neurosurgery* 1998. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9802875/)
+- **A randomized, controlled study of a programmable shunt valve versus a conventional valve for patients with hydrocephalus** — Hakim-Medos Investigator Group. *Neurosurgery* 1999. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10598708/)
+- **Ventriculo-peritoneal shunting devices for hydrocephalus** — Cochrane systematic review of shunt devices and valve comparisons. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32542676/)
+- **Pediatric hydrocephalus: systematic literature review and evidence-based guidelines. Part 5: Effect of valve type on cerebrospinal fluid shunt efficacy** — valve-type guideline evidence summary. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25988781/)
+- **Efficacy and safety of programmable shunt valves for hydrocephalus: A meta-analysis** — pooled programmable-valve outcomes. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28648796/)
+- **Programmable shunt valves for the treatment of hydrocephalus: a systematic review** — programmable-valve evidence review. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23830575/)
+- **Safety and efficacy of gravitational shunt valves in patients with idiopathic normal pressure hydrocephalus: SVASONA trial** — gravitational valve randomized trial. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23457222/)
+- **Antisiphon device: A review of existing mechanisms and clinical applications to prevent overdrainage in shunted hydrocephalic patients** — antisiphon mechanisms and clinical selection. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34411787/)
+- **Shunt Implants - Past, Present and Future** — historical and technical overview of shunt implant evolution. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35103003/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Reference CSF Shunt Systems, Types, Valves — Figure 1](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-01-figure-1-1743-8454-4-2-1-jpg.jpg)
+*Figure 1. The laboratory rig used to test the pumping actions of hydrocephalus shunts including model of CSF compensation. Source: [Laboratory study on "intracranial hypotension" created by pumping the chamber of a hydrocephalus shunt](https://pmc.ncbi.nlm.nih.gov/articles/PMC1851975/) — Cerebrospinal Fluid Research 2007; CC BY.*
+
+![Reference CSF Shunt Systems, Types, Valves — Figure 2](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-02-figure-2-1743-8454-4-2-2-jpg.jpg)
+*Figure 2. Cerebrospinal pressure-volume curves. a. Pressure-volume curve plotted using clinical test- with permission from author [13]. b. Pressure-volume curve of the model used for testing in... Source: [Laboratory study on "intracranial hypotension" created by pumping the chamber of a hydrocephalus shunt](https://pmc.ncbi.nlm.nih.gov/articles/PMC1851975/) — Cerebrospinal Fluid Research 2007; CC BY.*
+
+![Reference CSF Shunt Systems, Types, Valves — Figure 3](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-03-figure-3-1743-8454-4-2-3-jpg.jpg)
+*Figure 3. Single test of the PS Medical Lumboperitoneal Reservoir using the model of human CSF space. Pumping started at the vertical bar. Pressure decreased slowly at first on the plateau (Fig.... Source: [Laboratory study on "intracranial hypotension" created by pumping the chamber of a hydrocephalus shunt](https://pmc.ncbi.nlm.nih.gov/articles/PMC1851975/) — Cerebrospinal Fluid Research 2007; CC BY.*
+
+![Reference CSF Shunt Systems, Types, Valves — Figure 4](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-04-figure-4-1743-8454-4-2-4-jpg.jpg)
+*Figure 4. Bar chart showing the pressures for the various valves at which the asymptote was achieved by continuously pumping the reservoirs. Source: [Laboratory study on "intracranial hypotension" created by pumping the chamber of a hydrocephalus shunt](https://pmc.ncbi.nlm.nih.gov/articles/PMC1851975/) — Cerebrospinal Fluid Research 2007; CC BY.*
+
+![Reference CSF Shunt Systems, Types, Valves — Figure 5](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-05-figure-5-1743-8454-4-2-5-jpg.jpg)
+*Figure 5. Bar chart showing the number of pumps required for each valve to reach the asymptote. Source: [Laboratory study on "intracranial hypotension" created by pumping the chamber of a hydrocephalus shunt](https://pmc.ncbi.nlm.nih.gov/articles/PMC1851975/) — Cerebrospinal Fluid Research 2007; CC BY.*
+
+![Reference CSF Shunt Systems, Types, Valves — Figure 6](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-06-figure-6-1743-8454-4-2-6-jpg.jpg)
+*Figure 6. Bar chart showing the maximum pressure reduction achievable with a single pump on the valve's pumping chamber. Source: [Laboratory study on "intracranial hypotension" created by pumping the chamber of a hydrocephalus shunt](https://pmc.ncbi.nlm.nih.gov/articles/PMC1851975/) — Cerebrospinal Fluid Research 2007; CC BY.*
+
+![Reference CSF Shunt Systems, Types, Valves — Fig. 1](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-07-fig-1-701-2025-6753-fig1-html-jpg.jpg)
+*Fig. 1. a Testing the anti-reflux valve (arrow) of the Sprung reservoir: the distal catheter (arrowheads), which connects to the actual shunt valve, is occluded with one finger. The reservoir... Source: [PUMP study: reservoir pumping in suspected underdrained shunted patients with normal pressure hydrocephalus – a prospective single-center study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12722420/) — Acta Neurochirurgica 2025; CC BY-NC-ND.*
+
+![Reference CSF Shunt Systems, Types, Valves — Fig. 2](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-08-fig-2-701-2025-6753-fig2-html-jpg.jpg)
+*Fig. 2. Observation sheet provided to patients or their relatives for documenting subjective gait changes following pumping. The example shown is filled out to indicate a temporary improvement Source: [PUMP study: reservoir pumping in suspected underdrained shunted patients with normal pressure hydrocephalus – a prospective single-center study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12722420/) — Acta Neurochirurgica 2025; CC BY-NC-ND.*
+
+![Reference CSF Shunt Systems, Types, Valves — Fig. 4](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-09-fig-4-701-2025-6753-fig4-html-jpg.jpg)
+*Fig. 4. Immediate results of pumping after 10 min and number of observation sheets distributed to patients/relatives Source: [PUMP study: reservoir pumping in suspected underdrained shunted patients with normal pressure hydrocephalus – a prospective single-center study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12722420/) — Acta Neurochirurgica 2025; CC BY-NC-ND.*
+
+![Reference CSF Shunt Systems, Types, Valves — Fig. 1](../../../figures/curated/reference-csf-shunt-systems-types-and-valves/figure-10-fig-1-41378-2024-829-fig1-html-jpg.jpg)
+*Fig. 1. Illustration of alternative methods for CSF drainage in the treatment of hydrocephalus when arachnoid granulations (AGs) fail to regulate CSF flow.The fabricated PDMS duckbill valve can... Source: [Fabrication and in vivo testing of a sub-mm duckbill valve for hydrocephalus treatment](https://pmc.ncbi.nlm.nih.gov/articles/PMC11646279/) — Microsystems & Nanoengineering 2024; CC BY.*
+
+<!-- END CURATED IMAGE SET -->

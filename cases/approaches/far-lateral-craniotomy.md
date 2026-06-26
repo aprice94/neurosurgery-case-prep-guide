@@ -24,17 +24,78 @@ The far-lateral craniotomy is the **posterolateral corridor to the ventral and v
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=foramen+magnum+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Simpson grade** — Simpson D. *J Neurol Neurosurg Psychiatry* 1957 — resection extent vs recurrence. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **RTOG 0539** — Rogers L et al. — risk-adapted radiotherapy for meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Rogers+RTOG+0539+meningioma+risk+adapted+radiotherapy)
-- **EANO guideline** — Goldbrunner R et al. *Neuro-Oncol/Lancet Oncol* 2021 — diagnosis & treatment of meningioma. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas — Transcondylar](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach) · [Rhoton CCJ anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+far+lateral+transcondylar+anatomy) · [Radiopaedia — foramen magnum](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central — far lateral](https://www.ncbi.nlm.nih.gov/pmc/?term=far+lateral+transcondylar+approach)
 
-![Interior base of skull — foramen magnum, occipital condyle, hypoglossal canal, jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons. The far-lateral corridor works around the foramen magnum rim and condyle; the hypoglossal canal is the anteromedial limit of condyle drilling.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Endoscopic Far-Lateral Supracerebellar Infratentorial Approach for Petroclival Region Meningioma: Surgical Technique and Clinical Experience** — Xie T. Operative neurosurgery (Hagerstown, Md.) 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35315837/)
+- **Gridding Microsurgical Anatomy of Far Lateral Approach in the Three-Dimensional Model** — Tang K. The Journal of craniofacial surgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30394967/)
+- **The far-lateral approach for foramen magnum meningiomas** — Flores BC. Neurosurgical focus 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24289120/)
+- **Microsurgical anatomy of the transcondylar, supracondylar, and paracondylar extensions of the far-lateral approach** — Wen HT. Journal of neurosurgery 1997. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9322846/)
+- **Step-by-Step Dissection of the Extreme Lateral Transodontoid Approach to the Anterior Craniovertebral Junction: Surgical Anatomy and Technical Nuances** — Abramov I. World neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37925146/)
+- **Far lateral craniotomy for disconnection of vertebral dural arteriovenous fistula: how I do it** — Rawanduzy C. Acta neurochirurgica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36462066/)
+- **A Microanatomical Study of the Far Lateral Approach** — Di G. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30995558/)
+- **Far-lateral transcondylar approach for microsurgical trapping of an anterior inferior cerebellar artery aneurysm** — Caplan JM. Neurosurgical focus 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26132623/)
+- **A taxonomy for brainstem cavernous malformations: subtypes of medullary lesions** — Catapano JS. Journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35594887/)
+- **A modified far-lateral approach for large or giant meningiomas of the posterior fossa** — Sanai N. Journal of neurosurgery 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19877805/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Far-Lateral Craniotomy — Figure 11](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-01-figure-11-cureus-0014-00000031257-i11-jpg.jpg)
+*Figure 11. FL modifications. (A) Supracondylar modification. After removal of the jugular tubercle, the anterior medullary cistern and lower clivus can be reached. (B) Paracondylar modification.... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
+
+![Far-Lateral Craniotomy — Fig. 1](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-02-fig-1-10143-2026-4171-fig1-html-jpg.jpg)
+*Fig. 1. Positioning and surgical exposure for the far-lateral suboccipital approach. (On Left) Simulated park-bench positioning for the far-lateral suboccipital approach, illustrating the... Source: [Anatomical and quantitative analysis of safe entry zones to the lower brainstem through the far-lateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC12953320/) — Neurosurgical Review 2026; CC BY.*
+
+![Far-Lateral Craniotomy — Fig. 2](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-03-fig-2-10143-2026-4171-fig2-html-jpg.jpg)
+*Fig. 2. Stepwise dissection and exposure in the far-lateral suboccipital approach. This approach enables assessment of the horizontal and vertical working angles to the olivary region of the... Source: [Anatomical and quantitative analysis of safe entry zones to the lower brainstem through the far-lateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC12953320/) — Neurosurgical Review 2026; CC BY.*
+
+![Far-Lateral Craniotomy — Fig. 3](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-04-fig-3-10143-2026-4171-fig3-html-jpg.jpg)
+*Fig. 3. Definition of the exposure area of the lower brainstem, including the pons and ventrolateral medulla. The following landmarks delimit the outlined region: (1) the most posterior point... Source: [Anatomical and quantitative analysis of safe entry zones to the lower brainstem through the far-lateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC12953320/) — Neurosurgical Review 2026; CC BY.*
+
+![Far-Lateral Craniotomy — Fig. 4](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-05-fig-4-10143-2026-4171-fig4-html-jpg.jpg)
+*Fig. 4. Microsurgical working angles to the safe entry zone on the medullary olive. A: Horizontal working angle defined by the anterior-most and posterior-most limiting points on the olive,... Source: [Anatomical and quantitative analysis of safe entry zones to the lower brainstem through the far-lateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC12953320/) — Neurosurgical Review 2026; CC BY.*
+
+![Far-Lateral Craniotomy — Fig. 5](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-06-fig-5-10143-2026-4171-fig5-html-jpg.jpg)
+*Fig. 5. Anatomical landmarks of the medulla oblongata and identification of safe entry zones. The posterior median sulcus and the olivary zone serve as safe entry pathways to the dorsal and... Source: [Anatomical and quantitative analysis of safe entry zones to the lower brainstem through the far-lateral approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC12953320/) — Neurosurgical Review 2026; CC BY.*
+
+![Far-Lateral Craniotomy — Fig. 1](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-07-fig-1-41598-2025-96162-fig1-html-jpg.jpg)
+*Fig. 1. Magnetic resonance imaging (MRI) and intraoperative images of pineal region tumours. (A-C) Preoperative MR image. (D-E) Postoperative MR image. (G) Opening of the quadruple pool. (H) Red... Source: [Clinical outcomes of the neuroendoscopic far lateral supracerebellar infratentorial approach for resection of deep brain lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC11961602/) — Scientific Reports 2025; CC BY-NC-ND.*
+
+![Far-Lateral Craniotomy — Fig. 2](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-08-fig-2-41598-2025-96162-fig2-html-jpg.jpg)
+*Fig. 2. Imaging data of patients with thalamic haematoma. (A) Preoperative cranial CT revealed a right thalamic haematoma and left frontal lobe haematoma. (B) Preoperative MR image. (C)... Source: [Clinical outcomes of the neuroendoscopic far lateral supracerebellar infratentorial approach for resection of deep brain lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC11961602/) — Scientific Reports 2025; CC BY-NC-ND.*
+
+![Far-Lateral Craniotomy — Fig. 3](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-09-fig-3-41598-2025-96162-fig3-html-jpg.jpg)
+*Fig. 3. Intraoperative images of patients with thalamic haematoma. (A) Electrocoagulation and devascularization of the bridging vein. (B) Opening of the arachnoid. (C) Thalamic haematoma. (D)... Source: [Clinical outcomes of the neuroendoscopic far lateral supracerebellar infratentorial approach for resection of deep brain lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC11961602/) — Scientific Reports 2025; CC BY-NC-ND.*
+
+![Far-Lateral Craniotomy — Fig. 4](../../figures/curated/operative-approach-far-lateral-transcondylar-craniotomy/figure-10-fig-4-41598-2025-96162-fig4-html-jpg.jpg)
+*Fig. 4. Magnetic resonance imaging (MRI) and intraoperative images of petroclival meningioma. (A) Preoperative MR image. (B) Postoperative MR image. (C) The tumor encircles the acoustic-facial... Source: [Clinical outcomes of the neuroendoscopic far lateral supracerebellar infratentorial approach for resection of deep brain lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC11961602/) — Scientific Reports 2025; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -76,14 +137,12 @@ The far-lateral craniotomy is the **posterolateral corridor to the ventral and v
 ---
 
 ## Positioning
-📷 *[Atlas — far-lateral positioning](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach)*
 
 - **Park-bench (lateral) is the workhorse:** patient lateral, operative side up, in Mayfield fixation; the dependent arm is supported off the table edge in a sling, axillary roll in place.
 - **Head maneuver (three moves) to bring the ventral foramen magnum into view:** (1) **flexion** (chin toward sternum), (2) **rotation ~30–45° toward the floor/contralateral side**, and (3) **lateral flexion** of the head toward the contralateral shoulder. The mastoid becomes the highest point and the surgeon looks up the ventral medulla.
 - Ipsilateral shoulder taped down caudally to open the cervico-mastoid angle; verify venous outflow and recheck IONM after positioning.
 
 ## Incision & Soft-Tissue Dissection
-📷 *[Atlas — hockey-stick incision & muscle layers](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach)*
 
 - **Hockey-stick (inverted-J) incision:** down the midline from the inion to ~C3–C4, then curving laterally along the superior nuchal line toward the mastoid — or a **C-shaped/“lazy-S”** flap. The midline limb uses the avascular nuchal raphe.
 - Reflect a **myocutaneous flap** inferolaterally, taking the suboccipital muscles off the occiput and C1; **leave a muscular/nuchal cuff superiorly** for watertight closure.
@@ -98,16 +157,11 @@ The far-lateral craniotomy is the **posterolateral corridor to the ventral and v
 ## Bone Work — Craniotomy, C1, and the Condyle
 
 ### Craniotomy / craniectomy + C1
-📷 *[Atlas — bone removal](https://www.neurosurgicalatlas.com/neuroanatomy/far-lateral-and-transcondylar-approaches)*
 1. **Lateral suboccipital craniotomy/craniectomy** carried laterally to the **sigmoid sinus** and inferiorly to the **foramen magnum**; **remove the lateral rim of the foramen magnum** (the key maneuver of the basic far-lateral).
 2. **C1 hemilaminectomy** out to the VA sulcus / transverse foramen (protect V3). Wax the abundant venous bleeding.
 
-![Far-lateral craniotomy with C1 arch removed — posterior-fossa and spinal dura, occipital and vertebral arteries, transverse/sigmoid sinuses](../../figures/far-lateral/craniotomy-c1-dura_cureus-e31257.jpg)
-
-*Payman A, et al. Cureus 2022;14(11):e31257 — CC BY.*
 
 ### Condyle / jugular tubercle (extensions as needed)
-📷 *[Atlas — transcondylar drilling](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach)*
 3. **Transcondylar:** drill the **posterior third of the occipital condyle** to flatten the ventral trajectory; the **hypoglossal canal is the anteromedial stop** (identify it; the emissary/condylar veins herald it). Tailor the extent to the lesion — only remove what the trajectory requires.
 4. **Supracondylar (jugular tubercle) / paracondylar** drilling added for ventral clival or jugular-foramen reach.
 5. If condyle resection approaches/exceeds ~50% (or with pre-existing laxity), plan **occipitocervical fusion** — see [occipitocervical-fusion.md](../spine-trauma/occipitocervical-fusion.md).
@@ -119,7 +173,6 @@ The far-lateral craniotomy is the **posterolateral corridor to the ventral and v
 ---
 
 ## Dural Opening & Intradural Work
-📷 *[Atlas — dural opening & lower CN microsurgery](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach)*
 
 - Open the dura in a **curvilinear/C- or T-shaped flap based on the sigmoid sinus**, carrying the limb across the **VA dural entry** (a dural cuff around V4 is preserved/repaired); tack toward the sinus. Beware the **posterior spinal artery** and the dural VA ring.
 - Release CSF from the cisterna magna; the cerebellum and tonsil relax. **Identify the lower CNs** (XI rootlets along the cord first, then X and IX to the jugular foramen, XII rootlets between VA and medulla), **PICA**, and V4.

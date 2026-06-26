@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC5354876",
+    "article_title": "Induction of specific T helper-9 cells to inhibit glioma cell growth",
+    "journal": "Oncotarget",
+    "year": "2017",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "SEB facilitates glioma-specific Th9 response in glioma-bearing miceGlioma-bearing mice were treated with Ag (the GL261 cell extracts; 100 \u03bcg/mouse; cAg, the NG108-15 cell extracts, 100 \u03bcg/mouse; used as a control Ag) or/and SEB (2 \u03bcg/mouse; ip). Samples of serum, glioma tissue and the spleens were collected at sacrifice. (A) the bars indicate the serum levels of IL-4, IL-9 and IFN-\u03b3 (by ELISA). (B) the bars indicate the proliferation rate of Teff cells in the glioma tissue and the spleen (by flow cytometry). (C\u2013N), CD4+ CD25\u2212 T cells were isolated from the spleen and glioma tissue by MACS, stained with CFSE, and cultured with DCs in the presence of glioma cell extracts (5 \u03bcg/ml) for 3 days. The histograms show the representative results of Teff cell proliferation (the summarized data are presented in B). (O\u2013U), the histograms show the frequency of IL-4+ cells, IL-9+ cells, IFN-\u03b3+ cells and IL-17+ cells in panel F (O-R) and panel K (S\u2013V) respectively. Each group consists of 9 mice. The sera from individual mice were analyzed separately; the data represent 3 independent experiments. Teff cells isolated from 3 glioma tissue were pooled to one sample (due to the small amount of cell number). The data of C-G represent 3 samples per group performed in one experiment. Teff cells isolated from individual mice were processed separately. The cell ratio in the proliferation assay is 5 \u00d7 104 Teff cells: 1 \u00d7 104 DCs. Phorbol-12-myristate-13-acetate (PMA; 20 ng/ml) was added to the culture to activate the Teff cells. Each group consists of 9 mice.",
+    "href": "oncotarget-08-4864-g001.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-01-figure-1-oncotarget-08-4864-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5354876.1/oncotarget-08-4864-g001.jpg?md5=b72e0d2c128fc4497e8e3145df82a561"
+  },
+  {
+    "pmcid": "PMC5354876",
+    "article_title": "Induction of specific T helper-9 cells to inhibit glioma cell growth",
+    "journal": "Oncotarget",
+    "year": "2017",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Counts of IL-9+ CD4+ T cells in glioma tissue(A\u2013F) the photomicrographs show the IL-9+ (in red) CD4+ (in brown) T cells in glioma tissue from glioma-bearing mice. Panel F is negative staining controls (stained with isotype IgG). Image magnification: \u00d7400. (G) the bars (mean \u00b1 SD; *p < 0.01, compared with the saline group) indicate the summarized data of panels A-F (averaged from 20 fields of each mouse). (H) CD4+ T cells were gated from the single cells of glioma tissue. (I\u2013M) the gated plots indicate IL-9+ CD25\u2212 T cells in the CD4+ T cells as shown in panel H. The data of bars are presented as mean \u00b1 SD. *p < 0.01, compared with the saline group. Each group consists of 9 mice. Samples from individual mice were processed separately. cAg is NG108-15 cell extracts, 100 \u03bcg/mouse; used as a control Ag.",
+    "href": "oncotarget-08-4864-g002.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-02-figure-2-oncotarget-08-4864-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5354876.1/oncotarget-08-4864-g002.jpg?md5=f7bba5f744e9e5cf6b6fd577b164c8f3"
+  },
+  {
+    "pmcid": "PMC5354876",
+    "article_title": "Induction of specific T helper-9 cells to inhibit glioma cell growth",
+    "journal": "Oncotarget",
+    "year": "2017",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "SEB regulates IL-9 gene expression in CD4+ T cellsCD4+ CD25\u2212 T cells were cultured SEB (at gradient doses as denoted) for 6 days. Cytosolic and nuclear extracts were prepared from the cells. (A) the immune blots indicate a complex of SEB and VDR (vitamin D receptor). (B) the immune blots indicate the levels of phosphorylated p300. (C\u2013E) ChIP assay data; the bars indicate the levels of p300 (C), acetylated H3K4 (D) and PU.1 (E) at the IL-9 promoter locus. (F) the bars indicate the mRNA levels of IL-9 in the cytosolic extracts (by RT-qPCR). (G\u2013H) the immune blots indicate the RNAi results of VDR (G) and p300 (H). The data of bars are presented as mean \u00b1 SD. *p < 0.01, compared with the dose \u201c0\u201d group. The data are representatives of 3 independent experiments.",
+    "href": "oncotarget-08-4864-g003.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-03-figure-3-oncotarget-08-4864-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5354876.1/oncotarget-08-4864-g003.jpg?md5=11dc1ad0b3435e78cba91fa79159a786"
+  },
+  {
+    "pmcid": "PMC5354876",
+    "article_title": "Induction of specific T helper-9 cells to inhibit glioma cell growth",
+    "journal": "Oncotarget",
+    "year": "2017",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "SEB induces Th9 cellsCD4+ CD25\u2212 T cells and DCs (T cell:DC = 5:1) were cultured in the presence of SEB (100 ng/ml) and IL-2 (10 ng/ml; used as a T cell activator) for 6 days. The medium and related agents were changed in every 3-day. The cells were collected at the end of the culture and analyzed by flow cytometry. (A\u2013E), the histograms indicate the frequency of IL-9+ T cells. Garcinol (an inhibitor of p300; 1 \u03bcg/ml). (F) the bars indicate the summarized data of A-E (mean \u00b1 SD. *p < 0.01, compared with group A). The data are representatives of 3 independent experiments.",
+    "href": "oncotarget-08-4864-g004.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-04-figure-4-oncotarget-08-4864-g004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5354876.1/oncotarget-08-4864-g004.jpg?md5=6cff58c3a661c42d3d1c0d8d5873ad06"
+  },
+  {
+    "pmcid": "PMC5354876",
+    "article_title": "Induction of specific T helper-9 cells to inhibit glioma cell growth",
+    "journal": "Oncotarget",
+    "year": "2017",
+    "license": "CC BY",
+    "label": "Figure 5",
+    "caption": "SEB and glioma cell extracts induce glioma-specific Th9 cellsTh9 cells were generated from na\u00efve CD4+ CD25\u2212 T cells with the presence of glioma extracts (5 \u03bcg/ml) and DCs in the presence of PMA (20 ng/ml). (A\u2013B) the dot plots show the frequency of Th9 cells (A); panel B is an isotype control. The T cells were collected and negatively selected by MACS, labeled with CFSE and exposed to medium, or glioma cell extracts, or BSA (a non-specific antigen, using as a control) in the presence of freshly isolated DCs (DC: T cells = 104 cells: 105 cells) for 3 days. The cells were analyzed by flow cytometry. (C\u2013E), the gated histograms indicate the proliferated T cells. (F) the bars indicate the summarized data of C-E. The data are presented as mean \u00b1 SD. *p < 0.01, compared with group C. The data are representatives of 3 independent experiments.",
+    "href": "oncotarget-08-4864-g005.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-05-figure-5-oncotarget-08-4864-g005-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5354876.1/oncotarget-08-4864-g005.jpg?md5=367d09be6984ddf529113d7df208b9db"
+  },
+  {
+    "pmcid": "PMC5354876",
+    "article_title": "Induction of specific T helper-9 cells to inhibit glioma cell growth",
+    "journal": "Oncotarget",
+    "year": "2017",
+    "license": "CC BY",
+    "label": "Figure 6",
+    "caption": "Glioma-specific Th9 cells induce glioma cell apoptosisTh9 cells were generated in the same procedures of Figure 4D. The cells (contain both Th9 cells and DCs; or #, na\u00efve CD4+ T cells) were cultured with GL261 cells (the glioma cell line) at a ratio of 1:1 for 24 h. Anti-IL-9 Ab (500 ng/ml). The cells were analyzed by flow cytometry. (A\u2013F) the gated dot plots indicate the apoptotic cells. (G) the bars indicate the summarized data of A-F. (H\u2013J) the histograms indicate the phenotypes of the apoptotic cells in the gated cells of panel B. CD44 is a marker of glioma cells. (K) the bars indicate the summarized data of H-J. rIL-9: 100 ng/ml. The data of bars are presented as mean \u00b1 SD. *p < 0.01, compared with group A (panel G), or group G (panel K). The data are representatives of 3 independent experiments.",
+    "href": "oncotarget-08-4864-g006.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-06-figure-6-oncotarget-08-4864-g006-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5354876.1/oncotarget-08-4864-g006.jpg?md5=6942594b8f1811888c72a0234aa6d171"
+  },
+  {
+    "pmcid": "PMC5354876",
+    "article_title": "Induction of specific T helper-9 cells to inhibit glioma cell growth",
+    "journal": "Oncotarget",
+    "year": "2017",
+    "license": "CC BY",
+    "label": "Figure 7",
+    "caption": "Administration with SEB enforces the effect of immunotherapy of Ag on experimental gliomaThe bars indicate the tumor size (mean \u00b1 SD) recorded from glioma-bearing mice. The treatment is denoted on the right side of the figure. Ag: GL261 cell extracts (100 \u03bcg/mouse; ip, daily). SEB (2 \u03bcg/mouse; ip; daily). Ab: Anti-IL-9 neutralizing Ab (200 \u03bcg/mouse; ip, day 3, 6 and 9). IgG: Isotype IgG (200 \u03bcg/mouse; ip, day 3, 6 and 9). Th9 cell (or na\u00efve T cell, or #Th9 cell): Mice were adoptively transferred with glioma-specific Th9 cells (or na\u00efve CD4+ T cells, or BSA-specific Th9 cells) at 106 cell/mouse on day 3 and day 7 respectively. The bars indicate the tumor size. *p < 0.01, compared with the saline group. Each group consists of 9 mice.",
+    "href": "oncotarget-08-4864-g007.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-07-figure-7-oncotarget-08-4864-g007-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5354876.1/oncotarget-08-4864-g007.jpg?md5=b230564ec5e706a98dfab16c701a2104"
+  },
+  {
+    "pmcid": "PMC11199819",
+    "article_title": "Evidences of neurological injury caused by COVID\u201019 from glioma tissues and glioma organoids",
+    "journal": "CNS Neuroscience & Therapeutics",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "FIGURE 1",
+    "caption": "Glioma tissues are susceptible to SARS\u2010CoV\u20102. (A) Immunofluorescent staining detecting the presence of the SARS\u2010CoV\u20102 spike protein and ACE2 in glioblastoma tissue obtained from a patient who underwent tumor resection surgery 51 days after recovering from COVID\u201019. (B) Immunofluorescent staining detecting the presence of the SARS\u2010CoV\u20102 spike protein and ACE2 in glioma tissue (astrocytoma with IDH mutation, CNS WHO grade 4) from a patient who underwent tumor resection surgery 74 days after contracting COVID\u201019. (C\u2013E) Spatial expression analyses displaying the distribution of SARS\u2010CoV\u20102 entry factors (C) in normal brain tissue (sample ID: UKF248C), including spatial cell clustering (D) and the quantity of these factors within each cell cluster (E). (F\u2013H) Spatial expression analyses displaying the distribution of SARS\u2010CoV\u20102 entry factors (F) in a glioblastoma tissue (sample ID: UKF275T), including spatial cell clustering (G), and the quantity of these factors within each cell cluster (H). (I\u2013K) Spatial expression analyses displaying the distribution of SARS\u2010CoV\u20102 entry factors (I) in a glioblastoma tissue obtained from a patient with a history of COVID\u201019 (sample ID: Glioma\u2010COVD19 2), including spatial cell clustering (J), and the quantity of SARS\u2010CoV\u20102 entry factors within each cell cluster (K).",
+    "href": "CNS-30-e14822-g001.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-08-figure-1-cns-30-e14822-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11199819.1/CNS-30-e14822-g001.jpg?md5=6595934943626916058807570996bf8e"
+  },
+  {
+    "pmcid": "PMC11199819",
+    "article_title": "Evidences of neurological injury caused by COVID\u201019 from glioma tissues and glioma organoids",
+    "journal": "CNS Neuroscience & Therapeutics",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "FIGURE 2",
+    "caption": "Difference analyses of normal brain tissues, glioma tissues, and glioma\u2010COVID tissues. (A) The workflow for the comparative analysis of the three groups of tissues. (B, C) UMAP representations depict the samples within the normal brain tissue group (comprising UKF248C, UKF265C, UKF313C, and UKF334C), the glioma tissue group (comprising GBM5_1, UKF269T, and UKF275T), and the glioma\u2010COVID tissue group (comprising Glioma\u2010COVID 2, Glioma\u2010COVID 3, and Glioma\u2010COVID 4). (D) KEGG pathway enrichment analyses of the enriched pathways with differentially expressed genes (DEGs) between glioma\u2010COVID tissues and normal brain tissues. (E) KEGG pathway enrichment analyses of the enriched pathways with DEGs between glioma\u2010COVID tissues and glioma tissues.",
+    "href": "CNS-30-e14822-g002.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-09-figure-2-cns-30-e14822-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11199819.1/CNS-30-e14822-g002.jpg?md5=fa61913d4e8804ba7f0eb8657f50dc20"
+  },
+  {
+    "pmcid": "PMC11199819",
+    "article_title": "Evidences of neurological injury caused by COVID\u201019 from glioma tissues and glioma organoids",
+    "journal": "CNS Neuroscience & Therapeutics",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "FIGURE 3",
+    "caption": "The global comparison of the differences of the neuronal cells or non\u2010neuronal cells in normal brain tissues, glioma tissues, and glioma\u2010COVID tissues. (A, B) UMAP representation of the differences of the neuronal cells in normal brain tissues, glioma tissues, and glioma\u2010COVID tissues. (C, D) UMAP representation of the differences in the non\u2010neuronal cells of normal brain tissues, glioma tissues, and glioma\u2010COVID tissues.",
+    "href": "CNS-30-e14822-g003.jpg",
+    "local": "figures/curated/case-prep-glioma-resection-supratentorial/figure-10-figure-3-cns-30-e14822-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11199819.1/CNS-30-e14822-g003.jpg?md5=4acacfc0cc344352888daa86c4bffb95"
+  }
+]

@@ -21,18 +21,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+foraminal+stenosis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **AOSpine CSM** — Fehlings MG et al. — guidelines & prospective outcomes for cervical spondylotic myelopathy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+AOSpine+cervical+spondylotic+myelopathy+guideline+outcomes)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
-
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20foraminal%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=posterior+cervical+foraminotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — cervical spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Posterior Endoscopic Cervical Foraminotomy** — Bhatia S. Neurosurgery clinics of North America 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31739934/)
+- **Posterior Cervical Foraminotomy Via Full-Endoscopic Versus Microendoscopic Approach for Radiculopathy: A Systematic Review and Meta-analysis** — Wu PF. Pain physician 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30700067/)
+- **Minimally invasive posterior cervical foraminotomy versus the anterior transcorporeal approach for cervical radiculopathy: a systematic review and meta-analysis** — Rajjoub R. Journal of neurosurgery. Spine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39126721/)
+- **Cervical radiculopathy** — Iyer S. Current reviews in musculoskeletal medicine 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27250042/)
+- **Impact of Posterior Cervical Foraminotomy Before or After Cervical Disk Replacement: Current Evidence** — Young MW. Clinical spine surgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37798824/)
+- **Endoscopic Posterior Cervical Foraminotomy and Discectomy** — Raad M. JBJS essential surgical techniques 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40567511/)
+- **Cervical posterior foraminotomy: how i do it** — Cossu G. Acta neurochirurgica 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31938822/)
+- **Posterior foraminotomy for lateral cervical disc herniation** — Mehren C. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30758722/)
+- **Minimally invasive posterior cervical foraminotomy versus anterior cervical fusion and arthroplasty: Systematic review and updated meta-analysis** — Fang H. Brain & spine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39036750/)
+- **Posterior Cervical Foraminotomy Compared with Anterior Cervical Discectomy with Fusion for Cervical Radiculopathy: Two-Year Results of the FACET Randomized Noninferiority Study** — Simões de Souza NF. The Journal of bone and joint surgery. American volume 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39047120/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Posterior Cervical Foraminotomy — Figure 1](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-01-figure-1-41598-2022-12493-fig1-html-jpg.jpg)
+*Figure 1. The position of a patient during surgery. Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure 2](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-02-figure-2-41598-2022-12493-fig2-html-jpg.jpg)
+*Figure 2. Under fluoroscopic control, the guide wires are inserted through the posterior cervical musculature with the tip directed to the operative disc space. Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure 3](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-03-figure-3-41598-2022-12493-fig3-html-jpg.jpg)
+*Figure 3. Working channel Insertion. On a string conductor, tubular reamers of increasing diameter were introduced, on which a working cannula with a beveled cut with an external diameter of 7.5... Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure 4](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-04-figure-4-41598-2022-12493-fig4-html-jpg.jpg)
+*Figure 4. Bone Resection. Laminotomy and facetectomy are performed with 3.0 mm diamond boron, from “V-point” to the periphery. Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure 5](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-05-figure-5-41598-2022-12493-fig5-html-jpg.jpg)
+*Figure 5. Preparation and removal of the herniated material. Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure 6](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-06-figure-6-41598-2022-12493-fig6-html-jpg.jpg)
+*Figure 6. Surgical diagrams for Endoscopic Posterior Cervical Foraminotomy and Discectomy techniques: A and B localize of working cannula. C The facet joint is identified by removing the overlying... Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure7](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-07-figure7-41598-2022-12493-fig7-html-jpg.jpg)
+*Figure7. Neck pain intensity on visual analogue scale (VAS- Neck) before and after surgery. Minimal clinically important differences (MCID) = 28 mm. Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure 8](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-08-figure-8-41598-2022-12493-fig8-html-jpg.jpg)
+*Figure 8. Arm pain intensity on visual analogue scale (VAS- Arm) before and after surgery. Minimal clinically important differences (MCID) = 26 mm. Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure 9](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-09-figure-9-41598-2022-12493-fig9-html-jpg.jpg)
+*Figure 9. Herniation of C5-6 right. Before (A) and after (B) operation (male, 32 years old). Source: [The first experience with fully endoscopic posterior cervical foraminotomy and discectomy for radiculopathy performed in Viet Duc University Hospital](https://pmc.ncbi.nlm.nih.gov/articles/PMC9117311/) — Scientific Reports 2022; CC BY.*
+
+![Posterior Cervical Foraminotomy — Figure 10](../../figures/curated/case-prep-posterior-cervical-foraminotomy-laminoforaminotomy/figure-10-figure-10-sni-6-81-g001-jpg.jpg)
+*Figure 10. Source: [Minimally invasive tubular access for posterior cervical foraminotomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC4439784/) — Surg Neurol Int. 2015 May 19;6:81. doi: 10.4103/2152-7806.157308; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

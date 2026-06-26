@@ -20,17 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereotactic+brain+biopsy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Yield & risk** — Hall WA. *Cancer* 1998 — diagnostic yield and complications of stereotactic brain biopsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hall+stereotactic+brain+biopsy+diagnostic+yield+complications+1998+Cancer)
-- **Molecular era** — Tissue adequacy for integrated WHO CNS5 molecular diagnosis guides target selection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=stereotactic+biopsy+molecular+diagnosis+glioma+WHO+classification+adequacy)
-- **Guidelines:** [NCCN CNS](https://www.nccn.org/guidelines/category_1) · [CNS](https://www.cns.org/guidelines)
-
-![Ventricular system & deep structures (navigation targets)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20brain%20biopsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=frameless+navigation+brain+biopsy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Feasability of a Frameless Brain Biopsy System for Companion Animals Using Cone-Beam CT-Based Automated Registration** — Meneses F. Frontiers in veterinary science 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35224071/)
+- **Robot-assisted frameless brain biopsy with computed tomography-to-fluoroscopy registration: Step-by-step surgical video** — Taravilla-Loma M. Surgical neurology international 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42232440/)
+- **MRI-guided frameless biopsy robotic system with the inclusion of unfocused ultrasound transducer for brain cancer ablation** — Giannakou M. The international journal of medical robotics + computer assisted surgery : MRCAS 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30157310/)
+- **Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis** — Kesserwan MA. Surgical neurology international 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33654555/)
+- **Real-Time 2D Ultrasound Guided Frameless Biopsy of a Multifocal Glioma: Improving Accuracy and Diagnostic Yield** — Yeole U. Neurology India 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34979640/)
+- **A comparison of the efficacy, safety, and duration of frame-based and Remebot robot-assisted frameless stereotactic biopsy** — Wu S. British journal of neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32940070/)
+- **A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy** — Hu Y. Frontiers in neurology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35923834/)
+- **Blurring the boundaries between frame-based and frameless stereotaxy: feasibility study for brain biopsies performed with the use of a head-mounted robot** — Grimm F. Journal of neurosurgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26067616/)
+- **A Comparison of the Safety, Efficacy, and Accuracy of Frame-Based versus Remebot Robot-Assisted Stereotactic Systems for Biopsy of Brainstem Tumors** — Li C. Brain sciences 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36831906/)
+- **[Automated proton magnetic resonance spectroscopy imaging guided frameless stereotactic biopsy of intracranial lesions]** — Zhu W. Zhonghua wai ke za zhi [Chinese journal of surgery] 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24924574/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Frameless Stereotactic Brain Biopsy — Figure 1](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-01-figure-1-brainsci-13-00362-g001-jpg.jpg)
+*Figure 1. Image of the Remebot system. Source: [A Comparison of the Safety, Efficacy, and Accuracy of Frame-Based versus Remebot Robot-Assisted Stereotactic Systems for Biopsy of Brainstem Tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC9954386/) — Brain Sciences 2023; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 2](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-02-figure-2-brainsci-13-00362-g002-jpg.jpg)
+*Figure 2. Case presentation: (A) MRI with T1 sequence in axial view. (B) MRI T2 sequence in axial view. (C) MRI T2 flair sequence in axial view. (D) MRI T1 gadolinium sequence in axial view. (E)... Source: [A Comparison of the Safety, Efficacy, and Accuracy of Frame-Based versus Remebot Robot-Assisted Stereotactic Systems for Biopsy of Brainstem Tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC9954386/) — Brain Sciences 2023; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 3](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-03-figure-3-brainsci-13-00362-g003-jpg.jpg)
+*Figure 3. Case presentation: (A) MRI with T1 sequence in axial view. (B) MRI T2 sequence in axial view. (C) MRI T2 flair sequence in axial view. (D) MRI T1 gadolinium sequence in axial view. (E)... Source: [A Comparison of the Safety, Efficacy, and Accuracy of Frame-Based versus Remebot Robot-Assisted Stereotactic Systems for Biopsy of Brainstem Tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC9954386/) — Brain Sciences 2023; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 1](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-04-figure-1-fneur-13-928070-g0001-jpg.jpg)
+*Figure 1. (A) The SINO surgical robot. (B,C) The robot for brain biopsy. Source: [A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339900/) — Frontiers in Neurology 2022; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 2](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-05-figure-2-fneur-13-928070-g0002-jpg.jpg)
+*Figure 2. (A,B) Design the stereotactic trajectory on the Sinoplan software. (C) Three-dimensional (3D) visualization technology of craniocerebral vascular. Source: [A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339900/) — Frontiers in Neurology 2022; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 3](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-06-figure-3-fneur-13-928070-g0003-jpg.jpg)
+*Figure 3. (A–C) Measurement of entry point error based on postoperative CT scanning. The red lines represent the biopsy trajectory planned preoperatively. Bone defects represent the actual biopsy... Source: [A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339900/) — Frontiers in Neurology 2022; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 4](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-07-figure-4-fneur-13-928070-g0004-jpg.jpg)
+*Figure 4. (A–C) Measurement of target point error based on postoperative CT scanning. The centers of the red circles represent the target points planned preoperatively. The TPEs are computed based... Source: [A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339900/) — Frontiers in Neurology 2022; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 5](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-08-figure-5-fneur-13-928070-g0005-jpg.jpg)
+*Figure 5. (A,B) The EPE and TPE of robot-assisted group were significantly less than that of frame-based group. (C) There was a significant reduction in operation time ***means P < 0.001. Source: [A Comparation Between Frame-Based and Robot-Assisted in Stereotactic Biopsy](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339900/) — Frontiers in Neurology 2022; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 1](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-09-figure-1-fvets-08-779845-g0001-jpg.jpg)
+*Figure 1. Set up of the mobile cone-beam computed tomography and navigation system in the operating room showing a dog cadaver in sternal recumbency. The head has been secured to the bite plate.... Source: [Feasability of a Frameless Brain Biopsy System for Companion Animals Using Cone-Beam CT-Based Automated Registration](https://pmc.ncbi.nlm.nih.gov/articles/PMC8863864/) — Frontiers in Veterinary Science 2022; CC BY.*
+
+![Frameless Stereotactic Brain Biopsy — Figure 2](../../figures/curated/case-prep-frameless-navigation-based-stereotactic-brain-biopsy/figure-10-figure-2-fvets-08-779845-g0002-jpg.jpg)
+*Figure 2. Transverse T2-weighted (A) and T1-weighted contrast enhanced (B) image and of an 11-year-old female spayed Poodle with biopsy proven vasculitis and meningoencephalitis of unknown origin.... Source: [Feasability of a Frameless Brain Biopsy System for Companion Animals Using Cone-Beam CT-Based Automated Registration](https://pmc.ncbi.nlm.nih.gov/articles/PMC8863864/) — Frontiers in Veterinary Science 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

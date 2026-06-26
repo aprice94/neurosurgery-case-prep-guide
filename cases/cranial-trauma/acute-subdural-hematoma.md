@@ -22,17 +22,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=acute+subdural+haematoma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Surgical TBI guidelines** — Bullock MR et al. *Neurosurgery* 2006 — surgical management of acute SDH/EDH/contusion. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bullock+surgical+management+traumatic+acute+subdural+epidural+2006+Neurosurgery)
-- **BTF guidelines** — Carney N et al. *Neurosurgery* 2017 — Brain Trauma Foundation, 4th ed. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carney+Brain+Trauma+Foundation+guidelines+severe+TBI+2017)
-- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
-
-![Interior skull base / calvarium (subdural space)](../../figures/anatomy/skull-base-interior_gray193.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=acute%20subdural%20haematoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=acute+subdural+hematoma+craniotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Emergency anatomy and exposure:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm incision/flap planning, sinus/vessel risks, decompression goals, and mass-effect physiology.
+- **Technique sequence:** Greenberg; Youmans and Winn — review evacuation/decompression sequence, hemostasis, dural strategy, drain use, and bone-flap/cranioplasty decisions.
+- **Complication rescue:** Greenberg; trauma guidelines and primary literature — summarize swelling, coagulopathy, seizures, infection, hydrocephalus, and ICU surveillance in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Optimizing shunt integrity during acute subdural hematoma evacuation** — Tanaka T. Surgical neurology international 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39372979/)
+- **Predictive Factors of Outcomes in Acute Subdural Hematoma Evacuation** — Manan Z. Cureus 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36540499/)
+- **Acute Subdural Hematoma Evacuation: Predictive Factors of Outcome** — Lavrador JP. Asian journal of neurosurgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30283506/)
+- **Contralateral acute subdural hematoma following traumatic acute subdural hematoma evacuation** — Shen J. Neurologia medico-chirurgica 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23615411/)
+- **Cardiopulmonary hemodynamic changes during acute subdural hematoma evacuation** — Tamaki T. Neurologia medico-chirurgica 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16723813/)
+- **Fatal postoperative tension pneumocephalus after acute subdural hematoma evacuation: a case report** — Gkantsinikoudis N. The International journal of neuroscience 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38716712/)
+- **Contralateral subdural hematoma development following unilateral acute subdural hematoma evacuation** — Shibahashi K. British journal of neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27447887/)
+- **Role of surgical modality and timing of surgery as clinical outcome predictors following acute subdural hematoma evacuation** — Altaf I. Pakistan journal of medical sciences 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32292444/)
+- **PROMISE: Prognostic Radiomic Outcome Measurement in Acute Subdural Hematoma Evacuation Post-Craniotomy** — Guranda A. Brain sciences 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39851426/)
+- **Surgery for contralateral acute epidural hematoma following acute subdural hematoma evacuation: five new cases and a short literature review** — Shen J. Acta neurochirurgica 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23238942/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — FIGURE 1.](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-01-figure-1-neuopen-4-e00056-g001-jpg.jpg)
+*FIGURE 1.. Preoperative and Postoperative imaging. A, Axial, head CT images demonstrate acute, left-sided subdural hematoma measuring 20.6 mm in maximum thickness with 9 mm in midline shift. B,... Source: [Mini-Craniotomy With Endoscopic Approach for Acute Subdural Hematoma Evacuation in a Patient With Complex Scalp Flap Defect: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11809946/) — Neurosurgery Practice 2023; CC BY-NC-ND.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — FIGURE 2.](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-02-figure-2-neuopen-4-e00056-g002-jpg.jpg)
+*FIGURE 2.. Intraoperative photographs. A, Patient's scalp with vastus medialis flap and skin graft over the cranial vertex. Note is made of multiple areas of erosion and exposed skull. B,... Source: [Mini-Craniotomy With Endoscopic Approach for Acute Subdural Hematoma Evacuation in a Patient With Complex Scalp Flap Defect: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11809946/) — Neurosurgery Practice 2023; CC BY-NC-ND.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — FIGURE 3.](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-03-figure-3-neuopen-4-e00056-g003-jpg.jpg)
+*FIGURE 3.. Selected frames from endoscopic evacuation. A, View of acute hematoma in the subdural space. B, With the assistant holding the endoscope, the primary surgeon can evacuate hematoma and... Source: [Mini-Craniotomy With Endoscopic Approach for Acute Subdural Hematoma Evacuation in a Patient With Complex Scalp Flap Defect: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11809946/) — Neurosurgery Practice 2023; CC BY-NC-ND.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — Figure 1](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-04-figure-1-brainsci-15-00058-g001-jpg.jpg)
+*Figure 1. Surgical steps in acute subdural hematoma evacuation via craniotomy: (A) Scalp incision beginning above the ear and extending posteriorly over the temporoparietal region. (B) A single... Source: [PROMISE: Prognostic Radiomic Outcome Measurement in Acute Subdural Hematoma Evacuation Post-Craniotomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC11764422/) — Brain Sciences 2025; CC BY.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — Figure 2](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-05-figure-2-brainsci-15-00058-g002-jpg.jpg)
+*Figure 2. Age distribution. Source: [PROMISE: Prognostic Radiomic Outcome Measurement in Acute Subdural Hematoma Evacuation Post-Craniotomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC11764422/) — Brain Sciences 2025; CC BY.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — Figure 3](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-06-figure-3-brainsci-15-00058-g003-jpg.jpg)
+*Figure 3. ROC Curves for predicting 30-day outcomes based on postoperative changes in postoperative Δ surface area (A), preoperative Feret diameter (B), and preoperative surface area (C). Source: [PROMISE: Prognostic Radiomic Outcome Measurement in Acute Subdural Hematoma Evacuation Post-Craniotomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC11764422/) — Brain Sciences 2025; CC BY.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — Figure 1:](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-07-figure-1-sni-15-354-g001-jpg.jpg)
+*Figure 1:. (a) Computed tomography (CT) on arrival showing acute subdural hematoma and shunt catheter. (b) Three-dimensional CT showing a skin incision parallel to the shunt catheter and a small... Source: [Optimizing shunt integrity during acute subdural hematoma evacuation](https://pmc.ncbi.nlm.nih.gov/articles/PMC11450916/) — Surgical Neurology International 2024; CC BY-NC-SA.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — Figure 2:](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-08-figure-2-sni-15-354-g002-jpg.jpg)
+*Figure 2:. Treatment strategy for acute subdural hematoma in shunt patients. ASDH: Acute subdural hematoma, CSF: Cerebrospinal fluid. Source: [Optimizing shunt integrity during acute subdural hematoma evacuation](https://pmc.ncbi.nlm.nih.gov/articles/PMC11450916/) — Surgical Neurology International 2024; CC BY-NC-SA.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — Figure 9](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-09-figure-9-sni-15-354-inline001-jpg.jpg)
+*Figure 9. Source: [Optimizing shunt integrity during acute subdural hematoma evacuation](https://pmc.ncbi.nlm.nih.gov/articles/PMC11450916/) — Surg Neurol Int. 2024 Sep 27;15:354. doi: 10.25259/SNI_411_2024; CC BY-NC-SA.*
+
+![Acute Subdural Hematoma Craniotomy Craniectomy Evacuation — Figure 10](../../figures/curated/case-prep-acute-subdural-hematoma-asdh-craniotomy-craniectomy-for-evacuation/figure-10-figure-10-sni-15-354-t001-jpg.jpg)
+*Figure 10. Source: [Optimizing shunt integrity during acute subdural hematoma evacuation](https://pmc.ncbi.nlm.nih.gov/articles/PMC11450916/) — Surg Neurol Int. 2024 Sep 27;15:354. doi: 10.25259/SNI_411_2024; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

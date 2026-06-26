@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=mesial+temporal+sclerosis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Temporal lobe RCT** — Wiebe S et al. *NEJM* 2001 — surgery vs medical therapy for temporal lobe epilepsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebe+randomized+trial+surgery+temporal+lobe+epilepsy+2001+NEJM)
-- **ERSET** — Engel J et al. *JAMA* 2012 — early surgical therapy for drug-resistant TLE. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Engel+early+surgery+mesial+temporal+lobe+epilepsy+ERSET+2012+JAMA)
-- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=mesial%20temporal%20sclerosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+temporal+lobectomy+amygdalohippocampectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Ventricular system — temporal horn (amygdala/hippocampus region)](../../figures/anatomy/ventricles_gray734.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Anterior temporal lobectomy and selective AmygdaloHippocampectomy complications across Europe: review, meta-analysis, and Delphi consensus** — Karagianni MD. Brain & spine 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40689131/)
+- **An examination of seizure-free outcome and visual field deficits: Anterior temporal lobectomy versus selective amygdalohippocampectomy for temporal lobe epilepsy-a systematic review and meta-analysis for comprehensive understanding** — Rangwala BS. Acta neurochirurgica 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39607527/)
+- **Selective Amygdalohippocampectomy** — Hoyt AT. Neurosurgery clinics of North America 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26615103/)
+- **Comparisons of the seizure-free outcome and visual field deficits between anterior temporal lobectomy and selective amygdalohippocampectomy: A systematic review and meta-analysis** — Xu K. Seizure 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32882478/)
+- **Selective amygdalohippocampectomy versus anterior temporal lobectomy in the management of mesial temporal lobe epilepsy: a meta-analysis of comparative studies** — Hu WH. Journal of neurosurgery 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24032705/)
+- **Comparison of therapeutic effects between selective amygdalohippocampectomy and anterior temporal lobectomy for the treatment of temporal lobe epilepsy: a meta-analysis** — Kuang Y. British journal of neurosurgery 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24099101/)
+- **Selective amygdalohippocampectomy** — Spencer D. Epilepsy research and treatment 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22957229/)
+- **Selective amygdalohippocampectomy: the trans-middle temporal gyrus approach** — Wheatley BM. Neurosurgical focus 2008. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18759628/)
+- **Visual outcomes after anterior temporal lobectomy and transsylvian selective amygdalohippocampectomy: A quantitative comparison of clinical and diffusion data** — Pruckner P. Epilepsia 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36529714/)
+- **Anterior temporal lobectomy versus selective amygdalohippocampectomy in patients with mesial temporal lobe epilepsy** — Nascimento FA. Arquivos de neuro-psiquiatria 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26690840/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 1](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-01-figure-1-sni-6-17-g001-jpg.jpg)
+*Figure 1. Schematic drawing of the typically noted position of the temporal horn. ©The Neurosurgical Atlas by Aaron A. Cohen-Gadol, MD, used with permission Source: [External cortical landmarks and measurements for the temporal horn: Anatomic study with application to surgery of the temporal lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC4322373/) — Surgical Neurology International 2015; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 2](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-02-figure-2-sni-6-17-g002-jpg.jpg)
+*Figure 2. Right-sided brain with pins in the anterior and posterior extent of the temporal horn Source: [External cortical landmarks and measurements for the temporal horn: Anatomic study with application to surgery of the temporal lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC4322373/) — Surgical Neurology International 2015; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 3](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-03-figure-3-sni-6-17-g003-jpg.jpg)
+*Figure 3. Left sided brain with pins marking the anterior and posterior extent of the temporal horn Source: [External cortical landmarks and measurements for the temporal horn: Anatomic study with application to surgery of the temporal lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC4322373/) — Surgical Neurology International 2015; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 1](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-04-figure-1-ajns-16-518-g001-jpg.jpg)
+*Figure 1. Coronal view of temporal lobe Source: [Seizure Outcome after Lesionectomy With or Without Concomitant Anteromedial Temporal Lobectomy for Low-Grade Gliomas of the Medial Temporal Lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC8477827/) — Asian Journal of Neurosurgery 2021; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 2](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-05-figure-2-ajns-16-518-g002-jpg.jpg)
+*Figure 2. Operative steps of AMTR. Incision on superior temporal sulcus between superior and middle temporal Gyrus [Figure 2a,b]; tumor infiltrating hippocampus [Figure 2c]. Gross total excision... Source: [Seizure Outcome after Lesionectomy With or Without Concomitant Anteromedial Temporal Lobectomy for Low-Grade Gliomas of the Medial Temporal Lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC8477827/) — Asian Journal of Neurosurgery 2021; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 3](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-06-figure-3-ajns-16-518-g003-jpg.jpg)
+*Figure 3. Magnetic resonance imaging (a-c) and computed tomography (d) of ganglioneuroma operated by AMTR with gross total excision Source: [Seizure Outcome after Lesionectomy With or Without Concomitant Anteromedial Temporal Lobectomy for Low-Grade Gliomas of the Medial Temporal Lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC8477827/) — Asian Journal of Neurosurgery 2021; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 4](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-07-figure-4-ajns-16-518-g004-jpg.jpg)
+*Figure 4. (a-e) Magnetic resonance imaging of a patient with medial temporal pilocytic astrocytoma operated by AMTR Source: [Seizure Outcome after Lesionectomy With or Without Concomitant Anteromedial Temporal Lobectomy for Low-Grade Gliomas of the Medial Temporal Lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC8477827/) — Asian Journal of Neurosurgery 2021; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 5](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-08-figure-5-ajns-16-518-g005-jpg.jpg)
+*Figure 5. (a-c) The patient underwent AMTR. Histopathology showing mildly anisomorphic astrocytes around thin vascular spaces with microcystic degeneration (d). GFAP (Glial fibrillary acidic... Source: [Seizure Outcome after Lesionectomy With or Without Concomitant Anteromedial Temporal Lobectomy for Low-Grade Gliomas of the Medial Temporal Lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC8477827/) — Asian Journal of Neurosurgery 2021; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 1:](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-09-figure-1-sni-13-248-g001-jpg.jpg)
+*Figure 1:. (a-d) Gliotic changes in the temporal lobe with complete hippocampal resection in patient no. 6. Source: [One-year neuropsychological outcome after temporal lobe epilepsy surgery in large Czech sample: Search for factors contributing to memory decline](https://pmc.ncbi.nlm.nih.gov/articles/PMC9282793/) — Surgical Neurology International 2022; CC BY-NC-SA.*
+
+![Anterior Temporal Lobectomy Selective Amygdalohippocampectomy — Figure 2:](../../figures/curated/case-prep-anterior-temporal-lobectomy-selective-amygdalohippocampectomy-epilepsy/figure-10-figure-2-sni-13-248-g002-jpg.jpg)
+*Figure 2:. (a-d) Hippocampal remnants after the right-sided anteromesial temporal resection in patient no. 2. Source: [One-year neuropsychological outcome after temporal lobe epilepsy surgery in large Czech sample: Search for factors contributing to memory decline](https://pmc.ncbi.nlm.nih.gov/articles/PMC9282793/) — Surgical Neurology International 2022; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -22,15 +22,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=ventriculoatrial+shunt+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=ventriculoatrial%20shunt&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ventriculoatrial+shunt) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
 
-![Ventricular system — lateral ventricle / frontal horn (proximal catheter target)](../../../figures/anatomy/ventricles_gray734.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Ventriculoatrial shunt remains a safe surgical alternative for hydrocephalus: a systematic review and meta-analysis** — Bue EL. Scientific reports 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39117692/)
+- **Ventriculoatrial Shunt Catheter Tip Migration Causing Tricuspid Regurgitation: Case Report and Review of the Literature** — Pradini-Santos L. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31931241/)
+- **Transesophageal Echocardiography-Guided Ventriculoatrial Shunt Insertion** — Isaacs AM. Operative neurosurgery (Hagerstown, Md.) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31811299/)
+- **Ventriculoatrial Shunt Under Locoregional Anesthesia: A Technical Note** — Aspide R. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35870783/)
+- **Guidelines for Diagnosis and Management of Idiopathic Normal Pressure Hydrocephalus** — Hamilton MG. Neurosurgery clinics of North America 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40054973/)
+- **Ventriculoatrial Shunt Versus Ventriculoperitoneal Shunt: A Systematic Review and Meta-Analysis** — Oliveira LB. Neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38117090/)
+- **Robert H. Pudenz (1911-1998) and Ventriculoatrial Shunt: Historical Perspective** — Konar SK. World neurosurgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26074435/)
+- **Timing of ventriculoatrial shunt removal on renal function recovery of patients with shunt nephritis: Case report and systematic review** — Ajlan B. Clinical neurology and neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35594721/)
+- **Ventriculoatrial Shunt Versus Ventriculoperitoneal Shunt: A Systematic Review and Meta-Analysis: Corrigendum** — Brenner LBO. Neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40536344/)
+- **Letter: Transesophageal Echocardiography-Guided Ventriculoatrial Shunt Insertion** — Della Pepa GM. Operative neurosurgery (Hagerstown, Md.) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33074316/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Ventriculoatrial Shunt Placement — Figure](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-01-figure-ga1-jpg.jpg)
+*Figure. Source: [Infective Endocarditis as a Complication of a Ventriculoatrial Shunt](https://pmc.ncbi.nlm.nih.gov/articles/PMC11830242/) — JACC Case Reports 2025; CC BY-NC-ND.*
+
+![Ventriculoatrial Shunt Placement — Figure 1](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-02-figure-1-gr1-jpg.jpg)
+*Figure 1. Transesophageal Echocardiogram Findings(A and B) Transesophageal echocardiogram views demonstrating an 11-mm vegetation on the posterior tricuspid valve with mobility. (C)... Source: [Infective Endocarditis as a Complication of a Ventriculoatrial Shunt](https://pmc.ncbi.nlm.nih.gov/articles/PMC11830242/) — JACC Case Reports 2025; CC BY-NC-ND.*
+
+![Ventriculoatrial Shunt Placement — Fig. 1](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-03-fig-1-701-2020-4675-fig1-html-jpg.jpg)
+*Fig. 1. Atrial condition before VAS removal. a Preoperative thoracic axial CT scan with contrast at the level of the atrium showing the VAS catheter (arrow) in patient 1. b Preoperative coronal... Source: [Minimally invasive procedure for removal of infected ventriculoatrial shunts](https://pmc.ncbi.nlm.nih.gov/articles/PMC7815540/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Ventriculoatrial Shunt Placement — Fig. 2](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-04-fig-2-701-2020-4675-fig2-html-jpg.jpg)
+*Fig. 2. Removal of VAS catheter in patient 1. a Preoperative 3D CT scan reconstruction of the VAS catheter path from the valve to the right atrium, white asterisk (*) marks the site of... Source: [Minimally invasive procedure for removal of infected ventriculoatrial shunts](https://pmc.ncbi.nlm.nih.gov/articles/PMC7815540/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Ventriculoatrial Shunt Placement — Fig. 3](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-05-fig-3-701-2020-4675-fig3-html-jpg.jpg)
+*Fig. 3. Removal of VAS catheter in patient 2. a Fluoroscopy antero-posterior projection, a 0.018 inch guidewire is visible inside the atrial catheter (arrow), a safety wire introduced through... Source: [Minimally invasive procedure for removal of infected ventriculoatrial shunts](https://pmc.ncbi.nlm.nih.gov/articles/PMC7815540/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Ventriculoatrial Shunt Placement — Fig. 4](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-06-fig-4-701-2020-4675-fig4-html-jpg.jpg)
+*Fig. 4. Stability of ventricular system after VAS inactivation. CT scans obtained from patient 1 (a and b) and patient 2 (c and d) before surgery (a and c) and after removal of the VAS catheter... Source: [Minimally invasive procedure for removal of infected ventriculoatrial shunts](https://pmc.ncbi.nlm.nih.gov/articles/PMC7815540/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Ventriculoatrial Shunt Placement — Fig. 5](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-07-fig-5-701-2020-4675-fig5-html-jpg.jpg)
+*Fig. 5. Plot of the probability of working VAS with time. Data for plot were derived from the literature together with the present cases (red). Median lag before VAS removal for thrombus... Source: [Minimally invasive procedure for removal of infected ventriculoatrial shunts](https://pmc.ncbi.nlm.nih.gov/articles/PMC7815540/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Ventriculoatrial Shunt Placement — Fig. 1](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-08-fig-1-247-2020-4943-fig1-html-jpg.jpg)
+*Fig. 1. Anteroposterior view from preprocedural venogram shows the superior vena cava stenosis with decreased luminal size over the previously placed nitinol stent (arrowheads). Borders of the... Source: [Combined cut down and endovascular retrieval of orphaned ventriculoatrial shunt with stenting of chronic superior vena cava occlusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC8266700/) — Pediatric Radiology 2021; CC BY.*
+
+![Ventriculoatrial Shunt Placement — Fig. 2](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-09-fig-2-247-2020-4943-fig2-html-jpg.jpg)
+*Fig. 2. Anteroposterior view from intraprocedural venogram shows access of ventriculoatrial shunt catheter using a guidewire. Superior and inferior portions of the shunt catheter with an... Source: [Combined cut down and endovascular retrieval of orphaned ventriculoatrial shunt with stenting of chronic superior vena cava occlusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC8266700/) — Pediatric Radiology 2021; CC BY.*
+
+![Ventriculoatrial Shunt Placement — Fig. 3](../../../figures/curated/case-prep-ventriculoatrial-va-shunt-placement/figure-10-fig-3-247-2020-4943-fig3-html-jpg.jpg)
+*Fig. 3. Anteroposterior view from final venogram shows postprocedural visualization of superior vena cava with the Z-stent in place and increased luminal patency (arrow) Source: [Combined cut down and endovascular retrieval of orphaned ventriculoatrial shunt with stenting of chronic superior vena cava occlusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC8266700/) — Pediatric Radiology 2021; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

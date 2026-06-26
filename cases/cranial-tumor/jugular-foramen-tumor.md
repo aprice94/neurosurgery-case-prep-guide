@@ -24,18 +24,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=glomus+jugulare+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Jugular foramen tumors** — paraganglioma/schwannoma surgical approach and cranial-nerve outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=jugular+foramen+tumor+surgery+cranial+nerve+outcomes)
-- **Paraganglioma management** — observation, embolization, surgery, and radiosurgery literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=jugular+paraganglioma+management+surgery+radiosurgery+embolization)
-
 > 🧭 **Operative approach:** [Far-lateral (transcondylar) craniotomy](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=glomus%20jugulare&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=jugular+foramen+tumor+glomus) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull — jugular foramen](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Transtemporal Suprajugular Approach with Neck Dissection for Jugular Foramen Tumor Resection: Operative Video** — Sarris CE. Journal of neurological surgery. Part B, Skull base 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33717821/)
+- **Jugular foramen tumor causing isolated hypoglossal nerve palsy: a case report** — Wen Z. Frontiers in oncology 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41669104/)
+- **Giant jugular foramen tumor** — Lai WS. Ear, nose, & throat journal 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23599097/)
+- **Peripheral primitive neuroectodermal tumor of the jugular foramen: case report** — Yamazaki T. Neurosurgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12383375/)
+- **Endoluminal Sigmoid Sinus Occlusion During Jugular Foramen Tumor Surgery: Novel Technique, Operative Nuances, and Clinical Experience With 33 Patients** — Castillo AL. Operative neurosurgery (Hagerstown, Md.) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38752769/)
+- **Surgical Management of Jugular Foramen Schwannomas** — Aftahy AK. Cancers 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34439372/)
+- **Cochlear Implantation for Sensorineural Hearing Loss Related to Cochlear Aqueduct Obstruction by a Jugular Foramen Tumor** — Ewer N. Laryngoscope investigative otolaryngology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40881053/)
+- **Plasmacytoma presenting as jugular foramen tumor in a young woman with multiple myeloma** — How J. American journal of hematology 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30916796/)
+- **Anaplastic Hemangiopericytoma of the Jugular Foramen: Case Report and Systematic Review** — Li D. World neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34182175/)
+- **[An anatomical and technical note for neurosurgery of the jugular foramen tumor [author's transl)]** — Hakuba A. No shinkei geka. Neurological surgery 1982. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6285215/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Jugular Foramen Tumor — Figure 1](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-01-figure-1-fonc-16-1635494-g001-jpg.jpg)
+*Figure 1. Clinical photograph of the tongue showing leftward deviation upon protrusion, presenting as asymmetry. Source: [Jugular foramen tumor causing isolated hypoglossal nerve palsy: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12883803/) — Frontiers in Oncology 2026; CC BY.*
+
+![Jugular Foramen Tumor — Figure 2](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-02-figure-2-fonc-16-1635494-g002-jpg.jpg)
+*Figure 2. MRI findings. (a) Axial T2-weighted image shows a hyperintense nodule (long arrow) adjacent to the hypoglossal nerve (short arrow). (b) Axial contrast-enhanced T1-weighted image... Source: [Jugular foramen tumor causing isolated hypoglossal nerve palsy: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12883803/) — Frontiers in Oncology 2026; CC BY.*
+
+![Jugular Foramen Tumor — Figure 3](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-03-figure-3-fonc-16-1635494-g003-jpg.jpg)
+*Figure 3. Clinical timeline summarizing key events and interventions. Source: [Jugular foramen tumor causing isolated hypoglossal nerve palsy: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12883803/) — Frontiers in Oncology 2026; CC BY.*
+
+![Jugular Foramen Tumor — FIGURE 3](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-04-figure-3-lio2-10-e70171-g001-jpg.jpg)
+*FIGURE 3. Electrode location by frequency place for anatomy based fitting. Source: [Cochlear Implantation for Sensorineural Hearing Loss Related to Cochlear Aqueduct Obstruction by a Jugular Foramen Tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC12381779/) — Laryngoscope Investigative Otolaryngology 2025; CC BY-NC-ND.*
+
+![Jugular Foramen Tumor — FIGURE 2](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-05-figure-2-lio2-10-e70171-g002-jpg.jpg)
+*FIGURE 2. Axial contrast‐enhanced T1 MRI. Red arrow: Presence of enhancement of left cochlear aqueduct and adjacent dura consistent with tumor involvement. Source: [Cochlear Implantation for Sensorineural Hearing Loss Related to Cochlear Aqueduct Obstruction by a Jugular Foramen Tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC12381779/) — Laryngoscope Investigative Otolaryngology 2025; CC BY-NC-ND.*
+
+![Jugular Foramen Tumor — FIGURE 4](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-06-figure-4-lio2-10-e70171-g003-jpg.jpg)
+*FIGURE 4. T2 axial MRI images of jugular foramen tumor (A) pre‐SRS (3.0 mm slice thickness) and (B) 3 months post‐SRS (5.0 mm slice thickness) revealing changes in tumor size. Source: [Cochlear Implantation for Sensorineural Hearing Loss Related to Cochlear Aqueduct Obstruction by a Jugular Foramen Tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC12381779/) — Laryngoscope Investigative Otolaryngology 2025; CC BY-NC-ND.*
+
+![Jugular Foramen Tumor — Figure 7](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-07-figure-7-lio2-10-e70171-g004-jpg.jpg)
+*Figure 7. Source: [Cochlear Implantation for Sensorineural Hearing Loss Related to Cochlear Aqueduct Obstruction by a Jugular Foramen Tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC12381779/) — Laryngoscope Investig Otolaryngol. 2025 Aug 27;10(4):e70171. doi: 10.1002/lio2.70171; CC BY-NC-ND.*
+
+![Jugular Foramen Tumor — FIGURE 1](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-08-figure-1-lio2-10-e70171-g005-jpg.jpg)
+*FIGURE 1. Axial heavily T2 weighted MRI. Blue arrow: Presence of fluid signal in cochlear aqueduct on non‐tumor size, indicating no occlusion. Red arrow: Absence of fluid signal in cochlear... Source: [Cochlear Implantation for Sensorineural Hearing Loss Related to Cochlear Aqueduct Obstruction by a Jugular Foramen Tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC12381779/) — Laryngoscope Investigative Otolaryngology 2025; CC BY-NC-ND.*
+
+![Jugular Foramen Tumor — FIGURE 5](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-09-figure-5-lio2-10-e70171-g006-jpg.jpg)
+*FIGURE 5. T1 post‐contrast FLASH coronal MRI images of jugular foramen tumor (A) pre‐SRS (3.0 mm slice thickness) and (B) 3 months post‐SRS (5.0 mm slice thickness) revealing changes in tumor size. Source: [Cochlear Implantation for Sensorineural Hearing Loss Related to Cochlear Aqueduct Obstruction by a Jugular Foramen Tumor](https://pmc.ncbi.nlm.nih.gov/articles/PMC12381779/) — Laryngoscope Investigative Otolaryngology 2025; CC BY-NC-ND.*
+
+![Jugular Foramen Tumor — Fig. 1](../../figures/curated/case-prep-jugular-foramen-tumor-glomus-jugulare-schwannoma-meningioma/figure-10-fig-1-10-1055-s-0038-1669970-i180143ov-1-jpg.jpg)
+*Fig. 1. Pre and postoperative images. Source: [Gross Total Resection of a Jugular Foramen Thyroid Medullary Metastasis via a Transjugular Transsigmoid Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC6240456/) — Journal of Neurological Surgery. Part B, Skull Base 2018; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=third+ventriculostomy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **ETV Success Score** — predicting pediatric ETV success by age, etiology, and shunt history. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Kulkarni+ETV+Success+Score+2009)
-- **ETV/CPC** — infant hydrocephalus literature for choroid plexus cauterization adjunct. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Warf+endoscopic+third+ventriculostomy+choroid+plexus+cauterization+infant)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=third%20ventriculostomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=pediatric+endoscopic+third+ventriculostomy+choroid+plexus) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Ventricular system — third ventricle floor & foramen of Monro](../../figures/anatomy/ventricles_gray734.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Paediatric hydrocephalus** — Kahle KT. Nature reviews. Disease primers 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38755194/)
+- **Endoscopic third ventriculostomy versus shunt for pediatric hydrocephalus: a systematic literature review and meta-analysis** — Texakalidis P. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31129704/)
+- **Endoscopic third ventriculostomy for shunt malfunction in the pediatric population: a systematic review, meta-analysis, and meta-regression analysis** — Lee KS. Journal of neurosurgery. Pediatrics 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36787128/)
+- **Predicting endoscopic third ventriculostomy success in pediatric shunt dysfunction: a monocentric retrospective case series of 70 consecutive children, systematic review, and meta-analysis** — Guida L. Journal of neurosurgery. Pediatrics 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37877943/)
+- **Endoscopic third ventriculostomy versus ventriculoperitoneal shunt in pediatric and adult population: a systematic review and meta-analysis** — Pande A. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32476100/)
+- **Endoscopic third ventriculostomy versus ventriculoperitoneal shunt for treating pediatric tuberculous meningitis hydrocephalus: a systematic review and meta-analysis** — Fagundes W. Journal of neurosurgery. Pediatrics 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40479834/)
+- **Endoscopic third ventriculostomy for pediatric tumor-associated hydrocephalus** — Sherrod BA. Neurosurgical focus 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31896082/)
+- **Infant Hydrocephalus** — Lu VM. Pediatrics in review 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39085190/)
+- **The Global Rise of Endoscopic Third Ventriculostomy with Choroid Plexus Cauterization in Pediatric Hydrocephalus** — Dewan MC. Pediatric neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28002814/)
+- **Endoscopic third ventriculostomy in the treatment of hydrocephalus in pediatric patients** — Di Rocco C. Advances and technical standards in neurosurgery 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16768305/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Pediatric Endoscopic Third Ventriculostomy — Figure 1:](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-01-figure-1-sni-16-205-g001-jpg.jpg)
+*Figure 1:. Preferred reporting items for systematic reviews and meta-analyses flow diagram. Source: [Re-endoscopic third ventriculostomy versus ventriculoperitoneal shunting in failed endoscopic third ventriculostomy in pediatric patients with hydrocephalus: A systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134809/) — Surgical Neurology International 2025; CC BY-NC-SA.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Figure 2](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-02-figure-2-sni-16-205-inline001-jpg.jpg)
+*Figure 2. Source: [Re-endoscopic third ventriculostomy versus ventriculoperitoneal shunting in failed endoscopic third ventriculostomy in pediatric patients with hydrocephalus: A systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134809/) — Surg Neurol Int. 2025 May 30;16:205. doi: 10.25259/SNI_1111_2024; CC BY-NC-SA.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Figure 3](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-03-figure-3-sni-16-205-t001-jpg.jpg)
+*Figure 3. Source: [Re-endoscopic third ventriculostomy versus ventriculoperitoneal shunting in failed endoscopic third ventriculostomy in pediatric patients with hydrocephalus: A systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134809/) — Surg Neurol Int. 2025 May 30;16:205. doi: 10.25259/SNI_1111_2024; CC BY-NC-SA.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Figure 4](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-04-figure-4-sni-16-205-t002-jpg.jpg)
+*Figure 4. Source: [Re-endoscopic third ventriculostomy versus ventriculoperitoneal shunting in failed endoscopic third ventriculostomy in pediatric patients with hydrocephalus: A systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134809/) — Surg Neurol Int. 2025 May 30;16:205. doi: 10.25259/SNI_1111_2024; CC BY-NC-SA.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Figure 5](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-05-figure-5-sni-16-205-t003-jpg.jpg)
+*Figure 5. Source: [Re-endoscopic third ventriculostomy versus ventriculoperitoneal shunting in failed endoscopic third ventriculostomy in pediatric patients with hydrocephalus: A systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134809/) — Surg Neurol Int. 2025 May 30;16:205. doi: 10.25259/SNI_1111_2024; CC BY-NC-SA.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Figure 6](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-06-figure-6-sni-16-205-t004-jpg.jpg)
+*Figure 6. Source: [Re-endoscopic third ventriculostomy versus ventriculoperitoneal shunting in failed endoscopic third ventriculostomy in pediatric patients with hydrocephalus: A systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134809/) — Surg Neurol Int. 2025 May 30;16:205. doi: 10.25259/SNI_1111_2024; CC BY-NC-SA.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Figure 7](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-07-figure-7-sni-16-205-t005-jpg.jpg)
+*Figure 7. Source: [Re-endoscopic third ventriculostomy versus ventriculoperitoneal shunting in failed endoscopic third ventriculostomy in pediatric patients with hydrocephalus: A systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134809/) — Surg Neurol Int. 2025 May 30;16:205. doi: 10.25259/SNI_1111_2024; CC BY-NC-SA.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Fig. 1](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-08-fig-1-381-2023-6171-fig1-html-jpg.jpg)
+*Fig. 1. Preoperative axial a, b, and sagittal c MR images showing tri-ventricular occlusive hydrocephalus due to compression of the aqueduct by a tectal lesion, suspected for low-grade tumor Source: [Endoscopic transaqueductal stent placement for tumor-related aqueductal compression in pediatric patients: surgical consideration, technique, and results](https://pmc.ncbi.nlm.nih.gov/articles/PMC10837227/) — Child's Nervous System 2023; CC BY.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Fig. 2](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-09-fig-2-381-2023-6171-fig2-html-jpg.jpg)
+*Fig. 2. Intraoperative endoscopic view on the occluded aqueduct above the posterior commissure a, b. After an endoscopic biopsy c, the transaqueductal stent is inserted via the aqueduct into the... Source: [Endoscopic transaqueductal stent placement for tumor-related aqueductal compression in pediatric patients: surgical consideration, technique, and results](https://pmc.ncbi.nlm.nih.gov/articles/PMC10837227/) — Child's Nervous System 2023; CC BY.*
+
+![Pediatric Endoscopic Third Ventriculostomy — Fig. 3](../../figures/curated/case-prep-pediatric-endoscopic-third-ventriculostomy-choroid-plexus-cauterization/figure-10-fig-3-381-2023-6171-fig3-html-jpg.jpg)
+*Fig. 3. Postoperative obtained axial computed tomogram a axial and sagittal MR images b, c, d showing the optimal positioning of the transaqueductal stents. Additionally, the obvious reduction... Source: [Endoscopic transaqueductal stent placement for tumor-related aqueductal compression in pediatric patients: surgical consideration, technique, and results](https://pmc.ncbi.nlm.nih.gov/articles/PMC10837227/) — Child's Nervous System 2023; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

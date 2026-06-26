@@ -20,18 +20,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=central+cord+syndrome+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **STASCIS** — early vs late decompression in acute spinal cord injury. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS / AO Spine** — classification-based operative decision frameworks for thoracolumbar and cervical trauma. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=TLICS+AO+Spine+classification+thoracolumbar+cervical+trauma)
-
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=central%20cord%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=traumatic+central+cord+syndrome) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (central cord — hand fibers most affected)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Traumatic Central Cord Syndrome** — Carr MT. Clinical spine surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39480046/)
+- **Traumatic central cord Syndrome: An integrated neurosurgical and neurocritical care perspective** — Martínez-Palacios K. Brain & spine 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40519873/)
+- **Traumatic central cord syndrome** — Wyndaele JJ. Spinal cord 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20811391/)
+- **Elderly traumatic central cord syndrome in the USA: a review of management and outcomes** — Phelps RR. Journal of neurosurgical sciences 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34114428/)
+- **Treatment of acute traumatic central cord syndrome: a score-based approach based on the literature** — Kumar AA. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36912986/)
+- **Acute traumatic central cord syndrome: a comprehensive review** — Molliqaj G. Neuro-Chirurgie 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24613283/)
+- **[Acute Traumatic Central Cord Syndrome: Etiology, Pathophysiology, Clinical Manifestation, and Treatment]** — Tosic L. Praxis 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33906439/)
+- **Early versus late surgical decompression for patients with acute traumatic central cord syndrome: a systematic review and meta-analysis** — Sattari SA. The spine journal : official journal of the North American Spine Society 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37890727/)
+- **Management of Acute Traumatic Central Cord Syndrome: A Narrative Review** — Divi SN. Global spine journal 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31157150/)
+- **Surgical intervention ≤ 24 hours versus > 24 hours after injury for the management of acute traumatic central cord syndrome: a systematic review and meta-analysis** — Bin-Alamer O. Journal of neurosurgery. Spine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38335527/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Traumatic Central Cord Syndrome — Figure 1](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-01-figure-1-fsurg-09-1055317-g001-jpg.jpg)
+*Figure 1. A 60-year-old male patient diagnosed with TCCS. (A,B) preoperative A-P and lateral x-ray showing the slight degenerative change of cervical spine with relative normal curvature, and... Source: [The clinical efficacy of anterior cervical discectomy and fusion with ROI-C device vs. plate-cage in managing traumatic central cord syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC9852637/) — Frontiers in Surgery 2023; CC BY.*
+
+![Traumatic Central Cord Syndrome — Figure 2](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-02-figure-2-fsurg-09-1055317-g002-jpg.jpg)
+*Figure 2. A 56-year-old male patient diagnosed with TCCS. (A,B) preoperative A-P and lateral X-ray images showing the slight degenerative change of cervical spine with relative normal curvature,... Source: [The clinical efficacy of anterior cervical discectomy and fusion with ROI-C device vs. plate-cage in managing traumatic central cord syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC9852637/) — Frontiers in Surgery 2023; CC BY.*
+
+![Traumatic Central Cord Syndrome — Figure 3](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-03-figure-3-fsurg-09-1055317-g003-jpg.jpg)
+*Figure 3. The distributions of levels for surgery in the ROI-C group and APCS group, exhibited as numbers and percentages. Source: [The clinical efficacy of anterior cervical discectomy and fusion with ROI-C device vs. plate-cage in managing traumatic central cord syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC9852637/) — Frontiers in Surgery 2023; CC BY.*
+
+![Traumatic Central Cord Syndrome — Figure 4](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-04-figure-4-10-1177-2192568219830943-img1-jpg.jpg)
+*Figure 4. Source: [Management of Acute Traumatic Central Cord Syndrome: A Narrative Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6512200/) — Global Spine J. 2019 May 8;9(1 Suppl):89S–97S. doi: 10.1177/2192568219830943; CC BY-NC-ND.*
+
+![Traumatic Central Cord Syndrome — Fig. 1](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-05-fig-1-gr1-jpg.jpg)
+*Fig. 1. TCCS pathophysiology concept evolution. The “clocks” sketches were added to illustrate symbolically different time points in history. (A) Based on initial Sir William Thorburn theories,... Source: [Traumatic central cord Syndrome: An integrated neurosurgical and neurocritical care perspective](https://pmc.ncbi.nlm.nih.gov/articles/PMC12166739/) — Brain & Spine 2025; CC BY-NC-ND.*
+
+![Traumatic Central Cord Syndrome — Fig. 2](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-06-fig-2-gr2-jpg.jpg)
+*Fig. 2. (From left to right and bottom): (A) Sagittal T2 weighted image of a 65 year old gentleman who suffered a neck hyperextension injury, and presented with central cord syndrome. He... Source: [Traumatic central cord Syndrome: An integrated neurosurgical and neurocritical care perspective](https://pmc.ncbi.nlm.nih.gov/articles/PMC12166739/) — Brain & Spine 2025; CC BY-NC-ND.*
+
+![Traumatic Central Cord Syndrome — Fig. 3](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-07-fig-3-gr3-jpg.jpg)
+*Fig. 3. Important steps in intraspinal pressure (ISP) monitoring technique and physiological variables assessment. (A) Probe proper location is in the subdural space (Phang and Papadopoulos,... Source: [Traumatic central cord Syndrome: An integrated neurosurgical and neurocritical care perspective](https://pmc.ncbi.nlm.nih.gov/articles/PMC12166739/) — Brain & Spine 2025; CC BY-NC-ND.*
+
+![Traumatic Central Cord Syndrome — Figure 1](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-08-figure-1-tcrm-17-23-g0001-jpg.jpg)
+*Figure 1. Angles created by a line parallel to the inferior aspect of the C2 vertebrae and a line parallel to that of the C7 vertebrae were measured at the flexion (A) and extension (B) lateral... Source: [The Assessment of Dynamic Spinal Cord Impingement by Kinematic Magnetic Resonance Imaging in Patients with Traumatic Central Cord Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC7800690/) — Therapeutics and Clinical Risk Management 2021; CC BY-NC.*
+
+![Traumatic Central Cord Syndrome — Figure 2](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-09-figure-2-tcrm-17-23-g0002-jpg.jpg)
+*Figure 2. A 50-year-old patient with TCCS. T2-weighted MR images depict disk protrusion and hypertrophy of the ligamentum flavum at the C3-6 level. (A) In flexion, decompression of the cord... Source: [The Assessment of Dynamic Spinal Cord Impingement by Kinematic Magnetic Resonance Imaging in Patients with Traumatic Central Cord Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC7800690/) — Therapeutics and Clinical Risk Management 2021; CC BY-NC.*
+
+![Traumatic Central Cord Syndrome — Figure 3](../../figures/curated/case-prep-traumatic-central-cord-syndrome/figure-10-figure-3-tcrm-17-23-g0003-jpg.jpg)
+*Figure 3. Length of the intramedullary hyperintensity signal (LIHS) – yellow arrow. This distance was measured as the proximal-distal range of the intramedullary hyperintensity signal. The LIHS... Source: [The Assessment of Dynamic Spinal Cord Impingement by Kinematic Magnetic Resonance Imaging in Patients with Traumatic Central Cord Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC7800690/) — Therapeutics and Clinical Risk Management 2021; CC BY-NC.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

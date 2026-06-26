@@ -23,11 +23,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=olfactory+groove+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Simpson grade** — resection extent and recurrence framework for meningioma surgery. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **EANO guideline** — diagnosis, observation, surgery, radiation, and surveillance for meningiomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 > 🧭 **Operative approach:** [Bifrontal craniotomy](../approaches/bifrontal-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
@@ -35,9 +30,76 @@ tags:
 - **Imaging:** [Radiopaedia — olfactory groove meningioma](https://radiopaedia.org/search?q=olfactory%20groove%20meningioma&scope=all)
 - **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=olfactory+groove+meningioma)
 
-![Interior base of skull — anterior cranial fossa / cribriform plate](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Olfactory groove meningioma** — Adappa ND. Otolaryngologic clinics of North America 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21819883/)
+- **Olfactory groove and tuberculum sellae meningioma resection by endoscopic endonasal approach versus transcranial approach: A systematic review and meta-analysis of comparative studies** — Lu VM. Clinical neurology and neurosurgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30193170/)
+- **Smell Outcomes in Olfactory Groove Meningioma Resection Through Unilateral versus Bilateral Transcranial Approaches: A Systematic Review and Meta-analysis** — Bamimore MA. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35033688/)
+- **Exoscopic resection of giant olfactory groove meningioma** — Calvanese F. Neurosurgical focus: Video 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38283807/)
+- **Transorbital Approach for Olfactory Groove Meningioma** — Noiphithak R. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35338020/)
+- **Taste dysfunction after endoscopic endonasal resection of olfactory groove meningioma: Case series and review of the literature** — Fecker AL. American journal of otolaryngology 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38678798/)
+- **Nuances of Olfactory Groove Meningioma Surgery: 2-Dimensional Operative Video** — Mooney MA. Operative neurosurgery (Hagerstown, Md.) 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34195839/)
+- **Endoscopic Endonasal Resection-Olfactory Groove Meningioma: 2-Dimensional Operative Video** — Champagne PO. Operative neurosurgery (Hagerstown, Md.) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32542385/)
+- **Prognostic factors for olfactory groove meningioma with nasal cavity extension** — Zhang J. Oncotarget 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29435128/)
+- **Olfactory groove meningioma presenting solely with visual impairment: illustrative case** — Abu Saadeh O. Journal of neurosurgery. Case lessons 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41569773/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Olfactory Groove Meningioma Resection — Figure 1](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-01-figure-1-rjae476f1-jpg.jpg)
+*Figure 1. Showing the CT imaging with a hypodense fronto-basal lesion with finger-shaped perifocal edema and the T1-weighted MRI image with homogenous contrast-enhancing frontobasal lesion... Source: [Bilateral cranioorbital foramina (Hyrtl foramina): crucial anatomical findings in the management of giant olfactory groove meningioma - a case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11344595/) — Journal of Surgical Case Reports 2024; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 2](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-02-figure-2-rjae476f2-jpg.jpg)
+*Figure 2. Show the MRA with the bilateral anastomotic branch of the lacrimal artery with the middle meningeal artery. Source: [Bilateral cranioorbital foramina (Hyrtl foramina): crucial anatomical findings in the management of giant olfactory groove meningioma - a case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11344595/) — Journal of Surgical Case Reports 2024; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 3](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-03-figure-3-rjae476f3-jpg.jpg)
+*Figure 3. Showing the digital subtraction angiography of the left external carotid artery in four perspectives: posteroanterior view (upper left), lateral view (upper right), posteroanterior view... Source: [Bilateral cranioorbital foramina (Hyrtl foramina): crucial anatomical findings in the management of giant olfactory groove meningioma - a case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11344595/) — Journal of Surgical Case Reports 2024; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 4](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-04-figure-4-rjae476f4-jpg.jpg)
+*Figure 4. Showing the postoperative T1-weighted MRI with no residual tumor tissue. Source: [Bilateral cranioorbital foramina (Hyrtl foramina): crucial anatomical findings in the management of giant olfactory groove meningioma - a case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11344595/) — Journal of Surgical Case Reports 2024; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 5](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-05-figure-5-rjae476f5-jpg.jpg)
+*Figure 5. Showing staining with hematoxylin and eosin, low power lens (upper left), high power lens (upper right) and moleculopathological analysis with ki67 (lower left), progesteron receptor... Source: [Bilateral cranioorbital foramina (Hyrtl foramina): crucial anatomical findings in the management of giant olfactory groove meningioma - a case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11344595/) — Journal of Surgical Case Reports 2024; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 1](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-06-figure-1-cureus-0015-00000037632-i01-jpg.jpg)
+*Figure 1. CECT Brain (axial view) showing bi-frontal extra-axial space-occupying lesion (red asterisk) measuring 4.8 x 5.0 x 4.8 cm with skull base erosion. There is a presence of perilesional... Source: [Visual Loss As Primary Manifestation of Olfactory Groove Meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10186566/) — Cureus 2023; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 2](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-07-figure-2-cureus-0015-00000037632-i02-jpg.jpg)
+*Figure 2. MRI (sagittal view) showing the anterior skull base meningioma (red asterisk) causing mass effect (right more than left), left midline shift, and contralateral early hydrocephalus. Source: [Visual Loss As Primary Manifestation of Olfactory Groove Meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10186566/) — Cureus 2023; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 3](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-08-figure-3-cureus-0015-00000037632-i03-jpg.jpg)
+*Figure 3. A generally uniform oval nucleus with a central clearing (arrow) and an indistinct cytoplasmic border. In areas, vague whorls of tumour cells are also present (arrow head). Source: [Visual Loss As Primary Manifestation of Olfactory Groove Meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10186566/) — Cureus 2023; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 4](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-09-figure-4-cureus-0015-00000037632-i04-jpg.jpg)
+*Figure 4. The vascular channels are variable in size with a thickened hyalinised wall. There are several foci of tiny psammoma bodies noted (arrow head) Source: [Visual Loss As Primary Manifestation of Olfactory Groove Meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10186566/) — Cureus 2023; CC BY.*
+
+![Olfactory Groove Meningioma Resection — Figure 10](../../figures/curated/case-prep-olfactory-groove-meningioma-resection/figure-10-figure-10-ajns-13-258-g001-jpg.jpg)
+*Figure 10. Source: [Modern Microsurgical Resection of Olfactory Groove Meningiomas by Classical Bicoronal Subfrontal Approach without Orbital Osteotomies](https://pmc.ncbi.nlm.nih.gov/articles/PMC5898089/) — Asian J Neurosurg. 2018 Apr-Jun;13(2):258–63. doi: 10.4103/ajns.AJNS_66_16; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

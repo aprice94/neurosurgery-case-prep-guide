@@ -25,27 +25,82 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lateral+lumbar+interbody+fusion+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
-
 > 🧭 **Operative approach:** [Transpsoas lateral (LLIF/XLIF/OLIF) approach](../approaches/transpsoas-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lateral%20lumbar%20interbody%20fusion&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lateral+transpsoas+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — lumbar spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-![Lumbar vertebra (superior view) — pedicle, lamina & facets](../../figures/spine/lumbar-vertebra-superior_gray93.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
 
-![Lumbar vertebra (lateral view) — body, pedicle & pars](../../figures/spine/lumbar-vertebra-lateral_gray94.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Lateral Lumbar Interbody Fusion** — Taba HA. Neurosurgery clinics of North America 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31739927/)
+- **Lumbar interbody fusion: techniques, indications and comparison of interbody fusion options including PLIF, TLIF, MI-TLIF, OLIF/ATP, LLIF and ALIF** — Mobbs RJ. Journal of spine surgery (Hong Kong) 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27683674/)
+- **Lateral lumbar interbody fusion in adult spine deformity - A review of literature** — Batheja D. Journal of clinical orthopaedics and trauma 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34722145/)
+- **Lateral Lumbar Interbody Fusion-Outcomes and Complications** — Salzmann SN. Current reviews in musculoskeletal medicine 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29038952/)
+- **The Evolution of Lateral Lumbar Interbody Fusion: A Journey from Past to Present** — Wong AXJ. Medicina (Kaunas, Lithuania) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38541104/)
+- **Lateral Lumbar Interbody Fusion: Review of Surgical Technique and Postoperative Multimodality Imaging Findings** — Wangaryattawanich P. AJR. American journal of roentgenology 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32903050/)
+- **Lateral Lumbar Interbody Fusion** — Pawar A. Asian spine journal 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26713134/)
+- **Single Position Prone Lateral Lumbar Interbody Fusion: A Review of the Current Literature** — Jacome FP. Current reviews in musculoskeletal medicine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39090374/)
+- **Lateral Lumbar Interbody Fusion: Indications, Outcomes, and Complications** — Kwon B. The Journal of the American Academy of Orthopaedic Surgeons 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26803545/)
+- **Subsidence Rates After Lateral Lumbar Interbody Fusion: A Systematic Review** — Macki M. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30476670/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Lateral Lumbar Interbody Fusion — Fig. 1](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-01-fig-1-13063-2022-6857-fig1-html-jpg.jpg)
+*Fig. 1. Schematic diagram showing the trial timeline. Consecutive patients scheduled for lateral lumbar interbody fusion will be recruited for this study. Whole blood will be drawn from each... Source: [Efficacy of platelet-rich plasma impregnation for unidirectional porous β-tricalcium phosphate in lateral lumbar interbody fusion: study protocol for a prospective controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC9615172/) — Trials 2022; CC BY.*
+
+![Lateral Lumbar Interbody Fusion — Fig. 2](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-02-fig-2-13063-2022-6857-fig2-html-jpg.jpg)
+*Fig. 2. Bone grafts in the intervertebral cage. For each cage, one space will be filled with a bone graft with PRP, and the other will be filled with a bone graft without PRP Source: [Efficacy of platelet-rich plasma impregnation for unidirectional porous β-tricalcium phosphate in lateral lumbar interbody fusion: study protocol for a prospective controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC9615172/) — Trials 2022; CC BY.*
+
+![Lateral Lumbar Interbody Fusion — Figure 1](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-03-figure-1-cureus-0015-00000041918-i01-jpg.jpg)
+*Figure 1. The interspinous fixation device used in the study was designed to be placed from a lateral approach. The extensions, deployed after the device is passed through the interspinous... Source: [Interspinous-Interbody Fusion via a Strictly Lateral Surgical Approach: A Biomechanical Stabilization Comparison to Constructs Requiring Both Lateral and Posterior Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC10424609/) — Cureus 2023; CC BY.*
+
+![Lateral Lumbar Interbody Fusion — Figure 2](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-04-figure-2-cureus-0015-00000041918-i02-jpg.jpg)
+*Figure 2. Fluoroscopic images of the instrumented constructs.(A) Interspinous fixation device – lateral view; (B) interspinous fixation device – anterior-posterior view; (C) interspinous fixation... Source: [Interspinous-Interbody Fusion via a Strictly Lateral Surgical Approach: A Biomechanical Stabilization Comparison to Constructs Requiring Both Lateral and Posterior Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC10424609/) — Cureus 2023; CC BY.*
+
+![Lateral Lumbar Interbody Fusion — Figure 3](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-05-figure-3-cureus-0015-00000041918-i03-jpg.jpg)
+*Figure 3. The mean flexion-extension range of motion (degrees) at L3-4 for each test construct compared to INTACT (lines represent standard deviation). The motion was significantly less in all... Source: [Interspinous-Interbody Fusion via a Strictly Lateral Surgical Approach: A Biomechanical Stabilization Comparison to Constructs Requiring Both Lateral and Posterior Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC10424609/) — Cureus 2023; CC BY.*
+
+![Lateral Lumbar Interbody Fusion — Figure 4](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-06-figure-4-cureus-0015-00000041918-i04-jpg.jpg)
+*Figure 4. Location of mean instantaneous axis of rotation for INTACT and each treatment condition (lines represent standard deviations along the two axes) during flexion-extension loading.IFD:... Source: [Interspinous-Interbody Fusion via a Strictly Lateral Surgical Approach: A Biomechanical Stabilization Comparison to Constructs Requiring Both Lateral and Posterior Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC10424609/) — Cureus 2023; CC BY.*
+
+![Lateral Lumbar Interbody Fusion — Figure 1](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-07-figure-1-jocr-12-75-g001-jpg.jpg)
+*Figure 1. Pre-operative simulation in the PowerPoint® software and the first stage of the operation. The first stage involved pedicle screw insertion only without rod fixation. The pedicle screw... Source: [Posterior Insertion of a Lateral Lumbar Interbody Fusion Cage for the Treatment of Osteoporotic Vertebral Fracture with Kyphotic Deformity: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9634382/) — Journal of Orthopaedic Case Reports 2022; CC BY-NC-SA.*
+
+![Lateral Lumbar Interbody Fusion — Figure 8](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-08-figure-8-jocr-12-75-g002-jpg.jpg)
+*Figure 8. Source: [Posterior Insertion of a Lateral Lumbar Interbody Fusion Cage for the Treatment of Osteoporotic Vertebral Fracture with Kyphotic Deformity: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9634382/) — J Orthop Case Rep. 2022 Apr;12(4):75–8. doi: 10.13107/jocr.2022.v12.i04.2774; CC BY-NC-SA.*
+
+![Lateral Lumbar Interbody Fusion — Figure 2](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-09-figure-2-jocr-12-75-g003-jpg.jpg)
+*Figure 2. (a) Whole spine radiograph. (b) Computed tomography showing the unstable T11 fracture. (c) Whole spine standing radiograph 2 weeks postoperatively. The local kyphosis angle decreased... Source: [Posterior Insertion of a Lateral Lumbar Interbody Fusion Cage for the Treatment of Osteoporotic Vertebral Fracture with Kyphotic Deformity: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9634382/) — Journal of Orthopaedic Case Reports 2022; CC BY-NC-SA.*
+
+![Lateral Lumbar Interbody Fusion — Fig. 1](../../figures/curated/case-prep-lateral-lumbar-interbody-fusion-xlif-olif/figure-10-fig-1-ijss-8-14444-1019-g001-jpg.jpg)
+*Fig. 1. Exposed disc for OLLIF insertion Source: [Endoscopic Foraminal Decompression Preceding Oblique Lateral Lumbar Interbody Fusion To Decrease The Incidence Of Post Operative Dysaesthesia](https://pmc.ncbi.nlm.nih.gov/articles/PMC4325491/) — International Journal of Spine Surgery 2014; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

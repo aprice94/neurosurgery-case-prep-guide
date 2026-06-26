@@ -23,11 +23,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=petroclival+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Simpson grade** — resection extent and recurrence framework for meningioma surgery. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Simpson+recurrence+intracranial+meningioma+resection+grading+1957)
-- **EANO guideline** — diagnosis, observation, surgery, radiation, and surveillance for meningiomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 > 🧭 **Operative approach:** [Presigmoid / petrosal approaches](../approaches/presigmoid-petrosal-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
@@ -35,9 +30,76 @@ tags:
 - **Imaging:** [Radiopaedia — petroclival meningioma](https://radiopaedia.org/search?q=petroclival%20meningioma&scope=all)
 - **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=petroclival+meningioma)
 
-![Interior base of skull — petrous apex / clivus / posterior fossa](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **[Petroclival meningioma]** — Ohata K. No shinkei geka. Neurological surgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12428349/)
+- **Endoscopic endonasal transclival petroclival meningioma resection** — Magill ST. Neurosurgical focus: Video 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36285000/)
+- **Spontaneous regression of a petroclival meningioma: illustrative case** — Noda R. Journal of neurosurgery. Case lessons 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39378522/)
+- **The role of stereotactic radiosurgery in the management of petroclival meningioma: a systematic review** — Wijaya JH. Journal of neuro-oncology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35717468/)
+- **Staged Approach for Petroclival Meningioma Resection** — Klironomos G. Journal of neurological surgery. Part B, Skull base 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143605/)
+- **Endoscopic Far-Lateral Supracerebellar Infratentorial Approach for Petroclival Region Meningioma: Surgical Technique and Clinical Experience** — Xie T. Operative neurosurgery (Hagerstown, Md.) 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35315837/)
+- **Approach selection for resection of petroclival meningioma** — Jackson C. Neurosurgical focus: Video 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36284998/)
+- **Intracranial necrotising sarcoid granulomatosis mimicking petroclival meningioma** — Valappil A. BMJ case reports 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35580943/)
+- **Anterior transpetrosal (Kawase) approach for petroclival meningioma with trigeminal neuralgia: case report and literature review** — Dzhindzhikhadze RS. Zhurnal voprosy neirokhirurgii imeni N. N. Burdenko 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37325832/)
+- **Retrosigmoid Intradural Suprameatal Approach for Petroclival Meningioma** — Ishi Y. Journal of neurological surgery. Part B, Skull base 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143599/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Petroclival Meningioma Resection — Fig. 1](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-01-fig-1-10-1055-s-0038-1675168-i180144ov-1-jpg.jpg)
+*Fig. 1. Pre- and postoperative imaging. (A) Preoperative gadolinium-enhanced T1-weighted imaging (Gd-T1-WI) of magnetic resonance imaging (MRI) presenting with right petroclival meningioma. (B)... Source: [Retrosigmoid Intradural Suprameatal Approach for Petroclival Meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC6534698/) — Journal of Neurological Surgery. Part B, Skull Base 2019; CC BY-NC-ND.*
+
+![Petroclival Meningioma Resection — Fig. 2](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-02-fig-2-10-1055-s-0038-1675168-i180144ov-2-jpg.jpg)
+*Fig. 2. Intraoperative view. (A) Exposure of the suprameatal tubercle after lateral suboccipital craniotomy. (B) The operative field after tumor removal, presenting a favorable view around the... Source: [Retrosigmoid Intradural Suprameatal Approach for Petroclival Meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC6534698/) — Journal of Neurological Surgery. Part B, Skull Base 2019; CC BY-NC-ND.*
+
+![Petroclival Meningioma Resection — Figure 1](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-03-figure-1-fopht-06-1841667-g001-jpg.jpg)
+*Figure 1. Axial magnetic resonance images (MRI) demonstrating a large right petroclival meningioma obstructing cerebrospinal fluid (CSF) flow through the fourth ventricle. (A) T1-weighted... Source: [Case Report: Neuro-ophthalmic manifestations of petroclival meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC13233223/) — Frontiers in Ophthalmology 2026; CC BY.*
+
+![Petroclival Meningioma Resection — Figure 2](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-04-figure-2-fopht-06-1841667-g002-jpg.jpg)
+*Figure 2. (A) Humphrey visual field testing demonstrated minimal deviations. (B) Optical coherence tomography showed no evidence of papilledema. Source: [Case Report: Neuro-ophthalmic manifestations of petroclival meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC13233223/) — Frontiers in Ophthalmology 2026; CC BY.*
+
+![Petroclival Meningioma Resection — Figure 1](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-05-figure-1-fpain-07-1817373-g001-jpg.jpg)
+*Figure 1. (A) Gadolinum-enhanced T1-weighted magnetic resonance imaging (MRI) at initial presentation shows a right petroclival meningioma. (B) Postoperative MRI demonstrates no residual tumor in... Source: [Case Report: Intravenous fosphenytoin successfully treated acute exacerbation of secondary trigeminal neuralgia due to petroclival meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC13144101/) — Frontiers in Pain Research 2026; CC BY.*
+
+![Petroclival Meningioma Resection — Fig. 1](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-06-fig-1-10-1055-s-0039-1677849-i180249ov-1-jpg.jpg)
+*Fig. 1. MRI T1 + gad demonstrates a sizable petroclival meningioma. MRI, magnetic resonance imaging. Source: [Staged Approach for Petroclival Meningioma Resection](https://pmc.ncbi.nlm.nih.gov/articles/PMC6534681/) — Journal of Neurological Surgery. Part B, Skull Base 2019; CC BY-NC-ND.*
+
+![Petroclival Meningioma Resection — Figure 7](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-07-figure-7-sni-6-130-g001-jpg.jpg)
+*Figure 7. Source: [Drainage patterns of the superficial middle cerebral vein: Effects on perioperative managements of petroclival meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC4538574/) — Surg Neurol Int. 2015 Aug 7;6:130. doi: 10.4103/2152-7806.162483; CC BY-NC-SA.*
+
+![Petroclival Meningioma Resection — Figure 1](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-08-figure-1-sni-6-130-g002-jpg.jpg)
+*Figure 1. Examples of the four types of superficial middle cerebral vein drainage patterns. (a) Carotid angiogram in venous phase showing the superficial middle cerebral vein draining into the... Source: [Drainage patterns of the superficial middle cerebral vein: Effects on perioperative managements of petroclival meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC4538574/) — Surgical Neurology International 2015; CC BY-NC-SA.*
+
+![Petroclival Meningioma Resection — Figure 2](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-09-figure-2-sni-6-130-g003-jpg.jpg)
+*Figure 2. Example of a case in which the superficial middle cerebral vein was absent. (a) T1-weighted magnetic resonance imaging with contrast medium showing a right petroclival meningioma... Source: [Drainage patterns of the superficial middle cerebral vein: Effects on perioperative managements of petroclival meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC4538574/) — Surgical Neurology International 2015; CC BY-NC-SA.*
+
+![Petroclival Meningioma Resection — Figure 3](../../figures/curated/case-prep-petroclival-meningioma-resection/figure-10-figure-3-sni-6-130-g004-jpg.jpg)
+*Figure 3. Example of a superficial middle cerebral vein connecting to the sphenobasal vein. (a) T1-weighted magnetic resonance imaging with contrast medium showing a left petrocalival meningioma... Source: [Drainage patterns of the superficial middle cerebral vein: Effects on perioperative managements of petroclival meningioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC4538574/) — Surgical Neurology International 2015; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

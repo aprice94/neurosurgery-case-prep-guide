@@ -22,18 +22,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=posterior+fossa+tumour+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Posterior fossa tumor surgery** — safe resection, hydrocephalus, and cerebellar-mutism literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+tumor+surgery+cerebellar+mutism+hydrocephalus)
-- **Disease-specific adjuvant therapy** — medulloblastoma/ependymoma risk stratification and postoperative treatment literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=posterior+fossa+ependymoma+medulloblastoma+guideline+surgery+radiation)
-
 > 🧭 **Operative approach:** [Telovelar approach](../approaches/telovelar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=posterior%20fossa%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=posterior+fossa+tumor+telovelar) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Ventricular system — fourth ventricle](../../figures/anatomy/ventricles_gray734.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Posterior Fossa Tumor Rehabilitation: An Up-to-Date Overview** — Chieffo DPR. Children (Basel, Switzerland) 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35740841/)
+- **Posterior Fossa Tumors** — Brandão LA. Neuroimaging clinics of North America 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27889018/)
+- **Prevalence of dysphagia following posterior fossa tumor resection: a systematic review and meta‑analysis** — Duan Y. BMC cancer 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39060966/)
+- **Intraoperative neurophysiology in posterior fossa tumor surgery in children** — Sala F. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26351231/)
+- **Cerebellar liponeurocytoma: Rare posterior fossa tumor** — Chaouche I. Radiology case reports 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38841602/)
+- **Posterior fossa tumors in children: Radiological tips & tricks in the age of genomic tumor classification and advance MR technology** — Kerleroux B. Journal of neuroradiology = Journal de neuroradiologie 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31541639/)
+- **A review of long-term deficits in memory systems following radiotherapy for pediatric posterior fossa tumor** — Baudou E. Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35640769/)
+- **Craniotomy versus craniectomy in posterior fossa tumor surgery: A systematic review and Meta-Analysis** — Correa EM. Neurosurgical review 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41407970/)
+- **Postoperative facial palsy after pediatric posterior fossa tumor resection** — Chu JK. Journal of neurosurgery. Pediatrics 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33711807/)
+- **Cerebellar Mutism Syndrome After Posterior Fossa Tumor Surgery in Children-A Retrospective Single-Center Study** — Schmidt S. World neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36871657/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Posterior Fossa Tumor Resection — Fig. 1](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-01-fig-1-432-2022-4490-fig1-html-jpg.jpg)
+*Fig. 1. Flow diagram illustrating participants entered the study Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — Journal of Cancer Research and Clinical Oncology 2022; CC BY.*
+
+![Posterior Fossa Tumor Resection — Fig. 2](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-02-fig-2-432-2022-4490-fig2-html-jpg.jpg)
+*Fig. 2. Postural stability and coordination scores Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — Journal of Cancer Research and Clinical Oncology 2022; CC BY.*
+
+![Posterior Fossa Tumor Resection — Figure 3](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-03-figure-3-432-2022-4490-moesm1-esm-jpeg.jpg)
+*Figure 3. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
+
+![Posterior Fossa Tumor Resection — Figure 4](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-04-figure-4-432-2022-4490-moesm2-esm-jpeg.jpg)
+*Figure 4. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
+
+![Posterior Fossa Tumor Resection — Figure 5](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-05-figure-5-432-2022-4490-moesm3-esm-jpeg.jpg)
+*Figure 5. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
+
+![Posterior Fossa Tumor Resection — Figure 6](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-06-figure-6-432-2022-4490-moesm4-esm-jpeg.jpg)
+*Figure 6. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
+
+![Posterior Fossa Tumor Resection — Figure 7](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-07-figure-7-432-2022-4490-moesm5-esm-jpeg.jpg)
+*Figure 7. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
+
+![Posterior Fossa Tumor Resection — Figure 8](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-08-figure-8-432-2022-4490-moesm6-esm-jpeg.jpg)
+*Figure 8. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
+
+![Posterior Fossa Tumor Resection — Figure 1.](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-09-figure-1-vdaf053-fig1-jpg.jpg)
+*Figure 1.. TBSS results for the group of all 8 posterior fossa tumor patients at the presurgical time point. Green denotes the white matter skeleton where voxels are not significantly different... Source: [Evidence of supratentorial white matter injury prior to treatment in children with posterior fossa tumors using diffusion MRI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12080551/) — Neuro-Oncology Advances 2025; CC BY.*
+
+![Posterior Fossa Tumor Resection — Figure 2.](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-10-figure-2-vdaf053-fig2-jpg.jpg)
+*Figure 2.. TBSS results for individual patients with widespread, significant changes in FA, including pilocytic astrocytoma patients PF002 (A) and PF016 (B) and medulloblastoma patient PF050 (C).... Source: [Evidence of supratentorial white matter injury prior to treatment in children with posterior fossa tumors using diffusion MRI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12080551/) — Neuro-Oncology Advances 2025; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

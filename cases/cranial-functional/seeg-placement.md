@@ -21,17 +21,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereoelectroencephalography+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Temporal lobe RCT** — Wiebe S et al. *NEJM* 2001 — surgery vs medical therapy for temporal lobe epilepsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebe+randomized+trial+surgery+temporal+lobe+epilepsy+2001+NEJM)
-- **ERSET** — Engel J et al. *JAMA* 2012 — early surgical therapy for drug-resistant TLE. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Engel+early+surgery+mesial+temporal+lobe+epilepsy+ERSET+2012+JAMA)
-- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
-
-![Ventricular system & cerebral cortex (depth-electrode targets)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereoelectroencephalography&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=stereo+EEG+robot+implantation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Depth-to-scalp spatiotemporal dynamics for stereo-EEG** — Benoliel T. Epilepsy & behavior reports 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40895179/)
+- **Stereo-EEG Implantation Strategy** — Kalamangalam GP. Journal of clinical neurophysiology : official publication of the American Electroencephalographic Society 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27918343/)
+- **Fast Automated Stereo-EEG Electrode Contact Identification and Labeling Ensemble** — Ervin B. Stereotactic and functional neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33849046/)
+- **Electrode and brain modeling in stereo-EEG** — von Ellenrieder N. Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22364724/)
+- **Modeling the Impact of Electrode/Tissue Geometry on Electrical Stimulation in Stereo-EEG** — Shindhelm AC. Journal of clinical neurophysiology : official publication of the American Electroencephalographic Society 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34482315/)
+- **Comparison of EEG Signal Characteristics of Subdural and Depth Electrodes** — Alkawadri CI. Journal of clinical neurophysiology : official publication of the American Electroencephalographic Society 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39787440/)
+- **The Insula and Its Epilepsies** — Jobst BC. Epilepsy currents 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30838920/)
+- **Somatic Mosaic Pathogenic Variant Gradient Detected in Trace Brain Tissue From Stereo-EEG Depth Electrodes** — Ye Z. Neurology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36192176/)
+- **Bridging surface and depth: A systematic review of seizure patterns in simultaneous scalp and stereo-EEG** — Santos C. Epilepsy research 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40986982/)
+- **Analysis of DNA from brain tissue on stereo-EEG electrodes reveals mosaic epilepsy-related variants** — D'Gama AM. Brain communications 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40177531/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Stereo-EEG Depth Electrode Placement — Fig. 1](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-01-fig-1-42234-2023-135-fig1-html-jpg.jpg)
+*Fig. 1. Ear-EEG system. a 3D anatomical ear model obtained through optical ear scan. b A custom-made earbud with two electrodes per ear – Ear Right Cymba (ERC) placed in the cymba conchae and... Source: [Using a standalone ear-EEG device for focal-onset seizure detection](https://pmc.ncbi.nlm.nih.gov/articles/PMC10848360/) — Bioelectronic Medicine 2024; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Fig. 3](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-02-fig-3-42234-2023-135-fig3-html-jpg.jpg)
+*Fig. 3. Example ear-EEG waveforms from a subclinical focal seizure detected during sleep. A 10 s window of interest is expanded in (a) and indicated in (b) by the “Zoom” region (blue), which... Source: [Using a standalone ear-EEG device for focal-onset seizure detection](https://pmc.ncbi.nlm.nih.gov/articles/PMC10848360/) — Bioelectronic Medicine 2024; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Fig. 5](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-03-fig-5-42234-2023-135-fig5-html-jpg.jpg)
+*Fig. 5. Examples of seizures from the same patient, with (a, b) false negative and (c, d) true positive results using ear-EEG. A 10 s window of interest is expanded in (a, c) and indicated in... Source: [Using a standalone ear-EEG device for focal-onset seizure detection](https://pmc.ncbi.nlm.nih.gov/articles/PMC10848360/) — Bioelectronic Medicine 2024; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Fig. 6](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-04-fig-6-42234-2023-135-fig6-html-jpg.jpg)
+*Fig. 6. Example of false positive seizure identified on the ear-EEG. A 10 s window of interest is expanded in (a) and indicated in (b) by the “Zoom” region (blue), which falls within the full... Source: [Using a standalone ear-EEG device for focal-onset seizure detection](https://pmc.ncbi.nlm.nih.gov/articles/PMC10848360/) — Bioelectronic Medicine 2024; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Figure 2](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-05-figure-2-brainsci-08-00135-g002-jpg.jpg)
+*Figure 2. Top: microelectrode recordings with identified spikes from 250 distinct cells. Intracerebral recording locations are identified on the right. Bottom: Muscle activity (electromyograph,... Source: [Pediatric Deep Brain Stimulation Using Awake Recording and Stimulation for Target Selection in an Inpatient Neuromodulation Monitoring Unit](https://pmc.ncbi.nlm.nih.gov/articles/PMC6070881/) — Brain Sciences 2018; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Figure 4](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-06-figure-4-brainsci-08-00135-g004-jpg.jpg)
+*Figure 4. Axial (a,b) and coronal (c,d) views of the postoperative CT overlaid on the preoperative MRI, showing the lead locations for the Adtech stereo EEG leads. Planned trajectories for... Source: [Pediatric Deep Brain Stimulation Using Awake Recording and Stimulation for Target Selection in an Inpatient Neuromodulation Monitoring Unit](https://pmc.ncbi.nlm.nih.gov/articles/PMC6070881/) — Brain Sciences 2018; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Fig. 1](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-07-fig-1-41467-2026-70633-fig1-html-jpg.jpg)
+*Fig. 1. Cortical HFO bursts co-occur during memory encoding and at the time of recall.a Raw LFP traces from an example macro-electrode contact implanted in the occipital cortex show timepoints... Source: [Global coincident bursts of high frequency oscillations across the human cortex coordinate large-scale memory processing](https://pmc.ncbi.nlm.nih.gov/articles/PMC13136343/) — Nature Communications 2026; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Fig. 4](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-08-fig-4-41467-2026-70633-fig4-html-jpg.jpg)
+*Fig. 4. Widely distributed networks of coincident bursting are involved in encoding and recalling words.a Localization of electrode channels that displayed coincident HFO bursting (black dots)... Source: [Global coincident bursts of high frequency oscillations across the human cortex coordinate large-scale memory processing](https://pmc.ncbi.nlm.nih.gov/articles/PMC13136343/) — Nature Communications 2026; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Fig 4](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-09-fig-4-pcbi-1008710-e006-jpg.jpg)
+*Fig 4. Projection of basis profile curves (BPCs).A: The contribution of each BPC Bq to a single trial from its cluster can be quantified according to a scalar multiplier αk(q), and residual... Source: [Basis profile curve identification to understand electrical stimulation effects in human brain networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC8412306/) — PLoS Computational Biology 2021; CC BY.*
+
+![Stereo-EEG Depth Electrode Placement — Fig 1](../../figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-10-fig-1-pcbi-1008710-g001-jpg.jpg)
+*Fig 1. Cortico-cortical evoked potential analysis paradigms.A: Convergent—Evoked responses at one chosen site (gray circle) are compared with the effect of stimulating all other sites (yellow... Source: [Basis profile curve identification to understand electrical stimulation effects in human brain networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC8412306/) — PLoS Computational Biology 2021; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

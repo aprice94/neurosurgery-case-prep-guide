@@ -22,13 +22,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=basilar+tip+aneurysm+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **ISAT** — Molyneux AJ et al. *Lancet* 2002 — endovascular coiling vs surgical clipping after aneurysmal SAH. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **ISUIA** — Wiebers DO et al. *Lancet* 2003 — natural history and treatment risk of unruptured aneurysms. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wiebers+unruptured+intracranial+aneurysms+investigators+2003+Lancet)
-- **BRAT** — Spetzler RF et al. *J Neurosurg* 2012/2015 — Barrow Ruptured Aneurysm Trial, clip vs coil. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Spetzler+Barrow+Ruptured+Aneurysm+Trial+clipping+coiling)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
-
 > 🧭 **Operative approach:** [Orbitozygomatic craniotomy](../approaches/orbitozygomatic-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
@@ -43,19 +36,82 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=basilar+apex+aneurysm)
 
-**Anatomy (public domain)**
 
-![Arteries of the base of the brain — circle of Willis (incl. basilar / posterior circulation)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png).*
-
-![Circle of Willis (basilar apex within the communicating ring)](../../figures/cranial-vascular/circle-of-willis-cta_brainsci-519.jpg)
-
-*Poblete T et al., Microsurgical Anatomy of the Anterior Circulation, Brain Sci 2021;11(4):519 — CC BY 4.0.*
 
 ![Basilar-apex aneurysm via orbitozygomatic approach — posterior perforators visualized (A), dissected off the dome and excluded from the clip construct (B), with post-clip ICG confirming perforator preservation (C)](../../figures/cranial-vascular/basilar-clip-icg-perforators_fsurg-2019-34.jpg)
 
 *Basilar-tip clipping: P1/basilar-apex perforators dissected off the dome; post-clip ICG videoangiography confirms perforator preservation. Source: Norat et al., Front Surg 2019;6:34, Fig 3. CC BY 4.0.*
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Basilar apex aneurysm systematic review: Microsurgical versus endovascular treatment** — Medani K. Neuro-Chirurgie 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35965246/)
+- **Basilar Apex Aneurysm: Case Series, Systematic Review, and Meta-analysis** — Dandurand C. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32084621/)
+- **Microsurgical Technique for Basilar Apex Aneurysm Clipping: Two-Dimensional Video** — Lopez-Gonzalez MA. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30862602/)
+- **Does embryologic basilar fusion type impact basilar apex aneurysm treatment outcomes?** — Hubbard Z. Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41014892/)
+- **Thrombosed basilar apex aneurysm presenting as a third ventricular mass and hydrocephalus** — Liu JK. Acta neurochirurgica 2005. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15662571/)
+- **Microsurgical Clipping of a Ruptured Basilar Apex Aneurysm: 3-Dimensional Operative Video** — Cheng CY. Operative neurosurgery (Hagerstown, Md.) 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30407554/)
+- **Pretemporal Transcavernous Approach to Basilar Apex Aneurysm: 2-Dimensional Operative Video** — Dey S. Operative neurosurgery (Hagerstown, Md.) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36701550/)
+- **Endovascular treatment of bilateral carotid artery occlusion with concurrent basilar apex aneurysm: a case report and literature review** — Xu K. International journal of medical sciences 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21487570/)
+- **Woven EndoBridge embolization in the retreatment of basilar apex aneurysm** — Lee JE. Neurosurgical focus: Video 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36425269/)
+- **Transpalpebral approach for microsurgical clipping of an unruptured basilar apex aneurysm: case report and literature review** — Dzhindzhikhadze RS. British journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33252271/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Basilar Apex Aneurysm — Figure 1](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-01-figure-1-ijmsv08p0263g01-jpg.jpg)
+*Figure 1. A: Head CT scan shows that the hemorrhage was localized on the pontine cistern and interpeduncular cistern, extending to the right of the ambient cistern, into the posterior horn of the... Source: [Endovascular Treatment of Bilateral Carotid Artery Occlusion with Concurrent Basilar Apex Aneurysm: A Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC3074092/) — International Journal of Medical Sciences 2011; CC BY-NC-ND.*
+
+![Basilar Apex Aneurysm — Figure 2](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-02-figure-2-ijmsv08p0263g02-jpg.jpg)
+*Figure 2. Common carotid artery DS angiographs: occlusion at the beginning of internal carotid artery, with the remaining external carotid artery. No formation of anatomosis between the external... Source: [Endovascular Treatment of Bilateral Carotid Artery Occlusion with Concurrent Basilar Apex Aneurysm: A Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC3074092/) — International Journal of Medical Sciences 2011; CC BY-NC-ND.*
+
+![Basilar Apex Aneurysm — Figure 3](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-03-figure-3-ijmsv08p0263g03-jpg.jpg)
+*Figure 3. A,B: Angiograph of the vertebral artery showing developed posterior circulation with blood supply through the bilateral posterior communicating artery. No delay was observed in the... Source: [Endovascular Treatment of Bilateral Carotid Artery Occlusion with Concurrent Basilar Apex Aneurysm: A Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC3074092/) — International Journal of Medical Sciences 2011; CC BY-NC-ND.*
+
+![Basilar Apex Aneurysm — Figure 4](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-04-figure-4-ijmsv08p0263g04-jpg.jpg)
+*Figure 4. A, B: DS angiographs taken after the aneurysm coil embolization. The aneurysm with dense embolization is not seen. Source: [Endovascular Treatment of Bilateral Carotid Artery Occlusion with Concurrent Basilar Apex Aneurysm: A Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC3074092/) — International Journal of Medical Sciences 2011; CC BY-NC-ND.*
+
+![Basilar Apex Aneurysm — Figure 5](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-05-figure-5-ijmsv08p0263g05-jpg.jpg)
+*Figure 5. A,B: One year after embolizing the aneurysm with the endovascular approach, embolization was still in good condition, without recanalization. Source: [Endovascular Treatment of Bilateral Carotid Artery Occlusion with Concurrent Basilar Apex Aneurysm: A Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC3074092/) — International Journal of Medical Sciences 2011; CC BY-NC-ND.*
+
+![Basilar Apex Aneurysm — Figure 1](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-06-figure-1-jnrp-7-99-g001-jpg.jpg)
+*Figure 1. Preoperative cerebral angiography, (a) anterior-posterior and (b) lateral views of a left vertebral artery injection, shows a large, 11-mm wide-necked basilar bifurcation aneurysm with a... Source: [Double-barrel Y-configuration Stenting for Flow Diversion of a Giant Recurrent Basilar Apex Aneurysm with the Pipeline Flex Embolization Device](https://pmc.ncbi.nlm.nih.gov/articles/PMC5244076/) — Journal of Neurosciences in Rural Practice 2016; CC BY-NC-SA.*
+
+![Basilar Apex Aneurysm — Figure 2](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-07-figure-2-jnrp-7-99-g002-jpg.jpg)
+*Figure 2. Cerebral angiography, (a) anterior-posterior and (b) lateral views of a left vertebral artery injection, shows significant recurrence of the previously stent-coiled and twice recoiled... Source: [Double-barrel Y-configuration Stenting for Flow Diversion of a Giant Recurrent Basilar Apex Aneurysm with the Pipeline Flex Embolization Device](https://pmc.ncbi.nlm.nih.gov/articles/PMC5244076/) — Journal of Neurosciences in Rural Practice 2016; CC BY-NC-SA.*
+
+![Basilar Apex Aneurysm — Figure 3](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-08-figure-3-jnrp-7-99-g003-jpg.jpg)
+*Figure 3. Follow-up magnetic resonance angiography 10 months after the flow diversion procedure, (a) axial time-of-flight and three-dimensional reconstruction, (b) anterior-posterior and (c)... Source: [Double-barrel Y-configuration Stenting for Flow Diversion of a Giant Recurrent Basilar Apex Aneurysm with the Pipeline Flex Embolization Device](https://pmc.ncbi.nlm.nih.gov/articles/PMC5244076/) — Journal of Neurosciences in Rural Practice 2016; CC BY-NC-SA.*
+
+![Basilar Apex Aneurysm — Fig. 1.](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-09-fig-1-nihms-1683155-f0001-jpg.jpg)
+*Fig. 1.. (A) Axial unenhanced CT demonstrates basilar apex aneurysm measuring 20 mm in width in the interpeduncular fossa. (B) Axial CTA shows aneurysmal lumen measuring 12 mm in width at its... Source: [Intrasaccular flow disruption (WEB) of a large wide-necked basilar apex aneurysm using PulseRider-assistance](https://pmc.ncbi.nlm.nih.gov/articles/PMC8018600/) — Interdisciplinary neurosurgery : Advanced techniques and case management 2020; CC BY.*
+
+![Basilar Apex Aneurysm — Fig. 2.](../../figures/curated/case-prep-basilar-apex-tip-aneurysm/figure-10-fig-2-nihms-1683155-f0002-jpg.jpg)
+*Fig. 2.. (A) Right vertebral arteriogram in frontal projection shows wide-necked, large basilar apex aneurysm incorporating both PCA origins. (B) Lateral projection of right vertebral arteriogram... Source: [Intrasaccular flow disruption (WEB) of a large wide-necked basilar apex aneurysm using PulseRider-assistance](https://pmc.ncbi.nlm.nih.gov/articles/PMC8018600/) — Interdisciplinary neurosurgery : Advanced techniques and case management 2020; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

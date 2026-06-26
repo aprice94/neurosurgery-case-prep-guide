@@ -21,16 +21,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=mechanical+thrombectomy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **MR CLEAN / early EVT trials** — thrombectomy benefit for anterior-circulation LVO. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=MR+CLEAN+trial+mechanical+thrombectomy+large+vessel+occlusion+2015)
-- **DAWN / DEFUSE 3** — extended-window thrombectomy selection by clinical-core mismatch/perfusion imaging. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=DAWN+DEFUSE+3+trial+thrombectomy+extended+window)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=mechanical%20thrombectomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=mechanical+thrombectomy+large+vessel+occlusion) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Arteries of the base of the brain — circle of Willis (LVO sites: ICA, M1, basilar)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909, public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Contemporary Management of Acute Ischemic Stroke** — Ho JP. Annual review of medicine 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39496213/)
+- **Acute ischemic stroke: A guideline-based overview of evaluation and management** — Bogenschutz KM. JAAPA : official journal of the American Academy of Physician Assistants 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40197996/)
+- **A review of mechanical thrombectomy techniques for acute ischemic stroke** — Munoz A. Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35238227/)
+- **Indications for Mechanical Thrombectomy for Acute Ischemic Stroke: Current Guidelines and Beyond** — Jadhav AP. Neurology 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34785611/)
+- **Management of acute ischemic stroke** — Rigual R. Medicina clinica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37532617/)
+- **Diagnosis and Management of Transient Ischemic Attack and Acute Ischemic Stroke: A Review** — Mendelson SJ. JAMA 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33724327/)
+- **Mechanical Thrombectomy for Acute Ischemic Stroke** — Sheth SA. Continuum (Minneapolis, Minn.) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37039404/)
+- **European Stroke Organisation (ESO) - European Society for Minimally Invasive Neurological Therapy (ESMINT) Guidelines on Mechanical Thrombectomy in Acute Ischemic Stroke** — Turc G. Journal of neurointerventional surgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30808653/)
+- **Thrombus Composition and Efficacy of Thrombolysis and Thrombectomy in Acute Ischemic Stroke** — Jolugbo P. Stroke 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33563020/)
+- **Advances in Acute Ischemic Stroke Therapy** — Xiong Y. Circulation research 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35420919/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Fig. 1](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-01-fig-1-40001-2023-1414-fig1-html-jpg.jpg)
+*Fig. 1. Study flow chart of patients and respective exclusion criteria Source: [The risk and outcome of malignant brain edema in post-mechanical thrombectomy: acute ischemic stroke by anterior circulation occlusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC10571427/) — European Journal of Medical Research 2023; CC BY.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Fig. 2](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-02-fig-2-40001-2023-1414-fig2-html-jpg.jpg)
+*Fig. 2. Typical images of MBE after MT: 59-year-old man with mTICI score, 2b; and mRS score, 4; A–C post-treatment patient with cerebral edema on CT image; D–F pre-treatment patient without... Source: [The risk and outcome of malignant brain edema in post-mechanical thrombectomy: acute ischemic stroke by anterior circulation occlusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC10571427/) — European Journal of Medical Research 2023; CC BY.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Figure 1.](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-03-figure-1-jamanetwopen-e2231343-g001-jpg.jpg)
+*Figure 1.. Pediatric Acute Ischemic Stroke of Cardioembolic Origin Treated With Mechanical ThrombectomyAcute ischemic stroke in a child aged 8 years with a clinical history of embolic heart disease... Source: [Recanalization Treatments for Pediatric Acute Ischemic Stroke in France](https://pmc.ncbi.nlm.nih.gov/articles/PMC9478769/) — JAMA Network Open 2022; CC BY.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Figure 2.](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-04-figure-2-jamanetwopen-e2231343-g002-jpg.jpg)
+*Figure 2.. Pediatric Acute Ischemic Stroke Caused by FCA Treated With Mechanical ThrombectomyAcute ischemic stroke in a child aged 4 years with no medical history, presenting as a sudden left... Source: [Recanalization Treatments for Pediatric Acute Ischemic Stroke in France](https://pmc.ncbi.nlm.nih.gov/articles/PMC9478769/) — JAMA Network Open 2022; CC BY.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Fig. 1](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-05-fig-1-gr1-jpg.jpg)
+*Fig. 1. The first mechanical thrombectomy, from A–D, showed no low-density lesions on preoperative head CT, occlusion of the right internal carotid artery (arrow), complete recanalization of the... Source: [Two mechanical thrombectomies in acute ischemic stroke within 48 hours: A case report on a patient with atrial fibrillation](https://pmc.ncbi.nlm.nih.gov/articles/PMC10333105/) — Radiology Case Reports 2023; CC BY-NC-ND.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Fig. 2](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-06-fig-2-gr2-jpg.jpg)
+*Fig. 2. The second mechanical thrombectomy, from A–D, suggested a recurrence of right-side internal carotid artery (arrow) occlusion, a mismatch between CT perfusion ischemia and core infarct... Source: [Two mechanical thrombectomies in acute ischemic stroke within 48 hours: A case report on a patient with atrial fibrillation](https://pmc.ncbi.nlm.nih.gov/articles/PMC10333105/) — Radiology Case Reports 2023; CC BY-NC-ND.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Fig. 3](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-07-fig-3-gr3-jpg.jpg)
+*Fig. 3. After repeated mechanical thrombectomy, diffusion-weighted imaging (DWI) shows a small infarct area. Source: [Two mechanical thrombectomies in acute ischemic stroke within 48 hours: A case report on a patient with atrial fibrillation](https://pmc.ncbi.nlm.nih.gov/articles/PMC10333105/) — Radiology Case Reports 2023; CC BY-NC-ND.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Fig. 1](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-08-fig-1-nmccrj-6-17-g001-jpg.jpg)
+*Fig. 1. (A and B) Axial plain computed tomography showing an old infarction in the right occipital lobe and early ischemic change in the right middle frontal gyrus. (C) Axial contrast-enhanced... Source: [Mechanical Thrombectomy for Acute Ischemic Stroke Arising from Thrombus of the Left Superior Pulmonary Vein Stump after Left Pneumonectomy: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6350028/) — NMC Case Report Journal 2019; CC BY-NC-ND.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Fig. 2](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-09-fig-2-nmccrj-6-17-g002-jpg.jpg)
+*Fig. 2. Macroscopic photograph (A and B) and histological findings (C–F) of the retrieved embolus. The retrieved embolus appears as dark-red structure, and considers to be red thrombus (A,... Source: [Mechanical Thrombectomy for Acute Ischemic Stroke Arising from Thrombus of the Left Superior Pulmonary Vein Stump after Left Pneumonectomy: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6350028/) — NMC Case Report Journal 2019; CC BY-NC-ND.*
+
+![Mechanical Thrombectomy Acute Ischemic Stroke — Fig. 3](../../figures/curated/case-prep-mechanical-thrombectomy-for-acute-ischemic-stroke-large-vessel-occlusion/figure-10-fig-3-nmccrj-6-17-g003-jpg.jpg)
+*Fig. 3. Post-operative findings of the imaging studies. Transesophageal echocardiography 6 days after thrombectomy (A) shows thrombus (arrow) in the left superior pulmonary vein stump.... Source: [Mechanical Thrombectomy for Acute Ischemic Stroke Arising from Thrombus of the Left Superior Pulmonary Vein Stump after Left Pneumonectomy: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC6350028/) — NMC Case Report Journal 2019; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

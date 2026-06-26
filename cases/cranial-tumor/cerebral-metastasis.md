@@ -22,14 +22,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebral+metastasis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Patchell I** — surgery + WBRT for selected single brain metastasis. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+surgery+single+brain+metastasis+1990+NEJM)
-- **N0574 / postop SRS era** — SRS alone vs WBRT and cavity-SRS literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brown+N0574+stereotactic+radiosurgery+whole+brain+metastases+2016+JAMA)
-
-![Ventricular system & cerebral lobes (metastasis localization)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 ![Perirolandic region — motor/sensory homunculus and the infiltrative growth pattern of brain metastases beyond the gliotic pseudocapsule](../../figures/cranial-tumor/metastasis-perirolandic-anatomy_fonc-572644.jpg)
 
@@ -44,6 +36,76 @@ tags:
 *Central-sulcus identification by SEP phase reversal and motor mapping prior to perirolandic metastasis removal. Source: Zuo et al., Front Oncol 2020;10:572644, Fig 3. CC BY 4.0.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20metastasis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=brain+metastasis+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Cerebral Metastasis of Hepatoblastoma: A Review** — Rai P. Journal of pediatric hematology/oncology 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27111454/)
+- **Cerebral Metastasis of Common Cancers** — Kros JM. Cancers 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33383615/)
+- **Cerebral metastasis and other central nervous system complications of pleuropulmonary blastoma** — Priest JR. Pediatric blood & cancer 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16807914/)
+- **Cerebral metastasis of cervical cancer, report of two cases and review of the literature** — Setoodeh R. International journal of clinical and experimental pathology 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22977669/)
+- **Cerebral metastasis from osteosarcoma: "Bone" in the brain** — Kokkali S. Radiology case reports 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32322331/)
+- **Single Cerebral Metastasis Mimicking Pyogenic Abscess in a Patient with Lung Adenocarcinoma** — Pérez-Riverola V. Radiology. Imaging cancer 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37026868/)
+- **Cerebral metastasis from ovarian cancer treated with a multidisciplinary approach. Case report and review of literature** — Porzio G. European journal of gynaecological oncology 2003. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14658605/)
+- **Pleomorphic dermal sarcoma with cerebral metastasis** — Trennheuser L. Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32558278/)
+- **Multiple cerebral aneurysms and brain metastasis from primary cardiac myxosarcoma: a case report and literature review** — Lee TH. Chang Gung medical journal 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21733362/)
+- **Ovarian Carcinoma Initially-presented as Cerebral Metastasis: Epidemiology, Pathology, and Outcomes** — Qudsieh S. Materia socio-medica 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41623537/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Cerebral Metastasis Resection — Figure 1.](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-01-figure-1-ol-30-01-15086-g00-jpg.jpg)
+*Figure 1.. Post-contrast axial CT scan demonstrating large peripherally enhancing heterogenous solid-cystic tumour with localised mass effect. CT, computed tomography. Source: [Cerebral metastasis from anal squamous cell carcinoma: A case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12105449/) — Oncology Letters 2025; CC BY.*
+
+![Cerebral Metastasis Resection — Figure 2.](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-02-figure-2-ol-30-01-15086-g01-jpg.jpg)
+*Figure 2.. T1 and T2 MR images demonstrating the metastatic tumour. (A) T2 MRI sequence demonstrating high signal intensity within a cystic centre surrounded by thickened heterogenous rim of tumour... Source: [Cerebral metastasis from anal squamous cell carcinoma: A case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12105449/) — Oncology Letters 2025; CC BY.*
+
+![Cerebral Metastasis Resection — Figure 3.](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-03-figure-3-ol-30-01-15086-g02-jpg.jpg)
+*Figure 3.. Representative haematoxylin and eosin-stained sections. Stained sections demonstrating squamous cell carcinoma in the (A) primary anal tumour (scale bar, 200 µm) and (B) metastatic brain... Source: [Cerebral metastasis from anal squamous cell carcinoma: A case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12105449/) — Oncology Letters 2025; CC BY.*
+
+![Cerebral Metastasis Resection — Figure 4.](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-04-figure-4-ol-30-01-15086-g03-jpg.jpg)
+*Figure 4.. Day 1 post-operative axial pre- and post-contrast T1-weighted MRI showing no significant residual tumour post-craniotomy and resection. Source: [Cerebral metastasis from anal squamous cell carcinoma: A case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12105449/) — Oncology Letters 2025; CC BY.*
+
+![Cerebral Metastasis Resection — Figure 1.](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-05-figure-1-amjcaserep-23-e935728-g001-jpg.jpg)
+*Figure 1.. Preoperative head and lung computed tomography (CT) showed late cerebral metastasis of melanoma. (A) Right frontal melanoma brain metastasis with intracranial hemorrhage compressing the... Source: [A 41-Year-Old Woman with a Late Cerebral Metastasis 16 Years After an Initial Diagnosis of Cutaneous Melanoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC8919240/) — The American Journal of Case Reports 2022; CC BY-NC-ND.*
+
+![Cerebral Metastasis Resection — Figure 2.](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-06-figure-2-amjcaserep-23-e935728-g002-jpg.jpg)
+*Figure 2.. Late cerebral metastasis of melanoma presents widespread dissemination in dural matter and adjacent temporal bone, temporalis and hypodermis. (A) The extradural part grew infiltratively... Source: [A 41-Year-Old Woman with a Late Cerebral Metastasis 16 Years After an Initial Diagnosis of Cutaneous Melanoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC8919240/) — The American Journal of Case Reports 2022; CC BY-NC-ND.*
+
+![Cerebral Metastasis Resection — Figure 1](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-07-figure-1-omag081f1-jpg.jpg)
+*Figure 1. Preoperative echocardiography. Transesophageal echocardiography showing a 40-mm pedunculated tumor (arrowed) attached to the LA side of the atrial septum. RA, right atrium; LA, left... Source: [Delayed cerebral metastasis after complete resection of left atrial cardiac myxoma: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC13198785/) — Oxford Medical Case Reports 2026; CC BY.*
+
+![Cerebral Metastasis Resection — Figure 2](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-08-figure-2-omag081f2-jpg.jpg)
+*Figure 2. Brain MRI. (A) Preoperative diffusion-weighted imaging (DWI) showing multiple acute cerebral infarcts (arrowed) in the parietal lobe. (B) MRI (T2-weighted imaging) at 7 months... Source: [Delayed cerebral metastasis after complete resection of left atrial cardiac myxoma: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC13198785/) — Oxford Medical Case Reports 2026; CC BY.*
+
+![Cerebral Metastasis Resection — Figure 3](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-09-figure-3-omag081f3-jpg.jpg)
+*Figure 3. Tumor findings. (A) Intraoperative photograph of left atrial myxoma. (B) Intraoperative photograph of resected frontal lobe metastatic lesion. (C) Histopathology of cerebral metastatic... Source: [Delayed cerebral metastasis after complete resection of left atrial cardiac myxoma: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC13198785/) — Oxford Medical Case Reports 2026; CC BY.*
+
+![Cerebral Metastasis Resection — Figure 1](../../figures/curated/case-prep-cerebral-metastasis-resection/figure-10-figure-1-1752-1947-6-117-1-jpg.jpg)
+*Figure 1. A (L: left eye; R: right eye) Humphrey visual field demonstrating a congruous right homonymous inferior quadrantanopsia. B Repeat visual field test showed slight improvement. Source: [Homonymous Quadrantanopsia as the First Manifestation of Cerebral Metastasis of Invasive Mole: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC3353198/) — Journal of Medical Case Reports 2012; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

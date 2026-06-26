@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=carotid+artery+stenosis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **NASCET / symptomatic stenosis** — benefit of carotid endarterectomy for selected symptomatic carotid stenosis. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NASCET+symptomatic+carotid+stenosis+endarterectomy+trial)
-- **CREST** — carotid stenting vs endarterectomy outcomes and perioperative risk trade-offs. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=CREST+carotid+revascularization+endarterectomy+stenting+trial)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+endarterectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Arteries of the base of the brain — ICA / circle of Willis (collateral supply)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909, public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Monitoring in carotid endarterectomy** — Simon MV. Handbook of clinical neurology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35772895/)
+- **Carotid endarterectomy from the neurosurgeon's perspective** — Přibáň V. Rozhledy v chirurgii : mesicnik Ceskoslovenske chirurgicke spolecnosti 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40662434/)
+- **Anesthesia for Carotid Endarterectomy, Angioplasty, and Stent** — Nelson P. Anesthesiology clinics 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33563385/)
+- **[Carotid endarterectomy in acute period of ischemic stroke]** — Zakirzhanov NR. Khirurgiia 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32105259/)
+- **Carotid endarterectomy-the evidence** — Earnshaw JJ. Journal of the Royal Society of Medicine 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11934904/)
+- **[Carotid endarterectomy : General versus local anesthesia, which is the best ?]** — Khaoulani Y. Revue medicale de Liege 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39397552/)
+- **Transcarotid Artery Revascularization Versus Carotid Endarterectomy** — Paraskevas KI. Angiology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38864386/)
+- **Carotid artery stenting versus carotid endarterectomy** — Nanna MG. Postgraduate medical journal 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27317752/)
+- **Intraoperative management of carotid endarterectomy** — Apinis A. Anesthesiology clinics 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25113727/)
+- **Randomizing carotid endarterectomy to carotid stenting?** — Wholey MH. Journal of endovascular surgery : the official journal of the International Society for Endovascular Surgery 1999. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10473329/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Carotid Endarterectomy — Figure 1](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-01-figure-1-1471-2482-8-20-1-jpg.jpg)
+*Figure 1. (Stenosis of the external carotid artery, mean and 95% confidence intervals). Source: [What happens to the external carotid artery following carotid endarterectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC2596080/) — BMC Surgery 2008; CC BY.*
+
+![Carotid Endarterectomy — Figure 2](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-02-figure-2-1471-2482-8-20-2-jpg.jpg)
+*Figure 2. (Stenosis of the internal carotid artery, mean and 95% confidence intervals). Source: [What happens to the external carotid artery following carotid endarterectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC2596080/) — BMC Surgery 2008; CC BY.*
+
+![Carotid Endarterectomy — Figure 1](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-03-figure-1-saudimedj-45-7-685-1-jpg.jpg)
+*Figure 1. - Consort statement on conscription and randomization of patients Source: [Patch angioplasty carotid endarterectomy versus eversion carotid endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC11237269/) — Saudi Medical Journal 2024; CC BY-NC.*
+
+![Carotid Endarterectomy — Figure 2](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-04-figure-2-saudimedj-45-7-685-2-jpg.jpg)
+*Figure 2. - Carotid surgery (carotid shunt, eversion carotid endarterectomy, carotid endarterectomy with patch angioplasty, plaque) Source: [Patch angioplasty carotid endarterectomy versus eversion carotid endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC11237269/) — Saudi Medical Journal 2024; CC BY-NC.*
+
+![Carotid Endarterectomy — Figure 2](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-05-figure-2-saudimedj-45-7-685-3-jpg.jpg)
+*Figure 2. - Days before last verified major cerebrovascular incident( incident/age distribution). Source: [Patch angioplasty carotid endarterectomy versus eversion carotid endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC11237269/) — Saudi Medical Journal 2024; CC BY-NC.*
+
+![Carotid Endarterectomy — Figure 1](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-06-figure-1-nrr-8-2204-g001-jpg.jpg)
+*Figure 1. A 50-year-old male with paroxysmal right-sided limb weakness and dysphasia underwent carotid endarterectomy.(A) Preoperative digital subtraction angiography showed left internal carotid... Source: [Recanalization of extracranial internal carotid artery occlusion: A 12-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4146118/) — Neural Regeneration Research 2013; CC BY-NC-SA.*
+
+![Carotid Endarterectomy — Figure 2](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-07-figure-2-nrr-8-2204-g002-jpg.jpg)
+*Figure 2. A 72-year-old male with right-sided limb weakness and dysphasia underwent carotid endarterectomy combined with Fogarty balloon catheter thrombectomy.(A) Digital subtraction angiography... Source: [Recanalization of extracranial internal carotid artery occlusion: A 12-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4146118/) — Neural Regeneration Research 2013; CC BY-NC-SA.*
+
+![Carotid Endarterectomy — Figure 3](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-08-figure-3-nrr-8-2204-g003-jpg.jpg)
+*Figure 3. A 46-year-old male with right-sided limb weakness underwent hybrid surgery.(A) Digital subtraction angiography showing occlusion of the left internal carotid artery. The distal... Source: [Recanalization of extracranial internal carotid artery occlusion: A 12-year retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4146118/) — Neural Regeneration Research 2013; CC BY-NC-SA.*
+
+![Carotid Endarterectomy — Fig. 1](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-09-fig-1-1349-8029-65-4-0211-g001-jpg.jpg)
+*Fig. 1. Anatomical differences between the TCB and normal anatomy groups. Both cases have right-sided lesions, and the images were obtained via 3D-CTA. In the TCB case, the ICA (red arrow) runs... Source: [Surgical Outcomes of Carotid Endarterectomy in Patients with Twisted Carotid Bifurcation: Focus on Postoperative Nerve Complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC12061556/) — Neurologia medico-chirurgica 2025; CC BY-NC-ND.*
+
+![Carotid Endarterectomy — Fig. 2](../../figures/curated/case-prep-carotid-endarterectomy-cea/figure-10-fig-2-1349-8029-65-4-0211-g002-jpg.jpg)
+*Fig. 2. A case of CEA for right-sided ICA stenosis with TCB. In TCB cases, the ICA is located posteromedial to the ECA (A). The ICA is carefully dissected and mobilized to the lateral side of... Source: [Surgical Outcomes of Carotid Endarterectomy in Patients with Twisted Carotid Bifurcation: Focus on Postoperative Nerve Complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC12061556/) — Neurologia medico-chirurgica 2025; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

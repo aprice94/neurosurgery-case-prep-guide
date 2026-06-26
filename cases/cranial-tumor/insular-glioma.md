@@ -23,20 +23,81 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=insular+glioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Stupp protocol** — radiotherapy plus temozolomide for glioblastoma. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Stupp+radiotherapy+temozolomide+glioblastoma+2005)
-- **5-ALA fluorescence** — randomized evidence for fluorescence-guided malignant glioma resection. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=5-ALA+fluorescence+guided+surgery+malignant+glioma+randomized+trial)
-- **EANO diffuse glioma guideline** — integrated molecular diagnosis and management. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=EANO+guideline+diffuse+glioma+adult+2021)
-
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 
-![Arteries of the base — MCA & lenticulostriates (insular relations)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
-
-*Sobotta 1909, public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=insular%20glioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=insular+glioma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Surgical strategy for insular glioma** — Przybylowski CJ. Journal of neuro-oncology 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33611715/)
+- **Insular glioma surgery: an evolution of thought and practice** — Hervey-Jumper SL. Journal of neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30611160/)
+- **What is the cognitive footprint of insular glioma?** — Nichols NM. Frontiers in human neuroscience 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38859993/)
+- **Transsylvian Insular Glioma Surgery** — Pitskhelauri D. World neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39059724/)
+- **Preservation of the Lenticulostriate Arteries During Insular Glioma Resection** — Ghali MGZ. Asian journal of neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32181167/)
+- **Seizure outcome after resection of insular glioma: a systematic review, meta-analysis, and institutional experience** — Zhang JJY. Journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36242570/)
+- **The transfrontal isthmus approach for insular glioma surgery** — Sun GC. Journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36681987/)
+- **Pseudo-insular glioma syndrome: illustrative cases** — Haddad AF. Journal of neurosurgery. Case lessons 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35854917/)
+- **Resection of Insular Glioma Through the Transfrontal Limiting Sulcus Approach** — Sun GC. Operative neurosurgery (Hagerstown, Md.) 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35867080/)
+- **Updated incidence of neurological deficits following insular glioma resection: A systematic review and meta-analysis** — Lu VM. Clinical neurology and neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30580067/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Insular Glioma Resection — Figure 1](../../figures/curated/case-prep-insular-glioma-resection/figure-01-figure-1-fneur-17-1790718-g001-jpg.jpg)
+*Figure 1. Differences in brain network functional connectivity between PT and the HC under different frequency bands and stimulation types. The lines in the figure represent functional connections... Source: [Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13132771/) — Frontiers in Neurology 2026; CC BY.*
+
+![Insular Glioma Resection — Figure 2](../../figures/curated/case-prep-insular-glioma-resection/figure-02-figure-2-fneur-17-1790718-g002-jpg.jpg)
+*Figure 2. Differences in brain network functional connectivity between left insular glioma patients and the HC under different frequency bands and stimulation types. The lines in the figure... Source: [Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13132771/) — Frontiers in Neurology 2026; CC BY.*
+
+![Insular Glioma Resection — Figure 3](../../figures/curated/case-prep-insular-glioma-resection/figure-03-figure-3-fneur-17-1790718-g003-jpg.jpg)
+*Figure 3. Differences in brain network functional connectivity between right insular glioma patients and the HC under different frequency bands and stimulation types. The lines in the figure... Source: [Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13132771/) — Frontiers in Neurology 2026; CC BY.*
+
+![Insular Glioma Resection — Figure 4](../../figures/curated/case-prep-insular-glioma-resection/figure-04-figure-4-fneur-17-1790718-g004-jpg.jpg)
+*Figure 4. Comparison of graph theory indicators within the beta band under novel stimuli between PT and HC. (A–C) are violin plots comparing the clustering coefficient, local efficiency, and... Source: [Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13132771/) — Frontiers in Neurology 2026; CC BY.*
+
+![Insular Glioma Resection — Figure 5](../../figures/curated/case-prep-insular-glioma-resection/figure-05-figure-5-fneur-17-1790718-g005-jpg.jpg)
+*Figure 5. Comparison of graph theory indicators within the beta band under novel stimuli between the right insular glioma patients group and HC. (A–C) are violin plots comparing the clustering... Source: [Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13132771/) — Frontiers in Neurology 2026; CC BY.*
+
+![Insular Glioma Resection — Figure 6](../../figures/curated/case-prep-insular-glioma-resection/figure-06-figure-6-fneur-17-1790718-g006-jpg.jpg)
+*Figure 6. The correlation between HDRS and HAMA scores and network measures in the beta band of whole insular glioma patients. (A,B) represent the correlation between clustering coefficients and... Source: [Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13132771/) — Frontiers in Neurology 2026; CC BY.*
+
+![Insular Glioma Resection — Figure 7](../../figures/curated/case-prep-insular-glioma-resection/figure-07-figure-7-fneur-17-1790718-g007-jpg.jpg)
+*Figure 7. The relationships between HDRS and HAMA scores and network measures in the beta band of right insular glioma patients. (A,B) Represent the correlation between clustering coefficients and... Source: [Insular glioma and emotional states affect the whole brain network: a task-state electroencephalography study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13132771/) — Frontiers in Neurology 2026; CC BY.*
+
+![Insular Glioma Resection — FIGURE 6](../../figures/curated/case-prep-insular-glioma-resection/figure-08-figure-6-brb3-13-e2969-g001-jpg.jpg)
+*FIGURE 6. FA map comparison between HCs and patients with right insula glioma. STG.L, left superior temporal gyrus; SFG.L, left superior frontal gyrus; SOG.L, left superior occipital gyrus; RIGs,... Source: [Structural alterations of the salience network in patients with insular glioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10175985/) — Brain and Behavior 2023; CC BY.*
+
+![Insular Glioma Resection — FIGURE 1](../../figures/curated/case-prep-insular-glioma-resection/figure-09-figure-1-brb3-13-e2969-g002-jpg.jpg)
+*FIGURE 1. FA network comparisons between HCs and patients. The left column: the dots on these coordinates represent 90 brain regions in the automated anatomical labeling (AAL) template. The dots... Source: [Structural alterations of the salience network in patients with insular glioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10175985/) — Brain and Behavior 2023; CC BY.*
+
+![Insular Glioma Resection — FIGURE 5](../../figures/curated/case-prep-insular-glioma-resection/figure-10-figure-5-brb3-13-e2969-g003-jpg.jpg)
+*FIGURE 5. FA map comparison between HCs and patients with left insula glioma. STG.R, right superior temporal gyrus; MTG.R, right middle temporal gyrus; ACC, anterior cingulate; SFG.R, right... Source: [Structural alterations of the salience network in patients with insular glioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10175985/) — Brain and Behavior 2023; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

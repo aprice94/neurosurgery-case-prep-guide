@@ -22,15 +22,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=shunt+malfunction+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=shunt%20malfunction&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=shunt+revision+malfunction) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
 
-![Ventricular system — proximal (ventricular) catheter relations](../../../figures/anatomy/ventricles_gray734.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Distal ventriculoperitoneal shunt catheter tightly coiled around the valve in the absence of a subgaleal cerebrospinal fluid collection: illustrative case** — Tamura G. Journal of neurosurgery. Case lessons 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35855019/)
+- **Seizures as presentation of shunt malfunction: tertiary paediatric neurosurgery experience** — Goel A. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38587624/)
+- **Diagnosis of Ventriculoperitoneal Shunt Malfunction: A Practical Algorithm** — Broggi M. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32058113/)
+- **Lumboperitoneal Shunt Malfunction Due to Misplacement of the Lumbar Catheter Into the Spinal Subdural Extra-arachnoid Space: A Case Report** — Hashida K. Cureus 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41084704/)
+- **Cerebrospinal Fluid Shunts to Treat Hydrocephalus and Idiopathic Intracranial Hypertension: Shunt Catheters and Valves** — D'Antona L. Neurosurgery clinics of North America 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40054976/)
+- **Ventriculopleural shunts in a pediatric population: a review of 170 consecutive patients** — Christian EA. Journal of neurosurgery. Pediatrics 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34388722/)
+- **Risk factors for shunt malfunction in pediatric hydrocephalus: a multicenter prospective cohort study** — Riva-Cambrin J. Journal of neurosurgery. Pediatrics 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26636251/)
+- **The role of lumboperitoneal shunts in managing chronic hydrocephalus with slit ventricles** — Marupudi NI. Journal of neurosurgery. Pediatrics 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30239284/)
+- **Mechanical complications of cerebrospinal fluid shunt. Differences between adult and pediatric populations: myths or reality?** — Coll G. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33768313/)
+- **Impact of Early Intervention for Idiopathic Normal Pressure Hydrocephalus on Long-Term Prognosis in Prodromal Phase** — Kajimoto Y. Frontiers in neurology 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35481276/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Shunt Revision Exploration — Fig. 1](../../../figures/curated/case-prep-shunt-revision-exploration/figure-01-fig-1-701-2020-4212-fig1-html-jpg.jpg)
+*Fig. 1. Shunt testing results of under- and overdrainage. a Top: Normally functioning shunt, with the plateau (steady-state) pressure after infusion of Hartmann’s not exceeding the shunt’s... Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Shunt Revision Exploration — Fig. 2](../../../figures/curated/case-prep-shunt-revision-exploration/figure-02-fig-2-701-2020-4212-fig2-html-jpg.jpg)
+*Fig. 2. Shunt testing results of proximal and distal obstruction. a Distal obstruction. Upper panel: distal obstruction detected after infusion of fluid. Initial baseline ICP appears normal (c.... Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Shunt Revision Exploration — Fig. 3](../../../figures/curated/case-prep-shunt-revision-exploration/figure-03-fig-3-701-2020-4212-fig3-html-jpg.jpg)
+*Fig. 3. 1-year outcome of patients with diagnosed hydrocephalus of multiple aetiologies undergoing CSF infusion studies for shunt function assessment in vivo. *1: Not improved after revision:... Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Shunt Revision Exploration — Fig. 4](../../../figures/curated/case-prep-shunt-revision-exploration/figure-04-fig-4-701-2020-4212-fig4-html-jpg.jpg)
+*Fig. 4. 1-year outcome of patients with diagnosed pseudotumour cerebri syndrome undergoing CSF infusion studies for shunt function assessment in vivo Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Shunt Revision Exploration — Fig. 5](../../../figures/curated/case-prep-shunt-revision-exploration/figure-05-fig-5-701-2020-4212-fig5-html-jpg.jpg)
+*Fig. 5. Elementary decision tree analysis of a costs of shunt malfunction management without infusion studies, b costs of shunt malfunction management as derived from our infusion study... Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
+
+![Shunt Revision Exploration — Figure 1](../../../figures/curated/case-prep-shunt-revision-exploration/figure-06-figure-1-cureus-0016-00000062334-i01-jpg.jpg)
+*Figure 1. CT images(A) Preoperative CT. (B) Postoperative CT. Source: [Accurate Preoperative and Intraoperative Evaluation Reduces Surgical Costs and Patient Invasiveness in Ventriculoperitoneal Shunt Revision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11247248/) — Cureus 2024; CC BY.*
+
+![Shunt Revision Exploration — Figure 2](../../../figures/curated/case-prep-shunt-revision-exploration/figure-07-figure-2-cureus-0016-00000062334-i02-jpg.jpg)
+*Figure 2. Preoperative shuntogram(Left) Schematic diagram showing the smooth flow of the contrast agent into the ventricles, but no progression toward the abdominal cavity. (Middle) Fluoroscopic... Source: [Accurate Preoperative and Intraoperative Evaluation Reduces Surgical Costs and Patient Invasiveness in Ventriculoperitoneal Shunt Revision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11247248/) — Cureus 2024; CC BY.*
+
+![Shunt Revision Exploration — Figure 3](../../../figures/curated/case-prep-shunt-revision-exploration/figure-08-figure-3-cureus-0016-00000062334-i03-jpg.jpg)
+*Figure 3. Schematic diagram of cerebrospinal fluid flow changes during surgery(A) The peritoneal catheter's tip was obstructed by a connective tissue sac (arrows), blocking saline outflow. (B)... Source: [Accurate Preoperative and Intraoperative Evaluation Reduces Surgical Costs and Patient Invasiveness in Ventriculoperitoneal Shunt Revision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11247248/) — Cureus 2024; CC BY.*
+
+![Shunt Revision Exploration — Figure 4](../../../figures/curated/case-prep-shunt-revision-exploration/figure-09-figure-4-cureus-0016-00000062334-i04-jpg.jpg)
+*Figure 4. The cost differences between the conventional procedure and the procedure used in this caseConventional shunt revision takes about 135 minutes, whereas our method shortens the process by... Source: [Accurate Preoperative and Intraoperative Evaluation Reduces Surgical Costs and Patient Invasiveness in Ventriculoperitoneal Shunt Revision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11247248/) — Cureus 2024; CC BY.*
+
+![Shunt Revision Exploration — Fig. 1](../../../figures/curated/case-prep-shunt-revision-exploration/figure-10-fig-1-701-2026-6786-fig1-html-jpg.jpg)
+*Fig. 1. The study cohort of shunted idiopathic normal pressure hydrocephalus (iNPH) patients from Kuopio University Hospital catchment population in 1991–2023 presented as a flow chart. Causes... Source: [Reduced risk of shunt revision with adjustable valves: a population-based cohort study over three decades](https://pmc.ncbi.nlm.nih.gov/articles/PMC12872731/) — Acta Neurochirurgica 2026; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

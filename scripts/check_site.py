@@ -13,6 +13,12 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "_site"
 BASEURL = "/neurosurgery-case-prep-guide/"
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
+LIT_BEGIN = "<!-- BEGIN CURATED LITERATURE -->"
+LIT_END = "<!-- END CURATED LITERATURE -->"
+IMG_BEGIN = "<!-- BEGIN CURATED IMAGE SET -->"
+IMG_END = "<!-- END CURATED IMAGE SET -->"
+XCHK_BEGIN = "<!-- BEGIN TEXTBOOK CROSS-CHECKS -->"
+XCHK_END = "<!-- END TEXTBOOK CROSS-CHECKS -->"
 
 class LinkParser(HTMLParser):
     def __init__(self) -> None:
@@ -36,8 +42,11 @@ def warn(msg: str) -> None:
 def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8", errors="ignore")
 
+def guide_sources() -> list[Path]:
+    return [p for p in (ROOT / "cases").rglob("*.md") if p.name != "index.md"]
+
 def validate_rendered_pages() -> None:
-    case_sources = [p for p in (ROOT / "cases").rglob("*.md") if p.name != "index.md"]
+    case_sources = guide_sources()
     missing_html = []
     for src in case_sources:
         rel = src.relative_to(ROOT).with_suffix(".html")
@@ -46,6 +55,108 @@ def validate_rendered_pages() -> None:
     if missing_html:
         fail(f"{len(missing_html)} case guides did not render as HTML, e.g. {missing_html[:8]}")
     print(f"Rendered guide pages: {len(case_sources)}")
+
+def extract_block(text: str, begin: str, end: str) -> str:
+    start = text.find(begin)
+    stop = text.find(end)
+    if start == -1 or stop == -1 or stop < start:
+        return ""
+    return text[start + len(begin):stop]
+
+def markdown_images(text: str) -> list[str]:
+    return re.findall(r"!\[[^\]]*\]\(([^)]+)\)", text)
+
+def normalize_image_ref(src: Path, target: str) -> str:
+    if target.startswith(("http://", "https://")):
+        return target
+    return str((src.parent / target).resolve())
+
+def validate_guide_enrichment() -> None:
+    low_lit = []
+    low_img = []
+    missing = []
+    missing_crosschecks = []
+    camera_placeholders = []
+    orphan_captions = []
+    duplicate_images: dict[str, list[str]] = {}
+    image_seen: dict[str, str] = {}
+    curated_refs: set[str] = set()
+
+    for src in guide_sources():
+        text = read_text(src)
+        lit = extract_block(text, LIT_BEGIN, LIT_END)
+        imgs = extract_block(text, IMG_BEGIN, IMG_END)
+        xchk = extract_block(text, XCHK_BEGIN, XCHK_END)
+        if not lit or not imgs:
+            missing.append(str(src.relative_to(ROOT)))
+            continue
+        if not xchk:
+            missing_crosschecks.append(str(src.relative_to(ROOT)))
+        if "📷" in text or "📸" in text:
+            camera_placeholders.append(str(src.relative_to(ROOT)))
+
+        pmids = re.findall(r"https://pubmed\.ncbi\.nlm\.nih\.gov/\d+/", lit)
+        curated = [img for img in markdown_images(imgs) if "figures/curated/" in img]
+        if len(pmids) < 10:
+            low_lit.append((str(src.relative_to(ROOT)), len(pmids)))
+        if len(curated) < 10:
+            low_img.append((str(src.relative_to(ROOT)), len(curated)))
+
+        lines = text.splitlines()
+        for idx, line in enumerate(lines):
+            stripped = line.strip()
+            if not (stripped.startswith("*") and stripped.endswith("*")):
+                continue
+            if not re.search(r"(Source:|CC BY|public domain|Gray's Anatomy|Sobotta|Cureus|Frontiers|PMC|via Wikimedia)", stripped, re.I):
+                continue
+            prev = ""
+            for prior in reversed(lines[:idx]):
+                if prior.strip():
+                    prev = prior.strip()
+                    break
+            if not prev.startswith("!["):
+                orphan_captions.append((str(src.relative_to(ROOT)), idx + 1, stripped[:120]))
+
+        for image in markdown_images(text):
+            key = normalize_image_ref(src, image)
+            prior = image_seen.get(key)
+            rel = str(src.relative_to(ROOT))
+            if prior and prior != rel:
+                duplicate_images.setdefault(key, [prior]).append(rel)
+            else:
+                image_seen[key] = rel
+            if "figures/curated/" in image:
+                curated_refs.add(image[image.index("figures/curated/"):])
+
+    if missing:
+        fail(f"guides missing curated literature/image blocks, e.g. {missing[:8]}")
+    if missing_crosschecks:
+        fail(f"guides missing textbook cross-check blocks, e.g. {missing_crosschecks[:8]}")
+    if camera_placeholders:
+        fail(f"guides still containing camera emoji placeholders, e.g. {camera_placeholders[:8]}")
+    if low_lit:
+        fail(f"guides with fewer than 10 PubMed literature entries, e.g. {low_lit[:8]}")
+    if low_img:
+        fail(f"guides with fewer than 10 curated images, e.g. {low_img[:8]}")
+    if orphan_captions:
+        fail(f"orphaned source/caption lines not attached to images, e.g. {orphan_captions[:8]}")
+    if duplicate_images:
+        examples = [(k, v[:4]) for k, v in list(duplicate_images.items())[:8]]
+        fail(f"duplicate image targets across guide pages, e.g. {examples}")
+
+    curated_files = {
+        str(p.relative_to(ROOT))
+        for p in (ROOT / "figures" / "curated").rglob("*")
+        if p.is_file() and p.suffix.lower() in IMAGE_EXTS
+    }
+    missing_files = sorted(curated_refs - curated_files)
+    unreferenced = sorted(curated_files - curated_refs)
+    if missing_files:
+        fail(f"curated image references missing files, e.g. {missing_files[:8]}")
+    if unreferenced:
+        fail(f"unreferenced curated image files, e.g. {unreferenced[:8]}")
+
+    print(f"Guide enrichment: {len(guide_sources())} guides, {len(curated_refs)} unique curated images")
 
 def resolve_local(html_file: Path, url: str) -> Path | None:
     if not url or url.startswith(("#", "mailto:", "tel:", "javascript:")):
@@ -129,6 +240,7 @@ def validate_search_index() -> None:
 if __name__ == "__main__":
     if not SITE.exists():
         fail("_site does not exist; run `bundle exec jekyll build` first")
+    validate_guide_enrichment()
     validate_rendered_pages()
     validate_links()
     validate_images()

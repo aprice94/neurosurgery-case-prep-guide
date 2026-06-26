@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC10848360",
+    "article_title": "Using a standalone ear-EEG device for focal-onset seizure detection",
+    "journal": "Bioelectronic Medicine",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Fig. 1",
+    "caption": "Ear-EEG system. a 3D anatomical ear model obtained through optical ear scan. b A custom-made earbud with two electrodes per ear \u2013 Ear Right Cymba (ERC) placed in the cymba conchae and Ear Right Whole Canal (ERW) placed in the canal. c Non-invasive in-ear fit of the earbud. d Data acquisition system consists of the \u201cearboard\u201d (left) hooked around the left ear and a data recording device (right). e The electrodes\u2019 placement, bipolar channel configuration, and naming convention",
+    "href": "42234_2023_135_Fig1_HTML.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-01-fig-1-42234-2023-135-fig1-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10848360.1/42234_2023_135_Fig1_HTML.jpg?md5=fdc1b3df924b7bf7e16b95dd9b2a05d6"
+  },
+  {
+    "pmcid": "PMC10848360",
+    "article_title": "Using a standalone ear-EEG device for focal-onset seizure detection",
+    "journal": "Bioelectronic Medicine",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Fig. 3",
+    "caption": "Example ear-EEG waveforms from a subclinical focal seizure detected during sleep. A 10 s window of interest is expanded in (a) and indicated in (b) by the \u201cZoom\u201d region (blue), which falls within the full seizure annotation (white). Corresponding epileptologist annotations of seizure events are shown at the bottom of each plot, where the color-coded label \u201c#1 (blinded)\u201d refers to Reviewer #1\u2019s annotation of the seizure made with access only to the ear-EEG system. ACC_Y: y-axis accelerometry from ear-EEG device; ELW-ELC: intra-ear left channel of ear-EEG; ERW-ELW: inter-ear canal channel of ear-EEG; ECG1: electrocardiogram channel; 11Ld10: the 10th recording site (equally spaced, with the 1st being deepest) along stereo-EEG depth electrode #11 placed on the left side of the head",
+    "href": "42234_2023_135_Fig3_HTML.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-02-fig-3-42234-2023-135-fig3-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10848360.1/42234_2023_135_Fig3_HTML.jpg?md5=44c21c8a325bd21aaf3ea468eed316ce"
+  },
+  {
+    "pmcid": "PMC10848360",
+    "article_title": "Using a standalone ear-EEG device for focal-onset seizure detection",
+    "journal": "Bioelectronic Medicine",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Fig. 5",
+    "caption": "Examples of seizures from the same patient, with (a, b) false negative and (c, d) true positive results using ear-EEG. A 10 s window of interest is expanded in (a, c) and indicated in (b, d) by the \u201cZoom\u201d region (blue), which falls within the full seizure annotation (white). Corresponding epileptologist annotations of seizure events are shown at the bottom of each plot, where the color-coded label \u201c#1 (blinded)\u201d refers to Reviewer #1\u2019s annotation of the seizure made with access only to the ear-EEG system. ACC_Y: y-axis accelerometry from ear-EEG device; ECG1: electrocardiogram channel; 11Ld9: the 9th recording site (equally spaced, with the 1st being deepest) along stereo-EEG depth electrode #11 placed on the left side of the head",
+    "href": "42234_2023_135_Fig5_HTML.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-03-fig-5-42234-2023-135-fig5-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10848360.1/42234_2023_135_Fig5_HTML.jpg?md5=8cefe8adcc80855cd8b2d4d78ac617b5"
+  },
+  {
+    "pmcid": "PMC10848360",
+    "article_title": "Using a standalone ear-EEG device for focal-onset seizure detection",
+    "journal": "Bioelectronic Medicine",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Fig. 6",
+    "caption": "Example of false positive seizure identified on the ear-EEG. A 10 s window of interest is expanded in (a) and indicated in (b) by the \u201cZoom\u201d region (blue), which falls within the full seizure annotation (white). Corresponding epileptologist annotations of seizure events are shown at the bottom of each plot, where the color-coded label \u201c#1 (blinded)\u201d refers to Reviewer #1\u2019s annotation of the seizure made with access only to the ear-EEG system. ACC_Y: y-axis accelerometry from ear-EEG device; ECG1: electrocardiogram channel; 7Ld5: the 5th recording site (equally spaced, with the 1st being deepest) along stereo-EEG depth electrode #7 placed on the left side of the head",
+    "href": "42234_2023_135_Fig6_HTML.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-04-fig-6-42234-2023-135-fig6-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10848360.1/42234_2023_135_Fig6_HTML.jpg?md5=d0bb44e79a1c809f35c32a1da1827947"
+  },
+  {
+    "pmcid": "PMC6070881",
+    "article_title": "Pediatric Deep Brain Stimulation Using Awake Recording and Stimulation for Target Selection in an Inpatient Neuromodulation Monitoring Unit",
+    "journal": "Brain Sciences",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Top: microelectrode recordings with identified spikes from 250 distinct cells. Intracerebral recording locations are identified on the right. Bottom: Muscle activity (electromyograph, EMG) for 8 muscles with higher level of EMG plotted as dark. From top to bottom, muscles are Left triceps, biceps, wrist flexor group, wrist extensor group, right triceps, biceps, wrist flexor group, wrist extensor group. Horizontal axis is in seconds, and a total of 10 min are shown. Data are from patient NMU8 during attempted left arm movement.",
+    "href": "brainsci-08-00135-g002.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-05-figure-2-brainsci-08-00135-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6070881.1/brainsci-08-00135-g002.jpg?md5=ecfeccde10d30225e2dcc0dcc5c6fb7b"
+  },
+  {
+    "pmcid": "PMC6070881",
+    "article_title": "Pediatric Deep Brain Stimulation Using Awake Recording and Stimulation for Target Selection in an Inpatient Neuromodulation Monitoring Unit",
+    "journal": "Brain Sciences",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "Axial (a,b) and coronal (c,d) views of the postoperative CT overlaid on the preoperative MRI, showing the lead locations for the Adtech stereo EEG leads. Planned trajectories for permanent leads are shown in color (b,d). Data from patient NMU4.",
+    "href": "brainsci-08-00135-g004.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-06-figure-4-brainsci-08-00135-g004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6070881.1/brainsci-08-00135-g004.jpg?md5=e9f6b82c0d6674ef6a00f975ae7f3ee0"
+  },
+  {
+    "pmcid": "PMC13136343",
+    "article_title": "Global coincident bursts of high frequency oscillations across the human cortex coordinate large-scale memory processing",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 1",
+    "caption": "Cortical HFO bursts co-occur during memory encoding and at the time of recall.a Raw LFP traces from an example macro-electrode contact implanted in the occipital cortex show timepoints when individual HFO bursts were detected (red lines) around the times of presenting a countdown digit, an encoded word, a distractor equation, and of recalling a word. b HFOs detected across all channels implanted in the occipital cortex for example traces in (a) with a summary of the mean detection rate from the entire session. c Matrix of coincident detections in 100-ms time bins from the example recall phase raster in (b). Channels are sorted based on the maximum pairwise correlation with other channels to emphasize co-bursting structure. Notice highly coincident bursting among a subgroup of these visual cortical electrodes, even though no visual stimulation is delivered in this phase of the task\u2014patients are freely recalling remembered words with the gaze fixated in the middle of a blank screen.",
+    "href": "41467_2026_70633_Fig1_HTML.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-07-fig-1-41467-2026-70633-fig1-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13136343.1/41467_2026_70633_Fig1_HTML.jpg?md5=d470872b433e3c740786a6c2ac3325df"
+  },
+  {
+    "pmcid": "PMC13136343",
+    "article_title": "Global coincident bursts of high frequency oscillations across the human cortex coordinate large-scale memory processing",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Fig. 4",
+    "caption": "Widely distributed networks of coincident bursting are involved in encoding and recalling words.a Localization of electrode channels that displayed coincident HFO bursting (black dots) during recall of an example word (same word in Figs. 1 and 2) is distributed throughout the cortex, engaging approximately half of the contacts implanted. b Proportion of all channels showing significantly correlated (bright shades) and non-correlated (dark shades) co-HFO bursting averaged across all patients reveals equal contribution of all five lobes (color-coded as in Fig. 2). c Anatomical distances between the correlated electrode channels (Pearson\u2019s correlation, r > 0.50) show the greatest density between 20\u2013100 mm. d Correlated channels distribution is significantly higher during encoding in occipital (P = 0.045) and parietal (P = 0.035) lobes, and higher during recall in limbic (P = 0.040) and frontal (P = 0.014) lobes (two-sided Wilcoxon signed-rank or paired t-tests; N = 12 biologically independent participants). e Summary of the percent involvement of any one electrode contact (dot) in co-HFO bursting across the entire pool of words reveals relatively low specificity, with most channels engaged in more than half of the words recalled. f Violin plots of co-HFO bursting proportion for encoded (light) vs. recalled (dark) words. Significant phase differences found in Parietal (P = 2.05 \u00d7 10\u2212\u00b9\u2075\u00b9), Temporal (P = 4.4 \u00d7 10\u2212\u00b2\u2070\u2078), Occipital (P = 1.06 \u00d7 10\u2212\u00b2\u00b3), and Frontal (P = 1.56 \u00d7 10\u2212\u00b9\u00b2) lobes (two-sided independent t-tests, N = 12). Center white dot: median; thick bar: interquartile range (IQR). g Tukey\u2019s post-hoc analysis compares the mean proportions from (f) across the five cortical lobes in the two task phases. Significant differences (indicated by asterisks, P < 0.05) were found between phases in Parietal (P = 2.05 \u00d7 10\u2212\u00b9\u2075\u00b9), Temporal (P = 4.4 \u00d7 10\u2212\u00b2\u2070\u2078), Occipital (P = 1.06 \u00d7 10\u2212\u00b2\u00b3), and Frontal (P = 1.56 \u00d7 10\u2212\u00b9\u00b2) lobes.",
+    "href": "41467_2026_70633_Fig4_HTML.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-08-fig-4-41467-2026-70633-fig4-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13136343.1/41467_2026_70633_Fig4_HTML.jpg?md5=541a8f75fba902be11c4d68a1b15193b"
+  },
+  {
+    "pmcid": "PMC8412306",
+    "article_title": "Basis profile curve identification to understand electrical stimulation effects in human brain networks",
+    "journal": "PLoS Computational Biology",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Fig 4",
+    "caption": "Projection of basis profile curves (BPCs).A: The contribution of each BPC Bq to a single trial from its cluster can be quantified according to a scalar multiplier \u03b1k(q), and residual noise \u03b5k (trial 238 illustrated). B: The 3 BPCs for our example case. C: The spatial representation of BPCs, color-coded, with diameter and color intensity indicating magnitude (group-averaged signal-to-noise ratio). White circles show actual electrode locations and BPC projection magnitudes are placed at the the spatial average of the positions of the two stimulated electrodes. Each BPC distribution is individually scaled to maximum. Gray indicates sites discarded by thresholding (Fig 3G).",
+    "href": "pcbi.1008710.e006.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-09-fig-4-pcbi-1008710-e006-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8412306.1/pcbi.1008710.e006.jpg?md5=ea4471e4b47769b02525b3792c0c1dda"
+  },
+  {
+    "pmcid": "PMC8412306",
+    "article_title": "Basis profile curve identification to understand electrical stimulation effects in human brain networks",
+    "journal": "PLoS Computational Biology",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Fig 1",
+    "caption": "Cortico-cortical evoked potential analysis paradigms.A: Convergent\u2014Evoked responses at one chosen site (gray circle) are compared with the effect of stimulating all other sites (yellow circles with lightning bolt). For N electrodes, this characterizes N interactions. B: Divergent\u2014The temporal response of all sites are examined and compared in response to stimulation of a chosen site (N interactions). C: All-to-all\u2014All N2 interactions between sites are characterized. D: Hypothesis preselected\u2014Two sites are chosen based upon a pre-defined anatomical or functional hypothesis, and a 1-way or 2-way interaction between them is characterized. E: In the convergent paradigm, all measured responses from a brain surface electrode are associated with the same underlying laminar architecture, so each response shape measured implies a distinct type of input. F: In the divergent paradigm, different shaped responses may be measured from different sites, in response to stimulation at a single site. This creates ambiguity because different shaped responses cannot distinguish between 1) the same type of output arriving at cortical sites with different underlying laminar architecture and 2) different types of inputs to sites with similar laminar architecture.",
+    "href": "pcbi.1008710.g001.jpg",
+    "local": "figures/curated/case-prep-stereo-eeg-seeg-depth-electrode-placement/figure-10-fig-1-pcbi-1008710-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8412306.1/pcbi.1008710.g001.jpg?md5=0ad95877411ad16cd73269321a3cb63b"
+  }
+]

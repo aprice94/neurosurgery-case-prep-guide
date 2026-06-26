@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC7804259",
+    "article_title": "Apparent diffusion coefficient as a prognostic factor in clival chordoma",
+    "journal": "Scientific Reports",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Comparison of ADC values between stable and aggressive chordoma (10\u20136 mm2/s). There were significant differences between groups in (a) maximum ADC (P = 0.012), (b) mean ADC (P < 0.001), and (c) minimum ADC (P < 0.001).",
+    "href": "41598_2020_79894_Fig1_HTML.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-01-figure-1-41598-2020-79894-fig1-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7804259.1/41598_2020_79894_Fig1_HTML.jpg?md5=463c11cbc5adb845f14c4c34bbe1253b"
+  },
+  {
+    "pmcid": "PMC7804259",
+    "article_title": "Apparent diffusion coefficient as a prognostic factor in clival chordoma",
+    "journal": "Scientific Reports",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "ROC curves for ADC values differentiating aggressive chordoma from stable chordoma.",
+    "href": "41598_2020_79894_Fig2_HTML.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-02-figure-2-41598-2020-79894-fig2-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7804259.1/41598_2020_79894_Fig2_HTML.jpg?md5=1470d9337b23753b12fd1dad4a94771c"
+  },
+  {
+    "pmcid": "PMC7804259",
+    "article_title": "Apparent diffusion coefficient as a prognostic factor in clival chordoma",
+    "journal": "Scientific Reports",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Kaplan\u2013Meier curves using log-rank tests for overall survival and progression-free survival: (a) PFS according to extent of tumor resection; (b) PFS according to maximum ADC values; (c) PFS according to mean ADC values; (d) PFS according to minimum ADC values; (e) OS according to extent of tumor resection; (f) OS according to maximum ADC values; (g) OS according to mean ADC values; and (h) OS according to minimum ADC values.",
+    "href": "41598_2020_79894_Fig3_HTML.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-03-figure-3-41598-2020-79894-fig3-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7804259.1/41598_2020_79894_Fig3_HTML.jpg?md5=657519cf66345cc1d17885ccaccecc49"
+  },
+  {
+    "pmcid": "PMC7804259",
+    "article_title": "Apparent diffusion coefficient as a prognostic factor in clival chordoma",
+    "journal": "Scientific Reports",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "A 37-year-old man was diagnosed with classic chordoma and placed in the aggressive group. (a) Preoperative contrast enhanced T1-weighted imaging showed a tumor compressing the brainstem. (b) The ROI is outlined in yellow on the ADC map and represents decreased water diffusivity (mean ADC 1107 \u00d7 10\u20136 mm2/s, minimum ADC 877 \u00d7 10\u20136 mm2/s). (c) Immediate postoperative contrast enhanced T1-weighted imaging shows gross total removal. Surgery was performed via the far lateral transcondylar approach. The patient received proton-based radiotherapy 3 months after surgery. (d) Contrast-enhanced T1 weighted imaging obtained 2 years later showed an increase of the mass adjacent to the previous surgical site. The patient died of disease 7 months after the last MRI due to meningitis.",
+    "href": "41598_2020_79894_Fig4_HTML.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-04-figure-4-41598-2020-79894-fig4-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7804259.1/41598_2020_79894_Fig4_HTML.jpg?md5=258ee8fb5a9b2caf0462f9519d33136e"
+  },
+  {
+    "pmcid": "PMC7804259",
+    "article_title": "Apparent diffusion coefficient as a prognostic factor in clival chordoma",
+    "journal": "Scientific Reports",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 5",
+    "caption": "A 36-year-old man diagnosed with classic chordoma and placed in the stable group. (a) Preoperative T2-weighted imaging showed a T2 high signal mass arising from the clivus. (b) The ROI is outlined in yellow on the ADC map and represents moderate water diffusivity (mean ADC 1659 \u00d7 10\u20136 mm2/s, minimum ADC 1386 \u00d7 10\u20136 mm2/s). (c) Immediate postoperative T2-weighted imaging showed partial tumor removal. The operation was performed via the transsphenoidal approach. (d) T2-weighted follow-up imaging obtained 7 years later showed stable disease. The patient received conventional radiotherapy (62.5 Gy) 1 month after the first surgery.",
+    "href": "41598_2020_79894_Fig5_HTML.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-05-figure-5-41598-2020-79894-fig5-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7804259.1/41598_2020_79894_Fig5_HTML.jpg?md5=929acf48b6e5877d0366beab260862c6"
+  },
+  {
+    "pmcid": "PMC10943967",
+    "article_title": "Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report",
+    "journal": "International Journal of Surgery Case Reports",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Fig. 1",
+    "caption": "A. T2-weighted MRI, axial view. The arrow shows hyperintense Clival lesion located 3 mm from the anterior end of the clivus, the mass can be seen compressing the left internal carotid artery. (pre-operative MRI). B. T1-weighted MRI, sagittal view. The arrow shows hypointense mass causing severe destruction of the clival cortex, the mass can be seen compressing the anterior aspect of the medulla. (pre-operative MRI).",
+    "href": "gr1.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-06-fig-1-gr1-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10943967.1/gr1.jpg?md5=070a4b542b3c01ab6bee501e1654ca0c"
+  },
+  {
+    "pmcid": "PMC10943967",
+    "article_title": "Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report",
+    "journal": "International Journal of Surgery Case Reports",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Fig. 2",
+    "caption": "T2-weighted MRI, axial view. Signs of surgical intervention on the clivus are noted. The arrow shows residual tumor. (post-operative MRI).",
+    "href": "gr2.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-07-fig-2-gr2-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10943967.1/gr2.jpg?md5=830c40e6459a7482a5f27e5a03068b0d"
+  },
+  {
+    "pmcid": "PMC10943967",
+    "article_title": "Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report",
+    "journal": "International Journal of Surgery Case Reports",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Fig. 3",
+    "caption": "A. Chordoma (H&E 100\u00d7). Prominent myxoid background containing small columns or clusters of bubbly physalipharous cells. B. Chordoma (H&E 400\u00d7). Occasional cells with irregular or hyperchromatic nuclei.",
+    "href": "gr3.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-08-fig-3-gr3-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10943967.1/gr3.jpg?md5=713aec52fa41c12514b5bfdc65b90a21"
+  },
+  {
+    "pmcid": "PMC10943967",
+    "article_title": "Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report",
+    "journal": "International Journal of Surgery Case Reports",
+    "year": "2024",
+    "license": "CC BY",
+    "label": "Fig. 4",
+    "caption": "A. Chordoma, Immunohistochemical staining. Arrows show positivity for cytokeratin (CK). B. Chordoma, Immunohistochemical staining. The arrow shows positivity for epithelial membrane antigen (EMA).",
+    "href": "gr4.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-09-fig-4-gr4-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10943967.1/gr4.jpg?md5=073bc4b00a294a94182c0ce1c7da6cad"
+  },
+  {
+    "pmcid": "PMC9019489",
+    "article_title": "Surgical Outcomes of Clival Chordoma Through Endoscopic Endonasal Approach: A Single-Center Experience",
+    "journal": "Frontiers in Endocrinology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "The pre- and post- MRIs of all the patients.",
+    "href": "fendo-13-800923-g001.jpg",
+    "local": "figures/curated/case-prep-clival-chordoma-resection/figure-10-figure-1-fendo-13-800923-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9019489.1/fendo-13-800923-g001.jpg?md5=d743f22e8fe93a05d71900a5a93a0433"
+  }
+]

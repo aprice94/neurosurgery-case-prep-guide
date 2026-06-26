@@ -20,17 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spinal+dural+arteriovenous+fistula+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Patchell (cord compression)** — Patchell RA et al. *Lancet* 2005 — decompressive surgery + RT for metastatic epidural compression. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+decompressive+surgery+metastatic+epidural+spinal+cord+compression+2005+Lancet)
-- **SINS** — Fisher CG et al. *Spine* 2010 — spinal instability neoplastic score. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fisher+spinal+instability+neoplastic+score+SINS+2010)
-- **NOMS** — Laufer I et al. *Oncologist* 2013 — NOMS decision framework. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Laufer+NOMS+framework+spinal+metastases+2013+Oncologist)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20dural%20arteriovenous%20fistula&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+dural+arteriovenous+fistula) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (dorsal perimedullary draining veins)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Surgical ligation of spinal dural arteriovenous fistula** — Sorenson T. Acta neurochirurgica 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29138973/)
+- **Craniocervivcal Spinal Dural Arteriovenous Fistula Ligation via a Modified Suboccipital Craniectomy and C1 Laminectomy: Operative Video** — Young M. World neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37516142/)
+- **Microsurgical Ligation of a Dural Arteriovenous Fistula of the Petrous Apex-A 2-Dimensional Operative Video** — Aldea S. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35101613/)
+- **Spinal dural arteriovenous fistulas presenting as intracranial subarachnoid hemorrhage: A systematic review** — Nolan B. Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40660916/)
+- **Microsurgery of Spinal Dural Arteriovenous Fistula Using Indocyanine Green Video Angiography: 2-Dimensional Operative Video** — Yokoyama K. Operative neurosurgery (Hagerstown, Md.) 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30295889/)
+- **Open surgical ligation of a thoracic spinal epidural arteriovenous fistula causing thoracic myelopathy: illustrative case** — Laing BRW. Journal of neurosurgery. Case lessons 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37581597/)
+- **Spinal dural arteriovenous fistula: a case series and review of imaging findings** — Fox S. Spinal cord series and cases 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28690870/)
+- **Spinal dural arteriovenous fistula formation after scoliosis surgery: case report** — Elswick CM. Journal of neurosurgery. Spine 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31629319/)
+- **Minimally invasive intradural spinal dural arteriovenous fistula ligation** — Patel NP. World neurosurgery 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22484771/)
+- **Ruptured spinal dural arteriovenous fistula with subdural hematoma: A case report** — Williamson LE. Surgical neurology international 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41625103/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — Figure 1](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-01-figure-1-rjaf021f1-jpg.jpg)
+*Figure 1. (A) Preoperative head CT, (B) CTA and (C, D) DSA identified the fistula (arrows) in the left lateral dural membrane and confirmed the intradural origin of the drainage vein. Source: [Microsurgical treatment of spinal dural arteriovenous fistula with subarachnoid hemorrhage: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11794442/) — Journal of Surgical Case Reports 2025; CC BY-NC.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — Figure 2](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-02-figure-2-rjaf021f2-jpg.jpg)
+*Figure 2. (A) Intraoperative ICG fluorescence imaging demonstrated that the fistula and abnormal drainage vein (asterisk) developed earlier than the posterior inferior cerebellar artery (PICA).... Source: [Microsurgical treatment of spinal dural arteriovenous fistula with subarachnoid hemorrhage: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11794442/) — Journal of Surgical Case Reports 2025; CC BY-NC.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — Figure 3](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-03-figure-3-rjaf021f3-jpg.jpg)
+*Figure 3. Postoperative DSA (A) confirmed the complete occlusion of the fistula (arrow) when compared with the preoperative DSA (B). Source: [Microsurgical treatment of spinal dural arteriovenous fistula with subarachnoid hemorrhage: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11794442/) — Journal of Surgical Case Reports 2025; CC BY-NC.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — Figure 1](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-04-figure-1-sni-6-99-g001-jpg.jpg)
+*Figure 1. (a) Preoperative T2 magnetic resonance imaging (MRI) of patient 1 showing the serpiginous veins surrounding the thoracic spinal cord most prominent at T7/8 level (arrowed), secondary to... Source: [Minimal access microsurgical ligation of spinal dural arteriovenous fistula with tubular retractor](https://pmc.ncbi.nlm.nih.gov/articles/PMC4466787/) — Surgical Neurology International 2015; CC BY-NC-SA.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — Figure 2](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-05-figure-2-sni-6-99-g002-jpg.jpg)
+*Figure 2. (a) Operative view through the tubular retractor under a surgical microscope, showing dilated serpiginous veins (arrowed) after opening the dura. (b) Dissection of the fistulous point of... Source: [Minimal access microsurgical ligation of spinal dural arteriovenous fistula with tubular retractor](https://pmc.ncbi.nlm.nih.gov/articles/PMC4466787/) — Surgical Neurology International 2015; CC BY-NC-SA.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — FIG. 1](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-06-fig-1-case23322f1-jpg.jpg)
+*FIG. 1. Sagittal (A) and coronal (B and C) T2-weighted MRI showing abnormal serpentine vasculature at the level of the lumbar cistern (white arrows). Source: [Microsurgical intraluminal obliteration of type IV perimedullary arteriovenous fistula with an in situ hemostatic agent: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10566519/) — Journal of Neurosurgery: Case Lessons 2023; CC BY-NC-ND.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — FIG. 2](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-07-fig-2-case23322f2-jpg.jpg)
+*FIG. 2. Diagnostic angiography showing a type IV perimedullary arteriovenous fistula of the distal anterior spinal artery of Adamkiewicz. The flow traveled sequentially from the artery of... Source: [Microsurgical intraluminal obliteration of type IV perimedullary arteriovenous fistula with an in situ hemostatic agent: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10566519/) — Journal of Neurosurgery: Case Lessons 2023; CC BY-NC-ND.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — FIG. 3](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-08-fig-3-case23322f3-jpg.jpg)
+*FIG. 3. A: White arrow indicates nerve roots tightly attached to the fistulous vessel (asterisk). B: Black arrow indicates an arterialized vessel with caudal flow. White arrow indicates an... Source: [Microsurgical intraluminal obliteration of type IV perimedullary arteriovenous fistula with an in situ hemostatic agent: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10566519/) — Journal of Neurosurgery: Case Lessons 2023; CC BY-NC-ND.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — FIG. 4](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-09-fig-4-case23322f4-jpg.jpg)
+*FIG. 4. Vessel obliteration. A: The assistant uses forceps for proximal and distal control during arteriotomy. B: Packing with the hemostatic agent in the lumen of the artery. C: Securing the... Source: [Microsurgical intraluminal obliteration of type IV perimedullary arteriovenous fistula with an in situ hemostatic agent: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10566519/) — Journal of Neurosurgery: Case Lessons 2023; CC BY-NC-ND.*
+
+![Spinal Dural Arteriovenous Fistula Surgical Ligation — FIG. 5](../../figures/curated/case-prep-spinal-dural-arteriovenous-fistula-davf-surgical-ligation/figure-10-fig-5-case23322f5-jpg.jpg)
+*FIG. 5. A and B: Postoperative angiography shows the resolution and obliteration of type IV perimedullary arteriovenous fistula. Source: [Microsurgical intraluminal obliteration of type IV perimedullary arteriovenous fistula with an in situ hemostatic agent: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10566519/) — Journal of Neurosurgery: Case Lessons 2023; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

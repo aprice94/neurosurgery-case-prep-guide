@@ -21,11 +21,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=extradural+haematoma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Surgical TBI guidelines** — Bullock MR et al. *Neurosurgery* 2006 — surgical management of acute SDH/EDH/contusion. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bullock+surgical+management+traumatic+acute+subdural+epidural+2006+Neurosurgery)
-- **BTF guidelines** — Carney N et al. *Neurosurgery* 2017 — Brain Trauma Foundation, 4th ed. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carney+Brain+Trauma+Foundation+guidelines+severe+TBI+2017)
-- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
 
 **Operative technique & approach**
@@ -38,11 +33,77 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=epidural+hematoma+craniotomy)
 
-**Anatomy (public domain)**
 
-![Interior of the skull base — middle meningeal artery groove](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy plate 193 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gray193.png). Note the groove of the middle meningeal artery on the interior of the temporal bone.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Emergency anatomy and exposure:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm incision/flap planning, sinus/vessel risks, decompression goals, and mass-effect physiology.
+- **Technique sequence:** Greenberg; Youmans and Winn — review evacuation/decompression sequence, hemostasis, dural strategy, drain use, and bone-flap/cranioplasty decisions.
+- **Complication rescue:** Greenberg; trauma guidelines and primary literature — summarize swelling, coagulopathy, seizures, infection, hydrocephalus, and ICU surveillance in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Development of a delayed acute epidural hematoma following contralateral epidural hematoma evacuation: case report and review of literature** — Gregori F. Acta neurologica Belgica 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30478538/)
+- **Airway Management for Emergency Spinal Epidural Hematoma Evacuation With Awake Spine Surgery: Case Report and Literature Review** — Ononogbu-Uche FC. International journal of spine surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38228370/)
+- **Letter to the Editor regarding "Surgical considerations for spinal epidural hematoma evacuation in the setting of blue rubber bleb nevus syndrome in a child"** — Pavanello M. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37357237/)
+- **Imaging for Asynchronous Bilateral Epidural Hematoma: A Case Report** — Contreras D. Cureus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39791068/)
+- **Surgical considerations for spinal epidural hematoma evacuation in the setting of blue rubber bleb nevus syndrome in a child** — Lu VM. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36862185/)
+- **Robot-Assisted Instrumented Fusion of a T8-9 Extension Distraction Fracture and Epidural Hematoma Evacuation: 2-Dimensional Operative Video** — Al Saiegh F. Operative neurosurgery (Hagerstown, Md.) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32259253/)
+- **Epidural hematoma - benign or potentially malignant disease?** — Svoboda N. Rozhledy v chirurgii : mesicnik Ceskoslovenske chirurgicke spolecnosti 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30442006/)
+- **Epidural hematoma due to Gardner-Wells Tongs placement during pediatric spinal deformity surgery** — Menger R. Spine deformity 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32314179/)
+- **Epidural Abscess Following Epidural Evacuation in a Patient With Ventriculoperitoneal Shunt: A Case Report** — Shaabi A. Cureus 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34868772/)
+- **The uncommon delayed neurological deficit in posterior fossa chronic epidural hematoma: A case report** — Permana GI. International journal of surgery case reports 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36261939/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Epidural Hematoma Evacuation — Figure 1](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-01-figure-1-cureus-0013-00000019134-i01-jpg.jpg)
+*Figure 1. The plain CT brain showed acute left parietal epidural hematoma at the convexity of the left parietal bone (pointed in the image), measuring 9.7 x 5.2 x 8.4 cm in maximum AP, CC, and... Source: [Epidural Abscess Following Epidural Evacuation in a Patient With Ventriculoperitoneal Shunt: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627705/) — Cureus 2021; CC BY.*
+
+![Epidural Hematoma Evacuation — Figure 2](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-02-figure-2-cureus-0013-00000019134-i02-jpg.jpg)
+*Figure 2. An MRI brain scan showed an enhancing epidural collection of 4 cm thickness (pointed in the image). Source: [Epidural Abscess Following Epidural Evacuation in a Patient With Ventriculoperitoneal Shunt: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627705/) — Cureus 2021; CC BY.*
+
+![Epidural Hematoma Evacuation — Figure 3](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-03-figure-3-cureus-0013-00000019134-i03-jpg.jpg)
+*Figure 3. CT brain done three weeks postoperatively showed superficial collection beneath the surgical defect, extra-axial collection with an irregular enhancing rim measuring approximately 4.2 x... Source: [Epidural Abscess Following Epidural Evacuation in a Patient With Ventriculoperitoneal Shunt: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627705/) — Cureus 2021; CC BY.*
+
+![Epidural Hematoma Evacuation — Figure 4](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-04-figure-4-cureus-0013-00000019134-i04-jpg.jpg)
+*Figure 4. CT brain done showed redemonstration of operative bed subgaleal and epidural heterogenous marginally enhancing collection measuring 7 x 4.5 x 4.5 cm (pointed in the image). Source: [Epidural Abscess Following Epidural Evacuation in a Patient With Ventriculoperitoneal Shunt: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627705/) — Cureus 2021; CC BY.*
+
+![Epidural Hematoma Evacuation — Figure 1:](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-05-figure-1-sni-12-238-g001-jpg.jpg)
+*Figure 1:. Initial head CT after trauma 7 years before AV fistula development. (a) L temporal epidural hematoma with 0.5 cm midline shift. (b) Postoperative CT scan demonstrating evacuation of EDH... Source: [Delayed presentation of a traumatic scalp arteriovenous fistula](https://pmc.ncbi.nlm.nih.gov/articles/PMC8247668/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Epidural Hematoma Evacuation — Figure 2:](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-06-figure-2-sni-12-238-g002-jpg.jpg)
+*Figure 2:. Engorged left temporal vessels 7 years following traumatic epidural hematoma evacuation. (a and b) Clinical presentation of the left anterolateral scalp swelling. (c and d) CTA head 7... Source: [Delayed presentation of a traumatic scalp arteriovenous fistula](https://pmc.ncbi.nlm.nih.gov/articles/PMC8247668/) — Surgical Neurology International 2021; CC BY-NC-SA.*
+
+![Epidural Hematoma Evacuation — Figure 1](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-07-figure-1-1750-1164-7-7-1-jpg.jpg)
+*Figure 1. Case 2 from the re-operation group. The patient operated on for left frontal oligo-astrocytoma developed right frontal EDH. Re-operation of EDH evacuation through craniotomy were... Source: [Vaccum drainage system application in the management of operation-related non-regional epidural hematoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC3751531/) — Annals of Surgical Innovation and Research 2013; CC BY.*
+
+![Epidural Hematoma Evacuation — Figure 2](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-08-figure-2-1750-1164-7-7-2-jpg.jpg)
+*Figure 2. Case 7 from the re-operation group. The patient operated on for infratentorial Schwannoma developed supratentorial EDH. Re-operation of EDH evacuation through craniotomy were performed,... Source: [Vaccum drainage system application in the management of operation-related non-regional epidural hematoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC3751531/) — Annals of Surgical Innovation and Research 2013; CC BY.*
+
+![Epidural Hematoma Evacuation — Figure 3](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-09-figure-3-1750-1164-7-7-3-jpg.jpg)
+*Figure 3. Case 6 from the re-operation group. The patient operated on for infratentorial ependymoma developed infratentorial-supratentorial EDH. Re-operation of EDH evacuation through craniotomy... Source: [Vaccum drainage system application in the management of operation-related non-regional epidural hematoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC3751531/) — Annals of Surgical Innovation and Research 2013; CC BY.*
+
+![Epidural Hematoma Evacuation — Figure 4](../../figures/curated/case-prep-epidural-hematoma-edh-evacuation/figure-10-figure-4-1750-1164-7-7-4-jpg.jpg)
+*Figure 4. Case 4 from the drainage group. The patient operated on for the IIIrd ventricle anaplastic haemangiopericytoma developed left temporal-occipital EDH. Epidural drainage with the vacuum... Source: [Vaccum drainage system application in the management of operation-related non-regional epidural hematoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC3751531/) — Annals of Surgical Innovation and Research 2013; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

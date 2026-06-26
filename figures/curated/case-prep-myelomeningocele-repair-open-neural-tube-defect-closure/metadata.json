@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC11040477",
+    "article_title": "Prenatal Diagnosis and Outcomes of Cervical Meningocele and Myelomeningocele",
+    "journal": "Journal of Medical Ultrasound",
+    "year": "2024",
+    "license": "CC BY-NC-SA",
+    "label": "Figure 1",
+    "caption": "Classification of cervical myelomeningocele and meningocele. (a) Fibrovascular or neuroglial tissue protruding from the posterior surface of the spinal cord attached to the sac wall. (b) Ependymal-lined cyst that herniates inside the meningocele, representing the hydromyelic canal in connection with the outer cyst. (c) True meningocele in which meningeal tissue herniates through the defect and sac contains only cerebrospinal fluid[17]",
+    "href": "JMU-32-21-g001.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-01-figure-1-jmu-32-21-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11040477.1/JMU-32-21-g001.jpg?md5=be2053308021abfcf7afc935cae8c7b1"
+  },
+  {
+    "pmcid": "PMC9218472",
+    "article_title": "The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele",
+    "journal": "Frontiers in Neurology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Representative photographs of spinal cord in fetuses with lumbosacral myelomeningocele. (A) E16, neural tube closure failed, nerve tissue is exposed dorsally and protrudes above the skin level. (B) E20, the myelomeningocele exhibits abrasion and hemorrhage, a thin fibrous membrane covers the defect. (C\u2013F) The mRNA expression levels of PCNA (C), cleaved caspase-3 (D), NeuN (E), and \u03b1- SMA (F) in the MMC and CRL groups changed with the development of the embryos, n = 5, *P < 0.05. Data are expressed as means \u00b1 STDs. MMC, myelomeningocele; CRL, control; STD, standard deviation; PCNA, proliferating cell nuclear antigen; \u03b1-SMA, \u03b1-smooth muscle actin; NeuN, neuron-specific nuclear-binding protein.",
+    "href": "fneur-13-861308-g0001.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-02-figure-1-fneur-13-861308-g0001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9218472.1/fneur-13-861308-g0001.jpg?md5=164c5cd7bb74dd0044ad01cbb2012422"
+  },
+  {
+    "pmcid": "PMC9218472",
+    "article_title": "The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele",
+    "journal": "Frontiers in Neurology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Cell proliferation, apoptosis, and neuromuscular development-related protein changes in fetal rat bladder at E16\u2013E22. (A) Expression of PCNA, cleaved caspase-3, NeuN, and a-SMA proteins in the MMC and CRL groups at E16, E18, E20, and E22. (B\u2013E) The expression of PCNA (B), cleaved caspase-3 (C), NeuN (D), and \u03b1-SMA (E) in the MMC and CRL groups changed with the development of the embryos, n = 5, *P < 0.05. Data are expressed as means \u00b1 STDs. MMC, myelomeningocele; STD, standard deviation; PCNA, proliferating cell nuclear antigen; \u03b1-SMA, \u03b1-smooth muscle actin; NeuN, neuron-specific nuclear-binding protein; CRL, control group; CL-caspase3, cleaved caspase-3; GAPDH, glyceraldehyde-3-phosphate dehydrogenase.",
+    "href": "fneur-13-861308-g0002.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-03-figure-2-fneur-13-861308-g0002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9218472.1/fneur-13-861308-g0002.jpg?md5=9512b29e77b2d50842e3f0d1fc1e7ae8"
+  },
+  {
+    "pmcid": "PMC9218472",
+    "article_title": "The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele",
+    "journal": "Frontiers in Neurology",
+    "year": "2022",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Expression and distribution of bladder cleaved caspase-3 at E22. (A) The distribution of cleaved caspase-3 at E22. (B) The expression of cleaved caspase-3 in the bladder muscle layer was significantly lower in the CRL group than in the MMC group. (C) The expression of cleaved caspase-3 in the bladder mucosa layer was significantly higher in the MMC group than in the CRL group, n = 6, *P < 0.05. Data are expressed as means \u00b1 STDs. MMC, myelomeningocele; STD, standard deviation; CRL, control.",
+    "href": "fneur-13-861308-g0003.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-04-figure-3-fneur-13-861308-g0003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9218472.1/fneur-13-861308-g0003.jpg?md5=04e669454b3e947e102310c10bb29f18"
+  },
+  {
+    "pmcid": "PMC11040124",
+    "article_title": "Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis",
+    "journal": "Heliyon",
+    "year": "2024",
+    "license": "CC BY-NC",
+    "label": "Fig. 1",
+    "caption": "Identification of DEGs in the GSE101141 GEO dataset. A Normalization of the GSE101141 dataset was performed using Log2 transformation: N, Control; C, myelomeningocele; B UMAP plot; C Heat map of the dataset demonstrated distinguished features between myelomeningocele and control samples; D and E Venn diagram of GSE101141 and ferroptosis- and autophagy-related genes.",
+    "href": "gr1.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-05-fig-1-gr1-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11040124.1/gr1.jpg?md5=135bc2e855bedae0c8a8855c07e0a396"
+  },
+  {
+    "pmcid": "PMC11040124",
+    "article_title": "Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis",
+    "journal": "Heliyon",
+    "year": "2024",
+    "license": "CC BY-NC",
+    "label": "Fig. 2",
+    "caption": "Functional enrichment analysis of ferroptosis-related DEGs. A GO enrichment analysis of ferroptosis-related DEGs using SRplot: BP, biological process; CC, cellular component; MF, molecular function; B KEGG pathway enrichment analysis of ferroptosis-related DEGs using WebGestalt.",
+    "href": "gr2.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-06-fig-2-gr2-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11040124.1/gr2.jpg?md5=c2d32227b104588c542bff625a8c15a1"
+  },
+  {
+    "pmcid": "PMC11040124",
+    "article_title": "Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis",
+    "journal": "Heliyon",
+    "year": "2024",
+    "license": "CC BY-NC",
+    "label": "Fig. 3",
+    "caption": "Functional enrichment analysis of autophagy-related DEGs. A GO enrichment analysis of autophagy-related DEGs using DAVID and SRplot: BP, biological process; CC, cellular component; MF, molecular function; B KEGG pathway enrichment analysis of autophagy-related DEGs using WebGestalt.",
+    "href": "gr3.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-07-fig-3-gr3-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11040124.1/gr3.jpg?md5=3ea983efaa4a4596ff02d202088065f3"
+  },
+  {
+    "pmcid": "PMC11040124",
+    "article_title": "Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis",
+    "journal": "Heliyon",
+    "year": "2024",
+    "license": "CC BY-NC",
+    "label": "Fig. 4",
+    "caption": "PPI analysis of ferroptosis- and autophagy-related DEGs. A and B PPI analysis of ferroptosis- and autophagy-related DEGs: orange, upregulated genes; blue, downregulated genes; C and D Top ten hub genes of ferroptosis- and autophagy-related DEGs using MCC; E Candidate genes were selected from ferroptosis- and autophagy-related hub genes.",
+    "href": "gr4.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-08-fig-4-gr4-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11040124.1/gr4.jpg?md5=07503055fb01892db997ce438a28aeb1"
+  },
+  {
+    "pmcid": "PMC11040124",
+    "article_title": "Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis",
+    "journal": "Heliyon",
+    "year": "2024",
+    "license": "CC BY-NC",
+    "label": "Fig. 5",
+    "caption": "Expression and function enrichment of candidate genes. A Expression of candidate genes from GSE101141; B and C GO and KEGG enrichment analyses of candidate genes using DAVID and SRplot: BP, biological process; CC, cellular component; MF, molecular function; D Enrichment term analysis of candidate genes using Meascape.",
+    "href": "gr5.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-09-fig-5-gr5-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11040124.1/gr5.jpg?md5=28724f4bb2de9ec8c1ebcc4667b306ac"
+  },
+  {
+    "pmcid": "PMC11040124",
+    "article_title": "Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis",
+    "journal": "Heliyon",
+    "year": "2024",
+    "license": "CC BY-NC",
+    "label": "Fig. 6",
+    "caption": "Interaction network among miRNAs, TFs, and candidate genes. A Interaction network between candidate genes and targeted miRNAs: red, candidate genes; blue, miRNA; B Interaction network of TF-gene: red, gene; blue, TFs; C TF-miRNA coregulatory network of candidate genes: red, gene; pink, TFs; dark blue, miRNAs.",
+    "href": "gr6.jpg",
+    "local": "figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-10-fig-6-gr6-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11040124.1/gr6.jpg?md5=d91f7e123def3f556c3a5e017605d107"
+  }
+]

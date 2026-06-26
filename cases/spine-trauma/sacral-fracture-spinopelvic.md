@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=sacral+fracture+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Spinopelvic fixation** — lumbopelvic fixation and triangular osteosynthesis outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=sacral+fracture+spinopelvic+fixation+triangular+osteosynthesis+outcomes)
-- **Sacral neurologic injury** — decompression and fixation indications in unstable sacral fractures. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=sacral+fracture+neurologic+injury+decompression+fixation)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=sacral%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=sacral+fracture+spinopelvic+fixation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — sacrum / lumbosacral junction](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Spondylopelvic dissociation** — Sullivan MP. The Orthopedic clinics of North America 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24267208/)
+- **Traditional versus Minimally Invasive Spinopelvic Fixation for Sacral Fracture Treatment in Vertically Unstable Pelvic Fractures** — Tsai YT. Journal of personalized medicine 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35207750/)
+- **Percutaneous lumbopelvic fixation for pathologic sacral fractures and spinopelvic dissociation: patient series** — Baksh N. Journal of neurosurgery. Case lessons 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37581594/)
+- **Traumatic spinopelvic dissociation or U-shaped sacral fracture: a review of the literature** — Yi C. Injury 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21236426/)
+- **Minimally Invasive Spinopelvic Fixation for Unstable Bilateral Sacral Fractures** — Koshimune K. Clinical spine surgery 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27002375/)
+- **Spinopelvic fixation for vertically unstable AO type C pelvic fractures and sacral fractures with spinopelvic dissociation- A systematic review and pooled analysis involving 479 patients** — Patel S. Journal of orthopaedics 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35241881/)
+- **Robotic-Assisted Minimally Invasive Spinopelvic Fixation for Traumatic Sacral Fractures: Case Series Investigating Early Safety and Efficacy** — Hardigan AA. World neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37315895/)
+- **Lumbopelvic Fixation for Sacral Insufficiency Fracture Presenting with Sphincter Dysfunction** — Maki S. Case reports in orthopedics 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31093401/)
+- **Treatment of Unstable Sacral Fracture with Minimally Invasive Spinopelvic Posterior Fixation and an Internal Anterior Fixator in a 95-Year-Old Patient with Diffuse Idiopathic Skeletal Hyperostosis: A Case Report** — Sasagawa T. Journal of orthopaedic case reports 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35415179/)
+- **A Case of U-shaped Sacral Fracture After Longstanding Spinopelvic Fixation Treated With Percutaneous Sacroiliac Joint Fusion and Iliosacral Osteosynthesis** — Ganeshan V. Cureus 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38022119/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 1](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-01-fig-1-68-2022-2212-fig1-html-jpg.jpg)
+*Fig. 1. A Prone position on radiolucent table, marking of PSIS and greater trochanter on each side. B PSIS exposure: starting point located caudal and medial to PSIS (Anatomic entry point). C... Source: [Does minimally invasive percutaneous transilial internal fixator became an effective option for sacral fractures? A prospective study with novel implantation technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC10229678/) — European Journal of Trauma and Emergency Surgery 2023; CC BY.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 2](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-02-fig-2-68-2022-2212-fig2-html-jpg.jpg)
+*Fig. 2. A Awl used for penetration and creating screw tunnel. B Alternatively, oscillating drill could be used instead. C, D direction of awl in ventral and caudal direction. E Pedicular screw... Source: [Does minimally invasive percutaneous transilial internal fixator became an effective option for sacral fractures? A prospective study with novel implantation technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC10229678/) — European Journal of Trauma and Emergency Surgery 2023; CC BY.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 3](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-03-fig-3-68-2022-2212-fig3-html-jpg.jpg)
+*Fig. 3. A Showing Obturator view with awl insertion between the 2 tables. B Screw placement above sciatic notch in iliac view. C Tear drop view, D Iliac outlet view. E Obturator inlet. F True... Source: [Does minimally invasive percutaneous transilial internal fixator became an effective option for sacral fractures? A prospective study with novel implantation technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC10229678/) — European Journal of Trauma and Emergency Surgery 2023; CC BY.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 4](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-04-fig-4-68-2022-2212-fig4-html-jpg.jpg)
+*Fig. 4. Fracture reduction methods using pelvic reduction clamps applied over 4.5 cortical screws Source: [Does minimally invasive percutaneous transilial internal fixator became an effective option for sacral fractures? A prospective study with novel implantation technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC10229678/) — European Journal of Trauma and Emergency Surgery 2023; CC BY.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 5](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-05-fig-5-68-2022-2212-fig5-html-jpg.jpg)
+*Fig. 5. A Preoperative radiograph showing left fracture sacrum Denis type 2 in 40 years old male. B–H Postoperative radiographic views showing iliac screws accurate trajectory. I–K Final... Source: [Does minimally invasive percutaneous transilial internal fixator became an effective option for sacral fractures? A prospective study with novel implantation technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC10229678/) — European Journal of Trauma and Emergency Surgery 2023; CC BY.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 6](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-06-fig-6-68-2022-2212-fig6-html-jpg.jpg)
+*Fig. 6. A, B Preoperative radiograph showing left fracture sacrum Denis type 2 in 21 years old male. C–H Final follow-up different radiographs showing iliac screws accurate trajectory Source: [Does minimally invasive percutaneous transilial internal fixator became an effective option for sacral fractures? A prospective study with novel implantation technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC10229678/) — European Journal of Trauma and Emergency Surgery 2023; CC BY.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 1](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-07-fig-1-701-2026-6849-fig1-html-jpg.jpg)
+*Fig. 1. Computed tomography (CT) on admission (A) Three-dimensional CT reconstruction of the pelvis demonstrating bilateral sacral fractures, bilateral ischiopubic fractures, and right femoral... Source: [Modified spinopelvic crab-shaped fixation using offset connectors for a H-shaped sacral fracture with a floating Roy-Camille type 3 transverse component: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC13031226/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 2](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-08-fig-2-701-2026-6849-fig2-html-jpg.jpg)
+*Fig. 2. Schematic depiction of sacral fracture lines (red) The distal sacral fragment (asterisk), classified as Roy-Camille type 3, was a floating fragment. The right side involved Denis zone... Source: [Modified spinopelvic crab-shaped fixation using offset connectors for a H-shaped sacral fracture with a floating Roy-Camille type 3 transverse component: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC13031226/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 3](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-09-fig-3-701-2026-6849-fig3-html-jpg.jpg)
+*Fig. 3. Preoperative and intraoperative photographs (A) Preoperative photograph showing bilateral 5-cm incisions above the posterior superior iliac spine (PSIS) for placement of L5 pedicle... Source: [Modified spinopelvic crab-shaped fixation using offset connectors for a H-shaped sacral fracture with a floating Roy-Camille type 3 transverse component: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC13031226/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+![Sacral Fracture Spinopelvic Fixation — Fig. 4](../../figures/curated/case-prep-sacral-fracture-spinopelvic-lumbopelvic-fixation/figure-10-fig-4-701-2026-6849-fig4-html-jpg.jpg)
+*Fig. 4. Reduction maneuver and buttress technique (A) Bilateral neurodissectors were inserted lateral to the dura into the transverse fracture site, with the tips positioned on the ventral... Source: [Modified spinopelvic crab-shaped fixation using offset connectors for a H-shaped sacral fracture with a floating Roy-Camille type 3 transverse component: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC13031226/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

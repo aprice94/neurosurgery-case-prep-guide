@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC12428747",
+    "article_title": "Liquid Biopsy\u2019s Role in Head and Neck Tumors: Changing Paradigms in the Era of Precision Medicine",
+    "journal": "Diagnostics",
+    "year": "2025",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Illustration of various genes and their roles in cell cycle progression and arrest.",
+    "href": "diagnostics-15-02262-g001.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-01-figure-1-diagnostics-15-02262-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12428747.1/diagnostics-15-02262-g001.jpg?md5=ccb5db14d5b534ceb78395db8ac1f919"
+  },
+  {
+    "pmcid": "PMC8325567",
+    "article_title": "Brain-on-a-Chip: Characterizing the next generation of advanced in vitro platforms for modeling the central nervous system",
+    "journal": "APL Bioengineering",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "FIG. 1.",
+    "caption": "The brain is a multiscale system.",
+    "href": "ABPID9-000005-030902_1-g001.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-02-fig-1-abpid9-000005-030902-1-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8325567.1/ABPID9-000005-030902_1-g001.jpg?md5=d07695c29facc39d678661bcef79846c"
+  },
+  {
+    "pmcid": "PMC8325567",
+    "article_title": "Brain-on-a-Chip: Characterizing the next generation of advanced in vitro platforms for modeling the central nervous system",
+    "journal": "APL Bioengineering",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "FIG. 2.",
+    "caption": "Different aspects of the brain's complexity. As the brain is a multiscale system, it is challenging to incorporate all these aspects in vitro. One should keep in mind all these aspects when selecting the appropriate in vitro platform for the specific problem one is interested in studying. Once the platform has been selected, the researcher can use Table I to determine whether the platform qualifies as a Brain-on-a-Chip, i.e., whether its capabilities exceed those of conventional cell culture systems.",
+    "href": "ABPID9-000005-030902_1-g002.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-03-fig-2-abpid9-000005-030902-1-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8325567.1/ABPID9-000005-030902_1-g002.jpg?md5=c9f6c9e8fed86bd70c12a65808db9b9a"
+  },
+  {
+    "pmcid": "PMC11754428",
+    "article_title": "Evaluation of feasibility accuracy and safety after 79 O-ARM based stereotactic brain biopsies",
+    "journal": "Scientific Reports",
+    "year": "2025",
+    "license": "CC BY-NC-ND",
+    "label": "Fig. 1",
+    "caption": "Pre-operative planning: biopsy path (red line) was set on pre-operative MRI in order to preserve arteries and veins, functional areas and it is double-checked by two surgeons.",
+    "href": "41598_2025_86069_Fig1_HTML.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-04-fig-1-41598-2025-86069-fig1-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11754428.1/41598_2025_86069_Fig1_HTML.jpg?md5=3b1139fbf692299c13bf59064972a30f"
+  },
+  {
+    "pmcid": "PMC11007055",
+    "article_title": "Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine",
+    "journal": "Cancer Science",
+    "year": "2024",
+    "license": "CC BY-NC",
+    "label": "FIGURE 2",
+    "caption": "Multifaceted challenges in liquid biopsy implementation. This figure outlines key challenges encountered in liquid biopsy from sample procurement to clinical utility. (1) Diagnostic accuracy. Balancing the detection of genuine cancer markers while reducing false positives. (2) Tumor diversity. Capturing the genetic heterogeneity of tumors to form a comprehensive molecular profile. (3) Technical hurdles. Overcoming the complexities in isolating and analyzing delicate biomarkers from biofluids. (4) Standardizing protocols. Establishing uniform procedures for liquid biopsy to guarantee reproducibility and reliability. (5) Contamination risk. Reducing the contamination of analyses by nontumor DNA. (6) Timing of tests. Optimizing sample collection timing for an accurate reflection of the tumor's state. (7) Economics and access. Making liquid biopsy cost\u2010effective and accessible for widespread use. (8) Regulatory obstacles. Overcoming regulatory and insurance challenges in liquid biopsy implementation. (9) Data analysis. Using advanced analytics to interpret complex genetic data accurately. (10) Sample integrity. Preserving biofluid sample stability and integrity for reliable results. (11) Ethics and privacy. Safeguarding patient data and addressing the ethical aspects in genetic testing.",
+    "href": "CAS-115-1060-g001.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-05-figure-2-cas-115-1060-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11007055.1/CAS-115-1060-g001.jpg?md5=e045ceafe43805473d788bd78019601c"
+  },
+  {
+    "pmcid": "PMC11007055",
+    "article_title": "Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine",
+    "journal": "Cancer Sci. 2024 Feb 3;115(4):1060\u201372. doi: 10.1111/cas.16097",
+    "year": "",
+    "license": "CC BY-NC",
+    "label": "Figure 6",
+    "caption": "",
+    "href": "CAS-115-1060-g002.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-06-figure-6-cas-115-1060-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11007055.1/CAS-115-1060-g002.jpg?md5=909dc42efbe45e89fee5b67df1cd9077"
+  },
+  {
+    "pmcid": "PMC11007055",
+    "article_title": "Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine",
+    "journal": "Cancer Science",
+    "year": "2024",
+    "license": "CC BY-NC",
+    "label": "FIGURE 1",
+    "caption": "Comprehensive workflow of liquid biopsy from biofluid collection to clinical application. (A) Diverse biofluid collection. The liquid biopsy workflow begins with the collection of various biofluids capable of harboring tumor\u2010derived components. This panel illustrates the procurement of primary liquid biopsy sources, including blood, cerebrospinal fluid (CSF), urine, saliva, and breast milk. (B) Target biomarker capturing. After collection, specific biomarkers such as circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), extracellular vesicles (EVs), and microRNAs (miRNAs) are targeted and captured from the biofluids. Techniques used include Ficoll gradient centrifugation for plasma and PBMCs, alongside filtration methods for cfDNA and miRNAs. (C) Isolation and analysis. The isolated biomarkers are analyzed using a CTC capture platform or kits provided by companies such as Thermo Fisher Scientific and Qiagen. Further analysis may involve next\u2010generation sequencing (NGS). Techniques cover immunomagnetic and microfluidic methods for CTCs and ultracentrifugation for EVs. This crucial step prepares biomarkers for detailed molecular analysis. (D) Clinical application. The final panel links the isolated and analyzed biomarkers to their respective clinical applications. It underscores the contribution of ctDNA, CTCs, miRNAs, and EVs to diverse aspects of patient care, including cancer screening, staging, prognostication, treatment selection, therapeutic response monitoring, and early detection of treatment resistance or cancer recurrence. This integrative approach aims to personalize patient care by providing real\u2010time molecular insights into cancer. MRD, minimal residual disease; WES, whole exome sequencing; WGS, whole genome sequencing.",
+    "href": "CAS-115-1060-g003.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-07-figure-1-cas-115-1060-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11007055.1/CAS-115-1060-g003.jpg?md5=e60ad2ae248d035fa3073cb1b12bfd14"
+  },
+  {
+    "pmcid": "PMC12004428",
+    "article_title": "Actuated Hydrogel Platforms To Study Brain Cell Behavior",
+    "journal": "Advanced Healthcare Materials",
+    "year": "2025",
+    "license": "CC BY-NC",
+    "label": "Figure 4",
+    "caption": "A schematic representation of examples of 2D hydrogel platforms used to study cell mechanotransduction. A) Static hydrogels with a stiffness gradient to study cellular durotaxis.[ 60 ] B) Viscoelastic hydrogels to study the influence of stress relaxation on cultured cells.[ 61 ] C) Micropatterned hydrogels to examine the impact of surface topography on cellular behaviors.[ 62 ] D) Photo\u2010thermally responsive hydrogel reversible volume\u2010shape actuation is displayed as an example of dynamic hydrogel platforms.[ 63 ]",
+    "href": "ADHM-14-0-g002.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-08-figure-4-adhm-14-0-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12004428.1/ADHM-14-0-g002.jpg?md5=df3df021aff1a50b882e77c9fe341fcf"
+  },
+  {
+    "pmcid": "PMC12004428",
+    "article_title": "Actuated Hydrogel Platforms To Study Brain Cell Behavior",
+    "journal": "Advanced Healthcare Materials",
+    "year": "2025",
+    "license": "CC BY-NC",
+    "label": "Figure 11",
+    "caption": "Dynamically stiffened and softened hydrogels in mechanobiology. A) A schematic representation of the reversible stiffness actuation of collagen\u2010based hydrogels containing carbonyl iron microparticles. B) Dynamically tuneable hydrogels influence cell spreading, cell shape index, and YAP1 nuclear translocation in encapsulated normal human astrocytes. Reproduced with permission from Tran et al., ACS Appl. Mater. Interfaces 13(18), 20947\u201320959 (2021).[ 138 ] Copyright 2021, American Chemical Society.",
+    "href": "ADHM-14-0-g003.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-09-figure-11-adhm-14-0-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12004428.1/ADHM-14-0-g003.jpg?md5=7088c1572a6ea321294934e75b0e9942"
+  },
+  {
+    "pmcid": "PMC12004428",
+    "article_title": "Actuated Hydrogel Platforms To Study Brain Cell Behavior",
+    "journal": "Advanced Healthcare Materials",
+    "year": "2025",
+    "license": "CC BY-NC",
+    "label": "Figure 5",
+    "caption": "Micro\u2010 and nanofabricated hydrogel platforms used to study brain cell mechanotransduction. A) A schematic representation of cell\u2010laden HA\u2010am hydrogels with line patterns, displaying cell orientation analysis features based on a cell orientation with respect to a line pattern. B) Confocal microscopy photographs representing brain microvascular endothelial cells cultured onto micropatterned HA\u2010am hydrogels. Reproduced under the terms of a Creative Commons Attribution 3.0 Unported License (CC BY) from Porras Hern\u00e1ndez et al., RSC Adv. 12(46), 30135\u201330144 (2022).[ 77 ] Copyright 2022, Royal Society of Chemistry.",
+    "href": "ADHM-14-0-g004.jpg",
+    "local": "figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-10-figure-5-adhm-14-0-g004-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12004428.1/ADHM-14-0-g004.jpg?md5=d2f735959d77f2859c0961b7f4b9344c"
+  }
+]

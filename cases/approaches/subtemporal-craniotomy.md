@@ -23,16 +23,78 @@ The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the t
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=petroclival+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Approach anatomy** — operative anatomy and corridor-selection literature for this skull-base route. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=+Subtemporal+Craniotomy+(±+Zygomatic+Osteotomy+/+Anterior+Petrosectomy)+surgical+anatomy+approach)
-- **Meningioma guideline anchor** — EANO guidance for skull-base meningioma decision-making when applicable. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Goldbrunner+EANO+guideline+meningioma+2021)
-
 [Neurosurgical Atlas — Subtemporal](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy) · [Radiopaedia — petroclival](https://radiopaedia.org/search?q=petroclival&scope=all) · [PubMed Central — subtemporal / Kawase](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+petrosectomy+kawase+approach)
 
-![Interior base of skull — middle cranial fossa floor, foramen ovale/spinosum, petrous apex](../../figures/anatomy/skull-base-interior_gray193.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Anterior Petrosectomy vs. Retrosigmoid Approach-Surgical Anatomy and Navigation-Augmented Morphometric Analysis: A Comparative Study in Cadaveric Laboratory Setting** — Signoretti S. Brain sciences 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40002437/)
+- **Cranio-Orbito-Zygomatic Approach: Core Techniques for Tailoring Target Exposure and Surgical Freedom** — Luzzi S. Brain sciences 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35326360/)
+- **The posterior subtemporal keyhole approach combined with the transchoroidal approach to the ambient cistern: microsurgical anatomy and image-guided quantitative analysis** — Wang H. Acta neurochirurgica 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20852900/)
+- **Tentorial dural arteriovenous fistulas** — Zhou LF. Surgical neurology 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17445607/)
+- **Combined transsylvian-subtemporal exposure of cerebral aneurysms involving the basilar apex** — Kopitnik TA. Microsurgery 1994. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7830534/)
+- **Subtemporal approach to posterior cerebral artery aneurysms** — Goehre F. World neurosurgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25683130/)
+- **Surgical approaches for the lateral mesencephalic sulcus** — Cavalcanti DD. Journal of neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30978690/)
+- **Microsurgical Management of Blister-Type Basilar Artery Apex Region Aneurysms: Companion Cases Demonstrate Technical Nuances of the Subtemporal Approach: 2-Dimensional Operative Video** — Howard BM. Operative neurosurgery (Hagerstown, Md.) 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34332497/)
+- **Comparison of lateral microsurgical preauricular and anterior endoscopic approaches to the jugular foramen** — Komune N. The Journal of laryngology and otology 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25706154/)
+- **The oculomotor-tentorial triangle. Part 1: microsurgical anatomy and techniques to enhance exposure** — Tayebi Meybodi A. Journal of neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29957111/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Subtemporal Craniotomy — Fig. 4](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-01-fig-4-276-2024-3510-fig4-html-jpg.jpg)
+*Fig. 4. Subtemporal approach. A-E. A A retractor is placed under the brain, identifying the collateral sulcus. A cortical incision is made near the uncus (yellow), and care is taken to preserve... Source: [Anatomical considerations in selective amygdalohippocampectomy techniques for refractory temporal lobe epilepsy: a cadaveric study with emphasis on white matter tract anatomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC11602787/) — Surgical and Radiologic Anatomy 2024; CC BY.*
+
+![Subtemporal Craniotomy — Fig. 5](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-02-fig-5-276-2024-3510-fig5-html-jpg.jpg)
+*Fig. 5. Transsylvian approach. A-E. A A pterional craniotomy is performed. The sylvian fissure (red dots) is opened from the internal carotid artery bifurcation to 2 cm beyond the MCA... Source: [Anatomical considerations in selective amygdalohippocampectomy techniques for refractory temporal lobe epilepsy: a cadaveric study with emphasis on white matter tract anatomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC11602787/) — Surgical and Radiologic Anatomy 2024; CC BY.*
+
+![Subtemporal Craniotomy — Fig. 1](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-03-fig-1-10143-2025-3953-fig1-html-jpg.jpg)
+*Fig. 1. A-C Subtemporal Transtentorial Approach (A): Schematic of the Subtemporal Transtentorial Approach craniotomy bone flap. (B): Following elevation of the temporal base, the tentorium is... Source: [Analysis of Pontine cavernous malformation resection based on 3D microanatomical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12678574/) — Neurosurgical Review 2025; CC BY-NC-ND.*
+
+![Subtemporal Craniotomy — Fig. 4](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-04-fig-4-10143-2025-3953-fig4-html-jpg.jpg)
+*Fig. 4. Exposure ranges of surgical approaches and safety entry zones (Yellow quadrilateral: Superior trigeminal quadrangular space. Purple quadrilateral: Inferior trigeminal quadrangular space.... Source: [Analysis of Pontine cavernous malformation resection based on 3D microanatomical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12678574/) — Neurosurgical Review 2025; CC BY-NC-ND.*
+
+![Subtemporal Craniotomy — Fig. 5](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-05-fig-5-10143-2025-3953-fig5-html-jpg.jpg)
+*Fig. 5. A-C Preoperative magnetic resonance imaging (MRI) demonstrates hemorrhagic stroke within the right PCMs. D Stereotactic guidance was employed to define the surgical trajectory. E-H A... Source: [Analysis of Pontine cavernous malformation resection based on 3D microanatomical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12678574/) — Neurosurgical Review 2025; CC BY-NC-ND.*
+
+![Subtemporal Craniotomy — Figure 6](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-06-figure-6-life-15-01804-g006-jpg.jpg)
+*Figure 6. (A) Bone flap. (B) The thinned sphenoid ridge is demonstrated following basal drilling with the aid of a dissector. Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+![Subtemporal Craniotomy — Figure 7](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-07-figure-7-life-15-01804-g007-jpg.jpg)
+*Figure 7. After the dural incision was made, the dura was elevated and suspended. (A). Illustration, (B). Cadaver footage. Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+![Subtemporal Craniotomy — Figure 8](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-08-figure-8-life-15-01804-g008-jpg.jpg)
+*Figure 8. (A) Exposure of the lamina terminalis. (B) After Sylvian fissure dissection, retractors provided access to the anterior and middle skull base. (C) The lamina terminalis cistern was... Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+![Subtemporal Craniotomy — Figure 9](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-09-figure-9-life-15-01804-g009-jpg.jpg)
+*Figure 9. Incision plan for the one-piece orbitozygomatic approach [(A) incision sketch, (B) cadaver view: red line indicating midline; blue line indicating incision]. Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+![Subtemporal Craniotomy — Figure 10](../../figures/curated/operative-approach-subtemporal-craniotomy-zygomatic-osteotomy-anterior-petrosectomy/figure-10-figure-10-life-15-01804-g010-jpg.jpg)
+*Figure 10. The skin flap was retracted anteriorly, and the superficial temporal artery (A) and facial nerve branches (B) were carefully dissected and mobilized with a dissector. Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -77,14 +139,12 @@ The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the t
 ---
 
 ## Positioning
-📷 *[Atlas — subtemporal positioning](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy)*
 
 - **Lateral or supine with a large ipsilateral shoulder roll**, head in Mayfield, **turned ~90°** so the **middle-fossa floor is roughly horizontal (vertex slightly down)** — the temporal lobe then falls away from the floor by gravity, the single most effective way to limit retraction.
 - The **lateral position** is favored for extensive work (gravity does more of the retraction); ensure the dependent shoulder/brachial plexus is protected and venous outflow is unobstructed.
 - Slight neck extension brings the floor into view; confirm the zygoma is accessible if an osteotomy is planned.
 
 ## Incision & Soft Tissue
-📷 *[Atlas — incision & temporalis](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy)*
 
 - A **question-mark or vertical/linear** temporal incision centered over the ear root and zygoma (a "T"-bar or reverse-question-mark for larger exposures). Stay above the arch anteriorly to protect the **facial nerve frontal branch** (interfascial dissection if the flap extends anteriorly — see [pterional](pterional-craniotomy.md)).
 - Reflect temporalis inferiorly; for a **zygomatic osteotomy**, expose the arch subperiosteally and cut it (anterior and posterior) so the temporalis drops, opening a flat trajectory to the floor.
@@ -92,7 +152,6 @@ The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the t
 ---
 
 ## Craniotomy
-📷 *[Atlas — temporal craniotomy to the floor](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy)*
 
 1. A **temporal craniotomy** centered low over the middle fossa; **rongeur/drill the inferior bone edge flush with the middle-fossa floor** — any residual bony lip forces additional temporal-lobe retraction and must be removed.
 2. Wax exposed air cells. If a **zygomatic osteotomy** was done, the inferior trajectory is now flat.
@@ -105,16 +164,12 @@ The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the t
 ---
 
 ## Dural Opening & Intradural Work
-📷 *[Atlas — incisural exposure](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy)*
 
 1. Open the temporal dura based inferiorly; **elevate the temporal lobe gently** (after CSF egress via the lumbar drain) to reach the **tentorial edge.** **Identify and protect the vein of Labbé** — do not tether or sacrifice it.
 2. Follow the free edge medially; **identify CN IV** entering the tentorium and **CN III** anteriorly. To open the posterior fossa, **place a tentorial-edge stitch and divide the tentorium behind the entry point of CN IV**, reflecting it to expose the **petroclival/upper-basilar** region.
 3. Open the incisural cisterns sharply: the **crural and ambient cisterns** (P2/PCA, SCA, basal vein), and the **interpeduncular cistern** (basilar apex, P1, perforators, CN III). Proceed to lesion-specific steps (basilar apex clipping, petroclival tumor via the petrosectomy window, Meckel's cave/trigeminal schwannoma).
 4. **Anterior petrosectomy completed:** with the rhomboid drilled and the superior petrosal sinus/tentorium divided, the **ventral pons and mid-upper clivus** come into view for petroclival lesions.
 
-![Arteries of the base of the brain — basilar apex, SCA, PCA, and P1 (the deep targets across the incisura)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
-
-*Sobotta 1909, public domain — via Wikimedia Commons.*
 
 ---
 

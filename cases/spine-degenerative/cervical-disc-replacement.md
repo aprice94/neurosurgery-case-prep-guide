@@ -21,18 +21,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+disc+arthroplasty+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Cervical arthroplasty trials** — randomized IDE and long-term adjacent-segment outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+disc+arthroplasty+randomized+trial+adjacent+segment+disease+long+term)
-- **Patient selection** — contraindications including instability, kyphosis, facet disease, and myelopathy considerations. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=cervical+disc+arthroplasty+indications+contraindications+guideline)
-
 > 🧭 **Operative approach:** [Anterior cervical (Smith-Robinson) approach](../approaches/anterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20disc%20arthroplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=cervical+disc+arthroplasty) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — cervical spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Cervical disc arthroplasty: tips and tricks** — Makhni MC. International orthopaedics 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30519869/)
+- **Cervical disc arthroplasty** — Zindrick M. The Journal of the American Academy of Orthopaedic Surgeons 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20889952/)
+- **Osteolysis after cervical disc arthroplasty** — Joaquim AF. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32865650/)
+- **Revision Strategies for Cervical Disc Arthroplasty** — Roth SG. Clinical spine surgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37752631/)
+- **The Role of Cervical Disc Arthroplasty in Elite Athletes** — Brecount H. Current reviews in musculoskeletal medicine 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37436652/)
+- **Cervical disc arthroplasty: What we know in 2020 and a literature review** — Shin JJ. Journal of orthopaedic surgery (Hong Kong) 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34581615/)
+- **Biomechanics of Cervical Disc Arthroplasty Devices** — Patwardhan AG. Neurosurgery clinics of North America 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34538475/)
+- **Multilevel cervical disc arthroplasty: a review of optimal surgical management and future directions** — Tu TH. Journal of neurosurgery. Spine 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36681966/)
+- **Four-Level Cervical Disc Arthroplasty** — Chang HK. International journal of spine surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38782588/)
+- **Cervical disc arthroplasty: general introduction** — Acosta FL Jr. Neurosurgery clinics of North America 2005. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16326283/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Cervical Disc Arthroplasty — Figure 1](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-01-figure-1-jss-09-01-21-f1-jpg.jpg)
+*Figure 1. Centre of rotation. Source: [Assessing in vivo flexion-extension quality of motion after cervical disc arthroplasty: a pilot study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10082433/) — Journal of Spine Surgery 2023; CC BY-NC-ND.*
+
+![Cervical Disc Arthroplasty — Figure 2](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-02-figure-2-jss-09-01-21-f2-jpg.jpg)
+*Figure 2. Centre of rotation in (A) C5-C6 and (B) C6-C7 arthroplasty group. (0,0) denotes the centre of superior endplate of caudal vertebra. COR, centre of rotation. Source: [Assessing in vivo flexion-extension quality of motion after cervical disc arthroplasty: a pilot study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10082433/) — Journal of Spine Surgery 2023; CC BY-NC-ND.*
+
+![Cervical Disc Arthroplasty — Figure 3](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-03-figure-3-jss-09-01-21-f3-jpg.jpg)
+*Figure 3. Average motion fraction throughout the arc of flexion-extension. Source: [Assessing in vivo flexion-extension quality of motion after cervical disc arthroplasty: a pilot study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10082433/) — Journal of Spine Surgery 2023; CC BY-NC-ND.*
+
+![Cervical Disc Arthroplasty — Figure 4](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-04-figure-4-jss-09-01-21-f4-jpg.jpg)
+*Figure 4. Segmental motion versus global range of motion. FE, flexion-extension; ROM, range of motion. Source: [Assessing in vivo flexion-extension quality of motion after cervical disc arthroplasty: a pilot study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10082433/) — Journal of Spine Surgery 2023; CC BY-NC-ND.*
+
+![Cervical Disc Arthroplasty — Fig. 1](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-05-fig-1-10-1055-s-0035-1550092-i1400168-1-jpg.jpg)
+*Fig. 1. Anteroposterior (A) and lateral (B) preoperative radiographs demonstrating spondylosis and anterior osteophyte formation at C5–C6. Source: [Traumatic Migration of the Bryan Cervical Disc Arthroplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC4733374/) — Global Spine Journal 2015; open access.*
+
+![Cervical Disc Arthroplasty — Fig. 2](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-06-fig-2-10-1055-s-0035-1550092-i1400168-2-jpg.jpg)
+*Fig. 2. Sequential sagittal magnetic resonance image slices (A, B) demonstrating disk–osteophyte complex resulting in moderate central canal narrowing with moderate left and mild right neural... Source: [Traumatic Migration of the Bryan Cervical Disc Arthroplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC4733374/) — Global Spine Journal 2015; open access.*
+
+![Cervical Disc Arthroplasty — Fig. 3](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-07-fig-3-10-1055-s-0035-1550092-i1400168-3-jpg.jpg)
+*Fig. 3. Anteroposterior (A) and lateral (B) immediate postoperative radiographs demonstrating well-positioned and appropriately sized single-level Bryan Cervical Disc arthroplasty device at C5-C6. Source: [Traumatic Migration of the Bryan Cervical Disc Arthroplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC4733374/) — Global Spine Journal 2015; open access.*
+
+![Cervical Disc Arthroplasty — Fig. 4](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-08-fig-4-10-1055-s-0035-1550092-i1400168-4-jpg.jpg)
+*Fig. 4. Lateral (A), flexion (B), and extension (C) radiographs at 6 weeks postoperatively demonstrating no change in the location or placement of the device, without evidence of migration or... Source: [Traumatic Migration of the Bryan Cervical Disc Arthroplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC4733374/) — Global Spine Journal 2015; open access.*
+
+![Cervical Disc Arthroplasty — Fig. 5](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-09-fig-5-10-1055-s-0035-1550092-i1400168-5-jpg.jpg)
+*Fig. 5. Anteroposterior (A) and lateral (B) radiographs at 3 months postoperation demonstrating no change in position of the implant. Source: [Traumatic Migration of the Bryan Cervical Disc Arthroplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC4733374/) — Global Spine Journal 2015; open access.*
+
+![Cervical Disc Arthroplasty — Fig. 6](../../figures/curated/case-prep-cervical-disc-arthroplasty-cervical-disc-replacement/figure-10-fig-6-10-1055-s-0035-1550092-i1400168-6-jpg.jpg)
+*Fig. 6. Anteroposterior (A), lateral (B), flexion (C), and extension (D) radiographs at 6 months postoperatively showing migration of the Bryan Cervical Disc device ∼2 mm anteriorly, without... Source: [Traumatic Migration of the Bryan Cervical Disc Arthroplasty](https://pmc.ncbi.nlm.nih.gov/articles/PMC4733374/) — Global Spine Journal 2015; open access.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

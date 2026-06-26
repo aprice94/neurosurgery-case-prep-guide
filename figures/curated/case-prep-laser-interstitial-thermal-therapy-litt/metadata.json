@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC8249776",
+    "article_title": "Laser interstitial thermal therapy for NPRL3-related epilepsy with multiple seizure foci: A case report",
+    "journal": "Epilepsy & Behavior Reports",
+    "year": "2021",
+    "license": "CC BY-NC-ND",
+    "label": "Fig. 1",
+    "caption": "Heterogeneous interictal epileptiform discharges. A: Left temporal sharp wave. B: Left frontotemporal sharp wave. C: Left orbitofrontal sharp wave. High pass filter: 1 Hz. Low pass filter: 70 Hz. Sensitivity: 10 \u00b5V/mm.",
+    "href": "gr1.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-01-fig-1-gr1-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8249776.1/gr1.jpg?md5=1eabbef2929a0412c099dff076279b87"
+  },
+  {
+    "pmcid": "PMC8249776",
+    "article_title": "Laser interstitial thermal therapy for NPRL3-related epilepsy with multiple seizure foci: A case report",
+    "journal": "Epilepsy & Behavior Reports",
+    "year": "2021",
+    "license": "CC BY-NC-ND",
+    "label": "Fig. 2",
+    "caption": "Illustrations of two independent ictal onsets, depth electrode localization and post-ablation lesions. A: left hippocampal ictal onset (LHD7, 8) with propagation to the left anterior temporal (LAT1, 2) and basal temporal (LMT 1, 2) regions. B: Left orbitofrontal ictal onset (LOF1) with propagation to the left hippocampus (LHD8). C: 3D co-registration (bottom view) of pre-implant brain MRI with post-implant head CT using Curry software version 8 (Compumedics, Charlotte NC. USA). RHD, right hippocampal depth; LHD, left hippocampal depth; LAT, left anterior temporal; LMT, left mid-temporal; LPT, left posterior temporal; LOF, left orbitofrontal. Hippocampal depth electrodes were placed through occipital approach with contact 1 in the furthest anterior orientation. Lateral temporal depth electrodes were placed through the orthogonal approach with contact 1 in the furthest mesiotemporal orientation. Orbitofrontal depth electrode was placed through the oblique approach with contact 1 in the furthest mesiobasal frontal orientation. E: Post-contract brain MRI showing the post-ablation lesion in the left amygdalohippocampal complex (red arrow). F: Post-contract brain MRI showing the post-ablation lesion in left orbitofrontal region (red arrow). RHD: right hippocampal depth; LHD: left hippocampal depth; LOF: left orbitofrontal; LAT: left anterior temporal; LMT: left mid-temporal; LPT: left posterior temporal. High pass filter: 1 Hz. Low pass filter: 70 Hz. Sensitivity: 100 \u00b5V/mm.",
+    "href": "gr2.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-02-fig-2-gr2-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8249776.1/gr2.jpg?md5=e640d06d832909be5b1e430dfc2b0f3d"
+  },
+  {
+    "pmcid": "PMC12678548",
+    "article_title": "How I do it: sequential robot-assisted stereotactic biopsy and laser interstitial thermal therapy for epilepsy associated with brain tumors",
+    "journal": "Acta Neurochirurgica",
+    "year": "2025",
+    "license": "CC BY-NC-ND",
+    "label": "Fig. 1",
+    "caption": "Step 1: Robot-assisted stereotactic biopsy. A CT scan exhibiting five skull-implanted fiducials used for registration, B Skull immobilization and connection to the ROSA system using a Mayfield clamp, C Drilling a burr-hole reducer using a 3.2 mm wide reducer and power drill, D Opening of the dura using a 2.15 mm reducer, E Positioning of the ROSA arm 20 cm away from the target, to match the length of the Sedan biopsy needle, F Insertion of the biopsy needle and collection of two 5 mm long samples",
+    "href": "701_2025_6705_Fig1_HTML.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-03-fig-1-701-2025-6705-fig1-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12678548.1/701_2025_6705_Fig1_HTML.jpg?md5=01f8eedf3ce93bb4080bd835d7237016"
+  },
+  {
+    "pmcid": "PMC12678548",
+    "article_title": "How I do it: sequential robot-assisted stereotactic biopsy and laser interstitial thermal therapy for epilepsy associated with brain tumors",
+    "journal": "Acta Neurochirurgica",
+    "year": "2025",
+    "license": "CC BY-NC-ND",
+    "label": "Fig. 2",
+    "caption": "Step 2: Robot-assisted laser interstitial thermal therapy. A Placement of the guidance bold using a 1.8 mm wide reducer, B Transitory insertion of the flexible optic fiber in the cooling sheet to mark its final length, C Insertion of the rigid reducing cannula in the cooling sheath, D Annotation of the definitive length of the cooling sheet, matching the depth from the ROSA arm resting on the guidance bolt to the target minus the height of the reducer, which is 37.5 mm, E Insertion of the 1.8 mm wide cooling sheath through the guidance bolt to achieve a linear trajectory to the target, F Final insertion of the flexible optic fiber in the cooling sheet, secured by the bolt before transporting the patient to the MRI",
+    "href": "701_2025_6705_Fig2_HTML.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-04-fig-2-701-2025-6705-fig2-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12678548.1/701_2025_6705_Fig2_HTML.jpg?md5=9e5fa3f4b06d610e60f8556e76d1f24d"
+  },
+  {
+    "pmcid": "PMC12678548",
+    "article_title": "How I do it: sequential robot-assisted stereotactic biopsy and laser interstitial thermal therapy for epilepsy associated with brain tumors",
+    "journal": "Acta Neurochirurgica",
+    "year": "2025",
+    "license": "CC BY-NC-ND",
+    "label": "Fig. 3",
+    "caption": "Intraoperative installation and brain magnetic resonance imaging (MRI) of laser interstitial thermal therapy. A T1-weighted coronal view showing the position of the optical fiber and the presence of three air bubbles in the target following the stereotactic biopsy, B Thermometry sequence displaying temperature estimates in the ablation zone and in control areas of the brain, C predictive ablation model displaying the ablated zone in orange pixels. Signal dropouts at the spots of the air bubbles can be visualized on both thermometry sequence and predictive model of ablation",
+    "href": "701_2025_6705_Fig3_HTML.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-05-fig-3-701-2025-6705-fig3-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12678548.1/701_2025_6705_Fig3_HTML.jpg?md5=56e2774d947f19d9dfe0ac90b6e9e4bb"
+  },
+  {
+    "pmcid": "PMC13035459",
+    "article_title": "MR\u2010Guided Laser Interstitial Thermal Therapy for Recurrent Glioblastoma: A Case Report With Novel Insights Into Histopathological Changes and Immunological Responses",
+    "journal": "Neuropathology and Applied Neurobiology",
+    "year": "2026",
+    "license": "CC BY-NC",
+    "label": "FIGURE 1",
+    "caption": "Pre\u2010 and post\u2010LITT neuroimaging. Pre\u2010operative (A) and post\u2010operative (B) T1\u2010weighted MRI obtained with half\u2010dose gadolinium show the trajectories of the laser fibres positioned anterior to the corpus callosum in the left frontal lobe (orange) and posteriorly in the cingulate gyrus (red). Contrast\u2010enhanced T1\u2010weighted MRI (C) and 18F\u2010FET PET (D) acquired 1 month after LITT demonstrate contrast enhancement and high\u2010intensity 18F\u2010FET signal adjacent to the ablated areas, both anterior to the corpus callosum and in the posterior cingulate gyrus.",
+    "href": "NAN-52-e70071-g001.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-06-figure-1-nan-52-e70071-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13035459.1/NAN-52-e70071-g001.jpg?md5=a145d751e5b6e8f969b5309164f8f939"
+  },
+  {
+    "pmcid": "PMC13035459",
+    "article_title": "MR\u2010Guided Laser Interstitial Thermal Therapy for Recurrent Glioblastoma: A Case Report With Novel Insights Into Histopathological Changes and Immunological Responses",
+    "journal": "Neuropathology and Applied Neurobiology",
+    "year": "2026",
+    "license": "CC BY-NC",
+    "label": "FIGURE 2",
+    "caption": "Histological analysis of the two lesions following thermal laser ablation. (A) Macroscopic photographs of the first sample taken before and after sectioning, along with an H&E overview staining of a representative cross\u2010section. The dotted line indicates the cutting plane. * = bleeding, X = necrosis. (B) H&E close\u2010up images from selected areas showed an outer rim densely populated by macrophages and lymphocytes, surrounding an inner ablation zone characterised by coagulation necrosis (1) and sparse viable cells (2). (C) Immunohistochemical analysis of region (3) on serial sections demonstrated abundant CD68+, CD163+ and PD\u2010L1+ macrophages, along with scattered CD8+ T lymphocytes, and a few scattered FOXP3+ lymphocytes. (D) Macroscopic photographs of the second sample pre\u2010 and post\u2010sectioning, alongside H&E overview stains of the two representative cross\u2010sections. The dotted lines indicate the cutting plane. (E) H&E and immunohistochemical stains of the area in (4) representing the perilesional transition zone. (F) H&E and immunohistochemical stains of the area in (5) representing outer dense tumour tissue. Comparison between these areas reveals that the perilesional zone exhibited lower tumour cellularity compared to the outer dense tumour tissue, with moderate immune cell infiltration, including CD68+ and CD163+ subsets of tumour\u2010associated microglia/macrophages that were observed around the blood vessels, along with a consistent presence of CD3+ T cells. In the perilesional transition zone, there was also a slightly higher proportion of CD8+ and FOXP3+ lymphocytes compared to the outer dense tumour tissue.",
+    "href": "NAN-52-e70071-g002.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-07-figure-2-nan-52-e70071-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13035459.1/NAN-52-e70071-g002.jpg?md5=ead6b822d331d7e654a6451f55c741ba"
+  },
+  {
+    "pmcid": "PMC13035459",
+    "article_title": "MR\u2010Guided Laser Interstitial Thermal Therapy for Recurrent Glioblastoma: A Case Report With Novel Insights Into Histopathological Changes and Immunological Responses",
+    "journal": "Neuropathol Appl Neurobiol. 2026 Mar 30;52(2):e70071. doi: 10.1111/nan.70071",
+    "year": "",
+    "license": "CC BY-NC",
+    "label": "Figure 8",
+    "caption": "",
+    "href": "NAN-52-e70071-g003.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-08-figure-8-nan-52-e70071-g003-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13035459.1/NAN-52-e70071-g003.jpg?md5=c3dbbd7f08cd10ea5b67f1e85f28adf5"
+  },
+  {
+    "pmcid": "PMC8248111",
+    "article_title": "Prolonged survival after laser interstitial thermal therapy in glioblastoma",
+    "journal": "Surgical Neurology International",
+    "year": "2021",
+    "license": "CC BY-NC-SA",
+    "label": "Figure 1:",
+    "caption": "Pre and postoperative MRI. (a) Representative preoperative T1 contrast enhanced (left) and FLAIR (right) images. (b) Representative 46.9-month post-LITT T1 contrast enhanced (left) and FLAIR (right) images.",
+    "href": "SNI-12-228-g001.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-09-figure-1-sni-12-228-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8248111.1/SNI-12-228-g001.jpg?md5=96bb3c956f1a7b2faa943551d1862ec9"
+  },
+  {
+    "pmcid": "PMC8248111",
+    "article_title": "Prolonged survival after laser interstitial thermal therapy in glioblastoma",
+    "journal": "Surgical Neurology International",
+    "year": "2021",
+    "license": "CC BY-NC-SA",
+    "label": "Figure 2:",
+    "caption": "Intraoperative and immediate postoperative MRI. (a) Intraoperative MRI demonstrating laser probe position. (b) Immediate postoperative T1-weighterd post-contrast and diffusion-weighted images.",
+    "href": "SNI-12-228-g002.jpg",
+    "local": "figures/curated/case-prep-laser-interstitial-thermal-therapy-litt/figure-10-figure-2-sni-12-228-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8248111.1/SNI-12-228-g002.jpg?md5=8f58619d3484cbfbc71691368d83bb29"
+  }
+]

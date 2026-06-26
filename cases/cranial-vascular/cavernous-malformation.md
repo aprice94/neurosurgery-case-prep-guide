@@ -20,14 +20,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebral+cavernous+malformation+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Natural history** — Al-Shahi Salman R et al. *Lancet Neurol* 2012 — prospective hemorrhage risk of cerebral cavernous malformations. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Al-Shahi+Salman+cerebral+cavernous+malformations+prospective+2012+Lancet+Neurology)
-- **Guidelines:** [AHA/ASA Stroke guidelines](https://professional.heart.org/en/guidelines-and-statements) · [CNS](https://www.cns.org/guidelines)
-
-![Arteries of the base of the brain (vascular context)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
-
-*Sobotta 1909, public domain — via Wikimedia Commons.*
 
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
 
@@ -39,6 +31,76 @@ tags:
 
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=cerebral+cavernous+malformation+resection)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Cerebral Cavernous Malformation: From Genetics to Pharmacotherapy** — Zhang Z. Brain and behavior 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39740786/)
+- **Cavernous malformation** — Macdonald RL. Journal of neurosurgery 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23039147/)
+- **Cerebral Cavernous Malformation Proteins in Barrier Maintenance and Regulation** — Wei S. International journal of molecular sciences 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31968585/)
+- **Circulating biomarkers in familial cerebral cavernous malformation** — Lazzaroni F. EBioMedicine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38113759/)
+- **Cerebral cavernous malformation remnants after surgery: a single-center series with long-term bleeding risk analysis** — Fontanella MM. Neurosurgical review 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33211201/)
+- **Inflammatory Mechanisms in a Neurovascular Disease: Cerebral Cavernous Malformation** — Li Y. Brain sciences 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37759937/)
+- **Intracranial meningioma and concomitant cavernous malformation: A series description and review of the literature** — Missori P. Clinical neurology and neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32861039/)
+- **Hemorrhage owing to cerebral cavernous malformation: imaging, clinical, and histopathological considerations** — Kurihara N. Japanese journal of radiology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32221793/)
+- **Surgical treatment of cavernous malformation-related epilepsy in children: case series, systematic review, and meta-analysis** — Bosisio L. Neurosurgical review 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38819574/)
+- **Giant Cavernous Malformation Mimicking an Infiltrative Intracranial Neoplasm in Children-Case Report and Systematic Review of the Literature** — González-Gallardo E. World neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36889633/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Cavernous Malformation Resection — Fig. 1](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-01-fig-1-10-1055-s-0043-1772765-i2340015-1-jpg.jpg)
+*Fig. 1. Magnetic resonance imaging brain showing right posterior frontal heterogeneously hyperintense cortical lesion with intralesional hematoma and thrombosis ( white arrow ) suggestive of... Source: [Intracranial Cavernous Malformation with Concomitant Isolated Cerebral Mucormycosis Infection: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093628/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Cavernous Malformation Resection — Fig. 2](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-02-fig-2-10-1055-s-0043-1772765-i2340015-2-jpg.jpg)
+*Fig. 2. Resected lesion composed of many closely packed anastomosing congested vascular channels having no muscularization. Some of the channels showed presence of fresh thrombus ( white arrow )... Source: [Intracranial Cavernous Malformation with Concomitant Isolated Cerebral Mucormycosis Infection: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093628/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Cavernous Malformation Resection — Fig. 3](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-03-fig-3-10-1055-s-0043-1772765-i2340015-3-jpg.jpg)
+*Fig. 3. Few vessels were obliterated with the Mucor colonies and showed calcification ( white arrow ) (400 × , hematoxylin and eosin) ( A ). Gomori methenamine silver (GMS) staining highlights... Source: [Intracranial Cavernous Malformation with Concomitant Isolated Cerebral Mucormycosis Infection: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11093628/) — Asian Journal of Neurosurgery 2023; CC BY-NC-ND.*
+
+![Cavernous Malformation Resection — Fig. 1](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-04-fig-1-gr1-jpg.jpg)
+*Fig. 1. Axial- and coronal-view MRI and FDG-PET. T2-weighted MRI reveals a popcorn lesion with central hyperintensity and a peripheral hypointense rim in the left amygdala (A). This finding is... Source: [False lateralization of scalp EEG and semiology in cavernous malformation-associated temporal lobe epilepsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10368837/) — Heliyon 2023; CC BY.*
+
+![Cavernous Malformation Resection — Fig. 2](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-05-fig-2-gr2-jpg.jpg)
+*Fig. 2. Long-term video scalp EEG during a seizure (amplitude, 10 μV; time constant, 0.1; high frequency filter, 60 Hz; average referential montage). Left, right, and central EEG findings are... Source: [False lateralization of scalp EEG and semiology in cavernous malformation-associated temporal lobe epilepsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10368837/) — Heliyon 2023; CC BY.*
+
+![Cavernous Malformation Resection — Fig. 3](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-06-fig-3-gr3-jpg.jpg)
+*Fig. 3. Intracranial EEG during seizure (amplitude, 75 μV; time constant, 2.0 s; high frequency filter, 120 Hz). SEEG leads were inserted into the right amygdala and bilateral hippocampus (image... Source: [False lateralization of scalp EEG and semiology in cavernous malformation-associated temporal lobe epilepsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10368837/) — Heliyon 2023; CC BY.*
+
+![Cavernous Malformation Resection — Figure 1](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-07-figure-1-cureus-0014-00000022815-i01-jpg.jpg)
+*Figure 1. Gamma Knife stereotactic radiosurgery planning MRI.Axial contrast-enhanced T1-weighted (A) and T2-weighted FLAIR brain MRI (B) at the time of Gamma Knife stereotactic radiosurgery... Source: [Recurrent Radiation-Induced Cavernous Malformation After Gamma Knife Stereotactic Radiosurgery for Brain Metastasis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8976526/) — Cureus 2022; CC BY.*
+
+![Cavernous Malformation Resection — Figure 2](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-08-figure-2-cureus-0014-00000022815-i02-jpg.jpg)
+*Figure 2. MRI 3 months after Gamma Knife stereotactic radiosurgery. Axial contrast-enhanced T1-weighted (A) and T2-weighted FLAIR brain MRI (B) obtained 3 months after Gamma Knife stereotactic... Source: [Recurrent Radiation-Induced Cavernous Malformation After Gamma Knife Stereotactic Radiosurgery for Brain Metastasis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8976526/) — Cureus 2022; CC BY.*
+
+![Cavernous Malformation Resection — Figure 3](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-09-figure-3-cureus-0014-00000022815-i03-jpg.jpg)
+*Figure 3. MRI 30 months after Gamma Knife stereotactic radiosurgery.Axial contrast-enhanced T1-weighted (A) and T2-weighted FLAIR brain MRI (B) obtained 30 months after Gamma Knife stereotactic... Source: [Recurrent Radiation-Induced Cavernous Malformation After Gamma Knife Stereotactic Radiosurgery for Brain Metastasis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8976526/) — Cureus 2022; CC BY.*
+
+![Cavernous Malformation Resection — Figure 4](../../figures/curated/case-prep-cavernous-malformation-cavernoma-resection/figure-10-figure-4-cureus-0014-00000022815-i04-jpg.jpg)
+*Figure 4. MRI 40 months after Gamma Knife stereotactic radiosurgery, 8 months after resection.Axial contrast-enhanced T1-weighted (A) and T2-weighted FLAIR brain MRI (B) obtained eight months... Source: [Recurrent Radiation-Induced Cavernous Malformation After Gamma Knife Stereotactic Radiosurgery for Brain Metastasis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8976526/) — Cureus 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

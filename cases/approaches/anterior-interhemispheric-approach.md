@@ -14,14 +14,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=Anterior+Interhemispheric+Approach+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Interhemispheric/transcallosal anatomy** — corpus callosum, pericallosal arteries, and venous corridor literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=anterior+interhemispheric+transcallosal+approach+surgical+anatomy)
-- **Intraventricular lesion surgery** — callosotomy length, disconnection risk, and approach selection literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=transcallosal+approach+intraventricular+tumors+outcomes+complications)
-
-![Ventricular system — lateral & third ventricles (interhemispheric / transcallosal corridor)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC-BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
 >
@@ -81,7 +73,7 @@ The anterior interhemispheric approach exploits the **natural midline corridor b
 
 ## 5. Step-by-Step Technique
 
-### 5a. Positioning  📷 [Atlas -- positioning](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/interhemispheric-craniotomy)
+### 5a. Positioning
 - **Supine**, head in Mayfield 3-pin fixation, **elevated 15--20 degrees** above the heart (reverse Trendelenburg) for venous drainage and gravity-assisted hemispheric retraction.
 - **Mayfield pins:** double-pin rocker on the contralateral side (low, behind the ear), single pin ipsilaterally -- placed well behind the planned incision line.
 - **Head position:** neutral or rotated **10--15 degrees toward the surgeon** (right side up if approaching from the right) to allow the dependent hemisphere to fall away from the falx. Some surgeons prefer a fully neutral head with the sagittal sinus oriented vertically.
@@ -94,7 +86,7 @@ The anterior interhemispheric approach exploits the **natural midline corridor b
 - Place burr holes on either side of the SSS; carefully dissect dura off the underlying sinus with a Penfield #3 before completing osteotomies across the midline. The cross-midline osteotomy is the most hazardous cut -- keep the footplate angled away from the sinus and irrigate continuously.
 - *Pitfall:* the SSS is often **off-midline** (deviated slightly to the right in many patients). Use navigation to confirm the true sinus location before placing burr holes.
 
-### 5c. Dural Opening & Interhemispheric Dissection  📷 [Atlas -- interhemispheric dissection](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/interhemispheric-craniotomy)
+### 5c. Dural Opening & Interhemispheric Dissection
 - Open dura in a **C-shaped flap based on the SSS** -- incise parallel to and ~5 mm from the sinus edge, reflect medially. Place **tack-up sutures** along the sinus edge to control epidural bleeding and maximize the corridor width. Additional tack-ups laterally prevent the dural edge from folding into the operative field.
 - **Interhemispheric entry:** identify and **preserve all bridging veins**. If a vein crosses the intended corridor, work anterior or posterior to it -- dissect arachnoid off the vein to gain additional length/mobility, but never stretch or avulse it.
 - Gently retract the medial frontal cortex laterally using cottonoid patties and the surgeon's awareness of gravity; let the hemisphere fall away naturally. **Avoid fixed retractors when possible** -- if used, release every 10--15 minutes and reposition cottonoids to distribute pressure.
@@ -166,3 +158,73 @@ Venous infarction (bridging vein sacrifice); memory deficit (fornix injury -- un
 5. Milligan BD, Meyer FB. Morbidity of transcallosal and transcortical approaches to lesions in and around the lateral and third ventricles: a single-institution experience. *Neurosurgery.* 2010;67(6):1483--1496.
 6. Kasper EM, Kasper BS, Germen J. Transcallosal approach to the third ventricle: surgical anatomy and technique. *Oper Neurosurg.* 2019;17(Suppl 1):S31--S42.
 7. The Neurosurgical Atlas (Cohen-Gadol AA) -- Interhemispheric Craniotomy & Transcallosal Approach chapters (operative figures/videos, linked).
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool** — Swiatek VM. Neurosurgical review 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39069603/)
+- **Surgical strategy for distal anterior cerebral artery aneurysms: microsurgical anatomy** — Kawashima M. Journal of neurosurgery 2003. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12959440/)
+- **Anatomical step-by-step dissection of common approaches to the third ventricle for trainees: surgical anatomy of the anterior transcortical and interhemispheric transcallosal approaches, surgical principles, and illustrative pediatric cases** — Dang DD. Acta neurochirurgica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37418043/)
+- **Microsurgical interhemispheric approach to dural arteriovenous fistulas of the floor of the anterior cranial fossa** — Mayfrank L. Minimally invasive neurosurgery : MIN 1996. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8892285/)
+- **Occipital Interhemispheric Transtentorial Approach for Microsurgical Resection of a Ruptured Vermian Arteriovenous Malformation: Three-Dimensional Operative Video** — Karadimas SK. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36228935/)
+- **Interhemispheric Approach with Early A1 Exposure for Clipping Anterior Communicating Artery Aneurysms: Operative Techniques and Outcomes** — Wongsuriyanan S. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32165343/)
+- **Anterior interhemispheric transsplenial approach to pineal region tumors: anatomical study and illustrative case** — Yağmurlu K. Journal of neurosurgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28084911/)
+- **Operative Management of Distal Anterior Cerebral Artery Aneurysms Through a Mini Anterior Interhemispheric Approach** — Monroy-Sosa A. World neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28919562/)
+- **Tailored Callosotomy in Third Ventricle Colloid Cyst Resection via Anterior Interhemispheric Transcallosal Approach** — Ozoner B. World neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39952402/)
+- **Minimally invasive medial supraorbital, combined subfrontal-interhemispheric approach to the anterior communicating artery complex-a cadaveric study** — Spiessberger A. Acta neurochirurgica 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28386838/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Anterior Interhemispheric Approach — Fig. 1](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-01-fig-1-10143-2024-2592-fig1-html-jpg.jpg)
+*Fig. 1. This figure illustrates the surgical approaches utilized, showing both the craniotomy and the microsurgical perspective of the aneurysm and potential angulations. The color coding is... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 2](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-02-fig-2-10143-2024-2592-fig2-html-jpg.jpg)
+*Fig. 2. Flow chart illustrating the determination of the study-cohort according to the inclusion criteria and the final cohort matching (AcomA; Anterior communicating artery aneurysm) Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 3](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-03-fig-3-10143-2024-2592-fig3-html-jpg.jpg)
+*Fig. 3. Fig. 3 presents a schematic depiction of the FDA relative to the frontal base. The angles are classified into four categories: category 1 (0–90°) depicted in purple, category 2 (90–180°)... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 4](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-04-fig-4-10143-2024-2592-fig4-html-jpg.jpg)
+*Fig. 4. Schematic representation of the matching process following cohort identification. The figure illustrates how 14 through AIA operated AcomA were matched with 36 pterionally approached... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 5](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-05-fig-5-10143-2024-2592-fig5-html-jpg.jpg)
+*Fig. 5. In the matching process, situations arose where an already matched PA treated AcomA was selected as the most similar in additional cases. Among the seven unruptured cases (highlighted in... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 6](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-06-fig-6-10143-2024-2592-fig6-html-jpg.jpg)
+*Fig. 6. Ruptured cases are indicated in blue, while unruptured cases are depicted in grey. The x-axis represents the number of cases. Panel (A) illustrates the distribution of mRS scores at... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 7](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-07-fig-7-10143-2024-2592-fig7-html-jpg.jpg)
+*Fig. 7. (A) the rate of complete occlusion, and (B) the dispersion of scores on the mRS among patients with AcomA. Comparative analyses are conducted between two distinct cohorts: one operated... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 8](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-08-fig-8-10143-2024-2592-fig8-html-jpg.jpg)
+*Fig. 8. Comparateive evaluations of AcomA managed via AIA and PA, specifically focusing on (A) the incidence of postoperative hydrocephalus, (B) the consequent need for ventriculoperitoneal... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 9](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-09-fig-9-10143-2024-2592-fig9-html-jpg.jpg)
+*Fig. 9. Comparison between AIA and PA to manage AcomA, detailing (A) the frequency of temporary clipping and (B) its subsequent association with postoperative strokes, along with (C) the... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
+![Anterior Interhemispheric Approach — Fig. 1](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-10-fig-1-381-2026-7336-fig1-html-jpg.jpg)
+*Fig. 1. A–E. Step-by-step dissection illustrating the supracerebellar infratentorial (SCIT) approach Source: [What is the best surgical approach for Pineal Region Tumors? A systematic literature review and anatomical comparative study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230278/) — Child's Nervous System 2026; CC BY.*
+
+<!-- END CURATED IMAGE SET -->

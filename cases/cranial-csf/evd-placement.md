@@ -25,16 +25,76 @@ tags:
 - **Imaging review:** [Radiopaedia — EVD](https://radiopaedia.org/search?q=external%20ventricular%20drain&scope=all) · [Radiopaedia — hydrocephalus](https://radiopaedia.org/search?q=hydrocephalus&scope=all)
 - **Open-access anatomy/technique:** [PubMed Central — EVD Kocher point](https://www.ncbi.nlm.nih.gov/pmc/?term=external+ventricular+drain+Kocher+point+ventriculostomy)
 
-**📑 Key evidence — landmark trials & guidelines**
 
-- **CLEAR III** — Hanley DF et al. *Lancet* 2017 — intraventricular alteplase via EVD for IVH; know the survival/function tradeoffs and clot-clearance endpoints. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hanley+CLEAR+III+intraventricular+alteplase+2017+Lancet)
-- **Severe TBI guidelines** — Brain Trauma Foundation 4th ed. — indications for ICP monitoring/CSF drainage in severe TBI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Brain+Trauma+Foundation+severe+TBI+guidelines+2017+ICP+monitoring)
-- **Ventriculitis prevention/management** — IDSA healthcare-associated ventriculitis/meningitis guideline. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=IDSA+healthcare-associated+ventriculitis+meningitis+guidelines+2017)
-- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
+---
 
-![Ventricular system — lateral & third ventricles, foramen of Monro (the EVD target)](../../figures/anatomy/ventricles_gray734.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **External ventricular drain management in subarachnoid haemorrhage: a systematic review and meta-analysis** — Palasz J. Neurosurgical review 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34448080/)
+- **External Ventricular Drain Misadministration Events: Systematic Literature Review and Report of a Case** — Abramyan A. Operative neurosurgery (Hagerstown, Md.) 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39625296/)
+- **Is Image Guidance Essential for External Ventricular Drain Insertion?** — Fisher B. World neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34555577/)
+- **Effect of External Ventricular Drain Tunnel Length on Cerebrospinal Fluid Infection Rates-A Bayesian Network Meta-Analysis** — Garg K. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34774808/)
+- **Risk Factors of External Ventricular Drain Infection: Proposing a Model for Future Studies** — Sorinola A. Frontiers in neurology 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30930840/)
+- **Silver-impregnated external-ventricular-drain-related cerebrospinal fluid infections: a meta-analysis** — Atkinson RA. The Journal of hospital infection 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26601606/)
+- **Impact of an External Ventricular Drain Placement and Handling Protocol on Infection Rates: A Meta-Analysis and Single Institution Experience** — Sieg EP. World neurosurgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29621608/)
+- **Rapid Versus Gradual Weaning of External Ventricular Drain: A Systematic Literature Review and Meta-analysis** — Ebel F. Neurocritical care 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37308728/)
+- **Chlorhexidine dressings could reduce external ventricular drain infections: results from a systematic review and meta-analysis** — Waqar M. The Journal of hospital infection 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34174379/)
+- **Management of external ventricular drain: to wean or not to wean?** — Hallenberger TJ. Acta neurochirurgica 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38954061/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![External Ventricular Drain Placement — Fig. 1](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-01-fig-1-13052-2025-1995-fig1-html-jpg.jpg)
+*Fig. 1. (A) The puncture position of M-EVD group. (B) The position of the drainage tube in the M-EVD group Source: [Clinical characteristics and post-operative outcomes in children with purulent meningitis with hydrocephalus: 46 cases in a single center study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12090619/) — Italian Journal of Pediatrics 2025; CC BY-NC-ND.*
+
+![External Ventricular Drain Placement — Figure 1:](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-02-figure-1-rjy215f01-jpg.jpg)
+*Figure 1:. 3D reconstruction of fractured skull. Source: [Traumatic cerebrospinal fluid oculorrhea managed with an external ventricular drain](https://pmc.ncbi.nlm.nih.gov/articles/PMC6105105/) — Journal of Surgical Case Reports 2018; CC BY-NC.*
+
+![External Ventricular Drain Placement — Figure 2:](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-03-figure-2-rjy215f02-jpg.jpg)
+*Figure 2:. Right medial orbital wall fracture showing route of CSF leak. Source: [Traumatic cerebrospinal fluid oculorrhea managed with an external ventricular drain](https://pmc.ncbi.nlm.nih.gov/articles/PMC6105105/) — Journal of Surgical Case Reports 2018; CC BY-NC.*
+
+![External Ventricular Drain Placement — Figure 1](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-04-figure-1-cureus-0014-00000024066-i01-jpg.jpg)
+*Figure 1. Scoliosis standing X-ray shows significant positive balance with pronounced thoracic kyphosis (A). Sagittal CT without contrast show T12, L1, L2, and L3 compression fractures with severe... Source: [Use of an External Ventricular Drain for Treatment of a Thoracolumbar Cerebrospinal Fluid Leak: A Case Report and Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097466/) — Cureus 2022; CC BY.*
+
+![External Ventricular Drain Placement — Figure 2](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-05-figure-2-cureus-0014-00000024066-i02-jpg.jpg)
+*Figure 2. Sagittal (A & B) and axial (C) pre-operative MRI show severe compression at the level of T12 and L1. Source: [Use of an External Ventricular Drain for Treatment of a Thoracolumbar Cerebrospinal Fluid Leak: A Case Report and Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097466/) — Cureus 2022; CC BY.*
+
+![External Ventricular Drain Placement — Figure 3](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-06-figure-3-cureus-0014-00000024066-i03-jpg.jpg)
+*Figure 3. Post-operative X-rays show well-seated T9-L4 posterolateral instrumentation with cement augmentation. Source: [Use of an External Ventricular Drain for Treatment of a Thoracolumbar Cerebrospinal Fluid Leak: A Case Report and Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097466/) — Cureus 2022; CC BY.*
+
+![External Ventricular Drain Placement — Figure 4](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-07-figure-4-cureus-0014-00000024066-i04-jpg.jpg)
+*Figure 4. Post-operative CT of the brain without contrast shows scattered subarachnoid blood with some layering on the lateral ventricles along with small amounts of pneumocephalus. Source: [Use of an External Ventricular Drain for Treatment of a Thoracolumbar Cerebrospinal Fluid Leak: A Case Report and Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097466/) — Cureus 2022; CC BY.*
+
+![External Ventricular Drain Placement — Figure 5](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-08-figure-5-cureus-0014-00000024066-i05-jpg.jpg)
+*Figure 5. Coronal (A) and axial (B) CT of the brain without contrast showing proper placement of an external ventricular drain. Source: [Use of an External Ventricular Drain for Treatment of a Thoracolumbar Cerebrospinal Fluid Leak: A Case Report and Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097466/) — Cureus 2022; CC BY.*
+
+![External Ventricular Drain Placement — Fig 1](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-09-fig-1-gr1-jpg.jpg)
+*Fig 1. External ventricular drain (EVD) introduced posterior to retractors and left common carotid artery. Source: [External ventricular drain as a nontraumatic suction device in carotid endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC5757791/) — Journal of Vascular Surgery Cases and Innovative Techniques 2017; CC BY-NC-ND.*
+
+![External Ventricular Drain Placement — Fig 2](../../figures/curated/case-prep-external-ventricular-drain-evd-placement/figure-10-fig-2-gr2-jpg.jpg)
+*Fig 2. External ventricular drain (EVD) connected to regulated suction device. Source: [External ventricular drain as a nontraumatic suction device in carotid endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC5757791/) — Journal of Vascular Surgery Cases and Innovative Techniques 2017; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

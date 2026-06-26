@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spinal+gunshot+injury+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Penetrating spine injury** — indications for decompression, dural repair, antibiotics, and bullet removal. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=penetrating+spinal+injury+gunshot+surgery+dural+repair+antibiotics)
-- **Civilian GSW spine outcomes** — neurologic recovery and operative vs nonoperative management literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=civilian+gunshot+wound+spine+operative+nonoperative+neurologic+recovery)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20gunshot%20injury&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=penetrating+spinal+injury+gunshot) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (injured by penetrating trajectory)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Penetrating spine injury bisecting thoracic spinal canal with no significant neurological deficits-The midline cord syndrome** — Sarkar B. Spinal cord series and cases 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30455986/)
+- **Spinal Cord Stimulation for Painful Neuropathic Cauda Equina Syndrome Following Ballistic Penetrating Lumbar Spine Injury: Proof-of-Concept Case** — Beucler N. Military medicine 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41092286/)
+- **Brown-Séquard Syndrome Following a Thoracic Spine Stab Wound: A Case Report** — Moreira TS. Cureus 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37954796/)
+- **Penetrating spinal injury with a wooden fragment: a case report and review of the literature** — Gul S. Spine 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21102287/)
+- **Surgical Considerations and Neurological Outcomes in Ballistic Penetrating Subaxial Cervical Spine Fractures: A Retrospective Analysis** — Batbold A. Clinical spine surgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41025847/)
+- **Brown-Sequard syndrome associated with a spinal cord injury caused by a retained screwdriver: A case report and literature review** — Abdulqader MN. Surgical neurology international 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36447879/)
+- **Minimally invasive approach to non-missile penetrating spinal injury with resultant retained foreign body: A case report and review of the literature** — Moldovan K. Clinical neurology and neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31302378/)
+- **Gunshot wound causing complete spinal cord injury without mechanical violation of spinal axis: Case report with review of literature** — Patil R. Journal of craniovertebral junction & spine 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26692690/)
+- **A case series of penetrating spinal trauma: comparisons to blunt trauma, surgical indications, and outcomes** — Morrow KD. Neurosurgical focus 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30835674/)
+- **A Unique Case of an Arrow-Related Penetrating Spinal Cord Injury in Kenya and a Comprehensive Literature Review** — Chelmis FS. Journal of neurological surgery reports 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41704584/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Penetrating Spine Injury Management — Figure 1](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-01-figure-1-jcvjs-6-149-g001-jpg.jpg)
+*Figure 1. X-ray chest lateral view showing the bullet with no bony injuries Source: [Gunshot wound causing complete spinal cord injury without mechanical violation of spinal axis: Case report with review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC4660489/) — Journal of Craniovertebral Junction & Spine 2015; CC BY-NC-SA.*
+
+![Penetrating Spine Injury Management — Figure 2](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-02-figure-2-jcvjs-6-149-g002-jpg.jpg)
+*Figure 2. Computed tomography scan of the thorax and abdomen Source: [Gunshot wound causing complete spinal cord injury without mechanical violation of spinal axis: Case report with review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC4660489/) — Journal of Craniovertebral Junction & Spine 2015; CC BY-NC-SA.*
+
+![Penetrating Spine Injury Management — Figure 3](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-03-figure-3-jcvjs-6-149-g003-jpg.jpg)
+*Figure 3. Magnetic resonance imaging dorso-lumbar spine (sagittal view) showing cord contusion at D11-L1 vertebral level Source: [Gunshot wound causing complete spinal cord injury without mechanical violation of spinal axis: Case report with review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC4660489/) — Journal of Craniovertebral Junction & Spine 2015; CC BY-NC-SA.*
+
+![Penetrating Spine Injury Management — Figure 4](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-04-figure-4-jcvjs-6-149-g004-jpg.jpg)
+*Figure 4. Magnetic resonance imaging dorso-lumbar spine coronal view showing cord contusion at D11-L1 vertebral level Source: [Gunshot wound causing complete spinal cord injury without mechanical violation of spinal axis: Case report with review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC4660489/) — Journal of Craniovertebral Junction & Spine 2015; CC BY-NC-SA.*
+
+![Penetrating Spine Injury Management — Figure 5](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-05-figure-5-jcvjs-6-149-g005-jpg.jpg)
+*Figure 5. Topogram image of computed tomography scan Thorax and abdomen showing bullet in right lateral chest wall Source: [Gunshot wound causing complete spinal cord injury without mechanical violation of spinal axis: Case report with review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC4660489/) — Journal of Craniovertebral Junction & Spine 2015; CC BY-NC-SA.*
+
+![Penetrating Spine Injury Management — Figure 6](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-06-figure-6-jcvjs-6-149-g006-jpg.jpg)
+*Figure 6. Systematic management of GSW of spine Source: [Gunshot wound causing complete spinal cord injury without mechanical violation of spinal axis: Case report with review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC4660489/) — Journal of Craniovertebral Junction & Spine 2015; CC BY-NC-SA.*
+
+![Penetrating Spine Injury Management — Fig. 1](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-07-fig-1-10-1055-s-0042-1750310-i32121-1-jpg.jpg)
+*Fig. 1. Computed tomography cervical spine: ( A , B ) Sagittal images showing the path of impaled knife passing through C5 lamina, across the spinal canal onto C6 vertebral body. ( C ) Axial... Source: [Role of Whole-Body Computed Tomography Scan to Avoid Missed Foreign Body in Patients with Multiple Stab Injury: A Rare Case of Retained Impaled Knife Blade with Intact Neurology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9473809/) — Asian Journal of Neurosurgery 2022; CC BY-NC-ND.*
+
+![Penetrating Spine Injury Management — Fig. 2](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-08-fig-2-10-1055-s-0042-1750310-i32121-2-jpg.jpg)
+*Fig. 2. Intraoperative images showing ( A ) incised wound over the posterior aspect of the neck with a visible broken knife blade below the skin, ( B ) wound exploration around knife blade that... Source: [Role of Whole-Body Computed Tomography Scan to Avoid Missed Foreign Body in Patients with Multiple Stab Injury: A Rare Case of Retained Impaled Knife Blade with Intact Neurology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9473809/) — Asian Journal of Neurosurgery 2022; CC BY-NC-ND.*
+
+![Penetrating Spine Injury Management — Fig. 3](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-09-fig-3-10-1055-s-0042-1750310-i32121-3-jpg.jpg)
+*Fig. 3. Postoperative magnetic resonance imaging: ( A ) Sagittal T2-weighted sequence with normal cord without evidence of cerebrospinal fluid leak and ( B ) diffusion tensor imaging... Source: [Role of Whole-Body Computed Tomography Scan to Avoid Missed Foreign Body in Patients with Multiple Stab Injury: A Rare Case of Retained Impaled Knife Blade with Intact Neurology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9473809/) — Asian Journal of Neurosurgery 2022; CC BY-NC-ND.*
+
+![Penetrating Spine Injury Management — Figure 1](../../figures/curated/case-prep-penetrating-spine-injury-gunshot-stab-management/figure-10-figure-1-cureus-0015-00000046917-i01-jpg.jpg)
+*Figure 1. A computed tomography scan depicting the penetrating object crossing the T8 vertebral body (blue arrow). Source: [Brown-Séquard Syndrome Following a Thoracic Spine Stab Wound: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10639128/) — Cureus 2023; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -21,16 +21,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebral+aneurysm+coiling+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **ISAT** — coiling vs clipping after aneurysmal SAH. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Molyneux+International+Subarachnoid+Aneurysm+Trial+2002+Lancet)
-- **Flow diversion** — treatment durability and antiplatelet-risk literature for wide-neck/fusiform aneurysms. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=flow+diversion+intracranial+aneurysm+long+term+outcomes+antiplatelet)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20aneurysm%20coiling&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=endovascular+coiling+flow+diversion+aneurysm) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Arteries of the base of the brain — circle of Willis (aneurysm sites)](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909, public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Vascular anatomy:** Rhoton Cranial Anatomy; Decision Making in Neurovascular Disease; Practical Neuroangiography — confirm parent-vessel anatomy, perforators, venous drainage, collateral pathways, and endovascular access/rescue options.
+- **Operative/endovascular strategy:** Youmans and Winn; Schmidek and Sweet; Greenberg — summarize proximal control, exposure/device strategy, temporary-control options, and bailout plans in your own words.
+- **Complication rescue:** Greenberg; Decision Making in Neurovascular Disease — review ischemia, hemorrhage, thromboembolism, rupture, vasospasm, and postoperative surveillance algorithms.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Which Endovascular Aneurysm Repair Graft Should I Have?** — Narayanan A. European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38522568/)
+- **The Nellix endovascular aneurysm sealing system: current perspectives** — Choo XY. Medical devices (Auckland, N.Z.) 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30858738/)
+- **Percutaneous Endovascular Aneurysm Repair: Current Status and Future Trends** — Watts MM. Seminars in interventional radiology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33041479/)
+- **Laparoscopy versus endovascular aneurysm repair for abdominal aortic aneurysm: A systematic review** — Duric B. Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38924318/)
+- **Intra-operative computed tomography in endovascular aneurysm repair** — Hansrani V. VASA. Zeitschrift fur Gefasskrankheiten 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31904305/)
+- **Surveillance Imaging following Endovascular Aneurysm Repair: State of the Art** — Kim SH. Seminars in interventional radiology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33041481/)
+- **Complications of thoracic endovascular aneurysm repair (TEVAR): A pictorial review** — Awiwi MO. Current problems in diagnostic radiology 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38777715/)
+- **A Comparison of Endovascular Aneurysm Repair and Open Repair for Ruptured Aortic Abdominal Aneurysms** — Alnefaie SA. Cureus 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35812617/)
+- **A Meta-Analysis of Mid-Term Outcomes of Endovascular Aneurysm Sealing** — Kouvelos G. Journal of endovascular therapy : an official journal of the International Society of Endovascular Specialists 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35674455/)
+- **Best Practice Guidelines: Imaging Surveillance After Endovascular Aneurysm Repair** — Smith T. AJR. American journal of roentgenology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32130043/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Endovascular Aneurysm Treatment — Figure 1.](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-01-figure-1-10-1177-2050312113519986-fig1-jpg.jpg)
+*Figure 1.. Flow chart over operations for aorto-iliac aneurysms and dissections during the study period.EVAR: endovascular aneurysm repair.*Two emergency cases.#Eight pseudoaneurysms in the... Source: [Comparable mid-term survival in patients undergoing elective fenestrated endovascular aneurysm repair and endovascular aneurysm repair for abdominal aortic aneurysm](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607194/) — SAGE Open Medicine 2014; CC BY-NC.*
+
+![Endovascular Aneurysm Treatment — Figure 2.](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-02-figure-2-10-1177-2050312113519986-fig2-jpg.jpg)
+*Figure 2.. Long-term survival for patients undergoing EVAR and FEVAR. Survival data are missing in one patient in the EVAR group. Numbers below axis denote the patients at risk at respective time... Source: [Comparable mid-term survival in patients undergoing elective fenestrated endovascular aneurysm repair and endovascular aneurysm repair for abdominal aortic aneurysm](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607194/) — SAGE Open Medicine 2014; CC BY-NC.*
+
+![Endovascular Aneurysm Treatment — Fig. 1](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-03-fig-1-znae279f1-jpg.jpg)
+*Fig. 1. Numbers of elective open surgical repairs and fenestrated endovascular aneurysm repairs for juxtarenal abdominal aortic aneurysms by each centre in Sweden over a 3-year interval,... Source: [Outcomes of elective open surgical repair or fenestrated endovascular aneurysm repair for juxtarenal abdominal aortic aneurysms in Sweden](https://pmc.ncbi.nlm.nih.gov/articles/PMC11538729/) — The British Journal of Surgery 2024; CC BY-NC.*
+
+![Endovascular Aneurysm Treatment — Fig. 2](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-04-fig-2-znae279f2-jpg.jpg)
+*Fig. 2. Survival (estimated using Kaplan–Meier analysis) after elective open surgical repair or fenestrated endovascular aneurysm repair for juxtarenal abdominal aortic aneurysms in Sweden over... Source: [Outcomes of elective open surgical repair or fenestrated endovascular aneurysm repair for juxtarenal abdominal aortic aneurysms in Sweden](https://pmc.ncbi.nlm.nih.gov/articles/PMC11538729/) — The British Journal of Surgery 2024; CC BY-NC.*
+
+![Endovascular Aneurysm Treatment — Figure 1:](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-05-figure-1-ivac016f1-jpg.jpg)
+*Figure 1:. Inferior mesenteric artery diameter and number of patent lumbar arteries in patients undergoing EVAR. IMA: inferior mesenteric artery. Source: [Inferior mesenteric artery diameter and number of patent lumbar arteries as factors associated with significant type 2 endoleak after infrarenal endovascular aneurysm repair](https://pmc.ncbi.nlm.nih.gov/articles/PMC9252125/) — Interactive Cardiovascular and Thoracic Surgery 2022; CC BY.*
+
+![Endovascular Aneurysm Treatment — Figure 2:](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-06-figure-2-ivac016f2-jpg.jpg)
+*Figure 2:. Number of patients presenting significant endoleak type II according to the inferior mesenteric artery diameter. Numbers at the bottom of the columns represent the number of patients... Source: [Inferior mesenteric artery diameter and number of patent lumbar arteries as factors associated with significant type 2 endoleak after infrarenal endovascular aneurysm repair](https://pmc.ncbi.nlm.nih.gov/articles/PMC9252125/) — Interactive Cardiovascular and Thoracic Surgery 2022; CC BY.*
+
+![Endovascular Aneurysm Treatment — Figure 3:](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-07-figure-3-ivac016f3-jpg.jpg)
+*Figure 3:. Number of patients with significant endoleak type II according to the number of patent lumbar arteries. Numbers at the bottom of the columns illustrate the number of patients with... Source: [Inferior mesenteric artery diameter and number of patent lumbar arteries as factors associated with significant type 2 endoleak after infrarenal endovascular aneurysm repair](https://pmc.ncbi.nlm.nih.gov/articles/PMC9252125/) — Interactive Cardiovascular and Thoracic Surgery 2022; CC BY.*
+
+![Endovascular Aneurysm Treatment — Figure](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-08-figure-ivac016f5-jpg.jpg)
+*Figure. Source: [Inferior mesenteric artery diameter and number of patent lumbar arteries as factors associated with significant type 2 endoleak after infrarenal endovascular aneurysm repair](https://pmc.ncbi.nlm.nih.gov/articles/PMC9252125/) — Interactive Cardiovascular and Thoracic Surgery 2022; CC BY.*
+
+![Endovascular Aneurysm Treatment — Fig 1](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-09-fig-1-gr1-jpg.jpg)
+*Fig 1. Completion aortogram after complex endovascular aneurysm repair (EVAR) demonstrating patent bilateral renal artery, superior mesenteric artery, and celiac artery stents with no evidence... Source: [Transradial renal salvage after complex endovascular aneurysm repair complicated by left renal artery thrombosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6600808/) — Journal of Vascular Surgery Cases and Innovative Techniques 2019; CC BY-NC-ND.*
+
+![Endovascular Aneurysm Treatment — Fig 2](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-10-fig-2-gr2-jpg.jpg)
+*Fig 2. Computed tomography angiography (CTA) image 2 weeks after complex endovascular aneurysm repair (EVAR) with four-vessel stenting demonstrating left renal artery thrombosis (the arrow... Source: [Transradial renal salvage after complex endovascular aneurysm repair complicated by left renal artery thrombosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6600808/) — Journal of Vascular Surgery Cases and Innovative Techniques 2019; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

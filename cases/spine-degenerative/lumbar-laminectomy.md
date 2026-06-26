@@ -22,26 +22,82 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lumbar+spinal+stenosis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SPORT (stenosis)** — Weinstein JN et al. *NEJM* 2008 — surgery vs nonoperative for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Weinstein+SPORT+lumbar+spinal+stenosis+2008+NEJM)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
-
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20spinal%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumbar+laminectomy+decompression+stenosis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — lumbar spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-![Lumbar vertebra (superior view) — pedicle, lamina & facets](../../figures/spine/lumbar-vertebra-superior_gray93.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
 
-![Lumbar vertebra (lateral view) — body, pedicle & pars](../../figures/spine/lumbar-vertebra-lateral_gray94.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Lumbar spinal stenosis** — Genevay S. Best practice & research. Clinical rheumatology 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20227646/)
+- **Surgical versus non-surgical treatment for lumbar spinal stenosis** — Zaina F. The Cochrane database of systematic reviews 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26824399/)
+- **Lumbar spinal stenosis** — Lee JY. Instructional course lectures 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23395043/)
+- **Lumbar spinal stenosis** — Nowakowski P. Physical therapy 1996. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8592723/)
+- **Full-endoscopic (bi-portal or uni-portal) versus microscopic lumbar decompression laminectomy in patients with spinal stenosis: systematic review and meta-analysis** — Pairuchvej S. European journal of orthopaedic surgery & traumatology : orthopedie traumatologie 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31863273/)
+- **Letter to the editor regarding "Full‑endoscopic (bi‑portal or uni‑portal) versus microscopic lumbar decompression laminectomy in patients with spinal stenosis: systematic review and meta‑analysis"** — Lin GX. European journal of orthopaedic surgery & traumatology : orthopedie traumatologie 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35031849/)
+- **Spinous Process Splitting Laminectomy for Lumbar Spinal Stenosis: 2D Operative Video** — Gagliardi M. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34971829/)
+- **Effect of lumbar laminectomy on spinal sagittal alignment: a systematic review** — Hatakka J. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33844059/)
+- **Stand-alone interspinous spacer versus decompressive laminectomy for treatment of lumbar spinal stenosis** — Lauryssen C. Expert review of medical devices 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26487285/)
+- **Microendoscopic Lumbar Posterior Decompression Surgery for Lumbar Spinal Stenosis: Literature Review** — Suzuki A. Medicina (Kaunas, Lithuania) 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35334560/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Lumbar Laminectomy Spinal Stenosis — Figure 1](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-01-figure-1-bmri2019-3871819-001-jpg.jpg)
+*Figure 1. Lumbosacral transitional vertebra as evident in 3-dimensional images: unilateral (left) and bilateral (right) anomalies. Source: [Is Lumbosacral Transitional Vertebra Associated with Degenerative Lumbar Spinal Stenosis?](https://pmc.ncbi.nlm.nih.gov/articles/PMC6590608/) — BioMed Research International 2019; CC BY.*
+
+![Lumbar Laminectomy Spinal Stenosis — Figure 2](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-02-figure-2-bmri2019-3871819-002-jpg.jpg)
+*Figure 2. Prevalence (%) of lumbosacral transitional vertebra (LSTV) in the male groups (control vs. stenosis). Source: [Is Lumbosacral Transitional Vertebra Associated with Degenerative Lumbar Spinal Stenosis?](https://pmc.ncbi.nlm.nih.gov/articles/PMC6590608/) — BioMed Research International 2019; CC BY.*
+
+![Lumbar Laminectomy Spinal Stenosis — Figure 3](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-03-figure-3-bmri2019-3871819-003-jpg.jpg)
+*Figure 3. Prevalence (%) of lumbosacral transitional vertebra (LSTV) type in the female groups (control vs. stenosis). Source: [Is Lumbosacral Transitional Vertebra Associated with Degenerative Lumbar Spinal Stenosis?](https://pmc.ncbi.nlm.nih.gov/articles/PMC6590608/) — BioMed Research International 2019; CC BY.*
+
+![Lumbar Laminectomy Spinal Stenosis — FIGURE 1](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-04-figure-1-ait-53-44836-g001-jpg.jpg)
+*FIGURE 1. Flow chart of the study Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
+
+![Lumbar Laminectomy Spinal Stenosis — FIGURE 2](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-05-figure-2-ait-53-44836-g002-jpg.jpg)
+*FIGURE 2. PRIMA flow Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
+
+![Lumbar Laminectomy Spinal Stenosis — FIGURE 3](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-06-figure-3-ait-53-44836-g003-jpg.jpg)
+*FIGURE 3. Diagnostic approach, counselling, and multidisciplinary approach. Questions A–E. Note. Neurotropic agents include neuroprotective substances such as palmitoylethanolamide, and a-lipoic acid Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
+
+![Lumbar Laminectomy Spinal Stenosis — FIGURE 4](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-07-figure-4-ait-53-44836-g004-jpg.jpg)
+*FIGURE 4. Therapeutic approach. Questions F–M Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
+
+![Lumbar Laminectomy Spinal Stenosis — FIGURE 5](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-08-figure-5-ait-53-44836-g005-jpg.jpg)
+*FIGURE 5. Patient communication strategies. Questions N-Q Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
+
+![Lumbar Laminectomy Spinal Stenosis — Figure 1](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-09-figure-1-medicina-58-00384-g001-jpg.jpg)
+*Figure 1. Surgical equipment for tubular microendoscopic decompression surgery. (a) Serial tubular dilator and retractor (METRx®). (b) Flexible arm assembly (METRx®). (c) Tubular retractor of the... Source: [Microendoscopic Lumbar Posterior Decompression Surgery for Lumbar Spinal Stenosis: Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8954505/) — Medicina 2022; CC BY.*
+
+![Lumbar Laminectomy Spinal Stenosis — Figure 2](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-10-figure-2-medicina-58-00384-g002-jpg.jpg)
+*Figure 2. Schematic presentation of the room setup. Source: [Microendoscopic Lumbar Posterior Decompression Surgery for Lumbar Spinal Stenosis: Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8954505/) — Medicina 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -21,16 +21,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spinal+epidural+abscess+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **IDSA vertebral osteomyelitis guideline** — diagnosis, biopsy/culture, antibiotics, and surgical indications. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=IDSA+guideline+native+vertebral+osteomyelitis+2015)
-- **Spinal epidural abscess timing** — neurologic deficit, decompression timing, and outcome literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=spinal+epidural+abscess+surgical+timing+neurologic+deficit+outcomes)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20epidural%20abscess&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+epidural+abscess+management) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column / spinal canal (epidural space)](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Management of Staphylococcus aureus Bacteremia: A Review** — Tong SYC. JAMA 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40193249/)
+- **Spinal epidural abscess** — Johnson KG. Critical care nursing clinics of North America 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23981455/)
+- **Spinal epidural abscess** — Rigamonti D. The New England journal of medicine 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17290514/)
+- **Epidural Abscess** — Akhondi H. 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30571071/)
+- **Spinal epidural abscess in adults** — Bluman EM. The Journal of the American Academy of Orthopaedic Surgeons 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15161168/)
+- **Spinal epidural abscess** — Verner EF. The Medical clinics of North America 1985. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3990440/)
+- **Spinal epidural abscess due to acute pyelonephritis** — Scalia G. Surgical neurology international 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35509571/)
+- **Successful Treatment of Pediatric Holo-Spinal Epidural Abscess With Percutaneous Drainage** — Ammar AA. Cureus 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35673318/)
+- **Aggregatibacter aphrophilus spinal epidural abscess** — Altdorfer A. BMJ case reports 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32675123/)
+- **Spinal epidural abscess: a report of 40 cases and review** — Nussbaum ES. Surgical neurology 1992. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1359657/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Spinal Epidural Abscess Decompression & Drainage — Figure 1](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-01-figure-1-medi-97-e13541-g001-jpg.jpg)
+*Figure 1. The urgent imaging examination. Axial (A) MRI shows L4 to L5 lumbar disc herniation, and sagittal (B and C) MRIs show epidural and paravertebral abscesses at the L3 to S1 vertebral... Source: [Nocardial spinal epidural abscess with lumbar disc herniation](https://pmc.ncbi.nlm.nih.gov/articles/PMC6310552/) — Medicine 2018; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Figure 2](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-02-figure-2-medi-97-e13541-g002-jpg.jpg)
+*Figure 2. Yellowish colonies were found on the blood plate medium. Source: [Nocardial spinal epidural abscess with lumbar disc herniation](https://pmc.ncbi.nlm.nih.gov/articles/PMC6310552/) — Medicine 2018; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Figure 3](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-03-figure-3-medi-97-e13541-g003-jpg.jpg)
+*Figure 3. The acid-fast stain showed partially acid-fast bacilli. Source: [Nocardial spinal epidural abscess with lumbar disc herniation](https://pmc.ncbi.nlm.nih.gov/articles/PMC6310552/) — Medicine 2018; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Figure 4](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-04-figure-4-medi-97-e13541-g004-jpg.jpg)
+*Figure 4. The bacterial protein spectra obtained were analyzed by MALDI-TOF-MS. MALDI-TOF-MS = matrix-assisted laser desorption/ionization time of flight mass spectrometry. Source: [Nocardial spinal epidural abscess with lumbar disc herniation](https://pmc.ncbi.nlm.nih.gov/articles/PMC6310552/) — Medicine 2018; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Figure 5](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-05-figure-5-medi-97-e13541-g005-jpg.jpg)
+*Figure 5. At 6-month follow-up, axial (A) and sagittal (B) MRIs show herniated lumbar disc has been removed and no residual abscess. (Red arrow indicates herniated disc has been removed. Yellow... Source: [Nocardial spinal epidural abscess with lumbar disc herniation](https://pmc.ncbi.nlm.nih.gov/articles/PMC6310552/) — Medicine 2018; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Figure 6](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-06-figure-6-medi-97-e13541-g006-jpg.jpg)
+*Figure 6. Source: [Nocardial spinal epidural abscess with lumbar disc herniation: A case report and review of literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC6310552/) — Medicine (Baltimore). 2018 Dec 10;97(49):e13541. doi: 10.1097/MD.0000000000013541; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Fig. 1](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-07-fig-1-12880-2024-1458-fig1-html-jpg.jpg)
+*Fig. 1. Phlegmonous stage primary L4-5 spinal epidural abscess in a 37-year-old man. (A) Sagittal T1-weighted imaging shows a fusiform homogeneously isointense lesion ventral to the thecal sac... Source: [Primary spinal epidural abscess: magnetic resonance imaging characteristics and diagnosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11487751/) — BMC Medical Imaging 2024; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Fig. 2](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-08-fig-2-12880-2024-1458-fig2-html-jpg.jpg)
+*Fig. 2. Contrast-enhanced T1-weighted imaging of the same patient as in Fig. 1. (A) The abscess and the L4 and L5 vertebral bodies exhibit enhancement on the sagittal imaging. (B) Coronal... Source: [Primary spinal epidural abscess: magnetic resonance imaging characteristics and diagnosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11487751/) — BMC Medical Imaging 2024; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Fig. 5](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-09-fig-5-12880-2024-1458-fig3-html-jpg.jpg)
+*Fig. 5. Hematoxylin-eosin staining of a histopathologic specimen shows chronic granulomatous inflammation and fibrinoid exudation. A large number of neutrophils, plasma cells, lymphocyte... Source: [Primary spinal epidural abscess: magnetic resonance imaging characteristics and diagnosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11487751/) — BMC Medical Imaging 2024; CC BY-NC-ND.*
+
+![Spinal Epidural Abscess Decompression & Drainage — Fig. 3](../../figures/curated/case-prep-spinal-epidural-abscess-decompression-and-drainage/figure-10-fig-3-12880-2024-1458-fig4-html-jpg.jpg)
+*Fig. 3. Abscess stage primary L3-5 spinal epidural abscess in a 41-year-old man. (A) On axial T1-weighted imaging, the abscess is hypointense and dorsal to thecal sac. Mild vertebral body edema... Source: [Primary spinal epidural abscess: magnetic resonance imaging characteristics and diagnosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11487751/) — BMC Medical Imaging 2024; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

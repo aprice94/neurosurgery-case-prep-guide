@@ -23,27 +23,82 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lumbar+spondylolisthesis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SLIP** — Ghogawala Z et al. *NEJM* 2016 — laminectomy ± fusion for degenerative spondylolisthesis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ghogawala+SLIP+laminectomy+fusion+spondylolisthesis+2016+NEJM)
-- **Swedish fusion study** — Försth P et al. *NEJM* 2016 — fusion surgery for lumbar stenosis. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Forsth+fusion+surgery+lumbar+spinal+stenosis+2016+NEJM)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
-
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20spondylolisthesis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=transforaminal+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — lumbar spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-![Lumbar vertebra (superior view) — pedicle, lamina & facets](../../figures/spine/lumbar-vertebra-superior_gray93.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
 
-![Lumbar vertebra (lateral view) — body, pedicle & pars](../../figures/spine/lumbar-vertebra-lateral_gray94.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Lumbar interbody fusion: techniques, indications and comparison of interbody fusion options including PLIF, TLIF, MI-TLIF, OLIF/ATP, LLIF and ALIF** — Mobbs RJ. Journal of spine surgery (Hong Kong) 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27683674/)
+- **Endoscopic transforaminal lumbar interbody fusion: a comprehensive review** — Ahn Y. Expert review of medical devices 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31044627/)
+- **Minimally Invasive Transforaminal Lumbar Interbody Fusion (TLIF)** — Badlani N. Clinical spine surgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31625956/)
+- **Transforaminal lumbar interbody fusion using banana-shaped and straight cages: meta-analysis of clinical and radiological outcomes** — Sebaaly A. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37326836/)
+- **Transforaminal Lumbar Interbody Fusion For Lumbar Degenerative Disease: Patient Selection And Perspectives** — Uçar BY. Orthopedic research and reviews 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31807090/)
+- **Endoscopic transforaminal lumbar interbody fusion without general anesthesia: technical innovations and outcomes** — Kolcun JPG. Annals of translational medicine 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31624733/)
+- **Expandable Cage Technology-Transforaminal, Anterior, and Lateral Lumbar Interbody Fusion** — Macki M. Operative neurosurgery (Hagerstown, Md.) 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34128070/)
+- **Minimally Invasive Transforaminal Lumbar Interbody Fusion: Strategies for Creating Lordosis with a Posterior Approach** — Tanasansomboon T. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37718110/)
+- **Bibliometric analysis of transforaminal lumbar interbody fusion: research status, trends, and future directions** — Wang X. EFORT open reviews 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38038386/)
+- **Comparison of efficacy and safety between unilateral biportal endoscopic transforaminal lumbar interbody fusion versus uniportal endoscopic transforaminal lumbar interbody fusion for the treatment of lumbar degenerative diseases: a systematic review and meta-analysis** — Ding Y. BMC musculoskeletal disorders 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39702176/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Transforaminal Lumbar Interbody Fusion — Figure 1](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-01-figure-1-jnma-63-288-600-g1-jpg.jpg)
+*Figure 1. Levels of fusion in patients with spondylolisthesis following transforaminal lumbar interbody fusion surgery (n= 68). Source: [Functional Outcome of Transforaminal Lumbar Interbody Fusion Surgery in Spondylolisthesis: An Observational Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12827865/) — JNMA: Journal of the Nepal Medical Association 2025; CC BY.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 2](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-02-figure-2-jnma-63-288-600-g2-jpg.jpg)
+*Figure 2. VAS and ODI by Meyerding grade with 95% CI in spondylolisthesis following transforaminal lumbar interbody fusion surgery (n= 68). Source: [Functional Outcome of Transforaminal Lumbar Interbody Fusion Surgery in Spondylolisthesis: An Observational Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12827865/) — JNMA: Journal of the Nepal Medical Association 2025; CC BY.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 1](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-03-figure-1-13256-2014-3099-fig1-html-jpg.jpg)
+*Figure 1. X-ray taken before the patient’s first surgery. Source: [Set screw fracture with cage dislocation after two-level transforaminal lumbar interbody fusion (TLIF): a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4333885/) — Journal of Medical Case Reports 2015; CC BY.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 2](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-04-figure-2-13256-2014-3099-fig2-html-jpg.jpg)
+*Figure 2. X-ray obtained after the patient’s first surgery. Source: [Set screw fracture with cage dislocation after two-level transforaminal lumbar interbody fusion (TLIF): a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4333885/) — Journal of Medical Case Reports 2015; CC BY.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 3](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-05-figure-3-13256-2014-3099-fig3-html-jpg.jpg)
+*Figure 3. X-ray taken at first follow-up examination. Source: [Set screw fracture with cage dislocation after two-level transforaminal lumbar interbody fusion (TLIF): a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4333885/) — Journal of Medical Case Reports 2015; CC BY.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 4](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-06-figure-4-13256-2014-3099-fig4-html-jpg.jpg)
+*Figure 4. Computed tomographic scan taken at first follow-up examination. Source: [Set screw fracture with cage dislocation after two-level transforaminal lumbar interbody fusion (TLIF): a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4333885/) — Journal of Medical Case Reports 2015; CC BY.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 5](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-07-figure-5-13256-2014-3099-fig5-html-jpg.jpg)
+*Figure 5. X-ray taken after the patient’s second surgery. Source: [Set screw fracture with cage dislocation after two-level transforaminal lumbar interbody fusion (TLIF): a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4333885/) — Journal of Medical Case Reports 2015; CC BY.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 6](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-08-figure-6-13256-2014-3099-fig6-html-jpg.jpg)
+*Figure 6. X-ray taken at the patient’s second follow-up examination. Source: [Set screw fracture with cage dislocation after two-level transforaminal lumbar interbody fusion (TLIF): a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4333885/) — Journal of Medical Case Reports 2015; CC BY.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 1](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-09-figure-1-gr1-jpg.jpg)
+*Figure 1. Lateral (A) radiograph of a 59-year-old male with L5 isthmic spondylolisthesis. The sagittal view (B) and transverse views(C) of preoperative CT and MRI (D, E) showed isthmic... Source: [Comparison of O-arm navigation and microscope-assisted minimally invasive transforaminal lumbar interbody fusion and conventional transforaminal lumbar interbody fusion for the treatment of lumbar isthmic spondylolisthesis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6939115/) — Journal of Orthopaedic Translation 2020; CC BY-NC-ND.*
+
+![Transforaminal Lumbar Interbody Fusion — Figure 2](../../figures/curated/case-prep-transforaminal-lumbar-interbody-fusion-tlif/figure-10-figure-2-gr2-jpg.jpg)
+*Figure 2. With the help of microscope, (A) the dural sac and nerve roots were exposed clearly; (B) the cage filled with bone fragments was inserted into the disc space. Source: [Comparison of O-arm navigation and microscope-assisted minimally invasive transforaminal lumbar interbody fusion and conventional transforaminal lumbar interbody fusion for the treatment of lumbar isthmic spondylolisthesis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6939115/) — Journal of Orthopaedic Translation 2020; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

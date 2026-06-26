@@ -21,18 +21,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+facet+dislocation+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **STASCIS** — early vs late decompression in acute spinal cord injury. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fehlings+STASCIS+early+decompression+spinal+cord+injury+2012)
-- **TLICS / AO Spine** — classification-based operative decision frameworks for thoracolumbar and cervical trauma. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=TLICS+AO+Spine+classification+thoracolumbar+cervical+trauma)
-
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20facet%20dislocation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=subaxial+cervical+fracture+dislocation+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — subaxial cervical spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **O-Arm Navigated Cervical Pedicle Screw Fixation in the Treatment of Lower Cervical Fracture-Dislocation** — Zhang K. Orthopaedic surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35524652/)
+- **Anterior-Alone Surgical Treatment for Subaxial Cervical Spine Facet Dislocation: A Systematic Review** — Lee W. Global spine journal 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32875872/)
+- **Spinous Process Screw Fixation: A Salvage Technique in Subaxial Cervical Spinal Instrumentation** — Tian Y. World neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34293522/)
+- **Predictors of failure after primary anterior cervical discectomy and fusion for subaxial traumatic spine injuries** — Singh A. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38664273/)
+- **Traumatic Floating Neural Arch of the Subaxial Cervical Spine: Case Report** — Hadhri K. Neurology India 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36076678/)
+- **Treatment of subaxial cervical spinal injuries** — Hadley MN. Neurosurgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12431300/)
+- **A Novel Anterior-Only Surgical Approach for Reduction and Fixation of Cervical Facet Dislocation** — Liu K. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31029820/)
+- **Modified anterior long-segment fixation versus posterior and combined approaches for subaxial cervical fractures in ankylosing spondylitis: a retrospective cohort study** — Li X. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41973206/)
+- **Advanced compressive extension injuries of the subaxial cervical spine: do we really understand the nuances of this injury?** — Rebich E. The spine journal : official journal of the North American Spine Society 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33610805/)
+- **[Guideline-conform treatment of injuries to the subaxial cervical spine]** — Schleicher P. Der Unfallchirurg 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34529103/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — Fig. 4](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-01-fig-4-os-14-1135-g001-jpg.jpg)
+*Fig. 4. Intraoperative 3D image data obtained by O‐arm showing cervical pedicle screw (CPS)s were accurately inserted in the cervical pedicle. (A) Intraoperative cross‐sectional CT of cervical... Source: [O‐Arm Navigated Cervical Pedicle Screw Fixation in the Treatment of Lower Cervical Fracture‐Dislocation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9163967/) — Orthopaedic Surgery 2022; CC BY.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — Figure 2](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-02-figure-2-os-14-1135-g002-jpg.jpg)
+*Figure 2. Source: [O‐Arm Navigated Cervical Pedicle Screw Fixation in the Treatment of Lower Cervical Fracture‐Dislocation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9163967/) — Orthop Surg. 2022 May 7;14(6):1135–42. doi: 10.1111/os.13227; CC BY.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — Fig. 3](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-03-fig-3-os-14-1135-g003-jpg.jpg)
+*Fig. 3. Intraoperative image showed navigation reference frame was attached to the spinous process of C4 vertebrate. (A) Intraoperative lateral film of cervical spine demonstrated that... Source: [O‐Arm Navigated Cervical Pedicle Screw Fixation in the Treatment of Lower Cervical Fracture‐Dislocation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9163967/) — Orthopaedic Surgery 2022; CC BY.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — Fig. 1](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-04-fig-1-os-14-1135-g004-jpg.jpg)
+*Fig. 1. Cervical pedicle screw (CPS) placement with O‐arm navigation during operation. (A) The navigation reference frame was attached to the spinous process. (B) Intraoperative 3D image when... Source: [O‐Arm Navigated Cervical Pedicle Screw Fixation in the Treatment of Lower Cervical Fracture‐Dislocation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9163967/) — Orthopaedic Surgery 2022; CC BY.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — Fig. 2](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-05-fig-2-os-14-1135-g005-jpg.jpg)
+*Fig. 2. A 55‐year‐old male patient with C6,7 fracture‐dislocation undergoing cervical pedicle screw (CPS) fixation treatment with O‐arm navigation. (A‐D) Preoperative CT and MRI showed C6,7... Source: [O‐Arm Navigated Cervical Pedicle Screw Fixation in the Treatment of Lower Cervical Fracture‐Dislocation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9163967/) — Orthopaedic Surgery 2022; CC BY.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — FIGURE 1](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-06-figure-1-ccr3-12-e8421-g001-jpg.jpg)
+*FIGURE 1. Preoperative (A) neck x‐ray, (B) CT scan, and (C) MRI (T2‐weighted sagittal view) show cervical kyphosis leading to severe spinal cord compression due to the previous trauma.... Source: [Risk factors and surgical approaches in neglected subaxial cervical spine fractures‐dislocations: Experiences with two cases and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10784752/) — Clinical Case Reports 2024; CC BY-NC.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — Figure 7](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-07-figure-7-ccr3-12-e8421-g002-jpg.jpg)
+*Figure 7. Source: [Risk factors and surgical approaches in neglected subaxial cervical spine fractures‐dislocations: Experiences with two cases and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10784752/) — Clin Case Rep. 2024 Jan 12;12(1):e8421. doi: 10.1002/ccr3.8421; CC BY-NC.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — FIGURE 2](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-08-figure-2-ccr3-12-e8421-g003-jpg.jpg)
+*FIGURE 2. Preoperative (A) neck x‐ray, (B) CT scan, and (C) MRI (T2‐weighted sagittal view) show neglected C5‐C6 fracture‐dislocation result in cervical kyphosis. Postoperative counterpart (D)... Source: [Risk factors and surgical approaches in neglected subaxial cervical spine fractures‐dislocations: Experiences with two cases and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10784752/) — Clinical Case Reports 2024; CC BY-NC.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — Fig. 1](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-09-fig-1-12891-2024-7586-fig1-html-jpg.jpg)
+*Fig. 1. A 73-year-old male patient was admitted to the hospital with “neck pain caused by trauma for 5 hours”. (a) Preoperative cervical lateral X-rays showed no significant abnormalities; (b)... Source: [Case report: A complete lower cervical fracture dislocation without permanent neurological impairment](https://pmc.ncbi.nlm.nih.gov/articles/PMC11179296/) — BMC Musculoskeletal Disorders 2024; CC BY.*
+
+![Subaxial Cervical Spine Fracture Dislocation Fixation — Figure 1](../../figures/curated/case-prep-subaxial-cervical-spine-fracture-dislocation-fixation/figure-10-figure-1-medi-97-e0553-g001-jpg.jpg)
+*Figure 1. Dislocation of C6 and C7 was revealed by DR (A and B) (indicated by yellow arrow), and spinal transection was revealed by MRI (C) (indicated by red arrow). DR = digital radiography, MRI... Source: [Surgical treatment for old subaxial cervical dislocation with bilateral locked facets in a 3-year-old girl](https://pmc.ncbi.nlm.nih.gov/articles/PMC6393066/) — Medicine 2018; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

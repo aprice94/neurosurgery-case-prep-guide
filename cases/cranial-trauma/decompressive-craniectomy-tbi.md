@@ -21,12 +21,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=decompressive+craniectomy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **DECRA** — Cooper DJ et al. *NEJM* 2011 — early decompressive craniectomy in diffuse TBI. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Cooper+DECRA+decompressive+craniectomy+traumatic+brain+injury+2011+NEJM)
-- **RESCUEicp** — Hutchinson PJ et al. *NEJM* 2016 — craniectomy for refractory intracranial hypertension. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hutchinson+RESCUEicp+decompressive+craniectomy+intracranial+pressure+2016+NEJM)
-- **BTF guidelines** — Carney N et al. *Neurosurgery* 2017 — Brain Trauma Foundation, 4th ed. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carney+Brain+Trauma+Foundation+guidelines+severe+TBI+2017)
-- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
 
 **Operative technique**
@@ -38,11 +32,77 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=decompressive+craniectomy+traumatic+brain+injury) · [DECRA / RESCUEicp](https://www.ncbi.nlm.nih.gov/pmc/?term=DECRA+RESCUEicp+decompressive+craniectomy)
 
-**Anatomy (public domain)**
 
-![Arteries of the base of the brain — circle of Willis](../../figures/anatomy/circle-of-willis_sobotta-1909.png)
 
-*Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_3_548.png). Relevant: MCA territory, bridging veins, superficial cerebral vasculature at risk during large trauma flap.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Emergency anatomy and exposure:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm incision/flap planning, sinus/vessel risks, decompression goals, and mass-effect physiology.
+- **Technique sequence:** Greenberg; Youmans and Winn — review evacuation/decompression sequence, hemostasis, dural strategy, drain use, and bone-flap/cranioplasty decisions.
+- **Complication rescue:** Greenberg; trauma guidelines and primary literature — summarize swelling, coagulopathy, seizures, infection, hydrocephalus, and ICU surveillance in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Guidelines for the Management of Severe Traumatic Brain Injury: 2020 Update of the Decompressive Craniectomy Recommendations** — Hawryluk GWJ. Neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32761068/)
+- **Recent advances in traumatic brain injury** — Khellaf A. Journal of neurology 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31563989/)
+- **Acute Management of Traumatic Brain Injury** — Vella MA. The Surgical clinics of North America 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28958355/)
+- **Traumatic Brain Injury: Current Treatment Strategies and Future Endeavors** — Galgano M. Cell transplantation 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28933211/)
+- **Decompressive Surgery for Patients with Traumatic Brain Injury** — Peters A. Anesthesiology clinics 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33563379/)
+- **Management of Pediatric Severe Traumatic Brain Injury: 2019 Consensus and Guidelines-Based Algorithm for First and Second Tier Therapies** — Kochanek PM. Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30830015/)
+- **Management and Challenges of Severe Traumatic Brain Injury** — Rakhit S. Seminars in respiratory and critical care medicine 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32916746/)
+- **Decompressive Craniectomy for Pediatric Traumatic Brain Injury in Low-and-Middle Income and High Income Countries** — Gidda R. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35872132/)
+- **The management of severe traumatic brain injury in the initial postinjury hours - current evidence and controversies** — Hossain I. Current opinion in critical care 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37851061/)
+- **Paediatric traumatic brain injury** — Coulter IC. Current opinion in pediatrics 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31693586/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Decompressive Craniectomy Traumatic Brain Injury — Figure 1.](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-01-figure-1-medi-102-e36633-g001-jpg.jpg)
+*Figure 1.. Guidelines flow diagram. Source: [Comparison of the effects of stepwise intracranial decompression and decompressive craniectomy in the treatment of severe traumatic brain injury: A randomized controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10735114/) — Medicine 2023; CC BY-NC.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Figure 1](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-02-figure-1-cureus-0014-00000029894-i01-jpg.jpg)
+*Figure 1. In DC, the bone flap needs to be at least 12 cm × 15 cm. It has been associated with better outcome.Authors' own creation/patient. Source: [Primary Decompressive Craniectomy After Traumatic Brain Injury: A Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9631546/) — Cureus 2022; CC BY.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Figure 2](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-03-figure-2-cureus-0014-00000029894-i02-jpg.jpg)
+*Figure 2. Postoperative intracerebral bleeding ("blooming or blossoming contusions") due to ICP reduction after DC is commonly seen and is associated with worse functional long-term... Source: [Primary Decompressive Craniectomy After Traumatic Brain Injury: A Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9631546/) — Cureus 2022; CC BY.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Figure 3](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-04-figure-3-cureus-0014-00000029894-i03-jpg.jpg)
+*Figure 3. (A) Midline shift greater than hematoma thickness ratio; (B) and (C) effaced basal cisterns.Authors' own creation/patient. Source: [Primary Decompressive Craniectomy After Traumatic Brain Injury: A Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9631546/) — Cureus 2022; CC BY.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Figure 4](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-05-figure-4-cureus-0014-00000029894-i04-jpg.jpg)
+*Figure 4. Cranioplasty.Authors' own creation/patient. Source: [Primary Decompressive Craniectomy After Traumatic Brain Injury: A Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9631546/) — Cureus 2022; CC BY.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Fig. 10](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-06-fig-10-40001-2025-2428-fig10-html-jpg.jpg)
+*Fig. 10. gvjkvvkjck kjcn, m Source: [Effectiveness of controlled decompression against conventional decompression methods for the management of severe traumatic brain injury patients: a meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11921676/) — European Journal of Medical Research 2025; CC BY-NC-ND.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Figure 1](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-07-figure-1-fneur-15-1423329-g001-jpg.jpg)
+*Figure 1. Incidence rate of TBI in countries with different income levels in the world. (A) Incidence of TBI worldwide WHO region. (B) Differences in mortality of TBI by country-income group. (C)... Source: [Global traumatic brain injury intracranial pressure: from monitoring to surgical decision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11442239/) — Frontiers in Neurology 2024; CC BY.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Figure 8](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-08-figure-8-sni-4-128-g002-jpg.jpg)
+*Figure 8. Source: [Pediatric traumatic brain injuries treated with decompressive craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3815000/) — Surg Neurol Int. 2013 Sep 27;4:128. doi: 10.4103/2152-7806.119055; CC BY-NC-SA.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Fig. 1](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-09-fig-1-381-2017-3534-fig1-html-jpg.jpg)
+*Fig. 1. This figure shows an example monitoring trace of a patient with intracranial hypertension as a result of a traumatic brain injury. The trace demonstrates a sustained plateau of... Source: [Decompressive craniectomy for traumatic intracranial hypertension: application in children](https://pmc.ncbi.nlm.nih.gov/articles/PMC5587789/) — Child's Nervous System 2017; CC BY.*
+
+![Decompressive Craniectomy Traumatic Brain Injury — Fig. 2](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-10-fig-2-381-2017-3534-fig2-html-jpg.jpg)
+*Fig. 2. Representative image of paediatric patients with raised intracranial pressure. a Fourteen-year-old patient with acute subdural haematoma (ASDH), opening ICP 32 mmHg. b Seven-year-old... Source: [Decompressive craniectomy for traumatic intracranial hypertension: application in children](https://pmc.ncbi.nlm.nih.gov/articles/PMC5587789/) — Child's Nervous System 2017; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

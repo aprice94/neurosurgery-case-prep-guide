@@ -22,11 +22,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=colloid+cyst+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Endoscopic vs microsurgical cyst removal** — comparative recurrence, GTR, and complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=colloid+cyst+endoscopic+microsurgical+resection+meta-analysis)
-- **Risk stratification** — natural history and Colloid Cyst Risk Score literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=colloid+cyst+risk+score+natural+history)
-
 > 🧭 **Operative approach:** [Anterior interhemispheric / transcallosal](../approaches/anterior-interhemispheric-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 > Operative figures/atlases are © (linked, not copied). See [media-sources.md](../../resources/media-sources.md).
@@ -34,9 +29,76 @@ tags:
 - **Imaging:** [Radiopaedia — colloid cyst](https://radiopaedia.org/search?q=colloid%20cyst&scope=all)
 - **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=colloid+cyst+third+ventricle)
 
-![Ventricular system — third ventricle & foramen of Monro](../../figures/anatomy/ventricles_gray734.png)
 
-*Gray's Anatomy (1918) — public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Giant Colloid Cyst** — Alkhaibary A. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35803569/)
+- **Colloid Brain Cyst** — Tenny S. 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29262059/)
+- **Colloid cyst headache** — Spears RC. Current pain and headache reports 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15228889/)
+- **Infected colloid cyst** — Yilmaz A. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28578512/)
+- **Colloid cyst** — Fink S. Practical neurology 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26349833/)
+- **Pituitary Colloid Cyst** — Guduk M. The Journal of craniofacial surgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27792102/)
+- **Third Ventricular Colloid Cyst, New Surgical Classification** — Badran SA. World neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38599374/)
+- **Endoscopic transventricular resection of a colloid cyst** — Lehmann S. Neurosurgical focus: Video 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37089750/)
+- **Colloid cyst of the third ventricle** — Roberts A. Journal of the American College of Emergency Physicians open 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34409403/)
+- **Colloid Cyst Causing Massive Headache Attacks** — Zaddach M. Neuropediatrics 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38316413/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Colloid Cyst Resection — Figure 1](../../figures/curated/case-prep-colloid-cyst-resection/figure-01-figure-1-ajns-8-162a-g001-jpg.jpg)
+*Figure 1. CT brain (axial view). (a) Isodense lesion located at foramen of Monro with hyperdense areas suggestive of hemorrhage with foraminal obstruction. (b) No evidence of enhancement on contrast. Source: [Hemorrhagic colloid cyst: Case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC3877504/) — Asian Journal of Neurosurgery 2013; CC BY-NC-SA.*
+
+![Colloid Cyst Resection — Figure 2](../../figures/curated/case-prep-colloid-cyst-resection/figure-02-figure-2-ajns-8-162a-g002-jpg.jpg)
+*Figure 2. MRI brain (axial view). (a) Homogenously hyperintense lesion at foramen of Monro in T1-weighted sequence. (b) Lesion appears uniformly hyperintense on T2-weighted sequence Source: [Hemorrhagic colloid cyst: Case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC3877504/) — Asian Journal of Neurosurgery 2013; CC BY-NC-SA.*
+
+![Colloid Cyst Resection — Figure 3](../../figures/curated/case-prep-colloid-cyst-resection/figure-03-figure-3-ajns-8-162a-g003-jpg.jpg)
+*Figure 3. Photomicrograph. (a) Pseudostratified columnar epithelial cells with occasional ciliated and goblet cells with a thin capsule of fibrous connective tissue suggestive of colloid cyst... Source: [Hemorrhagic colloid cyst: Case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC3877504/) — Asian Journal of Neurosurgery 2013; CC BY-NC-SA.*
+
+![Colloid Cyst Resection — Figure 4](../../figures/curated/case-prep-colloid-cyst-resection/figure-04-figure-4-ajns-8-162a-g004-jpg.jpg)
+*Figure 4. Source: [Hemorrhagic colloid cyst: Case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC3877504/) — Asian J Neurosurg. 2013 Jul-Sep;8(3):162. doi: 10.4103/1793-5482.121689; CC BY-NC-SA.*
+
+![Colloid Cyst Resection — FIGURE 2](../../figures/curated/case-prep-colloid-cyst-resection/figure-05-figure-2-emp2-2-e12503-g001-jpg.jpg)
+*FIGURE 2. Computed tomography brain scan of same 54‐year‐old female with lateral ventriculomegaly Source: [Colloid cyst of the third ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC8360874/) — Journal of the American College of Emergency Physicians Open 2021; CC BY-NC-ND.*
+
+![Colloid Cyst Resection — FIGURE 6](../../figures/curated/case-prep-colloid-cyst-resection/figure-06-figure-6-emp2-2-e12503-g002-jpg.jpg)
+*FIGURE 6. Magnetic resonance imaging brain scan of 54‐year‐old female showing an obstructive mass Source: [Colloid cyst of the third ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC8360874/) — Journal of the American College of Emergency Physicians Open 2021; CC BY-NC-ND.*
+
+![Colloid Cyst Resection — FIGURE 1](../../figures/curated/case-prep-colloid-cyst-resection/figure-07-figure-1-emp2-2-e12503-g003-jpg.jpg)
+*FIGURE 1. Computed tomography brain scan of 54‐year‐old female with lateral ventriculomegaly Source: [Colloid cyst of the third ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC8360874/) — Journal of the American College of Emergency Physicians Open 2021; CC BY-NC-ND.*
+
+![Colloid Cyst Resection — FIGURE 4](../../figures/curated/case-prep-colloid-cyst-resection/figure-08-figure-4-emp2-2-e12503-g004-jpg.jpg)
+*FIGURE 4. Magnetic resonance imaging brain scan of 54‐year‐old female showing an obstructive mass at the foramen of Monro Source: [Colloid cyst of the third ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC8360874/) — Journal of the American College of Emergency Physicians Open 2021; CC BY-NC-ND.*
+
+![Colloid Cyst Resection — FIGURE 5](../../figures/curated/case-prep-colloid-cyst-resection/figure-09-figure-5-emp2-2-e12503-g005-jpg.jpg)
+*FIGURE 5. Sagittal view of magnetic resonance imaging brain scan showing an obstructive mass and lateral ventriculomegaly Source: [Colloid cyst of the third ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC8360874/) — Journal of the American College of Emergency Physicians Open 2021; CC BY-NC-ND.*
+
+![Colloid Cyst Resection — FIGURE 3](../../figures/curated/case-prep-colloid-cyst-resection/figure-10-figure-3-emp2-2-e12503-g006-jpg.jpg)
+*FIGURE 3. Computed tomography brain scan of same 54‐year‐old female with lateral ventriculomegaly, not showing cystic mass Source: [Colloid cyst of the third ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC8360874/) — Journal of the American College of Emergency Physicians Open 2021; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

@@ -22,16 +22,78 @@ The supracerebellar infratentorial approach is the **primary corridor to the pin
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=pineal+region+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Pineal-region approach anatomy** — supracerebellar infratentorial route and venous anatomy literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=supracerebellar+infratentorial+approach+pineal+region+venous+anatomy)
-- **Positioning variants** — sitting/park-bench/prone approach considerations and complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=supracerebellar+infratentorial+approach+sitting+position+complications)
-
-![Ventricular system — pineal region & third ventricle (supracerebellar-infratentorial target)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas — Supracerebellar Infratentorial](https://www.neurosurgicalatlas.com/volumes/pineal-region/supracerebellar-infratentorial-craniotomy) · [Rhoton Pineal Region Anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+pineal+region+anatomy) · [Radiopaedia — Pineal Region](https://radiopaedia.org/search?q=pineal+region&scope=all) · [PubMed Central — supracerebellar infratentorial](https://www.ncbi.nlm.nih.gov/pmc/?term=supracerebellar+infratentorial+approach)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **[Microsurgical anatomy and clinical application of infratentorial supracerebellar keyhole approach]** — Lan Q. Zhonghua yi xue za zhi 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19537028/)
+- **Endoscopic Far-Lateral Supracerebellar Infratentorial Approach for Petroclival Region Meningioma: Surgical Technique and Clinical Experience** — Xie T. Operative neurosurgery (Hagerstown, Md.) 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35315837/)
+- **Microsurgical anatomy and surgical exposure of the cerebellar peduncles** — Baran O. Neurosurgical review 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34997381/)
+- **The microsurgical anatomy of the infratentorial lateral supracerebellar approach to the trigeminal nerve for tic douloureux** — Matsushima T. Neurosurgery 1989. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2747863/)
+- **Supracerebellar-supratrochlear and supracerebellar-infratrochlear triangles as gateways to the posterolateral midbrain and ambient cistern: descriptive and quantitative analysis of microsurgical anatomy** — Hanalioglu S. Neurosurgical review 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40668419/)
+- **The microsurgical infratentorial supracerebellar approach for lesions of the pineal gland: feasibility, morbidity, and functional outcomes from a single-center experience** — Ahmed M. Neurosurgical review 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39883229/)
+- **Unedited pineal cyst microneurosurgery** — Choque-Velasquez J. Surgical neurology international 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30687572/)
+- **Midline and Paramedian Supracerebellar Infratentorial Approach to The Pineal Region: A Comparative Clinical Study in 112 Patients** — Choque-Velasquez J. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32001412/)
+- **Supracerebellar-supratrochlear and infratentorial-infratrochlear approaches: gravity-dependent variations of the lateral approach over the cerebellum** — Sanai N. Neurosurgery 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20489515/)
+- **Endoscopic supracerebellar infratentorial approach to pineal and posterior third ventricle lesions in prone position with head extension: a technical note** — Spazzapan P. Neurological research 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32892737/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Supracerebellar Infratentorial — Fig. 4](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-01-fig-4-701-2026-6831-fig4-html-jpg.jpg)
+*Fig. 4. Lateral supracerebellar-infratentorial route for TN. Tailored exposure along the tentorial surface provides a direct view of the trigeminal nerve while minimizing cerebellar retraction... Source: [Historical evolution of microvascular decompression after Jannetta’s establishment: Anatomical maps and physiological compasses—a narrative review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12999832/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+
+![Supracerebellar Infratentorial — Fig. 7](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-02-fig-7-10143-2025-3953-fig7-html-jpg.jpg)
+*Fig. 7. A-D Preoperative CT and MRI demonstrate right-sided multiple PCMs, with hemorrhagic stroke in the dorsolateral pontine CMs. E-F Utilizing a right extreme lateral supracerebellar... Source: [Analysis of Pontine cavernous malformation resection based on 3D microanatomical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12678574/) — Neurosurgical Review 2025; CC BY-NC-ND.*
+
+![Supracerebellar Infratentorial — Fig. 3](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-03-fig-3-701-2025-6445-fig3-html-jpg.jpg)
+*Fig. 3. Pre (a-c) and postoperative (d-f) MRI imaging of a hemorrhaged pineal cyst (white *) and consecutive aqueduct stenosis with hydrocephalus occlusus removed by microscopic approach via a... Source: [Comparison of surgical approaches and outcome for symptomatic pineal cysts: microscopic/endoscopic fenestration vs. stereotactic catheter implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC11785698/) — Acta Neurochirurgica 2025; CC BY.*
+
+![Supracerebellar Infratentorial — Figure 14:](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-04-figure-14-sni-17-283-g014-jpg.jpg)
+*Figure 14:. (A) Basal view of the cerebrum. The posterior cerebellomedullary cistern lies dorsal to the bulb and cerebellar vermis and is divided by the PICA membranes into one medial compartment... Source: [Subarachnoid cisterns as surgical corridors: Integrating microsurgical anatomy and neuroimaging for intracranial navigation](https://pmc.ncbi.nlm.nih.gov/articles/PMC13224219/) — Surgical Neurology International 2026; CC BY-NC-SA.*
+
+![Supracerebellar Infratentorial — Figure 1](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-05-figure-1-children-09-00640-g001-jpg.jpg)
+*Figure 1. (A) T1-weighted MRI sagittal image showing a mass centered on superior cerebellar peduncle, spontaneously iso-intense. (B) Contrast enhanced T1 sagittal MRI showing peripheral... Source: [Endoscope-Assisted Extreme Lateral Supracerebellar Infratentorial Approach for Resection of Superior Cerebellar Peduncle Pilocytic Astrocytoma: Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140165/) — Children 2022; CC BY.*
+
+![Supracerebellar Infratentorial — Figure 2](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-06-figure-2-children-09-00640-g002-jpg.jpg)
+*Figure 2. (A) Post-ETV CISS MRI showing patent stoma and regression of hydrocephalus. (B) Coronal T1-weighted MRI showing a well localized mass on the SCP. Source: [Endoscope-Assisted Extreme Lateral Supracerebellar Infratentorial Approach for Resection of Superior Cerebellar Peduncle Pilocytic Astrocytoma: Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140165/) — Children 2022; CC BY.*
+
+![Supracerebellar Infratentorial — Figure 3](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-07-figure-3-children-09-00640-g003-jpg.jpg)
+*Figure 3. Artist work showing the appropriate head positioning. The head is slightly flexed and turned 45° towards the floor in order to place the genu of the sigmoid sinus at the highest point of... Source: [Endoscope-Assisted Extreme Lateral Supracerebellar Infratentorial Approach for Resection of Superior Cerebellar Peduncle Pilocytic Astrocytoma: Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140165/) — Children 2022; CC BY.*
+
+![Supracerebellar Infratentorial — Figure 4](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-08-figure-4-children-09-00640-g004-jpg.jpg)
+*Figure 4. T2-weighted MRI showing the following:(1:)culmen; (2) central lobule; (3) lingula; black arrow: the preculminate sulcus between the culmen and central lobule; yellow arrow: precentral... Source: [Endoscope-Assisted Extreme Lateral Supracerebellar Infratentorial Approach for Resection of Superior Cerebellar Peduncle Pilocytic Astrocytoma: Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140165/) — Children 2022; CC BY.*
+
+![Supracerebellar Infratentorial — Figure 5](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-09-figure-5-children-09-00640-g005-jpg.jpg)
+*Figure 5. Immediate post-operative MRI (A) sagittal contrast enhanced, (B) T2 sagittal and (C) T2 axial showing near complete resection with a residual tumor on the latero-inferior surface of the... Source: [Endoscope-Assisted Extreme Lateral Supracerebellar Infratentorial Approach for Resection of Superior Cerebellar Peduncle Pilocytic Astrocytoma: Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140165/) — Children 2022; CC BY.*
+
+![Supracerebellar Infratentorial — Figure 6](../../figures/curated/operative-approach-supracerebellar-infratentorial-krause/figure-10-figure-6-children-09-00640-g006-jpg.jpg)
+*Figure 6. Histological analysis showed a moderately cellular glial neoplasm with biphasic growth pattern (A), characterized by tumor cells with bipolar processes and the presence of occasional... Source: [Endoscope-Assisted Extreme Lateral Supracerebellar Infratentorial Approach for Resection of Superior Cerebellar Peduncle Pilocytic Astrocytoma: Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140165/) — Children 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

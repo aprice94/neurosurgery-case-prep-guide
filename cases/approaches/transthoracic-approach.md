@@ -25,17 +25,78 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=thoracic+spine+tumour+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Patchell (cord compression)** — Patchell RA et al. *Lancet* 2005 — decompressive surgery + RT for metastatic epidural compression. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Patchell+decompressive+surgery+metastatic+epidural+spinal+cord+compression+2005+Lancet)
-- **SINS** — Fisher CG et al. *Spine* 2010 — spinal instability neoplastic score. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fisher+spinal+instability+neoplastic+score+SINS+2010)
-- **NOMS** — Laufer I et al. *Oncologist* 2013 — NOMS decision framework. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Laufer+NOMS+framework+spinal+metastases+2013+Oncologist)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [AO Surgery Reference — anterior thoracic](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracic disc/tumour](https://radiopaedia.org/search?q=thoracic%20disc%20calcified&scope=all) · [PubMed Central — transthoracic corpectomy](https://www.ncbi.nlm.nih.gov/pmc/?term=transthoracic+thoracic+corpectomy)
 
-![Vertebral column — thoracic spine (anterior vertebral bodies, rib heads)](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
+- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Transthoracic approaches to thoracic disc herniations** — Vollmer DG. Neurosurgical focus 2000. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16833250/)
+- **Microsurgical anatomy and related techniques to an anterolateral transthoracic approach to thoracic disc herniations** — Safdari H. Surgical neurology 1985. [PubMed](https://pubmed.ncbi.nlm.nih.gov/3992459/)
+- **Surgical treatment of the symptomatic herniated thoracic disk** — Rogers MA. Clinical orthopaedics and related research 1994. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8131358/)
+- **Anterior thoracic foraminotomy through mini-thoracotomy for the treatment of giant thoracic disc herniations** — Russo A. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22430542/)
+- **Surgical treatment of ossification of the posterior longitudinal ligament in the thoracic spine** — Kojima T. Neurosurgery 1994. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8052382/)
+- **SPINAL DUMBBELL EPIDURAL HEMANGIOMA: TWO STAGE/SAME SITTING/SAME POSITION POSTERIOR MICROSURGICAL AND TRANSTHORACIC ENDOSCOPIC RESECTION - CASE REPORT AND REVIEW OF THE LITERATURE** — Pojskić M. Acta clinica Croatica 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31168222/)
+- **Multilevel anterior thoracic discectomies and anterior interbody fusion using a microsurgical thoracoscopic approach. Case report** — Dickman CA. Journal of neurosurgery 1996. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8613815/)
+- **Thoracic disc herniation: Surgical treatment** — Court C. Orthopaedics & traumatology, surgery & research : OTSR 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29225115/)
+- **Burnei's anterior transthoracic retropleural approach of the thoracic spine: a new operative technique in the treatment of spinal disorders** — Gavriliu TS. Journal of medicine and life 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25866572/)
+- **En-bloc resection of giant neuroma of thoracic spine via transthoracic extrapleural access: a case report and literature review** — Lisitsky IY. Zhurnal voprosy neirokhirurgii imeni N. N. Burdenko 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36763558/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Transthoracic Approach Spine — Fig. 1](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-01-fig-1-12893-2024-2602-fig1-html-jpg.jpg)
+*Fig. 1. The fine tip of the ultrasonic bone scalpel allows the lateral vertebral body to be carefully tailored to the desired width rather than resected en toto as demonstrated on this molded... Source: [A rib-sparing unilateral transpedicular thoracic corpectomy using the ultrasonic bone scalpel: a novel technique and pictorial guide](https://pmc.ncbi.nlm.nih.gov/articles/PMC11466036/) — BMC Surgery 2024; CC BY-NC-ND.*
+
+![Transthoracic Approach Spine — Fig. 3](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-02-fig-3-12893-2024-2602-fig3-html-jpg.jpg)
+*Fig. 3. An axial post-gadolinium T1-weighted image of the thoracic spine in an elderly female demonstrating a homogeneously enhancing mass at T8 with pathology consistent with a plasma cell neoplasm Source: [A rib-sparing unilateral transpedicular thoracic corpectomy using the ultrasonic bone scalpel: a novel technique and pictorial guide](https://pmc.ncbi.nlm.nih.gov/articles/PMC11466036/) — BMC Surgery 2024; CC BY-NC-ND.*
+
+![Transthoracic Approach Spine — Fig. 5](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-03-fig-5-12893-2024-2602-fig5-html-jpg.jpg)
+*Fig. 5. A sagittal post-gadolinium T1-weighted image of the thoracic spine in an elderly male demonstrating disc-osteomyelitis of the T3 and T4 vertebral bodies with acute kyphotic deformity,... Source: [A rib-sparing unilateral transpedicular thoracic corpectomy using the ultrasonic bone scalpel: a novel technique and pictorial guide](https://pmc.ncbi.nlm.nih.gov/articles/PMC11466036/) — BMC Surgery 2024; CC BY-NC-ND.*
+
+![Transthoracic Approach Spine — Fig. 1](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-04-fig-1-acc-57-797-f1-jpg.jpg)
+*Fig. 1. MRI of the thoracic spine: (A) T2-weighted sagittal sequence showing the intraspinal tumor T3-5 with hyperintense signal (arrow); (B) post-contrast T1-weighted sagittal sequences showed... Source: [SPINAL DUMBBELL EPIDURAL HEMANGIOMA: TWO STAGE/SAME SITTING/SAME POSITION POSTERIOR MICROSURGICAL AND TRANSTHORACIC ENDOSCOPIC RESECTION – CASE REPORT AND REVIEW OF THE LITERATURE](https://pmc.ncbi.nlm.nih.gov/articles/PMC6544093/) — Acta Clinica Croatica 2018; CC BY-NC-ND.*
+
+![Transthoracic Approach Spine — Fig. 2](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-05-fig-2-acc-57-797-f2-jpg.jpg)
+*Fig. 2. Tumor composition of variably-sized vessels and capillaries that permeate adipose tissue: (A) low power; (B) high power. Immunostaining showed that vessels were positive for CD31... Source: [SPINAL DUMBBELL EPIDURAL HEMANGIOMA: TWO STAGE/SAME SITTING/SAME POSITION POSTERIOR MICROSURGICAL AND TRANSTHORACIC ENDOSCOPIC RESECTION – CASE REPORT AND REVIEW OF THE LITERATURE](https://pmc.ncbi.nlm.nih.gov/articles/PMC6544093/) — Acta Clinica Croatica 2018; CC BY-NC-ND.*
+
+![Transthoracic Approach Spine — Fig. 3](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-06-fig-3-acc-57-797-f3-jpg.jpg)
+*Fig. 3. Postoperative MRI of the thoracic spine: (A) T2-weighted sagittal sequence showing complete resection of the tumor; (B, C) T2-weighted axial sequences; (D) post-contrast T1-weighted... Source: [SPINAL DUMBBELL EPIDURAL HEMANGIOMA: TWO STAGE/SAME SITTING/SAME POSITION POSTERIOR MICROSURGICAL AND TRANSTHORACIC ENDOSCOPIC RESECTION – CASE REPORT AND REVIEW OF THE LITERATURE](https://pmc.ncbi.nlm.nih.gov/articles/PMC6544093/) — Acta Clinica Croatica 2018; CC BY-NC-ND.*
+
+![Transthoracic Approach Spine — Fig. 5](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-07-fig-5-586-2013-3054-fig5-html-jpg.jpg)
+*Fig. 5. The lines represent the 16 patients who attended the final follow-up and the small triangles represent the local kyphotic angles of the fusion levels before surgery (Pre-OP), at 3 months... Source: [Circumspinal decompression and fusion through a posterior midline incision to treat central calcified thoracolumbar disc herniation: a minimal 2-year follow-up study with reconstruction CT](https://pmc.ncbi.nlm.nih.gov/articles/PMC3906463/) — European Spine Journal 2013; CC BY.*
+
+![Transthoracic Approach Spine — Figure 1](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-08-figure-1-medicina-60-00887-g001-jpg.jpg)
+*Figure 1. Lateral decubitus position of the patient for a left lateral transthoracic transpleural approach (patient Number 6). Source: [Surgical Treatment of Calcified Thoracic Herniated Disc Disease via the Transthoracic Approach with the Use of Intraoperative Computed Tomography (iCT) and Microscope-Based Augmented Reality (AR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11206109/) — Medicina 2024; CC BY.*
+
+![Transthoracic Approach Spine — Figure 2](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-09-figure-2-medicina-60-00887-g002-jpg.jpg)
+*Figure 2. Use of standard C-arm X-ray for level definition prior to skin incision (same as Figure 1). Source: [Surgical Treatment of Calcified Thoracic Herniated Disc Disease via the Transthoracic Approach with the Use of Intraoperative Computed Tomography (iCT) and Microscope-Based Augmented Reality (AR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11206109/) — Medicina 2024; CC BY.*
+
+![Transthoracic Approach Spine — Figure 3](../../figures/curated/operative-approach-transthoracic-anterior-thoracic-approach-to-the-spine/figure-10-figure-3-medicina-60-00887-g003-jpg.jpg)
+*Figure 3. Rigid fusion of levels of interest, with the segmented vertebras in yellow and the herniated disc in blue in the axial, coronal, and sagittal views (patient number 3). Source: [Surgical Treatment of Calcified Thoracic Herniated Disc Disease via the Transthoracic Approach with the Use of Intraoperative Computed Tomography (iCT) and Microscope-Based Augmented Reality (AR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11206109/) — Medicina 2024; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
@@ -58,9 +119,6 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 - **Other:** **sympathetic chain** (on the lateral bodies), **thoracic duct** (left, lower thoracic — chylothorax), **esophagus** (anterior).
 - **Spinal:** vertebral body/disc, **posterior longitudinal ligament**, ventral dura and the **watershed thoracic cord** (low ischemic tolerance — no retraction).
 
-![Spinal cord cross-section (thoracic) — ventral compression target; the thoracic cord tolerates no retraction](../../figures/spine/spinal-cord-cross-section_gray664.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 ---
 
@@ -75,19 +133,16 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 ---
 
 ## Positioning
-📷 *[AO Surgery Reference — lateral decubitus, lung isolation](https://surgeryreference.aofoundation.org)*
 
 - **Lateral decubitus** (side up = side of approach), **table flexed** to open the rib interspaces, axillary roll, arms supported forward; **operative-side lung deflated.** Fluoroscopy/navigation and IONM baselines before incision.
 
 ## Exposure
-📷 *[AO Surgery Reference — thoracotomy / VATS](https://surgeryreference.aofoundation.org)*
 
 1. **Thoracotomy** over the appropriate rib (often the rib 1–2 levels above the target; the rib is harvested for graft) — or **thoracoscopic portals**; **deflate the lung.**
 2. **Reflect the parietal pleura** over the spine; identify and **ligate the segmental vessels at the mid-vertebral-body level** of the involved segment(s) — **preserve the artery of Adamkiewicz** per CTA.
 3. **Confirm the level** (fluoroscopy) before bone work.
 
 ## Decompression & Reconstruction
-📷 *[AO Surgery Reference — corpectomy & anterior reconstruction](https://surgeryreference.aofoundation.org)*
 
 - **Discectomies above and below**, then **corpectomy** with **ventral decompression of the canal** (remove the retropulsed fragment/calcified disc/tumor away from the cord — never toward it). Reconstruct the anterior column with an **expandable cage/mesh + graft** and **anterior instrumentation (lateral plate/rod)**; add **posterior fixation** for unstable/3-column injuries. **Chest tube**, re-inflate the lung.
 
@@ -101,13 +156,7 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 
 ### Bony anatomy (vertebra / pedicle detail)
 
-![Thoracic vertebra (superior view) — body, pedicles & canal (corpectomy target)](../../figures/spine/thoracic-vertebra-superior_gray90.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
-
-![Thoracic vertebra (lateral view) — body, rib facets & disc spaces](../../figures/spine/thoracic-vertebra-lateral_gray91.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 
 ### Operative sequence (mini-thoracotomy example)

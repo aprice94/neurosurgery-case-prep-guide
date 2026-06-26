@@ -20,15 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=spinal+cord+stimulator+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SDR meta-analysis** — McLaughlin J et al. *Dev Med Child Neurol* 2002 — selective dorsal rhizotomy for spasticity. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=McLaughlin+selective+dorsal+rhizotomy+spasticity+meta-analysis+2002)
-- **Guidelines:** [CNS Guidelines](https://www.cns.org/guidelines) · [AANS](https://www.aans.org)
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20cord%20stimulator&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+cord+stimulator+implantation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Spinal cord cross-section (dorsal columns — stimulation target)](../../figures/spine/spinal-cord-cross-section_gray664.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Complications of Spinal Cord Stimulator Trials and Implants: A Review** — Garg I. Current pain and headache reports 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38010489/)
+- **A Comprehensive Review of Spinal Cord Stimulator Infections** — Cherkalin D. Current pain and headache reports 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36454429/)
+- **Anticipating and preventing complications in spinal cord stimulator implantation** — Falowski SM. Expert review of medical devices 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36974624/)
+- **Differential target multiplexed spinal cord stimulator: a review of preclinical/clinical data and hardware advancement** — Murphy MZ. Pain management 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37249006/)
+- **Spinal cord stimulator therapy** — Forrest DM. Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses 1996. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8970301/)
+- **Spinal Cord Stimulator Implant(Archived)** — Dydyk AM. 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32310454/)
+- **Spinal cord stimulator implantation with immediate post-operative paraplegia: Case report** — Mamun N. Interventional pain medicine 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39238658/)
+- **Meralgia Paresthetica** — Solomons JNT. Current pain and headache reports 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35622311/)
+- **Spinal Cord Stimulator Infection: Approach to Diagnosis, Management, and Prevention** — Esquer Garrigos Z. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31598641/)
+- **Factors Associated With Same Day Discharge Post-Spinal Cord Stimulator Placement** — Beletsky A. Pain physician 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38324795/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Spinal Cord Stimulator Placement — Fig. 1](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-01-fig-1-jksr-83-938-g001-jpg.jpg)
+*Fig. 1. An intradural extramedullary epidermoid cyst formed at the T9 after spinal cord stimulator insertion in a 50-year-old female.A. The T2-weighted (TR/TE 3100/105) sagittal MRI image... Source: [척수 자극기 삽입술을 받았던 환자에게 드물게 생긴 흉추부 경막내 표피양 낭종: 증례 보고](https://pmc.ncbi.nlm.nih.gov/articles/PMC9514589/) — Journal of the Korean Society of Radiology 2022; CC BY-NC.*
+
+![Spinal Cord Stimulator Placement — Figure 1](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-02-figure-1-sensors-22-00501-g001-jpg.jpg)
+*Figure 1. A fully implantable neural stimulation system. The neural stimulator consisting of an implantable pulse generator and stimulation electrodes are located outside of the vertebra and at... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
+
+![Spinal Cord Stimulator Placement — Figure 2](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-03-figure-2-sensors-22-00501-g002-jpg.jpg)
+*Figure 2. (a) A block diagram of the neural stimulator and the external relay. The internal device receives power and data from the external relay through 2.5 MHz inductive link to generate a... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
+
+![Spinal Cord Stimulator Placement — Figure 3](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-04-figure-3-sensors-22-00501-g003-jpg.jpg)
+*Figure 3. (a) Fabricated implantable neural stimulator; (b) Electrode part; (c) Circuit layer; and (d) coil layer in the package. Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
+
+![Spinal Cord Stimulator Placement — Figure 4](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-05-figure-4-sensors-22-00501-g004-jpg.jpg)
+*Figure 4. Exemplar waveform of the wireless operation of spinal cord stimulator and its stimulation current pulse generation. The voltage measured across the (a) the transmitter coil and (b) the... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
+
+![Spinal Cord Stimulator Placement — Figure 5](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-06-figure-5-sensors-22-00501-g005-jpg.jpg)
+*Figure 5. Electrochemical characterization of the stimulation electrodes array. (a) Electrochemical impedance spectroscopy (EIS) measurements as represented by the mean (black line) and the... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
+
+![Spinal Cord Stimulator Placement — Figure 6](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-07-figure-6-sensors-22-00501-g006-jpg.jpg)
+*Figure 6. (a) Surgical implantation of a neural stimulator in the rat model of neuropathic pain. (b) Photograph of the rat after surgery, and (c) confirmation of implantation using X-ray images.... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
+
+![Spinal Cord Stimulator Placement — Figure 1](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-08-figure-1-brainsci-15-00616-g001-jpg.jpg)
+*Figure 1. Spinal cord stimulation explained. Source: [Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12190327/) — Brain Sciences 2025; CC BY.*
+
+![Spinal Cord Stimulator Placement — Figure 2](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-09-figure-2-brainsci-15-00616-g002-jpg.jpg)
+*Figure 2. Study timeline. Source: [Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12190327/) — Brain Sciences 2025; CC BY.*
+
+![Spinal Cord Stimulator Placement — Figure 3](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-10-figure-3-brainsci-15-00616-g003-jpg.jpg)
+*Figure 3. Selection of the sample. Source: [Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12190327/) — Brain Sciences 2025; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

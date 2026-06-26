@@ -27,18 +27,10 @@ tags:
 
 More operative video: [YouTube ▸](https://www.youtube.com/results?search_query=vestibular+schwannoma+retrosigmoid+resection) · [Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **CNS vestibular schwannoma guidelines** — observation, microsurgery, SRS, hearing/facial-nerve outcomes. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Congress+Neurological+Surgeons+vestibular+schwannoma+guideline)
-- **Natural history / hearing** — growth and hearing preservation data for observed vestibular schwannomas. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=vestibular+schwannoma+natural+history+hearing+growth)
-
 > 🧭 **Operative approach:** [Retrosigmoid craniotomy](../approaches/retrosigmoid-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=vestibular%20schwannoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vestibular+schwannoma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Interior base of skull — posterior fossa / internal acoustic meatus](../../figures/anatomy/skull-base-interior_gray193.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 ![Vestibular schwannoma — MRI/CT fusion showing tumor, sigmoid sinus and labyrinth with lateral-safe-line classification](../../figures/cranial-tumor/vs-mri-ct-fusion-classification_fsurg-889402.jpg)
 
@@ -47,6 +39,76 @@ More operative video: [YouTube ▸](https://www.youtube.com/results?search_query
 ![Intraoperative retrosigmoid microscopic view — intrameatal tumor at the IAC fundus with the tumor–nerve interface preserved](../../figures/cranial-tumor/vs-iac-microscopic-facialnerve_fsurg-889402.jpg)
 
 *Microscopic view of the intrameatal tumor (blue) / IAC fundus (green) interface, with postop imaging confirming complete resection and intact labyrinth. Source: Jia et al., Front Surg 2022;9:889402, Fig 3. CC BY 4.0.*
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
+- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
+- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **EANO guideline on the diagnosis and treatment of vestibular schwannoma** — Goldbrunner R. Neuro-oncology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31504802/)
+- **Vestibular schwannoma microsurgical technique** — Rutherford SA. Handbook of clinical neurology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41052842/)
+- **Hearing Rehabilitation in Vestibular Schwannoma** — Mankekar G. Audiology research 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37218842/)
+- **Genomics of vestibular schwannoma** — Smith MJ. Handbook of clinical neurology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41052866/)
+- **The inflammatory microenvironment in vestibular schwannoma** — Hannan CJ. Neuro-oncology advances 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32642684/)
+- **Retrosigmoid approach to vestibular schwannoma** — Shapey J. Handbook of clinical neurology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41052837/)
+- **Hearing Aid in Vestibular-Schwannoma-Related Hearing Loss: A Review** — Di Pasquale Fiasca VM. Audiology research 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37622930/)
+- **History of vestibular schwannoma management** — Ramsden R. Handbook of clinical neurology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41052831/)
+- **Management of Complications in Vestibular Schwannoma Surgery** — Kutz JW Jr. Otolaryngologic clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36964095/)
+- **Vestibular schwannoma unveiled by pregnancy: A case report and literature review** — Kadir V. European journal of obstetrics, gynecology, and reproductive biology 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38852318/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Vestibular Schwannoma Resection — Graphical Abstract](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-01-graphical-abstract-fcae400-ga-jpg.jpg)
+*Graphical Abstract. Source: [Alternatively activated macrophages are associated with faster growth rate in vestibular schwannoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC11604085/) — Brain Communications 2024; CC BY.*
+
+![Vestibular Schwannoma Resection — Figure 3](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-02-figure-3-fcae400f3-jpg.jpg)
+*Figure 3. Growing VS have more cells residing in proliferative, immune-enriched neighbourhoods. (A) Schematic detailing how the cells within a three-step connection from the target cell define a... Source: [Alternatively activated macrophages are associated with faster growth rate in vestibular schwannoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC11604085/) — Brain Communications 2024; CC BY.*
+
+![Vestibular Schwannoma Resection — Figure 4](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-03-figure-4-fcae400f4-jpg.jpg)
+*Figure 4. Classically activated TAMs associate with alternatively activated TAMs in static but not growing VS. (A) Schematic detailing how significant positive and negative cell–cell spatial... Source: [Alternatively activated macrophages are associated with faster growth rate in vestibular schwannoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC11604085/) — Brain Communications 2024; CC BY.*
+
+![Vestibular Schwannoma Resection — Figure 4](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-04-figure-4-88x31-jpg.jpg)
+*Figure 4. Source: [Sudden Sensorineural Hearing Loss and Facial Palsy in Patients with Vestibular Schwannoma Based on the Population Data of Korea](https://pmc.ncbi.nlm.nih.gov/articles/PMC10765230/) — J Int Adv Otol. 2023 Nov 1;19(6):468–71. doi: 10.5152/iao.2023.231121; CC BY-NC.*
+
+![Vestibular Schwannoma Resection — Figure 5](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-05-figure-5-88x31-jpg.jpg)
+*Figure 5. Source: [Immunological Analysis of Vestibular Schwannoma Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC9984973/) — J Int Adv Otol. 2023 Jan 1;19(1):1–4. doi: 10.5152/iao.2023.22581; CC BY-NC.*
+
+![Vestibular Schwannoma Resection — Figure 1.](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-06-figure-1-jiao-19-1-1-f001-jpg.jpg)
+*Figure 1.. Level of growth factors in the tumor growth group vs. the no tumor growth group. Source: [Immunological Analysis of Vestibular Schwannoma Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC9984973/) — The Journal of International Advanced Otology 2023; CC BY-NC.*
+
+![Vestibular Schwannoma Resection — Figure 2.](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-07-figure-2-jiao-19-1-1-f002-jpg.jpg)
+*Figure 2.. Concentration of carcinoembryonic antigen in patients with different stages of vestibular schwannoma in comparison to the control group. Source: [Immunological Analysis of Vestibular Schwannoma Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC9984973/) — The Journal of International Advanced Otology 2023; CC BY-NC.*
+
+![Vestibular Schwannoma Resection — Figure 1](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-08-figure-1-cureus-0010-00000003304-i01-jpg.jpg)
+*Figure 1. Juvenile nasopharyngeal angiofibroma and cleft lip and cleft palate.A 38-year-old man has atrophy of the right temporal area (arrows) resulting from the surgical treatment of his... Source: [A Man with Juvenile Nasopharyngeal Angiofibroma, Vestibular Schwannoma, Cleft Lip and Cleft Palate, and Various Nevi: Case Report and Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6417465/) — Cureus 2018; CC BY.*
+
+![Vestibular Schwannoma Resection — Figure 2](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-09-figure-2-cureus-0010-00000003304-i02-jpg.jpg)
+*Figure 2. Compound dysplastic nevus with mild atypia on the right mid-back.Distant (A) and closer (B) views of an oval dark brown patch (arrow) on the right mid-back. Microscopic examination of... Source: [A Man with Juvenile Nasopharyngeal Angiofibroma, Vestibular Schwannoma, Cleft Lip and Cleft Palate, and Various Nevi: Case Report and Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6417465/) — Cureus 2018; CC BY.*
+
+![Vestibular Schwannoma Resection — Figure 3](../../figures/curated/case-prep-vestibular-schwannoma-acoustic-neuroma-resection/figure-10-figure-3-cureus-0010-00000003304-i03-jpg.jpg)
+*Figure 3. Combined (blue and intradermal) nevus of the right mid-chest.Distant (A) and closer (B) views of a small black macule (arrow) on the right mid-chest. Microscopic examination of the shave... Source: [A Man with Juvenile Nasopharyngeal Angiofibroma, Vestibular Schwannoma, Cleft Lip and Cleft Palate, and Various Nevi: Case Report and Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6417465/) — Cureus 2018; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

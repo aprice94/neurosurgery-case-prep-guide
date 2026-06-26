@@ -21,16 +21,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=deep+brain+stimulation+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **DBS vs medical** — Deuschl G et al. *NEJM* 2006 — STN-DBS vs best medical therapy in PD. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Deuschl+deep+brain+stimulation+Parkinson+disease+2006+NEJM)
-- **EARLYSTIM** — Schuepbach WMM et al. *NEJM* 2013 — DBS in earlier disease with motor complications. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Schuepbach+EARLYSTIM+deep+brain+stimulation+Parkinson+2013+NEJM)
-- **CSP-468** — Weaver FM et al. *JAMA* 2009 — DBS vs medical therapy, randomized. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Weaver+deep+brain+stimulation+Parkinson+randomized+2009+JAMA)
-- **Guidelines:** [AAN guidelines](https://www.aan.com/practice/guidelines) · [CNS](https://www.cns.org/guidelines)
-
-![Ventricular system & deep nuclei (DBS target relations)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 ![DBS surgical workflow — preoperative trajectory planning, intraoperative microelectrode recording/microstimulation, and lead-placement assessment](../../figures/cranial-functional/dbs-workflow-planning-mer_fneur-683532.jpg)
 
@@ -45,6 +35,76 @@ tags:
 *MER signatures distinguishing STN from SNr during trajectory mapping. Source: Shi et al., Front Neurol 2021;12:683532, Fig 4. CC BY 4.0.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=deep%20brain%20stimulation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=deep+brain+stimulation+STN+targeting) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
+- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
+- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Accurate Deep Brain Stimulation Lead Placement Concurrent With Research Electrocorticography** — Kons Z. Operative neurosurgery (Hagerstown, Md.) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36701668/)
+- **Interventional MRI-Guided Deep Brain Stimulation Lead Implantation** — Lee PS. Neurosurgery clinics of North America 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28917282/)
+- **Deep brain stimulation lead removal in Tourette syndrome** — Deeb W. Parkinsonism & related disorders 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32712563/)
+- **Deep Brain Stimulation Lead Localization Variability Comparing Intraoperative MRI Versus Postoperative Computed Tomography** — Yearley AG. Operative neurosurgery (Hagerstown, Md.) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37584483/)
+- **Directional Deep Brain Stimulation Lead Rotation in the Early Postoperative Period** — Dang HQ. Neurosurgery practice 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39959892/)
+- **Subthalamic Deep Brain Stimulation Lead Asymmetry Impacts the Parkinsonian Gait Disorder** — Schott FP. Frontiers in human neuroscience 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35418844/)
+- **Complications Related to Deep Brain Stimulation Lead Implantation: A Single-Surgeon Case Series** — Powers AY. Operative neurosurgery (Hagerstown, Md.) 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36701570/)
+- **Safety of Deep Brain Stimulation Lead Placement on Patients Requiring Anticlotting Therapies** — Topp G. World neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33068799/)
+- **Parkinsonian daytime sleep-wake classification using deep brain stimulation lead recordings** — Verma AK. Neurobiology of disease 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36521781/)
+- **Deep brain stimulation lead fracture with normal impedances: case report and review of literature** — Darie L. British journal of neurosurgery 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40503617/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Deep Brain Stimulation Lead Placement — Figure 2.](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-01-figure-2-10-1177-2050312120913458-fig2-jpg.jpg)
+*Figure 2.. An axial MRI image showing the misplaced deep brain stimulation (DBS) lead tip on the left side of the brain: (a) It is located posterolaterally to the ideal location (arrow); (b) the... Source: [Surgical management of adverse events associated with deep brain stimulation: A single-center experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082866/) — SAGE Open Medicine 2020; CC BY-NC.*
+
+![Deep Brain Stimulation Lead Placement — Figure 3.](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-02-figure-3-10-1177-2050312120913458-fig3-jpg.jpg)
+*Figure 3.. X-ray films showing an additional deep brain stimulation (DBS) lead in the globus pallidus interna (GPi) (a) and the replaced dual-channel implantable pulse generator (b). Source: [Surgical management of adverse events associated with deep brain stimulation: A single-center experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082866/) — SAGE Open Medicine 2020; CC BY-NC.*
+
+![Deep Brain Stimulation Lead Placement — Figure 4.](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-03-figure-4-10-1177-2050312120913458-fig4-jpg.jpg)
+*Figure 4.. A ventrally migrated deep brain stimulation (DBS) lead is shown on the coronal (a) and axial (b, c) CT images and a skull x-ray (d). Two preoperative axial CT images (b, c) show the tips... Source: [Surgical management of adverse events associated with deep brain stimulation: A single-center experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082866/) — SAGE Open Medicine 2020; CC BY-NC.*
+
+![Deep Brain Stimulation Lead Placement — Figure 5.](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-04-figure-5-10-1177-2050312120913458-fig5-jpg.jpg)
+*Figure 5.. Fractured lead shown on the skull x-ray (a) and intraoperative pictures (b, c). Source: [Surgical management of adverse events associated with deep brain stimulation: A single-center experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082866/) — SAGE Open Medicine 2020; CC BY-NC.*
+
+![Deep Brain Stimulation Lead Placement — Figure 5](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-05-figure-5-10-1177-2050312120913458-img1-jpg.jpg)
+*Figure 5. Source: [Surgical management of adverse events associated with deep brain stimulation: A single-center experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082866/) — SAGE Open Med. 2020 Mar 19;8:2050312120913458. doi: 10.1177/2050312120913458; CC BY-NC.*
+
+![Deep Brain Stimulation Lead Placement — Figure 1](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-06-figure-1-crim-nm2013-691840-001-jpg.jpg)
+*Figure 1. (a) Axial CT without contrast enhancement showing hypodense 1.5 cm ovoid lesion in left basal ganglia surrounding deep brain stimulator lead four months after DBS placement. (b) The... Source: [Recurrent, Delayed Hemorrhage Associated with Edoxaban after Deep Brain Stimulation Lead Placement](https://pmc.ncbi.nlm.nih.gov/articles/PMC3556834/) — Case Reports in Neurological Medicine 2013; CC BY.*
+
+![Deep Brain Stimulation Lead Placement — Figure 2](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-07-figure-2-crim-nm2013-691840-002-jpg.jpg)
+*Figure 2. Axial CT without contrast enhancement showing no acute hemorrhage along DBS tract immediately after DBS placement. Source: [Recurrent, Delayed Hemorrhage Associated with Edoxaban after Deep Brain Stimulation Lead Placement](https://pmc.ncbi.nlm.nih.gov/articles/PMC3556834/) — Case Reports in Neurological Medicine 2013; CC BY.*
+
+![Deep Brain Stimulation Lead Placement — Figure 3](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-08-figure-3-crim-nm2013-691840-003-jpg.jpg)
+*Figure 3. Axial CT without contrast enhancement showing 1.9 × 1.5 cm acute hemorrhage in the left cerebral peduncle five months after DBS placement. Source: [Recurrent, Delayed Hemorrhage Associated with Edoxaban after Deep Brain Stimulation Lead Placement](https://pmc.ncbi.nlm.nih.gov/articles/PMC3556834/) — Case Reports in Neurological Medicine 2013; CC BY.*
+
+![Deep Brain Stimulation Lead Placement — Figure 4](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-09-figure-4-crim-nm2013-691840-004-jpg.jpg)
+*Figure 4. Repeat axial head CT without contrast enhancement done 24 hours after initial CT scan showing interval improvement of left cerebral peduncle hemorrhage. Source: [Recurrent, Delayed Hemorrhage Associated with Edoxaban after Deep Brain Stimulation Lead Placement](https://pmc.ncbi.nlm.nih.gov/articles/PMC3556834/) — Case Reports in Neurological Medicine 2013; CC BY.*
+
+![Deep Brain Stimulation Lead Placement — Figure 1:](../../figures/curated/case-prep-deep-brain-stimulation-dbs-lead-placement/figure-10-figure-1-sni-11-259-g001-jpg.jpg)
+*Figure 1:. (a) Unremarkable head computed tomography (CT) performed early on postoperative day (POD) 1. (b) Stat head CT later on POD 1 showing marked left-sided peri-lead edema extending into the... Source: [Case report of hyperacute edema and cavitation following deep brain stimulation lead implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7533082/) — Surgical Neurology International 2020; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

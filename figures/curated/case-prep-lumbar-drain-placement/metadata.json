@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC7077023",
+    "article_title": "In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy",
+    "journal": "Fluids and Barriers of the CNS",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Fig. 1",
+    "caption": "Overview of in vitro and numerical model based on subject specific MRI measurements. a T2-weighted MR image of the entire CSF space for the human analyzed to acquire subject-specific anatomy and natural CSF pulsations. b An in vitro bench-top model of the human CSF filled spaces was generated from MRI images, (b1\u20132) in vitro model spinal canal including nerve roots and cauda equina. c computational model of the human central nervous system (c1) magnification of the cranial SAS consisting of lateral ventricles, foramen Monro (left and right), third ventricle, aqueduct of Sylvius, 4th ventricle, foramen Luschka, cisterna magna, pre-pontine and pontine cistern, trigeminal cistern, quadrigeminal cistern, Sylvian cisterns (left and right), and cortical subarachnoid space. (c2) Volumetric and surface mesh visualization with prism layers near the wall",
+    "href": "12987_2020_185_Fig1_HTML.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-01-fig-1-12987-2020-185-fig1-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7077023.1/12987_2020_185_Fig1_HTML.jpg?md5=43d12e2f22881adf41a61b6a6c713584"
+  },
+  {
+    "pmcid": "PMC7077023",
+    "article_title": "In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy",
+    "journal": "Fluids and Barriers of the CNS",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Fig. 2",
+    "caption": "Schematic of the Neurapheresis system and study protocol. a Three-dimensional CFD model of the SAS with flow boundary conditions and magnified view of the Neurapheresis catheter return and aspiration ports. b Oscillatory pump to induce CSF pulsations to match the CSF flow field acquired by phase contrast-MRI",
+    "href": "12987_2020_185_Fig2_HTML.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-02-fig-2-12987-2020-185-fig2-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7077023.1/12987_2020_185_Fig2_HTML.jpg?md5=e475db096d6c226889b82387699fdbb0"
+  },
+  {
+    "pmcid": "PMC7077023",
+    "article_title": "In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy",
+    "journal": "Fluids and Barriers of the CNS",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Fig. 3",
+    "caption": "Hydrodynamic and geometric characterization of the computational domain in relation to distance from the foramen magnum (FM). a Hydraulic diameter (Left axis) and Womersley number (right axis), b mean velocity of CSF, c cross-sectional area, d cross-sectional perimeter of the subarachnoid space, and e Reynolds number",
+    "href": "12987_2020_185_Fig3_HTML.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-03-fig-3-12987-2020-185-fig3-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7077023.1/12987_2020_185_Fig3_HTML.jpg?md5=bf9a03876e0745639d7a90d39856de76"
+  },
+  {
+    "pmcid": "PMC7077023",
+    "article_title": "In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy",
+    "journal": "Fluids and Barriers of the CNS",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Fig. 4",
+    "caption": "Quantification of steady-streaming velocities. Steady-streaming within the spinal SAS increases with Neurapheresis therapy compared to lumbar drain. a Coronal view of cyclic mean z-velocity profiles, \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$U_{z{\\text{-}}mean}$$\\end{document}Uz-mean, in the cranial SAS is nearly identical for Neurapheresis therapy and lumbar drain. b Sagittal view of cyclic mean z-velocity profiles, \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$U_{z{\\text{-}}mean}$$\\end{document}Uz-mean, simulated by CFD for lumbar drain (left) and Neurapheresis therapy (right). c Steady-streaming velocity magnitude, \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$U_{ss}$$\\end{document}Uss, and d non-dimensional fraction of flow rate amplitude, \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$Q_{ss}$$\\end{document}Qss",
+    "href": "12987_2020_185_Fig4_HTML.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-04-fig-4-12987-2020-185-fig4-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7077023.1/12987_2020_185_Fig4_HTML.jpg?md5=261978b4d18ee87fa9c8fbcdf242163f"
+  },
+  {
+    "pmcid": "PMC7077023",
+    "article_title": "In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy",
+    "journal": "Fluids and Barriers of the CNS",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Fig. 5",
+    "caption": "Cross-sectional average tracer concentration over 24-h. a Neurapheresis therapy and b lumbar drain. (a1) Cross-sectional average tracer concentration plotted with respect to time at specific axial locations under Neurapheresis therapy. (a2) Cross-sectional average tracer concentration along the neuroaxis for different time points, t = 0, 1, 6, 12, and 24 h under Neurapheresis therapy. (a3) spatial temporal plot for cross-sectional average tracer concentration for CFD and in vitro under Neurapheresis therapy along the model for 24-h. (b1) Cross-sectional average tracer concentration plotted with respect to time at specific axial locations under lumbar drain. (b2) Average tracer concentration along the neuroaxis for different time points, t = 0, 1, 6, 12, and 24 h under lumbar drain. (b3) spatial temporal plot for cross-sectional average tracer concentration for CFD and in vitro under lumbar drain along the model for 24-h",
+    "href": "12987_2020_185_Fig5_HTML.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-05-fig-5-12987-2020-185-fig5-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7077023.1/12987_2020_185_Fig5_HTML.jpg?md5=c67609cc77f38ca94415434c9f3c444f"
+  },
+  {
+    "pmcid": "PMC7077023",
+    "article_title": "In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy",
+    "journal": "Fluids and Barriers of the CNS",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Fig. 6",
+    "caption": "CFD results for 2D tracer concentration profiles versus time under Neurapheresis therapy and lumbar drain. a Visualization of tracer concentration at 0, 1, 6, 12, and 24 h under Neurapheresis therapy, and b visualization of tracer concentration at 1, 6, 12, and 24 h under lumbar drain",
+    "href": "12987_2020_185_Fig6_HTML.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-06-fig-6-12987-2020-185-fig6-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7077023.1/12987_2020_185_Fig6_HTML.jpg?md5=187b77aa8df5bd06263999df2f9f048c"
+  },
+  {
+    "pmcid": "PMC12543038",
+    "article_title": "Retained Lumbar Drain Tip Leading to Intrathecal Hematoma: A Case Report on Perioperative Risks and Management",
+    "journal": "Cureus",
+    "year": "2025",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Lumbar spine CTSagittal (lateral) view. Vertebral levels are labeled for orientation. The arrow indicates the retained catheter fragment within the intrathecal space.",
+    "href": "cureus-0017-00000095169-i01.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-07-figure-1-cureus-0017-00000095169-i01-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12543038.1/cureus-0017-00000095169-i01.jpg?md5=0edcdfd7efda07b2a71299030069d0a6"
+  },
+  {
+    "pmcid": "PMC12543038",
+    "article_title": "Retained Lumbar Drain Tip Leading to Intrathecal Hematoma: A Case Report on Perioperative Risks and Management",
+    "journal": "Cureus",
+    "year": "2025",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Lumbar spine CT Coronal view. The arrow indicates the retained catheter fragment.",
+    "href": "cureus-0017-00000095169-i02.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-08-figure-2-cureus-0017-00000095169-i02-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12543038.1/cureus-0017-00000095169-i02.jpg?md5=f9ccda24e6ad80fb190c3c9929ccde0a"
+  },
+  {
+    "pmcid": "PMC8385128",
+    "article_title": "Ruptured Suprasellar Dermoid Cyst Treated With Lumbar Drain to Prevent Postoperative Hydrocephalus: Case Report and Focused Review of Literature",
+    "journal": "Frontiers in Surgery",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Sagittal (A) and Axial (B) non contrast Head CT showing a hypodense lesion in the sella/suprasellar region (white arrow), with associated scattered hypodense globules along the parasagittal sulci and left sylvian fissure (red arrows) (C) Sagittal T1 fluid-attenuated inversion recovery (FLAIR), (D) 3D T2 fast spin-echo (FSE), and (E) Coronal T1-weighted MRI showing a ruptured sellar dermoid cyst with pathognomonic blood-fat-CSF level (white arrow).",
+    "href": "fsurg-08-714771-g0001.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-09-figure-1-fsurg-08-714771-g0001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8385128.1/fsurg-08-714771-g0001.jpg?md5=1a0816972e99810c08ffdfa34a13ddbf"
+  },
+  {
+    "pmcid": "PMC8385128",
+    "article_title": "Ruptured Suprasellar Dermoid Cyst Treated With Lumbar Drain to Prevent Postoperative Hydrocephalus: Case Report and Focused Review of Literature",
+    "journal": "Frontiers in Surgery",
+    "year": "2021",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "(A) Contrast-enhanced Sagittal T1 image 6 months after craniotomy, showing decompression of the sellar region with resolved mass effect over the optic pathway. (B) Axial T2 MRI at 6 months after surgery, showing normal size of ventricles and sulci.",
+    "href": "fsurg-08-714771-g0002.jpg",
+    "local": "figures/curated/case-prep-lumbar-drain-placement/figure-10-figure-2-fsurg-08-714771-g0002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8385128.1/fsurg-08-714771-g0002.jpg?md5=87057f00ebb3d40bbfae43201d848a07"
+  }
+]

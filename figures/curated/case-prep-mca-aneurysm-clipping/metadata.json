@@ -1,0 +1,122 @@
+[
+  {
+    "pmcid": "PMC7393864",
+    "article_title": "Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms",
+    "journal": "Chinese Neurosurgical Journal",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Fig. 1",
+    "caption": "Contrast Pterional approach, LSO approach and modified LSO approach bone window shape in craniotomy. a represents a conventional Pterional approach, b represents a classical LSO approach, and c represents a modified LSO approach",
+    "href": "41016_2018_110_Fig1_HTML.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-01-fig-1-41016-2018-110-fig1-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7393864.1/41016_2018_110_Fig1_HTML.jpg?md5=453080379121bcb5425fa9c5c6a0ec91"
+  },
+  {
+    "pmcid": "PMC7393864",
+    "article_title": "Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms",
+    "journal": "Chinese Neurosurgical Journal",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Fig. 2",
+    "caption": "Contrast modified LSO approach and Pterional approach bone window shape in middle aneurysm clipping surgery. a and b represent the shape of the bone flap of the modified LSO approach and the Pterional approach, respectively. c and d are a and b through the software to remove the bone flap obtained from the perspective of the picture. Aneurysm clips are marked with red arrows",
+    "href": "41016_2018_110_Fig2_HTML.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-02-fig-2-41016-2018-110-fig2-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7393864.1/41016_2018_110_Fig2_HTML.jpg?md5=6b1e21c45540e2de956b92f18f877b77"
+  },
+  {
+    "pmcid": "PMC7393864",
+    "article_title": "Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms",
+    "journal": "Chinese Neurosurgical Journal",
+    "year": "2018",
+    "license": "CC BY",
+    "label": "Fig. 3",
+    "caption": "Operation flow chart of MCA aneurysm clipping by modified LSO approach. a is the skin incision pattern. b and c represent the presentation of MCA aneurysms. d represents temporary blocking aneurysm proximal blood vessels. e-g represents the MCA aneurysm clipping process. h represents bone flap reduction",
+    "href": "41016_2018_110_Fig3_HTML.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-03-fig-3-41016-2018-110-fig3-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7393864.1/41016_2018_110_Fig3_HTML.jpg?md5=dd4a643079482268c566abbc85a23c23"
+  },
+  {
+    "pmcid": "PMC13269259",
+    "article_title": "Predicting future surgical steps during MCA aneurysm clipping using a multimodal transformer",
+    "journal": "Frontiers in Surgery",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Multimodal transformer architecture for future surgical step prediction. RGB microscope frames were processed through a CNN-LSTM visual branch, and observed ground-truth surgical step labels were encoded through an annotation branch. The resulting features were concatenated, projected through a fully connected layer, processed by a transformer encoder with multi-head self-attention, and passed to a softmax classifier to predict future surgical step labels.",
+    "href": "fsurg-13-1827725-g001.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-04-figure-1-fsurg-13-1827725-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13269259.1/fsurg-13-1827725-g001.jpg?md5=5d6a6a22a1600ee562ece3aee97e5f58"
+  },
+  {
+    "pmcid": "PMC13269259",
+    "article_title": "Predicting future surgical steps during MCA aneurysm clipping using a multimodal transformer",
+    "journal": "Frontiers in Surgery",
+    "year": "2026",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "Temporal alignment of predicted and ground-truth surgical step sequences across test cases. Panels A\u2013C correspond to Cases 1, 2, and 4; panels D\u2013F correspond to Cases 5, 6, and 7; and panel G corresponds to Case 3. Each panel represents one case, with rows showing video-only, annotation-only, and multimodal model predictions alongside the ground-truth sequence. Colors indicate distinct surgical steps, enabling comparison of predicted step timing, transitions, and overall sequence agreement across model configurations.",
+    "href": "fsurg-13-1827725-g002.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-05-figure-2-fsurg-13-1827725-g002-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13269259.1/fsurg-13-1827725-g002.jpg?md5=287bc12ce751f7751d286817d0d3ab0a"
+  },
+  {
+    "pmcid": "PMC7044220",
+    "article_title": "Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping",
+    "journal": "Scientific Reports",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Figure 1",
+    "caption": "Based on logistic regression analysis based on the 28 instances of temporary clipping, if a temporary clip needed to be applied for 312 seconds or more, there was a higher probability (R2: 0.55) of encountering a severe reduction in the MEP amplitude.",
+    "href": "41598_2020_60377_Fig1_HTML.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-06-figure-1-41598-2020-60377-fig1-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7044220.1/41598_2020_60377_Fig1_HTML.jpg?md5=a9494ec9b96ee09378ae57e8c3cf3e1b"
+  },
+  {
+    "pmcid": "PMC7044220",
+    "article_title": "Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping",
+    "journal": "Scientific Reports",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Figure 2",
+    "caption": "A CT scan taken at admission showed SAH (Fisher group 3) (Fig. 2a,b), and 3DCTA showed an intracranial aneurysm in the left MCA bifurcation (Fig. 2c). Intraoperative monitoring results of precise MEP via DCS with reduced interval shows three instances of temporary clipping (Temp #1, Temp #2, and Temp #3) with severe reduction in the MEP amplitude. After applying a permanent clip (Sugita #21) to the aneurysm, the MEP amplitude was preserved (Fig. 2d). The graph shows three instances of MEP amplitude after applying a temporary clip. It is notable that the MEP amplitude showed an extreme increase (>400%) before showing a severe reduction, as seen in Temp #3 (Fig. 2e).",
+    "href": "41598_2020_60377_Fig2_HTML.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-07-figure-2-41598-2020-60377-fig2-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7044220.1/41598_2020_60377_Fig2_HTML.jpg?md5=2ed352479cf8148b36a9c78a802370c6"
+  },
+  {
+    "pmcid": "PMC7044220",
+    "article_title": "Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping",
+    "journal": "Scientific Reports",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Figure 3",
+    "caption": "Flow diagram.",
+    "href": "41598_2020_60377_Fig3_HTML.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-08-figure-3-41598-2020-60377-fig3-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7044220.1/41598_2020_60377_Fig3_HTML.jpg?md5=36674f657c3cfc7a3f63ad40f59c9ed5"
+  },
+  {
+    "pmcid": "PMC7044220",
+    "article_title": "Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping",
+    "journal": "Scientific Reports",
+    "year": "2020",
+    "license": "CC BY",
+    "label": "Figure 4",
+    "caption": "Time course for clipping surgery with temporary clipping under precise MEP monitoring.",
+    "href": "41598_2020_60377_Fig4_HTML.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-09-figure-4-41598-2020-60377-fig4-html-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7044220.1/41598_2020_60377_Fig4_HTML.jpg?md5=81ac94228bb7b4bb1c044ca5fda9f841"
+  },
+  {
+    "pmcid": "PMC5445649",
+    "article_title": "Safe time duration for temporary middle cerebral artery occlusion in aneurysm surgery based on motor-evoked potential monitoring",
+    "journal": "Surg Neurol Int. 2017 May 10;8:79. doi: 10.4103/sni.sni_410_16",
+    "year": "",
+    "license": "CC BY-NC-SA",
+    "label": "Figure 10",
+    "caption": "",
+    "href": "SNI-8-79-g001.jpg",
+    "local": "figures/curated/case-prep-mca-aneurysm-clipping/figure-10-figure-10-sni-8-79-g001-jpg.jpg",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5445649.1/SNI-8-79-g001.jpg?md5=e922e9aeb930423a8ed326d94e953749"
+  }
+]

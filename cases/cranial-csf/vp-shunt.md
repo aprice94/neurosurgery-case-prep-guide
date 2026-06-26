@@ -25,16 +25,76 @@ tags:
 - **Imaging review:** [Radiopaedia — VP shunt](https://radiopaedia.org/search?q=ventriculoperitoneal%20shunt&scope=all) · [Radiopaedia — hydrocephalus](https://radiopaedia.org/search?q=hydrocephalus&scope=all)
 - **Open-access anatomy/technique:** [PubMed Central — ventriculoperitoneal shunt](https://www.ncbi.nlm.nih.gov/pmc/?term=ventriculoperitoneal+shunt+technique)
 
-**📑 Key evidence — landmark trials & guidelines**
 
-- **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
-- **SINPHONI / NPH evidence** — prospective idiopathic normal-pressure hydrocephalus cohorts; useful for counseling gait/cognition response and selection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=SINPHONI+idiopathic+normal+pressure+hydrocephalus+shunt)
-- **Shunt infection prevention** — HCRN protocols and perioperative bundles. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hydrocephalus+Clinical+Research+Network+shunt+infection+prevention+protocol)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS pediatric hydrocephalus guidelines](https://www.cns.org/guidelines) · [AANS patient hydrocephalus resources](https://www.aans.org/patients/conditions-treatments/hydrocephalus/)
+---
 
-![Ventricular system — lateral ventricle / frontal horn (proximal catheter target)](../../figures/anatomy/ventricles_gray734.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Shunt migration in ventriculoperitoneal shunting: A comprehensive review of literature** — Harischandra LS. Neurology India 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30860103/)
+- **Ventriculoperitoneal Shunt Infection** — López-Sánchez C. JAMA dermatology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33001141/)
+- **Techniques and Nuances in Ventriculoperitoneal Shunt Surgery** — Pillai SV. Neurology India 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35103004/)
+- **The Evolution of Ventriculoperitoneal Shunt Valves and Why They Fail** — Stehlik BN. World neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39710199/)
+- **Ventriculoperitoneal Shunt-related Intrapelvic Abscess** — Zenda T. Internal medicine (Tokyo, Japan) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31787703/)
+- **Ventriculoperitoneal Shunt Complications In Children: An Evidence-Based Approach To Emergency Department Management** — Bober J. Pediatric emergency medicine practice 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26794147/)
+- **Ventriculoperitoneal shunt** — Hauk L. AORN journal 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29341099/)
+- **Ventriculoperitoneal Shunt Tap Task Trainer: A Technical Report** — Connors J. Cureus 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37539425/)
+- **Ventriculoperitoneal shunt tap** — Oakes WJ. Journal of neurosurgery. Pediatrics 2008. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18518691/)
+- **Ventriculoperitoneal shunt migration into the pulmonary artery: Case report and literature review** — González-Pombo M. Neurocirugia 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36775740/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Ventriculoperitoneal Shunt Placement — Figure 1.](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-01-figure-1-1757-1626-0002-0000008251-001-jpg.jpg)
+*Figure 1.. The ventriculoperitoneal shunt catheter is protruding through the patient’s normal-appearing anus. Source: [Spontaneous bowel perforation complicating ventriculoperitoneal shunt: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC2769419/) — Cases Journal 2009; CC BY.*
+
+![Ventriculoperitoneal Shunt Placement — Figure 2.](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-02-figure-2-1757-1626-0002-0000008251-002-jpg.jpg)
+*Figure 2.. Plain abdominal radiography showing the ventriculoperitoneal shunt catheter within the colonic lumen. Source: [Spontaneous bowel perforation complicating ventriculoperitoneal shunt: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC2769419/) — Cases Journal 2009; CC BY.*
+
+![Ventriculoperitoneal Shunt Placement — Figure 3.](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-03-figure-3-1757-1626-0002-0000008251-003-jpg.jpg)
+*Figure 3.. Sigmoidoscopy showed the distal part of the ventriculoperitoneal shunt catheter within the sigmoid colon and the penetration site at the distal descending colon. Source: [Spontaneous bowel perforation complicating ventriculoperitoneal shunt: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC2769419/) — Cases Journal 2009; CC BY.*
+
+![Ventriculoperitoneal Shunt Placement — Figure 4.](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-04-figure-4-1757-1626-0002-0000008251-004-jpg.jpg)
+*Figure 4.. Laparotomy view: the distal part of the ventriculoperitoneal shunt catheter penetrating the sigmoid colon. Source: [Spontaneous bowel perforation complicating ventriculoperitoneal shunt: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC2769419/) — Cases Journal 2009; CC BY.*
+
+![Ventriculoperitoneal Shunt Placement — Table 1.](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-05-table-1-medarch-79-122-g001-jpg.jpg)
+*Table 1.. Distribution of patients with implanted ventriculoperitoneal shunts by age and gender *-T test; X- Mean value; SD- Standard deviation; **-Chi-square test of independence Source: [Complications and Outcome in Patients With Hydrocephalus Who Have Had a Ventriculoperitoneal Shunt Implanted](https://pmc.ncbi.nlm.nih.gov/articles/PMC12269767/) — Medical Archives 2025; CC BY-NC.*
+
+![Ventriculoperitoneal Shunt Placement — Table 2.](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-06-table-2-medarch-79-122-g002-jpg.jpg)
+*Table 2.. Degree of disability of patients with implanted ventriculoperitoneal shunt mRS on Admission, mRS-Modified Rankin Scale; * - Chi-square test; Source: [Complications and Outcome in Patients With Hydrocephalus Who Have Had a Ventriculoperitoneal Shunt Implanted](https://pmc.ncbi.nlm.nih.gov/articles/PMC12269767/) — Medical Archives 2025; CC BY-NC.*
+
+![Ventriculoperitoneal Shunt Placement — Table 3.](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-07-table-3-medarch-79-122-g003-jpg.jpg)
+*Table 3.. Outcome of patients with idiopathic hydrocephalus who underwent ventriculoperitoneal shunt implantation in relation to gender * - Chi-square test; Source: [Complications and Outcome in Patients With Hydrocephalus Who Have Had a Ventriculoperitoneal Shunt Implanted](https://pmc.ncbi.nlm.nih.gov/articles/PMC12269767/) — Medical Archives 2025; CC BY-NC.*
+
+![Ventriculoperitoneal Shunt Placement — Figure 1](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-08-figure-1-cureus-0013-00000020546-i01-jpg.jpg)
+*Figure 1. Axial computed tomography (CT) scan Shows enlargement of the ventricles (black arrows) with transependymal edema (white arrows). Source: [The Intraventricular Pseudocyst as a Complication of Ventriculoperitoneal Shunt: A Rare Case Report and Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8776519/) — Cureus 2021; CC BY.*
+
+![Ventriculoperitoneal Shunt Placement — Figure 2](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-09-figure-2-cureus-0013-00000020546-i02-jpg.jpg)
+*Figure 2. Computed tomography (CT) scan without contrast enhancementCT scan without contrast enhancement in the sagittal (a), coronal (b), and axial (c) planes. Shows pseudocyst (white arrows)... Source: [The Intraventricular Pseudocyst as a Complication of Ventriculoperitoneal Shunt: A Rare Case Report and Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8776519/) — Cureus 2021; CC BY.*
+
+![Ventriculoperitoneal Shunt Placement — Figure 3](../../figures/curated/case-prep-ventriculoperitoneal-vp-shunt-placement/figure-10-figure-3-cureus-0013-00000020546-i03-jpg.jpg)
+*Figure 3. Endoscopic image Showing ventricular catheter inside the cystic cavity (black arrows). Source: [The Intraventricular Pseudocyst as a Complication of Ventriculoperitoneal Shunt: A Rare Case Report and Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8776519/) — Cureus 2021; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

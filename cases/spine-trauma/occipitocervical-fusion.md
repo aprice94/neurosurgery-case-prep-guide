@@ -21,18 +21,80 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=craniovertebral+junction+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Occipitocervical fixation** — indications, alignment, fusion constructs, and complication literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=occipitocervical+fusion+indications+alignment+complications)
-- **Craniocervical junction trauma** — instability patterns and operative management literature. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=craniocervical+junction+trauma+occipitocervical+fusion)
-
 > 🧭 **Operative approach:** [Far-lateral / craniocervical approach](../approaches/far-lateral-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=craniovertebral%20junction&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=occipitocervical+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — craniovertebral junction (occiput–C2)](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Occipitocervical Fusion: An Updated Review** — Ashafai NS. Acta neurochirurgica. Supplement 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30610329/)
+- **Occipitocervical fusion** — Garrido BJ. The Orthopedic clinics of North America 2012. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22082624/)
+- **Occipitocervical Fusion** — Lavano A. Acta neurochirurgica. Supplement 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30610328/)
+- **Traumatic Occipitocervical Distraction Injuries in Children: A Systematic Review** — Hale AT. Pediatric neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30844793/)
+- **Occipitocervical dissociation-incidence, evaluation, and treatment** — Kasliwal MK. Current reviews in musculoskeletal medicine 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27255101/)
+- **[Occipitocervical junction: Aanatomy, craniometry and pathology]** — Furtner J. Der Radiologe 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27025384/)
+- **Occipitocervical fixation: A case report of our techniques and results** — Sakti YM. International journal of surgery case reports 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34902699/)
+- **Challenges in Occipitocervical Fusion in a 9-Month-Old Infant: A Case Report and Review of Literature** — Thirugnanam B. Neurology India 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38443017/)
+- **Occipitocervical junction: imaging, pathology, instrumentation** — Benke M. American journal of orthopedics (Belle Mead, N.J.) 2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22263204/)
+- **Complications in Occipitocervical Surgery** — Ozer AF. Acta neurochirurgica. Supplement 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39570356/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Occipitocervical Fusion — Figure 1](../../figures/curated/case-prep-occipitocervical-fusion/figure-01-figure-1-13018-2014-87-fig1-html-jpg.jpg)
+*Figure 1. Illustrations of the MCD, OCA, and OCD on one lateral radiograph. The MCD is the shortest distance (BD) from the midpoint (point B) of the two apices of the mandible angles (points A and... Source: [Evaluation of occipitocervical neutral position using lateral radiographs](https://pmc.ncbi.nlm.nih.gov/articles/PMC4194409/) — Journal of Orthopaedic Surgery and Research 2014; CC BY.*
+
+![Occipitocervical Fusion — Figure 2](../../figures/curated/case-prep-occipitocervical-fusion/figure-02-figure-2-13018-2014-87-fig2-html-jpg.jpg)
+*Figure 2. The MCDs were less affected when the head was slightly rotated. The figure shows the head in neutral position (a). The head turned right (b), and the head turned left (c). Source: [Evaluation of occipitocervical neutral position using lateral radiographs](https://pmc.ncbi.nlm.nih.gov/articles/PMC4194409/) — Journal of Orthopaedic Surgery and Research 2014; CC BY.*
+
+![Occipitocervical Fusion — Figure 3](../../figures/curated/case-prep-occipitocervical-fusion/figure-03-figure-3-13018-2014-87-fig3-html-jpg.jpg)
+*Figure 3. A preoperative and postoperative radiograph. (a) Preoperative radiograph of a patient with chronic atlantoaxial dislocation secondary to occipitalization showed a decreased MCD and OCA.... Source: [Evaluation of occipitocervical neutral position using lateral radiographs](https://pmc.ncbi.nlm.nih.gov/articles/PMC4194409/) — Journal of Orthopaedic Surgery and Research 2014; CC BY.*
+
+![Occipitocervical Fusion — Fig. 1](../../figures/curated/case-prep-occipitocervical-fusion/figure-04-fig-1-12891-2020-3258-fig1-html-jpg.jpg)
+*Fig. 1. Spinous process screw as a third anchor point in C2 for occipitocervical fixation. a Anteroposterior view. b Lateral view Source: [Outcomes of occipitocervical fixation using a spinous process screw in C2 as a third anchor point for occipitocervical fixation: a case presentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229638/) — BMC Musculoskeletal Disorders 2020; CC BY.*
+
+![Occipitocervical Fusion — Fig. 2](../../figures/curated/case-prep-occipitocervical-fusion/figure-05-fig-2-12891-2020-3258-fig2-html-jpg.jpg)
+*Fig. 2. A 35-year-old man with occipitocervical deformity was treated with posterior occipitocervical fixation and fusion. a–c Occipital screws, C2 bilateral pedicle screws, a C2 spinous process... Source: [Outcomes of occipitocervical fixation using a spinous process screw in C2 as a third anchor point for occipitocervical fixation: a case presentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229638/) — BMC Musculoskeletal Disorders 2020; CC BY.*
+
+![Occipitocervical Fusion — Fig. 3](../../figures/curated/case-prep-occipitocervical-fusion/figure-06-fig-3-12891-2020-3258-fig3-html-jpg.jpg)
+*Fig. 3. a–d Clinical photographs show the good cervical function of the patient in various positions at the 24-month follow-up visit Source: [Outcomes of occipitocervical fixation using a spinous process screw in C2 as a third anchor point for occipitocervical fixation: a case presentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229638/) — BMC Musculoskeletal Disorders 2020; CC BY.*
+
+![Occipitocervical Fusion — Fig. 1](../../figures/curated/case-prep-occipitocervical-fusion/figure-07-fig-1-gr1-jpg.jpg)
+*Fig. 1. Incidence of atlanto-axial fusion vs. occipitocervical fusion from 2008 to 2016. Source: [Postoperative complication rates and hazards-model survival analysis of revision surgery following occipitocervical and atlanto-axial fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC8820023/) — North American Spine Society Journal 2020; CC BY-NC-ND.*
+
+![Occipitocervical Fusion — Fig. 2](../../figures/curated/case-prep-occipitocervical-fusion/figure-08-fig-2-gr2-jpg.jpg)
+*Fig. 2. Kaplan–Meier survival of atlas-axis fusion vs. occipitocervical fusion with endpoint of revision. Source: [Postoperative complication rates and hazards-model survival analysis of revision surgery following occipitocervical and atlanto-axial fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC8820023/) — North American Spine Society Journal 2020; CC BY-NC-ND.*
+
+![Occipitocervical Fusion — Figure 1](../../figures/curated/case-prep-occipitocervical-fusion/figure-09-figure-1-crim2017-7317289-001-jpg.jpg)
+*Figure 1. MRI demonstrated a mass (arrows) in the occipitocervical subcutaneous tissue with uneven signal intensity on (Figure 1(a)) sagittal T2-weighted, (Figure 1(b)) T2-weighted fat suppressed,... Source: [Occipitocervical Hemolymphangioma in an Adult with Neck Pain and Stiffness: Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5738575/) — Case Reports in Medicine 2017; CC BY.*
+
+![Occipitocervical Fusion — Figure 2](../../figures/curated/case-prep-occipitocervical-fusion/figure-10-figure-2-crim2017-7317289-002-jpg.jpg)
+*Figure 2. Histological analysis of specimen (hematoxylin and eosin stain; magnification ×100) showed abnormal lymphatic (black arrowheads) and blood vessels (black stars) with polycystic spaces. Source: [Occipitocervical Hemolymphangioma in an Adult with Neck Pain and Stiffness: Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5738575/) — Case Reports in Medicine 2017; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

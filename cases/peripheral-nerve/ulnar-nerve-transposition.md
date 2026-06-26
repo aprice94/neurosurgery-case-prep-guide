@@ -20,16 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cubital+tunnel+syndrome+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Cubital tunnel decompression** — simple decompression vs anterior transposition evidence. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=cubital+tunnel+syndrome+simple+decompression+anterior+transposition+randomized+meta-analysis)
-- **Ulnar neuropathy guidance** — diagnostic and operative-decision literature for ulnar neuropathy at the elbow. [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=ulnar+neuropathy+elbow+practice+guideline+surgery)
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cubital%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ulnar+nerve+transposition+cubital+tunnel) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Brachial plexus & upper-limb nerves (ulnar nerve)](../../figures/peripheral/brachial-plexus_gray808.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Peripheral nerve anatomy:** Youmans and Winn; Greenberg; peripheral nerve surgery texts — confirm nerve course, fascicular anatomy, compression points, vascular supply, and nearby structures.
+- **Technique sequence:** Youmans and Winn; specialty operative references — review incision, exposure, neurolysis/decompression/resection strategy, graft/repair options, and closure.
+- **Complication rescue:** Greenberg; specialty literature — summarize neuropathic pain, motor deficit, wound issues, recurrence, and rehabilitation expectations.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Cubital Tunnel Syndrome: Current Concepts** — Staples JR. The Journal of the American Academy of Orthopaedic Surgeons 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28953087/)
+- **Ulnar neuropathy at the elbow** — Cambon-Binder A. Orthopaedics & traumatology, surgery & research : OTSR 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33321238/)
+- **Modern Treatment of Cubital Tunnel Syndrome: Evidence and Controversy** — Graf A. Journal of hand surgery global online 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37521554/)
+- **A Comprehensive Review of Cubital Tunnel Syndrome** — Anderson D. Orthopedic reviews 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36128335/)
+- **Higher Revision Rates With In Situ Decompression as Compared to Ulnar Nerve Transposition for Cubital Tunnel Syndrome: A Meta-Regression Analysis** — Reichenbach R. Cureus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39347368/)
+- **Challenging the dogma: anterior transposition of the ulnar nerve is indicated in recurrent cubital tunnel syndrome** — Ruettermann M. The Journal of hand surgery, European volume 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33153381/)
+- **Novel Technique for Ulnar Nerve Transposition at the Elbow: The Neocubital Tunnel** — Bakhach J. Plastic and reconstructive surgery. Global open 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39206214/)
+- **Decision-Making Factors for Ulnar Nerve Transposition in Cubital Tunnel Surgery** — DeGeorge BR Jr. Journal of wrist surgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30941260/)
+- **Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies** — Liu CH. Medicine 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26200640/)
+- **Ulnar Nerve Decompression With Subcutaneous Transposition** — Jurgensmeier K. Video journal of sports medicine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40308843/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — Fig. 1](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-01-fig-1-13018-2015-267-fig1-html-jpg.jpg)
+*Fig. 1. The CONSORT diagram of enrollment and analysis in this study Source: [Ulnar nerve stability-based surgery for cubital tunnel syndrome via a small incision: a comparison with classic anterior nerve transposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526197/) — Journal of Orthopaedic Surgery and Research 2015; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — Fig. 2](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-02-fig-2-13018-2015-267-fig2-html-jpg.jpg)
+*Fig. 2. While introducing and opening a long nasal speculum over the brachial fascia, the proximal nerve compression structures including the arcade of Struthers were completely released Source: [Ulnar nerve stability-based surgery for cubital tunnel syndrome via a small incision: a comparison with classic anterior nerve transposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526197/) — Journal of Orthopaedic Surgery and Research 2015; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — Fig. 3](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-03-fig-3-13018-2015-267-fig3-html-jpg.jpg)
+*Fig. 3. After releasing the proximal nerve compression structures, Osborne’s ligament, Osborne’s fascia, and the deep flexor-pronator aponeurosis were sequentially released Source: [Ulnar nerve stability-based surgery for cubital tunnel syndrome via a small incision: a comparison with classic anterior nerve transposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526197/) — Journal of Orthopaedic Surgery and Research 2015; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — Fig. 4](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-04-fig-4-13018-2015-267-fig4-html-jpg.jpg)
+*Fig. 4. In patients with an unstable ulnar nerve, the nerve was anteriorly transposed, and a fascial sling (*) was created Source: [Ulnar nerve stability-based surgery for cubital tunnel syndrome via a small incision: a comparison with classic anterior nerve transposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526197/) — Journal of Orthopaedic Surgery and Research 2015; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — FIGURE 1](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-05-figure-1-medi-94-e1207-g001-jpg.jpg)
+*FIGURE 1. Review flow diagram. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine 2015; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — Figure 6](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-06-figure-6-medi-94-e1207-g002-jpg.jpg)
+*Figure 6. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine (Baltimore). 2015 Jul 24;94(29):e1207. doi: 10.1097/MD.0000000000001207; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — Figure 7](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-07-figure-7-medi-94-e1207-g003-jpg.jpg)
+*Figure 7. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine (Baltimore). 2015 Jul 24;94(29):e1207. doi: 10.1097/MD.0000000000001207; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — Figure 8](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-08-figure-8-medi-94-e1207-g005-jpg.jpg)
+*Figure 8. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine (Baltimore). 2015 Jul 24;94(29):e1207. doi: 10.1097/MD.0000000000001207; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — FIGURE 4](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-09-figure-4-medi-94-e1207-g007-jpg.jpg)
+*FIGURE 4. The quality of the evidences for each outcome. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine 2015; CC BY.*
+
+![Cubital Tunnel Release Ulnar Nerve Transposition — Figure 10](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-10-figure-10-medi-94-e1207-g008-jpg.jpg)
+*Figure 10. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine (Baltimore). 2015 Jul 24;94(29):e1207. doi: 10.1097/MD.0000000000001207; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

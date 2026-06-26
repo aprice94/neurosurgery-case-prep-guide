@@ -20,17 +20,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereotactic+brain+biopsy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Yield & risk** — Hall WA. *Cancer* 1998 — diagnostic yield and complications of stereotactic brain biopsy. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hall+stereotactic+brain+biopsy+diagnostic+yield+complications+1998+Cancer)
-- **Molecular era** — Tissue adequacy for integrated WHO CNS5 molecular diagnosis guides target selection. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=stereotactic+biopsy+molecular+diagnosis+glioma+WHO+classification+adequacy)
-- **Guidelines:** [NCCN CNS](https://www.nccn.org/guidelines/category_1) · [CNS](https://www.cns.org/guidelines)
-
-![Ventricular system & deep targets (robotic trajectory)](../../figures/anatomy/ventricles_gray734.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20brain%20biopsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=robot+assisted+stereotactic+brain+biopsy+ROSA) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience** — Taravilla-Loma M. Brain & spine 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41584997/)
+- **Robot-assisted stereotactic brain biopsy: A systematic review and meta-analysis** — Porto Junior S. Neurosurgical review 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39627622/)
+- **Robot-assisted stereotactic brain biopsy: systematic review and bibliometric analysis** — Marcus HJ. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29744625/)
+- **Robot-assisted versus manually guided stereotactic biopsy for intracranial lesions - a systematic review and meta-analysis** — Gomes FC. Neurosurgical review 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39615014/)
+- **Frameless Robotic-Assisted Biopsy of Pediatric Brainstem Lesions: A Systematic Review and Meta-Analysis of Efficacy and Safety** — Lu VM. World neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36307039/)
+- **Comparative Analysis of Efficacy and Safety of Frame-Based, Frameless, and Robot-Assisted Stereotactic Brain Biopsies: A Systematic Review and Meta-Analysis** — Gecici NN. Operative neurosurgery (Hagerstown, Md.) 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40062857/)
+- **The Feasibility of Robot-assisted Laser Interstitial Thermal Therapy (LITT) for Brain Tumors in Octogenarians** — Lu VM. World neurosurgery 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38986945/)
+- **Robotic-assisted foot and ankle surgery: a review of the present status and the future** — Yoon YK. Biomedical engineering letters 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37872981/)
+- **Stereoelectroencephalography: Indication and Efficacy** — Iida K. Neurologia medico-chirurgica 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28637943/)
+- **How I do it: sequential robot-assisted stereotactic biopsy and laser interstitial thermal therapy for epilepsy associated with brain tumors** — Aboubakr O. Acta neurochirurgica 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41339600/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 2](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-01-fig-2-381-2018-3821-fig2-html-jpg.jpg)
+*Fig. 2. Graphs demonstrating a the number of overall publications per annum, b the number of patients reported undergoing robot-assisted biopsy per annum, and c the number of initial and... Source: [Robot-assisted stereotactic brain biopsy: systematic review and bibliometric analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC5996011/) — Child's Nervous System 2018; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 1](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-02-fig-1-gr1-jpg.jpg)
+*Fig. 1. Preoperative MRI.(a) Axial T1-weighted post-contrast image showing a bilateral frontal “butterfly” lesion crossing the corpus callosum.(b) Coronal T2-weighted image demonstrating the... Source: [Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC12830220/) — Brain & Spine 2026; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 2](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-03-fig-2-gr2-jpg.jpg)
+*Fig. 2. Robotic planning of the stereotactic trajectory (ExcelsiusGPS).(a) CT-MRI fusion and 3D reconstruction showing a right frontal entry point providing the shortest safe, near-perpendicular... Source: [Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC12830220/) — Brain & Spine 2026; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 3](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-04-fig-3-gr3-jpg.jpg)
+*Fig. 3. Patient positioning for minimal-access robot-assisted stereotactic biopsy.(a) Supine positioning with the head fixed in a three-pin Mayfield skull clamp and slightly rotated to elevate... Source: [Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC12830220/) — Brain & Spine 2026; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 4](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-05-fig-4-gr4-jpg.jpg)
+*Fig. 4. CT-to-fluoroscopy acquisition for ExcelsiusGPS registration.(a) Intraoperative setup with the C-arm positioned for orthogonal anteroposterior cranial fluoroscopy, with the dynamic... Source: [Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC12830220/) — Brain & Spine 2026; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 5](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-06-fig-5-gr5-jpg.jpg)
+*Fig. 5. “Merge Images” fusion verification (ExcelsiusGPS).CT-to-fluoroscopy “Merge Images” verification screen on the ExcelsiusGPS platform, showing alignment of skull base bony landmarks and a... Source: [Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC12830220/) — Brain & Spine 2026; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 6](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-07-fig-6-gr6-jpg.jpg)
+*Fig. 6. Sterile setup and robotic docking for minimal-access biopsy.(a) Standard sterile surgical field exposing only the planned entry site and the sterile dynamic reference base (DRB),... Source: [Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC12830220/) — Brain & Spine 2026; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 7](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-08-fig-7-gr7-jpg.jpg)
+*Fig. 7. Micro-burr hole creation through a punctiform scalp opening and navigation-guided biopsy.(a) A 2.7 mm drill advanced through the sterile end-effector under ExcelsiusGPS guidance,... Source: [Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC12830220/) — Brain & Spine 2026; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Fig. 8](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-09-fig-8-gr8-jpg.jpg)
+*Fig. 8. Postoperative wound appearance, micro-burr hole visualization, and radiological control.(a) Immediate postoperative view showing a single pinpoint entry site of only a few millimeters,... Source: [Frameless robotic stereotactic brain biopsy workflow with CT-MRI fusion and CT-to-fluoroscopy registration: Step-by-step technical note and early experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC12830220/) — Brain & Spine 2026; CC BY.*
+
+![Robot-Assisted Stereotactic Brain Biopsy — Figure 10](../../figures/curated/case-prep-robot-assisted-stereotactic-brain-biopsy-rosa-mazor-neuromate/figure-10-figure-10-sni-17-284-inline001-jpg.jpg)
+*Figure 10. Source: [Robot-assisted frameless brain biopsy with computed tomography-to-fluoroscopy registration: Step-by-step surgical video](https://pmc.ncbi.nlm.nih.gov/articles/PMC13224175/) — Surg Neurol Int. 2026 May 15;17:284. doi: 10.25259/SNI_158_2026; CC BY-NC-SA.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

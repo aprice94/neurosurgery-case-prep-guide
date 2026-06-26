@@ -22,16 +22,78 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lumboperitoneal+shunt+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Shunt Design Trial** — Drake JM et al. *Neurosurgery* 1998 — randomized comparison of CSF shunt valves. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Drake+randomized+shunt+design+trial+cerebrospinal+fluid+valve+1998)
-- **Guidelines:** [Hydrocephalus Clinical Research Network](https://www.hcrn.org) · [CNS](https://www.cns.org/guidelines)
-
-![Vertebral column — lumbar spine (LP shunt thecal access)](../../../figures/spine/vertebral-column_gray111.png)
-
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=lumboperitoneal%20shunt&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumboperitoneal+shunt+IIH) — operative figures © linked; see [media-sources.md](../../../resources/media-sources.md)
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Trajectory and device anatomy:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm entry point, trajectory, ventricular/lesion target, hardware pathway, and structures to avoid.
+- **Technique sequence:** Greenberg; Youmans and Winn — review setup, navigation/fluoro/endoscopy use, sterile tunneling or stereotactic workflow, and troubleshooting steps.
+- **Failure modes:** Greenberg; shunt/device literature; institution-specific protocols — summarize obstruction, malposition, infection, hemorrhage, over/under-drainage, and revision algorithms in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Incidence of radiculopathy following lumboperitoneal shunt placement without fluoroscopy for normal pressure hydrocephalus** — Tanaka T. Surgical neurology international 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36324979/)
+- **Early postoperative lumbar catheter severing in a lumboperitoneal shunt due to bite-off by the spinous processes following a fall on the buttocks: illustrative case** — Munakata R. Journal of neurosurgery. Case lessons 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39740214/)
+- **Rare complication of lumboperitoneal shunt with distal catheter migration into the inguinal hernia sac in two adults: A case report** — Tanaka T. Surgical neurology international 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38053705/)
+- **Laparoscopic transabdominal lumboperitoneal shunt** — Huie F. Surgical endoscopy 1999. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9918621/)
+- **Creating of "fascial sheath" around subcutaneous lumboperitoneal shunt catheters largely prevents postoperative subcutaneous shunt catheter migration** — Tanaka T. Surgical neurology international 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36447847/)
+- **Minimizing complications in lumboperitoneal shunt for normal pressure hydrocephalus: Technical note and case series** — Pisano P. Surgical neurology international 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41952729/)
+- **Intra-bronchial migration of peritoneal catheter of lumboperitoneal shunt** — Kawahara T. Surgical neurology international 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26962468/)
+- **New lumboperitoneal shunt catheter** — Selman WR. Surgical neurology 1984. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6689811/)
+- **Late intrathecal retraction of a lumboperitoneal shunt** — Kim YJ. Surgical neurology international 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38213441/)
+- **Use of Pneumoperitoneal Puncture for Peritoneal Catheter Placement in Lumboperitoneal Shunt Surgery: Technical Note** — He J. World neurosurgery 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28433843/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Lumboperitoneal Shunt Placement — Figure 1.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-01-figure-1-amjcaserep-23-e935077-g001-jpg.jpg)
+*Figure 1.. Axial computed tomography (CT) scan depicting enlarged ventricles. (A) compared to prior CT scan (B) concerning for shunt failure. Anteroposterior (C) and lateral (D) shunt series X-rays... Source: [Ventriculoperitoneal Shunt Failure Due to Distal Peritoneal Catheter Kinking](https://pmc.ncbi.nlm.nih.gov/articles/PMC8994830/) — The American Journal of Case Reports 2022; CC BY-NC-ND.*
+
+![Lumboperitoneal Shunt Placement — Figure 2.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-02-figure-2-amjcaserep-23-e935077-g002-jpg.jpg)
+*Figure 2.. Intraoperative images (A, B) demonstrating kinking of the distal catheter at the site of the distal peritoneal slit valves (arrow). Illustration (C) depicting the location of the... Source: [Ventriculoperitoneal Shunt Failure Due to Distal Peritoneal Catheter Kinking](https://pmc.ncbi.nlm.nih.gov/articles/PMC8994830/) — The American Journal of Case Reports 2022; CC BY-NC-ND.*
+
+![Lumboperitoneal Shunt Placement — Figure 3.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-03-figure-3-amjcaserep-23-e935077-g003-jpg.jpg)
+*Figure 3.. Axial postoperative computed tomography (CT) scan depicting interval decrease in the size of the ventricles (A). Shunt series X-rays demonstrating intact shunt system with no kinking or... Source: [Ventriculoperitoneal Shunt Failure Due to Distal Peritoneal Catheter Kinking](https://pmc.ncbi.nlm.nih.gov/articles/PMC8994830/) — The American Journal of Case Reports 2022; CC BY-NC-ND.*
+
+![Lumboperitoneal Shunt Placement — FIGURE 1.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-04-figure-1-opy044fig1-jpg.jpg)
+*FIGURE 1.. Shunt system experiments. Based on previous studies, we set the standing (vertical) pressure at 35 cmH2O and the supine (horizontal) position pressure at 10 cmH2O. We simulated CSF... Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
+
+![Lumboperitoneal Shunt Placement — FIGURE 2.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-05-figure-2-opy044fig2-jpg.jpg)
+*FIGURE 2.. Comparison between the small-lumen abdominal catheter and gravitational add-on valve. We measured the flow rate (mL/h) at simulated standing (35 cmH2O) and supine (10 cmH2O) positions... Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
+
+![Lumboperitoneal Shunt Placement — FIGURE 3.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-06-figure-3-opy044fig3-jpg.jpg)
+*FIGURE 3.. Subject flow diagram. GV = gravity add-on valve, iNPH = idiopathic normal pressure hydrocephalus, LPS = lumboperitoneal shunt, MMSE = Mini Mental State Examination, PPV = programmable... Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
+
+![Lumboperitoneal Shunt Placement — FIGURE 4.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-07-figure-4-opy044fig4-jpg.jpg)
+*FIGURE 4.. A lumbar 3-dimensional image obtained after LPS implantation with a gravity add-on valve and a Strata NSC programmable pressure valve. Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
+
+![Lumboperitoneal Shunt Placement — FIGURE 5.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-08-figure-5-opy044fig5-jpg.jpg)
+*FIGURE 5.. mRS score changes after LPS implantation. Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
+
+![Lumboperitoneal Shunt Placement — Figure 1.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-09-figure-1-jsls-11-1-14-g01-jpg.jpg)
+*Figure 1.. Flow of cerebrospinal fluid is confirmed visually after lumboperitoneal shunt placement. Source: [Laparoscopic Management of Ventriculoperitoneal and Lumboperitoneal Shunt Complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC3015814/) — JSLS : Journal of the Society of Laparoendoscopic Surgeons 2007; CC BY-NC-ND.*
+
+![Lumboperitoneal Shunt Placement — Figure 2.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-10-figure-2-jsls-11-1-14-g02-jpg.jpg)
+*Figure 2.. Foreign body-detached prior shunt is visualized and retrieved. Source: [Laparoscopic Management of Ventriculoperitoneal and Lumboperitoneal Shunt Complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC3015814/) — JSLS : Journal of the Society of Laparoendoscopic Surgeons 2007; CC BY-NC-ND.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

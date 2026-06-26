@@ -21,26 +21,82 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lumbar+disc+herniation+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **SPORT (disc)** — Weinstein JN et al. *JAMA* 2006 — surgery vs nonoperative care for lumbar disc herniation. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Weinstein+SPORT+lumbar+disc+herniation+surgery+2006+JAMA)
-- **Guidelines:** [NASS Clinical Guidelines](https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines) · [AOSpine](https://www.aofoundation.org)
-
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20disc%20herniation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumbar+microdiscectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-![Vertebral column — lumbar spine](../../figures/spine/vertebral-column_gray111.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
 
-![Lumbar vertebra (superior view) — pedicle, lamina & facets](../../figures/spine/lumbar-vertebra-superior_gray93.png)
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+---
 
-![Lumbar vertebra (lateral view) — body, pedicle & pars](../../figures/spine/lumbar-vertebra-lateral_gray94.png)
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
 
-*Gray's Anatomy (1918), public domain — via Wikimedia Commons.*
+## Textbook Cross-Checks
+
+- **Spine anatomy and biomechanics:** Benzel Spine; Textbook of Spinal Surgery; Surgical Anatomy and Techniques to the Spine — confirm levels, approach-side anatomy, neural/vascular structures at risk, alignment, stability, and fixation rationale.
+- **Technique sequence:** Youmans and Winn; Benzel Spine; Greenberg — review positioning, localization, exposure, decompression, instrumentation, fusion/reconstruction, and closure in original language.
+- **Complication rescue:** Benzel Spine; Greenberg; Youmans and Winn — cross-check durotomy, neurologic change, vascular injury, wrong-level prevention, infection, implant failure, and postoperative restrictions.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Lumbar Microdiscectomy** — Truumees E. JBJS essential surgical techniques 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30237913/)
+- **Lumbar microdiscectomy and microendoscopic discectomy** — Riesenburger RI. Minimally invasive therapy & allied technologies : MITAT : official journal of the Society for Minimally Invasive Therapy 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17062400/)
+- **Lumbar microdiscectomy complication rates: a systematic review and meta-analysis** — Shriver MF. Neurosurgical focus 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26424346/)
+- **Importance of Physiotherapy after Lumbar Microdiscectomy** — Cerezci O. Turkish neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36300580/)
+- **Lumbar microdiscectomy: a historical perspective and current technical considerations** — Koebbe CJ. Neurosurgical focus 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15916400/)
+- **[Lumbar microdiscectomy using intraoperative ultrasound]** — Aslanukov MN. Khirurgiia 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32105252/)
+- **Predictors of Recovery Following Lumbar Microdiscectomy for Sciatica: A Systematic Review and Meta-Analysis of Observational Studies** — Rehman Y. Cureus 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37388594/)
+- **[Single-segment lumbar microdiscectomy:drainage or not]** — Zhang ZC. Zhongguo gu shang = China journal of orthopaedics and traumatology 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34812027/)
+- **Stereotactic lumbar microdiscectomy** — Koutrouvelis PG. Neurosurgery clinics of North America 1996. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8835145/)
+- **Complications of Full-Endoscopic Lumbar Discectomy versus Open Lumbar Microdiscectomy: A Systematic Review and Meta-Analysis** — Yang CC. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36527213/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Lumbar Microdiscectomy — Figure 1](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-01-figure-1-bmri2018-9073460-001-jpg.jpg)
+*Figure 1. Flow diagram detailing study inclusion. Source: [A Comparison of Percutaneous Endoscopic Lumbar Discectomy and Open Lumbar Microdiscectomy for Lumbar Disc Herniation in the Korean: A Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6106715/) — BioMed Research International 2018; CC BY.*
+
+![Lumbar Microdiscectomy — Fig. 1](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-02-fig-1-12891-2017-1681-fig1-html-jpg.jpg)
+*Fig. 1. Lumbar microdiscectomy and post-operative activity restrictions trial flow diagram Source: [Lumbar microdiscectomy and post-operative activity restrictions: a protocol for a single blinded randomised controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520336/) — BMC Musculoskeletal Disorders 2017; CC BY.*
+
+![Lumbar Microdiscectomy — Figure 3](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-03-figure-3-12891-2017-1681-tab1-html-jpg.jpg)
+*Figure 3. Source: [Lumbar microdiscectomy and post-operative activity restrictions: a protocol for a single blinded randomised controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520336/) — BMC Musculoskelet Disord. 2017 Jul 20;18:312. doi: 10.1186/s12891-017-1681-3; CC BY.*
+
+![Lumbar Microdiscectomy — Figure 4](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-04-figure-4-10-1177-2192568220950678-img1-jpg.jpg)
+*Figure 4. Source: [Variability in Opioid Prescription Following Primary Single-Level Lumbar Microdiscectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC8907642/) — Global Spine J. 2020 Aug 28;12(2):263–6. doi: 10.1177/2192568220950678; CC BY-NC-ND.*
+
+![Lumbar Microdiscectomy — Figure 1](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-05-figure-1-jss-09-02-117-f1-jpg.jpg)
+*Figure 1. Average billing level and standard deviation for each surgeon for lumbar microdiscectomy from 2018–2019. Source: [Differences in evaluation and management coding of outpatient clinic visits for patients undergoing elective spine surgery with use of a standardized template](https://pmc.ncbi.nlm.nih.gov/articles/PMC10331495/) — Journal of Spine Surgery 2023; CC BY-NC-ND.*
+
+![Lumbar Microdiscectomy — Figure 2](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-06-figure-2-jss-09-02-117-f2-jpg.jpg)
+*Figure 2. Distribution of billing by each surgeon per level for lumbar microdiscectomy from 2018–2019. Source: [Differences in evaluation and management coding of outpatient clinic visits for patients undergoing elective spine surgery with use of a standardized template](https://pmc.ncbi.nlm.nih.gov/articles/PMC10331495/) — Journal of Spine Surgery 2023; CC BY-NC-ND.*
+
+![Lumbar Microdiscectomy — Fig. 1](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-07-fig-1-kjs-11-68-g001-jpg.jpg)
+*Fig. 1. Average operation time stratified by body mass index. Source: [Does Obesity Make an Influence on Surgical Outcomes Following Lumbar Microdiscectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4124921/) — Korean Journal of Spine 2014; CC BY-NC.*
+
+![Lumbar Microdiscectomy — Fig. 2](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-08-fig-2-kjs-11-68-g002-jpg.jpg)
+*Fig. 2. Averatge estimated blood loss stratified by body mass index. Source: [Does Obesity Make an Influence on Surgical Outcomes Following Lumbar Microdiscectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4124921/) — Korean Journal of Spine 2014; CC BY-NC.*
+
+![Lumbar Microdiscectomy — Figure 9](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-09-figure-9-kjs-11-68-i001-jpg.jpg)
+*Figure 9. Source: [Does Obesity Make an Influence on Surgical Outcomes Following Lumbar Microdiscectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4124921/) — Korean J Spine. 2014 Jun 30;11(2):68–73. doi: 10.14245/kjs.2014.11.2.68; CC BY-NC.*
+
+![Lumbar Microdiscectomy — Figure 10](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-10-figure-10-kjs-11-68-i002-jpg.jpg)
+*Figure 10. Source: [Does Obesity Make an Influence on Surgical Outcomes Following Lumbar Microdiscectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4124921/) — Korean J Spine. 2014 Jun 30;11(2):68–73. doi: 10.14245/kjs.2014.11.2.68; CC BY-NC.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 

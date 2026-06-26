@@ -21,11 +21,6 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cranioplasty+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-**📑 Key evidence — landmark trials & guidelines**
-
-- **Surgical TBI guidelines** — Bullock MR et al. *Neurosurgery* 2006 — surgical management of acute SDH/EDH/contusion. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bullock+surgical+management+traumatic+acute+subdural+epidural+2006+Neurosurgery)
-- **BTF guidelines** — Carney N et al. *Neurosurgery* 2017 — Brain Trauma Foundation, 4th ed. [🔗 PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Carney+Brain+Trauma+Foundation+guidelines+severe+TBI+2017)
-- **Guidelines:** [Brain Trauma Foundation](https://braintrauma.org/guidelines) · [CNS/AANS](https://www.cns.org/guidelines)
 > External sources — operative figures/atlases are copyrighted (linked, not copied). See [media-sources.md](../../resources/media-sources.md) for licensing.
 
 **Operative technique & approach**
@@ -41,11 +36,80 @@ tags:
 - [PubMed Central — cranioplasty outcomes & techniques](https://www.ncbi.nlm.nih.gov/pmc/?term=cranioplasty+outcomes)
 - [PubMed Central — cranioplasty materials](https://www.ncbi.nlm.nih.gov/pmc/?term=cranioplasty+PEEK+titanium+autologous)
 
-**Anatomy (public domain)**
 
 ![Bones of the skull — lateral view](https://upload.wikimedia.org/wikipedia/commons/f/fe/Sobo_1909_39.png)
 
 *Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_39.png). Relevant to calvarian defect anatomy and cranial bone landmarks.*
+
+---
+
+<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
+
+## Textbook Cross-Checks
+
+- **Emergency anatomy and exposure:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm incision/flap planning, sinus/vessel risks, decompression goals, and mass-effect physiology.
+- **Technique sequence:** Greenberg; Youmans and Winn — review evacuation/decompression sequence, hemostasis, dural strategy, drain use, and bone-flap/cranioplasty decisions.
+- **Complication rescue:** Greenberg; trauma guidelines and primary literature — summarize swelling, coagulopathy, seizures, infection, hydrocephalus, and ICU surveillance in original words.
+- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
+
+<!-- END TEXTBOOK CROSS-CHECKS -->
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Cranioplasty** — Piazza M. Neurosurgery clinics of North America 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28325460/)
+- **Cranioplasty: A Multidisciplinary Approach** — Mee H. Frontiers in surgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35656088/)
+- **Pediatric Cranioplasty** — Bykowski MR. Clinics in plastic surgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30851749/)
+- **Cranioplasty after craniectomy in pediatric patients-a systematic review** — Klieverik VM. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30610476/)
+- **Cranioplasty in the deployed environment: experience for host-country nationals** — Porensky PN. Journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36057122/)
+- **Cranioplasty Following Severe Traumatic Brain Injury: Role in Neurorecovery** — Ozoner B. Current neurology and neuroscience reports 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34674047/)
+- **Next-generation personalized cranioplasty treatment** — Thimukonda Jegadeesan J. Acta biomaterialia 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36272686/)
+- **Cranioplasty: Review of Materials** — Zanotti B. The Journal of craniofacial surgery 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28005754/)
+- **Cranioplasty: A Comprehensive Review of the History, Materials, Surgical Aspects, and Complications** — Alkhaibary A. World neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32387405/)
+- **Management and prevention of cranioplasty infections** — Frassanito P. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31222447/)
+
+<!-- END CURATED LITERATURE -->
+
+---
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Cranioplasty — Figure 1](../../figures/curated/case-prep-cranioplasty/figure-01-figure-1-jkns-59-492-i001-jpg.jpg)
+*Figure 1. Source: [Which One Is Better to Reduce the Infection Rate, Early or Late Cranioplasty?](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028610/) — J Korean Neurosurg Soc. 2016 Sep 8;59(5):492–7. doi: 10.3340/jkns.2016.59.5.492; CC BY-NC.*
+
+![Cranioplasty — Figure 2](../../figures/curated/case-prep-cranioplasty/figure-02-figure-2-jkns-59-492-i002-jpg.jpg)
+*Figure 2. Source: [Which One Is Better to Reduce the Infection Rate, Early or Late Cranioplasty?](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028610/) — J Korean Neurosurg Soc. 2016 Sep 8;59(5):492–7. doi: 10.3340/jkns.2016.59.5.492; CC BY-NC.*
+
+![Cranioplasty — Figure 3](../../figures/curated/case-prep-cranioplasty/figure-03-figure-3-jkns-59-492-i003-jpg.jpg)
+*Figure 3. Source: [Which One Is Better to Reduce the Infection Rate, Early or Late Cranioplasty?](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028610/) — J Korean Neurosurg Soc. 2016 Sep 8;59(5):492–7. doi: 10.3340/jkns.2016.59.5.492; CC BY-NC.*
+
+![Cranioplasty — Figure 4](../../figures/curated/case-prep-cranioplasty/figure-04-figure-4-jkns-59-492-i004-jpg.jpg)
+*Figure 4. Source: [Which One Is Better to Reduce the Infection Rate, Early or Late Cranioplasty?](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028610/) — J Korean Neurosurg Soc. 2016 Sep 8;59(5):492–7. doi: 10.3340/jkns.2016.59.5.492; CC BY-NC.*
+
+![Cranioplasty — Fig. 1](../../figures/curated/case-prep-cranioplasty/figure-05-fig-1-jkns-52-396-g001-jpg.jpg)
+*Fig. 1. Flow chart of participants in the retrospective cohort from 2001 to 2011. Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — Journal of Korean Neurosurgical Society 2012; CC BY-NC.*
+
+![Cranioplasty — Fig. 2](../../figures/curated/case-prep-cranioplasty/figure-06-fig-2-jkns-52-396-g002-jpg.jpg)
+*Fig. 2. Kaplan-Meier event-free survival curves at 10 years for cranioplasty infection according to graft material (p=0.074) (A), and cranioplasty timing (p=0.083) (B) in 131 cranioplasty... Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — Journal of Korean Neurosurgical Society 2012; CC BY-NC.*
+
+![Cranioplasty — Fig. 3](../../figures/curated/case-prep-cranioplasty/figure-07-fig-3-jkns-52-396-g003-jpg.jpg)
+*Fig. 3. Postoperative complications within 2 weeks after cranioplasty. EDH, SDH, NA and NC stand for epidural hematoma, subdural hematoma, not applicable and not checked, respectively. Numbers... Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — Journal of Korean Neurosurgical Society 2012; CC BY-NC.*
+
+![Cranioplasty — Figure 8](../../figures/curated/case-prep-cranioplasty/figure-08-figure-8-jkns-52-396-i001-jpg.jpg)
+*Figure 8. Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — J Korean Neurosurg Soc. 2012 Oct 22;52(4):396–403. doi: 10.3340/jkns.2012.52.4.396; CC BY-NC.*
+
+![Cranioplasty — Figure 9](../../figures/curated/case-prep-cranioplasty/figure-09-figure-9-jkns-52-396-i002-jpg.jpg)
+*Figure 9. Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — J Korean Neurosurg Soc. 2012 Oct 22;52(4):396–403. doi: 10.3340/jkns.2012.52.4.396; CC BY-NC.*
+
+![Cranioplasty — Figure 10](../../figures/curated/case-prep-cranioplasty/figure-10-figure-10-jkns-52-396-i003-jpg.jpg)
+*Figure 10. Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — J Korean Neurosurg Soc. 2012 Oct 22;52(4):396–403. doi: 10.3340/jkns.2012.52.4.396; CC BY-NC.*
+
+<!-- END CURATED IMAGE SET -->
 
 ---
 
