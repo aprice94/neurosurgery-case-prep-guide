@@ -154,6 +154,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **LINAC-based (BrainLab, Varian) / CyberKnife:** frameless **thermoplastic mask** + image guidance; CyberKnife robotic, allows hypofractionation
 - **Single fraction (SRS)** vs **hypofractionated (2-5 fx, "SRT")** for larger lesions or near critical OARs
 
+### Dose/Fractionation Decision Points
+- Larger targets, prior radiation, edema, eloquent location, brainstem/optic/cochlear adjacency, and large cumulative treated volume push toward hypofractionation.
+- Small metastases away from critical structures often fit single-fraction SRS; postoperative cavities and larger lesions often need fractionated SRT.
+- Vestibular schwannoma and skull-base meningioma planning prioritizes cranial nerve, cochlear, brainstem, and optic tolerance over maximal marginal dose.
+- AVM SRS is a latency treatment: dose must balance obliteration probability against hemorrhage risk during latency and radiation injury to adjacent eloquent tissue.
+- Functional SRS (e.g., trigeminal neuralgia) is target-and-dose specific; document exact target segment and expected numbness/pain tradeoff.
+
 ### Workflow
 1. **Frame application** (Gamma Knife frame-based) under local ± sedation, OR custom mask fabrication (frameless)
 2. **Stereotactic imaging** (CT + MRI; DSA for AVM) with localizer
@@ -178,6 +185,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. **Cranial neuropathy** (optic — vision loss; trigeminal numbness post-TN SRS; facial/hearing for VS), **brainstem injury**
 3. AVM: latency-period hemorrhage risk until obliteration (~2-3 years), incomplete obliteration
 4. Frame pin site issues, transient symptom flare (edema), secondary malignancy (rare, long-term)
+
+### Follow-Up Problem Solving
+- **Progression vs radionecrosis:** compare timing, perfusion, spectroscopy, diffusion, steroid response, PET when available, and serial growth pattern; biopsy/resection if diagnosis changes treatment.
+- **Symptomatic edema:** steroids first, then taper carefully; bevacizumab, LITT, or surgery for refractory radiation necrosis/mass effect.
+- **Postoperative cavity recurrence:** distinguish nodular cavity-wall recurrence from smooth treatment change; salvage surgery, repeat SRS/SRT, WBRT, or systemic therapy depends on burden and histology.
+- **AVM residual at 3 years:** confirm with DSA, reassess hemorrhage risk, and consider repeat SRS, embolization, or surgery.
+- **Cranial neuropathy:** correlate dose to nerve/OAR, treat edema when present, and avoid reflexively retreating until treatment effect is sorted from progression.
 
 ---
 

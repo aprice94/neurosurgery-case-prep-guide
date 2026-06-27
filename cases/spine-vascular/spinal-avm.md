@@ -145,6 +145,22 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - High-risk anterior/intramedullary nidi with shared ASA supply may be managed by partial embolization/observation (cure not always achievable safely)
 - Perimedullary fistulas (Type IV): disconnect the fistulous point (surgery or embolization)
 
+### Type-Specific Treatment Logic
+
+| Lesion pattern | Usual strategy | Key operative principle |
+| --- | --- | --- |
+| **Type I dural AVF mimic/overlap** | Usually treated as a fistula rather than a true intramedullary AVM | Disconnect the arterialized draining vein at the dural sleeve; do not chase congested intradural veins. |
+| **Type II glomus AVM** | Multimodal; embolize selected deep/high-flow feeders, then microsurgery if compact and accessible | Circumferential pial dissection, feeders first, draining vein last; accept subtotal if ASA/perforators or IONM make cure unsafe. |
+| **Type III juvenile/diffuse AVM** | Rarely cured surgically; staged/palliative treatment for hemorrhage source, venous hypertension, or progressive myelopathy | Define the goal before treatment: cure, flow reduction, aneurysm treatment, or decompression are different operations. |
+| **Type IV perimedullary fistula** | Embolization or microsurgical disconnection depending on anatomy | Obliterate the fistulous point while preserving ASA/PSA flow and normal pial vessels. |
+
+### Angiographic Planning Checklist
+- Identify the **ASA, paired posterior spinal arteries, radiculomedullary contributors, and artery of Adamkiewicz** before any embolization or clip/coagulation decision.
+- Map whether feeders are terminal to the nidus/fistula or **en-passage** to normal cord; shared supply is a major reason to stop short of cure.
+- Mark flow aneurysms, pseudoaneurysms, venous outflow stenosis, and thrombosed/ectatic draining veins that may explain hemorrhage or progressive congestion.
+- Decide whether preoperative embolization is meant to reduce flow, treat a high-risk aneurysm, open a surgical plane, or serve as definitive therapy.
+- Plan intraoperative confirmation: ICG for surface flow, Doppler for high-flow fistulae, and intraoperative DSA when residual deep nidus or ambiguous venous drainage would change management.
+
 ### Position
 - Prone, Mayfield/foam, IONM baseline; per level
 
@@ -177,6 +193,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Cord infarction** (ASA/perforator injury), hemorrhage
 2. Worsened myelopathy, incomplete obliteration/recurrence
 3. CSF leak, venous infarction (premature vein occlusion)
+
+### Intraoperative Rescue Plans
+- **MEP/SSEP/D-wave decline:** pause dissection, raise MAP, irrigate warm saline, release retraction, verify no temporary clip or coagulated pial vessel compromises normal cord supply, and reassess whether subtotal treatment is safer.
+- **Premature draining vein occlusion:** stop further feeder work, evaluate cord swelling and residual shunt flow with ICG/DSA, restore outflow if reversible, and avoid trapping a pressurized nidus.
+- **ASA/perforator uncertainty:** do not coagulate until the vessel is proven lesional; use micro-Doppler/ICG/DSA correlation and leave a remnant if normal supply remains plausible.
+- **Residual shunt on ICG/DSA:** localize whether it is a surgically accessible surface fistula, deep nidus, or normal transit; extend exposure only if the added risk is justified.
+- **Cord swelling or hemorrhage:** achieve gentle tamponade, maintain perfusion, evacuate compressive clot only when the plane is clear, and be prepared for duraplasty rather than tight closure.
 
 ---
 

@@ -144,6 +144,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Robot-assisted (ROSA, Mazor) or frame-based/frameless stereotaxy** — accurate placement of multiple depth electrodes
 - Each electrode placed via small twist-drill hole and anchored bolt
 
+### Implantation Hypothesis Checklist
+- Every electrode should answer a conference-level question: seizure onset, early propagation, competing mimic, eloquent boundary, or lateralization problem.
+- Sample the suspected onset zone and its network, not just the obvious MRI lesion; common under-sampled regions include insula, cingulate, mesial temporal, orbitofrontal, operculum, hypothalamic/temporal-plus networks, and contralateral homologues.
+- Pair depth targets with the noninvasive evidence that justifies them: semiology, scalp EEG, MRI, PET/SPECT/MEG, neuropsychology, and prior resection/ablation data.
+- Avoid a "fishing expedition" plan: broad coverage without a falsifiable hypothesis increases hemorrhage risk and may still leave no resection/ablation strategy.
+- Pre-plan the likely exit path after monitoring: resection, LITT/RF thermocoagulation, RNS/DBS, palliative disconnection, or no surgery.
+
+### Trajectory Safety Checks
+- Fuse contrast MRI/CTA/CTV or angiographic venous imaging so each trajectory avoids cortical arteries, sulcal veins, deep veins, choroidal vessels, and ventricles where possible.
+- Choose orthogonal versus oblique entry based on the target and vascular map; oblique trajectories may improve sampling but increase cumulative vessel-crossing and collision risk.
+- Confirm bolt spacing, robot arm clearance, skull thickness/angle, prior craniotomy defects, shunt hardware, and planned dressing/EMU cable routing before incision.
+- For each electrode, verify entry point, target, length, contact coverage, laterality label, and no trajectory collision after final registration.
+
 ### Position
 - Supine or per plan; head fixed (frame or robot reference); registration (fiducials/surface/bone)
 
@@ -175,6 +188,15 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Hemorrhage** (along trajectory) — main serious complication (~1-2%)
 2. Infection, electrode misplacement/malfunction
 3. Post-explant: rare; seizure during monitoring (intended)
+
+### Monitoring, Explant, and Rescue Plans
+- **Immediate post-implant:** obtain CT and merge to preoperative plan before EMU transfer; document electrode names, contact anatomy, deviations, and any asymptomatic hemorrhage.
+- **EMU strategy:** antiseizure medication taper, sleep deprivation, stimulation mapping, and rescue benzodiazepine plan should be written by epileptology and visible to nursing.
+- **Hemorrhage:** stop anticoagulants/antiplatelets, control BP, repeat imaging for symptoms or hematoma expansion, and remove only electrodes that worsen mass effect or block evacuation.
+- **Malposition or poor signal:** determine whether the electrode still answers the hypothesis; revise early if the target is essential and the risk is acceptable, otherwise mark it unusable in interpretation.
+- **Infection/CSF leak/bolt issue:** culture and image when needed, remove suspect hardware if infection tracks along the bolt, and avoid prolonged monitoring when wound integrity is failing.
+- **Non-diagnostic monitoring:** decide at epilepsy conference whether the failure is insufficient seizure capture, wrong hypothesis, network too broad, medication confound, or technical coverage gap; do not force a resection from ambiguous data.
+- **Explantation:** bedside versus OR depends on institutional practice, anticoagulation, patient cooperation, number/depth of electrodes, and any hemorrhage/infection concern; inspect every electrode for intact removal.
 
 ---
 

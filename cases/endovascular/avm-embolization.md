@@ -147,6 +147,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Approach:** transarterial (most) or transvenous (selected dAVF — occlude the recipient venous pouch)
 - Staged embolization for large AVMs (avoid normal perfusion pressure breakthrough)
 
+### Endpoint Selection
+- **Preoperative AVM embolization:** target deep feeders, flow-related aneurysms, high-flow shunts, and surgically inaccessible pedicles; do not embolize superficial feeders that the surgeon needs for intraoperative orientation unless planned.
+- **Curative AVM embolization:** only for selected small compact nidi with safe pedicles and venous anatomy; final cure requires complete nidus obliteration without premature venous occlusion.
+- **dAVF embolization:** the endpoint is occlusion of the fistulous point and proximal pathologic venous recipient, especially cortical venous reflux; feeder reduction alone is not cure.
+- **Palliative embolization:** treat a specific risk/symptom such as venous hypertension, flow aneurysm, steal, or high-output shunt; document what remains.
+- **Staged embolization:** limit flow/pressure shifts per session and define the next treatment before leaving the angio suite.
+
 ### Position / Setup
 - Supine, angiography table, femoral/radial access, biplane DSA, heparinization
 
@@ -177,6 +184,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Hemorrhage** (vessel/nidus perforation, premature venous occlusion, post-embolization NPPB) — BP control, reversal
 2. **Ischemic stroke / cranial neuropathy** (non-target/reflux embolization, dangerous anastomoses)
 3. Retained/glued microcatheter, incomplete obliteration (multimodal plan), access complications, contrast nephropathy
+
+### Rescue Plans
+- **Reflux toward normal branch/en-passage vessel:** stop injection, wait for plug control, reposition or abandon that pedicle; do not "push through" reflux.
+- **Microcatheter stuck in Onyx/glue cast:** follow device-specific detachment/traction limits, consider leaving a retained catheter segment rather than avulsing a feeder or nidus.
+- **Perforation/rupture:** stop embolic, reverse anticoagulation as appropriate, lower BP, tamponade with balloon/embolization if possible, obtain CT, and coordinate emergent surgery/EVD.
+- **Premature venous occlusion:** stop; assess nidus drainage and hemorrhage risk, maintain strict BP control, and do not continue arterial filling into a trapped nidus.
+- **Cranial neuropathy risk through ECA supply:** stop if dangerous anastomoses or vasa nervorum supply is seen; facial/ophthalmic/petrous collaterals are not optional details.
 
 ---
 
