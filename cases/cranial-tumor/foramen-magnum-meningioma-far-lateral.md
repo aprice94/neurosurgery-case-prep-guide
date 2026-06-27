@@ -15,9 +15,6 @@ tags:
 
 # Case Prep: Foramen Magnum Meningioma — Far Lateral Approach
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -43,38 +40,9 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=foramen+magnum+meningioma+far+lateral) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
-
 **▶ Full corridor technique:** see the [**Far-lateral (transcondylar) approach chapter**](../approaches/far-lateral-craniotomy.md) — positioning, suboccipital-triangle VA control, condyle/jugular-tubercle drilling limits, dural opening, and intradural lower-CN microsurgery, step by step.
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Foramen Magnum Meningioma — Far Lateral Approach**:
-
-1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
-2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
-3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
-4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
-5. What complication would you check for first in PACU based on this lesion location?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Extent-of-resection goal and functional stopping points:** [attending-specific]
-- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
-- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
-- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -92,8 +60,6 @@ Items that commonly vary by surgeon or institution:
 - **Foramen magnum meningiomas** — Bir SC. Handbook of clinical neurology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32586488/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -165,7 +131,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU for posterior fossa/skull base/pineal cases because hydrocephalus, airway, lower-CN, and hemorrhage changes can be abrupt.
 - **OR setup:** Mayfield, navigation, microscope/endoscope, cranial nerve monitoring/BAER when relevant, EVD/CSF diversion plan, watertight closure and fat/fascia graft materials, and blood available for vascular tumors.
 - **Special needs:** arterial line, Foley, dexamethasone for edema, antiemetic plan, lower-CN airway/swallow contingency, EVD/ETV plan for hydrocephalus, and audiology/facial-nerve baseline when relevant.
 - **Immediate postop orders:** ICU neuro checks, CN/eye movement/facial/swallow/voice exams, HOB 30, CT for hemorrhage/hydrocephalus, MRI for EOR, CSF-leak/pseudomeningocele watch, dex taper, and early swallow/ENT consult when lower CN risk exists.
@@ -246,3 +211,30 @@ The patient was transferred to the ICU with lower-CN/posterior-fossa precautions
 - CT 6h, MRI postop; CSF leak/pseudomeningocele watch
 - Antiemetics, DVT prophylaxis; assess CCJ stability (if transcondylar)
 - Residual → radiosurgery/surveillance; rehab; follow-up
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Foramen Magnum Meningioma — Far Lateral Approach**:
+
+1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
+2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
+3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
+4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
+5. What complication would you check for first in PACU based on this lesion location?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Extent-of-resection goal and functional stopping points:** [attending-specific]
+- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
+- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
+- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

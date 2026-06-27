@@ -11,9 +11,6 @@ tags:
 
 # Case Prep: Lumbar Drain Placement
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,37 +32,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lumbar+drain+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20drain&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=lumbar+drain+cerebrospinal+fluid) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Lumbar Drain Placement**:
-
-1. What is the working CSF physiology problem: obstruction, absorption failure, overdrainage, infection, or catheter failure?
-2. Where exactly is the entry point, target, and backup trajectory?
-3. What valve, catheter, endoscope, or navigation preference does the attending use?
-4. What is the infection-prevention plan and what cultures/CSF studies are needed?
-5. What postop imaging, valve setting, drainage level, and neuro-check plan should be written?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Valve brand/setting, antibiotic catheter use, and tunneling side:** [attending-specific]
-- **Navigation/endoscope/stylet preference and ventricular target:** [attending-specific]
-- **CSF culture/lab routine and perioperative antibiotic duration:** [attending-specific]
-- **Postop scan timing, EVD height or valve verification, and activity restrictions:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Lumbar Drain Use during Middle Fossa Approaches for Nonneoplastic Pathology of the Skull Base** — Dambrino RJ. Journal of neurological surgery. Part B, Skull base 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38721362/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -157,7 +124,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** step-down or ICU depending on indication; lumbar drains need nursing comfort with ordered drainage limits and overdrainage symptoms.
 - **OR setup:** sterile lumbar-drain kit, fluoroscopy if difficult anatomy, collection system, and clear labeling of catheter depth/entry level.
 - **Special needs:** anticoagulation/coagulopathy plan, antibiotics per protocol, strict drainage maximum per hour, headache/overdrainage monitoring, and clamp parameters for ambulation or neurologic change.
 - **Immediate postop orders:** drain height/rate/maximum output, neuro checks, bedrest/ambulation rules, headache/nausea management, daily need review, CSF sampling only if indicated, and removal timing.
@@ -254,3 +220,30 @@ The patient was transferred with a strict controlled-drainage nursing protocol (
 - If output suddenly stops, inspect for kinks, closed stopcocks, dependent loops, clot/debris, and patient position before flushing; preserve sterility and avoid injecting unless protocol allows it.
 - If output suddenly increases, clamp immediately, assess exam/headache, check for bed-height error or chamber malposition, and image if symptoms suggest subdural, herniation, or pneumocephalus.
 - Remove as soon as the indication is met; prolonged dwell time increases infection and dislodgement risk.
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Lumbar Drain Placement**:
+
+1. What is the working CSF physiology problem: obstruction, absorption failure, overdrainage, infection, or catheter failure?
+2. Where exactly is the entry point, target, and backup trajectory?
+3. What valve, catheter, endoscope, or navigation preference does the attending use?
+4. What is the infection-prevention plan and what cultures/CSF studies are needed?
+5. What postop imaging, valve setting, drainage level, and neuro-check plan should be written?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Valve brand/setting, antibiotic catheter use, and tunneling side:** [attending-specific]
+- **Navigation/endoscope/stylet preference and ventricular target:** [attending-specific]
+- **CSF culture/lab routine and perioperative antibiotic duration:** [attending-specific]
+- **Postop scan timing, EVD height or valve verification, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Spinal Epidural Abscess — Decompression & Drainage
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -36,37 +33,9 @@ tags:
 
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) or [posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — match the decompression to level, alignment, and instability.
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20epidural%20abscess&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+epidural+abscess+management) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20epidural%20abscess&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+epidural+abscess+management) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Spinal Epidural Abscess — Decompression & Drainage**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -84,8 +53,6 @@ Items that commonly vary by surgeon or institution:
 - **Spinal epidural abscess: a report of 40 cases and review** — Nussbaum ES. Surgical neurology 1992. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1359657/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -168,7 +135,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** floor, step-down, or ICU based on sepsis, neurologic deficit, instability, and need for MAP/pressor support.
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **OR setup:** fluoroscopy/navigation, decompression and instrumentation trays, culture swabs/containers for aerobic/anaerobic/fungal/AFB studies, drain, and blood availability for multilevel debridement or corpectomy.
 - **Special needs:** antibiotic timing coordinated with cultures unless unstable, ID consult plan, arterial line if septic or major deformity/corpectomy, MAP support for cord compromise, and hardware strategy in contaminated fields.
 - **Immediate postop orders:** neuro checks, organism-directed antibiotics, drain/wound care, ESR/CRP and culture follow-up, CT/X-rays when hardware placed, brace/activity, DVT timing, and nutrition/glycemic optimization.
@@ -179,6 +146,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Goals: decompress neural elements, **obtain cultures**, drain pus, stabilize if needed
 
 ### Position
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - Prone, Mayfield/foam, per level; IONM (deficit cases)
 
 ### Key Surgical Steps
@@ -243,3 +211,30 @@ Closure was performed. The patient was transferred with serial neuro exams, seps
 - MRI for resolution if not improving; DVT prophylaxis
 - Address risk factors (addiction medicine for IVDU, glucose control), rehab
 - Follow-up imaging/labs; monitor for recurrence and spinal stability
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Spinal Epidural Abscess — Decompression & Drainage**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Spinal Dural Arteriovenous Fistula (dAVF) — Surgical Ligation
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -37,35 +34,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20dural%20arteriovenous%20fistula&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+dural+arteriovenous+fistula) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Spinal Dural Arteriovenous Fistula (dAVF) — Surgical Ligation**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Ruptured spinal dural arteriovenous fistula with subdural hematoma: A case report** — Williamson LE. Surgical neurology international 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41625103/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -168,7 +135,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU after spinal vascular surgery or embolization, with cord-perfusion and hematoma surveillance.
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **OR setup:** microscope, neuromonitoring, spinal angiography/DSA images loaded, ICG/Doppler, clips/coagulation tools, laminectomy/instrumentation backup, and blood available for vascular lesions.
 - **Special needs:** arterial line, Foley, MAP support for cord perfusion, no long paralytic with MEPs, CSF drainage plan only when indicated, and coordination with endovascular/staged treatment.
 - **Immediate postop orders:** ICU neuro checks with motor/sensory/sphincter focus, MAP target, MRI/angiography confirmation plan, drain/hematoma watch, steroid/pain regimen, DVT timing, and rehab planning.
@@ -179,6 +146,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Treatment options:** Microsurgical disconnection (durable, high cure rate) vs endovascular embolization (Onyx/glue — less durable if feeder also supplies cord; surgery preferred if embolization risky or fails)
 
 ### Position
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **Prone**, Mayfield/foam, chest rolls, abdomen free, reverse Trendelenburg; IONM baseline
 - Level localization (fluoroscopy) — fistula level confirmed from DSA
 
@@ -245,3 +213,30 @@ Closure was completed in layers. The patient was transferred with MAP support an
 - DVT prophylaxis (mechanical), bowel/bladder management, urology if needed
 - **Rehab** — gait/strength recovery is gradual and depends on pre-op severity; counsel realistic expectations
 - Follow-up imaging; monitor for recurrence (recurrent symptoms → repeat DSA)
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Spinal Dural Arteriovenous Fistula (dAVF) — Surgical Ligation**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

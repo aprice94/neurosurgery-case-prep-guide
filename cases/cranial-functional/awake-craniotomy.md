@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Awake Craniotomy with Cortical/Subcortical Mapping
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -34,37 +31,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=awake+craniotomy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=awake%20craniotomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=awake+craniotomy+cortical+mapping) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Awake Craniotomy with Cortical/Subcortical Mapping**:
-
-1. What is the symptom target and what finding proves the correct neural structure is being treated?
-2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
-3. What medication adjustments or anesthesia constraints matter on the day of surgery?
-4. What complication would be subtle but important to detect in recovery?
-5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
-- **Medication hold/restart protocol and programming timeline:** [attending-specific]
-- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
-- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -82,8 +51,6 @@ Items that commonly vary by surgeon or institution:
 - **Intraoperative augmented reality fiber tractography complements cortical and subcortical mapping** — Chidambaram S. World neurosurgery: X 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37456694/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -155,7 +122,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU or step-down after epilepsy/awake mapping craniotomy, with exam-specific monitoring and seizure pathway ready.
 - **OR setup:** mapping cart, neuropsych/language team, ECoG/stimulation equipment, navigation/DTI, microscope, airway plan for asleep-awake-asleep when used, and bailout conversion-to-GA plan.
 - **Special needs:** antiepileptic continuation/loading plan, steroid plan if edema risk, nausea/pain regimen that preserves exam, seizure rescue medications, and clear baseline language/motor/visual-field documentation.
 - **Immediate postop orders:** frequent neuro checks focused on mapped functions, seizure precautions, AED orders, CT/MRI timing, steroid taper if used, visual-field/language assessment, and rehab/neuropsych follow-up.
@@ -239,3 +205,30 @@ Hemostasis was obtained and closure performed. The patient was transferred to th
 - Expect possible transient deficit (e.g., SMA syndrome, transient aphasia) with recovery; speech/PT/OT
 - Steroid taper, AEDs, DVT prophylaxis
 - Pathology/molecular; tumor board; rehab referral
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Awake Craniotomy with Cortical/Subcortical Mapping**:
+
+1. What is the symptom target and what finding proves the correct neural structure is being treated?
+2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
+3. What medication adjustments or anesthesia constraints matter on the day of surgery?
+4. What complication would be subtle but important to detect in recovery?
+5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
+- **Medication hold/restart protocol and programming timeline:** [attending-specific]
+- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
+- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

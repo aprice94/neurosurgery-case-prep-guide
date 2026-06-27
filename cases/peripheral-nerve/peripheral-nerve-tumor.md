@@ -11,9 +11,6 @@ tags:
 
 # Case Prep: Peripheral Nerve Sheath Tumor Resection (Schwannoma / Neurofibroma)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,37 +32,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=peripheral+nerve+sheath+tumour+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=peripheral%20nerve%20sheath%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=peripheral+nerve+sheath+tumor+schwannoma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Peripheral Nerve Sheath Tumor Resection (Schwannoma / Neurofibroma)**:
-
-1. Which nerve fascicles or branches must be identified before releasing or resecting tissue?
-2. What exam finding localizes the lesion and what alternative diagnosis could mimic it?
-3. What stimulation, ultrasound, microscope, tourniquet, or graft option should be ready?
-4. What motor/sensory function is at highest risk and how is it checked in PACU?
-5. What splint, therapy, wound, and neuropathic-pain plan should be written?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Tourniquet use, loupe versus microscope, stimulator settings, and incision length:** [attending-specific]
-- **External neurolysis versus transposition/reconstruction threshold:** [attending-specific]
-- **Graft/conduit/allograft availability and pathology handling:** [attending-specific]
-- **Splinting position, therapy referral, and activity restrictions:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Intraosseous Malignant Peripheral Nerve Sheath Tumor of 2 Consecutive Lumbar Vertebrae: A Case Report and Literature Review** — Liu W. World neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31349078/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -163,7 +130,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** outpatient or short PACU stay; admit only for major plexus reconstruction, medical frailty, pain-control needs, or extensive tumor resection.
 - **OR setup:** hand table or radiolucent arm board, tourniquet when used, loupes/microscope available for nerve repair/tumor work, bipolar, microsuture/nerve-wrap options, and nerve stimulator for plexus or motor-branch cases.
 - **Special needs:** regional/local/WALANT versus general anesthesia plan, antibiotic decision for implants/long exposure, anticoagulation plan, and clear laterality/site marking with preop motor/sensory baseline documented.
 - **Immediate postop orders:** elevation, soft dressing or splint duration, early finger/limb ROM unless repair restricts it, oral analgesia, wound check/suture removal timing, therapy referral, and return precautions for hematoma or new motor deficit.
@@ -237,3 +203,30 @@ The tourniquet was released, hemostasis obtained, and closure performed. The pat
 - Neuro checks (nerve function vs baseline)
 - Pathology (confirm benign; if MPNST → oncology, staging, wide resection/radiation)
 - Therapy if deficit; follow-up 2 weeks; NF surveillance if syndromic
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Peripheral Nerve Sheath Tumor Resection (Schwannoma / Neurofibroma)**:
+
+1. Which nerve fascicles or branches must be identified before releasing or resecting tissue?
+2. What exam finding localizes the lesion and what alternative diagnosis could mimic it?
+3. What stimulation, ultrasound, microscope, tourniquet, or graft option should be ready?
+4. What motor/sensory function is at highest risk and how is it checked in PACU?
+5. What splint, therapy, wound, and neuropathic-pain plan should be written?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Tourniquet use, loupe versus microscope, stimulator settings, and incision length:** [attending-specific]
+- **External neurolysis versus transposition/reconstruction threshold:** [attending-specific]
+- **Graft/conduit/allograft availability and pathology handling:** [attending-specific]
+- **Splinting position, therapy referral, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

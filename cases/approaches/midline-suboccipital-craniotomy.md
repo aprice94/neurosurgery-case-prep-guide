@@ -11,7 +11,6 @@ tags:
 
 # Operative Approach: Midline Suboccipital Craniotomy (Posterior Fossa Craniotomy / Craniectomy)
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -24,20 +23,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapters & video:** [Midline Suboccipital Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/midline-suboccipital-craniotomy) · [Posterior Fossa Craniotomy (Neuroanatomy)](https://www.neurosurgicalatlas.com/neuroanatomy/posterior-fossa-craniotomy) · [Telovelar Approach to the Fourth Ventricle](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/telovelar-approach-to-the-fourth-ventricle) · [Cranial Approaches — General Principles](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/general-principles)
-
-The midline suboccipital craniotomy is the **workhorse posterior approach to the cerebellum, fourth ventricle, and dorsal brainstem.** Its midline trajectory through the avascular nuchal raphe gives rapid, low-morbidity access to the vermis, cerebellar hemispheres, cisterna magna, and fourth ventricle floor — the corridor used for cerebellar metastases, hemangioblastomas, medulloblastomas, Chiari decompression, cerebellar hemorrhage evacuation, and fourth ventricle tumors. The approach can be extended superiorly toward the tentorial incisura (supracerebellar infratentorial variant for pineal region lesions) or laterally to incorporate the foramen magnum and C1 arch for tonsillar/craniocervical pathology.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=posterior+fossa+tumor+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — Midline Suboccipital](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/midline-suboccipital-craniotomy) · [Rhoton posterior fossa anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+posterior+fossa+surgical+anatomy) · [Radiopaedia — posterior fossa](https://radiopaedia.org/search?q=posterior+fossa+tumor&scope=all) · [PubMed Central — suboccipital craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=suboccipital+craniotomy+posterior+fossa)
-
 
 ---
 
@@ -57,8 +47,6 @@ The midline suboccipital craniotomy is the **workhorse posterior approach to the
 - **A surgical technique to expand the operative corridor for supracerebellar infratentorial approaches: technical note** — Rey-Dios R. Acta neurochirurgica 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23982230/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -98,6 +86,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 <!-- END CURATED IMAGE SET -->
 
+The midline suboccipital craniotomy is the **workhorse posterior approach to the cerebellum, fourth ventricle, and dorsal brainstem.** Its midline trajectory through the avascular nuchal raphe gives rapid, low-morbidity access to the vermis, cerebellar hemispheres, cisterna magna, and fourth ventricle floor — the corridor used for cerebellar metastases, hemangioblastomas, medulloblastomas, Chiari decompression, cerebellar hemorrhage evacuation, and fourth ventricle tumors. The approach can be extended superiorly toward the tentorial incisura (supracerebellar infratentorial variant for pineal region lesions) or laterally to incorporate the foramen magnum and C1 arch for tonsillar/craniocervical pathology.
+
 ---
 
 ## General Considerations
@@ -133,7 +123,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **AED prophylaxis** is generally **not indicated** for infratentorial lesions (low seizure risk) unless there is supratentorial involvement.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
 - **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
 - **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
 - **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
@@ -164,7 +153,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ---
 
 ## Step-by-Step Technique
-
 
 ### Positioning
 - **Prone** is standard for most midline posterior fossa work: patient on a Wilson or Jackson frame, head in **Mayfield 3-pin fixation**, flexed (chin tucked, ~2 fingerbreadths chin-to-sternum) to open the cervicooccipital angle, and slightly elevated above the heart for venous drainage. Pins: two anterior (forehead bilaterally), one posterior (contralateral to dominant hand, low parietal).
@@ -232,6 +220,16 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Tumors: [posterior-fossa-tumor.md](../cranial-tumor/posterior-fossa-tumor.md) · [pineal-region-tumor.md](../cranial-tumor/pineal-region-tumor.md) · [pediatric-posterior-fossa-tumor.md](../pediatric/pediatric-posterior-fossa-tumor.md)
 - Functional: [chiari-decompression.md](../cranial-functional/chiari-decompression.md)
 - Related corridors: [retrosigmoid-craniotomy.md](retrosigmoid-craniotomy.md) · [far-lateral-craniotomy.md](far-lateral-craniotomy.md) · [supracerebellar-infratentorial-approach.md](supracerebellar-infratentorial-approach.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapters & video:** [Midline Suboccipital Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/midline-suboccipital-craniotomy) · [Posterior Fossa Craniotomy (Neuroanatomy)](https://www.neurosurgicalatlas.com/neuroanatomy/posterior-fossa-craniotomy) · [Telovelar Approach to the Fourth Ventricle](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/telovelar-approach-to-the-fourth-ventricle) · [Cranial Approaches — General Principles](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/general-principles)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

@@ -11,9 +11,6 @@ tags:
 
 # Case Prep: Basilar Apex (Tip) Aneurysm
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -49,41 +46,11 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=basilar+apex+aneurysm)
 
-
-
-
 ![Basilar-apex aneurysm via orbitozygomatic approach — posterior perforators visualized (A), dissected off the dome and excluded from the clip construct (B), with post-clip ICG confirming perforator preservation (C)](../../figures/cranial-vascular/basilar-clip-icg-perforators_fsurg-2019-34.jpg)
 
 *Basilar-tip clipping: P1/basilar-apex perforators dissected off the dome; post-clip ICG videoangiography confirms perforator preservation. Source: Norat et al., Front Surg 2019;6:34, Fig 3. CC BY 4.0.*
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Basilar Apex (Tip) Aneurysm**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -101,8 +68,6 @@ Items that commonly vary by surgeon or institution:
 - **Transpalpebral approach for microsurgical clipping of an unruptured basilar apex aneurysm: case report and literature review** — Dzhindzhikhadze RS. British journal of neurosurgery 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33252271/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -181,7 +146,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU after aneurysm clipping or cavernoma surgery, especially ruptured aneurysm, vasospasm risk, or brainstem/deep lesion.
 - **OR setup:** microscope, clip tray with temporary/permanent clips, ICG/Doppler, vascular instruments, blood available, DSA/CTA images displayed, and bypass/parent-vessel rescue plan for complex aneurysms.
 - **Special needs:** arterial line, BP target before and after occlusion, nimodipine/EVD/SAH pathway if ruptured, seizure prophylaxis by lesion/location, dexamethasone only when edema risk warrants, and neuromonitoring for deep/eloquent corridors.
 - **Immediate postop orders:** ICU neuro checks, SBP parameters, CTA/DSA or CT timing, EVD/vasospasm surveillance for SAH, antiepileptic plan, DVT timing, and focused motor/language/cranial-nerve exams.
@@ -277,3 +241,30 @@ Hemostasis was confirmed, the orbitozygomatic segment reconstructed, the bone fl
 - If SAH: nimodipine, TCDs
 - Postop CTA/DSA
 - Standard aneurysm post-op care
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Basilar Apex (Tip) Aneurysm**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Tethered Cord Release
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -38,35 +35,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=tethered%20spinal%20cord&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=tethered+cord+release+filum) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Tethered Cord Release**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -84,8 +53,6 @@ Items that commonly vary by surgeon or institution:
 - **Split cord malformation and tethered cord syndrome: case series with long-term follow-up and literature review** — Kobets AJ. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33242106/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -167,7 +134,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** floor or step-down; ICU for infants, Chiari/brainstem symptoms, significant myelopathy, respiratory risk, or complex revision.
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **OR setup:** microscope, neuromonitoring, prone positioning pads, ultrasound/navigation if needed, dural repair materials, and CSF-leak management supplies.
 - **Special needs:** Foley for detethering/bladder baseline, urology plan when neurogenic bladder is relevant, MAP/normothermia for cord perfusion, no long paralytic with MEPs, and meticulous skin-pressure protection.
 - **Immediate postop orders:** motor/sensory/bladder checks, flat or activity restrictions per dural closure, wound/CSF-leak watch, pain/spasm regimen, MRI follow-up when indicated, and PT/urology follow-up.
@@ -177,6 +144,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Goals: **Release the tethering element**, preserve neural function; for complex lipomas, debulk and reconstruct to reduce retethering
 
 ### Position
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - Prone, chest rolls, abdomen free, foam/horseshoe (peds — avoid pins in young), **latex-free**, IONM baseline (incl. EMG, BCR/sphincter); per level
 
 ### Key Surgical Steps
@@ -245,3 +213,30 @@ Multilayer closure was completed. The patient was kept flat per protocol and tra
 - Latex-free, bowel/bladder management, urology follow-up
 - DVT prophylaxis (mechanical; adults), rehab
 - Counsel: goal is to halt progression (may not reverse established deficits); lifelong retethering surveillance
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Tethered Cord Release**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

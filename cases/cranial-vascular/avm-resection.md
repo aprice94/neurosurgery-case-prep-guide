@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Arteriovenous Malformation (AVM) Resection
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -41,37 +38,7 @@ tags:
 
 > Copyrighted operative figures/videos are linked, not copied. Embedded figures below are public-domain or CC-BY; see [media-sources.md](../../resources/media-sources.md) and [CREDITS.md](../../figures/CREDITS.md).
 
-
-
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Arteriovenous Malformation (AVM) Resection**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -89,8 +56,6 @@ Items that commonly vary by surgeon or institution:
 - **Arteriovenous Malformation of the Cervical Cord Region** — Tanitame K. Internal medicine (Tokyo, Japan) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32727991/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -177,7 +142,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU, often with strict BP control for 24-48h after resection or embolization-assisted surgery.
 - **OR setup:** microscope, neuronavigation, ICG/Doppler, temporary clips/vascular instruments, blood available, embolization images loaded, and hybrid/DSA access if intraoperative angiography is planned.
 - **Special needs:** arterial line, Foley, seizure prophylaxis for cortical lesions, BP floor/ceiling agreed with anesthesia, staged embolization plan, and readiness for swelling/normal-perfusion-pressure breakthrough.
 - **Immediate postop orders:** ICU neuro checks, strict SBP target, CT/CTA or formal angiography per surgeon, seizure prophylaxis, dexamethasone if edema risk, DVT timing, and low threshold for imaging with headache/deficit.
@@ -271,3 +235,30 @@ The resection bed was inspected and meticulous hemostasis obtained under control
 - Seizure prophylaxis
 - CT head, monitor for hemorrhage/edema
 - Follow-up DSA, clinic
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Arteriovenous Malformation (AVM) Resection**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

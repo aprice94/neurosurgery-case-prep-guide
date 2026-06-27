@@ -11,7 +11,6 @@ tags:
 
 # Operative Approach: Retrosigmoid (Retromastoid) Craniotomy
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -24,20 +23,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures and videos are **linked** (Neurosurgical Atlas, Rhoton collection); embedded images are **public-domain** (Gray's Anatomy) or **Creative Commons CC‑BY** (open-access cadaveric anatomy), each credited beneath the image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapters & video:** [Retromastoid Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy) · [The Retrosigmoid Craniotomy (Neuroanatomy)](https://www.neurosurgicalatlas.com/neuroanatomy/the-retrosigmoid-craniotomy) · [Retrosigmoid Approach — 3D Model](https://www.neurosurgicalatlas.com/3d-models/retrosigmoid-approach) · [Cranial Approaches — General Principles](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/general-principles)
-
-The retrosigmoid craniotomy is the **workhorse posterolateral corridor to the cerebellopontine angle (CPA), petroclival region, and lateral posterior fossa.** It is the approach for vestibular schwannoma, CPA meningioma and epidermoid, microvascular decompression (trigeminal neuralgia, hemifacial spasm, glossopharyngeal neuralgia), and selected petroclival and foramen magnum lesions. Its power lies in a small, low-morbidity bony window placed precisely at the **transverse–sigmoid sinus junction**, combined with early CSF drainage that lets the cerebellum fall away from the petrous face — giving a wide, retractor-light view of cranial nerves III–XII.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cerebellopontine+angle+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — Retromastoid](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy) · [Rhoton CPA anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+cerebellopontine+angle+anatomy) · [Radiopaedia — CPA](https://radiopaedia.org/search?q=cerebellopontine%20angle&scope=all) · [PubMed Central — retrosigmoid](https://www.ncbi.nlm.nih.gov/pmc/?term=retrosigmoid+approach+surgical+anatomy)
-
 
 ---
 
@@ -57,8 +47,6 @@ The retrosigmoid craniotomy is the **workhorse posterolateral corridor to the ce
 - **Retrosigmoid suprafloccular transhorizontal fissure approach for resection of brainstem cavernous malformation** — Ohue S. Neurosurgery 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20489521/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -97,6 +85,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Fig. 7. the method of precisely locating the central point of keyhole via suboccipital retrosigmoid keyhole approach based on “one point, two lines and two distances” theory. A: the top point of... Source: [A novel theory for rapid localization of the transverse-sigmoid sinus junction and “keyhole” in the retrosigmoid keyhole approach: micro-anatomical study, technique nuances, and clinical application](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249418/) — Neurosurgical Review 2024; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
+
+The retrosigmoid craniotomy is the **workhorse posterolateral corridor to the cerebellopontine angle (CPA), petroclival region, and lateral posterior fossa.** It is the approach for vestibular schwannoma, CPA meningioma and epidermoid, microvascular decompression (trigeminal neuralgia, hemifacial spasm, glossopharyngeal neuralgia), and selected petroclival and foramen magnum lesions. Its power lies in a small, low-morbidity bony window placed precisely at the **transverse–sigmoid sinus junction**, combined with early CSF drainage that lets the cerebellum fall away from the petrous face — giving a wide, retractor-light view of cranial nerves III–XII.
 
 ---
 
@@ -142,7 +132,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Baseline facial function** (House-Brackmann), lower cranial nerve and swallowing assessment for larger or inferiorly placed lesions.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
 - **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
 - **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
 - **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
@@ -158,7 +147,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Positioning
 
-
 Several positions achieve the same goal — the **mastoid eminence as the highest point**, the petrous face perpendicular to the floor, and gravity assisting cerebellar relaxation:
 
 - **Lateral / park-bench (most common):** patient lateral, operative side up; head in **Mayfield 3-pin** fixation, flexed (≈2 fingerbreadths chin-to-sternum), rotated so the nose turns ~10–15° toward the floor, and laterally flexed toward the contralateral shoulder to open the **cervicomastoid angle**. The **ipsilateral shoulder is taped down** caudally to keep it out of the surgeon's hands. An axillary roll protects the dependent brachial plexus.
@@ -171,7 +159,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 
 ## Incision & Soft-Tissue Dissection
 
-
 - **Incision options:** a **vertical/slightly curved linear** incision ~1 fingerbreadth behind the mastoid groove, centered on the asterion and extending from just above the pinna to the level of the mastoid tip (workhorse for MVD and most VS); or a **C-/inverted-U myocutaneous flap** for larger tumors needing wider exposure. Mark the **asterion, mastoid tip, digastric groove, and superior nuchal line**; navigation or Doppler can mark the sinuses on the skin.
 - Incise scalp and the suboccipital muscles in line with the skin and elevate as a cuff, preserving a **muscular/fascial cuff superiorly and at the superior nuchal line** for a secure, watertight closure later (key to preventing CSF leak/pseudomeningocele).
 - Subperiosteal dissection exposes the asterion, the mastoid behind the spine of Henle, and enough occipital bone medial to the sigmoid. Protect and wax the **mastoid emissary vein** when encountered. Avoid straying anterior over the mastoid (facial nerve in its vertical segment is at risk in extensive drilling).
@@ -183,7 +170,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 ---
 
 ## Craniotomy / Craniectomy
-
 
 1. **Burr hole** placed just **inferomedial to the asterion**, over the inferior transverse sinus or the TSJ (navigation/anatomy-guided). Some surgeons use a single keyhole at the junction; care is taken to separate dura from bone over the sinus before turning the flap.
 2. **Turn a craniotomy (preferred) or perform a craniectomy** ~2.5–3 cm, deliberately carrying the superolateral margin to **unroof the medial edge of the sigmoid sinus and the inferior edge of the transverse sinus.** A diamond/cutting burr thins the bone over the sinuses, which are then exposed with a small curette/Kerrison — bony decompression of the sinuses (not their retraction) is what opens the trajectory.
@@ -198,7 +184,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 
 ## Dural Opening
 
-
 - Open the dura in a **C-shaped (or cruciate/Y-shaped) flap based on the sigmoid sinus**, hinged laterally, and tack the flap toward the sinuses with stay sutures to widen the corridor and protect the sinus.
 - Before wide opening, gently elevate the inferolateral cerebellum and **open the cisterna magna / cerebellomedullary cistern to release CSF**; the cerebellum relaxes and falls medially, opening the CPA without fixed retraction.
 - Take care that the dural opening edge does not tether bridging veins (e.g., the superior petrosal vein/Dandy's vein complex), which are addressed deliberately under magnification.
@@ -206,7 +191,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 ---
 
 ## Intradural Work
-
 
 1. Under the microscope, follow the petrous face medially. **Sharp arachnoid dissection** opens the CPA cistern; identify the **CN VII/VIII complex** at the porus acusticus, the **flocculus and choroid plexus** at Luschka marking the root exit zone, and **AICA** looping nearby.
 2. Define the lesion-specific targets:
@@ -229,7 +213,6 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 - **Reapproximate the suboccipital muscle and fascia in distinct, tight layers** to the preserved cuff; this muscular closure is the second line of defense against CSF leak. Galea and skin closed meticulously.
 
 ---
-
 
 ### Further operative anatomy & technique
 
@@ -265,6 +248,16 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 - Tumors: [vestibular-schwannoma.md](../cranial-tumor/vestibular-schwannoma.md) · [epidermoid.md](../cranial-tumor/epidermoid.md) · [petroclival-meningioma.md](../cranial-tumor/petroclival-meningioma.md) · [jugular-foramen-tumor.md](../cranial-tumor/jugular-foramen-tumor.md) · [foramen-magnum-meningioma-far-lateral.md](../cranial-tumor/foramen-magnum-meningioma-far-lateral.md)
 - Functional: [mvd-trigeminal-neuralgia.md](../cranial-functional/mvd-trigeminal-neuralgia.md) · [mvd-hemifacial-spasm.md](../cranial-functional/mvd-hemifacial-spasm.md)
 - Related corridors: [far-lateral-craniotomy.md](far-lateral-craniotomy.md) · [presigmoid-petrosal-approach.md](presigmoid-petrosal-approach.md) · [midline-suboccipital-craniotomy.md](midline-suboccipital-craniotomy.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures and videos are **linked** (Neurosurgical Atlas, Rhoton collection); embedded images are **public-domain** (Gray's Anatomy) or **Creative Commons CC‑BY** (open-access cadaveric anatomy), each credited beneath the image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapters & video:** [Retromastoid Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/retromastoid-craniotomy) · [The Retrosigmoid Craniotomy (Neuroanatomy)](https://www.neurosurgicalatlas.com/neuroanatomy/the-retrosigmoid-craniotomy) · [Retrosigmoid Approach — 3D Model](https://www.neurosurgicalatlas.com/3d-models/retrosigmoid-approach) · [Cranial Approaches — General Principles](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/general-principles)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

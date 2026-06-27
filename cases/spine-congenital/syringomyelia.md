@@ -11,9 +11,6 @@ tags:
 
 # Case Prep: Syringomyelia — Management / Syringosubarachnoid Shunt
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -39,35 +36,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=syringomyelia&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=syringomyelia+treatment) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Syringomyelia — Management / Syringosubarachnoid Shunt**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -85,8 +54,6 @@ Items that commonly vary by surgeon or institution:
 - **Minimally invasive insertion of syringosubarachnoid shunt for posttraumatic syringomyelia: technical case report** — O'Toole JE. Neurosurgery 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18091225/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -165,7 +132,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** floor or step-down; ICU for infants, Chiari/brainstem symptoms, significant myelopathy, respiratory risk, or complex revision.
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **OR setup:** microscope, neuromonitoring, prone positioning pads, ultrasound/navigation if needed, dural repair materials, and CSF-leak management supplies.
 - **Special needs:** Foley for detethering/bladder baseline, urology plan when neurogenic bladder is relevant, MAP/normothermia for cord perfusion, no long paralytic with MEPs, and meticulous skin-pressure protection.
 - **Immediate postop orders:** motor/sensory/bladder checks, flat or activity restrictions per dural closure, wound/CSF-leak watch, pain/spasm regimen, MRI follow-up when indicated, and PT/urology follow-up.
@@ -177,6 +144,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Syringo-subarachnoid/peritoneal/pleural shunt:** reserved for **refractory/progressive syrinx** when the cause cannot be addressed or untethering fails (shunts have high failure/complication rates — last resort)
 
 ### Position
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - Prone, Mayfield/foam, IONM baseline; per target (foramen magnum for Chiari, syrinx level for shunt/untethering)
 
 ### Key Surgical Steps (Syringosubarachnoid Shunt — refractory cases)
@@ -239,3 +207,30 @@ Closure was completed in layers. The patient was transferred with CSF-leak preca
 - Pain management (neuropathic — gabapentinoids), rehab
 - DVT prophylaxis (mechanical)
 - Counsel: syrinx collapse is gradual; goal is to halt progression; monitor for recurrence/shunt failure; address scoliosis (peds, ortho)
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Syringomyelia — Management / Syringosubarachnoid Shunt**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

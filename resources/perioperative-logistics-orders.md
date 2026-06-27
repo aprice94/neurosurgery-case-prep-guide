@@ -1,6 +1,6 @@
 ---
 title: "Perioperative Logistics & Orders Quick Reference"
-description: "Quick reference for typical bed placement, OR setup, special monitoring, and immediate postoperative orders across neurosurgical case types."
+description: "Quick reference for postop destination, OR setup, special monitoring, and immediate postoperative orders across neurosurgical case types."
 category: "Resources"
 tags:
   - "orders"
@@ -24,7 +24,7 @@ Use this as a case-setup checklist before opening the disease-specific guide. Lo
 
 ## Domain Defaults
 
-| Domain | Typical bed | OR / suite needs | Special needs | Immediate postop orders |
+| Domain | Postop destination | OR / suite needs | Special needs | Immediate postop orders |
 |--------|-------------|------------------|---------------|--------------------------|
 | Cranial tumor / craniotomy | ICU or step-down first night; floor for low-risk pathways | Mayfield, navigation, microscope/exoscope, ultrasound/fluorescence/mapping when used, pathology workflow | Arterial line for large/eloquent/vascular tumors, dex plan, seizure plan, blood for meningioma/skull base | Neuro checks, CT if concern, MRI 24-48h when EOR matters, dex taper, AED duration, DVT timing |
 | Sellar / endonasal skull base | ICU/step-down for extended cases | Endoscope tower, navigation, Doppler, ENT co-surgeon, reconstruction materials | DI/sodium protocol, cortisol/steroid strategy, visual checks, CSF-leak precautions | Strict I/O, sodium/urine checks, AM cortisol/endocrine labs, nasal precautions, MRI/CT timing |

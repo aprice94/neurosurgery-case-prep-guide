@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Cranioplasty
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -49,39 +46,11 @@ tags:
 - [PubMed Central — cranioplasty outcomes & techniques](https://www.ncbi.nlm.nih.gov/pmc/?term=cranioplasty+outcomes)
 - [PubMed Central — cranioplasty materials](https://www.ncbi.nlm.nih.gov/pmc/?term=cranioplasty+PEEK+titanium+autologous)
 
-
 ![Bones of the skull — lateral view](https://upload.wikimedia.org/wikipedia/commons/f/fe/Sobo_1909_39.png)
 
 *Sobotta 1909 — public domain — via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sobo_1909_39.png). Relevant to calvarian defect anatomy and cranial bone landmarks.*
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Cranioplasty**:
-
-1. What is the life-threatening mass-effect problem and what is the operative endpoint?
-2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
-3. What exposure gives rapid control while preserving options for expansion?
-4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
-5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
-- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
-- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
-- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -99,8 +68,6 @@ Items that commonly vary by surgeon or institution:
 - **Management and prevention of cranioplasty infections** — Frassanito P. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31222447/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -241,7 +208,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** floor or step-down; ICU if large defect, tenuous flap, infection history, seizure risk, or major medical comorbidity.
 - **OR setup:** custom implant/autologous flap verified before induction, fixation set, scalp-flap instruments, drain, antibiotics, and blood available for large revision exposures.
 - **Special needs:** infection clearance documented, shunt/CSF-pressure plan if present, skin-flap perfusion plan, antiepileptic decision, and anticoagulation/DVT timing.
 - **Immediate postop orders:** neuro checks, wound/flap checks, drain care, CT for implant/hemorrhage when indicated, helmet discontinued only after surgeon clearance, antibiotics per protocol, and avoid pressure on flap.
@@ -403,3 +369,30 @@ The [left/right] [frontotemporal/parietal/frontal] region was prepped and draped
 - Clinic follow-up: 4-6 weeks
 - Surveillance imaging: 3-6 months, then per implant type (see above)
 - Long-term: annual visit x 2-3 years for autologous grafts; as needed for synthetic
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Cranioplasty**:
+
+1. What is the life-threatening mass-effect problem and what is the operative endpoint?
+2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
+3. What exposure gives rapid control while preserving options for expansion?
+4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
+5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
+- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
+- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
+- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

@@ -11,9 +11,6 @@ tags:
 
 # Case Prep: Ventriculoperitoneal (VP) Shunt Placement
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -38,35 +35,7 @@ tags:
 - **Imaging review:** [Radiopaedia — VP shunt](https://radiopaedia.org/search?q=ventriculoperitoneal%20shunt&scope=all) · [Radiopaedia — hydrocephalus](https://radiopaedia.org/search?q=hydrocephalus&scope=all)
 - **Open-access anatomy/technique:** [PubMed Central — ventriculoperitoneal shunt](https://www.ncbi.nlm.nih.gov/pmc/?term=ventriculoperitoneal+shunt+technique)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Ventriculoperitoneal (VP) Shunt Placement**:
-
-1. What is the working CSF physiology problem: obstruction, absorption failure, overdrainage, infection, or catheter failure?
-2. Where exactly is the entry point, target, and backup trajectory?
-3. What valve, catheter, endoscope, or navigation preference does the attending use?
-4. What is the infection-prevention plan and what cultures/CSF studies are needed?
-5. What postop imaging, valve setting, drainage level, and neuro-check plan should be written?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Valve brand/setting, antibiotic catheter use, and tunneling side:** [attending-specific]
-- **Navigation/endoscope/stylet preference and ventricular target:** [attending-specific]
-- **CSF culture/lab routine and perioperative antibiotic duration:** [attending-specific]
-- **Postop scan timing, EVD height or valve verification, and activity restrictions:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -84,8 +53,6 @@ Items that commonly vary by surgeon or institution:
 - **Ventriculoperitoneal shunt migration into the pulmonary artery: Case report and literature review** — González-Pombo M. Neurocirugia 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36775740/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -187,7 +154,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** floor or step-down for routine shunt/ETV; ICU for infants, altered mental status, high-pressure hydrocephalus, EVD conversion, infection, or significant comorbidity.
 - **OR setup:** navigation or endoscope as indicated, shunt hardware/valve setting verified, distal-access tools or general surgery help when needed, antibiotic-impregnated catheter availability, and postop imaging plan.
 - **Special needs:** antibiotic timing, programmable valve documentation, abdominal/chest/vascular distal-site plan, CSF culture plan for revision/infection, anticoagulation plan, and EVD backup if access fails.
 - **Immediate postop orders:** neuro checks, CT or shunt-series timing, valve setting documentation and MRI precautions, wound/abdominal/distal-site checks, infection watch, DVT timing, and follow-up for setting adjustment.
@@ -304,3 +270,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Educate patient/family on shunt malfunction signs
 - Follow-up: 2-4 weeks clinic; CT at 3 months (new baseline ventricle size)
 - NPH patients: Repeat gait assessment at 1-3 months; adjust valve if needed
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Ventriculoperitoneal (VP) Shunt Placement**:
+
+1. What is the working CSF physiology problem: obstruction, absorption failure, overdrainage, infection, or catheter failure?
+2. Where exactly is the entry point, target, and backup trajectory?
+3. What valve, catheter, endoscope, or navigation preference does the attending use?
+4. What is the infection-prevention plan and what cultures/CSF studies are needed?
+5. What postop imaging, valve setting, drainage level, and neuro-check plan should be written?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Valve brand/setting, antibiotic catheter use, and tunneling side:** [attending-specific]
+- **Navigation/endoscope/stylet preference and ventricular target:** [attending-specific]
+- **CSF culture/lab routine and perioperative antibiotic duration:** [attending-specific]
+- **Postop scan timing, EVD height or valve verification, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

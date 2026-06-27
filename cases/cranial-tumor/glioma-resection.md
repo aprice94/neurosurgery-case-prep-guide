@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Glioma Resection (Supratentorial)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -41,8 +38,6 @@ tags:
 
 > 🧭 **Operative approach:** [Pterional craniotomy](../approaches/pterional-craniotomy.md) — detailed corridor setup, step-by-step technique & figures
 
-
-
 ![Glioblastoma — preoperative MRI with DTI tractography (A–D) and postoperative MRI showing gross total resection (E–F)](../../figures/cranial-tumor/glioma-preop-postop-mri-dti_fneur-644804.jpg)
 
 *Preoperative MRI + DTI and postoperative gross-total-resection MRI. Source: Maragkos et al., Front Neurol 2021;12:644804, Fig 1. CC BY 4.0.*
@@ -51,35 +46,7 @@ tags:
 
 *Intraoperative 5-ALA fluorescence guiding resection of tumor bulk and infiltrative margin. Source: Maragkos et al., Front Neurol 2021;12:644804, Fig 2. CC BY 4.0.*
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Glioma Resection (Supratentorial)**:
-
-1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
-2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
-3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
-4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
-5. What complication would you check for first in PACU based on this lesion location?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Extent-of-resection goal and functional stopping points:** [attending-specific]
-- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
-- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
-- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -97,8 +64,6 @@ Items that commonly vary by surgeon or institution:
 - **What Epigenetics Teaches Us About Neuron-Glioma Interactions** — Chakraborty C. BioEssays : news and reviews in molecular, cellular and developmental biology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40685688/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -236,7 +201,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU or step-down for first night after craniotomy; floor pathway only for small low-risk lesions with stable exam and minimal edema.
 - **OR setup:** Mayfield, navigation with latest MRI/DTI/functional data, microscope/exoscope, ultrasound/5-ALA/fluorescence when used, CUSA, cortical/subcortical mapping tools for eloquent lesions, and specimens/pathology workflow ready.
 - **Special needs:** arterial line for large/eloquent/vascular tumors, dexamethasone plan, seizure prophylaxis for cortical lesions or seizure history, mannitol/hypertonic availability, language/motor mapping plan, and blood available for meningioma/skull-base cases.
 - **Immediate postop orders:** neuro checks with deficit-specific exam, MRI brain with contrast within 24-48h when resection assessment matters, CT for hemorrhage concern, dex taper, antiepileptic duration, DVT timing, pathology/molecular follow-up, and rehab consults as needed.
@@ -411,3 +375,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
   - Grade III: Radiation +/- chemotherapy depending on molecular profile
   - Grade II (IDH-mutant): Consider observation if GTR; RT + chemotherapy if subtotal or progressive
 - Follow-up: Clinic 2 weeks; serial MRI q3-4 months
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Glioma Resection (Supratentorial)**:
+
+1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
+2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
+3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
+4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
+5. What complication would you check for first in PACU based on this lesion location?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Extent-of-resection goal and functional stopping points:** [attending-specific]
+- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
+- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
+- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

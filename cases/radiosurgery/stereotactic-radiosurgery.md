@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -33,37 +30,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereotactic+radiosurgery+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20radiosurgery&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=stereotactic+radiosurgery+gamma+knife) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife**:
-
-1. What target coordinate, trajectory, and no-fly-zone were chosen?
-2. What imaging confirms target accuracy and avoids vessel/ventricle/sulcus violation?
-3. What specimen, pathology, culture, or molecular study must be obtained?
-4. What hemorrhage, edema, seizure, or thermal-injury sign must be watched for tonight?
-5. What postop scan timing and steroid/antiepileptic plan is appropriate?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Frame versus frameless/robot platform and planning software:** [attending-specific]
-- **Trajectory constraints, number of cores/targets, and frozen/permanent pathology plan:** [attending-specific]
-- **Steroid/antiepileptic prophylaxis and postop scan timing:** [attending-specific]
-- **Admit versus discharge threshold and neuro-check frequency:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -81,8 +50,6 @@ Items that commonly vary by surgeon or institution:
 - **Evaluation of CyberKnife Radiosurgery for Recurrent Trigeminal Neuralgia** — Berti A. Cureus 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30013862/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -165,7 +132,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning (Procedure Workflow)
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** outpatient; inpatient observation only for frailty, symptomatic edema, frame-related complications, or high-risk lesion location.
 - **OR setup:** frame or mask workflow, stereotactic MRI/CT fusion, physics plan verification, radiosurgery timeout for target/dose/isocenters, and emergency access plan for frame discomfort or airway issues.
 - **Special needs:** steroid plan for edema-prone lesions, antiepileptic plan for cortical lesions/seizure history, anticoagulation safety review, and pregnancy/device/MRI screening.
 - **Immediate postop orders:** frame-pin care if used, headache/nausea regimen, steroid taper if prescribed, seizure precautions when relevant, discharge instructions, and interval MRI/clinic follow-up.
@@ -244,3 +210,30 @@ The patient was discharged the same day with [a short steroid course] and a surv
 - Monitor for **radionecrosis vs progression** (perfusion/spectroscopy/MET-PET; may need steroids, bevacizumab, or surgery)
 - Audiometry (VS), visual fields (sellar/optic-adjacent), endocrine (sellar)
 - Oncology coordination (mets — systemic therapy, new-lesion surveillance); counsel AVM patients re: hemorrhage risk during latency
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife**:
+
+1. What target coordinate, trajectory, and no-fly-zone were chosen?
+2. What imaging confirms target accuracy and avoids vessel/ventricle/sulcus violation?
+3. What specimen, pathology, culture, or molecular study must be obtained?
+4. What hemorrhage, edema, seizure, or thermal-injury sign must be watched for tonight?
+5. What postop scan timing and steroid/antiepileptic plan is appropriate?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Frame versus frameless/robot platform and planning software:** [attending-specific]
+- **Trajectory constraints, number of cores/targets, and frozen/permanent pathology plan:** [attending-specific]
+- **Steroid/antiepileptic prophylaxis and postop scan timing:** [attending-specific]
+- **Admit versus discharge threshold and neuro-check frequency:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

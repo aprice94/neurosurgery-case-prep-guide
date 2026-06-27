@@ -10,7 +10,6 @@ tags:
 
 # Operative Approach: Bifrontal (Subfrontal) Craniotomy
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -23,20 +22,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapters:** [Olfactory Groove Meningioma (bifrontal technique) — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma) · [Pterional Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
-
-The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor to the anterior cranial fossa floor.** Through a **bicoronal incision**, a **frontal bone flap crossing the superior sagittal sinus** is elevated and the frontal lobes are gently retracted to expose the **planum, cribriform plate, crista galli, both orbital roofs, and the suprasellar region** in a single bilateral field. It is the classic approach for **large midline anterior skull base tumors** (olfactory groove and planum meningiomas, sinonasal tumors with intracranial extension) and for **anterior skull base / CSF-leak reconstruction**, where its bilateral exposure and **vascularized pericranial flap** are decisive.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=olfactory+groove+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — olfactory groove / anterior base](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma) · [Radiopaedia — olfactory groove meningioma](https://radiopaedia.org/search?q=olfactory%20groove%20meningioma&scope=all) · [PubMed Central — bifrontal craniotomy](https://www.ncbi.nlm.nih.gov/pmc/?term=bifrontal+craniotomy+anterior+skull+base)
-
 
 ---
 
@@ -56,8 +46,6 @@ The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor 
 - **Precision in Complexity: A Protocol-Driven Quantitative Anatomic Strategy for Giant Olfactory Groove Meningioma Resection in a High-Risk Geriatric Patient** — Grigorean VT. Diagnostics (Basel, Switzerland) 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41515621/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -96,6 +84,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Figure 1. HADS score timeline.HADS: Hospital Anxiety and Depression Scale Source: [Transient Psychiatric Disturbances Following Bifrontal Craniotomy for Suprasellar Tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC12740201/) — Cureus 2025; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
+
+The bifrontal (subfrontal) craniotomy is the **wide, bilateral midline corridor to the anterior cranial fossa floor.** Through a **bicoronal incision**, a **frontal bone flap crossing the superior sagittal sinus** is elevated and the frontal lobes are gently retracted to expose the **planum, cribriform plate, crista galli, both orbital roofs, and the suprasellar region** in a single bilateral field. It is the classic approach for **large midline anterior skull base tumors** (olfactory groove and planum meningiomas, sinonasal tumors with intracranial extension) and for **anterior skull base / CSF-leak reconstruction**, where its bilateral exposure and **vascularized pericranial flap** are decisive.
 
 ---
 
@@ -148,7 +138,6 @@ The bifrontal approach is a reconstruction-heavy corridor. If a robust pericrani
 - Coordinate ENT/plastics when sinonasal resection, orbital wall work, free flap, or complex revision reconstruction is expected.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
 - **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
 - **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
 - **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
@@ -193,7 +182,6 @@ The bifrontal approach is a reconstruction-heavy corridor. If a robust pericrani
 - **ACA/perforator adherence:** leave a rind rather than avulsing a perforator; postoperative radiosurgery is better than an avoidable infarct.
 - **Unexpected sinus contamination:** complete cranialization, remove mucosa, obliterate ducts, isolate with vascularized pericranium, and consider antibiotics/drainage strategy.
 
-
 ---
 
 ## Closure & Anterior-Fossa Reconstruction
@@ -219,6 +207,16 @@ The bifrontal approach is a reconstruction-heavy corridor. If a robust pericrani
 ## Cross-links
 - Pathology: [olfactory-groove-meningioma.md](../cranial-tumor/olfactory-groove-meningioma.md) · [tuberculum-sellae-meningioma.md](../cranial-tumor/tuberculum-sellae-meningioma.md)
 - Related corridors: [supraorbital-keyhole-craniotomy.md](supraorbital-keyhole-craniotomy.md) · [anterior-interhemispheric-approach.md](anterior-interhemispheric-approach.md) · [endoscopic-endonasal-approach.md](endoscopic-endonasal-approach.md) · [pterional-craniotomy.md](pterional-craniotomy.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapters:** [Olfactory Groove Meningioma (bifrontal technique) — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-meningioma/olfactory-groove-meningioma) · [Pterional Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/pterional-craniotomy)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

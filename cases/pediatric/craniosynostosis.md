@@ -8,9 +8,6 @@ tags:
 
 # Case Prep: Craniosynostosis Repair
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -32,37 +29,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=craniosynostosis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=craniosynostosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=craniosynostosis+cranial+vault+remodeling) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Craniosynostosis Repair**:
-
-1. What age-specific anatomy, blood volume, temperature, and positioning issue changes the plan?
-2. What is the neurologic, developmental, or syndromic baseline?
-3. What skin, wound, CSF, or infection risk is highest in this child?
-4. What family-facing expectation should be clarified before surgery?
-5. What postop bed, feeding, pain, imaging, and activity plan is safest?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Blood availability threshold, warming strategy, antibiotic dosing, and Foley/drain use:** [attending-specific]
-- **Positioning aids, pinning versus horseshoe, and skin-prep preference:** [attending-specific]
-- **Family update cadence and expected ICU/floor disposition:** [attending-specific]
-- **Postop feeding, pain regimen, wound care, and activity restrictions:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -80,8 +49,6 @@ Items that commonly vary by surgeon or institution:
 - **Craniosynostosis and oculomotor disorders** — Dalmas F. Neuro-Chirurgie 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31866515/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -167,7 +134,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** PICU after open vault remodeling; monitored floor or short-stay only for selected endoscopic strip cases by pathway.
 - **OR setup:** pediatric anesthesia, blood conservation/cell saver per protocol, craniofacial/plastics trays, positioning pads, temperature management, tranexamic acid/blood products, and helmet pathway for endoscopic cases.
 - **Special needs:** weight-based antibiotics/fluids/transfusion thresholds, arterial line for open vault cases, eye protection, hypothermia prevention, and family counseling about swelling and helmet therapy.
 - **Immediate postop orders:** PICU neuro and airway checks, CBC/coags, drain care if used, pain/nausea regimen, head elevation, transfusion parameters, wound checks, and helmet/craniofacial follow-up.
@@ -240,3 +206,30 @@ Closure was performed. The patient was transferred to the [PICU/floor] with Hgb/
 - Pain control, feeding, thermoregulation
 - Craniofacial team follow-up, genetics (syndromic), ophthalmology, head shape/circumference surveillance
 - Long-term: monitor for raised ICP, reossification, need for revision (syndromic)
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Craniosynostosis Repair**:
+
+1. What age-specific anatomy, blood volume, temperature, and positioning issue changes the plan?
+2. What is the neurologic, developmental, or syndromic baseline?
+3. What skin, wound, CSF, or infection risk is highest in this child?
+4. What family-facing expectation should be clarified before surgery?
+5. What postop bed, feeding, pain, imaging, and activity plan is safest?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Blood availability threshold, warming strategy, antibiotic dosing, and Foley/drain use:** [attending-specific]
+- **Positioning aids, pinning versus horseshoe, and skin-prep preference:** [attending-specific]
+- **Family update cadence and expected ICU/floor disposition:** [attending-specific]
+- **Postop feeding, pain regimen, wound care, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

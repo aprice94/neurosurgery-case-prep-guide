@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Posterior Cervical Foraminotomy (Laminoforaminotomy)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -36,37 +33,9 @@ tags:
 
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20foraminal%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=posterior+cervical+foraminotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20foraminal%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=posterior+cervical+foraminotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Posterior Cervical Foraminotomy (Laminoforaminotomy)**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -84,8 +53,6 @@ Items that commonly vary by surgeon or institution:
 - **Posterior Cervical Foraminotomy Compared with Anterior Cervical Discectomy with Fusion for Cervical Radiculopathy: Two-Year Results of the FACET Randomized Noninferiority Study** — Simões de Souza NF. The Journal of bone and joint surgery. American volume 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39047120/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -163,12 +130,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** outpatient/PACU for selected decompressions; floor or step-down for fusion, cervical myelopathy, thoracic disease, medical frailty, high EBL, or airway risk.
+- **OR table/bed:** Wilson frame, Andrews/knee-chest frame, or Jackson/open-frame table by surgeon preference; flexion opens the interlaminar window and the abdomen must hang free.
 - **OR setup:** radiolucent/Jackson table, fluoroscopy or O-arm/navigation, microscope/loupes for decompression, implant trays/graft ready for fusion, neuromonitoring for myelopathy/cord-risk cases, and postop brace plan confirmed.
 - **Special needs:** arterial line/Foley/type-screen for long fusion/corpectomy, no long paralytic when MEPs are used, MAP/normotension for myelopathy or cord-risk cases, antibiotic redosing, and anticoagulation/DVT plan.
 - **Immediate postop orders:** neuro checks by myotome/sensory level, airway/dysphagia watch for anterior cervical cases, CT/X-rays per construct, drain care, brace/activity orders, DVT prophylaxis timing, bowel regimen, and PT/OT mobilization.
 
 ### Position
+- **OR table/bed:** Wilson frame, Andrews/knee-chest frame, or Jackson/open-frame table by surgeon preference; flexion opens the interlaminar window and the abdomen must hang free.
 - **Prone** (Mayfield) or **sitting** (some surgeons — less bleeding, but VAE risk); neck flexed; reverse Trendelenburg
 - IONM optional
 
@@ -239,3 +207,30 @@ The tube was removed [/ minimal closure performed]. The patient was awakened wit
 - No collar/fusion; early mobilization
 - Pain control, activity as tolerated
 - Follow-up 2-4 weeks; expect good radicular pain relief, motion preserved
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Posterior Cervical Foraminotomy (Laminoforaminotomy)**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

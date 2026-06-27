@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Vertebral Augmentation (Kyphoplasty / Vertebroplasty)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -33,37 +30,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=vertebroplasty+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=vertebroplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=kyphoplasty+vertebral+augmentation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=vertebroplasty&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=kyphoplasty+vertebral+augmentation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Vertebral Augmentation (Kyphoplasty / Vertebroplasty)**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -81,8 +50,6 @@ Items that commonly vary by surgeon or institution:
 - **Percutaneous Vertebral Augmentation and Thermal Ablation in Patients with Spinal Metastases** — Tomasian A. Seminars in interventional radiology 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38993602/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -164,7 +131,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU or step-down after osteotomy/long fusion; floor or PACU pathway for kyphoplasty/vertebroplasty when medically stable.
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - **OR setup:** Jackson table, neuromonitoring, navigation/O-arm/fluoro, deformity implant trays, osteotomy tools, cell saver, blood products, warming, and positioning plan for long prone time.
 - **Special needs:** arterial line, Foley, type/cross, tranexamic acid/blood-loss plan per protocol, MAP targets for cord perfusion, no long paralytic with MEPs, and postoperative brace/rehab plan.
 - **Immediate postop orders:** ICU/step-down neuro checks, hemoglobin/coags, drain output, CT/X-rays alignment/hardware, MAP goal if high-risk correction, brace/activity, DVT prophylaxis timing, bowel regimen, and PT/OT.
@@ -254,3 +221,30 @@ Instruments were removed and the patient recovered supine for cement curing, the
 - **Osteoporosis management** (calcium, vitamin D, anabolic/antiresorptive agents — prevent adjacent fractures), DEXA, endocrine/bone clinic
 - Pathologic: oncology, address primary, consider RT
 - Mobilize, follow-up; counsel re: adjacent-level fracture risk
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Vertebral Augmentation (Kyphoplasty / Vertebroplasty)**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

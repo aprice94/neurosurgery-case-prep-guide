@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Carotid Endarterectomy (CEA)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,35 +32,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+endarterectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Carotid Endarterectomy (CEA)**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -81,8 +50,6 @@ Items that commonly vary by surgeon or institution:
 - **Randomizing carotid endarterectomy to carotid stenting?** — Wholey MH. Journal of endovascular surgery : the official journal of the International Society for Endovascular Surgery 1999. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10473329/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -160,7 +127,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** step-down or ICU overnight for BP/airway/cranial-nerve monitoring; PACU-to-floor only for very low-risk institutional pathways.
 - **OR setup:** vascular tray, microscope/loupes per surgeon, patch/shunt options, EEG/SSEP/stump-pressure or cerebral oximetry plan, heparin/protamine plan, and duplex/CTA reviewed for level and plaque morphology.
 - **Special needs:** strict perioperative BP targets, aspirin/statin continuation, antiplatelet/anticoagulant plan, airway hematoma response plan, and cranial nerve baseline documented.
 - **Immediate postop orders:** neuro checks, neck hematoma/airway watch, BP floor/ceiling, swallow/voice assessment, antiplatelet/statin orders, drain if used, and duplex/clinic follow-up.
@@ -236,3 +202,30 @@ Hemostasis was confirmed [± drain] and closure performed in layers. The patient
 - Cranial nerve assessment (tongue, voice, lip), continue **aspirin/statin**
 - Watch for hyperperfusion syndrome (severe headache, seizure → BP control, imaging)
 - Carotid duplex follow-up (restenosis surveillance), risk factor modification; cardiology follow-up
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Carotid Endarterectomy (CEA)**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

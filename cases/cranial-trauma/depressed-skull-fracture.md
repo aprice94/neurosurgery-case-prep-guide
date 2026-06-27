@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Depressed Skull Fracture Elevation
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -46,36 +43,7 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=depressed+skull+fracture+elevation)
 
-
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Depressed Skull Fracture Elevation**:
-
-1. What is the life-threatening mass-effect problem and what is the operative endpoint?
-2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
-3. What exposure gives rapid control while preserving options for expansion?
-4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
-5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
-- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
-- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
-- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -93,8 +61,6 @@ Items that commonly vary by surgeon or institution:
 - **Depressed skull fracture in Ping Pong: elevation with Medeva extractor** — Mastrapa TL. Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17486354/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -242,7 +208,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU after operative TBI/acute hemorrhage, with ventilator/ICP pathway ready if severe injury or swelling is expected.
 - **OR setup:** trauma craniotomy/craniectomy tray, rapid blood availability, suction/bipolar/hemostatics, dural substitute, bone-flap storage or plating plan, ICP monitor/EVD supplies, and postop CT pathway cleared.
 - **Special needs:** reversal of anticoagulants, seizure prophylaxis, hyperosmolar therapy plan, arterial line, Foley, temperature/glucose/coagulation targets, antibiotic/tetanus plan for open injuries, and family/ICU handoff.
 - **Immediate postop orders:** ICU neuro checks, BP/CPP/ICP goals when monitored, CT head timing, drain/EVD settings, seizure prophylaxis duration, antibiotics for open/contaminated injuries, DVT prophylaxis timing, and repeat labs/coags.
@@ -399,3 +364,30 @@ The patient was awakened, extubated [/ remained intubated], and found to be [fol
   - **Post-traumatic epilepsy:** Risk elevated with dural penetration and cortical injury; counsel on driving restrictions
 - **Delayed cranioplasty:** If bone not replaced — reconstruct at 6-12 months (PEEK, titanium, or autologous graft); helmet precautions interim
 - **Follow-up:** Clinic 2-4 weeks with wound check + CT; 3 and 6 months for delayed complications
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Depressed Skull Fracture Elevation**:
+
+1. What is the life-threatening mass-effect problem and what is the operative endpoint?
+2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
+3. What exposure gives rapid control while preserving options for expansion?
+4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
+5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
+- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
+- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
+- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

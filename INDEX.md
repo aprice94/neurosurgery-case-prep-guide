@@ -16,15 +16,15 @@ title: Home
 </div>
 
 <div class="cards">
-  <a class="card approaches" href="#approaches"><span class="ic">⌖</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
-  <a class="card aids" href="{{ site.cranipro_url | relative_url }}"><span class="ic">◎</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
-  <a class="card aids" href="resources/approach-map.html"><span class="ic">◇</span><span class="t">Approach Map</span><span class="d">Linked corridors by region, target, and typical case use</span><span class="n">global map</span></a>
-  <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">?</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
-  <a class="card cranial" href="#cranial"><span class="ic">C</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
-  <a class="card stereo" href="#stereo"><span class="ic">S</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
-  <a class="card spine" href="#spine"><span class="ic">Sp</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
-  <a class="card peripheral" href="#peripheral"><span class="ic">P</span><span class="t">Peripheral &amp; Pediatric</span><span class="d">Nerve · plexus · pediatric neurosurgery</span><span class="n">10 guides</span></a>
-  <a class="card resources" href="#resources"><span class="ic">R</span><span class="t">Resources &amp; Template</span><span class="d">orders · media sources · blank template</span><span class="n">toolkit</span></a>
+  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
+  <a class="card aids" href="{{ site.cranipro_url | relative_url }}"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
+  <a class="card aids" href="resources/approach-map.html"><span class="ic">🗺️</span><span class="t">Approach Map</span><span class="d">Linked corridors by region, target, and typical case use</span><span class="n">global map</span></a>
+  <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
+  <a class="card cranial" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
+  <a class="card stereo" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
+  <a class="card spine" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
+  <a class="card peripheral" href="#peripheral"><span class="ic">⚡</span><span class="t">Peripheral &amp; Pediatric</span><span class="d">Nerve · plexus · pediatric neurosurgery</span><span class="n">10 guides</span></a>
+  <a class="card resources" href="#resources"><span class="ic">📚</span><span class="t">Resources &amp; Template</span><span class="d">orders · media sources · blank template</span><span class="n">toolkit</span></a>
 </div>
 
 > ⚠️ **Educational reference — not medical advice.** Summarizes standard teaching; verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before any patient care. See the [full disclaimer](DISCLAIMER.md).
@@ -61,7 +61,7 @@ title: Home
 
 <h2 id="resources">📚 Resources &amp; Templates</h2>
 - [Top 100 Neurosurgery Resources](resources/neurosurgery-resources.md) — textbooks, atlases, platforms, journals, operative references
-- [Perioperative logistics & orders quick reference](resources/perioperative-logistics-orders.md) — typical bed, OR setup, monitoring, MAP/BP, steroid/device/drain, and postop order blocks
+- [Perioperative logistics & orders quick reference](resources/perioperative-logistics-orders.md) — postop destination, OR setup, monitoring, MAP/BP, steroid/device/drain, and postop order blocks
 - [Global Approach Map](resources/approach-map.md) — linked cranial, skull-base, spine, endovascular, and stereotactic corridors
 - [Curated media & figure sources](resources/media-sources.md) — where the figures come from (and licensing)
 - [CNS Video Library embeds](resources/cns-video-library.md) — mapped CNS videos and where they are embedded in the guide set
@@ -210,7 +210,7 @@ title: Home
 
 ---
 
-<h2 id="peripheral">✋ Peripheral Nerve &amp; Pediatric</h2>
+<h2 id="peripheral">⚡ Peripheral Nerve &amp; Pediatric</h2>
 
 ### [Peripheral Nerve (4)](cases/peripheral-nerve/)
 - [Carpal tunnel release](cases/peripheral-nerve/carpal-tunnel-release.md)

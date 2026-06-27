@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Traumatic Central Cord Syndrome
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,37 +32,9 @@ tags:
 
 > 🧭 **Operative approach:** [Posterior cervical approach](../approaches/posterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=central%20cord%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=traumatic+central+cord+syndrome) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=central%20cord%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=traumatic+central+cord+syndrome) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Traumatic Central Cord Syndrome**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Surgical intervention ≤ 24 hours versus > 24 hours after injury for the management of acute traumatic central cord syndrome: a systematic review and meta-analysis** — Bin-Alamer O. Journal of neurosurgery. Spine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38335527/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -165,7 +132,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU or step-down; ICU for SCI, high cervical injury, polytrauma, respiratory risk, major blood loss, or ongoing MAP augmentation.
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - **OR setup:** spine table with log-roll precautions, fluoroscopy/O-arm/navigation, traction/Mayfield when cervical, posterior/anterior implant trays, decompression instruments, cell saver/blood for large constructs, and IONM before positioning when feasible.
 - **Special needs:** arterial line, Foley, type/cross, MAP augmentation for acute SCI per local protocol, no long paralytic when MEPs are needed, anticoagulation/reversal plan, and airway strategy for unstable cervical injuries.
 - **Immediate postop orders:** serial ASIA/neuro checks, MAP goal/duration if SCI, CT/X-rays for hardware/alignment, brace/collar orders, drain care, DVT prophylaxis timing, bowel/bladder/skin care, and early rehab/SCI consult.
@@ -182,6 +149,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Combined** for severe multilevel/instability
 
 ### Position
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - Anterior: supine, awake fiberoptic intubation (myelopathic/unstable), in-line stabilization; Posterior: prone, Mayfield, careful log-roll; IONM baseline
 
 ### Key Surgical Steps
@@ -239,3 +207,30 @@ Closure was performed in layers. The patient was transferred to the ICU with MAP
 - DVT prophylaxis, bowel/bladder/skin care, SCI rehab consult early
 - Counsel: recovery pattern (legs → bladder → proximal arms → hands; hands recover last/least); steroids controversial (institutional)
 - Follow-up imaging, rehabilitation
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Traumatic Central Cord Syndrome**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

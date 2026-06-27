@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Deep Brain Stimulation (DBS) Lead Placement
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -39,7 +36,6 @@ tags:
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/fCDH1py0jH0" title="CNS Neurosurgery 100: Neurosurgery for Dystonias" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/fuwcROVbMp0" title="CNS Neurosurgery 100: Neurosurgery for Psychiatric Disorders" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-
 ![DBS surgical workflow — preoperative trajectory planning, intraoperative microelectrode recording/microstimulation, and lead-placement assessment](../../figures/cranial-functional/dbs-workflow-planning-mer_fneur-683532.jpg)
 
 *Workflow: planning → MER / microstimulation (ventral STN, dorsal SNr) → lead-placement assessment. Source: Shi et al., Front Neurol 2021;12:683532, Fig 1. CC BY 4.0.*
@@ -55,33 +51,6 @@ tags:
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=deep%20brain%20stimulation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=deep+brain+stimulation+STN+targeting) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Deep Brain Stimulation (DBS) Lead Placement**:
-
-1. What is the symptom target and what finding proves the correct neural structure is being treated?
-2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
-3. What medication adjustments or anesthesia constraints matter on the day of surgery?
-4. What complication would be subtle but important to detect in recovery?
-5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
-- **Medication hold/restart protocol and programming timeline:** [attending-specific]
-- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
-- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -99,8 +68,6 @@ Items that commonly vary by surgeon or institution:
 - **Deep brain stimulation lead fracture with normal impedances: case report and review of literature** — Darie L. British journal of neurosurgery 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40503617/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -173,7 +140,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** step-down or ICU overnight for lead/electrode hemorrhage checks; some centers use short-stay pathways for uncomplicated DBS/SEEG.
 - **OR setup:** stereotaxy/robot/navigation, O-arm or intraop CT as used, implant/electrode inventory verified, programmer/recording equipment, and MRI/CT merge reviewed with target coordinates.
 - **Special needs:** anticoagulation/antiplatelet hold plan, disease medications on/off plan, microelectrode recording or stimulation-testing plan, seizure precautions for SEEG, and device vendor/programmer availability.
 - **Immediate postop orders:** neuro checks, CT to exclude hemorrhage and confirm lead/electrode position, antibiotics per implant protocol, seizure monitoring for SEEG, medication/device programming plan, and hardware/wound precautions.
@@ -265,3 +231,30 @@ The patient was transferred in stable condition; programming was planned at ~2�
 - **Programming initiation ~2-4 weeks post-op** (after edema/microlesion effect resolves)
 - Neurology/movement disorder follow-up for programming and medication adjustment
 - Document MRI conditions for the device
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Deep Brain Stimulation (DBS) Lead Placement**:
+
+1. What is the symptom target and what finding proves the correct neural structure is being treated?
+2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
+3. What medication adjustments or anesthesia constraints matter on the day of surgery?
+4. What complication would be subtle but important to detect in recovery?
+5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
+- **Medication hold/restart protocol and programming timeline:** [attending-specific]
+- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
+- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

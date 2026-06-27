@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Chronic Subdural Hematoma (cSDH) Evacuation
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -41,37 +38,9 @@ tags:
 
 More operative video: [YouTube ▸](https://www.youtube.com/results?search_query=chronic+subdural+hematoma+burr+hole+evacuation) · [Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=chronic%20subdural%20haematoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=chronic+subdural+hematoma+burr+hole) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Chronic Subdural Hematoma (cSDH) Evacuation**:
-
-1. What is the life-threatening mass-effect problem and what is the operative endpoint?
-2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
-3. What exposure gives rapid control while preserving options for expansion?
-4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
-5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
-- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
-- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
-- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -89,8 +58,6 @@ Items that commonly vary by surgeon or institution:
 - **Is a drainage time of less than 24 h sufficient after chronic subdural hematoma evacuation?** — Bartley A. Acta neurochirurgica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36752893/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -204,7 +171,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** step-down or ICU if frail, bilateral, anticoagulated, low GCS, significant shift, or drain/airway concern.
 - **OR setup:** burr-hole/craniotomy tray, subdural drain system, irrigation warmed and ready, reversal products confirmed, and MMA embolization discussion if recurrent/high-risk.
 - **Special needs:** anticoagulant/antiplatelet reversal and restart plan, seizure prophylaxis by risk/practice, BP ceiling, drain level/order clarity, and delirium/fall precautions.
 - **Immediate postop orders:** neuro checks, HOB/positioning per drain strategy, drain output/height orders, CT timing, DVT prophylaxis timing, anticoagulation restart plan, mobilization, and recurrence follow-up.
@@ -355,3 +321,30 @@ The [left/right] scalp was prepped and draped in standard sterile fashion. Cefaz
 - Activity: Gradually increase HOB after 48 hours
 - If recurrent: Consider MMA embolization before repeat surgery
 - Follow-up: Clinic 2-4 weeks with CT head
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Chronic Subdural Hematoma (cSDH) Evacuation**:
+
+1. What is the life-threatening mass-effect problem and what is the operative endpoint?
+2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
+3. What exposure gives rapid control while preserving options for expansion?
+4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
+5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
+- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
+- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
+- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

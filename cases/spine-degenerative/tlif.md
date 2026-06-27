@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Transforaminal Lumbar Interbody Fusion (TLIF)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -38,39 +35,9 @@ tags:
 
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20spondylolisthesis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=transforaminal+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
-
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20spondylolisthesis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=transforaminal+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Transforaminal Lumbar Interbody Fusion (TLIF)**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -88,8 +55,6 @@ Items that commonly vary by surgeon or institution:
 - **Comparison of efficacy and safety between unilateral biportal endoscopic transforaminal lumbar interbody fusion versus uniportal endoscopic transforaminal lumbar interbody fusion for the treatment of lumbar degenerative diseases: a systematic review and meta-analysis** — Ding Y. BMC musculoskeletal disorders 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39702176/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -209,12 +174,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** outpatient/PACU for selected decompressions; floor or step-down for fusion, cervical myelopathy, thoracic disease, medical frailty, high EBL, or airway risk.
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - **OR setup:** radiolucent/Jackson table, fluoroscopy or O-arm/navigation, microscope/loupes for decompression, implant trays/graft ready for fusion, neuromonitoring for myelopathy/cord-risk cases, and postop brace plan confirmed.
 - **Special needs:** arterial line/Foley/type-screen for long fusion/corpectomy, no long paralytic when MEPs are used, MAP/normotension for myelopathy or cord-risk cases, antibiotic redosing, and anticoagulation/DVT plan.
 - **Immediate postop orders:** neuro checks by myotome/sensory level, airway/dysphagia watch for anterior cervical cases, CT/X-rays per construct, drain care, brace/activity orders, DVT prophylaxis timing, bowel regimen, and PT/OT mobilization.
 
 ### Position
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - **Prone** on Jackson table (or Wilson frame)
 - **Abdomen free** — reduces epidural bleeding
 - **Arms:** On armboards, < 90 degrees abduction
@@ -345,3 +311,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Follow-up: 2 weeks (wound); 6 weeks (X-ray); 3-6 months (CT for fusion); 1 year
 - Fusion assessment: CT at 6-12 months showing bridging bone through cage and posterolateral
 - Discharge: POD 1-3 typically
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Transforaminal Lumbar Interbody Fusion (TLIF)**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

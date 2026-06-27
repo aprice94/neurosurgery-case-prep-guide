@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Mechanical Thrombectomy for Acute Ischemic Stroke (Large Vessel Occlusion)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -36,35 +33,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=mechanical%20thrombectomy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=mechanical+thrombectomy+large+vessel+occlusion) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Mechanical Thrombectomy for Acute Ischemic Stroke (Large Vessel Occlusion)**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -82,8 +51,6 @@ Items that commonly vary by surgeon or institution:
 - **Advances in Acute Ischemic Stroke Therapy** — Xiong Y. Circulation research 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35420919/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -163,7 +130,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU after thrombectomy, with stroke-neurology handoff and reperfusion/BP orders entered before leaving angio.
 - **OR setup:** biplane angio suite, thrombectomy catheters/stent retrievers/aspiration, radial/femoral access supplies, anesthesia airway plan, CT/CTA/perfusion images loaded, and bailout stents/balloons available.
 - **Special needs:** BP target tied to reperfusion status, anticoagulation/antiplatelet decision, groin/radial closure plan, tPA/tenecteplase history, contrast/renal/allergy plan, and ICU-ready post-recanalization hemorrhage pathway.
 - **Immediate postop orders:** NIHSS/neuro checks, puncture-site and distal-pulse checks, BP ceiling per TICI/hemorrhage risk, 24h CT/MRI before antithrombotics when lytic used, swallow screen, statin/secondary prevention, and stroke workup.
@@ -238,3 +204,30 @@ The patient was transferred to the NSICU/stroke unit with a **lowered BP target 
 - **NCCT at ~24h** (and for any deterioration) — hemorrhage before starting/restarting antithrombotics; tPA patients delay antithrombotics 24h
 - Stroke workup (etiology — echo, telemetry/AF, vessel imaging, labs), start secondary prevention (antiplatelet/anticoagulation per cause and bleed status)
 - DVT prophylaxis (after hemorrhage excluded), dysphagia screen, early rehab, goals of care
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Mechanical Thrombectomy for Acute Ischemic Stroke (Large Vessel Occlusion)**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

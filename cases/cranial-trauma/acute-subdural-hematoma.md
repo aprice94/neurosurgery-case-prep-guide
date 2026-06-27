@@ -11,9 +11,6 @@ tags:
 
 # Case Prep: Acute Subdural Hematoma (aSDH) — Craniotomy/Craniectomy for Evacuation
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,37 +32,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=acute+subdural+haematoma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=acute%20subdural%20haematoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=acute+subdural+hematoma+craniotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Acute Subdural Hematoma (aSDH) — Craniotomy/Craniectomy for Evacuation**:
-
-1. What is the life-threatening mass-effect problem and what is the operative endpoint?
-2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
-3. What exposure gives rapid control while preserving options for expansion?
-4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
-5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
-- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
-- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
-- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Surgery for contralateral acute epidural hematoma following acute subdural hematoma evacuation: five new cases and a short literature review** — Shen J. Acta neurochirurgica 2013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23238942/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -196,7 +163,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU after operative TBI/acute hemorrhage, with ventilator/ICP pathway ready if severe injury or swelling is expected.
 - **OR setup:** trauma craniotomy/craniectomy tray, rapid blood availability, suction/bipolar/hemostatics, dural substitute, bone-flap storage or plating plan, ICP monitor/EVD supplies, and postop CT pathway cleared.
 - **Special needs:** reversal of anticoagulants, seizure prophylaxis, hyperosmolar therapy plan, arterial line, Foley, temperature/glucose/coagulation targets, antibiotic/tetanus plan for open injuries, and family/ICU handoff.
 - **Immediate postop orders:** ICU neuro checks, BP/CPP/ICP goals when monitored, CT head timing, drain/EVD settings, seizure prophylaxis duration, antibiotics for open/contaminated injuries, DVT prophylaxis timing, and repeat labs/coags.
@@ -357,3 +323,30 @@ The patient is a [age]yo [M/F] who presented after [mechanism] with GCS [___] an
 - **If craniectomy: Cranioplasty in 6-12 weeks** (once swelling resolved)
 - Goals of care discussion with family
 - If polytrauma: Coordinate with trauma surgery, orthopedics, etc.
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Acute Subdural Hematoma (aSDH) — Craniotomy/Craniectomy for Evacuation**:
+
+1. What is the life-threatening mass-effect problem and what is the operative endpoint?
+2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
+3. What exposure gives rapid control while preserving options for expansion?
+4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
+5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
+- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
+- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
+- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

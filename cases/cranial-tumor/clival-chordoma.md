@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Clival Chordoma Resection
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -43,35 +40,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=clival%20chordoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=clival+chordoma+endoscopic) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Clival Chordoma Resection**:
-
-1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
-2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
-3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
-4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
-5. What complication would you check for first in PACU based on this lesion location?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Extent-of-resection goal and functional stopping points:** [attending-specific]
-- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
-- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
-- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -89,8 +58,6 @@ Items that commonly vary by surgeon or institution:
 - **An unusual presentation of clival chordoma: a case report and review of the literature** — Andijani M. British journal of neurosurgery 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226887/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -164,7 +131,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU or step-down for sellar/parasellar/skull-base tumors; floor pathway only for small uncomplicated pituitary cases by protocol.
 - **OR setup:** navigation, endoscope/microscope as approach requires, ENT co-surgeon for endonasal cases, Doppler, lumbar drain only when indicated, reconstruction materials, and visual/endocrine baseline available.
 - **Special needs:** steroid strategy individualized (Cushing workup may require avoiding preop steroids), DI/sodium protocol, AM cortisol/endocrine labs, visual-check plan, arterial line for large/vascular cases, and CSF-leak/nasal precautions.
 - **Immediate postop orders:** neuro and visual checks, strict I/O with sodium/urine specific gravity schedule when pituitary stalk risk exists, cortisol/endocrine replacement plan, nasal precautions, MRI/CT timing, steroid taper, and DVT prophylaxis timing.
@@ -245,3 +211,30 @@ The patient was transferred to the ICU with CSF-leak precautions and the lumbar 
 - MRI/CT postop (EOR), watch rhinorrhea/meningitis/pneumocephalus
 - **Adjuvant proton/photon radiation** (essential), tumor board
 - CCJ stability assessment; long-term surveillance MRI
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Clival Chordoma Resection**:
+
+1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
+2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
+3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
+4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
+5. What complication would you check for first in PACU based on this lesion location?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Extent-of-resection goal and functional stopping points:** [attending-specific]
+- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
+- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
+- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

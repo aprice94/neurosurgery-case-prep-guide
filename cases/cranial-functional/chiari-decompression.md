@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Chiari I Malformation Decompression
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -37,35 +34,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=chiari%20i%20malformation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=chiari+decompression+duraplasty) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Chiari I Malformation Decompression**:
-
-1. What is the symptom target and what finding proves the correct neural structure is being treated?
-2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
-3. What medication adjustments or anesthesia constraints matter on the day of surgery?
-4. What complication would be subtle but important to detect in recovery?
-5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
-- **Medication hold/restart protocol and programming timeline:** [attending-specific]
-- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
-- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Spine Deformity Associated with Chiari I Malformation and Syringomyelia** — Das S. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36424055/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -212,7 +179,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** step-down or ICU for posterior fossa decompression/MVD, especially with sleep apnea, lower-CN risk, hydrocephalus, or difficult nausea/pain control.
 - **OR setup:** Mayfield, microscope, cranial nerve monitoring/BAER for MVD, Teflon/felt and microinstruments, dural graft/sealant for Chiari, and watertight closure materials.
 - **Special needs:** arterial line optional by comorbidity/position, antiemetic plan, steroid plan by edema/aseptic meningitis risk, airway/OSA precautions, and CSF-leak/pseudomeningocele strategy.
 - **Immediate postop orders:** posterior fossa neuro checks, facial/hearing/swallow exam as relevant, nausea/pain control, HOB 30, CT/MRI if concern or protocol, wound/CSF leak watch, and activity restrictions.
@@ -338,3 +304,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Follow-up: 2-4 weeks clinic; MRI at 3-6 months and 1 year
 - Syrinx: Expect gradual improvement over 6-12 months; stable syrinx may not resolve but shouldn't progress
 - If symptoms recur or not improved: Reassess for instability, inadequate decompression, tethered cord
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Chiari I Malformation Decompression**:
+
+1. What is the symptom target and what finding proves the correct neural structure is being treated?
+2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
+3. What medication adjustments or anesthesia constraints matter on the day of surgery?
+4. What complication would be subtle but important to detect in recovery?
+5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
+- **Medication hold/restart protocol and programming timeline:** [attending-specific]
+- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
+- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

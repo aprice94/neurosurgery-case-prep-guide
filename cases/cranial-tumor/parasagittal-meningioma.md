@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Parasagittal / Falx Meningioma Resection
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -38,8 +35,6 @@ tags:
 
 > 🧭 **Operative approach:** [Anterior interhemispheric approach](../approaches/anterior-interhemispheric-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-
-
 ![Parasagittal meningioma — classification by superior sagittal sinus involvement (Type I patent → Type III complete occlusion) with corresponding resection / sinus-management strategy](../../figures/cranial-tumor/parasagittal-meningioma-classification_fneur-1364917.jpg)
 
 *Sinus-invasion classification and surgical strategy. Source: Duan et al., Front Neurol 2024;15:1364917, Fig 1. CC BY 4.0.*
@@ -51,33 +46,6 @@ tags:
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=parasagittal%20meningioma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=parasagittal+meningioma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Parasagittal / Falx Meningioma Resection**:
-
-1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
-2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
-3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
-4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
-5. What complication would you check for first in PACU based on this lesion location?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Extent-of-resection goal and functional stopping points:** [attending-specific]
-- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
-- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
-- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -95,8 +63,6 @@ Items that commonly vary by surgeon or institution:
 - **Meningiomas of the rolandic region: risk factors for motor deficit and role of intra-operative monitoring** — Maiuri F. Acta neurochirurgica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37277557/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -172,7 +138,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU or step-down for first night after craniotomy; floor pathway only for small low-risk lesions with stable exam and minimal edema.
 - **OR setup:** Mayfield, navigation with latest MRI/DTI/functional data, microscope/exoscope, ultrasound/5-ALA/fluorescence when used, CUSA, cortical/subcortical mapping tools for eloquent lesions, and specimens/pathology workflow ready.
 - **Special needs:** arterial line for large/eloquent/vascular tumors, dexamethasone plan, seizure prophylaxis for cortical lesions or seizure history, mannitol/hypertonic availability, language/motor mapping plan, and blood available for meningioma/skull-base cases.
 - **Immediate postop orders:** neuro checks with deficit-specific exam, MRI brain with contrast within 24-48h when resection assessment matters, CT for hemorrhage concern, dex taper, antiepileptic duration, DVT timing, pathology/molecular follow-up, and rehab consults as needed.
@@ -257,3 +222,30 @@ Hemostasis was obtained, the dura reconstructed, the bone flap replaced, and the
 - Monitor for venous infarct (delayed swelling/seizure/weakness days 1-3)
 - Seizure prophylaxis, dexamethasone taper, DVT prophylaxis
 - If residual on sinus: tumor board, radiosurgery, surveillance MRI
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Parasagittal / Falx Meningioma Resection**:
+
+1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
+2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
+3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
+4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
+5. What complication would you check for first in PACU based on this lesion location?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Extent-of-resection goal and functional stopping points:** [attending-specific]
+- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
+- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
+- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

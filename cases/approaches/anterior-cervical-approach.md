@@ -11,7 +11,6 @@ tags:
 
 # Operative Approach: Anterior Cervical (Smith-Robinson) Approach
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -24,20 +23,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Technique references:** [AO Surgery Reference — Anterior cervical approach](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — cervical spine](https://radiopaedia.org/search?q=cervical%20spondylosis&scope=all)
-
-The anterior cervical (Smith-Robinson) approach is the **workhorse anterior corridor to C3–C7** (and, with effort, C2–T1). Through a transverse skin-crease incision it develops a natural plane **medial to the carotid sheath and lateral to the trachea/esophagus**, reaching the vertebral bodies and discs for **ACDF, corpectomy, arthroplasty, and anterior fusion.** It is fast, low-blood-loss, and well tolerated — but it threads between the **recurrent laryngeal nerve, esophagus, carotid, vertebral artery, and sympathetic chain**, so its safety is entirely about knowing those layers.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+spondylosis+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-[AO Surgery Reference — anterior cervical](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — ACDF](https://radiopaedia.org/search?q=anterior%20cervical%20discectomy&scope=all) · [PubMed Central — Smith-Robinson](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+cervical+approach+smith+robinson)
-
+[AO Spine / Surgery Reference — anterior cervical](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — ACDF](https://radiopaedia.org/search?q=anterior%20cervical%20discectomy&scope=all) · [PubMed Central — Smith-Robinson](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+cervical+approach+smith+robinson)
 
 ---
 
@@ -57,8 +47,6 @@ The anterior cervical (Smith-Robinson) approach is the **workhorse anterior corr
 - **Microsurgical cervical nerve root decompression by anterolateral approach** — Bruneau M. Neurosurgery 2006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16543867/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -97,6 +85,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Figure 10. Overview of the transodontoid variation of the FL approach. In this posterolateral, surgical perspective, (A) the ipsilateral colliculus atlantis with the transverse ligament attached is... Source: [Immersive Surgical Anatomy of the Far-Lateral Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9733796/) — Cureus 2022; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
+
+The anterior cervical (Smith-Robinson) approach is the **workhorse anterior corridor to C3–C7** (and, with effort, C2–T1). Through a transverse skin-crease incision it develops a natural plane **medial to the carotid sheath and lateral to the trachea/esophagus**, reaching the vertebral bodies and discs for **ACDF, corpectomy, arthroplasty, and anterior fusion.** It is fast, low-blood-loss, and well tolerated — but it threads between the **recurrent laryngeal nerve, esophagus, carotid, vertebral artery, and sympathetic chain**, so its safety is entirely about knowing those layers.
 
 ---
 
@@ -153,7 +143,7 @@ Do not let the skin crease dictate the whole operation. The incision should serv
 - **Vascular variant:** medialized carotid, aberrant vertebral artery, high-riding innominate, and left thoracic duct risk in low exposure should change the exposure plan.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR table/bed:** standard supine radiolucent OR table, often reversed for C-arm access; tape shoulders caudally for lower-cervical lateral fluoroscopy.
 - **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
 - **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
 - **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
@@ -165,6 +155,7 @@ Do not let the skin crease dictate the whole operation. The incision should serv
 
 ## Positioning
 
+- **OR table/bed:** standard supine radiolucent OR table, often reversed for C-arm access; tape shoulders caudally for lower-cervical lateral fluoroscopy.
 - **Supine** with a **transverse shoulder roll** for gentle neck extension (avoid over-extension in stenosis/myelopathy), head neutral or slightly rotated away (~10–15°), on a **donut/horseshoe or Mayfield**.
 - **Tape the shoulders down** (caudal traction) to expose low cervical levels under fluoroscopy. Pad the arms; confirm a relaxed, accessible neck and obtainable lateral fluoro of the target.
 
@@ -192,7 +183,6 @@ Do not let the skin crease dictate the whole operation. The incision should serv
 - **CSF leak in OPLL/corpectomy:** primary repair if possible, patch graft/fat/fascia/sealant, avoid excessive suction on the repair, and consider lumbar drainage only when safe.
 - **Loss of signals or new deficit:** stop distraction, raise MAP, remove graft/implant or reverse correction if needed, image for hematoma/hardware, and reassess decompression.
 
-
 ---
 
 ## Closure
@@ -219,6 +209,16 @@ Do not let the skin crease dictate the whole operation. The incision should serv
 ## Cross-links
 - Procedures: [ACDF](../spine-degenerative/acdf.md) · [cervical arthroplasty](../spine-degenerative/cervical-disc-replacement.md) · [vertebral corpectomy](../spine-tumor/vertebral-corpectomy.md) · [subaxial cervical fracture](../spine-trauma/subaxial-cervical-fracture.md)
 - Related corridors: [posterior-cervical-approach.md](posterior-cervical-approach.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Spine / Surgery Reference); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Technique references:** [AO Spine / Surgery Reference — Anterior cervical approach](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — cervical spine](https://radiopaedia.org/search?q=cervical%20spondylosis&scope=all)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
@@ -259,6 +259,6 @@ Items that commonly vary by surgeon or institution:
 ## References
 1. Smith GW, Robinson RA. **The treatment of certain cervical-spine disorders by anterior removal of the intervertebral disc and interbody fusion.** *J Bone Joint Surg Am.* 1958;40-A(3):607–624.
 2. Robinson RA, Smith GW. **Anterolateral cervical disc removal and interbody fusion for cervical disc syndrome.** *Bull Johns Hopkins Hosp.* 1955.
-3. AO Foundation. **Anterior approach to the cervical spine.** AO Surgery Reference. [link](https://surgeryreference.aofoundation.org)
+3. AO Foundation. **Anterior approach to the cervical spine.** AO Spine / Surgery Reference. [link](https://www.aofoundation.org/spine)
 4. **Bhenderu LS, et al. The Kissing Carotid Variant: case insights and surgical precautions in ACDF.** *Cureus.* 2025;17:e91106. CC BY 4.0. (figure embedded above) — [PMC12466316](https://pmc.ncbi.nlm.nih.gov/articles/PMC12466316/)
 5. Rhoton AL Jr. *Spine and cervical anatomy* (anatomy series).

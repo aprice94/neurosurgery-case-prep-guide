@@ -7,6 +7,25 @@ description: "Global map of Pterion Prep operative corridors with linked approac
 
 Use this as the corridor-first index: start with the target region, open the approach chapter for setup and anatomy, then jump to representative pathology guides for case-specific decisions.
 
+<div class="approach-map-figures">
+  <figure>
+    <img src="../figures/pterional/pterional-exposure_brainsci-2021.jpg" alt="Pterional exposure with anterior circulation anatomy">
+    <figcaption>Pterional</figcaption>
+  </figure>
+  <figure>
+    <img src="../figures/retrosigmoid/corridors_cureus-e16068.jpg" alt="Retrosigmoid corridor anatomy">
+    <figcaption>Retrosigmoid</figcaption>
+  </figure>
+  <figure>
+    <img src="../figures/transpsoas/lateral-trajectory_cureus-e41733.jpg" alt="Lateral transpsoas trajectory">
+    <figcaption>Lateral spine</figcaption>
+  </figure>
+  <figure>
+    <img src="../figures/posterior-thoracolumbar/pedicle-entry-point_cureus-e501.jpg" alt="Posterior thoracolumbar pedicle entry point">
+    <figcaption>Posterior spine</figcaption>
+  </figure>
+</div>
+
 ## Cranial Convexity, Sylvian, and Anterior Skull Base
 
 | Corridor | Best-fit targets | Approach chapter | Representative case guides |

@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Intramedullary Spinal Cord Tumor Resection (Ependymoma / Astrocytoma / Hemangioblastoma)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,37 +32,9 @@ tags:
 
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=intramedullary%20spinal%20cord%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intramedullary+spinal+cord+tumor+ependymoma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=intramedullary%20spinal%20cord%20tumour&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intramedullary+spinal+cord+tumor+ependymoma) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Intramedullary Spinal Cord Tumor Resection (Ependymoma / Astrocytoma / Hemangioblastoma)**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Spinal Cord Ependymomas** — Borges LF. Neurosurgery clinics of North America 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42264664/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -157,7 +124,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU/step-down for intramedullary, deformity, corpectomy, or high-EBL tumor cases; floor for small stable intradural extramedullary cases with intact exam.
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - **OR setup:** microscope, fluoroscopy/navigation, neuromonitoring, tumor debulking/microsurgical set, dural repair materials, instrumentation/corpectomy trays as indicated, and blood available.
 - **Special needs:** arterial line/Foley for long cases, dexamethasone for cord edema when indicated, MAP support for myelopathy/cord manipulation, oncology/radiation plan, and pathology/frozen specimen workflow.
 - **Immediate postop orders:** frequent motor/sensory exams, MAP support if cord manipulation or deficit, MRI/CT/X-rays per tumor/construct, steroid taper, drain/dural-leak precautions, brace/activity, DVT timing, and oncology/radiation follow-up.
@@ -167,6 +134,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **IONM-guided** — resection limited by MEP/D-wave changes
 
 ### Position
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - Prone, Mayfield (cervical) or pinned; neutral; reverse Trendelenburg; IONM baseline (MEP, SSEP, D-wave)
 
 ### Key Surgical Steps
@@ -238,3 +206,30 @@ Closure was completed in layers. The patient was transferred with MAP support an
 - Expect possible transient dorsal column dysfunction; PT/OT/rehab early
 - DVT prophylaxis (mechanical), pain (dysesthetic — gabapentinoids)
 - Pathology/grade; VHL workup (hemangioblastoma); adjuvant therapy per pathology; surveillance MRI; deformity surveillance
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Intramedullary Spinal Cord Tumor Resection (Ependymoma / Astrocytoma / Hemangioblastoma)**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Anterior Lumbar Interbody Fusion (ALIF)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -36,39 +33,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lumbar+degenerative+disc+disease+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20degenerative%20disc%20disease&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
-
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=lumbar%20degenerative%20disc%20disease&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+lumbar+interbody+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Anterior Lumbar Interbody Fusion (ALIF)**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -86,8 +53,6 @@ Items that commonly vary by surgeon or institution:
 - **Endoscopic Anterior Lumbar Interbody Fusion: Systematic Review and Meta-Analysis** — Brown NJ. Asian spine journal 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38105638/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -166,7 +131,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** outpatient/PACU for selected decompressions; floor or step-down for fusion, cervical myelopathy, thoracic disease, medical frailty, high EBL, or airway risk.
+- **OR table/bed:** supine radiolucent table with C-arm access and vascular/retroperitoneal exposure setup.
 - **OR setup:** radiolucent/Jackson table, fluoroscopy or O-arm/navigation, microscope/loupes for decompression, implant trays/graft ready for fusion, neuromonitoring for myelopathy/cord-risk cases, and postop brace plan confirmed.
 - **Special needs:** arterial line/Foley/type-screen for long fusion/corpectomy, no long paralytic when MEPs are used, MAP/normotension for myelopathy or cord-risk cases, antibiotic redosing, and anticoagulation/DVT plan.
 - **Immediate postop orders:** neuro checks by myotome/sensory level, airway/dysphagia watch for anterior cervical cases, CT/X-rays per construct, drain care, brace/activity orders, DVT prophylaxis timing, bowel regimen, and PT/OT mobilization.
@@ -175,6 +140,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Access (vascular/general) surgeon** typically performs the anterior retroperitoneal exposure; spine surgeon does discectomy/implant
 
 ### Position
+- **OR table/bed:** supine radiolucent table with C-arm access and vascular/retroperitoneal exposure setup.
 - Supine on radiolucent table, slight Trendelenburg, arms out; fluoroscopy AP/lateral
 
 ### Key Surgical Steps
@@ -243,3 +209,30 @@ The patient was transferred with distal pulse/vascular and neuro monitoring.
 - X-rays POD1, DVT prophylaxis (higher DVT risk — vessel manipulation)
 - Activity, brace per surgeon, smoking cessation
 - Counsel males re: retrograde ejaculation; follow-up for fusion (CT 6-12 months)
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Anterior Lumbar Interbody Fusion (ALIF)**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Anterior Temporal Lobectomy / Selective Amygdalohippocampectomy (Epilepsy)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,35 +32,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=mesial%20temporal%20sclerosis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+temporal+lobectomy+amygdalohippocampectomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Anterior Temporal Lobectomy / Selective Amygdalohippocampectomy (Epilepsy)**:
-
-1. What is the symptom target and what finding proves the correct neural structure is being treated?
-2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
-3. What medication adjustments or anesthesia constraints matter on the day of surgery?
-4. What complication would be subtle but important to detect in recovery?
-5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
-- **Medication hold/restart protocol and programming timeline:** [attending-specific]
-- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
-- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -81,8 +50,6 @@ Items that commonly vary by surgeon or institution:
 - **Anterior temporal lobectomy versus selective amygdalohippocampectomy in patients with mesial temporal lobe epilepsy** — Nascimento FA. Arquivos de neuro-psiquiatria 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26690840/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -164,7 +131,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU or step-down after epilepsy/awake mapping craniotomy, with exam-specific monitoring and seizure pathway ready.
 - **OR setup:** mapping cart, neuropsych/language team, ECoG/stimulation equipment, navigation/DTI, microscope, airway plan for asleep-awake-asleep when used, and bailout conversion-to-GA plan.
 - **Special needs:** antiepileptic continuation/loading plan, steroid plan if edema risk, nausea/pain regimen that preserves exam, seizure rescue medications, and clear baseline language/motor/visual-field documentation.
 - **Immediate postop orders:** frequent neuro checks focused on mapped functions, seizure precautions, AED orders, CT/MRI timing, steroid taper if used, visual-field/language assessment, and rehab/neuropsych follow-up.
@@ -245,3 +211,30 @@ Hemostasis was obtained, the dura closed, the bone replaced, and the scalp close
 - Continue AEDs (taper later per epileptologist if seizure-free)
 - Neuropsych follow-up (memory/language), Engel/ILAE outcome tracking
 - DVT prophylaxis; epilepsy team follow-up
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Anterior Temporal Lobectomy / Selective Amygdalohippocampectomy (Epilepsy)**:
+
+1. What is the symptom target and what finding proves the correct neural structure is being treated?
+2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
+3. What medication adjustments or anesthesia constraints matter on the day of surgery?
+4. What complication would be subtle but important to detect in recovery?
+5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
+- **Medication hold/restart protocol and programming timeline:** [attending-specific]
+- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
+- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Vertebral Corpectomy and Reconstruction (Metastatic / Primary Vertebral Tumor)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -38,39 +35,9 @@ tags:
 
 > 🧭 **Operative approach:** [Transthoracic approach](../approaches/transthoracic-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20metastasis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+corpectomy+metastasis+separation+surgery) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
-
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20metastasis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+corpectomy+metastasis+separation+surgery) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Vertebral Corpectomy and Reconstruction (Metastatic / Primary Vertebral Tumor)**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -88,8 +55,6 @@ Items that commonly vary by surgeon or institution:
 - **Cervical spinal stenosis: outcome after anterior corpectomy, allograft reconstruction, and instrumentation** — Mayr MT. Journal of neurosurgery 2002. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11795694/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -165,7 +130,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU/step-down for intramedullary, deformity, corpectomy, or high-EBL tumor cases; floor for small stable intradural extramedullary cases with intact exam.
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - **OR setup:** microscope, fluoroscopy/navigation, neuromonitoring, tumor debulking/microsurgical set, dural repair materials, instrumentation/corpectomy trays as indicated, and blood available.
 - **Special needs:** arterial line/Foley for long cases, dexamethasone for cord edema when indicated, MAP support for myelopathy/cord manipulation, oncology/radiation plan, and pathology/frozen specimen workflow.
 - **Immediate postop orders:** frequent motor/sensory exams, MAP support if cord manipulation or deficit, MRI/CT/X-rays per tumor/construct, steroid taper, drain/dural-leak precautions, brace/activity, DVT timing, and oncology/radiation follow-up.
@@ -175,6 +140,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Approach:** posterolateral transpedicular (single-stage, common for thoracic mets), anterior (corpectomy with direct access), or combined/360-degree
 
 ### Position
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - Prone (posterolateral) or lateral/supine (anterior thoracic/lumbar — may need thoracic/access surgeon); Mayfield/pinned; IONM baseline
 
 ### Key Surgical Steps (Posterolateral Transpedicular Corpectomy)
@@ -247,3 +213,30 @@ A drain was placed and closure performed in layers. The patient was transferred 
 - DVT prophylaxis (balance bleeding/tumor), brace per surgeon
 - **Postoperative radiation (SRS/EBRT)** for mets after wound healing (~2-3 weeks); oncology coordination
 - Pathology; restage; rehab; goals-of-care for advanced disease
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Vertebral Corpectomy and Reconstruction (Metastatic / Primary Vertebral Tumor)**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

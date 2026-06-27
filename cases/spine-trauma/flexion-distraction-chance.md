@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Flexion-Distraction (Chance) Injury Fixation
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,37 +32,9 @@ tags:
 
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=chance%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=flexion+distraction+chance+fracture) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=chance%20fracture&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=flexion+distraction+chance+fracture) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Flexion-Distraction (Chance) Injury Fixation**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Minimally invasive treatment of thoracolumbar flexion-distraction fracture** — Laghmouche N. Orthopaedics & traumatology, surgery & research : OTSR 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30792168/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -163,7 +130,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU or step-down; ICU for SCI, high cervical injury, polytrauma, respiratory risk, major blood loss, or ongoing MAP augmentation.
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - **OR setup:** spine table with log-roll precautions, fluoroscopy/O-arm/navigation, traction/Mayfield when cervical, posterior/anterior implant trays, decompression instruments, cell saver/blood for large constructs, and IONM before positioning when feasible.
 - **Special needs:** arterial line, Foley, type/cross, MAP augmentation for acute SCI per local protocol, no long paralytic when MEPs are needed, anticoagulation/reversal plan, and airway strategy for unstable cervical injuries.
 - **Immediate postop orders:** serial ASIA/neuro checks, MAP goal/duration if SCI, CT/X-rays for hardware/alignment, brace/collar orders, drain care, DVT prophylaxis timing, bowel/bladder/skin care, and early rehab/SCI consult.
@@ -175,6 +142,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Coordinate with trauma surgery** for concurrent abdominal injury (timing/positioning)
 
 ### Position
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - Prone on Jackson table (allows extension/reduction of kyphosis), careful log-roll, IONM baseline; coordinate if laparotomy needed
 
 ### Key Surgical Steps
@@ -236,3 +204,30 @@ Hemostasis was obtained, a drain placed, and the wound closed in layers. The pat
 - CT/X-ray postop (alignment, hardware), brace per surgeon
 - DVT prophylaxis (balance with bleeding/abdominal injury), mobilize
 - Follow-up imaging for fusion/alignment; rehab
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Flexion-Distraction (Chance) Injury Fixation**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

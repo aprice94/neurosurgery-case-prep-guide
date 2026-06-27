@@ -13,7 +13,6 @@ tags:
 
 # Operative Approach: Posterior Cervical Approach (Laminectomy / Laminoplasty / Foraminotomy / Lateral Mass Fixation)
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -26,14 +25,6 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Technique references:** [AO Surgery Reference — Posterior cervical](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — cervical](https://radiopaedia.org/search?q=cervical%20myelopathy&scope=all)
-
-The posterior cervical approach is the **midline corridor to the posterior elements and dorsal cord/roots** of the cervical spine. Through the avascular **nuchal raphe** it exposes the laminae, facets, and lateral masses for **laminectomy, laminoplasty, laminoforaminotomy, and posterior instrumented fusion (lateral mass / pedicle screws).** It is the approach for **multilevel myelopathy with preserved/lordotic alignment, posterior compression, dorsal tumors, and posterior stabilization** — chosen over the [anterior approach](anterior-cervical-approach.md) when disease is multilevel/dorsal or when posterior tension-band reconstruction is required.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+myelopathy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
@@ -41,8 +32,7 @@ The posterior cervical approach is the **midline corridor to the posterior eleme
 **CNS Video Library**
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/5VMTJRhn8oY" title="CNS Neurosurgery 100: Techniques for Open Cervical Spine Instrumentation" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-[AO Surgery Reference — posterior cervical](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — cervical stenosis](https://radiopaedia.org/search?q=cervical%20canal%20stenosis&scope=all) · [PubMed Central — lateral mass fixation](https://www.ncbi.nlm.nih.gov/pmc/?term=cervical+lateral+mass+screw+fixation)
-
+[AO Spine / Surgery Reference — posterior cervical](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — cervical stenosis](https://radiopaedia.org/search?q=cervical%20canal%20stenosis&scope=all) · [PubMed Central — lateral mass fixation](https://www.ncbi.nlm.nih.gov/pmc/?term=cervical+lateral+mass+screw+fixation)
 
 ---
 
@@ -62,8 +52,6 @@ The posterior cervical approach is the **midline corridor to the posterior eleme
 - **The posterior cervical transdural approach for retro-odontoid mass pseudotumor resection: report of three cases and discussion of the current literature** — Schomacher M. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32296950/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -102,6 +90,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Fig. 7. Variation in closure technique following the far-lateral approach. A Postoperative photograph showing a curvilinear far lateral skin closure using running nylon sutures. B Axial CT image... Source: [History and evolution of the far-lateral approach in neurosurgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230306/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
 
 <!-- END CURATED IMAGE SET -->
+
+The posterior cervical approach is the **midline corridor to the posterior elements and dorsal cord/roots** of the cervical spine. Through the avascular **nuchal raphe** it exposes the laminae, facets, and lateral masses for **laminectomy, laminoplasty, laminoforaminotomy, and posterior instrumented fusion (lateral mass / pedicle screws).** It is the approach for **multilevel myelopathy with preserved/lordotic alignment, posterior compression, dorsal tumors, and posterior stabilization** — chosen over the [anterior approach](anterior-cervical-approach.md) when disease is multilevel/dorsal or when posterior tension-band reconstruction is required.
 
 ---
 
@@ -149,7 +139,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Decide whether the construct should stop at C7 or cross the cervicothoracic junction; stopping at a weak transition can invite junctional failure in selected patients.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR table/bed:** Wilson frame, Andrews/knee-chest frame, or Jackson/open-frame table by surgeon preference; flexion opens the interlaminar window and the abdomen must hang free.
 - **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
 - **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
 - **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
@@ -161,6 +151,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Positioning
 
+- **OR table/bed:** Wilson frame, Andrews/knee-chest frame, or Jackson/open-frame table by surgeon preference; flexion opens the interlaminar window and the abdomen must hang free.
 - **Prone**, head in **Mayfield 3-pin** (or a prone headrest), neck **neutral** (slight flexion opens interlaminar spaces for laminectomy; **avoid flexion in instability**), **reverse Trendelenburg** to lower venous pressure/bleeding and keep the field horizontal.
 - **Tape shoulders down** for lower-level fluoroscopy; chest rolls/Wilson-type support; abdomen free; eyes/face protected (prone ION risk). Re-check IONM after final positioning.
 
@@ -171,7 +162,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Fluoroscopic level localization** before bone work.
 
 → proceed to the procedure-specific steps ([laminectomy/fusion](../spine-degenerative/posterior-cervical-laminectomy-fusion.md), [laminoplasty](../spine-degenerative/cervical-laminoplasty.md), [foraminotomy](../spine-degenerative/posterior-cervical-foraminotomy.md)).
-
 
 ---
 
@@ -222,6 +212,16 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Procedures: [posterior cervical laminectomy & fusion](../spine-degenerative/posterior-cervical-laminectomy-fusion.md) · [laminoplasty](../spine-degenerative/cervical-laminoplasty.md) · [posterior cervical foraminotomy](../spine-degenerative/posterior-cervical-foraminotomy.md) · [occipitocervical fusion](../spine-trauma/occipitocervical-fusion.md) · [subaxial cervical fracture](../spine-trauma/subaxial-cervical-fracture.md)
 - Related corridors: [anterior-cervical-approach.md](anterior-cervical-approach.md) · [posterior-thoracolumbar-approach.md](posterior-thoracolumbar-approach.md)
 
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Spine / Surgery Reference); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Technique references:** [AO Spine / Surgery Reference — Posterior cervical](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — cervical](https://radiopaedia.org/search?q=cervical%20myelopathy&scope=all)
+
+<!-- END FIGURE USE ATTRIBUTION -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions
@@ -271,5 +271,5 @@ Items that commonly vary by surgeon or institution:
 1. Roy-Camille R, Saillant G, Mazel C. **Internal fixation of the unstable cervical spine by a posterior osteosynthesis with plates and screws.** (lateral mass technique).
 2. Magerl F, Seemann PS. **Stable posterior fusion of the atlas and axis by transarticular screw fixation.** 1987.
 3. An HS, et al. **Anatomic considerations for plate-screw fixation of the cervical spine.** *Spine.* 1991.
-4. AO Foundation. **Posterior approach and lateral mass fixation, cervical spine.** AO Surgery Reference. [link](https://surgeryreference.aofoundation.org)
+4. AO Foundation. **Posterior approach and lateral mass fixation, cervical spine.** AO Spine / Surgery Reference. [link](https://www.aofoundation.org/spine)
 5. **Attallah M, et al. (lateral mass screw biomechanics / trajectory).** *Med Int.* 2024;4(4):159. CC BY 4.0. (figure embedded above) — [PMC11097134](https://pmc.ncbi.nlm.nih.gov/articles/PMC11097134/)

@@ -8,9 +8,6 @@ tags:
 
 # Case Prep: Encephalocele Repair
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -34,35 +31,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=encephalocele&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=encephalocele+repair) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Encephalocele Repair**:
-
-1. What age-specific anatomy, blood volume, temperature, and positioning issue changes the plan?
-2. What is the neurologic, developmental, or syndromic baseline?
-3. What skin, wound, CSF, or infection risk is highest in this child?
-4. What family-facing expectation should be clarified before surgery?
-5. What postop bed, feeding, pain, imaging, and activity plan is safest?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Blood availability threshold, warming strategy, antibiotic dosing, and Foley/drain use:** [attending-specific]
-- **Positioning aids, pinning versus horseshoe, and skin-prep preference:** [attending-specific]
-- **Family update cadence and expected ICU/floor disposition:** [attending-specific]
-- **Postop feeding, pain regimen, wound care, and activity restrictions:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -80,8 +49,6 @@ Items that commonly vary by surgeon or institution:
 - **[Frontoethmoidal encephalocele]** — Parada Vásquez RH. Medicina clinica 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26971979/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -164,7 +131,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** PICU or pediatric step-down depending on age, airway risk, hydrocephalus, neurologic deficit, and expected fluid/blood shifts.
 - **OR setup:** pediatric anesthesia/equipment, warming, weight-based implants/antibiotics, navigation/endoscope/microscope as needed, blood availability for tumor/myelomeningocele cases, and family-centered postop handoff.
 - **Special needs:** weight-based fluids/meds, latex allergy precautions for myelomeningocele, steroid/endocrine/DI plan when sellar/posterior fossa risk exists, EVD/CSF diversion plan, and age-appropriate neuro baseline.
 - **Immediate postop orders:** PICU/step-down neuro checks, airway/swallow monitoring when relevant, CT/MRI timing, drain/EVD/shunt orders, antibiotics/steroid taper, pain control, wound/skin precautions, and PT/OT/rehab planning.
@@ -237,3 +203,30 @@ The infant was transferred to the NICU with head-circumference/US monitoring and
 - **CSF diversion (shunt/ETV) if hydrocephalus progresses** (common — can precipitate repair breakdown if untreated)
 - MRI postop, craniofacial/ENT follow-up (frontoethmoidal/basal), genetics if syndromic
 - Developmental follow-up, multidisciplinary care
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Encephalocele Repair**:
+
+1. What age-specific anatomy, blood volume, temperature, and positioning issue changes the plan?
+2. What is the neurologic, developmental, or syndromic baseline?
+3. What skin, wound, CSF, or infection risk is highest in this child?
+4. What family-facing expectation should be clarified before surgery?
+5. What postop bed, feeding, pain, imaging, and activity plan is safest?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Blood availability threshold, warming strategy, antibiotic dosing, and Foley/drain use:** [attending-specific]
+- **Positioning aids, pinning versus horseshoe, and skin-prep preference:** [attending-specific]
+- **Family update cadence and expected ICU/floor disposition:** [attending-specific]
+- **Postop feeding, pain regimen, wound care, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

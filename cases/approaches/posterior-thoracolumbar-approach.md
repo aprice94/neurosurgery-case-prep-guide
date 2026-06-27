@@ -10,7 +10,6 @@ tags:
 
 # Operative Approach: Posterior Thoracolumbar Approach (Midline & Wiltse / Pedicle Screw Fixation)
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -23,14 +22,6 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Technique references:** [AO Surgery Reference — Thoracolumbar](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracolumbar](https://radiopaedia.org/search?q=thoracolumbar%20fracture&scope=all)
-
-The posterior thoracolumbar approach is the **universal posterior corridor to the thoracic and lumbar spine** — the basis for laminectomy, **TLIF/PLIF**, pedicle-screw fixation, deformity correction, and tumor/trauma stabilization. It is performed **midline** (subperiosteal exposure of the posterior elements) or via the muscle-splitting **Wiltse paramedian** plane for lateral/percutaneous screw placement with less muscle stripping.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=thoracolumbar+fracture+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
@@ -39,8 +30,7 @@ The posterior thoracolumbar approach is the **universal posterior corridor to th
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/zBGdpQvoOtQ" title="CNS Neurosurgery 100: Spine Anatomy: Thoracolumbar" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/0ef7bZUInjE" title="CNS Neurosurgery 100: Techniques for Open Thoracolumbar Instrumentation" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-[AO Surgery Reference — posterior thoracolumbar](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — pedicle screws](https://radiopaedia.org/search?q=pedicle%20screw&scope=all) · [PubMed Central — Wiltse approach](https://www.ncbi.nlm.nih.gov/pmc/?term=wiltse+paraspinal+approach)
-
+[AO Spine / Surgery Reference — posterior thoracolumbar](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — pedicle screws](https://radiopaedia.org/search?q=pedicle%20screw&scope=all) · [PubMed Central — Wiltse approach](https://www.ncbi.nlm.nih.gov/pmc/?term=wiltse+paraspinal+approach)
 
 ---
 
@@ -60,8 +50,6 @@ The posterior thoracolumbar approach is the **universal posterior corridor to th
 - **Spinal instrumentation** — Spivak JM. Current opinion in rheumatology 1994. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8024965/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -100,6 +88,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Fig. 3.. The evolution of posterior-approach lumbar fusion, from 1934–2002. Source: [History and Evolution of the Minimally Invasive Transforaminal Lumbar Interbody Fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC9537838/) — Neurospine 2022; CC BY-NC.*
 
 <!-- END CURATED IMAGE SET -->
+
+The posterior thoracolumbar approach is the **universal posterior corridor to the thoracic and lumbar spine** — the basis for laminectomy, **TLIF/PLIF**, pedicle-screw fixation, deformity correction, and tumor/trauma stabilization. It is performed **midline** (subperiosteal exposure of the posterior elements) or via the muscle-splitting **Wiltse paramedian** plane for lateral/percutaneous screw placement with less muscle stripping.
 
 ---
 
@@ -147,7 +137,7 @@ The practical rule: choose the smallest corridor that still allows safe decompre
 - For tumor/infection, confirm the pathologic level against MRI, CT, and intraoperative localization; wrong-level exposure is easy when multiple compression fractures exist.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
 - **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
 - **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
@@ -159,6 +149,7 @@ The practical rule: choose the smallest corridor that still allows safe decompre
 
 ## Positioning
 
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **Prone on a Jackson or Wilson frame with the abdomen hanging free** (reduces venous bleeding; Jackson preserves lordosis, Wilson flexes for stenosis exposure). Pad eyes/face (prone ION), chest, knees, ulnar nerves; arms ≤90°. Reverse Trendelenburg slightly; confirm orthogonal fluoroscopy.
 
 ## Incision & Exposure
@@ -166,7 +157,6 @@ The practical rule: choose the smallest corridor that still allows safe decompre
 - **Midline:** incise to the fascia, split the **avascular raphe**, and **subperiosteally** elevate the paraspinals off the spinous processes/laminae **out to the transverse-process tips** for fusion levels (preserve facet capsules at non-fused segments). 
 - **Wiltse:** paramedian fascial incisions ~1.5–2 finger-breadths off midline; finger-develop the **multifidus–longissimus plane** directly to the facet/TP (the corridor for percutaneous/MIS screws).
 - **Localize the level fluoroscopically before bone work.**
-
 
 ## Pedicle Screw Fixation & Decompression
 
@@ -206,11 +196,7 @@ The practical rule: choose the smallest corridor that still allows safe decompre
 
 ---
 
-
 ### Bony anatomy (vertebra / pedicle detail)
-
-
-
 
 ## Nuances & Pitfalls (surgeon-level)
 - **Abdomen free** = less bleeding and better lordosis — never skip it.
@@ -228,6 +214,16 @@ Pedicle-screw malposition (neuro/vascular), **dural tear/CSF leak**, **wound inf
 ## Cross-links
 - Procedures: [lumbar laminectomy](../spine-degenerative/lumbar-laminectomy.md) · [TLIF](../spine-degenerative/tlif.md) · [thoracolumbar burst fracture](../spine-trauma/thoracolumbar-burst-fracture.md) · [adult deformity osteotomy](../spine-deformity/adult-spinal-deformity-osteotomy.md) · [vertebral corpectomy](../spine-tumor/vertebral-corpectomy.md)
 - Related corridors: [transpsoas-approach.md](transpsoas-approach.md) · [transthoracic-approach.md](transthoracic-approach.md) · [posterior-cervical-approach.md](posterior-cervical-approach.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Spine / Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Technique references:** [AO Spine / Surgery Reference — Thoracolumbar](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracolumbar](https://radiopaedia.org/search?q=thoracolumbar%20fracture&scope=all)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
@@ -286,4 +282,4 @@ Items that commonly vary by surgeon or institution:
 1. Wiltse LL, Bateman JG, Hutchinson RH, Nelson WE. **The paraspinal sacrospinalis-splitting approach to the lumbar spine.** *J Bone Joint Surg Am.* 1968;50(5):919–926.
 2. Roy-Camille R, Saillant G, Mazel C. **Internal fixation of the lumbar spine with pedicle screw plating.** *Clin Orthop.* 1986.
 3. Magerl F. **External skeletal fixation of the lower thoracic and lumbar spine.** 1984.
-4. AO Foundation. **Posterior approach, thoracolumbar spine; pedicle screw fixation.** AO Surgery Reference. [link](https://surgeryreference.aofoundation.org)
+4. AO Foundation. **Posterior approach, thoracolumbar spine; pedicle screw fixation.** AO Spine / Surgery Reference. [link](https://www.aofoundation.org/spine)

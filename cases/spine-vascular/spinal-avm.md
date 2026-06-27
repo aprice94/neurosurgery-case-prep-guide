@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Spinal Arteriovenous Malformation (Intramedullary / Perimedullary)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -38,35 +35,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20arteriovenous%20malformation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=spinal+arteriovenous+malformation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Spinal Arteriovenous Malformation (Intramedullary / Perimedullary)**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -84,8 +53,6 @@ Items that commonly vary by surgeon or institution:
 - **Spinal arteriovenous fistulae: surgical management** — Day AL. Handbook of clinical neurology 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28552141/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -158,7 +125,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU after spinal vascular surgery or embolization, with cord-perfusion and hematoma surveillance.
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - **OR setup:** microscope, neuromonitoring, spinal angiography/DSA images loaded, ICG/Doppler, clips/coagulation tools, laminectomy/instrumentation backup, and blood available for vascular lesions.
 - **Special needs:** arterial line, Foley, MAP support for cord perfusion, no long paralytic with MEPs, CSF drainage plan only when indicated, and coordination with endovascular/staged treatment.
 - **Immediate postop orders:** ICU neuro checks with motor/sensory/sphincter focus, MAP target, MRI/angiography confirmation plan, drain/hematoma watch, steroid/pain regimen, DVT timing, and rehab planning.
@@ -185,6 +152,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Plan intraoperative confirmation: ICG for surface flow, Doppler for high-flow fistulae, and intraoperative DSA when residual deep nidus or ambiguous venous drainage would change management.
 
 ### Position
+- **OR table/bed:** Jackson/Allen/open-frame radiolucent table, or ProAxis/hinged table when sagittal alignment adjustment is useful; keep abdomen free for venous decompression.
 - Prone, Mayfield/foam, IONM baseline; per level
 
 ### Key Surgical Steps
@@ -255,3 +223,30 @@ Closure was completed in layers. The patient was transferred to the ICU with MAP
 - **Postop DSA** (confirm obliteration), MRI
 - DVT prophylaxis (mechanical), rehab, bowel/bladder management
 - Surveillance imaging (recurrence, esp. partial treatment)
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Spinal Arteriovenous Malformation (Intramedullary / Perimedullary)**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

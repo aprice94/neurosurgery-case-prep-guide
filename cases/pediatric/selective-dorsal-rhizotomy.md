@@ -8,9 +8,6 @@ tags:
 
 # Case Prep: Selective Dorsal Rhizotomy (SDR)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -34,35 +31,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20palsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=selective+dorsal+rhizotomy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Selective Dorsal Rhizotomy (SDR)**:
-
-1. What age-specific anatomy, blood volume, temperature, and positioning issue changes the plan?
-2. What is the neurologic, developmental, or syndromic baseline?
-3. What skin, wound, CSF, or infection risk is highest in this child?
-4. What family-facing expectation should be clarified before surgery?
-5. What postop bed, feeding, pain, imaging, and activity plan is safest?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Blood availability threshold, warming strategy, antibiotic dosing, and Foley/drain use:** [attending-specific]
-- **Positioning aids, pinning versus horseshoe, and skin-prep preference:** [attending-specific]
-- **Family update cadence and expected ICU/floor disposition:** [attending-specific]
-- **Postop feeding, pain regimen, wound care, and activity restrictions:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -80,8 +49,6 @@ Items that commonly vary by surgeon or institution:
 - **Selective dorsal rhizotomy: current state of practice and the role of imaging** — Graham D. Quantitative imaging in medicine and surgery 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29675362/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -159,7 +126,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** PICU or pediatric step-down depending on age, airway risk, hydrocephalus, neurologic deficit, and expected fluid/blood shifts.
 - **OR setup:** pediatric anesthesia/equipment, warming, weight-based implants/antibiotics, navigation/endoscope/microscope as needed, blood availability for tumor/myelomeningocele cases, and family-centered postop handoff.
 - **Special needs:** weight-based fluids/meds, latex allergy precautions for myelomeningocele, steroid/endocrine/DI plan when sellar/posterior fossa risk exists, EVD/CSF diversion plan, and age-appropriate neuro baseline.
 - **Immediate postop orders:** PICU/step-down neuro checks, airway/swallow monitoring when relevant, CT/MRI timing, drain/EVD/shunt orders, antibiotics/steroid taper, pain control, wound/skin precautions, and PT/OT/rehab planning.
@@ -253,3 +219,30 @@ A **watertight dural closure** and laminoplasty reconstruction were performed. T
 - **Intensive PT/rehab is essential** (months — strengthening, gait retraining; outcomes depend heavily on rehab)
 - MRI if concern; long-term: monitor for spinal deformity, functional gains
 - Multidisciplinary follow-up (neurosurgery, PT, physiatry, ortho); counsel re: permanent spasticity reduction and rehab commitment
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Selective Dorsal Rhizotomy (SDR)**:
+
+1. What age-specific anatomy, blood volume, temperature, and positioning issue changes the plan?
+2. What is the neurologic, developmental, or syndromic baseline?
+3. What skin, wound, CSF, or infection risk is highest in this child?
+4. What family-facing expectation should be clarified before surgery?
+5. What postop bed, feeding, pain, imaging, and activity plan is safest?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Blood availability threshold, warming strategy, antibiotic dosing, and Foley/drain use:** [attending-specific]
+- **Positioning aids, pinning versus horseshoe, and skin-prep preference:** [attending-specific]
+- **Family update cadence and expected ICU/floor disposition:** [attending-specific]
+- **Postop feeding, pain regimen, wound care, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

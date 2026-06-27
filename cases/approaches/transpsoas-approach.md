@@ -16,7 +16,6 @@ tags:
 
 # Operative Approach: Transpsoas Lateral Approach (LLIF / XLIF / OLIF) to the Lumbar Spine
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -29,14 +28,6 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Technique references:** [AO Surgery Reference — Lateral lumbar](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — LLIF](https://radiopaedia.org/search?q=lateral%20lumbar%20interbody%20fusion&scope=all)
-
-The transpsoas lateral approach reaches the **lumbar disc spaces (L1–2 through L4–5) from the side**, through a **retroperitoneal, trans-psoas corridor**, to place a **large interbody cage** spanning the strong apophyseal ring. That big cage gives powerful **indirect decompression, deformity (coronal) correction, and fusion** with minimal posterior muscle disruption. Its defining hazard is the **lumbar plexus, which runs within the psoas** — so the approach is built around **neuromonitoring and disc-level "safe zones."** (The **OLIF/anterior-to-psoas** variant slips in front of the psoas to avoid traversing the plexus, trading off vascular proximity.)
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=lateral+lumbar+interbody+fusion+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
@@ -44,7 +35,7 @@ The transpsoas lateral approach reaches the **lumbar disc spaces (L1–2 through
 **CNS Video Library**
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/OSmaNg1bW3g" title="CNS Neurosurgery 100: Anterior and Lateral Spine Anatomy" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-[AO Surgery Reference — lateral approach](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — XLIF/OLIF](https://radiopaedia.org/search?q=lateral%20interbody%20fusion&scope=all) · [PubMed Central — transpsoas safe zone](https://www.ncbi.nlm.nih.gov/pmc/?term=transpsoas+lumbar+plexus+safe+zone)
+[AO Spine / Surgery Reference — lateral approach](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — XLIF/OLIF](https://radiopaedia.org/search?q=lateral%20interbody%20fusion&scope=all) · [PubMed Central — transpsoas safe zone](https://www.ncbi.nlm.nih.gov/pmc/?term=transpsoas+lumbar+plexus+safe+zone)
 
 ![Lumbar plexus within/behind the psoas major — the structure at risk in the transpsoas corridor](../../figures/spine/lumbar-plexus_gray822.png)
 
@@ -68,8 +59,6 @@ The transpsoas lateral approach reaches the **lumbar disc spaces (L1–2 through
 - **Minimally invasive lateral retroperitoneal transpsoas approach for lumbar corpectomy and fusion with posterior instrumentation** — Srinivasan ES. Neurosurgical focus: Video 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36284723/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -109,6 +98,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 <!-- END CURATED IMAGE SET -->
 
+The transpsoas lateral approach reaches the **lumbar disc spaces (L1–2 through L4–5) from the side**, through a **retroperitoneal, trans-psoas corridor**, to place a **large interbody cage** spanning the strong apophyseal ring. That big cage gives powerful **indirect decompression, deformity (coronal) correction, and fusion** with minimal posterior muscle disruption. Its defining hazard is the **lumbar plexus, which runs within the psoas** — so the approach is built around **neuromonitoring and disc-level "safe zones."** (The **OLIF/anterior-to-psoas** variant slips in front of the psoas to avoid traversing the plexus, trading off vascular proximity.)
+
 ---
 
 ## General Considerations
@@ -144,7 +135,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Plan supplemental posterior fixation when instability, deformity correction, spondylolisthesis, osteoporosis, or multilevel constructs make standalone lateral cage failure likely.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR table/bed:** radiolucent lateral-decubitus table with iliac crest near the table break, true AP/lateral fluoroscopy, hips/knees flexed, and secure taping.
 - **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
 - **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
 - **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
@@ -156,6 +147,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Positioning
 
+- **OR table/bed:** radiolucent lateral-decubitus table with iliac crest near the table break, true AP/lateral fluoroscopy, hips/knees flexed, and secure taping.
 - **True 90° lateral decubitus**, secured to the table (tape at iliac crest, chest, legs); **break/flex the table** at the level to open the space between the iliac crest and ribs (and lengthen the lateral abdominal wall). Obtain **true orthogonal AP and lateral fluoroscopy** (the implant trajectory depends on it). Pad the down-side, axillary roll, flex the hip slightly to relax the psoas/plexus.
 
 ## Approach & Docking
@@ -163,7 +155,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Lateral skin incision** over the target disc (± a second posterolateral incision for finger-guided retroperitoneal access); **bluntly split the abdominal-wall muscles** and enter the **retroperitoneal space**, sweeping the peritoneum/contents anteriorly.
 2. Palpate the psoas and the transverse process; **dock the initial dilator on the disc at the safe zone (mid-to-posterior body; more anterior caution at L4–5)** under fluoroscopy.
 3. **Traverse the psoas with sequential dilators under continuous/triggered EMG** — advance slowly, redirect if EMG thresholds drop (plexus nearby); seat the retractor and expose the disc.
-
 
 ## Discectomy & Interbody
 
@@ -174,11 +165,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ---
 
-
 ### Bony anatomy (vertebra / pedicle detail)
-
-
-
 
 ### Retroperitoneal corridor & psoas anatomy
 
@@ -218,6 +205,16 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Cross-links
 - Procedures: [XLIF / OLIF](../spine-degenerative/xlif-olif.md) · [ALIF](../spine-degenerative/alif.md) · [adult deformity](../spine-deformity/adult-spinal-deformity-osteotomy.md)
 - Related corridors: [posterior-thoracolumbar-approach.md](posterior-thoracolumbar-approach.md) · [transthoracic-approach.md](transthoracic-approach.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Spine / Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Technique references:** [AO Spine / Surgery Reference — Lateral lumbar](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — LLIF](https://radiopaedia.org/search?q=lateral%20lumbar%20interbody%20fusion&scope=all)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
@@ -259,4 +256,4 @@ Items that commonly vary by surgeon or institution:
 2. Moro T, Kikuchi S, Konno S, Yaginuma H. **An anatomic study of the lumbar plexus with respect to retroperitoneal endoscopic surgery.** *Spine.* 2003;28(5):423–428.
 3. Uribe JS, et al. **Defining the safe working zones using the lumbar plexus for lateral transpsoas approaches.** *J Neurosurg Spine.* 2011.
 4. Benglis DM, Vanni S, Levi AD. **An anatomical study of the lumbosacral plexus as related to the lateral transpsoas approach.** *J Neurosurg Spine.* 2009.
-5. AO Foundation. **Lateral lumbar interbody fusion.** AO Surgery Reference. [link](https://surgeryreference.aofoundation.org)
+5. AO Foundation. **Lateral lumbar interbody fusion.** AO Spine / Surgery Reference. [link](https://www.aofoundation.org/spine)

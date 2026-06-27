@@ -25,7 +25,7 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 |--------|-------------|-----|
 | [**The Neurosurgical Atlas** (Cohen-Gadol) ↗](https://www.neurosurgicalatlas.com) | Operative illustrations, surgical-anatomy figures, step-by-step + HD operative videos for most cranial/spine cases | Link (free, © — best single operative resource) |
 | [**Radiopaedia** ↗](https://radiopaedia.org) | Huge imaging case library + articles per pathology (CT/MR/angio) | Link / embed with attribution (CC BY-NC-SA) |
-| [**AO Surgery Reference** ↗](https://surgeryreference.aofoundation.org) | Superb spine & trauma technique illustrations, step-by-step | Link (free, ©) |
+| [**AO Spine / Surgery Reference** ↗](https://www.aofoundation.org/spine) | Superb spine & trauma technique illustrations, step-by-step | Link (free, ©) |
 | [**Wikimedia Commons** ↗](https://commons.wikimedia.org) | Anatomy diagrams, historical plates, some imaging | **Embeddable** (check each: PD / CC) |
 | [**Wikipedia** ↗](https://en.wikipedia.org) | Labeled anatomy/pathology diagrams (sourced from Commons) | Link / embed (per-image license) |
 | [**PubMed Central (open access)** ↗](https://www.ncbi.nlm.nih.gov/pmc) | Operative & anatomy figures in OA reviews | Link / embed CC-BY figures with attribution |
@@ -46,7 +46,7 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 - **Cranial tumor / skull base:** Neurosurgical Atlas (approach figures + video), Radiopaedia (MRI), PMC OA reviews (approach anatomy), Rhoton anatomy (via AANS/Atlas, link).
 - **Endovascular:** neuroangio.org, Radiopaedia, Journal/Operative Neurosurgery video.
 - **Functional / DBS / epilepsy:** Neurosurgical Atlas, PMC, manufacturer atlases (link).
-- **Spine (all):** AO Surgery Reference (technique illustrations — best), Wheeless, Radiopaedia (imaging), Neurosurgical Atlas (spine volume).
+- **Spine (all):** AO Spine / Surgery Reference (technique illustrations — best), Wheeless, Radiopaedia (imaging), Neurosurgical Atlas (spine volume).
 - **Peripheral nerve:** PMC OA, Wikipedia/Commons (nerve course diagrams), orthopaedic atlases.
 - **Pediatric:** Neurosurgical Atlas, PMC OA, Radiopaedia.
 - **Neuroanatomy (any):** Wikimedia Commons / Gray's plates (embeddable), IMAIOS, Rhoton (link).

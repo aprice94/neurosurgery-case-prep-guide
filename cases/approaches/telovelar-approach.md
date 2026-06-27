@@ -11,7 +11,6 @@ tags:
 
 # Operative Approach: Telovelar (Trans-Cerebellomedullary Fissure) Approach to the Fourth Ventricle
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -24,20 +23,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **References:** [Neurosurgical Atlas — Suboccipital Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/suboccipital-craniotomy) · [Radiopaedia — fourth ventricle](https://radiopaedia.org/search?q=fourth%20ventricle%20tumour&scope=all) · [PubMed Central — telovelar](https://www.ncbi.nlm.nih.gov/pmc/?term=telovelar+approach+fourth+ventricle)
-
-The telovelar approach reaches the **entire fourth ventricle through the cerebellomedullary fissure — without splitting the vermis.** By opening the **tela choroidea** (and, when more rostral reach is needed, the **inferior medullary velum**), the surgeon enters the ventricle along its natural roof, exposing the floor from the obex to the aqueduct and out to the lateral recess/foramen of Luschka. It has largely **replaced the transvermian approach** because sparing the vermis markedly reduces **cerebellar mutism** and ataxia.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=fourth+ventricle+tumour+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — posterior fossa](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/suboccipital-craniotomy) · [Rhoton fourth-ventricle anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+fourth+ventricle+cerebellomedullary+fissure) · [Radiopaedia — medulloblastoma/ependymoma](https://radiopaedia.org/search?q=fourth%20ventricle%20tumour&scope=all)
-
 
 ---
 
@@ -57,8 +47,6 @@ The telovelar approach reaches the **entire fourth ventricle through the cerebel
 - **Subtonsillar and vallecular triangles as gateways to dorsal brainstem and fourth ventricle lesions: descriptive and quantitative analysis of microsurgical anatomy** — Gurses ME. Neurosurgical review 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41191114/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -97,6 +85,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Fig. 3. Dentatorubrothalamic tract dissection: 3D (a) and 2D (b) dissection of the dentatorubrothalamic tracts (red) imposed on the patient’s T2 volumetric MRI Source: [Medial-tonsillar telovelar approach for resection of a superior medullary velum cerebral cavernous malformation: anatomical and tractography study of the surgical approach and functional implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7886669/) — Acta Neurochirurgica 2020; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
+
+The telovelar approach reaches the **entire fourth ventricle through the cerebellomedullary fissure — without splitting the vermis.** By opening the **tela choroidea** (and, when more rostral reach is needed, the **inferior medullary velum**), the surgeon enters the ventricle along its natural roof, exposing the floor from the obex to the aqueduct and out to the lateral recess/foramen of Luschka. It has largely **replaced the transvermian approach** because sparing the vermis markedly reduces **cerebellar mutism** and ataxia.
 
 ---
 
@@ -154,7 +144,6 @@ The telovelar approach is not simply "posterior fossa exposure." It is a deliber
 - Discuss with ICU/anesthesia whether postoperative extubation is safe if lower cranial nerve dysfunction, brainstem edema, or long case swelling is likely.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
 - **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
 - **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
 - **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
@@ -200,7 +189,6 @@ The telovelar approach is not simply "posterior fossa exposure." It is a deliber
 
 ---
 
-
 ### Further operative anatomy & technique
 
 ![Normal fourth ventricle — telovelar, lateral-recess, and extended approach variants](../../figures/telovelar/normal-4v-variants_neurosurgrev-2026.jpg)
@@ -223,6 +211,16 @@ The telovelar approach is not simply "posterior fossa exposure." It is a deliber
 ## Cross-links
 - Pathology: [pediatric posterior fossa tumor](../pediatric/pediatric-posterior-fossa-tumor.md) · [posterior fossa tumor](../cranial-tumor/posterior-fossa-tumor.md)
 - Related corridors: [midline-suboccipital-craniotomy.md](midline-suboccipital-craniotomy.md) · [retrosigmoid-craniotomy.md](retrosigmoid-craniotomy.md) · [supracerebellar-infratentorial-approach.md](supracerebellar-infratentorial-approach.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **References:** [Neurosurgical Atlas — Suboccipital Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/suboccipital-craniotomy) · [Radiopaedia — fourth ventricle](https://radiopaedia.org/search?q=fourth%20ventricle%20tumour&scope=all) · [PubMed Central — telovelar](https://www.ncbi.nlm.nih.gov/pmc/?term=telovelar+approach+fourth+ventricle)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

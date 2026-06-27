@@ -10,7 +10,6 @@ tags:
 
 # Operative Approach: Orbitozygomatic (Frontotemporal-Orbitozygomatic, FTOZ) Craniotomy
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -23,20 +22,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapters & video:** [Orbitozygomatic Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/orbitozygomatic-craniotomy) · [Orbitozygomatic Osteotomy: Bone Work (Case)](https://www.neurosurgicalatlas.com/cases/orbitozygomatic-osteotomy-bone-work) · [Orbitozygomatic Operative Neuroanatomy](https://www.neurosurgicalatlas.com/volumes/operative-neuroanatomy/supratentorial-operative-anatomy/orbitozygomatic-approach)
-
-The orbitozygomatic craniotomy is the **maximal anterolateral skull-base exposure** — a [pterional craniotomy](pterional-craniotomy.md) extended by removal of the **superolateral orbital rim/roof and the zygoma**. By taking down the bony bar that the brain otherwise forces you to retract around, it **widens the working angle and shortens the working distance** to the parasellar region, anterior/posterior cavernous sinus, basilar apex, interpeduncular fossa, and upper clivus — while *reducing* brain retraction. It is the surgeon's answer to deep midline and high lesions that a standard pterional reaches only with frontal/temporal lobe retraction.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=orbitozygomatic+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — Orbitozygomatic](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/orbitozygomatic-craniotomy) · [Radiopaedia — skull base](https://radiopaedia.org/search?q=orbitozygomatic&scope=all) · [PubMed Central — orbitozygomatic](https://www.ncbi.nlm.nih.gov/pmc/?term=orbitozygomatic+approach+technique)
-
 
 ---
 
@@ -56,8 +46,6 @@ The orbitozygomatic craniotomy is the **maximal anterolateral skull-base exposur
 - **Minimally invasive approaches to aneurysms of the anterior circulation: selection criteria and clinical outcomes** — Gandhi S. Journal of neurosurgical sciences 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30207433/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -96,6 +84,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Figure 5. The initial burr hole was made at the McCarty point [black arrow], known as the “keyhole,” followed by three additional burr holes. A pterional craniotomy was then completed to elevate... Source: [Exploring the Lamina Terminalis: A Stepwise Anatomical Comparison of Pterional and Orbitozygomatic Craniotomy Approaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12733489/) — Life 2025; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
+
+The orbitozygomatic craniotomy is the **maximal anterolateral skull-base exposure** — a [pterional craniotomy](pterional-craniotomy.md) extended by removal of the **superolateral orbital rim/roof and the zygoma**. By taking down the bony bar that the brain otherwise forces you to retract around, it **widens the working angle and shortens the working distance** to the parasellar region, anterior/posterior cavernous sinus, basilar apex, interpeduncular fossa, and upper clivus — while *reducing* brain retraction. It is the surgeon's answer to deep midline and high lesions that a standard pterional reaches only with frontal/temporal lobe retraction.
 
 ---
 
@@ -136,7 +126,6 @@ The OZ **builds on the pterional** — review [pterional-craniotomy.md](pteriona
 - Counsel re: transient **periorbital edema, ecchymosis, trismus, and temporal hollowing**; rare **enophthalmos/pulsatile exophthalmos** if periorbita/roof reconstruction is inadequate.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
 - **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
 - **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
 - **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
@@ -199,7 +188,6 @@ Drill the remaining **lateral sphenoid wing, orbital roof irregularities, and th
 - Open the dura curvilinearly and reflect it anteroinferiorly toward the now-flattened base; the **frontal and temporal lobes fall away**, exposing the basal cisterns with little or no retraction.
 - Release CSF from the carotid/chiasmatic/Sylvian cisterns; split the Sylvian fissure as needed. The expanded corridor supports **subfrontal, trans-Sylvian, subtemporal, and transcavernous** trajectories — proceed to the pathology-specific intradural steps (basilar apex clipping, cavernous/parasellar tumor, craniopharyngioma via the opticocarotid/lamina terminalis windows).
 
-
 ---
 
 ## Closure & Reconstruction
@@ -209,7 +197,6 @@ Drill the remaining **lateral sphenoid wing, orbital roof irregularities, and th
 - **Obliterate/patch the frontal sinus** with pericranium if entered. **Reattach temporalis** to its cuff anatomically; suspend to limit hollowing. Layered scalp closure; periorbital pressure dressing reduces edema.
 
 ---
-
 
 ### Further operative anatomy & technique
 
@@ -238,6 +225,16 @@ Frontalis (CN VII) palsy; **temporal hollowing/atrophy, trismus**; **enophthalmo
 ## Cross-links
 - Builds on: [pterional-craniotomy.md](pterional-craniotomy.md) · related: [subtemporal-craniotomy.md](subtemporal-craniotomy.md) · [supraorbital-keyhole-craniotomy.md](supraorbital-keyhole-craniotomy.md)
 - Pathology: [basilar-tip-aneurysm.md](../cranial-vascular/basilar-tip-aneurysm.md) · [sphenoid-wing-meningioma.md](../cranial-tumor/sphenoid-wing-meningioma.md) · [tuberculum-sellae-meningioma.md](../cranial-tumor/tuberculum-sellae-meningioma.md) · [craniopharyngioma.md](../cranial-tumor/craniopharyngioma.md) · [petroclival-meningioma.md](../cranial-tumor/petroclival-meningioma.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapters & video:** [Orbitozygomatic Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/orbitozygomatic-craniotomy) · [Orbitozygomatic Osteotomy: Bone Work (Case)](https://www.neurosurgicalatlas.com/cases/orbitozygomatic-osteotomy-bone-work) · [Orbitozygomatic Operative Neuroanatomy](https://www.neurosurgicalatlas.com/volumes/operative-neuroanatomy/supratentorial-operative-anatomy/orbitozygomatic-approach)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

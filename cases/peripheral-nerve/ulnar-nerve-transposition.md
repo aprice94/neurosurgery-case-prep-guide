@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Cubital Tunnel Release / Ulnar Nerve Transposition
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -38,35 +35,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cubital%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ulnar+nerve+transposition+cubital+tunnel) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Cubital Tunnel Release / Ulnar Nerve Transposition**:
-
-1. Which nerve fascicles or branches must be identified before releasing or resecting tissue?
-2. What exam finding localizes the lesion and what alternative diagnosis could mimic it?
-3. What stimulation, ultrasound, microscope, tourniquet, or graft option should be ready?
-4. What motor/sensory function is at highest risk and how is it checked in PACU?
-5. What splint, therapy, wound, and neuropathic-pain plan should be written?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Tourniquet use, loupe versus microscope, stimulator settings, and incision length:** [attending-specific]
-- **External neurolysis versus transposition/reconstruction threshold:** [attending-specific]
-- **Graft/conduit/allograft availability and pathology handling:** [attending-specific]
-- **Splinting position, therapy referral, and activity restrictions:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -84,8 +53,6 @@ Items that commonly vary by surgeon or institution:
 - **Ulnar Nerve Decompression With Subcutaneous Transposition** — Jurgensmeier K. Video journal of sports medicine 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40308843/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -162,7 +129,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** outpatient or short PACU stay; admit only for major plexus reconstruction, medical frailty, pain-control needs, or extensive tumor resection.
 - **OR setup:** hand table or radiolucent arm board, tourniquet when used, loupes/microscope available for nerve repair/tumor work, bipolar, microsuture/nerve-wrap options, and nerve stimulator for plexus or motor-branch cases.
 - **Special needs:** regional/local/WALANT versus general anesthesia plan, antibiotic decision for implants/long exposure, anticoagulation plan, and clear laterality/site marking with preop motor/sensory baseline documented.
 - **Immediate postop orders:** elevation, soft dressing or splint duration, early finger/limb ROM unless repair restricts it, oral analgesia, wound check/suture removal timing, therapy referral, and return precautions for hematoma or new motor deficit.
@@ -251,3 +217,30 @@ The tourniquet was released, hemostasis obtained, and closure performed [± spli
 - Suture removal ~10-14 days; therapy
 - Counsel: sensory recovery before motor; atrophy/weakness slow to recover
 - Follow-up 2 weeks
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Cubital Tunnel Release / Ulnar Nerve Transposition**:
+
+1. Which nerve fascicles or branches must be identified before releasing or resecting tissue?
+2. What exam finding localizes the lesion and what alternative diagnosis could mimic it?
+3. What stimulation, ultrasound, microscope, tourniquet, or graft option should be ready?
+4. What motor/sensory function is at highest risk and how is it checked in PACU?
+5. What splint, therapy, wound, and neuropathic-pain plan should be written?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Tourniquet use, loupe versus microscope, stimulator settings, and incision length:** [attending-specific]
+- **External neurolysis versus transposition/reconstruction threshold:** [attending-specific]
+- **Graft/conduit/allograft availability and pathology handling:** [attending-specific]
+- **Splinting position, therapy referral, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

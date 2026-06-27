@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Decompressive Hemicraniectomy for Malignant MCA Infarction
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -47,36 +44,7 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=decompressive+craniectomy+malignant+MCA+infarction)
 
-
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Decompressive Hemicraniectomy for Malignant MCA Infarction**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -94,8 +62,6 @@ Items that commonly vary by surgeon or institution:
 - **Long-term outcome after decompressive hemicraniectomy for malignant middle cerebral artery infarction** — Berger N. Journal of neurology 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37004558/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -171,7 +137,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU, usually intubated or closely airway-monitored depending on infarct burden and brainstem risk.
 - **OR setup:** large trauma craniectomy tray, dural expansion graft, bone-flap storage plan, ICP/EVD supplies if needed, and CT/CTA/MRI reviewed for dominant side and infarct extent.
 - **Special needs:** arterial line, sodium/osmotherapy plan, antiplatelet/anticoagulation hold/restart plan, DVT/aspiration precautions, and family counseling about malignant edema trajectory.
 - **Immediate postop orders:** ICU neuro checks, HOB 30, sodium/BP goals, CT timing, helmet precautions, DVT prophylaxis timing, swallow/rehab consults, and cranioplasty follow-up planning.
@@ -254,3 +219,30 @@ The dura was opened widely in a stellate fashion, decompressing the swollen, inf
 - Seizure prophylaxis per practice
 - **Cranioplasty in ~6-12 weeks** once edema resolved
 - Early rehab evaluation, goals-of-care discussions
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Decompressive Hemicraniectomy for Malignant MCA Infarction**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Carotid Artery Angioplasty and Stenting (CAS)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,35 +32,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=carotid%20artery%20stenting&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=carotid+artery+stenting) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Carotid Artery Angioplasty and Stenting (CAS)**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -81,8 +50,6 @@ Items that commonly vary by surgeon or institution:
 - **Periprocedural embolic events related to carotid artery stenting detected by diffusion-weighted MRI: comparison between proximal and distal embolus protection devices** — El-Koussy M. Journal of endovascular therapy : an official journal of the International Society of Endovascular Specialists 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17723007/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -158,7 +125,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU or step-down after intracranial intervention or carotid stenting; elective low-risk diagnostic-style cases may use monitored PACU pathways.
 - **OR setup:** biplane angio suite, radial/femoral access, full heparinization/reversal plan, stents/coils/liquid embolic or flow-diverter inventory, closure device, and bailout balloon/stent/aspiration tools.
 - **Special needs:** antiplatelet status verified for stents/flow diverters, BP targets for rupture/ischemia/hyperperfusion risk, contrast/renal/allergy plan, ACT monitoring, and external ventricular drain/SAH pathway if ruptured.
 - **Immediate postop orders:** neuro checks, access-site/pulse checks, BP parameters, antiplatelet/anticoagulation continuation, postop CT if neurologic change or rupture, flat time per closure, and follow-up vascular imaging plan.
@@ -265,3 +231,30 @@ The patient was transferred with strict BP control (hyperperfusion), telemetry (
 - Duplex surveillance: establish a post-stent baseline, then repeat per local protocol; in-stent velocities can differ from native ICA thresholds.
 - Secondary prevention: statin intensity, smoking cessation, diabetes/BP control, sleep apnea management, and antiplatelet duration documented before discharge.
 - If DAPT must be interrupted for another procedure, discuss with the stenting team first; early interruption risks acute stent thrombosis.
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Carotid Artery Angioplasty and Stenting (CAS)**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

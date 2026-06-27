@@ -11,7 +11,6 @@ tags:
 
 # Approach: Endoscopic Endonasal (Transsphenoidal) Approach
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -24,19 +23,72 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-*Detailed operative reference written for a senior resident / fellow / attending. Pathology guides (e.g., [pituitary adenoma](../cranial-tumor/pituitary-adenoma-transsphenoidal.md), [craniopharyngioma](../cranial-tumor/craniopharyngioma.md)) link here for technique.*
-
-> **About the figures (read once):** Operative step illustrations/photos (Neurosurgical Atlas, Rhoton) are **copyrighted** and are **linked, not copied**. Embedded images here are **public-domain** anatomy plates. See [media-sources.md](../../resources/media-sources.md).
-
-**Atlas operative videos** — open on the [**Endoscopic Endonasal Approach chapter page**](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/endoscopic-endonasal-approach): *Endonasal Endoscopic Approach · Pituitary Surgery · Extended Endonasal Approaches · Nasoseptal Flap Harvest.*
-
----
-
 ## Figures, Imaging & Video
 
 **CNS Video Library**
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/O9F2r5u6kDo" title="CNS Neurosurgery 100: Surgical Anatomy of the Open and Endonasal Approaches to the Anterior Cranial" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/B7lcL7uz938" title="CNS Neurosurgery 100: Surgical Anatomy of the Open and Endonasal Approaches to the Anterior Cranial" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+---
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Endoscopic Endonasal Approach to the Ventral Petroclival Fissure: Anatomical Findings and Surgical Techniques** — Xu Y. Journal of neurological surgery. Part B, Skull base 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38966292/)
+- **Microsurgical anatomy of the dorsal clinoidal space: implications for endoscopic endonasal parasellar surgery** — Xu Y. Journal of neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35120312/)
+- **Extended endoscopic endonasal transsphenoidal approach to the suprasellar area: anatomic considerations--part 1** — Cavallo LM. Neurosurgery 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17876230/)
+- **Indications and limitations of the endoscopic endonasal approach for anterior cranial base meningiomas** — Schroeder HW. World neurosurgery 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25496640/)
+- **Comparison of Endoscopic Endonasal Approach and Lateral Microsurgical Infratemporal Fossa Approach to the Jugular Foramen: An Anatomical Study** — Liu J. Journal of neurological surgery. Part B, Skull base 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35832999/)
+- **Microsurgical anatomy of the cavernous sinus and limitations of surgical approaches: a cadaveric study** — Kına H. Folia morphologica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36573366/)
+- **360° around the orbit: key surgical anatomy of the microsurgical and endoscopic cranio-orbital and orbitocranial approaches** — Agosti E. Neurosurgical focus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38560949/)
+- **From Above and Below: The Microsurgical Anatomy of Endoscopic Endonasal and Transcranial Microsurgical Approaches to the Parasellar Region** — Almeida JP. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34906753/)
+- **Giant Pituitary Adenoma - Special Considerations** — Tang OY. Otolaryngologic clinics of North America 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35365313/)
+- **Lateral compartment of the cavernous sinus from the endoscopic endonasal approach: anatomical considerations and surgical relevance to adenoma surgery** — Xu Y. Journal of neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39126713/)
+
+<!-- END CURATED LITERATURE -->
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Approach Endoscopic Endonasal Approach — Fig. 1.](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-01-fig-1-nmc-54-612-g1-jpg.jpg)
+*Fig. 1.. Endoscopic view of the posterior wall of the sphenoid sinus and bony landmarks on the right side and exposed medial wall of the cavernous sinus around the intracranial ICA on the left... Source: [Endoscopic Endonasal Surgical Approach to the Oculomotor Trigone from the Cavernous Sinus](https://pmc.ncbi.nlm.nih.gov/articles/PMC4533501/) — Neurologia medico-chirurgica 2014; CC BY-NC-ND.*
+
+![Approach Endoscopic Endonasal Approach — Fig. 2.](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-02-fig-2-nmc-54-612-g2-jpg.jpg)
+*Fig. 2.. A: Endoscopic view of the medial side of the intracavernous ICA. B: Endoscopic view of the lateral side of the intracavernous ICA. ICA: internal carotid artery, PcS: paraclival segment... Source: [Endoscopic Endonasal Surgical Approach to the Oculomotor Trigone from the Cavernous Sinus](https://pmc.ncbi.nlm.nih.gov/articles/PMC4533501/) — Neurologia medico-chirurgica 2014; CC BY-NC-ND.*
+
+![Approach Endoscopic Endonasal Approach — Fig. 3.](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-03-fig-3-nmc-54-612-g3-jpg.jpg)
+*Fig. 3.. A: Endoscopic intracavernous sinus view showing course of cranial nerves and neurovascular relationships. B: Close-up endoscopic view around the entry point of oculomotor nerve into the... Source: [Endoscopic Endonasal Surgical Approach to the Oculomotor Trigone from the Cavernous Sinus](https://pmc.ncbi.nlm.nih.gov/articles/PMC4533501/) — Neurologia medico-chirurgica 2014; CC BY-NC-ND.*
+
+![Approach Endoscopic Endonasal Approach — Fig. 4.](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-04-fig-4-nmc-54-612-g4-jpg.jpg)
+*Fig. 4.. Preoperative contrast-enhanced axial (A) and coronal (B) MR images showing pituitary macroadenoma extending to outside both cavernous sinuses and the suprasellar region and ambient... Source: [Endoscopic Endonasal Surgical Approach to the Oculomotor Trigone from the Cavernous Sinus](https://pmc.ncbi.nlm.nih.gov/articles/PMC4533501/) — Neurologia medico-chirurgica 2014; CC BY-NC-ND.*
+
+![Approach Endoscopic Endonasal Approach — Fig. 3](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-05-fig-3-10143-2020-1247-fig3-html-jpg.jpg)
+*Fig. 3. Postoperative CT-imaging after endonasal endoscopic transpterygoidal approach to Meckel’s cave with a bony and b tissue windowing demonstrating the bone access to Meckel’s cave, as well... Source: [Access to Meckel’s cave for biopsies of indeterminate lesions: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850998/) — Neurosurgical Review 2020; CC BY.*
+
+![Approach Endoscopic Endonasal Approach — Figure 1](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-06-figure-1-fonc-12-962598-g001-jpg.jpg)
+*Figure 1. Conceptual illustration for endoscopic transorbital approach (ETOA) and endoscopic endonasal approach (EEA) to the cavernous sinus. (A) The cavernous sinus was approached from the... Source: [Endoscopic transorbital approach to the cavernous sinus: Cadaveric anatomy study and clinical application (‡SevEN-009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459324/) — Frontiers in Oncology 2022; CC BY.*
+
+![Approach Endoscopic Endonasal Approach — Figure 3](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-07-figure-3-fonc-12-962598-g003-jpg.jpg)
+*Figure 3. Cadaveric views and three-dimensional illustrations for cavernous sinus and surrounding neurovascular structures in the comparison with endoscopic transorbital approach (A, B),... Source: [Endoscopic transorbital approach to the cavernous sinus: Cadaveric anatomy study and clinical application (‡SevEN-009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459324/) — Frontiers in Oncology 2022; CC BY.*
+
+![Approach Endoscopic Endonasal Approach — Figure 4](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-08-figure-4-fonc-12-962598-g004-jpg.jpg)
+*Figure 4. Surgical triangles of cavernous sinus with different approaches. Using a fresh cadaveric head, the surgical triangles to enter the cavernous sinus were simultaneously observed through an... Source: [Endoscopic transorbital approach to the cavernous sinus: Cadaveric anatomy study and clinical application (‡SevEN-009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459324/) — Frontiers in Oncology 2022; CC BY.*
+
+![Approach Endoscopic Endonasal Approach — Figure 6](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-09-figure-6-fonc-12-962598-g006-jpg.jpg)
+*Figure 6. A 57-year-old male patient with history of repeated surgery and radiosurgery for an invasive pituitary adenoma. (A, B) Preoperative T1-weighted magnetic resonance imaging (MRI) with... Source: [Endoscopic transorbital approach to the cavernous sinus: Cadaveric anatomy study and clinical application (‡SevEN-009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459324/) — Frontiers in Oncology 2022; CC BY.*
+
+![Approach Endoscopic Endonasal Approach — Fig 1](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-10-fig-1-pone-0264053-g001-jpg.jpg)
+*Fig 1. (1A) Drawing depicting 6 keyhole approaches for meningioma removal: endonasal, supraorbital, minipterional, retromastoid, suboccipital sitting gravity-assisted and transfalcine... Source: [Critical appraisal of minimally invasive keyhole surgery for intracranial meningioma in a large case series](https://pmc.ncbi.nlm.nih.gov/articles/PMC9333232/) — PLoS ONE 2022; CC BY.*
+
+<!-- END CURATED IMAGE SET -->
+
+*Detailed operative reference written for a senior resident / fellow / attending. Pathology guides (e.g., [pituitary adenoma](../cranial-tumor/pituitary-adenoma-transsphenoidal.md), [craniopharyngioma](../cranial-tumor/craniopharyngioma.md)) link here for technique.*
+
+**Atlas operative videos** — open on the [**Endoscopic Endonasal Approach chapter page**](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/endoscopic-endonasal-approach): *Endonasal Endoscopic Approach · Pituitary Surgery · Extended Endonasal Approaches · Nasoseptal Flap Harvest.*
 
 ---
 
@@ -67,7 +119,6 @@ The endoscopic endonasal approach uses **the nostril as a natural corridor** to 
 - **Antibiotics:** perioperative cefazolin (or vancomycin if penicillin-allergic); some centers add gram-negative coverage for extended approaches given the contaminated nasal corridor.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU or step-down for extended skull base/sellar cases; floor may be appropriate for small uncomplicated pituitary cases per institutional pathway.
 - **OR setup:** endonasal tower, 0/30-degree endoscopes, navigation, Doppler, ENT/neurosurgery two-surgeon workflow, lumbar drain only when indicated, and ready multilayer reconstruction materials.
 - **Special needs:** endocrine plan before incision, arterial line for large/vascular lesions, stress-dose versus steroid-sparing plan, DI/sodium protocol, CSF-leak precautions, and perioperative antibiotics while nasal packing/drains are managed per protocol.
 - **Immediate postop orders:** neuro/visual checks, strict I/O and urine specific gravity or sodium schedule when sellar/hypothalamic risk exists, AM cortisol/endocrine labs, nasal precautions, postop MRI/CT timing, and lumbar-drain parameters if placed.
@@ -166,14 +217,13 @@ Postoperative CSF leak (1–5% sellar, 10–15% extended); DI (transient ~30%, p
 
 ---
 
-<!-- BEGIN REVERSE APPROACH LINKS -->
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
 
-## Case Guides Using This Approach
+## Figure Use & Attribution
 
-- [Clival Chordoma Resection](../../cases/cranial-tumor/clival-chordoma.md)
-- [Pituitary Adenoma — Endoscopic Endonasal Transsphenoidal Approach](../../cases/cranial-tumor/pituitary-adenoma-transsphenoidal.md)
+> **About the figures (read once):** Operative step illustrations/photos (Neurosurgical Atlas, Rhoton) are **copyrighted** and are **linked, not copied**. Embedded images here are **public-domain** anatomy plates. See [media-sources.md](../../resources/media-sources.md).
 
-<!-- END REVERSE APPROACH LINKS -->
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
@@ -202,6 +252,15 @@ Items that commonly vary by surgeon or institution:
 
 <!-- END ATTENDING PREFERENCE VARIABLES -->
 
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Clival Chordoma Resection](../../cases/cranial-tumor/clival-chordoma.md)
+- [Pituitary Adenoma — Endoscopic Endonasal Transsphenoidal Approach](../../cases/cranial-tumor/pituitary-adenoma-transsphenoidal.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. Jho HD, Carrau RL. Endoscopic endonasal transsphenoidal surgery: experience with 50 patients. *J Neurosurg.* 1997;87(1):44–51.
 2. Kassam AB, Prevedello DM, Carrau RL, et al. Endoscopic endonasal skull base surgery: analysis of complications in the authors' initial 800 patients. *J Neurosurg.* 2011;114(6):1544–1568.
@@ -214,59 +273,4 @@ Items that commonly vary by surgeon or institution:
 9. Laws ER Jr, Sheehan JP, eds. *Pituitary Surgery — A Modern Approach.* Karger; 2006.
 10. Knosp E, Steiner E, Kitz K, Matula C. Pituitary adenomas with invasion of the cavernous sinus space: a magnetic resonance imaging classification compared with surgical findings. *Neurosurgery.* 1993;33(4):610–618.
 
-<!-- BEGIN CURATED LITERATURE -->
-
-## High-Yield Literature
-
-- **Endoscopic Endonasal Approach to the Ventral Petroclival Fissure: Anatomical Findings and Surgical Techniques** — Xu Y. Journal of neurological surgery. Part B, Skull base 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38966292/)
-- **Microsurgical anatomy of the dorsal clinoidal space: implications for endoscopic endonasal parasellar surgery** — Xu Y. Journal of neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35120312/)
-- **Extended endoscopic endonasal transsphenoidal approach to the suprasellar area: anatomic considerations--part 1** — Cavallo LM. Neurosurgery 2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17876230/)
-- **Indications and limitations of the endoscopic endonasal approach for anterior cranial base meningiomas** — Schroeder HW. World neurosurgery 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25496640/)
-- **Comparison of Endoscopic Endonasal Approach and Lateral Microsurgical Infratemporal Fossa Approach to the Jugular Foramen: An Anatomical Study** — Liu J. Journal of neurological surgery. Part B, Skull base 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35832999/)
-- **Microsurgical anatomy of the cavernous sinus and limitations of surgical approaches: a cadaveric study** — Kına H. Folia morphologica 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36573366/)
-- **360° around the orbit: key surgical anatomy of the microsurgical and endoscopic cranio-orbital and orbitocranial approaches** — Agosti E. Neurosurgical focus 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38560949/)
-- **From Above and Below: The Microsurgical Anatomy of Endoscopic Endonasal and Transcranial Microsurgical Approaches to the Parasellar Region** — Almeida JP. World neurosurgery 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34906753/)
-- **Giant Pituitary Adenoma - Special Considerations** — Tang OY. Otolaryngologic clinics of North America 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35365313/)
-- **Lateral compartment of the cavernous sinus from the endoscopic endonasal approach: anatomical considerations and surgical relevance to adenoma surgery** — Xu Y. Journal of neurosurgery 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39126713/)
-
-<!-- END CURATED LITERATURE -->
-
 ---
-
-<!-- BEGIN CURATED IMAGE SET -->
-
-## Curated Image Set
-
-Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
-
-![Approach Endoscopic Endonasal Approach — Fig. 1.](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-01-fig-1-nmc-54-612-g1-jpg.jpg)
-*Fig. 1.. Endoscopic view of the posterior wall of the sphenoid sinus and bony landmarks on the right side and exposed medial wall of the cavernous sinus around the intracranial ICA on the left... Source: [Endoscopic Endonasal Surgical Approach to the Oculomotor Trigone from the Cavernous Sinus](https://pmc.ncbi.nlm.nih.gov/articles/PMC4533501/) — Neurologia medico-chirurgica 2014; CC BY-NC-ND.*
-
-![Approach Endoscopic Endonasal Approach — Fig. 2.](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-02-fig-2-nmc-54-612-g2-jpg.jpg)
-*Fig. 2.. A: Endoscopic view of the medial side of the intracavernous ICA. B: Endoscopic view of the lateral side of the intracavernous ICA. ICA: internal carotid artery, PcS: paraclival segment... Source: [Endoscopic Endonasal Surgical Approach to the Oculomotor Trigone from the Cavernous Sinus](https://pmc.ncbi.nlm.nih.gov/articles/PMC4533501/) — Neurologia medico-chirurgica 2014; CC BY-NC-ND.*
-
-![Approach Endoscopic Endonasal Approach — Fig. 3.](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-03-fig-3-nmc-54-612-g3-jpg.jpg)
-*Fig. 3.. A: Endoscopic intracavernous sinus view showing course of cranial nerves and neurovascular relationships. B: Close-up endoscopic view around the entry point of oculomotor nerve into the... Source: [Endoscopic Endonasal Surgical Approach to the Oculomotor Trigone from the Cavernous Sinus](https://pmc.ncbi.nlm.nih.gov/articles/PMC4533501/) — Neurologia medico-chirurgica 2014; CC BY-NC-ND.*
-
-![Approach Endoscopic Endonasal Approach — Fig. 4.](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-04-fig-4-nmc-54-612-g4-jpg.jpg)
-*Fig. 4.. Preoperative contrast-enhanced axial (A) and coronal (B) MR images showing pituitary macroadenoma extending to outside both cavernous sinuses and the suprasellar region and ambient... Source: [Endoscopic Endonasal Surgical Approach to the Oculomotor Trigone from the Cavernous Sinus](https://pmc.ncbi.nlm.nih.gov/articles/PMC4533501/) — Neurologia medico-chirurgica 2014; CC BY-NC-ND.*
-
-![Approach Endoscopic Endonasal Approach — Fig. 3](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-05-fig-3-10143-2020-1247-fig3-html-jpg.jpg)
-*Fig. 3. Postoperative CT-imaging after endonasal endoscopic transpterygoidal approach to Meckel’s cave with a bony and b tissue windowing demonstrating the bone access to Meckel’s cave, as well... Source: [Access to Meckel’s cave for biopsies of indeterminate lesions: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850998/) — Neurosurgical Review 2020; CC BY.*
-
-![Approach Endoscopic Endonasal Approach — Figure 1](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-06-figure-1-fonc-12-962598-g001-jpg.jpg)
-*Figure 1. Conceptual illustration for endoscopic transorbital approach (ETOA) and endoscopic endonasal approach (EEA) to the cavernous sinus. (A) The cavernous sinus was approached from the... Source: [Endoscopic transorbital approach to the cavernous sinus: Cadaveric anatomy study and clinical application (‡SevEN-009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459324/) — Frontiers in Oncology 2022; CC BY.*
-
-![Approach Endoscopic Endonasal Approach — Figure 3](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-07-figure-3-fonc-12-962598-g003-jpg.jpg)
-*Figure 3. Cadaveric views and three-dimensional illustrations for cavernous sinus and surrounding neurovascular structures in the comparison with endoscopic transorbital approach (A, B),... Source: [Endoscopic transorbital approach to the cavernous sinus: Cadaveric anatomy study and clinical application (‡SevEN-009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459324/) — Frontiers in Oncology 2022; CC BY.*
-
-![Approach Endoscopic Endonasal Approach — Figure 4](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-08-figure-4-fonc-12-962598-g004-jpg.jpg)
-*Figure 4. Surgical triangles of cavernous sinus with different approaches. Using a fresh cadaveric head, the surgical triangles to enter the cavernous sinus were simultaneously observed through an... Source: [Endoscopic transorbital approach to the cavernous sinus: Cadaveric anatomy study and clinical application (‡SevEN-009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459324/) — Frontiers in Oncology 2022; CC BY.*
-
-![Approach Endoscopic Endonasal Approach — Figure 6](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-09-figure-6-fonc-12-962598-g006-jpg.jpg)
-*Figure 6. A 57-year-old male patient with history of repeated surgery and radiosurgery for an invasive pituitary adenoma. (A, B) Preoperative T1-weighted magnetic resonance imaging (MRI) with... Source: [Endoscopic transorbital approach to the cavernous sinus: Cadaveric anatomy study and clinical application (‡SevEN-009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9459324/) — Frontiers in Oncology 2022; CC BY.*
-
-![Approach Endoscopic Endonasal Approach — Fig 1](../../figures/curated/approach-endoscopic-endonasal-transsphenoidal-approach/figure-10-fig-1-pone-0264053-g001-jpg.jpg)
-*Fig 1. (1A) Drawing depicting 6 keyhole approaches for meningioma removal: endonasal, supraorbital, minipterional, retromastoid, suboccipital sitting gravity-assisted and transfalcine... Source: [Critical appraisal of minimally invasive keyhole surgery for intracranial meningioma in a large case series](https://pmc.ncbi.nlm.nih.gov/articles/PMC9333232/) — PLoS ONE 2022; CC BY.*
-
-<!-- END CURATED IMAGE SET -->

@@ -9,7 +9,6 @@ tags:
 
 # Reference: Brain Biopsy Systems and Stereotactic Platforms
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -26,10 +25,65 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=Reference%3A+Brain+Biopsy+Systems+and+Stereotactic+Platforms+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 A comparison reference for choosing a brain biopsy technique and platform. See individual procedure files for framed, frameless, robotic, and open biopsy.
 
 ---
+
+<!-- BEGIN CURATED LITERATURE -->
+
+## High-Yield Literature
+
+- **Predictors of diagnostic yield and surgical safety in stereotactic brain biopsy** — Ghoche MT. *Journal of Neuro-Oncology* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41995978/)
+- **Diagnostic yield and safety of frame-based versus robot-assisted stereotactic brain biopsy: a matched cohort analysis** — Mallereau CH. *Neurosurgical Review* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41577860/)
+- **Diagnostic performance and safety of stereotactic frame-based biopsy for sub centimeter intracranial lesions: A matched cohort analysis** — Mallereau CH. *Neurosurgical Review* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41569317/)
+- **Safety and diagnostic yield of robotic-assisted stereotactic biopsy for pediatric brainstem lesions: a systematic review and single-arm meta-analysis** — Zhao J. *Journal of Robotic Surgery* 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40991094/)
+- **Comparison meta-analysis of intraoperative MRI-guided needle biopsy versus conventional stereotactic needle biopsies** — Dhawan S. *Neuro-Oncology Advances* 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38187873/)
+- **Biopsy of diffuse midline glioma is safe and impacts targeted therapy: a systematic review and meta-analysis** — Fu AY. *Child's Nervous System* 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37980290/)
+- **Survival and neurological outcomes after stereotactic biopsy of diffuse intrinsic pontine glioma: a systematic review** — Dalmage M. *Journal of Neurosurgery: Pediatrics* 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37724839/)
+- **Frame-Based Stereotactic Biopsy - A Single Neurosurgeon Experience of 604 Diagnostic Procedures and Literature Review** — Samanci Y. *Turkish Neurosurgery* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36066051/)
+- **Concordance and diagnostic yield of stereotactic biopsies for posterior fossa: Technique and experience in a reference hospital** — Navarro-Olvera JL. *Cirugia y Cirujanos* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35944421/)
+- **An Update on Neurosurgical Management of Primary CNS Lymphoma in Immunocompetent Patients** — Scheichel F. *Frontiers in Oncology* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35515113/)
+- **Functional-guided frameless stereotactic biopsy of highly eloquent brain tumors** — Schwendner M. *Brain & Spine* 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40528873/)
+
+<!-- END CURATED LITERATURE -->
+
+<!-- BEGIN CURATED IMAGE SET -->
+
+## Curated Image Set
+
+Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 1](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-01-figure-1-diagnostics-15-02262-g001-jpg.jpg)
+*Figure 1. Illustration of various genes and their roles in cell cycle progression and arrest. Source: [Liquid Biopsy’s Role in Head and Neck Tumors: Changing Paradigms in the Era of Precision Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC12428747/) — Diagnostics 2025; CC BY.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — FIG. 1.](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-02-fig-1-abpid9-000005-030902-1-g001-jpg.jpg)
+*FIG. 1.. The brain is a multiscale system. Source: [Brain-on-a-Chip: Characterizing the next generation of advanced in vitro platforms for modeling the central nervous system](https://pmc.ncbi.nlm.nih.gov/articles/PMC8325567/) — APL Bioengineering 2021; CC BY.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — FIG. 2.](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-03-fig-2-abpid9-000005-030902-1-g002-jpg.jpg)
+*FIG. 2.. Different aspects of the brain's complexity. As the brain is a multiscale system, it is challenging to incorporate all these aspects in vitro. One should keep in mind all these aspects... Source: [Brain-on-a-Chip: Characterizing the next generation of advanced in vitro platforms for modeling the central nervous system](https://pmc.ncbi.nlm.nih.gov/articles/PMC8325567/) — APL Bioengineering 2021; CC BY.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — Fig. 1](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-04-fig-1-41598-2025-86069-fig1-html-jpg.jpg)
+*Fig. 1. Pre-operative planning: biopsy path (red line) was set on pre-operative MRI in order to preserve arteries and veins, functional areas and it is double-checked by two surgeons. Source: [Evaluation of feasibility accuracy and safety after 79 O-ARM based stereotactic brain biopsies](https://pmc.ncbi.nlm.nih.gov/articles/PMC11754428/) — Scientific Reports 2025; CC BY-NC-ND.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — FIGURE 2](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-05-figure-2-cas-115-1060-g001-jpg.jpg)
+*FIGURE 2. Multifaceted challenges in liquid biopsy implementation. This figure outlines key challenges encountered in liquid biopsy from sample procurement to clinical utility. (1) Diagnostic... Source: [Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11007055/) — Cancer Science 2024; CC BY-NC.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 6](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-06-figure-6-cas-115-1060-g002-jpg.jpg)
+*Figure 6. Source: [Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11007055/) — Cancer Sci. 2024 Feb 3;115(4):1060–72. doi: 10.1111/cas.16097; CC BY-NC.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — FIGURE 1](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-07-figure-1-cas-115-1060-g003-jpg.jpg)
+*FIGURE 1. Comprehensive workflow of liquid biopsy from biofluid collection to clinical application. (A) Diverse biofluid collection. The liquid biopsy workflow begins with the collection of... Source: [Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11007055/) — Cancer Science 2024; CC BY-NC.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 4](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-08-figure-4-adhm-14-0-g002-jpg.jpg)
+*Figure 4. A schematic representation of examples of 2D hydrogel platforms used to study cell mechanotransduction. A) Static hydrogels with a stiffness gradient to study cellular durotaxis.[ 60 ]... Source: [Actuated Hydrogel Platforms To Study Brain Cell Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC12004428/) — Advanced Healthcare Materials 2025; CC BY-NC.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 11](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-09-figure-11-adhm-14-0-g003-jpg.jpg)
+*Figure 11. Dynamically stiffened and softened hydrogels in mechanobiology. A) A schematic representation of the reversible stiffness actuation of collagen‐based hydrogels containing carbonyl iron... Source: [Actuated Hydrogel Platforms To Study Brain Cell Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC12004428/) — Advanced Healthcare Materials 2025; CC BY-NC.*
+
+![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 5](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-10-figure-5-adhm-14-0-g004-jpg.jpg)
+*Figure 5. Micro‐ and nanofabricated hydrogel platforms used to study brain cell mechanotransduction. A) A schematic representation of cell‐laden HA‐am hydrogels with line patterns, displaying cell... Source: [Actuated Hydrogel Platforms To Study Brain Cell Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC12004428/) — Advanced Healthcare Materials 2025; CC BY-NC.*
+
+<!-- END CURATED IMAGE SET -->
 
 ## 1. When to Biopsy (Indications)
 - Diagnosis of a lesion that is **not safely or beneficially resectable**, or where tissue diagnosis changes management:
@@ -162,61 +216,3 @@ Items that commonly vary by surgeon or institution:
 - **Admit versus discharge threshold and neuro-check frequency:** [attending-specific]
 
 <!-- END ATTENDING PREFERENCE VARIABLES -->
-
-<!-- BEGIN CURATED LITERATURE -->
-
-## High-Yield Literature
-
-- **Predictors of diagnostic yield and surgical safety in stereotactic brain biopsy** — Ghoche MT. *Journal of Neuro-Oncology* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41995978/)
-- **Diagnostic yield and safety of frame-based versus robot-assisted stereotactic brain biopsy: a matched cohort analysis** — Mallereau CH. *Neurosurgical Review* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41577860/)
-- **Diagnostic performance and safety of stereotactic frame-based biopsy for sub centimeter intracranial lesions: A matched cohort analysis** — Mallereau CH. *Neurosurgical Review* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41569317/)
-- **Safety and diagnostic yield of robotic-assisted stereotactic biopsy for pediatric brainstem lesions: a systematic review and single-arm meta-analysis** — Zhao J. *Journal of Robotic Surgery* 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40991094/)
-- **Comparison meta-analysis of intraoperative MRI-guided needle biopsy versus conventional stereotactic needle biopsies** — Dhawan S. *Neuro-Oncology Advances* 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38187873/)
-- **Biopsy of diffuse midline glioma is safe and impacts targeted therapy: a systematic review and meta-analysis** — Fu AY. *Child's Nervous System* 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37980290/)
-- **Survival and neurological outcomes after stereotactic biopsy of diffuse intrinsic pontine glioma: a systematic review** — Dalmage M. *Journal of Neurosurgery: Pediatrics* 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37724839/)
-- **Frame-Based Stereotactic Biopsy - A Single Neurosurgeon Experience of 604 Diagnostic Procedures and Literature Review** — Samanci Y. *Turkish Neurosurgery* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36066051/)
-- **Concordance and diagnostic yield of stereotactic biopsies for posterior fossa: Technique and experience in a reference hospital** — Navarro-Olvera JL. *Cirugia y Cirujanos* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35944421/)
-- **An Update on Neurosurgical Management of Primary CNS Lymphoma in Immunocompetent Patients** — Scheichel F. *Frontiers in Oncology* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35515113/)
-- **Functional-guided frameless stereotactic biopsy of highly eloquent brain tumors** — Schwendner M. *Brain & Spine* 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40528873/)
-
-<!-- END CURATED LITERATURE -->
-
----
-
-<!-- BEGIN CURATED IMAGE SET -->
-
-## Curated Image Set
-
-Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 1](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-01-figure-1-diagnostics-15-02262-g001-jpg.jpg)
-*Figure 1. Illustration of various genes and their roles in cell cycle progression and arrest. Source: [Liquid Biopsy’s Role in Head and Neck Tumors: Changing Paradigms in the Era of Precision Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC12428747/) — Diagnostics 2025; CC BY.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — FIG. 1.](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-02-fig-1-abpid9-000005-030902-1-g001-jpg.jpg)
-*FIG. 1.. The brain is a multiscale system. Source: [Brain-on-a-Chip: Characterizing the next generation of advanced in vitro platforms for modeling the central nervous system](https://pmc.ncbi.nlm.nih.gov/articles/PMC8325567/) — APL Bioengineering 2021; CC BY.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — FIG. 2.](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-03-fig-2-abpid9-000005-030902-1-g002-jpg.jpg)
-*FIG. 2.. Different aspects of the brain's complexity. As the brain is a multiscale system, it is challenging to incorporate all these aspects in vitro. One should keep in mind all these aspects... Source: [Brain-on-a-Chip: Characterizing the next generation of advanced in vitro platforms for modeling the central nervous system](https://pmc.ncbi.nlm.nih.gov/articles/PMC8325567/) — APL Bioengineering 2021; CC BY.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — Fig. 1](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-04-fig-1-41598-2025-86069-fig1-html-jpg.jpg)
-*Fig. 1. Pre-operative planning: biopsy path (red line) was set on pre-operative MRI in order to preserve arteries and veins, functional areas and it is double-checked by two surgeons. Source: [Evaluation of feasibility accuracy and safety after 79 O-ARM based stereotactic brain biopsies](https://pmc.ncbi.nlm.nih.gov/articles/PMC11754428/) — Scientific Reports 2025; CC BY-NC-ND.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — FIGURE 2](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-05-figure-2-cas-115-1060-g001-jpg.jpg)
-*FIGURE 2. Multifaceted challenges in liquid biopsy implementation. This figure outlines key challenges encountered in liquid biopsy from sample procurement to clinical utility. (1) Diagnostic... Source: [Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11007055/) — Cancer Science 2024; CC BY-NC.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 6](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-06-figure-6-cas-115-1060-g002-jpg.jpg)
-*Figure 6. Source: [Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11007055/) — Cancer Sci. 2024 Feb 3;115(4):1060–72. doi: 10.1111/cas.16097; CC BY-NC.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — FIGURE 1](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-07-figure-1-cas-115-1060-g003-jpg.jpg)
-*FIGURE 1. Comprehensive workflow of liquid biopsy from biofluid collection to clinical application. (A) Diverse biofluid collection. The liquid biopsy workflow begins with the collection of... Source: [Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11007055/) — Cancer Science 2024; CC BY-NC.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 4](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-08-figure-4-adhm-14-0-g002-jpg.jpg)
-*Figure 4. A schematic representation of examples of 2D hydrogel platforms used to study cell mechanotransduction. A) Static hydrogels with a stiffness gradient to study cellular durotaxis.[ 60 ]... Source: [Actuated Hydrogel Platforms To Study Brain Cell Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC12004428/) — Advanced Healthcare Materials 2025; CC BY-NC.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 11](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-09-figure-11-adhm-14-0-g003-jpg.jpg)
-*Figure 11. Dynamically stiffened and softened hydrogels in mechanobiology. A) A schematic representation of the reversible stiffness actuation of collagen‐based hydrogels containing carbonyl iron... Source: [Actuated Hydrogel Platforms To Study Brain Cell Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC12004428/) — Advanced Healthcare Materials 2025; CC BY-NC.*
-
-![Reference Brain Biopsy Systems Stereotactic Platforms — Figure 5](../../figures/curated/reference-brain-biopsy-systems-and-stereotactic-platforms/figure-10-figure-5-adhm-14-0-g004-jpg.jpg)
-*Figure 5. Micro‐ and nanofabricated hydrogel platforms used to study brain cell mechanotransduction. A) A schematic representation of cell‐laden HA‐am hydrogels with line patterns, displaying cell... Source: [Actuated Hydrogel Platforms To Study Brain Cell Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC12004428/) — Advanced Healthcare Materials 2025; CC BY-NC.*
-
-<!-- END CURATED IMAGE SET -->

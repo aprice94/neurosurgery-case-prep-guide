@@ -10,7 +10,6 @@ tags:
 
 # Operative Approach: Supracerebellar Infratentorial (Krause)
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -23,18 +22,9 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures and videos are **linked** (Neurosurgical Atlas, Rhoton collection); embedded images are **public-domain** (Gray's Anatomy) or **Creative Commons CC-BY** (open-access cadaveric anatomy), each credited beneath the image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapters & video:** [Supracerebellar Infratentorial Approach — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/pineal-region/supracerebellar-infratentorial-craniotomy) · [Pineal Region Surgery](https://www.neurosurgicalatlas.com/volumes/pineal-region) · [Anatomy of the Pineal Region (Rhoton)](https://www.neurosurgicalatlas.com/neuroanatomy/the-pineal-region)
-
-The supracerebellar infratentorial approach is the **primary corridor to the pineal region, posterior third ventricle, and quadrigeminal cistern.** First described by Krause (1926) and refined by Stein (1971), it exploits the natural plane between the tentorial undersurface and the cerebellar apex — using gravity to retract the cerebellum away from the tentorium rather than transgressing cerebral cortex to reach deep midline structures. Its chief advantage over supratentorial alternatives (occipital transtentorial, interhemispheric transcallosal) is that it avoids cortical manipulation and reaches the pineal from below, where bridging veins are fewer and the critical deep venous system sits *above* the surgical corridor.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=pineal+region+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
-
 
 [Neurosurgical Atlas — Supracerebellar Infratentorial](https://www.neurosurgicalatlas.com/volumes/pineal-region/supracerebellar-infratentorial-craniotomy) · [Rhoton Pineal Region Anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+pineal+region+anatomy) · [Radiopaedia — Pineal Region](https://radiopaedia.org/search?q=pineal+region&scope=all) · [PubMed Central — supracerebellar infratentorial](https://www.ncbi.nlm.nih.gov/pmc/?term=supracerebellar+infratentorial+approach)
 
@@ -56,8 +46,6 @@ The supracerebellar infratentorial approach is the **primary corridor to the pin
 - **Endoscopic supracerebellar infratentorial approach to pineal and posterior third ventricle lesions in prone position with head extension: a technical note** — Spazzapan P. Neurological research 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32892737/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -96,6 +84,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Figure 6. Histological analysis showed a moderately cellular glial neoplasm with biphasic growth pattern (A), characterized by tumor cells with bipolar processes and the presence of occasional... Source: [Endoscope-Assisted Extreme Lateral Supracerebellar Infratentorial Approach for Resection of Superior Cerebellar Peduncle Pilocytic Astrocytoma: Technical Note](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140165/) — Children 2022; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
+
+The supracerebellar infratentorial approach is the **primary corridor to the pineal region, posterior third ventricle, and quadrigeminal cistern.** First described by Krause (1926) and refined by Stein (1971), it exploits the natural plane between the tentorial undersurface and the cerebellar apex — using gravity to retract the cerebellum away from the tentorium rather than transgressing cerebral cortex to reach deep midline structures. Its chief advantage over supratentorial alternatives (occipital transtentorial, interhemispheric transcallosal) is that it avoids cortical manipulation and reaches the pineal from below, where bridging veins are fewer and the critical deep venous system sits *above* the surgical corridor.
 
 ---
 
@@ -136,7 +126,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Stealth/neuronavigation** — register with volumetric MRI; particularly useful for planning the craniotomy extent and confirming trajectory to the lesion
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
 - **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
 - **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
 - **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
@@ -239,6 +228,16 @@ Pin placement: the single pin sits contralateral and posterior; the two-pin arm 
 ## Cross-links
 - Tumors: [pineal-region-tumor.md](../cranial-tumor/pineal-region-tumor.md) · [posterior-fossa-tumor.md](../cranial-tumor/posterior-fossa-tumor.md)
 - Related corridors: [midline-suboccipital-craniotomy.md](midline-suboccipital-craniotomy.md) · [retrosigmoid-craniotomy.md](retrosigmoid-craniotomy.md) · [far-lateral-craniotomy.md](far-lateral-craniotomy.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures and videos are **linked** (Neurosurgical Atlas, Rhoton collection); embedded images are **public-domain** (Gray's Anatomy) or **Creative Commons CC-BY** (open-access cadaveric anatomy), each credited beneath the image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapters & video:** [Supracerebellar Infratentorial Approach — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/pineal-region/supracerebellar-infratentorial-craniotomy) · [Pineal Region Surgery](https://www.neurosurgicalatlas.com/volumes/pineal-region) · [Anatomy of the Pineal Region (Rhoton)](https://www.neurosurgicalatlas.com/neuroanatomy/the-pineal-region)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

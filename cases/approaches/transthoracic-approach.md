@@ -13,7 +13,6 @@ tags:
 
 # Operative Approach: Transthoracic (Anterior Thoracic) Approach to the Spine
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -26,20 +25,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Technique references:** [AO Surgery Reference — Anterior thoracic](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracic spine](https://radiopaedia.org/search?q=thoracic%20spine%20tumour&scope=all)
-
-The transthoracic approach reaches the **front of the thoracic vertebral bodies** — for **corpectomy and anterior reconstruction, ventral cord decompression** (calcified central disc, retropulsed burst fragment, tumor, infection), and deformity. It is performed as an **open thoracotomy**, **thoracoscopic (VATS)**, or **mini-open lateral retropleural** exposure, with **single-lung ventilation** to deflate the lung and open the corridor. Its power is **direct ventral access to the cord without any cord retraction**; its demands are pulmonary, vascular (segmental arteries / artery of Adamkiewicz), and thoracic-access expertise.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=thoracic+spine+tumour+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-[AO Surgery Reference — anterior thoracic](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracic disc/tumour](https://radiopaedia.org/search?q=thoracic%20disc%20calcified&scope=all) · [PubMed Central — transthoracic corpectomy](https://www.ncbi.nlm.nih.gov/pmc/?term=transthoracic+thoracic+corpectomy)
-
+[AO Spine / Surgery Reference — anterior thoracic](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracic disc/tumour](https://radiopaedia.org/search?q=thoracic%20disc%20calcified&scope=all) · [PubMed Central — transthoracic corpectomy](https://www.ncbi.nlm.nih.gov/pmc/?term=transthoracic+thoracic+corpectomy)
 
 ---
 
@@ -59,8 +49,6 @@ The transthoracic approach reaches the **front of the thoracic vertebral bodies*
 - **En-bloc resection of giant neuroma of thoracic spine via transthoracic extrapleural access: a case report and literature review** — Lisitsky IY. Zhurnal voprosy neirokhirurgii imeni N. N. Burdenko 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36763558/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -100,6 +88,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 <!-- END CURATED IMAGE SET -->
 
+The transthoracic approach reaches the **front of the thoracic vertebral bodies** — for **corpectomy and anterior reconstruction, ventral cord decompression** (calcified central disc, retropulsed burst fragment, tumor, infection), and deformity. It is performed as an **open thoracotomy**, **thoracoscopic (VATS)**, or **mini-open lateral retropleural** exposure, with **single-lung ventilation** to deflate the lung and open the corridor. Its power is **direct ventral access to the cord without any cord retraction**; its demands are pulmonary, vascular (segmental arteries / artery of Adamkiewicz), and thoracic-access expertise.
+
 ---
 
 ## General Considerations
@@ -134,7 +124,6 @@ Choose the exposure that gives safe ventral decompression and reconstruction, no
 - **Other:** **sympathetic chain** (on the lateral bodies), **thoracic duct** (left, lower thoracic — chylothorax), **esophagus** (anterior).
 - **Spinal:** vertebral body/disc, **posterior longitudinal ligament**, ventral dura and the **watershed thoracic cord** (low ischemic tolerance — no retraction).
 
-
 ---
 
 ## Preoperative Evaluation
@@ -150,7 +139,7 @@ Choose the exposure that gives safe ventral decompression and reconstruction, no
 - Decide preoperatively whether posterior supplemental fixation is needed for instability, multicolumn disease, deformity, infection, or poor bone quality.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR table/bed:** radiolucent table configured for lateral or anterior thoracic exposure, with C-arm access and chest/vascular exposure needs coordinated before positioning.
 - **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
 - **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
 - **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
@@ -162,6 +151,7 @@ Choose the exposure that gives safe ventral decompression and reconstruction, no
 
 ## Positioning
 
+- **OR table/bed:** radiolucent table configured for lateral or anterior thoracic exposure, with C-arm access and chest/vascular exposure needs coordinated before positioning.
 - **Lateral decubitus** (side up = side of approach), **table flexed** to open the rib interspaces, axillary roll, arms supported forward; **operative-side lung deflated.** Fluoroscopy/navigation and IONM baselines before incision.
 
 ## Exposure
@@ -196,11 +186,7 @@ Choose the exposure that gives safe ventral decompression and reconstruction, no
 
 ---
 
-
 ### Bony anatomy (vertebra / pedicle detail)
-
-
-
 
 ### Operative sequence (mini-thoracotomy example)
 
@@ -232,6 +218,16 @@ Choose the exposure that gives safe ventral decompression and reconstruction, no
 ## Cross-links
 - Procedures: [thoracic discectomy](../spine-degenerative/thoracic-discectomy.md) · [anterior thoracic corpectomy](../spine-degenerative/anterior-thoracic-corpectomy.md) · [vertebral corpectomy](../spine-tumor/vertebral-corpectomy.md)
 - Related corridors: [posterior-thoracolumbar-approach.md](posterior-thoracolumbar-approach.md) · [transpsoas-approach.md](transpsoas-approach.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, AO Spine / Surgery Reference); embedded images are **public-domain** (Gray's Anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Technique references:** [AO Spine / Surgery Reference — Anterior thoracic](https://www.aofoundation.org/spine) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — thoracic spine](https://radiopaedia.org/search?q=thoracic%20spine%20tumour&scope=all)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
@@ -272,7 +268,7 @@ Items that commonly vary by surgeon or institution:
 <!-- END REVERSE APPROACH LINKS -->
 
 ## References
-1. AO Foundation. **Anterior approach to the thoracic and thoracolumbar spine.** AO Surgery Reference. [link](https://surgeryreference.aofoundation.org)
+1. AO Foundation. **Anterior approach to the thoracic and thoracolumbar spine.** AO Spine / Surgery Reference. [link](https://www.aofoundation.org/spine)
 2. McCormick PC. **Retropleural/lateral extracavitary and transthoracic approaches to thoracic disc and tumor.**
 3. Kaneda K, et al. **Anterior decompression and stabilization for thoracolumbar burst fractures.** *J Bone Joint Surg Am.* 1997.
 4. Mulier S, Debois V. **Thoracoscopic anterior approaches to the thoracic spine** (VATS technique and outcomes).

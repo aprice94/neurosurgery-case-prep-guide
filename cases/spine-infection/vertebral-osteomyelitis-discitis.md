@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Vertebral Osteomyelitis / Discitis — Surgical Management
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -35,37 +32,9 @@ tags:
 
 > 🧭 **Operative approach:** [Posterior thoracolumbar approach](../approaches/posterior-thoracolumbar-approach.md) and [transthoracic approach](../approaches/transthoracic-approach.md) — posterior stabilization versus anterior debridement/reconstruction depends on level and column failure.
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=spondylodiscitis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+osteomyelitis+discitis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=spondylodiscitis&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vertebral+osteomyelitis+discitis) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Vertebral Osteomyelitis / Discitis — Surgical Management**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Group B Streptococcus vertebral osteomyelitis-discitis in an immunocompetent adolescent** — Trehan I. The Pediatric infectious disease journal 2009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19483527/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -165,7 +132,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** floor, step-down, or ICU based on sepsis, neurologic deficit, instability, and need for MAP/pressor support.
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **OR setup:** fluoroscopy/navigation, decompression and instrumentation trays, culture swabs/containers for aerobic/anaerobic/fungal/AFB studies, drain, and blood availability for multilevel debridement or corpectomy.
 - **Special needs:** antibiotic timing coordinated with cultures unless unstable, ID consult plan, arterial line if septic or major deformity/corpectomy, MAP support for cord compromise, and hardware strategy in contaminated fields.
 - **Immediate postop orders:** neuro checks, organism-directed antibiotics, drain/wound care, ESR/CRP and culture follow-up, CT/X-rays when hardware placed, brace/activity, DVT timing, and nutrition/glycemic optimization.
@@ -255,3 +222,30 @@ Closure was performed. The patient was transferred with ID-directed IV antibioti
 - CT/X-ray (hardware, alignment, fusion), brace per surgeon
 - DVT prophylaxis, address risk factors (glucose, addiction medicine), nutrition
 - Monitor for recurrence/instability; follow-up imaging and labs; rehab
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Vertebral Osteomyelitis / Discitis — Surgical Management**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

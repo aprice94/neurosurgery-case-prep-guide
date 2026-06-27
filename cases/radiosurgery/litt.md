@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Laser Interstitial Thermal Therapy (LITT)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -34,37 +31,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=laser+interstitial+thermal+therapy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=laser%20interstitial%20thermal%20therapy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=laser+interstitial+thermal+therapy+brain) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Laser Interstitial Thermal Therapy (LITT)**:
-
-1. What target coordinate, trajectory, and no-fly-zone were chosen?
-2. What imaging confirms target accuracy and avoids vessel/ventricle/sulcus violation?
-3. What specimen, pathology, culture, or molecular study must be obtained?
-4. What hemorrhage, edema, seizure, or thermal-injury sign must be watched for tonight?
-5. What postop scan timing and steroid/antiepileptic plan is appropriate?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Frame versus frameless/robot platform and planning software:** [attending-specific]
-- **Trajectory constraints, number of cores/targets, and frozen/permanent pathology plan:** [attending-specific]
-- **Steroid/antiepileptic prophylaxis and postop scan timing:** [attending-specific]
-- **Admit versus discharge threshold and neuro-check frequency:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -82,8 +51,6 @@ Items that commonly vary by surgeon or institution:
 - **Posterior Fossa Laser Interstitial Thermal Therapy in Children** — Mirone G. Neurosurgery clinics of North America 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36906329/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -164,7 +131,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU or step-down overnight after laser ablation, especially for deep lesions, edema risk, or seizure history.
 - **OR setup:** stereotaxy/robot or frame, MRI-compatible laser system, thermal-damage monitoring workflow, biopsy supplies if planned, and MRI/anesthesia coordination before incision.
 - **Special needs:** steroid plan for edema, antiepileptic plan for cortical/epilepsy lesions, temperature/thermal safety checks, and readiness for aborting if trajectory or heating is unsafe.
 - **Immediate postop orders:** neuro checks, MRI/CT review for hemorrhage/edema, dexamethasone taper, seizure precautions when relevant, pain/nausea control, and follow-up MRI schedule for ablation evolution.
@@ -237,3 +203,30 @@ The patient was transferred [to the ICU overnight] with a short steroid course f
 - DVT prophylaxis, seizure management (epilepsy/tumor)
 - Pathology note: **LITT does not provide tissue** — biopsy at same setting if diagnosis needed
 - Tumor: oncology follow-up, surveillance MRI (ablation cavity evolves); Epilepsy: seizure-outcome tracking, AED management; Radiation necrosis: symptom/steroid follow-up
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Laser Interstitial Thermal Therapy (LITT)**:
+
+1. What target coordinate, trajectory, and no-fly-zone were chosen?
+2. What imaging confirms target accuracy and avoids vessel/ventricle/sulcus violation?
+3. What specimen, pathology, culture, or molecular study must be obtained?
+4. What hemorrhage, edema, seizure, or thermal-injury sign must be watched for tonight?
+5. What postop scan timing and steroid/antiepileptic plan is appropriate?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Frame versus frameless/robot platform and planning software:** [attending-specific]
+- **Trajectory constraints, number of cores/targets, and frozen/permanent pathology plan:** [attending-specific]
+- **Steroid/antiepileptic prophylaxis and postop scan timing:** [attending-specific]
+- **Admit versus discharge threshold and neuro-check frequency:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

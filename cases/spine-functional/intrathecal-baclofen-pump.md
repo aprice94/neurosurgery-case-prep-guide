@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Intrathecal Baclofen (ITB) Pump Implantation
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -37,35 +34,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=intrathecal%20baclofen%20pump&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intrathecal+baclofen+pump) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Intrathecal Baclofen (ITB) Pump Implantation**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Intrathecal baclofen pump implantation in prone position for a cerebral palsy patient with severe scoliosis: a case report** — Arishima H. Neuromodulation : journal of the International Neuromodulation Society 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24945783/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -169,12 +136,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** outpatient or floor for pump/stimulator placement; step-down if frail, baclofen-withdrawal risk, intrathecal catheter concern, or respiratory comorbidity.
+- **OR table/bed:** standard OR table or radiolucent spine table depending on percutaneous versus paddle/intrathecal access; confirm fluoroscopy and tunneling access before prep.
 - **OR setup:** fluoroscopy, implant/pump/stimulator inventory verified, programmer/vendor available, sterile tunneling tools, trial leads/catheters as applicable, and pocket-site laterality confirmed.
 - **Special needs:** antibiotic/implant protocol, anticoagulation plan for neuraxial access, baclofen-withdrawal/overdose rescue plan for pumps, device programming orders, and infection-prevention bundle.
 - **Immediate postop orders:** wound/pocket checks, neuro checks for neuraxial hematoma, device programming/initial dose orders, activity restrictions, antibiotics per protocol, pain control, and follow-up for interrogation/refill/programming.
 
 ### Position
+- **OR table/bed:** standard OR table or radiolucent spine table depending on percutaneous versus paddle/intrathecal access; confirm fluoroscopy and tunneling access before prep.
 - **Lateral decubitus** (catheter via LP-type access + abdominal pump pocket), fluoroscopy; padded
 
 ### Key Surgical Steps
@@ -262,3 +230,30 @@ Closure was performed. The patient was monitored for overdose (respiratory depre
 - CSF leak precautions (flat if PDPH/leak), wound/pocket monitoring (seroma/infection)
 - **Refill schedule established**, dose titration in clinic, caregiver education (withdrawal/overdose emergency recognition)
 - Spasticity reassessment, follow-up; document pump/MRI parameters
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Intrathecal Baclofen (ITB) Pump Implantation**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

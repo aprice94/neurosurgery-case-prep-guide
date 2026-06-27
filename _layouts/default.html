@@ -59,7 +59,6 @@
       <div class="subbar-actions">
         {% assign rev = site.data.reviewed[page.path] %}{% if rev %}<span class="reviewed" title="Last reviewed">Last reviewed {{ rev }}</span>{% endif %}
         <button class="subbar-btn" type="button" onclick="window.print()" title="Print or save this guide as a PDF">🖨️ PDF</button>
-        <a class="subbar-btn" href="{{ site.github_repo }}/edit/main/{{ page.path }}" target="_blank" rel="noopener" title="Suggest an edit on GitHub">✏️ Edit</a>
       </div>
     </div>
   </nav>
@@ -83,7 +82,7 @@
   <footer class="site-footer">
     <div class="wrap">
       <p><strong>⚠️ Educational reference — not medical advice.</strong> Always verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before applying to a patient.</p>
-      <p class="muted">Pterion Prep · <a href="{{ site.github_repo }}" target="_blank" rel="noopener">source on GitHub</a>{% unless page.url == "/" %} · <a href="{{ site.github_repo }}/edit/main/{{ page.path }}" target="_blank" rel="noopener">✏️ suggest an edit</a>{% endunless %} · last updated {{ site.time | date: "%b %Y" }}</p>
+      <p class="muted">Pterion Prep · <a href="{{ site.github_repo }}" target="_blank" rel="noopener">source on GitHub</a> · last updated {{ site.time | date: "%b %Y" }}</p>
     </div>
   </footer>
 
@@ -101,6 +100,7 @@
       if (h2s.length >= 3) {
         var d = document.createElement('details');
         d.className = 'toc';
+        d.open = true;
         var s = document.createElement('summary'); s.textContent = 'On this page'; d.appendChild(s);
         var ul = document.createElement('ul');
         h2s.forEach(function (h) {

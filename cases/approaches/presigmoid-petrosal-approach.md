@@ -10,7 +10,6 @@ tags:
 
 # Operative Approach: Presigmoid / Petrosal Approaches (Retrolabyrinthine · Translabyrinthine · Transcochlear · Combined Petrosal)
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -23,20 +22,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapter:** [Extended Posterior Petrosectomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy)
-
-The petrosal (presigmoid) approaches drill **through the petrous temporal bone** to reach the **petroclival region, mid-clivus, Meckel's cave, and the ventral pons** along the shortest, most anterior trajectory — opening the dura **in front of the sigmoid sinus (presigmoid)** and dividing the tentorium to combine supra- and infratentorial exposure. They form a **graded ladder** trading hearing/facial function for ventral reach: **retrolabyrinthine** (hearing-preserving) → **translabyrinthine** (sacrifices hearing) → **transcochlear** (sacrifices hearing + reroutes the facial nerve); the **combined petrosal** adds an [anterior petrosectomy (Kawase)](subtemporal-craniotomy.md) for maximal petroclival exposure. These are the **big-gun skull-base approaches** for large petroclival meningiomas and chordomas.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=petroclival+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — petrosectomy](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy) · [Radiopaedia — petroclival meningioma](https://radiopaedia.org/search?q=petroclival%20meningioma&scope=all) · [PubMed Central — combined petrosal](https://www.ncbi.nlm.nih.gov/pmc/?term=combined+petrosal+approach)
-
 
 ---
 
@@ -56,8 +46,6 @@ The petrosal (presigmoid) approaches drill **through the petrous temporal bone**
 - **Pediatric Pontine Cavernous Malformations: The Presigmoid, Posterior Petrosal Approach** — Kulwin CG. Operative neurosurgery (Hagerstown, Md.) 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29514285/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -96,6 +84,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 *Figure 10. Source: [A standalone minimally invasive presigmoid retrolabyrinthine suprameatal approach: A cadaveric morphometric study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11878714/) — Surg Neurol Int. 2025 Feb 28;16:68. doi: 10.25259/SNI_1110_2024; CC BY-NC-SA.*
 
 <!-- END CURATED IMAGE SET -->
+
+The petrosal (presigmoid) approaches drill **through the petrous temporal bone** to reach the **petroclival region, mid-clivus, Meckel's cave, and the ventral pons** along the shortest, most anterior trajectory — opening the dura **in front of the sigmoid sinus (presigmoid)** and dividing the tentorium to combine supra- and infratentorial exposure. They form a **graded ladder** trading hearing/facial function for ventral reach: **retrolabyrinthine** (hearing-preserving) → **translabyrinthine** (sacrifices hearing) → **transcochlear** (sacrifices hearing + reroutes the facial nerve); the **combined petrosal** adds an [anterior petrosectomy (Kawase)](subtemporal-craniotomy.md) for maximal petroclival exposure. These are the **big-gun skull-base approaches** for large petroclival meningiomas and chordomas.
 
 ---
 
@@ -154,7 +144,6 @@ The right answer is often not "maximum petrosectomy." Escalate only when the les
 - A soft tumor with safe retrosigmoid debulking may not need the morbidity of a full petrosal route.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
 - **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
 - **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
 - **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
@@ -198,14 +187,12 @@ The right answer is often not "maximum petrosectomy." Escalate only when the les
 - **Brainstem/perforator adherence:** leave adherent capsule rather than avulsing AICA/SCA/basilar perforators; radiosurgery/staged reoperation is better than a perforator stroke.
 - **CSF leak risk at closure:** add fat, fascia, muscle/pericranial flap, eustachian-tube/air-cell occlusion, lumbar drainage when appropriate, and low threshold for early repair if rhinorrhea/otorrhea occurs.
 
-
 ---
 
 ## Closure & Reconstruction
 - **Meticulous closure is critical — CSF leak is the signature complication.** **Obliterate the mastoid/petrous defect and eustachian tube–facing air cells with autologous fat**, achieve a **watertight (grafted) dural closure**, and buttress with a **vascularized pericranial/temporalis flap.** Replace bone; lumbar drain managed per leak risk.
 
 ---
-
 
 ### Further operative anatomy & technique
 
@@ -229,6 +216,16 @@ The right answer is often not "maximum petrosectomy." Escalate only when the les
 ## Cross-links
 - Pathology: [petroclival-meningioma.md](../cranial-tumor/petroclival-meningioma.md) · [clival-chordoma.md](../cranial-tumor/clival-chordoma.md) · [vestibular-schwannoma.md](../cranial-tumor/vestibular-schwannoma.md)
 - Related corridors: [subtemporal-craniotomy.md](subtemporal-craniotomy.md) (anterior petrosectomy/Kawase) · [retrosigmoid-craniotomy.md](retrosigmoid-craniotomy.md) · [far-lateral-craniotomy.md](far-lateral-craniotomy.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapter:** [Extended Posterior Petrosectomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/extended-posterior-petrosectomy)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

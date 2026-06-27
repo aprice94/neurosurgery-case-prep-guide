@@ -10,7 +10,6 @@ tags:
 
 # Operative Approach: Supraorbital "Eyebrow" Keyhole Craniotomy
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -23,20 +22,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapters & video:** [Supraorbital Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/supraorbital-craniotomy) · [Fronto-orbital Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/frontoorbital-craniotomy) · [Supraorbital Eyebrow Craniotomy for an AComA Aneurysm (case)](https://www.neurosurgicalatlas.com/cases/supraorbital-eye-brow-craniotomy-for-an-a-comm-aneurysm)
-
-The supraorbital keyhole ("eyebrow") craniotomy is the **minimally invasive subfrontal corridor** to the anterior skull base — a ~2.5 cm frontal craniotomy at the superior orbital rim, hidden in an **eyebrow incision**, giving a conical, retractor-light view of the **subfrontal/suprasellar region, optic apparatus, AComA complex, lamina terminalis, olfactory groove, tuberculum/planum, and selected ICA/MCA targets.** It is the practical embodiment of Perneczky's **keyhole concept**: a small bony window, CSF release so the brain falls away, and a working cone that *widens with depth* — frequently combined with endoscopic assistance.
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=tuberculum+sellae+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — Supraorbital](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/supraorbital-craniotomy) · [Radiopaedia — tuberculum sellae meningioma](https://radiopaedia.org/search?q=tuberculum%20sellae%20meningioma&scope=all) · [PubMed Central — supraorbital keyhole](https://www.ncbi.nlm.nih.gov/pmc/?term=supraorbital+keyhole+eyebrow+craniotomy)
-
 
 ---
 
@@ -56,8 +46,6 @@ The supraorbital keyhole ("eyebrow") craniotomy is the **minimally invasive subf
 - **The Supraorbital Keyhole Approach** — Tatarli N. The Journal of craniofacial surgery 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26114521/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -97,6 +85,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 <!-- END CURATED IMAGE SET -->
 
+The supraorbital keyhole ("eyebrow") craniotomy is the **minimally invasive subfrontal corridor** to the anterior skull base — a ~2.5 cm frontal craniotomy at the superior orbital rim, hidden in an **eyebrow incision**, giving a conical, retractor-light view of the **subfrontal/suprasellar region, optic apparatus, AComA complex, lamina terminalis, olfactory groove, tuberculum/planum, and selected ICA/MCA targets.** It is the practical embodiment of Perneczky's **keyhole concept**: a small bony window, CSF release so the brain falls away, and a working cone that *widens with depth* — frequently combined with endoscopic assistance.
+
 ---
 
 ## General Considerations
@@ -134,7 +124,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Counsel: forehead/eyelid numbness, transient periorbital edema, cosmesis, and possible conversion to a larger craniotomy.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
 - **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
 - **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
 - **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
@@ -176,7 +165,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 *Wang et al., Front Surg 2022;9:971063 — CC BY 4.0. The optic nerve is displaced by tumor (A,C) and decompressed after resection (B,D).*
 
-
 ---
 
 ## Closure
@@ -201,6 +189,16 @@ CSF rhinorrhea / frontal-sinus mucocele; **supraorbital hypesthesia, frontalis (
 ## Cross-links
 - Related corridors: [pterional-craniotomy.md](pterional-craniotomy.md) · [orbitozygomatic-craniotomy.md](orbitozygomatic-craniotomy.md) · [endoscopic-endonasal-approach.md](endoscopic-endonasal-approach.md)
 - Pathology: [acomm-aneurysm-clipping.md](../cranial-vascular/acomm-aneurysm-clipping.md) · [tuberculum-sellae-meningioma.md](../cranial-tumor/tuberculum-sellae-meningioma.md) · [olfactory-groove-meningioma.md](../cranial-tumor/olfactory-groove-meningioma.md) · [craniopharyngioma.md](../cranial-tumor/craniopharyngioma.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapters & video:** [Supraorbital Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/supraorbital-craniotomy) · [Fronto-orbital Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/frontoorbital-craniotomy) · [Supraorbital Eyebrow Craniotomy for an AComA Aneurysm (case)](https://www.neurosurgicalatlas.com/cases/supraorbital-eye-brow-craniotomy-for-an-a-comm-aneurysm)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

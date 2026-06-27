@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Tuberculum Sellae Meningioma Resection
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -46,35 +43,7 @@ tags:
 - **Imaging:** [Radiopaedia — tuberculum sellae meningioma](https://radiopaedia.org/search?q=tuberculum%20sellae%20meningioma&scope=all)
 - **Open-access figures:** [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=tuberculum+sellae+meningioma)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Tuberculum Sellae Meningioma Resection**:
-
-1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
-2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
-3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
-4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
-5. What complication would you check for first in PACU based on this lesion location?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Extent-of-resection goal and functional stopping points:** [attending-specific]
-- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
-- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
-- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -92,8 +61,6 @@ Items that commonly vary by surgeon or institution:
 - **Microsurgical Resection of Tuberculum Sellae Meningioma through Pterional Approach with Extradural Optic Canal Unroofing** — Matsuo S. Journal of neurological surgery. Part B, Skull base 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36068909/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -172,7 +139,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU or step-down for sellar/parasellar/skull-base tumors; floor pathway only for small uncomplicated pituitary cases by protocol.
 - **OR setup:** navigation, endoscope/microscope as approach requires, ENT co-surgeon for endonasal cases, Doppler, lumbar drain only when indicated, reconstruction materials, and visual/endocrine baseline available.
 - **Special needs:** steroid strategy individualized (Cushing workup may require avoiding preop steroids), DI/sodium protocol, AM cortisol/endocrine labs, visual-check plan, arterial line for large/vascular cases, and CSF-leak/nasal precautions.
 - **Immediate postop orders:** neuro and visual checks, strict I/O with sodium/urine specific gravity schedule when pituitary stalk risk exists, cortisol/endocrine replacement plan, nasal precautions, MRI/CT timing, steroid taper, and DVT prophylaxis timing.
@@ -250,3 +216,30 @@ Closure was completed and the patient transferred to the ICU with serial visual 
 - Endonasal: DI/Na monitoring, CSF leak precautions, AM cortisol
 - MRI postop, ophthalmology and endocrine follow-up
 - Steroid taper, DVT prophylaxis
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Tuberculum Sellae Meningioma Resection**:
+
+1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
+2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
+3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
+4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
+5. What complication would you check for first in PACU based on this lesion location?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Extent-of-resection goal and functional stopping points:** [attending-specific]
+- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
+- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
+- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

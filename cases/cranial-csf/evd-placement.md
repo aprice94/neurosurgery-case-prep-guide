@@ -11,9 +11,6 @@ tags:
 
 # Case Prep: External Ventricular Drain (EVD) Placement
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -38,35 +35,7 @@ tags:
 - **Imaging review:** [Radiopaedia — EVD](https://radiopaedia.org/search?q=external%20ventricular%20drain&scope=all) · [Radiopaedia — hydrocephalus](https://radiopaedia.org/search?q=hydrocephalus&scope=all)
 - **Open-access anatomy/technique:** [PubMed Central — EVD Kocher point](https://www.ncbi.nlm.nih.gov/pmc/?term=external+ventricular+drain+Kocher+point+ventriculostomy)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **External Ventricular Drain (EVD) Placement**:
-
-1. What is the working CSF physiology problem: obstruction, absorption failure, overdrainage, infection, or catheter failure?
-2. Where exactly is the entry point, target, and backup trajectory?
-3. What valve, catheter, endoscope, or navigation preference does the attending use?
-4. What is the infection-prevention plan and what cultures/CSF studies are needed?
-5. What postop imaging, valve setting, drainage level, and neuro-check plan should be written?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Valve brand/setting, antibiotic catheter use, and tunneling side:** [attending-specific]
-- **Navigation/endoscope/stylet preference and ventricular target:** [attending-specific]
-- **CSF culture/lab routine and perioperative antibiotic duration:** [attending-specific]
-- **Postop scan timing, EVD height or valve verification, and activity restrictions:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -84,8 +53,6 @@ Items that commonly vary by surgeon or institution:
 - **Management of external ventricular drain: to wean or not to wean?** — Hallenberger TJ. Acta neurochirurgica 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38954061/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -168,7 +135,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU; EVDs require continuous nursing familiarity with leveling, drainage, ICP waveform, and emergency clamp/troubleshooting.
 - **OR setup:** bedside sterile kit or OR setup, navigation/ultrasound when anatomy is distorted, antibiotic-impregnated catheter when used, pressure transducer/drain system primed, and CT path ready.
 - **Special needs:** coagulation/platelets corrected, antibiotics before incision, ICP/CPP goals, EVD height and drain/clamp order written explicitly, CSF culture plan if infection suspected, and sedation/airway plan for unstable patients.
 - **Immediate postop orders:** ICU neuro/ICP checks, EVD level and hourly output/ICP documentation, CT head confirmation, CSF sampling rules, antibiotics per protocol, clamp-call parameters, and DVT timing.
@@ -319,3 +285,30 @@ The catheter was tunneled subcutaneously [5 cm] from the burr hole and secured a
 - **Removal:** When clamp trial successful for 24-48h
   - Remove at bedside: Pull catheter, purse-string suture on skin, pressure dressing
   - CT head after removal
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **External Ventricular Drain (EVD) Placement**:
+
+1. What is the working CSF physiology problem: obstruction, absorption failure, overdrainage, infection, or catheter failure?
+2. Where exactly is the entry point, target, and backup trajectory?
+3. What valve, catheter, endoscope, or navigation preference does the attending use?
+4. What is the infection-prevention plan and what cultures/CSF studies are needed?
+5. What postop imaging, valve setting, drainage level, and neuro-check plan should be written?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Valve brand/setting, antibiotic catheter use, and tunneling side:** [attending-specific]
+- **Navigation/endoscope/stylet preference and ventricular target:** [attending-specific]
+- **CSF culture/lab routine and perioperative antibiotic duration:** [attending-specific]
+- **Postop scan timing, EVD height or valve verification, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

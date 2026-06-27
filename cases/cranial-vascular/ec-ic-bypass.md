@@ -11,9 +11,6 @@ tags:
 
 # Case Prep: EC-IC Bypass (STA-MCA)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -49,37 +46,7 @@ tags:
 **Open-access figures**
 - [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=STA-MCA+bypass)
 
-
-
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **EC-IC Bypass (STA-MCA)**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -97,8 +64,6 @@ Items that commonly vary by surgeon or institution:
 - **Early Post-operative CT-Angiography Imaging After EC-IC Bypass Surgery in Moyamoya Patients** — Hurth H. Frontiers in neurology 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33868157/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -182,7 +147,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU with graft-patency and perfusion monitoring.
 - **OR setup:** microscope, microvascular instruments, Doppler/ICG, recipient/donor mapping, heparinized irrigation, temporary clips, and bypass rescue supplies.
 - **Special needs:** arterial line, avoid hypotension, antiplatelet plan, donor-limb/STA protection, blood availability, and intraoperative flow confirmation.
 - **Immediate postop orders:** ICU neuro checks, BP range that protects graft and avoids hyperperfusion, aspirin/antiplatelet orders, CTA/DSA/perfusion imaging timing, wound/donor-site checks, and graft Doppler checks when used.
@@ -266,3 +230,30 @@ The bone flap was contoured to avoid graft compression, the dura closed loosely 
 - Graft patency check (CTA/DSA or Doppler) per protocol
 - Monitor for hyperperfusion (headache, seizure, deficit)
 - Follow-up DSA at intervals; assess revascularization
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **EC-IC Bypass (STA-MCA)**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

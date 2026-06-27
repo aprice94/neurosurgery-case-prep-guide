@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Anterior Cervical Discectomy and Fusion (ACDF)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -42,37 +39,9 @@ More operative video: [YouTube ▸](https://www.youtube.com/results?search_query
 
 > 🧭 **Operative approach:** [Anterior cervical (Smith-Robinson) approach](../approaches/anterior-cervical-approach.md) — detailed corridor setup, step-by-step technique & figures
 
-[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Surgery Reference](https://surgeryreference.aofoundation.org) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20disc%20herniation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+cervical+discectomy+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
-
+[Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [AO Spine / Surgery Reference](https://www.aofoundation.org/spine) · [Radiopaedia](https://radiopaedia.org/search?q=cervical%20disc%20herniation&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+cervical+discectomy+fusion) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Anterior Cervical Discectomy and Fusion (ACDF)**:
-
-1. What neurologic level and root are responsible for the presenting deficit?
-2. What is the decompression target and how will you know it is adequately decompressed?
-3. What instability, deformity, bone-quality, or fusion variable changes the construct?
-4. What vascular, visceral, dural, or neural structure is the main structure at risk?
-5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
-- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
-- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
-- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -90,8 +59,6 @@ Items that commonly vary by surgeon or institution:
 - **Anterior Cervical Discectomy and Fusion combined with thyroid gland surgery, a tailored case and literature review** — Themistoklis KM. BMC musculoskeletal disorders 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31881874/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -252,7 +219,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** outpatient/PACU for selected decompressions; floor or step-down for fusion, cervical myelopathy, thoracic disease, medical frailty, high EBL, or airway risk.
+- **OR table/bed:** standard supine radiolucent OR table, often reversed for C-arm access; tape shoulders caudally for lower-cervical lateral fluoroscopy.
 - **OR setup:** radiolucent/Jackson table, fluoroscopy or O-arm/navigation, microscope/loupes for decompression, implant trays/graft ready for fusion, neuromonitoring for myelopathy/cord-risk cases, and postop brace plan confirmed.
 - **Special needs:** arterial line/Foley/type-screen for long fusion/corpectomy, no long paralytic when MEPs are used, MAP/normotension for myelopathy or cord-risk cases, antibiotic redosing, and anticoagulation/DVT plan.
 - **Immediate postop orders:** neuro checks by myotome/sensory level, airway/dysphagia watch for anterior cervical cases, CT/X-rays per construct, drain care, brace/activity orders, DVT prophylaxis timing, bowel regimen, and PT/OT mobilization.
@@ -270,6 +237,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Adjacent segment consideration:** Avoid unnecessary levels to preserve remaining motion
 
 ### Position
+- **OR table/bed:** standard supine radiolucent OR table, often reversed for C-arm access; tape shoulders caudally for lower-cervical lateral fluoroscopy.
 - **Patient position:** Supine
 - **Head position:** Slight extension (improves lordosis and surgical angle). Neutral rotation. NO excessive extension (can worsen myelopathy intraoperatively)
 - **Head fixation:** Horseshoe headrest (routine) or Mayfield (if navigation or significant instability)
@@ -449,3 +417,30 @@ The anterior neck was prepped and draped in sterile fashion. The surgical level 
 - Driving: No driving in cervical collar; typically resume at 2-4 weeks
 - Follow-up: Clinic 2 weeks (wound check), 6 weeks (X-ray), 3 months (CT for fusion), 6 months, 1 year
 - Dysphagia: Expect mild-moderate; typically resolves in 1-4 weeks. If persistent > 6 weeks → ENT evaluation, modified barium swallow
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Anterior Cervical Discectomy and Fusion (ACDF)**:
+
+1. What neurologic level and root are responsible for the presenting deficit?
+2. What is the decompression target and how will you know it is adequately decompressed?
+3. What instability, deformity, bone-quality, or fusion variable changes the construct?
+4. What vascular, visceral, dural, or neural structure is the main structure at risk?
+5. What postop brace, drain, mobilization, MAP, antibiotic, and DVT plan should be ordered?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Positioning frame, arms, traction, and localization workflow:** [attending-specific]
+- **Navigation/robot/fluoro use, screw system, graft/biologic choice, and drain threshold:** [attending-specific]
+- **Neuromonitoring modality and MAP goal for myelopathy, deformity, or cord-risk cases:** [attending-specific]
+- **Brace, Foley, antibiotics, mobilization, and DVT prophylaxis timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

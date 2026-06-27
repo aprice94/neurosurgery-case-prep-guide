@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Stereo-EEG (SEEG) Depth Electrode Placement
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -34,37 +31,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereoelectroencephalography+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereoelectroencephalography&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=stereo+EEG+robot+implantation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Stereo-EEG (SEEG) Depth Electrode Placement**:
-
-1. What is the symptom target and what finding proves the correct neural structure is being treated?
-2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
-3. What medication adjustments or anesthesia constraints matter on the day of surgery?
-4. What complication would be subtle but important to detect in recovery?
-5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
-- **Medication hold/restart protocol and programming timeline:** [attending-specific]
-- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
-- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -82,8 +51,6 @@ Items that commonly vary by surgeon or institution:
 - **Analysis of DNA from brain tissue on stereo-EEG electrodes reveals mosaic epilepsy-related variants** — D'Gama AM. Brain communications 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40177531/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -156,7 +123,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** step-down or ICU overnight for lead/electrode hemorrhage checks; some centers use short-stay pathways for uncomplicated DBS/SEEG.
 - **OR setup:** stereotaxy/robot/navigation, O-arm or intraop CT as used, implant/electrode inventory verified, programmer/recording equipment, and MRI/CT merge reviewed with target coordinates.
 - **Special needs:** anticoagulation/antiplatelet hold plan, disease medications on/off plan, microelectrode recording or stimulation-testing plan, seizure precautions for SEEG, and device vendor/programmer availability.
 - **Immediate postop orders:** neuro checks, CT to exclude hemorrhage and confirm lead/electrode position, antibiotics per implant protocol, seizure monitoring for SEEG, medication/device programming plan, and hardware/wound precautions.
@@ -253,3 +219,30 @@ The patient was transferred to the epilepsy monitoring unit; AEDs were reduced p
 - Cortical stimulation mapping via electrodes (eloquent cortex, seizure provocation)
 - After monitoring: define epileptogenic zone → plan resection/ablation; **electrode explantation** (bedside or OR)
 - Epilepsy conference for surgical decision
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Stereo-EEG (SEEG) Depth Electrode Placement**:
+
+1. What is the symptom target and what finding proves the correct neural structure is being treated?
+2. What imaging, tractography, MER, stimulation, or mapping information changes the trajectory?
+3. What medication adjustments or anesthesia constraints matter on the day of surgery?
+4. What complication would be subtle but important to detect in recovery?
+5. What postop programming, imaging, seizure, swallow, or cranial-nerve plan is needed?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Awake/asleep technique, MER/stimulation thresholds, and imaging confirmation:** [attending-specific]
+- **Medication hold/restart protocol and programming timeline:** [attending-specific]
+- **Hardware brand, tunneling side, battery pocket, and antibiotic envelope preference:** [attending-specific]
+- **Postop CT/MRI timing and symptom-specific neuro checks:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

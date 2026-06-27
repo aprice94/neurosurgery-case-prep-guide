@@ -12,9 +12,6 @@ tags:
 
 # Case Prep: Vestibular Schwannoma (Acoustic Neuroma) Resection
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -44,7 +41,6 @@ More operative video: [YouTube ▸](https://www.youtube.com/results?search_query
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=vestibular%20schwannoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=vestibular+schwannoma+resection) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ![Vestibular schwannoma — MRI/CT fusion showing tumor, sigmoid sinus and labyrinth with lateral-safe-line classification](../../figures/cranial-tumor/vs-mri-ct-fusion-classification_fsurg-889402.jpg)
 
 *MRI/CT fusion: tumor (yellow), sigmoid sinus (blue), labyrinth (green); lateral vs medial type relative to the lateral safe line. Source: Jia et al., Front Surg 2022;9:889402, Fig 1. CC BY 4.0.*
@@ -54,33 +50,6 @@ More operative video: [YouTube ▸](https://www.youtube.com/results?search_query
 *Microscopic view of the intrameatal tumor (blue) / IAC fundus (green) interface, with postop imaging confirming complete resection and intact labyrinth. Source: Jia et al., Front Surg 2022;9:889402, Fig 3. CC BY 4.0.*
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Vestibular Schwannoma (Acoustic Neuroma) Resection**:
-
-1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
-2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
-3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
-4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
-5. What complication would you check for first in PACU based on this lesion location?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Extent-of-resection goal and functional stopping points:** [attending-specific]
-- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
-- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
-- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -98,8 +67,6 @@ Items that commonly vary by surgeon or institution:
 - **Vestibular schwannoma unveiled by pregnancy: A case report and literature review** — Kadir V. European journal of obstetrics, gynecology, and reproductive biology 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38852318/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -222,7 +189,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** neuro ICU for posterior fossa/skull base/pineal cases because hydrocephalus, airway, lower-CN, and hemorrhage changes can be abrupt.
 - **OR setup:** Mayfield, navigation, microscope/endoscope, cranial nerve monitoring/BAER when relevant, EVD/CSF diversion plan, watertight closure and fat/fascia graft materials, and blood available for vascular tumors.
 - **Special needs:** arterial line, Foley, dexamethasone for edema, antiemetic plan, lower-CN airway/swallow contingency, EVD/ETV plan for hydrocephalus, and audiology/facial-nerve baseline when relevant.
 - **Immediate postop orders:** ICU neuro checks, CN/eye movement/facial/swallow/voice exams, HOB 30, CT for hemorrhage/hydrocephalus, MRI for EOR, CSF-leak/pseudomeningocele watch, dex taper, and early swallow/ENT consult when lower CN risk exists.
@@ -234,7 +200,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 | **Retrosigmoid** | Possible | Good (posterior view) | Medium tumors, hearing preservation attempt |
 | **Translabyrinthine** | No (destroys labyrinth) | Excellent (early ID) | Large tumors, non-serviceable hearing |
 | **Middle Fossa** | Best chance | Adequate | Small intracanalicular, serviceable hearing |
-
 
 - **Middle fossa:** Koos I, serviceable hearing, tumor < 1.5 cm
 - **Retrosigmoid:** Koos II-III, serviceable hearing, tumor with CPA component
@@ -355,3 +320,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - If subtotal resection: Plan for surveillance MRI and possible Gamma Knife for residual
 - Follow-up: 2-4 weeks clinic; serial MRI; audiometry annually
 - NF2 patients: Genetics, screening for other tumors (meningiomas, spinal tumors)
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Vestibular Schwannoma (Acoustic Neuroma) Resection**:
+
+1. What is the surgical goal: gross-total, maximal safe, decompression, diagnosis, or cytoreduction?
+2. What eloquent cortex, tract, cranial nerve, vessel, or sinus defines the stopping point?
+3. What adjunct changes the case: navigation, mapping, 5-ALA, ultrasound, endoscope, ICG, or neuromonitoring?
+4. What is the edema, steroid, seizure, DVT, and postop imaging plan?
+5. What complication would you check for first in PACU based on this lesion location?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Extent-of-resection goal and functional stopping points:** [attending-specific]
+- **Mapping/monitoring, 5-ALA, ultrasound, ICG, endoscope, or tractography preferences:** [attending-specific]
+- **Steroid, antiepileptic, mannitol/hypertonic saline, and antibiotic plan:** [attending-specific]
+- **Postop MRI timing, ICU/floor threshold, and adjuvant-referral workflow:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

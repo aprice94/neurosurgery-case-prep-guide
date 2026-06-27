@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Spinal Cord Cavernous Malformation Resection
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -37,35 +34,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=spinal%20cord%20cavernoma&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=intramedullary+spinal+cavernous+malformation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Spinal Cord Cavernous Malformation Resection**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -83,8 +52,6 @@ Items that commonly vary by surgeon or institution:
 - **Microsurgical resection of symptomatic intramedullary cervical spinal cord cavernous malformation** — Dziedzic TA. Neurosurgical focus: Video 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36285059/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -162,7 +129,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU after spinal vascular surgery or embolization, with cord-perfusion and hematoma surveillance.
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - **OR setup:** microscope, neuromonitoring, spinal angiography/DSA images loaded, ICG/Doppler, clips/coagulation tools, laminectomy/instrumentation backup, and blood available for vascular lesions.
 - **Special needs:** arterial line, Foley, MAP support for cord perfusion, no long paralytic with MEPs, CSF drainage plan only when indicated, and coordination with endovascular/staged treatment.
 - **Immediate postop orders:** ICU neuro checks with motor/sensory/sphincter focus, MAP target, MRI/angiography confirmation plan, drain/hematoma watch, steroid/pain regimen, DVT timing, and rehab planning.
@@ -185,6 +152,7 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 The central decision is not "cavernoma equals surgery." It is whether the natural-history risk now exceeds the morbidity of entering that specific spinal cord surface.
 
 ### Position
+- **OR table/bed:** radiolucent spine-capable table selected for approach, imaging, instrumentation, patient size, and alignment goals; keep abdomen free for prone cases.
 - Prone, Mayfield/foam, IONM baseline (MEP, SSEP, D-wave); per level
 
 ### Key Surgical Steps
@@ -270,3 +238,30 @@ Closure was completed in layers. The patient was transferred with MAP support an
 - MRI postop (complete resection), expect possible transient dorsal column dysfunction
 - Rehab/PT-OT, DVT prophylaxis (mechanical)
 - Familial: genetics, screen neuraxis/brain for other cavernomas; follow-up MRI
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Spinal Cord Cavernous Malformation Resection**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

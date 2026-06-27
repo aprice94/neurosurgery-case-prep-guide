@@ -10,9 +10,6 @@ tags:
 
 # Case Prep: Endovascular Aneurysm Treatment (Coiling / Stent-Assisted / Flow Diversion)
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -36,35 +33,7 @@ tags:
 
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [neuroangio.org](https://neuroangio.org) · [Radiopaedia](https://radiopaedia.org/search?q=cerebral%20aneurysm%20coiling&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=endovascular+coiling+flow+diversion+aneurysm) — figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
-
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Endovascular Aneurysm Treatment (Coiling / Stent-Assisted / Flow Diversion)**:
-
-1. What is the proximal-control plan before the lesion is manipulated?
-2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
-3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
-4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
-5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
-- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
-- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
-- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -82,8 +51,6 @@ Items that commonly vary by surgeon or institution:
 - **Best Practice Guidelines: Imaging Surveillance After Endovascular Aneurysm Repair** — Smith T. AJR. American journal of roentgenology 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32130043/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -163,7 +130,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** ICU or step-down after intracranial intervention or carotid stenting; elective low-risk diagnostic-style cases may use monitored PACU pathways.
 - **OR setup:** biplane angio suite, radial/femoral access, full heparinization/reversal plan, stents/coils/liquid embolic or flow-diverter inventory, closure device, and bailout balloon/stent/aspiration tools.
 - **Special needs:** antiplatelet status verified for stents/flow diverters, BP targets for rupture/ischemia/hyperperfusion risk, contrast/renal/allergy plan, ACT monitoring, and external ventricular drain/SAH pathway if ruptured.
 - **Immediate postop orders:** neuro checks, access-site/pulse checks, BP parameters, antiplatelet/anticoagulation continuation, postop CT if neurologic change or rupture, flat time per closure, and follow-up vascular imaging plan.
@@ -238,3 +204,30 @@ The patient was transferred to the NSICU; [dual antiplatelet continued for the s
 - SAH care if ruptured (nimodipine, vasospasm TCDs, Na, EVD if hydrocephalus)
 - Hydration (contrast nephropathy), groin/access monitoring
 - **Follow-up angiography (DSA/MRA)** for occlusion durability/recanalization (e.g., 6 months, then surveillance); flow diverters image later (delayed occlusion)
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Endovascular Aneurysm Treatment (Coiling / Stent-Assisted / Flow Diversion)**:
+
+1. What is the proximal-control plan before the lesion is manipulated?
+2. Which branch, perforator, or venous structure is most likely to be injured in this exposure?
+3. What are the intraoperative rupture steps, including temporary clip, suction, BP, and backup clip strategy?
+4. What confirms treatment success: ICG, Doppler, puncture/deflation, DSA, or postoperative CTA?
+5. What postoperative BP, vasospasm, antiplatelet, or anticoagulation issue changes the orders tonight?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Preferred approach side, sylvian split style, and cisternal-opening sequence:** [attending-specific]
+- **Temporary clip threshold, burst-suppression preference, and BP during occlusion:** [attending-specific]
+- **Clip manufacturer/shape sequence and whether Doppler, ICG, puncture, or intraop DSA is routine:** [attending-specific]
+- **Antiplatelet/anticoagulation reversal and restart timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

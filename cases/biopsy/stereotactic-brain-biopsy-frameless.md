@@ -9,9 +9,6 @@ tags:
 
 # Case Prep: Frameless (Navigation-Based) Stereotactic Brain Biopsy
 
----
-
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -33,37 +30,9 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereotactic+brain+biopsy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
-
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereotactic%20brain%20biopsy&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=frameless+navigation+brain+biopsy) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN COMMON PIMP QUESTIONS -->
-
-## Common Pimp Questions
-
-Use these to pressure-test preparation for **Frameless (Navigation-Based) Stereotactic Brain Biopsy**:
-
-1. What target coordinate, trajectory, and no-fly-zone were chosen?
-2. What imaging confirms target accuracy and avoids vessel/ventricle/sulcus violation?
-3. What specimen, pathology, culture, or molecular study must be obtained?
-4. What hemorrhage, edema, seizure, or thermal-injury sign must be watched for tonight?
-5. What postop scan timing and steroid/antiepileptic plan is appropriate?
-
-<!-- END COMMON PIMP QUESTIONS -->
-
-<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
-
-## Attending Preference Variables
-
-Items that commonly vary by surgeon or institution:
-
-- **Frame versus frameless/robot platform and planning software:** [attending-specific]
-- **Trajectory constraints, number of cores/targets, and frozen/permanent pathology plan:** [attending-specific]
-- **Steroid/antiepileptic prophylaxis and postop scan timing:** [attending-specific]
-- **Admit versus discharge threshold and neuro-check frequency:** [attending-specific]
-
-<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -81,8 +50,6 @@ Items that commonly vary by surgeon or institution:
 - **[Automated proton magnetic resonance spectroscopy imaging guided frameless stereotactic biopsy of intracranial lesions]** — Zhu W. Zhonghua wai ke za zhi [Chinese journal of surgery] 2014. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24924574/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -165,7 +132,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Surgical Planning
 
 ### Case Logistics, OR Needs & Orders
-- **Typical bed:** PACU to step-down/ICU observation for stereotactic biopsy; floor or same-day pathway only for low-risk superficial/open cases per institutional protocol.
 - **OR setup:** frame/robot/navigation system registered and independently checked, biopsy needle and specimen cups/media ready, frozen/smear pathology available, trajectory images displayed, and immediate CT access planned.
 - **Special needs:** coagulopathy/antiplatelet correction, steroids held when lymphoma is suspected and clinically safe, seizure prophylaxis by lesion/location, BP control, and specimen handling for flow cytometry, cultures, and molecular testing.
 - **Immediate postop orders:** neuro checks, CT head to exclude hemorrhage, BP parameters, dexamethasone only if clinically indicated, antiepileptic plan, pathology follow-up, and escalation plan for tract hemorrhage or nondiagnostic result.
@@ -250,3 +216,30 @@ A **postoperative CT excluded hemorrhage.** The patient was transferred to the f
 - Pathology (permanent/molecular; flow cytometry if lymphoma; cultures if infection)
 - Hold steroids if lymphoma pending (per team), resume meds per bleeding risk
 - Tumor board/management per diagnosis; follow-up
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Frameless (Navigation-Based) Stereotactic Brain Biopsy**:
+
+1. What target coordinate, trajectory, and no-fly-zone were chosen?
+2. What imaging confirms target accuracy and avoids vessel/ventricle/sulcus violation?
+3. What specimen, pathology, culture, or molecular study must be obtained?
+4. What hemorrhage, edema, seizure, or thermal-injury sign must be watched for tonight?
+5. What postop scan timing and steroid/antiepileptic plan is appropriate?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Frame versus frameless/robot platform and planning software:** [attending-specific]
+- **Trajectory constraints, number of cores/targets, and frozen/permanent pathology plan:** [attending-specific]
+- **Steroid/antiepileptic prophylaxis and postop scan timing:** [attending-specific]
+- **Admit versus discharge threshold and neuro-check frequency:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->

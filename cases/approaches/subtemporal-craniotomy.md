@@ -11,7 +11,6 @@ tags:
 
 # Operative Approach: Subtemporal Craniotomy (± Zygomatic Osteotomy / Anterior Petrosectomy)
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -24,20 +23,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapter:** [Temporal / Subtemporal Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy)
-
-The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the tentorial incisura, lateral midbrain, and upper posterior fossa.** By elevating the temporal lobe off the middle-fossa floor, the surgeon looks **medially across the incisura** to the crural/ambient/interpeduncular cisterns — reaching the **basilar trunk and apex, SCA/PCA, P1–P2, CN III and IV, the posterior cavernous sinus, and Meckel's cave.** Adding a **zygomatic osteotomy** drops the temporalis and reduces temporal-lobe retraction; adding an **anterior petrosectomy (Kawase)** extends the reach to the **petroclival junction, upper clivus, and ventral pons.**
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=petroclival+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — Subtemporal](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy) · [Radiopaedia — petroclival](https://radiopaedia.org/search?q=petroclival&scope=all) · [PubMed Central — subtemporal / Kawase](https://www.ncbi.nlm.nih.gov/pmc/?term=anterior+petrosectomy+kawase+approach)
-
 
 ---
 
@@ -57,8 +47,6 @@ The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the t
 - **The oculomotor-tentorial triangle. Part 1: microsurgical anatomy and techniques to enhance exposure** — Tayebi Meybodi A. Journal of neurosurgery 2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29957111/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -98,6 +86,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 <!-- END CURATED IMAGE SET -->
 
+The subtemporal craniotomy is the **inferolateral middle-fossa corridor to the tentorial incisura, lateral midbrain, and upper posterior fossa.** By elevating the temporal lobe off the middle-fossa floor, the surgeon looks **medially across the incisura** to the crural/ambient/interpeduncular cisterns — reaching the **basilar trunk and apex, SCA/PCA, P1–P2, CN III and IV, the posterior cavernous sinus, and Meckel's cave.** Adding a **zygomatic osteotomy** drops the temporalis and reduces temporal-lobe retraction; adding an **anterior petrosectomy (Kawase)** extends the reach to the **petroclival junction, upper clivus, and ventral pons.**
+
 ---
 
 ## General Considerations
@@ -136,7 +126,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Audiometry/facial baseline if petrous drilling is planned. Dominant-hemisphere considerations for retraction.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
 - **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
 - **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
 - **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
@@ -178,7 +167,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 3. Open the incisural cisterns sharply: the **crural and ambient cisterns** (P2/PCA, SCA, basal vein), and the **interpeduncular cistern** (basilar apex, P1, perforators, CN III). Proceed to lesion-specific steps (basilar apex clipping, petroclival tumor via the petrosectomy window, Meckel's cave/trigeminal schwannoma).
 4. **Anterior petrosectomy completed:** with the rhomboid drilled and the superior petrosal sinus/tentorium divided, the **ventral pons and mid-upper clivus** come into view for petroclival lesions.
 
-
 ---
 
 ## Closure
@@ -186,7 +174,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Replace the bone flap and **re-plate the zygomatic arch** anatomically if osteotomized. Reattach temporalis to limit hollowing/trismus. Lumbar drain managed per leak risk.
 
 ---
-
 
 ### Further operative anatomy & technique
 
@@ -215,6 +202,16 @@ Temporal-lobe contusion / **venous infarction (vein of Labbé) and aphasia**; CN
 ## Cross-links
 - Related corridors: [orbitozygomatic-craniotomy.md](orbitozygomatic-craniotomy.md) · [presigmoid-petrosal-approach.md](presigmoid-petrosal-approach.md) · [pterional-craniotomy.md](pterional-craniotomy.md)
 - Pathology: [basilar-tip-aneurysm.md](../cranial-vascular/basilar-tip-aneurysm.md) · [petroclival-meningioma.md](../cranial-tumor/petroclival-meningioma.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapter:** [Temporal / Subtemporal Craniotomy — Neurosurgical Atlas](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/temporal-subtemporal-craniotomy)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

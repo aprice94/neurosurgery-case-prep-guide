@@ -12,7 +12,6 @@ tags:
 
 # Operative Approach: Far-Lateral (Transcondylar) Craniotomy
 
-
 <!-- BEGIN CASE SNAPSHOT -->
 
 ## Case / Approach Snapshot
@@ -25,20 +24,11 @@ tags:
 
 <!-- END CASE SNAPSHOT -->
 
-> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
->
-> **Atlas chapters & neuroanatomy:** [Far-Lateral Suboccipital (Transcondylar) Approach](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach) · [Far-Lateral & Transcondylar Approaches (Neuroanatomy)](https://www.neurosurgicalatlas.com/neuroanatomy/far-lateral-and-transcondylar-approaches) · [Far-Lateral Approach & Extensions](https://www.neurosurgicalatlas.com/volumes/operative-neuroanatomy/infratentorial-operative-anatomy/far-lateral-approach-and-extensions)
-
-The far-lateral craniotomy is the **posterolateral corridor to the ventral and ventrolateral craniocervical junction** — the anterior foramen magnum, lower clivus, ventral medulla, and the lower cranial nerves (IX–XII), the distal vertebral artery (VA), the vertebrobasilar junction, and PICA. By removing the **lateral rim of the foramen magnum, the posterior arch of C1, and (when needed) the posterior third of the occipital condyle**, the surgeon looks *along the ventral surface of the medulla* — reaching lesions in front of the brainstem **without any brainstem retraction.**
-
----
-
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=foramen+magnum+meningioma+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
 [Neurosurgical Atlas — Transcondylar](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach) · [Rhoton CCJ anatomy (PMC)](https://www.ncbi.nlm.nih.gov/pmc/?term=rhoton+far+lateral+transcondylar+anatomy) · [Radiopaedia — foramen magnum](https://radiopaedia.org/search?q=foramen%20magnum%20meningioma&scope=all) · [PubMed Central — far lateral](https://www.ncbi.nlm.nih.gov/pmc/?term=far+lateral+transcondylar+approach)
-
 
 ---
 
@@ -58,8 +48,6 @@ The far-lateral craniotomy is the **posterolateral corridor to the ventral and v
 - **A modified far-lateral approach for large or giant meningiomas of the posterior fossa** — Sanai N. Journal of neurosurgery 2010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19877805/)
 
 <!-- END CURATED LITERATURE -->
-
----
 
 <!-- BEGIN CURATED IMAGE SET -->
 
@@ -99,6 +87,8 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 <!-- END CURATED IMAGE SET -->
 
+The far-lateral craniotomy is the **posterolateral corridor to the ventral and ventrolateral craniocervical junction** — the anterior foramen magnum, lower clivus, ventral medulla, and the lower cranial nerves (IX–XII), the distal vertebral artery (VA), the vertebrobasilar junction, and PICA. By removing the **lateral rim of the foramen magnum, the posterior arch of C1, and (when needed) the posterior third of the occipital condyle**, the surgeon looks *along the ventral surface of the medulla* — reaching lesions in front of the brainstem **without any brainstem retraction.**
+
 ---
 
 ## General Considerations
@@ -133,7 +123,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Plan condyle-resection extent preoperatively; counsel about possible **occipitocervical fusion** and lower-CN deficits.
 
 ## Logistics, OR Setup & Orders
-- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
 - **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
 - **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
 - **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
@@ -168,7 +157,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Lateral suboccipital craniotomy/craniectomy** carried laterally to the **sigmoid sinus** and inferiorly to the **foramen magnum**; **remove the lateral rim of the foramen magnum** (the key maneuver of the basic far-lateral).
 2. **C1 hemilaminectomy** out to the VA sulcus / transverse foramen (protect V3). Wax the abundant venous bleeding.
 
-
 ### Condyle / jugular tubercle (extensions as needed)
 3. **Transcondylar:** drill the **posterior third of the occipital condyle** to flatten the ventral trajectory; the **hypoglossal canal is the anteromedial stop** (identify it; the emissary/condylar veins herald it). Tailor the extent to the lesion — only remove what the trajectory requires.
 4. **Supracondylar (jugular tubercle) / paracondylar** drilling added for ventral clival or jugular-foramen reach.
@@ -194,7 +182,6 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Reapproximate the **suboccipital muscles in layers to the superior cuff** (second defense against CSF leak/pseudomeningocele). Layered closure.
 
 ---
-
 
 ### Further operative anatomy & technique
 
@@ -226,6 +213,16 @@ VA injury / occlusion (medullary/cerebellar infarct); lower-CN palsies (IX–XII
 ## Cross-links
 - Related corridors: [retrosigmoid-craniotomy.md](retrosigmoid-craniotomy.md) · [midline-suboccipital-craniotomy.md](midline-suboccipital-craniotomy.md) · [presigmoid-petrosal-approach.md](presigmoid-petrosal-approach.md)
 - Pathology: [foramen-magnum-meningioma-far-lateral.md](../cranial-tumor/foramen-magnum-meningioma-far-lateral.md) · [jugular-foramen-tumor.md](../cranial-tumor/jugular-foramen-tumor.md) · [clival-chordoma.md](../cranial-tumor/clival-chordoma.md) · [occipitocervical-fusion.md](../spine-trauma/occipitocervical-fusion.md)
+
+<!-- BEGIN FIGURE USE ATTRIBUTION -->
+
+## Figure Use & Attribution
+
+> **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access cadaveric anatomy), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
+>
+> **Atlas chapters & neuroanatomy:** [Far-Lateral Suboccipital (Transcondylar) Approach](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/skull-base-exposures/transcondylar-approach) · [Far-Lateral & Transcondylar Approaches (Neuroanatomy)](https://www.neurosurgicalatlas.com/neuroanatomy/far-lateral-and-transcondylar-approaches) · [Far-Lateral Approach & Extensions](https://www.neurosurgicalatlas.com/volumes/operative-neuroanatomy/infratentorial-operative-anatomy/far-lateral-approach-and-extensions)
+
+<!-- END FIGURE USE ATTRIBUTION -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
