@@ -11,9 +11,9 @@ tags:
 # Operative Approach: Presigmoid / Petrosal Approaches (Retrolabyrinthine · Translabyrinthine · Transcochlear · Combined Petrosal)
 
 
-<!-- BEGIN CASE DOSSIER -->
+<!-- BEGIN CASE SNAPSHOT -->
 
-## Case / Approach Dossier
+## Case / Approach Snapshot
 
 - **Anatomy at risk:** corridor-defining nerves, arteries, veins/sinuses, cisterns, bone landmarks, muscle/fascial planes, and closure structures that determine exposure and morbidity.
 - **Operative steps:** confirm position and trajectory, mark landmarks, protect soft tissue and named neurovascular structures, perform the bone/soft-tissue corridor, open/close dura or target compartment deliberately, and verify hemostasis/reconstruction; use the detailed operative sequence and approach notes below as the step-by-step source.
@@ -22,7 +22,7 @@ tags:
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
-<!-- END CASE DOSSIER -->
+<!-- END CASE SNAPSHOT -->
 
 > **About the figures.** Copyrighted operative figures/videos are **linked** (Neurosurgical Atlas, Rhoton); embedded images are **public-domain** (Gray's Anatomy) or **CC‑BY** (open-access), credited beneath each image. See [media-sources.md](../../resources/media-sources.md) and [figures/CREDITS.md](../../figures/CREDITS.md).
 >

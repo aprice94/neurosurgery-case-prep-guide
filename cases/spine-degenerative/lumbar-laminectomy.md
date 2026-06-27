@@ -14,9 +14,9 @@ tags:
 ---
 
 
-<!-- BEGIN CASE DOSSIER -->
+<!-- BEGIN CASE SNAPSHOT -->
 
-## Case / Approach Dossier
+## Case / Approach Snapshot
 
 - **Anatomy at risk:** level localization, cord/cauda equina, exiting and traversing roots, dura, vertebral artery or segmental vessels, esophagus/trachea/pleura/viscera by approach, and fusion/instrumentation landmarks.
 - **Operative steps:** position and pad carefully, confirm level, expose the planned corridor, decompress neural elements, reconstruct or instrument when indicated, verify alignment/hardware, and close with attention to hematoma and wound risk; use the detailed operative sequence and approach notes below as the step-by-step source.
@@ -25,7 +25,7 @@ tags:
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
-<!-- END CASE DOSSIER -->
+<!-- END CASE SNAPSHOT -->
 
 ## One-Liner
 [Age]yo [M/F] with [single/multilevel] lumbar spinal stenosis at [L_-L_] presenting with **neurogenic claudication** [± radiculopathy] planned for lumbar laminectomy/decompression [without fusion].

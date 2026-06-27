@@ -12,9 +12,9 @@ tags:
 ---
 
 
-<!-- BEGIN CASE DOSSIER -->
+<!-- BEGIN CASE SNAPSHOT -->
 
-## Case / Approach Dossier
+## Case / Approach Snapshot
 
 - **Anatomy at risk:** cord, roots, dura, posterior elements, segmental and radiculomedullary arteries, venous plexus, and level-specific bony landmarks.
 - **Operative steps:** localize the level, expose while preserving stability, obtain proximal/distal vascular control when relevant, decompress or disconnect/reconstruct the lesion, confirm flow/decompression, and close with CSF-leak prevention; use the detailed operative sequence and approach notes below as the step-by-step source.
@@ -23,7 +23,7 @@ tags:
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
-<!-- END CASE DOSSIER -->
+<!-- END CASE SNAPSHOT -->
 
 ## One-Liner
 [Age]yo [M/F] with a [cervical/thoracic] intramedullary spinal cord cavernous malformation presenting with [myelopathy / acute deficit from hemorrhage / sensory changes] planned for laminectomy and midline (or dorsal-presenting) myelotomy for microsurgical resection.

@@ -12,9 +12,9 @@ tags:
 ---
 
 
-<!-- BEGIN CASE DOSSIER -->
+<!-- BEGIN CASE SNAPSHOT -->
 
-## Case / Approach Dossier
+## Case / Approach Snapshot
 
 - **Anatomy at risk:** cord, roots, dura, epidural venous plexus, tumor vascular supply, vertebral body/posterior element involvement, and stabilization corridors.
 - **Operative steps:** define oncologic and neurologic goals, localize levels, decompress neural elements, obtain tissue or resect/debulk safely, reconstruct stability, and coordinate radiation/systemic therapy planning; use the detailed operative sequence and approach notes below as the step-by-step source.
@@ -23,7 +23,7 @@ tags:
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
-<!-- END CASE DOSSIER -->
+<!-- END CASE SNAPSHOT -->
 
 ## One-Liner
 [Age]yo [M/F] with a [cervical/thoracic] intramedullary spinal cord tumor ([ependymoma / astrocytoma / hemangioblastoma]) at [levels] presenting with [pain / sensory changes / weakness] planned for laminectomy/laminoplasty and midline myelotomy for microsurgical resection.

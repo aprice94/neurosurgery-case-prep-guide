@@ -12,9 +12,9 @@ tags:
 ---
 
 
-<!-- BEGIN CASE DOSSIER -->
+<!-- BEGIN CASE SNAPSHOT -->
 
-## Case / Approach Dossier
+## Case / Approach Snapshot
 
 - **Anatomy at risk:** the named neural, vascular, bony, CSF, and soft-tissue structures that determine the safe corridor and likely morbidity.
 - **Operative steps:** confirm indication and imaging, position and expose deliberately, complete the core surgical maneuver, verify the result, and close with a complication-prevention plan; use the detailed operative sequence and approach notes below as the step-by-step source.
@@ -23,7 +23,7 @@ tags:
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
-<!-- END CASE DOSSIER -->
+<!-- END CASE SNAPSHOT -->
 
 ## One-Liner
 [Age]yo [M/F] with severe [spasticity (cerebral palsy / MS / SCI / TBI / stroke) / refractory chronic pain] planned for intrathecal drug delivery (baclofen) pump implantation [after successful trial].

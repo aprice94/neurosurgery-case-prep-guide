@@ -12,9 +12,9 @@ tags:
 ---
 
 
-<!-- BEGIN CASE DOSSIER -->
+<!-- BEGIN CASE SNAPSHOT -->
 
-## Case / Approach Dossier
+## Case / Approach Snapshot
 
 - **Anatomy at risk:** cord/roots, pedicles, pelvic fixation corridors, osteotomy levels, segmental vessels, thoracic/abdominal structures, and sagittal/coronal balance landmarks.
 - **Operative steps:** confirm alignment goals, position and monitor, expose planned levels, place fixation, perform releases/osteotomies/decompression as needed, correct deformity gradually, verify hardware/alignment, and close dead space; use the detailed operative sequence and approach notes below as the step-by-step source.
@@ -23,7 +23,7 @@ tags:
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
-<!-- END CASE DOSSIER -->
+<!-- END CASE SNAPSHOT -->
 
 ## One-Liner
 [Age]yo [M/F] with [adult degenerative scoliosis / sagittal imbalance / fixed kyphotic deformity / flatback] planned for [long-segment fusion with Smith-Petersen osteotomy / pedicle subtraction osteotomy / vertebral column resection] for deformity correction.

@@ -19,9 +19,9 @@ IMG_BEGIN = "<!-- BEGIN CURATED IMAGE SET -->"
 IMG_END = "<!-- END CURATED IMAGE SET -->"
 XCHK_BEGIN = "<!-- BEGIN TEXTBOOK CROSS-CHECKS -->"
 XCHK_END = "<!-- END TEXTBOOK CROSS-CHECKS -->"
-DOSSIER_BEGIN = "<!-- BEGIN CASE DOSSIER -->"
-DOSSIER_END = "<!-- END CASE DOSSIER -->"
-DOSSIER_LABELS = (
+SNAPSHOT_BEGIN = "<!-- BEGIN CASE SNAPSHOT -->"
+SNAPSHOT_END = "<!-- END CASE SNAPSHOT -->"
+SNAPSHOT_LABELS = (
     "Anatomy at risk",
     "Operative steps",
     "Rescue plans",
@@ -86,8 +86,8 @@ def validate_guide_enrichment() -> None:
     low_img = []
     missing = []
     missing_crosschecks = []
-    missing_dossiers = []
-    incomplete_dossiers = []
+    missing_snapshots = []
+    incomplete_snapshots = []
     camera_placeholders = []
     orphan_captions = []
     duplicate_images: dict[str, list[str]] = {}
@@ -99,18 +99,18 @@ def validate_guide_enrichment() -> None:
         lit = extract_block(text, LIT_BEGIN, LIT_END)
         imgs = extract_block(text, IMG_BEGIN, IMG_END)
         xchk = extract_block(text, XCHK_BEGIN, XCHK_END)
-        dossier = extract_block(text, DOSSIER_BEGIN, DOSSIER_END)
+        snapshot = extract_block(text, SNAPSHOT_BEGIN, SNAPSHOT_END)
         if not lit or not imgs:
             missing.append(str(src.relative_to(ROOT)))
             continue
         if not xchk:
             missing_crosschecks.append(str(src.relative_to(ROOT)))
-        if not dossier:
-            missing_dossiers.append(str(src.relative_to(ROOT)))
+        if not snapshot:
+            missing_snapshots.append(str(src.relative_to(ROOT)))
         else:
-            missing_labels = [label for label in DOSSIER_LABELS if label not in dossier]
+            missing_labels = [label for label in SNAPSHOT_LABELS if label not in snapshot]
             if missing_labels:
-                incomplete_dossiers.append((str(src.relative_to(ROOT)), missing_labels))
+                incomplete_snapshots.append((str(src.relative_to(ROOT)), missing_labels))
         if "📷" in text or "📸" in text:
             camera_placeholders.append(str(src.relative_to(ROOT)))
 
@@ -151,10 +151,10 @@ def validate_guide_enrichment() -> None:
         fail(f"guides missing curated literature/image blocks, e.g. {missing[:8]}")
     if missing_crosschecks:
         fail(f"guides missing textbook cross-check blocks, e.g. {missing_crosschecks[:8]}")
-    if missing_dossiers:
-        fail(f"guides missing case/approach dossier blocks, e.g. {missing_dossiers[:8]}")
-    if incomplete_dossiers:
-        fail(f"guides with incomplete case/approach dossier blocks, e.g. {incomplete_dossiers[:8]}")
+    if missing_snapshots:
+        fail(f"guides missing case/approach snapshot blocks, e.g. {missing_snapshots[:8]}")
+    if incomplete_snapshots:
+        fail(f"guides with incomplete case/approach snapshot blocks, e.g. {incomplete_snapshots[:8]}")
     if camera_placeholders:
         fail(f"guides still containing camera emoji placeholders, e.g. {camera_placeholders[:8]}")
     if low_lit:

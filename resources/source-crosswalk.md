@@ -96,17 +96,17 @@ Avoid:
 
 Each procedure page should eventually have:
 
-- **Case / approach dossier:** an upfront synthesis of anatomy at risk, operative steps, rescue plans, figures, papers, and textbook cross-checks.
+- **Case / approach snapshot:** an upfront synthesis of anatomy at risk, operative steps, rescue plans, figures, papers, and textbook cross-checks.
 - **Textbook cross-checks:** 3-6 source families to review before the case.
 - **Open figures:** 10+ unique PD/CC/open-access figures when possible.
 - **Primary literature:** seminal papers plus modern reviews/trials/guidelines.
 - **Private-board prompts:** topic keywords only, not copied stems or answers.
 - **Operative atlas/video links:** links only for copyrighted sources.
 
-Suggested dossier block:
+Suggested snapshot block:
 
 ```markdown
-## Case / Approach Dossier
+## Case / Approach Snapshot
 - **Anatomy at risk:** [patient- and corridor-specific structures]
 - **Operative steps:** [positioning, exposure, key maneuver, verification, closure]
 - **Rescue plans:** [bleeding, neurologic change, CSF leak, reconstruction/device failure, staged alternate plan]
@@ -142,7 +142,7 @@ Suggested textbook block:
 
 The useful idea is not to copy the private corpus. The useful idea is the **workflow**:
 
-- Treat every answer as a dossier built from separate lanes: textbooks, literature, figures, and cards.
+- Treat every answer as a snapshot built from separate lanes: textbooks, literature, figures, and cards.
 - Keep citation anchors close to every claim.
 - Show when a lane is unavailable rather than inventing filler.
 - Preserve figures as evidence objects with source, page/article, caption, license, and URL.

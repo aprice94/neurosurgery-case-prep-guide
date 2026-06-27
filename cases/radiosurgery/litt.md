@@ -13,9 +13,9 @@ tags:
 ---
 
 
-<!-- BEGIN CASE DOSSIER -->
+<!-- BEGIN CASE SNAPSHOT -->
 
-## Case / Approach Dossier
+## Case / Approach Snapshot
 
 - **Anatomy at risk:** target volume, organs at risk, cranial nerves, optic apparatus/brainstem/cord tolerance, vascular structures, and prior-treatment fields.
 - **Operative steps:** define indication, fuse imaging, contour target and organs at risk, choose dose/fractionation, check constraints and conformity, deliver treatment, and plan imaging follow-up; use the detailed operative sequence and approach notes below as the step-by-step source.
@@ -24,7 +24,7 @@ tags:
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
-<!-- END CASE DOSSIER -->
+<!-- END CASE SNAPSHOT -->
 
 ## One-Liner
 [Age]yo [M/F] with [deep/eloquent glioma or metastasis / radiation necrosis / mesial temporal epilepsy / hypothalamic hamartoma] planned for MRI-guided stereotactic laser interstitial thermal therapy (LITT).
