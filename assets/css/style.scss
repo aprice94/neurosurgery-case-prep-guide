@@ -1,7 +1,7 @@
 ---
 ---
 
-/* ===== Neurosurgery Case Prep Guide — custom theme ===== */
+/* ===== Pterion Prep — custom theme ===== */
 
 :root {
   --bg:        #eef2f6;
@@ -9,10 +9,11 @@
   --ink:       #1b2733;
   --muted:     #5b6b7b;
   --line:      #e2e8f0;
-  --primary:   #0d7c86;   /* teal */
-  --primary-d: #0a5b63;
-  --accent:    #1457a8;   /* blue */
-  --accent-d:  #0f3f7a;
+  --primary:   #078d9a;   /* logo-friendly teal */
+  --primary-d: #075c68;
+  --accent:    #1767b8;   /* surgical blue */
+  --accent-d:  #0f427c;
+  --gold:      #d49a20;
   --warn-bg:   #fff7ed;
   --warn-bd:   #f59e0b;
   --note-bg:   #f0f9fa;
@@ -42,9 +43,19 @@ body {
   background: linear-gradient(100deg, var(--primary) 0%, var(--accent) 100%);
   box-shadow: 0 2px 14px rgba(13,124,134,.28);
 }
-.header-wrap { display: flex; align-items: center; justify-content: space-between; height: 60px; }
-.brand { display: flex; align-items: center; gap: 10px; color: #fff; text-decoration: none; font-weight: 800; font-size: 1.12rem; letter-spacing: .2px; }
-.brand-mark { font-size: 1.4rem; filter: drop-shadow(0 1px 1px rgba(0,0,0,.2)); }
+.header-wrap { display: flex; align-items: center; justify-content: space-between; gap: 10px; min-height: 66px; }
+.brand {
+  display: flex; align-items: center; flex: 0 0 auto; background: rgba(255,255,255,.94);
+  border: 1px solid rgba(255,255,255,.8); border-radius: 12px; padding: 5px 9px;
+  box-shadow: 0 8px 22px rgba(7,32,52,.18); text-decoration: none;
+}
+.brand-logo { display: block; width: 164px; max-width: 28vw; height: auto; }
+.app-tab {
+  flex: 0 0 auto; color: #102230; background: #fff; border: 1px solid rgba(255,255,255,.85);
+  border-left: 4px solid var(--gold); border-radius: 999px; padding: 8px 14px;
+  font-weight: 800; font-size: .9rem; text-decoration: none; box-shadow: 0 6px 18px rgba(7,32,52,.14);
+}
+.app-tab:hover { background: #fff8e8; color: #0d345b; }
 .site-nav { display: flex; align-items: center; gap: 8px; }
 .site-nav a { color: #eafdff; text-decoration: none; font-weight: 600; font-size: .94rem; padding: 7px 12px; border-radius: 999px; transition: background .15s, color .15s; }
 .site-nav a:hover { background: rgba(255,255,255,.16); }
@@ -138,7 +149,7 @@ body {
 @media (max-width: 720px) {
   .prose { padding: 24px 18px; }
   .prose h1 { font-size: 1.7rem; }
-  .brand-text { display: none; }
+  .brand-logo { width: 132px; max-width: 34vw; }
   .filter-box { top: 64px; }
   .hero { padding: 28px 22px; }
   .hero h1 { font-size: 1.8rem; }
@@ -149,6 +160,11 @@ body {
   background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
   color: #fff; border-radius: var(--radius); padding: 42px 40px; margin: 2px 0 22px;
   box-shadow: 0 10px 30px rgba(13,124,134,.28);
+}
+.hero-logo {
+  display: block; width: min(440px, 92%); height: auto; margin: 0 0 18px;
+  padding: 10px 14px; background: rgba(255,255,255,.95); border: 1px solid rgba(255,255,255,.75);
+  border-radius: 16px; box-shadow: 0 12px 34px rgba(5,24,38,.22);
 }
 .hero h1 { color: #fff; border: none; margin: 0 0 .2em; font-size: 2.4rem; letter-spacing: -.6px; }
 .hero p { color: #e9fdff; font-size: 1.14rem; margin: .2em 0 1.1em; max-width: 64ch; }
@@ -261,8 +277,17 @@ html { scroll-padding-top: 84px; }
 .search-results .sr-g { font-size: .72rem; color: var(--muted); opacity: .8; }
 .search-results .sr-empty { padding: 12px; color: var(--muted); font-size: .9rem; }
 [data-theme="dark"] .search-results a:hover { background: #213040; }
-@media (max-width: 760px) { .search-wrap { max-width: 230px; margin: 0 8px; } }
-@media (max-width: 520px) { .brand-text { display: none; } .search-wrap { max-width: none; } .site-nav a:not(.nav-cta) { display: none; } }
+@media (max-width: 760px) {
+  .search-wrap { max-width: 230px; margin: 0 8px; }
+  .app-tab { padding: 7px 10px; font-size: .82rem; }
+}
+@media (max-width: 620px) {
+  .header-wrap { flex-wrap: wrap; height: auto; padding-top: 8px; padding-bottom: 8px; }
+  .brand-logo { width: 122px; max-width: 42vw; }
+  .search-wrap { order: 4; flex-basis: 100%; max-width: none; margin: 0; }
+  .site-nav { margin-left: auto; }
+}
+@media (max-width: 520px) { .site-nav a:not(.nav-cta) { display: none; } }
 
 /* ---------- Subbar actions (Print / Edit) ---------- */
 .subbar-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 7px 0; }

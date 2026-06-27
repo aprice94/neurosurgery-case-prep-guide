@@ -1,6 +1,6 @@
 ---
 title: "Spine — Tumor"
-description: "Spine Tumor guide in the Neurosurgery Case Prep Guide."
+description: "Spine Tumor guide in the Pterion Prep."
 category: "Spine Tumor"
 tags:
   - "spine"

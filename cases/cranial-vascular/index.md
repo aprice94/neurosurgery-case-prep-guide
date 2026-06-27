@@ -1,6 +1,6 @@
 ---
 title: "Cranial — Vascular"
-description: "Cranial Vascular guide in the Neurosurgery Case Prep Guide."
+description: "Cranial Vascular guide in the Pterion Prep."
 category: "Cranial Vascular"
 tags:
   - "cranial"

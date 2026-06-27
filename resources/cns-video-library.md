@@ -1,6 +1,6 @@
 ---
 title: "CNS Video Library Embeds"
-description: "Mapped Congress of Neurological Surgeons video embeds and category placements for the Neurosurgery Case Prep Guide."
+description: "Mapped Congress of Neurological Surgeons video embeds and category placements for the Pterion Prep."
 category: "Resources"
 tags:
   - "video"

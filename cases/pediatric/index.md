@@ -1,6 +1,6 @@
 ---
 title: "Pediatric"
-description: "Pediatric guide in the Neurosurgery Case Prep Guide."
+description: "Pediatric guide in the Pterion Prep."
 category: "Pediatric"
 tags:
   - "pediatric"

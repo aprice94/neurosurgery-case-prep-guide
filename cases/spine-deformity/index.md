@@ -1,6 +1,6 @@
 ---
 title: "Spine — Deformity"
-description: "Spine Deformity guide in the Neurosurgery Case Prep Guide."
+description: "Spine Deformity guide in the Pterion Prep."
 category: "Spine Deformity"
 tags:
   - "spine"

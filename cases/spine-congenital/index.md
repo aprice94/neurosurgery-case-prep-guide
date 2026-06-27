@@ -1,6 +1,6 @@
 ---
 title: "Spine — Congenital / CSF"
-description: "Spine Congenital / CSF guide in the Neurosurgery Case Prep Guide."
+description: "Spine Congenital / CSF guide in the Pterion Prep."
 category: "Spine Congenital / CSF"
 tags:
   - "spine"

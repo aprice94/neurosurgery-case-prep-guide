@@ -4,7 +4,8 @@ title: Home
 ---
 
 <div class="hero">
-  <h1>Neurosurgery Case Prep Guide</h1>
+  <img class="hero-logo" src="{{ '/assets/img/pterion-prep-logo.png' | relative_url }}" alt="Pterion Prep">
+  <h1>Pterion Prep</h1>
   <p>Chief/attending-level case preparation — positioning, step-by-step technique, critical anatomy, figures, and dictation-ready operative notes.</p>
   <div class="stats">
     <span class="stat"><b>107</b> guides</span>
@@ -16,7 +17,7 @@ title: Home
 
 <div class="cards">
   <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
-  <a class="card aids" href="https://github.com/aprice94/cranipro"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">app repo</span></a>
+  <a class="card aids" href="{{ site.cranipro_url | relative_url }}"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
   <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
   <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
   <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
@@ -41,7 +42,7 @@ title: Home
   <a href="cases/cranial-functional/chiari-decompression.html">Chiari decompression</a>
   <a href="cases/cranial-functional/dbs-placement.html">DBS placement</a>
   <a href="cases/cranial-tumor/pituitary-adenoma-transsphenoidal.html">Pituitary (transsphenoidal)</a>
-  <a href="https://github.com/aprice94/cranipro">CraniPro positioning simulator</a>
+  <a href="{{ site.cranipro_url | relative_url }}">CraniPro positioning simulator</a>
 </div>
 
 > ⚠️ **Educational reference — not medical advice.** Summarizes standard teaching; verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before any patient care. See the [full disclaimer](DISCLAIMER.md).

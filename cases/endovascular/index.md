@@ -1,6 +1,6 @@
 ---
 title: "Endovascular"
-description: "Endovascular guide in the Neurosurgery Case Prep Guide."
+description: "Endovascular guide in the Pterion Prep."
 category: "Endovascular"
 tags:
   - "endovascular"

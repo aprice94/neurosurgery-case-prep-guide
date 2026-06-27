@@ -1,6 +1,6 @@
 ---
 title: "Cranial — Tumor / Skull Base"
-description: "Cranial Tumor / Skull Base guide in the Neurosurgery Case Prep Guide."
+description: "Cranial Tumor / Skull Base guide in the Pterion Prep."
 category: "Cranial Tumor / Skull Base"
 tags:
   - "cranial"

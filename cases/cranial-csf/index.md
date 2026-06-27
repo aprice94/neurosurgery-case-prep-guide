@@ -1,6 +1,6 @@
 ---
 title: "Cranial — CSF / Hydrocephalus"
-description: "Cranial CSF / Hydrocephalus guide in the Neurosurgery Case Prep Guide."
+description: "Cranial CSF / Hydrocephalus guide in the Pterion Prep."
 category: "Cranial CSF / Hydrocephalus"
 tags:
   - "cranial"

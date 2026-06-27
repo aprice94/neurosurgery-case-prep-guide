@@ -1,4 +1,4 @@
-# Neurosurgery Case Prep Guide
+# Pterion Prep
 
 ### 🌐 Live website → **https://aprice94.github.io/neurosurgery-case-prep-guide/**
 *Browse all 107 guides + approach chapters with search, figures, and clean navigation. (Repo "About" panel also links it on the right →)*

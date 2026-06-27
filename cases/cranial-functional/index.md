@@ -1,6 +1,6 @@
 ---
 title: "Cranial — Functional"
-description: "Cranial Functional guide in the Neurosurgery Case Prep Guide."
+description: "Cranial Functional guide in the Pterion Prep."
 category: "Cranial Functional"
 tags:
   - "cranial"

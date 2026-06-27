@@ -9,6 +9,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="{{ '/assets/img/pterion-prep-logo.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/img/pterion-prep-logo.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <script defer src="https://unpkg.com/lunr@2.3.9/lunr.min.js"></script>
 </head>
@@ -16,9 +18,9 @@
   <header class="site-header">
     <div class="wrap header-wrap">
       <a class="brand" href="{{ '/' | relative_url }}">
-        <span class="brand-mark">🧠</span>
-        <span class="brand-text">Neurosurgery&nbsp;Case&nbsp;Prep</span>
+        <img class="brand-logo" src="{{ '/assets/img/pterion-prep-logo.png' | relative_url }}" alt="Pterion Prep">
       </a>
+      <a class="app-tab" href="{{ site.cranipro_url | relative_url }}">CraniPro</a>
       <div class="search-wrap">
         <input id="site-search" type="search" placeholder="Search all guides…" autocomplete="off" aria-label="Search guides">
         <div id="search-results" class="search-results" hidden></div>
@@ -26,7 +28,6 @@
       <nav class="site-nav">
         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark/light">🌙</button>
         <a href="{{ '/' | relative_url }}">All&nbsp;guides</a>
-        <a href="{{ site.cranipro_url }}">CraniPro</a>
         <a class="nav-cta" href="{{ site.github_repo }}" target="_blank" rel="noopener">GitHub&nbsp;↗</a>
       </nav>
     </div>
@@ -62,7 +63,7 @@
   <footer class="site-footer">
     <div class="wrap">
       <p><strong>⚠️ Educational reference — not medical advice.</strong> Always verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before applying to a patient.</p>
-      <p class="muted">Neurosurgery Case Prep Guide · <a href="{{ site.github_repo }}" target="_blank" rel="noopener">source on GitHub</a>{% unless page.url == "/" %} · <a href="{{ site.github_repo }}/edit/main/{{ page.path }}" target="_blank" rel="noopener">✏️ suggest an edit</a>{% endunless %} · last updated {{ site.time | date: "%b %Y" }}</p>
+      <p class="muted">Pterion Prep · <a href="{{ site.github_repo }}" target="_blank" rel="noopener">source on GitHub</a>{% unless page.url == "/" %} · <a href="{{ site.github_repo }}/edit/main/{{ page.path }}" target="_blank" rel="noopener">✏️ suggest an edit</a>{% endunless %} · last updated {{ site.time | date: "%b %Y" }}</p>
     </div>
   </footer>
 

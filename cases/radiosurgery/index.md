@@ -1,6 +1,6 @@
 ---
 title: "Radiosurgery / Ablative"
-description: "Radiosurgery / Ablative guide in the Neurosurgery Case Prep Guide."
+description: "Radiosurgery / Ablative guide in the Pterion Prep."
 category: "Radiosurgery / Ablative"
 tags:
   - "radiosurgery"

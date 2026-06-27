@@ -1,6 +1,6 @@
 ---
 title: "Spine — Infection"
-description: "Spine Infection guide in the Neurosurgery Case Prep Guide."
+description: "Spine Infection guide in the Pterion Prep."
 category: "Spine Infection"
 tags:
   - "spine"

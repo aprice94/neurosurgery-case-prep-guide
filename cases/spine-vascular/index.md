@@ -1,6 +1,6 @@
 ---
 title: "Spine — Vascular"
-description: "Spine Vascular guide in the Neurosurgery Case Prep Guide."
+description: "Spine Vascular guide in the Pterion Prep."
 category: "Spine Vascular"
 tags:
   - "spine"

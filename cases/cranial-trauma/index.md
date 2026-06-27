@@ -1,6 +1,6 @@
 ---
 title: "Cranial — Trauma"
-description: "Cranial Trauma guide in the Neurosurgery Case Prep Guide."
+description: "Cranial Trauma guide in the Pterion Prep."
 category: "Cranial Trauma"
 tags:
   - "cranial"

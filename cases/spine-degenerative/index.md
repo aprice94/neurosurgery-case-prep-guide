@@ -1,6 +1,6 @@
 ---
 title: "Spine — Degenerative"
-description: "Spine Degenerative guide in the Neurosurgery Case Prep Guide."
+description: "Spine Degenerative guide in the Pterion Prep."
 category: "Spine Degenerative"
 tags:
   - "spine"

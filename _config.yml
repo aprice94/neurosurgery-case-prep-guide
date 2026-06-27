@@ -1,4 +1,4 @@
-title: Neurosurgery Case Prep Guide
+title: Pterion Prep
 description: >-
   Structured neurosurgical case-preparation guides — positioning, approaches,
   step-by-step technique, figures, and dictation-ready operative-note templates
@@ -6,7 +6,7 @@ description: >-
 url: "https://aprice94.github.io"
 baseurl: "/neurosurgery-case-prep-guide"
 github_repo: "https://github.com/aprice94/neurosurgery-case-prep-guide"
-cranipro_url: "https://github.com/aprice94/cranipro"
+cranipro_url: "/cranipro/"
 
 # GitHub-flavored markdown so tables/pipes render exactly like github.com
 markdown: kramdown

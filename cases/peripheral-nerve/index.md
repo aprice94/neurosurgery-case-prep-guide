@@ -1,6 +1,6 @@
 ---
 title: "Peripheral Nerve"
-description: "Peripheral Nerve guide in the Neurosurgery Case Prep Guide."
+description: "Peripheral Nerve guide in the Pterion Prep."
 category: "Peripheral Nerve"
 tags:
   - "peripheral"

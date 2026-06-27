@@ -1,6 +1,6 @@
 ---
 title: "Spine — Functional"
-description: "Spine Functional guide in the Neurosurgery Case Prep Guide."
+description: "Spine Functional guide in the Pterion Prep."
 category: "Spine Functional"
 tags:
   - "spine"

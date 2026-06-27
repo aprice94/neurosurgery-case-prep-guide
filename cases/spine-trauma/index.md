@@ -1,6 +1,6 @@
 ---
 title: "Spine — Trauma"
-description: "Spine Trauma guide in the Neurosurgery Case Prep Guide."
+description: "Spine Trauma guide in the Pterion Prep."
 category: "Spine Trauma"
 tags:
   - "spine"

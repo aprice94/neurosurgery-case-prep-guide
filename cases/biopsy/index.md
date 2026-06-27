@@ -1,6 +1,6 @@
 ---
 title: "Brain Biopsy"
-description: "Brain Biopsy guide in the Neurosurgery Case Prep Guide."
+description: "Brain Biopsy guide in the Pterion Prep."
 category: "Brain Biopsy"
 tags:
   - "brain"
