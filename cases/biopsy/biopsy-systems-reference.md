@@ -87,10 +87,33 @@ A comparison reference for choosing a brain biopsy technique and platform. See i
 | Real-time confirmation, ablation combo | iMRI (ClearPoint) |
 | Need larger sample / accessible lesion / decompression | Open biopsy |
 
+### Decision Points That Actually Change the Plan
+- **Target biology:** for suspected glioma, target enhancing, hypercellular, or diffusion-restricting tumor while avoiding necrotic center; for suspected lymphoma, avoid pre-biopsy steroids unless needed for life-threatening mass effect; for infection/inflammation, coordinate microbiology, flow cytometry, molecular testing, and frozen pathology before incision.
+- **Target geometry:** tiny deep targets, brainstem targets, and lesions adjacent to ventricle or deep perforators favor maximal mechanical rigidity (frame or robotic skull-mounted guide) and the shortest safe transgyral route.
+- **Trajectory risk:** avoid sulci, cortical veins, MCA/ACA branches, choroid plexus, ependymal surfaces when possible, and long tangential intraparenchymal paths. A slightly longer white-matter route is often safer than crossing a sulcus or vessel-rich cortical entry.
+- **Imaging fusion:** fuse contrast MRI, FLAIR, DWI/ADC, SWI/GRE, CTA/MRA, and tractography when relevant; use SWI/GRE to avoid occult cavernoma/hemorrhage and tractography for internal capsule, arcuate fasciculus, corticospinal tract, and optic radiations.
+- **Pathology logistics:** confirm frozen/smear availability, lymphoma flow cytometry, culture media, molecular/NGS handling, and whether additional cores should be sent fresh rather than in formalin.
+
+### Platform-Specific Failure Modes
+- **Frame-based:** coordinate transcription error, arc/ring reversal, wrong target image series, frame motion after imaging, patient movement during frame placement, and insufficient burr-hole trajectory clearance. Do an independent coordinate read-back before prepping.
+- **Frameless:** registration drift, skin fiducial shift, poor surface registration, navigation pointer calibration error, and loss of accuracy in deep targets. Recheck accuracy at bony landmarks after draping and again before passing the needle.
+- **Robotic:** registration-to-robot transform error, guide-arm collision, skiving at the skull, unrecognized skull fiducial looseness, and trajectory mismatch after head/table movement. Lock table/head position after registration.
+- **iMRI:** scanner-compatible equipment constraints, longer anesthesia time, limited access to the patient during imaging, and workflow delays; the advantage is immediate confirmation of trajectory and hemorrhage.
 
 ---
 
-## 5. Universal Safety Principles (All Biopsy Techniques)
+## 5. Pre-Case Checklist
+- Indication confirmed: tissue diagnosis will change management and resection is not safer/more useful.
+- Steroids held if lymphoma is on the differential and the patient can tolerate it.
+- Imaging reviewed in multiple planes with vascular/SWI sequences; target is viable tissue, not necrosis or blood product.
+- Entry avoids sulcus, cortical vessel, ventricle, deep perforator territory, and eloquent cortex/tracts when possible.
+- Coagulation corrected: platelet count, INR/PTT, antiplatelet/anticoagulant plan documented.
+- Pathology plan confirmed: smear/frozen, permanent, flow cytometry, cultures, molecular testing, and specimen containers.
+- Bailout discussed: nondiagnostic sample, hemorrhage along tract, seizure, edema, and conversion to open biopsy.
+
+---
+
+## 6. Universal Safety Principles (All Biopsy Techniques)
 1. **Plan an avascular trajectory** — review MRI/CTA/contrast; avoid sulci, vessels, ventricles (unless intended), eloquent cortex
 2. **Target the enhancing/representative portion** (avoid central necrosis — non-diagnostic); for ring-enhancing lesions sample the enhancing rim
 3. **Correct coagulopathy**, stop antiplatelets/anticoagulants (hemorrhage is the principal risk, ~1-3% symptomatic)
@@ -98,6 +121,19 @@ A comparison reference for choosing a brain biopsy technique and platform. See i
 5. **Frozen section / intraoperative smear** to confirm diagnostic (not just necrotic/gliotic) tissue before concluding
 6. **Hemostasis** — observe the tract; post-biopsy bleeding from the cannula → irrigate, wait, re-image if concern
 7. **Postop CT** to exclude hemorrhage
+
+### Sampling Strategy
+- Make the first pass through the most diagnostic target; do not "save" the best tissue for later if hemorrhage could end the case.
+- Take small, deliberate samples at the target and slightly proximal/distal margins rather than repeated blind passes through the same point.
+- If frozen shows necrosis only, move to enhancing rim or diffusion-restricting/solid tissue along the same safe trajectory if possible.
+- For suspected lymphoma, prioritize fresh tissue for flow cytometry and molecular work; for infection, send aerobic/anaerobic, fungal, AFB, and molecular studies per institutional protocol.
+- Stop after adequate diagnostic tissue rather than chasing excess cores, especially in deep targets or anticoagulation-risk patients.
+
+### Hemorrhage Response
+- Leave the cannula in place initially; rapid removal can remove tamponade.
+- Pause, irrigate gently if the system allows, reverse hypertension/coagulopathy, and obtain immediate CT or intraoperative imaging if there is neurologic change or persistent bloody return.
+- Keep the patient intubated for postoperative imaging and ICU handoff if concern for tract hemorrhage, intraventricular hemorrhage, or swelling.
+- Have an open evacuation plan for superficial accessible hemorrhage or mass effect, but deep biopsy hemorrhage is often managed with airway, BP control, reversal, EVD if hydrocephalus, and ICU observation.
 
 ---
 
@@ -116,16 +152,17 @@ A comparison reference for choosing a brain biopsy technique and platform. See i
 
 ## High-Yield Literature
 
-- **Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018** — Galluzzi L. Cell death and differentiation 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29362479/)
-- **Alzheimer's Association Clinical Practice Guideline on the use of blood-based biomarkers in the diagnostic workup of suspected Alzheimer's disease within specialized care settings** — Palmqvist S. Alzheimer's & dementia : the journal of the Alzheimer's Association 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40729527/)
-- **Longitudinal cerebral perfusion in presymptomatic genetic frontotemporal dementia: GENFI results** — Pasternak M. Alzheimer's & dementia : the journal of the Alzheimer's Association 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38623902/)
-- **An integrated cell atlas of the lung in health and disease** — Sikkema L. Nature medicine 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37291214/)
-- **Consensus guidelines for the use and interpretation of angiogenesis assays** — Nowak-Sliwinska P. Angiogenesis 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29766399/)
-- **Forecasting the effects of smoking prevalence scenarios on years of life lost and life expectancy from 2022 to 2050: a systematic analysis for the Global Burden of Disease Study 2021** — GBD 2021 Tobacco Forecasting Collaborators. The Lancet. Public health 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39366729/)
-- **Depressive Symptoms and Amyloid Pathology** — Wiels WA. JAMA psychiatry 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39841452/)
-- **Inborn errors of type I IFN immunity in patients with life-threatening COVID-19** — Zhang Q. Science (New York, N.Y.) 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32972995/)
-- **Metachromatic Leukodystrophy: New Therapy Advancements and Emerging Research Directions** — Asbreuk MABC. Neurology 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40577679/)
-- **Germline variants in tumor suppressor FBXW7 lead to impaired ubiquitination and a neurodevelopmental syndrome** — Stephenson SEM. American journal of human genetics 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35395208/)
+- **Predictors of diagnostic yield and surgical safety in stereotactic brain biopsy** — Ghoche MT. *Journal of Neuro-Oncology* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41995978/)
+- **Diagnostic yield and safety of frame-based versus robot-assisted stereotactic brain biopsy: a matched cohort analysis** — Mallereau CH. *Neurosurgical Review* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41577860/)
+- **Diagnostic performance and safety of stereotactic frame-based biopsy for sub centimeter intracranial lesions: A matched cohort analysis** — Mallereau CH. *Neurosurgical Review* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41569317/)
+- **Safety and diagnostic yield of robotic-assisted stereotactic biopsy for pediatric brainstem lesions: a systematic review and single-arm meta-analysis** — Zhao J. *Journal of Robotic Surgery* 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40991094/)
+- **Comparison meta-analysis of intraoperative MRI-guided needle biopsy versus conventional stereotactic needle biopsies** — Dhawan S. *Neuro-Oncology Advances* 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38187873/)
+- **Biopsy of diffuse midline glioma is safe and impacts targeted therapy: a systematic review and meta-analysis** — Fu AY. *Child's Nervous System* 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37980290/)
+- **Survival and neurological outcomes after stereotactic biopsy of diffuse intrinsic pontine glioma: a systematic review** — Dalmage M. *Journal of Neurosurgery: Pediatrics* 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37724839/)
+- **Frame-Based Stereotactic Biopsy - A Single Neurosurgeon Experience of 604 Diagnostic Procedures and Literature Review** — Samanci Y. *Turkish Neurosurgery* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36066051/)
+- **Concordance and diagnostic yield of stereotactic biopsies for posterior fossa: Technique and experience in a reference hospital** — Navarro-Olvera JL. *Cirugia y Cirujanos* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35944421/)
+- **An Update on Neurosurgical Management of Primary CNS Lymphoma in Immunocompetent Patients** — Scheichel F. *Frontiers in Oncology* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35515113/)
+- **Functional-guided frameless stereotactic biopsy of highly eloquent brain tumors** — Schwendner M. *Brain & Spine* 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40528873/)
 
 <!-- END CURATED LITERATURE -->
 

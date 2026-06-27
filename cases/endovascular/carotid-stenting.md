@@ -145,6 +145,23 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ### Pre-procedure
 - **Dual antiplatelet therapy** (aspirin + clopidogrel) started before the procedure (confirm responsiveness)
 
+### Revascularization Choice: CAS vs CEA vs TCAR
+
+| Factor | CAS favored | CEA favored | TCAR / flow-reversal favored |
+|--------|-------------|-------------|------------------------------|
+| Neck history | Prior radiation, radical neck dissection, restenosis after CEA, high bifurcation | Clean surgical neck, low cranial nerve risk | Hostile neck but anatomy suitable for direct carotid access |
+| Arch/access | Simple arch, good femoral/radial access | Type III arch, bovine arch with tortuosity, severe arch atheroma | Poor transfemoral arch but accessible common carotid |
+| Lesion | Smooth stenosis, adequate landing zones | Heavy circumferential calcification, fresh thrombus, very tortuous ICA | High embolic-risk lesion where flow reversal is feasible |
+| Patient risk | High cardiac/pulmonary surgical risk | Older patient with high CAS stroke risk but acceptable surgical risk | High surgical-risk patient with anatomy favorable for TCAR |
+| Antiplatelets | Can tolerate DAPT | Cannot tolerate DAPT | Can tolerate DAPT |
+
+### Pre-Procedure Readiness
+- Confirm stenosis measurement method (NASCET-style distal ICA reference is standard for symptomatic carotid trials).
+- Confirm symptom timing and infarct burden; large recent infarct, hemorrhagic conversion, or unstable neurologic status may change timing and BP goals.
+- Review arch type, CCA/ICA tortuosity, plaque calcification, ulceration, thrombus, distal landing zone, and intracranial collaterals.
+- Verify aspirin/P2Y12 loading and response if your practice uses platelet-function testing; document plan for clopidogrel nonresponse.
+- Establish bailout medications and devices before crossing: atropine/glycopyrrolate, vasopressors, temporary pacing access if high risk, aspiration catheter, thrombectomy tools, covered stent, and reversal strategy.
+
 ### Position / Setup
 - Supine, angiography table, **femoral (or radial/direct carotid) access**, biplane DSA, heparinization
 
@@ -162,6 +179,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Distal cerebral circulation** — **embolic stroke** (arch navigation, lesion crossing, dilation) — protection device mitigates
 2. **Carotid baroreceptor** — bradycardia/hypotension/asystole (pre-medicate)
 3. Carotid wall (dissection, perforation), access vessels, **hyperperfusion** post-revascularization
+
+### Embolic Protection Choices
+- **Distal filter:** familiar and preserves antegrade flow, but the lesion must be crossed before protection and filters can be difficult in tortuous distal ICA.
+- **Proximal balloon occlusion:** protects before lesion crossing but requires flow arrest tolerance and careful aspiration before restoring flow.
+- **Flow reversal / TCAR-style protection:** avoids arch manipulation and can protect before crossing, but needs suitable common carotid access and venous return setup.
+- Choose protection based on arch risk, lesion morphology, distal ICA landing zone, circle of Willis/collaterals, and operator/device availability.
+
+### Intra-Procedure Rescue Plans
+- **Bradycardia/hypotension:** stop balloon inflation, atropine/glycopyrrolate, vasopressor support, fluids, temporary pacing if refractory.
+- **Distal embolus or acute occlusion:** intracranial angiographic run, aspiration/thrombectomy strategy, GP IIb/IIIa or antithrombotic rescue per protocol, and neurologic/anesthesia coordination.
+- **Dissection:** maintain wire access, cover with additional stent if flow-limiting, avoid aggressive overdilation.
+- **No-reflow / spasm:** distinguish embolus, spasm, dissection, and hyperperfusion physiology; treat with vasodilator only when appropriate.
+- **Hyperperfusion risk:** aggressive post-stent BP control, especially severe pre-op stenosis with impaired autoregulation, contralateral occlusion, or chronic hypertension.
 
 ### Equipment / Team
 - Guide sheath/catheters, wires, **embolic protection device**, balloons, **self-expanding carotid stent**
@@ -207,3 +237,10 @@ The patient was transferred with strict BP control (hyperperfusion), telemetry (
 - **Continue dual antiplatelet** (do not interrupt — stent thrombosis), access/pulse checks
 - Telemetry (bradycardia), hydration (contrast)
 - Watch hyperperfusion syndrome (headache/seizure/deficit), carotid duplex follow-up (restenosis), risk factor modification
+
+### Follow-Up and Surveillance
+- First 24 hours: NIHSS/neuro checks, access-site exam, telemetry, BP ceiling/floor orders, renal/contrast monitoring, and explicit DAPT continuation.
+- Early danger signs: ipsilateral headache, seizure, focal deficit, confusion, or severe hypertension after revascularization should trigger hyperperfusion/ICH evaluation.
+- Duplex surveillance: establish a post-stent baseline, then repeat per local protocol; in-stent velocities can differ from native ICA thresholds.
+- Secondary prevention: statin intensity, smoking cessation, diabetes/BP control, sleep apnea management, and antiplatelet duration documented before discharge.
+- If DAPT must be interrupted for another procedure, discuss with the stenting team first; early interruption risks acute stent thrombosis.

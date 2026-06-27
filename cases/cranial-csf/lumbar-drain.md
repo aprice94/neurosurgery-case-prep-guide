@@ -145,6 +145,22 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Obstructive hydrocephalus / posterior fossa mass / large supratentorial mass with shift (**herniation risk**)
 - Coagulopathy, infection at site, blocked spinal CSF spaces
 
+### Indication-Specific Drainage Goals
+
+| Indication | Typical goal | Practical endpoint |
+|------------|--------------|--------------------|
+| Skull-base CSF leak | Lower CSF pressure across repair without overdrainage | Dry nose/ear/wound, stable neuro exam, no pneumocephalus expansion |
+| Endoscopic skull-base surgery adjunct | Protect high-flow repair in selected cases | No leak with mobilization/Valsalva challenge per team protocol |
+| Posterior fossa wound leak or pseudomeningocele | Divert CSF from wound while soft tissues seal | Flattening collection, dry incision, no meningitis |
+| NPH lumbar drain trial | Sustained drainage to test shunt responsiveness | Objective gait/cognition improvement compared with baseline |
+| Thoracoabdominal aortic repair | Maintain spinal cord perfusion pressure | Protocolized CSF pressure/output with MAP augmentation |
+
+### Pre-Placement Safety Read
+- Review head imaging for mass lesion, obstructive hydrocephalus, posterior fossa crowding, Chiari, or cisternal effacement before draining lumbar CSF.
+- Review spine imaging if prior lumbar surgery, scoliosis, severe stenosis, infection, or unclear level anatomy.
+- Correct anticoagulation/antiplatelet effect using neuraxial-procedure standards and local anesthesia guidelines.
+- Clarify the order set before placement: drain height or hourly volume cap, clamp rules, maximum daily output, sampling frequency, and escalation triggers.
+
 ### Position
 - **Lateral decubitus** (knees-to-chest, flexed) or sitting; standard LP positioning
 
@@ -162,6 +178,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Over-drainage** — most dangerous; can cause tonsillar herniation, subdural hematoma, tension pneumocephalus, abducens palsy. Strict rate control, never open to gravity uncontrolled
 2. Conus medullaris — stay below L2
 3. Nerve roots (radicular pain on threading — reposition)
+
+### Troubleshooting During Placement
+- **No CSF return:** confirm level and midline, rotate bevel, advance in tiny increments, reassess patient flexion, use ultrasound/fluoroscopy if anatomy is difficult, and do not repeatedly traumatize a bloody tap.
+- **Bloody CSF:** distinguish traumatic tap from subarachnoid blood by clearing trend and clinical context; avoid advancing a catheter through persistently bloody return unless the indication justifies it and the team accepts hemorrhage risk.
+- **Radicular pain while threading:** stop advancing, withdraw slightly, rotate/reposition, and retry; persistent pain means the catheter is irritating a root.
+- **Catheter will not thread:** ensure free CSF flow, reduce needle angle, avoid forcing, and consider a different level or fluoroscopic guidance.
+- **Catheter shearing risk:** never pull the catheter back through the Tuohy needle; remove needle and catheter together if repositioning is required.
 
 ### Equipment
 - Lumbar drain kit (Tuohy needle, catheter, closed drainage system with graduated chamber)
@@ -203,3 +226,10 @@ The patient was transferred with a strict controlled-drainage nursing protocol (
 - CSF sampling for infection surveillance per protocol; limit duration (infection risk rises after ~5 days)
 - NPH trial: assess gait/cognition before and during drainage (response predicts shunt benefit)
 - Removal: clamp trial, then remove; check site
+
+### Drain Management Pearls
+- Treat the drain as a medication: the ordered drainage rate/height is the dose, and nursing handoff should include the current level, hourly output, clamp status, and neurologic exam.
+- Clamp for transport, bed-height changes, ambulation, coughing fits, and any acute headache or neurologic change until the team reassesses.
+- If output suddenly stops, inspect for kinks, closed stopcocks, dependent loops, clot/debris, and patient position before flushing; preserve sterility and avoid injecting unless protocol allows it.
+- If output suddenly increases, clamp immediately, assess exam/headache, check for bed-height error or chamber malposition, and image if symptoms suggest subdural, herniation, or pneumocephalus.
+- Remove as soon as the indication is met; prolonged dwell time increases infection and dislodgement risk.

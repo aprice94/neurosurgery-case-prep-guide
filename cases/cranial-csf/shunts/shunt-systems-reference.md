@@ -96,7 +96,26 @@ A comprehensive reference for shunt selection. See individual procedure files fo
 
 ---
 
-## 3. Shunt Components
+## 3. Valve Programming and Follow-Up Logic
+
+| Clinical state | Imaging | Typical interpretation | Practical response |
+|----------------|---------|------------------------|--------------------|
+| Improved symptoms, stable ventricles | Stable or smaller | Desired drainage | Keep setting; document valve type/setting |
+| Persistent high-pressure symptoms | Larger or unchanged ventricles | Underdrainage or obstruction | Confirm setting, shunt series, tap/flow study, lower programmable setting only if hardware is patent |
+| Positional low-pressure headache | Small ventricles, pachymeningeal enhancement, subdural hygroma/SDH | Overdrainage/siphoning | Raise setting, add/check anti-siphon/gravitational unit, treat subdural if symptomatic |
+| NPH partial response | Ventricles may remain large | Drainage may be insufficient | Stepwise lower setting with gait/cognition tracking; avoid fast lowering in anticoagulated/fall-risk patients |
+| Slit ventricles with severe symptoms | Very small ventricles | Overdrainage, intermittent obstruction, or slit ventricle syndrome | Raise setting/anti-siphon; evaluate for intermittent proximal occlusion; revision may need catheter/valve strategy |
+| Fever, wound erythema, abdominal pain, meningismus | Variable | Infection until proven otherwise | CSF/blood cultures, externalize/remove infected hardware, antibiotics, delayed reimplantation |
+
+### MRI and Documentation Rules
+- Record manufacturer, model, opening pressure/setting, anti-siphon/gravitational components, proximal/distal sites, and distal catheter tip location.
+- After MRI, verify programmable setting with the correct tool or skull radiograph per valve type; do not rely on the pre-MRI setting.
+- If a patient transfers from outside hospital, get skull films to identify unknown programmable valves before changing settings.
+- Build a local "known-good baseline" archive: symptoms, valve setting, ventricular size, and shunt-series appearance when the patient is well.
+
+---
+
+## 4. Shunt Components
 - **Proximal (ventricular/lumbar/cyst) catheter** — often **antibiotic-impregnated (Bactiseal) or silver-impregnated** to reduce infection
 - **Reservoir** (for tapping/CSF sampling, e.g., Rickham/burr-hole reservoir)
 - **Valve** (± integrated anti-siphon)
@@ -105,14 +124,16 @@ A comprehensive reference for shunt selection. See individual procedure files fo
 
 ---
 
-## 4. Antibiotic / Infection-Reduction Measures
+## 5. Antibiotic / Infection-Reduction Measures
 - Antibiotic-impregnated catheters (rifampin/clindamycin — Bactiseal), silver catheters
 - Shunt infection bundle/protocol (skin prep, double-gloving, limited OR traffic, minimal handling, vancomycin/gentamicin irrigation)
 - Perioperative IV antibiotics
+- Minimize hardware handling: open valve/catheter packages only when needed, isolate shunt hardware from skin edges, and change gloves before touching implants.
+- In revision surgery, send CSF and hardware cultures when infection is plausible; avoid implanting new permanent hardware into a contaminated field.
 
 ---
 
-## 5. Key Complications Across Shunt Types
+## 6. Key Complications Across Shunt Types
 - **Infection** (5-10%; highest in first months; Staph epidermidis/aureus) → externalize/remove, EVD, IV abx, re-shunt
 - **Obstruction** — proximal (choroid plexus/debris — most common), valve, or distal (pseudocyst, fibrosis, disconnection, migration)
 - **Overdrainage** — subdural hematoma/hygroma, slit ventricle syndrome, low-pressure headache; treat by raising programmable setting / anti-siphon
@@ -122,13 +143,27 @@ A comprehensive reference for shunt selection. See individual procedure files fo
 
 ---
 
-## 6. Shunt Evaluation (Malfunction Workup)
+## 7. Shunt Evaluation (Malfunction Workup)
 - Symptoms of raised ICP (return of original symptoms)
 - **Shunt series X-rays** (skull/chest/abdomen) — disconnection, migration, kinks, tip position
 - **CT/MRI head** — ventricle size vs baseline (compare to patient's known baseline)
 - **Shunt tap** (reservoir) — function, opening pressure, CSF for infection (sterile technique)
 - Nuclear medicine shunt patency study (selected)
 - Programmable valve: confirm/recheck setting (esp. after MRI)
+
+### Malfunction Workup Pearls
+- "Stable ventricles" does not exclude malfunction, especially in slit-ventricle patients, long-standing pediatric shunts, and patients with low-compliance ventricles.
+- Compare against the patient's best baseline, not a generic normal ventricle size.
+- Papilledema, sixth nerve palsy, somnolence, bradycardia/hypertension, or rapidly worsening headache should escalate the workup even if imaging is equivocal.
+- A difficult or dry shunt tap may mean proximal obstruction, but interpretation depends on reservoir type, valve design, ventricular size, and operator technique.
+- If infection is suspected, cultures and inflammatory markers matter more than mechanical patency alone; a patent infected shunt still needs infection management.
+
+### Revision Planning Questions
+- Which component failed: proximal catheter, valve, connector, distal catheter, or absorptive cavity?
+- Is the current distal cavity still usable, or is pseudocyst/adhesion/effusion/thrombosis driving failure?
+- Is the patient overdraining, underdraining, or alternating between both?
+- Should the revision add navigation, endoscopy, laparoscopic help, anti-siphon/gravitational control, or a different distal site?
+- Can ETV or endoscopic septostomy/fenestration reduce shunt dependence in obstructive or compartmentalized hydrocephalus?
 
 ---
 
