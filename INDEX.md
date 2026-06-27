@@ -16,7 +16,7 @@ title: Home
 
 <div class="cards">
   <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
-  <a class="card aids" href="https://aprice94.github.io/cranipro/"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
+  <a class="card aids" href="https://github.com/aprice94/cranipro"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">app repo</span></a>
   <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
   <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
   <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
@@ -41,7 +41,7 @@ title: Home
   <a href="cases/cranial-functional/chiari-decompression.html">Chiari decompression</a>
   <a href="cases/cranial-functional/dbs-placement.html">DBS placement</a>
   <a href="cases/cranial-tumor/pituitary-adenoma-transsphenoidal.html">Pituitary (transsphenoidal)</a>
-  <a href="https://aprice94.github.io/cranipro/">CraniPro positioning simulator</a>
+  <a href="https://github.com/aprice94/cranipro">CraniPro positioning simulator</a>
 </div>
 
 > ⚠️ **Educational reference — not medical advice.** Summarizes standard teaching; verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before any patient care. See the [full disclaimer](DISCLAIMER.md).
