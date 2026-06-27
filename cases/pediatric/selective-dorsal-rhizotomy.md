@@ -147,6 +147,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Indication: Spastic diplegia with functional impairment, good strength/selective control, suitable for permanent spasticity reduction (SDR is permanent — vs reversible baclofen pump)
 - Goal: **Reduce spasticity by selectively cutting abnormal dorsal (sensory) rootlets** that drive the spastic reflex arc, preserving strength and sensation
 
+### Candidate Selection
+- Best candidates usually have spastic diplegia, meaningful antigravity strength, selective motor control, family commitment to intensive rehabilitation, and gait potential limited by spasticity rather than fixed deformity alone.
+- Less favorable candidates include predominant dystonia/athetosis, severe weakness masked by tone, major contractures requiring orthopedic correction first, uncontrolled epilepsy/medical fragility, or unclear rehabilitation support.
+- Clarify goals preoperatively: improved gait efficiency, easier care/hygiene, pain/spasm reduction, brace tolerance, or prevention of secondary deformity are different endpoints.
+- Compare SDR against intrathecal baclofen when tone is generalized, mixed dystonia-spasticity is prominent, goals are care/comfort, or reversibility/adjustability matters.
+
+### Rootlet-Selection Strategy
+- Build a level-by-level plan with physiatry, PT, and IONM before incision; intraoperative EMG refines the plan but should not replace the preoperative functional hypothesis.
+- Preserve motor roots absolutely and treat sacral rootlets conservatively; bladder, bowel, and sexual function are not acceptable tradeoffs for marginal tone reduction.
+- Avoid overcutting in a child who uses spasticity for stance; early postoperative weakness is expected, but excessive denervation can erase functional reserve.
+- Document percent cut by level and side so later tone, weakness, sensory symptoms, or orthopedic planning can be interpreted correctly.
+
 ### Position
 - Prone, careful pediatric padding, IONM setup (EMG of multiple lower-extremity myotomes bilaterally, anal sphincter)
 
@@ -181,6 +193,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. **Weakness** (if too aggressive / motor roots) — spasticity may have been providing functional support; transient post-op weakness common
 3. CSF leak, spinal deformity (long-term — scoliosis/lordosis surveillance), back pain
 4. Inadequate spasticity reduction / recurrence
+
+### Rescue and Postoperative Problem Solving
+- **Ventral/motor-root uncertainty:** stop cutting until stimulation confirms anatomy; if separation is ambiguous, preserve the questionable rootlet.
+- **Sphincter EMG change or sacral concern:** stop sacral sectioning, reassess stimulation thresholds, and accept a higher residual tone burden rather than risking bladder/bowel dysfunction.
+- **CSF leak/pseudomeningocele:** flat protocol, wound pressure precautions, imaging if symptomatic, and early repair for persistent leak or wound compromise.
+- **Unexpected weakness:** distinguish expected tone-unmasking from motor injury; protect joints, intensify rehab, check sensory/bladder status, and image if a compressive collection is possible.
+- **Residual spasticity:** correlate with percent cut, untreated levels, dystonia, contracture, pain, and therapy adherence before labeling the rhizotomy a failure.
+- **Long-term deformity risk:** continue spine/hip surveillance because reduced tone does not eliminate orthopedic progression in cerebral palsy.
 
 ---
 

@@ -147,6 +147,17 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Distal-Site Selection
+- Ventriculoatrial shunting is a **salvage distal site** when the peritoneum is unavailable and pleural drainage is unsuitable or has failed.
+- Pre-case screen should include cardiac history, central venous access history, bacteremia/endocarditis risk, pulmonary hypertension, hypercoagulability, and whether the child will outgrow the catheter length quickly.
+- Favor image-guided IJV access when anatomy is usable; use venous cutdown when ultrasound access is unsafe, scarred, thrombosed, or hardware-distorted.
+- Avoid or delay if active infection, bacteremia, uncontrolled coagulopathy, central venous thrombosis/occlusion, severe pulmonary hypertension, or no safe venous route is present.
+
+### Tip Position and Surveillance
+- Target the distal tip at the **SVC-right atrium junction**, not deep in the atrium; deep tips increase arrhythmia, thrombus, and perforation risk.
+- Confirm position with fluoroscopy/ECG guidance intraoperatively and CXR postoperatively; keep a baseline image because migration/retraction is common with growth.
+- Long-term surveillance should explicitly include renal/urine monitoring for shunt nephritis, pulmonary symptoms for chronic embolic disease/pulmonary hypertension, and fever/bacteremia/endocarditis awareness.
+
 ### Position
 - Supine, head turned left (right-sided), neck/chest exposed, **fluoroscopy available**, slight Trendelenburg for venous access (avoid air embolism), shoulder roll
 
@@ -180,6 +191,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. **Shunt nephritis** (chronic — immune complex, indolent infection), **thromboembolism / pulmonary emboli / pulmonary hypertension** (long-term VA-specific)
 3. **Catheter migration / need to lengthen with growth** (children — tip retracts as child grows → must monitor/revise)
 4. Infection (bacteremia/endocarditis risk), obstruction, overdrainage
+
+### Rescue and Revision Logic
+- **Air embolism during venous access:** flood the field, Trendelenburg/left lateral positioning as feasible, aspirate through the catheter if possible, give 100% oxygen, and involve anesthesia immediately.
+- **Arrhythmia during advancement:** withdraw the catheter until ectopy stops, remeasure tip length, and confirm the final position is not deep in the atrium.
+- **Carotid puncture/neck hematoma:** hold pressure, image if expanding or airway-threatening, and avoid blind dilatation after arterial puncture.
+- **Suspected thrombus, pulmonary emboli, or pulmonary hypertension:** obtain echo/vascular imaging, involve cardiology/hematology, and decide whether anticoagulation or distal-site conversion is safer.
+- **Shunt nephritis or bacteremia:** treat as hardware infection until proven otherwise; blood/CSF cultures, renal studies, antibiotics, and externalization/removal are often required.
+- **Tip retraction with growth:** revise before the catheter sits high in the SVC/neck and thromboses; track catheter tip on interval chest imaging in children.
 
 ---
 

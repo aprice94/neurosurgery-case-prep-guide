@@ -146,6 +146,17 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Distal-Site Selection
+- Ventriculopleural shunting is usually a **salvage distal site** when the peritoneum is hostile and atrial placement is undesirable or unavailable.
+- Favor in older children/adults with adequate pulmonary reserve, no active pleural disease, and a clear reason the abdomen is unsuitable.
+- Avoid or reconsider in infants/small children, severe restrictive/obstructive lung disease, prior pleurodesis/empyema, recurrent effusions, pulmonary hypertension, or inability to tolerate even a moderate CSF pleural collection.
+- Compare against VA shunt, endoscopic options, laparoscopic-assisted peritoneal revision, and ETV/CPC before committing to the pleura.
+
+### Valve and Drainage Strategy
+- Use a programmable valve and strongly consider anti-siphon/gravitational control because negative intrathoracic pressure can turn ordinary drainage into overdrainage.
+- If the patient already overdrains, start with a higher opening pressure and document the rationale; pleural shunts can make slit-ventricle symptoms worse.
+- If pleural effusion develops with controlled ventricles, first ask whether the valve is too low, absorption is inadequate, or infection/empyema is present.
+
 ### Position
 - Supine (slight lateral tilt/roll for chest access), head turned, right neck/chest exposed
 
@@ -180,6 +191,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. **Overdrainage** (negative intrapleural pressure) — anti-siphon valve mitigates
 3. Catheter migration, obstruction, infection
 4. Respiratory compromise (esp. children/limited reserve)
+
+### Rescue and Revision Logic
+- **Pneumothorax:** obtain immediate CXR for dyspnea, desaturation, or difficult ventilation; small stable pneumothorax may observe, but tension physiology needs urgent decompression/chest tube.
+- **Early pleural effusion:** evaluate respiratory status, shunt function, valve setting, and infection markers; tap only if diagnostic or therapeutic benefit outweighs seeding risk.
+- **Recurrent hydrothorax with functioning proximal catheter:** raise valve setting/add anti-siphon if underdrainage is not present; convert distal site if effusions recur or pulmonary reserve is marginal.
+- **Empyema or pleural infection:** externalize/remove infected hardware, culture CSF/pleural fluid, treat with antibiotics, and delay reimplantation until infection clears.
+- **Persistent hydrocephalus despite pleural catheter:** check proximal obstruction, valve malfunction, catheter kinking at the chest wall, and whether the pleural catheter is loculated outside the absorptive pleural space.
 
 ---
 

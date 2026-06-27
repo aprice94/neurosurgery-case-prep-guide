@@ -147,6 +147,17 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Indication: Obstructive hydrocephalus; ETV avoids shunt dependence; **ETV+CPC** for infants to improve success (cauterize choroid plexus to reduce CSF production)
 - Cautions: very young infants (lower ETV success alone → add CPC), prepontine scarring (post-infectious), narrow cistern, distorted anatomy
 
+### ETV Success Read
+- Favor ETV when hydrocephalus is obstructive with a defined block (aqueductal stenosis, tectal/pineal/posterior fossa obstruction) and a navigable third-ventricle floor/prepontine cistern.
+- Lower success is expected in very young infants, postinfectious/posthemorrhagic hydrocephalus, thick opaque floor, scarred prepontine cistern, small ventricles, or prior failed ETV with closed/scarred stoma.
+- ETV+CPC is most relevant in infants and selected shunt-avoidance scenarios; the added value depends on age, etiology, anatomy, and ability to safely reach/cauterize the plexus.
+- A shunt is still the safer answer when the anatomy is hostile, the floor landmarks are not trustworthy, or the child cannot tolerate an uncertain ETV failure risk.
+
+### Imaging Checklist
+- MRI sagittal CISS/FIESTA or equivalent: third-ventricle floor thickness, basilar position, clival/dorsum relationship, prepontine cistern size, Liliequist membrane, and any interpeduncular scarring.
+- Coronal/axial planning: foramen of Monro size, venous anatomy, septations, mass trajectory constraints, and whether a flexible scope is needed for CPC.
+- Review prior shunt history, infection/hemorrhage, and whether ventricles are large enough for safe endoscopic working room.
+
 ### Position
 - Supine, head neutral/slightly flexed, age-appropriate fixation/padding
 - Right frontal entry (modified Kocher trajectory to foramen of Monro)
@@ -183,6 +194,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. Fornix/hypothalamic injury, CN III palsy
 3. **ETV failure** (esp. infants/post-infectious) → may need repeat or shunt; delayed closure possible (counsel re: warning signs)
 4. CSF leak, intraventricular hemorrhage (CPC), infection
+
+### Rescue and Failure Logic
+- **Bradycardia/asystole during floor work:** stop manipulation, irrigate warm fluid, let anesthesia restore hemodynamics, and resume only if landmarks remain clear and the child is stable.
+- **Basilar/perforator seen too close or floor opaque:** do not force the stoma; adjust trajectory only if safe, otherwise abort to shunt/alternate diversion.
+- **Bleeding during CPC:** irrigate patiently, lower irrigation pressure once visibility returns, use focal bipolar only on plexus, and avoid chasing blood into the foramen/veins.
+- **No visible prepontine flow after fenestration:** open Liliequist membrane, inspect for a second membrane, confirm the basilar/perforator corridor, and consider leaving an EVD or converting if patency remains doubtful.
+- **Early clinical failure:** do not rely on ventricular size alone; evaluate symptoms, fontanelle/OFC, wound, infection, cine flow when useful, and have a low threshold for shunt in an unstable infant.
+- **Late failure:** treat recurrent headache/vomiting/lethargy/sunsetting as urgent hydrocephalus until proven otherwise, even years after a successful ETV.
 
 ---
 
