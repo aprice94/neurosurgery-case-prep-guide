@@ -37,6 +37,33 @@ tags:
 
 ---
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Selective Dorsal Rhizotomy (SDR)**:
+
+1. What age-specific anatomy, blood volume, temperature, and positioning issue changes the plan?
+2. What is the neurologic, developmental, or syndromic baseline?
+3. What skin, wound, CSF, or infection risk is highest in this child?
+4. What family-facing expectation should be clarified before surgery?
+5. What postop bed, feeding, pain, imaging, and activity plan is safest?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Blood availability threshold, warming strategy, antibiotic dosing, and Foley/drain use:** [attending-specific]
+- **Positioning aids, pinning versus horseshoe, and skin-prep preference:** [attending-specific]
+- **Family update cadence and expected ICU/floor disposition:** [attending-specific]
+- **Postop feeding, pain regimen, wound care, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
 <!-- BEGIN CURATED LITERATURE -->
 
 ## High-Yield Literature

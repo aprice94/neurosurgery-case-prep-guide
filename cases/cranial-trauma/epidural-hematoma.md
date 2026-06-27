@@ -50,6 +50,33 @@ tags:
 
 ---
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Epidural Hematoma (EDH) Evacuation**:
+
+1. What is the life-threatening mass-effect problem and what is the operative endpoint?
+2. What anticoagulant/antiplatelet reversal and blood-product plan is required before incision?
+3. What exposure gives rapid control while preserving options for expansion?
+4. What ICP, seizure, sodium, ventilation, and blood-pressure targets matter immediately postop?
+5. What injury pattern or associated lesion would change the incision, bone flap, or disposition?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Bone flap replacement versus decompressive storage threshold:** [attending-specific]
+- **Preferred hemostatic agents, dural substitute, tack-up pattern, and drain use:** [attending-specific]
+- **ICP monitor/EVD threshold, sodium target, seizure prophylaxis, and repeat CT timing:** [attending-specific]
+- **Reversal product sequence and postop anticoagulation/DVT timing:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
 <!-- BEGIN CURATED LITERATURE -->
 
 ## High-Yield Literature

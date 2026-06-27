@@ -41,6 +41,33 @@ tags:
 
 ---
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Cubital Tunnel Release / Ulnar Nerve Transposition**:
+
+1. Which nerve fascicles or branches must be identified before releasing or resecting tissue?
+2. What exam finding localizes the lesion and what alternative diagnosis could mimic it?
+3. What stimulation, ultrasound, microscope, tourniquet, or graft option should be ready?
+4. What motor/sensory function is at highest risk and how is it checked in PACU?
+5. What splint, therapy, wound, and neuropathic-pain plan should be written?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Tourniquet use, loupe versus microscope, stimulator settings, and incision length:** [attending-specific]
+- **External neurolysis versus transposition/reconstruction threshold:** [attending-specific]
+- **Graft/conduit/allograft availability and pathology handling:** [attending-specific]
+- **Splinting position, therapy referral, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
 <!-- BEGIN CURATED LITERATURE -->
 
 ## High-Yield Literature

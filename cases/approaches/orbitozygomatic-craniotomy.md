@@ -239,6 +239,41 @@ Frontalis (CN VII) palsy; **temporal hollowing/atrophy, trismus**; **enophthalmo
 - Builds on: [pterional-craniotomy.md](pterional-craniotomy.md) · related: [subtemporal-craniotomy.md](subtemporal-craniotomy.md) · [supraorbital-keyhole-craniotomy.md](supraorbital-keyhole-craniotomy.md)
 - Pathology: [basilar-tip-aneurysm.md](../cranial-vascular/basilar-tip-aneurysm.md) · [sphenoid-wing-meningioma.md](../cranial-tumor/sphenoid-wing-meningioma.md) · [tuberculum-sellae-meningioma.md](../cranial-tumor/tuberculum-sellae-meningioma.md) · [craniopharyngioma.md](../cranial-tumor/craniopharyngioma.md) · [petroclival-meningioma.md](../cranial-tumor/petroclival-meningioma.md)
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Orbitozygomatic (Frontotemporal-Orbitozygomatic, FTOZ) Craniotomy**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Basilar Apex (Tip) Aneurysm](../../cases/cranial-vascular/basilar-tip-aneurysm.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. Zabramski JM, Kiriş T, Sankhla SK, Cabiol J, Spetzler RF. **Orbitozygomatic craniotomy. Technical note.** *J Neurosurg.* 1998;89(2):336–341.
 2. Lemole GM Jr, Henn JS, Zabramski JM, Spetzler RF. **Modifications to the orbitozygomatic approach.** *J Neurosurg.* 2003;99(5):924–930.

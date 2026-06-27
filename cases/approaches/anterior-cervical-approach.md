@@ -220,6 +220,42 @@ Do not let the skin crease dictate the whole operation. The incision should serv
 - Procedures: [ACDF](../spine-degenerative/acdf.md) · [cervical arthroplasty](../spine-degenerative/cervical-disc-replacement.md) · [vertebral corpectomy](../spine-tumor/vertebral-corpectomy.md) · [subaxial cervical fracture](../spine-trauma/subaxial-cervical-fracture.md)
 - Related corridors: [posterior-cervical-approach.md](posterior-cervical-approach.md)
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Anterior Cervical (Smith-Robinson) Approach**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Anterior Cervical Discectomy and Fusion (ACDF)](../../cases/spine-degenerative/acdf.md)
+- [Cervical Disc Arthroplasty (Cervical Disc Replacement)](../../cases/spine-degenerative/cervical-disc-replacement.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. Smith GW, Robinson RA. **The treatment of certain cervical-spine disorders by anterior removal of the intervertebral disc and interbody fusion.** *J Bone Joint Surg Am.* 1958;40-A(3):607–624.
 2. Robinson RA, Smith GW. **Anterolateral cervical disc removal and interbody fusion for cervical disc syndrome.** *Bull Johns Hopkins Hosp.* 1955.

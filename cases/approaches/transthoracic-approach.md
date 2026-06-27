@@ -233,6 +233,44 @@ Choose the exposure that gives safe ventral decompression and reconstruction, no
 - Procedures: [thoracic discectomy](../spine-degenerative/thoracic-discectomy.md) · [anterior thoracic corpectomy](../spine-degenerative/anterior-thoracic-corpectomy.md) · [vertebral corpectomy](../spine-tumor/vertebral-corpectomy.md)
 - Related corridors: [posterior-thoracolumbar-approach.md](posterior-thoracolumbar-approach.md) · [transpsoas-approach.md](transpsoas-approach.md)
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Transthoracic (Anterior Thoracic) Approach to the Spine**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Anterior Thoracic Corpectomy and Reconstruction (Transthoracic / Thoracoscopic)](../../cases/spine-degenerative/anterior-thoracic-corpectomy.md)
+- [Thoracic Discectomy (Transpedicular / Costotransversectomy / Lateral Extracavitary / Thoracoscopic)](../../cases/spine-degenerative/thoracic-discectomy.md)
+- [Vertebral Corpectomy and Reconstruction (Metastatic / Primary Vertebral Tumor)](../../cases/spine-tumor/vertebral-corpectomy.md)
+- [Vertebral Osteomyelitis / Discitis — Surgical Management](../../cases/spine-infection/vertebral-osteomyelitis-discitis.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. AO Foundation. **Anterior approach to the thoracic and thoracolumbar spine.** AO Surgery Reference. [link](https://surgeryreference.aofoundation.org)
 2. McCormick PC. **Retropleural/lateral extracavitary and transthoracic approaches to thoracic disc and tumor.**

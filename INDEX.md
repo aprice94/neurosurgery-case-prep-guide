@@ -16,33 +16,15 @@ title: Home
 </div>
 
 <div class="cards">
-  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
-  <a class="card aids" href="{{ site.cranipro_url | relative_url }}"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
-  <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
-  <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
-  <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
-  <a class="card" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
-  <a class="card" href="#peripheral"><span class="ic">✋</span><span class="t">Peripheral &amp; Pediatric</span><span class="d">Nerve · plexus · pediatric neurosurgery</span><span class="n">10 guides</span></a>
-  <a class="card" href="#resources"><span class="ic">📚</span><span class="t">Resources &amp; Template</span><span class="d">orders · media sources · blank template</span><span class="n">toolkit</span></a>
-</div>
-
-<h2 id="start-here" class="start-here">⭐ Start here — high-yield, bread-and-butter cases</h2>
-<div class="quicklinks">
-  <a href="cases/cranial-trauma/chronic-subdural-hematoma.html">Chronic SDH</a>
-  <a href="cases/cranial-csf/evd-placement.html">EVD placement</a>
-  <a href="cases/cranial-csf/vp-shunt.html">VP shunt</a>
-  <a href="cases/cranial-trauma/decompressive-craniectomy-tbi.html">Decompressive craniectomy</a>
-  <a href="cases/spine-degenerative/acdf.html">ACDF</a>
-  <a href="cases/spine-degenerative/lumbar-microdiscectomy.html">Lumbar microdiscectomy</a>
-  <a href="cases/spine-degenerative/lumbar-laminectomy.html">Lumbar laminectomy</a>
-  <a href="cases/cranial-tumor/glioma-resection.html">Glioma resection</a>
-  <a href="cases/cranial-tumor/cerebral-metastasis.html">Brain metastasis</a>
-  <a href="cases/cranial-vascular/mca-aneurysm-clipping.html">MCA aneurysm clipping</a>
-  <a href="cases/cranial-tumor/vestibular-schwannoma.html">Vestibular schwannoma</a>
-  <a href="cases/cranial-functional/chiari-decompression.html">Chiari decompression</a>
-  <a href="cases/cranial-functional/dbs-placement.html">DBS placement</a>
-  <a href="cases/cranial-tumor/pituitary-adenoma-transsphenoidal.html">Pituitary (transsphenoidal)</a>
-  <a href="{{ site.cranipro_url | relative_url }}">CraniPro positioning simulator</a>
+  <a class="card approaches" href="#approaches"><span class="ic">⌖</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
+  <a class="card aids" href="{{ site.cranipro_url | relative_url }}"><span class="ic">◎</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
+  <a class="card aids" href="resources/approach-map.html"><span class="ic">◇</span><span class="t">Approach Map</span><span class="d">Linked corridors by region, target, and typical case use</span><span class="n">global map</span></a>
+  <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">?</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
+  <a class="card cranial" href="#cranial"><span class="ic">C</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
+  <a class="card stereo" href="#stereo"><span class="ic">S</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
+  <a class="card spine" href="#spine"><span class="ic">Sp</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
+  <a class="card peripheral" href="#peripheral"><span class="ic">P</span><span class="t">Peripheral &amp; Pediatric</span><span class="d">Nerve · plexus · pediatric neurosurgery</span><span class="n">10 guides</span></a>
+  <a class="card resources" href="#resources"><span class="ic">R</span><span class="t">Resources &amp; Template</span><span class="d">orders · media sources · blank template</span><span class="n">toolkit</span></a>
 </div>
 
 > ⚠️ **Educational reference — not medical advice.** Summarizes standard teaching; verify against primary sources, current guidelines, institutional protocols, device instructions, and attending judgment before any patient care. See the [full disclaimer](DISCLAIMER.md).
@@ -55,6 +37,8 @@ title: Home
 *The granular "how it's set up" reference per surgical corridor: positioning (exact degrees, pin placement), incision landmarks, soft-tissue planes, bone work, dural opening, intradural steps, surgeon nuances & pitfalls, with figures. Pathology guides link here.*
 
 **▶ [Approach selection — decision aids](cases/approaches/approach-selection.md)** — comparison tables: which corridor for which lesion.
+
+**⌖ [Global Approach Map](resources/approach-map.md)** — linked corridors by region, target, exposure, and representative case guides.
 
 - [**Pterional (frontotemporal) craniotomy**](cases/approaches/pterional-craniotomy.md)
 - [**Retrosigmoid (retromastoid) craniotomy**](cases/approaches/retrosigmoid-craniotomy.md)
@@ -78,6 +62,7 @@ title: Home
 <h2 id="resources">📚 Resources &amp; Templates</h2>
 - [Top 100 Neurosurgery Resources](resources/neurosurgery-resources.md) — textbooks, atlases, platforms, journals, operative references
 - [Perioperative logistics & orders quick reference](resources/perioperative-logistics-orders.md) — typical bed, OR setup, monitoring, MAP/BP, steroid/device/drain, and postop order blocks
+- [Global Approach Map](resources/approach-map.md) — linked cranial, skull-base, spine, endovascular, and stereotactic corridors
 - [Curated media & figure sources](resources/media-sources.md) — where the figures come from (and licensing)
 - [CNS Video Library embeds](resources/cns-video-library.md) — mapped CNS videos and where they are embedded in the guide set
 - [Master Case-Prep Template](templates/case-prep-template.md) — blank template with every section

@@ -222,6 +222,51 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Procedures: [posterior cervical laminectomy & fusion](../spine-degenerative/posterior-cervical-laminectomy-fusion.md) · [laminoplasty](../spine-degenerative/cervical-laminoplasty.md) · [posterior cervical foraminotomy](../spine-degenerative/posterior-cervical-foraminotomy.md) · [occipitocervical fusion](../spine-trauma/occipitocervical-fusion.md) · [subaxial cervical fracture](../spine-trauma/subaxial-cervical-fracture.md)
 - Related corridors: [anterior-cervical-approach.md](anterior-cervical-approach.md) · [posterior-thoracolumbar-approach.md](posterior-thoracolumbar-approach.md)
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Posterior Cervical Approach (Laminectomy / Laminoplasty / Foraminotomy / Lateral Mass Fixation)**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Cervical Laminoplasty](../../cases/spine-degenerative/cervical-laminoplasty.md)
+- [Odontoid (Type II) Fracture Fixation](../../cases/spine-trauma/odontoid-fracture.md)
+- [Penetrating Spine Injury (Gunshot / Stab) Management](../../cases/spine-trauma/penetrating-spine-injury.md)
+- [Posterior Cervical Foraminotomy (Laminoforaminotomy)](../../cases/spine-degenerative/posterior-cervical-foraminotomy.md)
+- [Posterior Cervical Laminectomy and Fusion](../../cases/spine-degenerative/posterior-cervical-laminectomy-fusion.md)
+- [Spinal Arteriovenous Malformation (Intramedullary / Perimedullary)](../../cases/spine-vascular/spinal-avm.md)
+- [Spinal Cord Cavernous Malformation Resection](../../cases/spine-vascular/spinal-cord-cavernoma.md)
+- [Spinal Epidural Abscess — Decompression & Drainage](../../cases/spine-infection/spinal-epidural-abscess.md)
+- [Subaxial Cervical Spine Fracture / Dislocation Fixation](../../cases/spine-trauma/subaxial-cervical-fracture.md)
+- [Syringomyelia — Management / Syringosubarachnoid Shunt](../../cases/spine-congenital/syringomyelia.md)
+- [Traumatic Central Cord Syndrome](../../cases/spine-trauma/central-cord-syndrome.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. Roy-Camille R, Saillant G, Mazel C. **Internal fixation of the unstable cervical spine by a posterior osteosynthesis with plates and screws.** (lateral mass technique).
 2. Magerl F, Seemann PS. **Stable posterior fusion of the atlas and axis by transarticular screw fixation.** 1987.

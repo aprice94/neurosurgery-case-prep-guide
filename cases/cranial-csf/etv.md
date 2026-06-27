@@ -40,6 +40,33 @@ tags:
 
 ---
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Endoscopic Third Ventriculostomy (ETV)**:
+
+1. What is the working CSF physiology problem: obstruction, absorption failure, overdrainage, infection, or catheter failure?
+2. Where exactly is the entry point, target, and backup trajectory?
+3. What valve, catheter, endoscope, or navigation preference does the attending use?
+4. What is the infection-prevention plan and what cultures/CSF studies are needed?
+5. What postop imaging, valve setting, drainage level, and neuro-check plan should be written?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Valve brand/setting, antibiotic catheter use, and tunneling side:** [attending-specific]
+- **Navigation/endoscope/stylet preference and ventricular target:** [attending-specific]
+- **CSF culture/lab routine and perioperative antibiotic duration:** [attending-specific]
+- **Postop scan timing, EVD height or valve verification, and activity restrictions:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
 <!-- BEGIN CURATED LITERATURE -->
 
 ## High-Yield Literature

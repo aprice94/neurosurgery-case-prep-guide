@@ -266,6 +266,44 @@ Pin placement keeps the single pin on the operative side low and posterior so it
 - Functional: [mvd-trigeminal-neuralgia.md](../cranial-functional/mvd-trigeminal-neuralgia.md) · [mvd-hemifacial-spasm.md](../cranial-functional/mvd-hemifacial-spasm.md)
 - Related corridors: [far-lateral-craniotomy.md](far-lateral-craniotomy.md) · [presigmoid-petrosal-approach.md](presigmoid-petrosal-approach.md) · [midline-suboccipital-craniotomy.md](midline-suboccipital-craniotomy.md)
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Retrosigmoid (Retromastoid) Craniotomy**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Epidermoid Tumor Resection](../../cases/cranial-tumor/epidermoid.md)
+- [Microvascular Decompression (MVD) for Trigeminal Neuralgia](../../cases/cranial-functional/mvd-trigeminal-neuralgia.md)
+- [Microvascular Decompression for Hemifacial Spasm](../../cases/cranial-functional/mvd-hemifacial-spasm.md)
+- [Vestibular Schwannoma (Acoustic Neuroma) Resection](../../cases/cranial-tumor/vestibular-schwannoma.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. Rhoton AL Jr. *The cerebellopontine angle and posterior fossa cranial nerves by the retrosigmoid approach.* Neurosurgery. 2000;47(3 Suppl):S93–S129.
 2. Samii M, Gerganov VM. *Surgery of Cerebellopontine Lesions.* Springer, 2013.

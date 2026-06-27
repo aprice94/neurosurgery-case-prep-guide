@@ -220,6 +220,41 @@ The bifrontal approach is a reconstruction-heavy corridor. If a robust pericrani
 - Pathology: [olfactory-groove-meningioma.md](../cranial-tumor/olfactory-groove-meningioma.md) · [tuberculum-sellae-meningioma.md](../cranial-tumor/tuberculum-sellae-meningioma.md)
 - Related corridors: [supraorbital-keyhole-craniotomy.md](supraorbital-keyhole-craniotomy.md) · [anterior-interhemispheric-approach.md](anterior-interhemispheric-approach.md) · [endoscopic-endonasal-approach.md](endoscopic-endonasal-approach.md) · [pterional-craniotomy.md](pterional-craniotomy.md)
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Bifrontal (Subfrontal) Craniotomy**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Olfactory Groove Meningioma Resection](../../cases/cranial-tumor/olfactory-groove-meningioma.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. Tomasello F, et al. **Bifrontal approach for anterior skull base meningiomas** (olfactory tract preservation considerations).
 2. Spektor S, et al. **Olfactory groove meningiomas: comparison of bifrontal vs unilateral approaches.**

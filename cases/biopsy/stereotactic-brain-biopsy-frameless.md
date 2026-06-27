@@ -38,6 +38,33 @@ tags:
 
 ---
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Frameless (Navigation-Based) Stereotactic Brain Biopsy**:
+
+1. What target coordinate, trajectory, and no-fly-zone were chosen?
+2. What imaging confirms target accuracy and avoids vessel/ventricle/sulcus violation?
+3. What specimen, pathology, culture, or molecular study must be obtained?
+4. What hemorrhage, edema, seizure, or thermal-injury sign must be watched for tonight?
+5. What postop scan timing and steroid/antiepileptic plan is appropriate?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Frame versus frameless/robot platform and planning software:** [attending-specific]
+- **Trajectory constraints, number of cores/targets, and frozen/permanent pathology plan:** [attending-specific]
+- **Steroid/antiepileptic prophylaxis and postop scan timing:** [attending-specific]
+- **Admit versus discharge threshold and neuro-check frequency:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
 <!-- BEGIN CURATED LITERATURE -->
 
 ## High-Yield Literature

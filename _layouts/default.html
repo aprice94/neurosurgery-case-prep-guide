@@ -6,12 +6,26 @@
   <script>(function(){try{var t=localStorage.getItem('theme')||(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
   <title>{% if page.title and page.url != "/" %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+  {% assign meta_title = page.title | default: site.title %}
+  {% assign meta_description = page.description | default: site.description %}
+  {% assign meta_image = site.logo | absolute_url %}
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{% if page.url != '/' %}{{ meta_title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ meta_description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ meta_image }}">
+  <meta property="og:image:alt" content="Pterion Prep logo">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.url != '/' %}{{ meta_title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ meta_description }}">
+  <meta name="twitter:image" content="{{ meta_image }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="icon" type="image/png" href="{{ '/assets/img/pterion-prep-logo.png' | relative_url }}">
-  <link rel="apple-touch-icon" href="{{ '/assets/img/pterion-prep-logo.png' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ site.mark | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ site.mark | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   <script defer src="https://unpkg.com/lunr@2.3.9/lunr.min.js"></script>
 </head>
 <body>
@@ -43,7 +57,7 @@
         {% if page.title %}<span class="sep">›</span><span class="crumb crumb-current">{{ page.title }}</span>{% endif %}
       </div>
       <div class="subbar-actions">
-        {% assign rev = site.data.reviewed[page.path] %}{% if rev %}<span class="reviewed" title="Last updated (from git history)">Updated {{ rev }}</span>{% endif %}
+        {% assign rev = site.data.reviewed[page.path] %}{% if rev %}<span class="reviewed" title="Last reviewed">Last reviewed {{ rev }}</span>{% endif %}
         <button class="subbar-btn" type="button" onclick="window.print()" title="Print or save this guide as a PDF">🖨️ PDF</button>
         <a class="subbar-btn" href="{{ site.github_repo }}/edit/main/{{ page.path }}" target="_blank" rel="noopener" title="Suggest an edit on GitHub">✏️ Edit</a>
       </div>
@@ -53,6 +67,12 @@
 
   <main class="wrap content">
     <article class="prose">
+      {% assign rev = site.data.reviewed[page.path] %}
+      {% if page.path contains "cases/" and page.name != "index.md" and rev %}
+      <div class="guide-meta" aria-label="Guide metadata">
+        <span>{{ rev }}</span>
+      </div>
+      {% endif %}
       {{ content }}
     </article>
     {% if page.url contains "/cases/" and page.name != "index.md" %}

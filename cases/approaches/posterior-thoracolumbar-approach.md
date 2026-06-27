@@ -229,6 +229,59 @@ Pedicle-screw malposition (neuro/vascular), **dural tear/CSF leak**, **wound inf
 - Procedures: [lumbar laminectomy](../spine-degenerative/lumbar-laminectomy.md) · [TLIF](../spine-degenerative/tlif.md) · [thoracolumbar burst fracture](../spine-trauma/thoracolumbar-burst-fracture.md) · [adult deformity osteotomy](../spine-deformity/adult-spinal-deformity-osteotomy.md) · [vertebral corpectomy](../spine-tumor/vertebral-corpectomy.md)
 - Related corridors: [transpsoas-approach.md](transpsoas-approach.md) · [transthoracic-approach.md](transthoracic-approach.md) · [posterior-cervical-approach.md](posterior-cervical-approach.md)
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Posterior Thoracolumbar Approach (Midline & Wiltse / Pedicle Screw Fixation)**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Adult Spinal Deformity Correction (with Osteotomy — SPO / PSO / VCR)](../../cases/spine-deformity/adult-spinal-deformity-osteotomy.md)
+- [Flexion-Distraction (Chance) Injury Fixation](../../cases/spine-trauma/flexion-distraction-chance.md)
+- [Intradural Extramedullary Spinal Tumor Resection (Meningioma / Schwannoma)](../../cases/spine-tumor/intradural-extramedullary.md)
+- [Intramedullary Spinal Cord Tumor Resection (Ependymoma / Astrocytoma / Hemangioblastoma)](../../cases/spine-tumor/intramedullary-tumor.md)
+- [Intrathecal Baclofen (ITB) Pump Implantation](../../cases/spine-functional/intrathecal-baclofen-pump.md)
+- [Lumbar Laminectomy for Spinal Stenosis](../../cases/spine-degenerative/lumbar-laminectomy.md)
+- [Lumbar Microdiscectomy](../../cases/spine-degenerative/lumbar-microdiscectomy.md)
+- [Penetrating Spine Injury (Gunshot / Stab) Management](../../cases/spine-trauma/penetrating-spine-injury.md)
+- [Sacral Fracture / Spinopelvic (Lumbopelvic) Fixation](../../cases/spine-trauma/sacral-fracture-spinopelvic.md)
+- [Spinal Arteriovenous Malformation (Intramedullary / Perimedullary)](../../cases/spine-vascular/spinal-avm.md)
+- [Spinal Cord Cavernous Malformation Resection](../../cases/spine-vascular/spinal-cord-cavernoma.md)
+- [Spinal Cord Stimulator (SCS) Placement](../../cases/spine-functional/spinal-cord-stimulator.md)
+- [Spinal Dural Arteriovenous Fistula (dAVF) — Surgical Ligation](../../cases/spine-vascular/spinal-dural-avf.md)
+- [Spinal Epidural Abscess — Decompression & Drainage](../../cases/spine-infection/spinal-epidural-abscess.md)
+- [Syringomyelia — Management / Syringosubarachnoid Shunt](../../cases/spine-congenital/syringomyelia.md)
+- [Tethered Cord Release](../../cases/spine-congenital/tethered-cord-release.md)
+- [Thoracolumbar Burst Fracture Fixation](../../cases/spine-trauma/thoracolumbar-burst-fracture.md)
+- [Transforaminal Lumbar Interbody Fusion (TLIF)](../../cases/spine-degenerative/tlif.md)
+- [Vertebral Osteomyelitis / Discitis — Surgical Management](../../cases/spine-infection/vertebral-osteomyelitis-discitis.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. Wiltse LL, Bateman JG, Hutchinson RH, Nelson WE. **The paraspinal sacrospinalis-splitting approach to the lumbar spine.** *J Bone Joint Surg Am.* 1968;50(5):919–926.
 2. Roy-Camille R, Saillant G, Mazel C. **Internal fixation of the lumbar spine with pedicle screw plating.** *Clin Orthop.* 1986.

@@ -166,8 +166,41 @@ Postoperative CSF leak (1–5% sellar, 10–15% extended); DI (transient ~30%, p
 
 ---
 
-## Pathology guides that use this approach
-[Pituitary adenoma (transsphenoidal)](../cranial-tumor/pituitary-adenoma-transsphenoidal.md) · [Craniopharyngioma](../cranial-tumor/craniopharyngioma.md) · [Tuberculum sellae meningioma](../cranial-tumor/tuberculum-sellae-meningioma.md) · [Clival chordoma](../cranial-tumor/clival-chordoma.md)
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Clival Chordoma Resection](../../cases/cranial-tumor/clival-chordoma.md)
+- [Pituitary Adenoma — Endoscopic Endonasal Transsphenoidal Approach](../../cases/cranial-tumor/pituitary-adenoma-transsphenoidal.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Endoscopic Endonasal (Transsphenoidal) Approach**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 ## References
 1. Jho HD, Carrau RL. Endoscopic endonasal transsphenoidal surgery: experience with 50 patients. *J Neurosurg.* 1997;87(1):44–51.

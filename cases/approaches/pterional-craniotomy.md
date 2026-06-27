@@ -150,8 +150,47 @@ Frontalis (CN VII) palsy; temporalis atrophy / trismus; CSF leak / mucocele (sin
 
 ---
 
-## Pathology guides that use this approach
-[MCA aneurysm](../cranial-vascular/mca-aneurysm-clipping.md) · [AComA aneurysm](../cranial-vascular/acomm-aneurysm-clipping.md) · [PComA aneurysm](../cranial-vascular/pcomm-aneurysm-clipping.md) · [Sphenoid wing meningioma](../cranial-tumor/sphenoid-wing-meningioma.md) · [Tuberculum sellae meningioma](../cranial-tumor/tuberculum-sellae-meningioma.md) · [Insular glioma](../cranial-tumor/insular-glioma.md)
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Anterior Communicating Artery (AComA) Aneurysm Clipping](../../cases/cranial-vascular/acomm-aneurysm-clipping.md)
+- [Arteriovenous Malformation (AVM) Resection](../../cases/cranial-vascular/avm-resection.md)
+- [EC-IC Bypass (STA-MCA)](../../cases/cranial-vascular/ec-ic-bypass.md)
+- [Glioma Resection (Supratentorial)](../../cases/cranial-tumor/glioma-resection.md)
+- [Insular Glioma Resection](../../cases/cranial-tumor/insular-glioma.md)
+- [MCA Aneurysm Clipping](../../cases/cranial-vascular/mca-aneurysm-clipping.md)
+- [Posterior Communicating Artery (PComA) Aneurysm Clipping](../../cases/cranial-vascular/pcomm-aneurysm-clipping.md)
+- [Sphenoid Wing Meningioma Resection](../../cases/cranial-tumor/sphenoid-wing-meningioma.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Pterional (Frontotemporal) Craniotomy**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
 
 ## References
 1. Yaşargil MG. *Microneurosurgery*, Vol. I. Georg Thieme Verlag; 1984:217–220.

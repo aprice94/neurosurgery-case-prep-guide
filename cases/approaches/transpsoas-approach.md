@@ -219,6 +219,41 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Procedures: [XLIF / OLIF](../spine-degenerative/xlif-olif.md) · [ALIF](../spine-degenerative/alif.md) · [adult deformity](../spine-deformity/adult-spinal-deformity-osteotomy.md)
 - Related corridors: [posterior-thoracolumbar-approach.md](posterior-thoracolumbar-approach.md) · [transthoracic-approach.md](transthoracic-approach.md)
 
+<!-- BEGIN COMMON PIMP QUESTIONS -->
+
+## Common Pimp Questions
+
+Use these to pressure-test preparation for **Transpsoas Lateral Approach (LLIF / XLIF / OLIF) to the Lumbar Spine**:
+
+1. What patient position and head rotation make gravity work for this corridor?
+2. What named nerve, vessel, sinus, or muscle/fascial plane is most commonly injured?
+3. What bone work or soft-tissue step creates the exposure rather than simply using more retraction?
+4. What is the bailout if exposure is inadequate, bleeding occurs, or the brain is tight?
+5. What closure maneuver prevents the signature complication of this approach?
+
+<!-- END COMMON PIMP QUESTIONS -->
+
+<!-- BEGIN ATTENDING PREFERENCE VARIABLES -->
+
+## Attending Preference Variables
+
+Items that commonly vary by surgeon or institution:
+
+- **Exact head rotation/flexion/extension and pin placement:** [attending-specific]
+- **Skin incision length, flap type, and muscle/fascial preservation technique:** [attending-specific]
+- **Drill, rongeur, endoscope, microscope, retractor, and navigation preferences:** [attending-specific]
+- **Drain use, closure materials, watertightness threshold, and postop imaging routine:** [attending-specific]
+
+<!-- END ATTENDING PREFERENCE VARIABLES -->
+
+<!-- BEGIN REVERSE APPROACH LINKS -->
+
+## Case Guides Using This Approach
+
+- [Lateral Lumbar Interbody Fusion (XLIF / OLIF)](../../cases/spine-degenerative/xlif-olif.md)
+
+<!-- END REVERSE APPROACH LINKS -->
+
 ## References
 1. Ozgur BM, Aryan HE, Pimenta L, Taylor WR. **Extreme lateral interbody fusion (XLIF): a novel surgical technique for anterior lumbar interbody fusion.** *Spine J.* 2006;6(4):435–443.
 2. Moro T, Kikuchi S, Konno S, Yaginuma H. **An anatomic study of the lumbar plexus with respect to retroperitoneal endoscopic surgery.** *Spine.* 2003;28(5):423–428.
