@@ -15,9 +15,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** corridor-defining nerves, arteries, veins/sinuses, cisterns, bone landmarks, muscle/fascial planes, and closure structures that determine exposure and morbidity.
-- **Operative steps:** confirm position and trajectory, mark landmarks, protect soft tissue and named neurovascular structures, perform the bone/soft-tissue corridor, open/close dura or target compartment deliberately, and verify hemostasis/reconstruction; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
+- **Anatomy at risk:** frontal sinus, supraorbital/supratrochlear pedicles, pericranial flap, anterior third of SSS/falx, frontal bridging veins, olfactory bulbs/tracts, cribriform/ethmoid roof, ethmoidal arteries, optic apparatus, ACA/AComA complex, and anterior skull-base reconstruction planes.
+- **Operative steps:** plan sinus/pericranial reconstruction, raise bicoronal flap and vascularized pericranium, create low bifrontal exposure, cranialize frontal sinus when entered, divide anterior SSS/falx only when appropriate, relax frontal lobes, devascularize tumor/base, protect optic/ACA structures, and close with watertight anterior-fossa separation.
+- **Rescue plans:** frontal sinus violation, pneumatized crista galli, CSF rhinorrhea risk, venous bleeding, frontal-lobe swelling, ethmoidal artery retraction into orbit, optic/ACA adherence, anosmia counseling, and need to convert to unilateral, endonasal, or combined craniofacial strategy.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -122,6 +122,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Sinonasal tumors with intracranial extension** (cranionasal/craniofacial), esthesioneuroblastoma
 - **Traumatic anterior skull base** fractures / **CSF rhinorrhea** repair, anterior fossa reconstruction
 
+### Corridor Selection
+
+| Lesion pattern | Bifrontal advantage | Alternative to consider |
+|----------------|--------------------|-------------------------|
+| Large midline olfactory groove tumor with bilateral extension | Bilateral devascularization and reconstruction field | Unilateral subfrontal/pterional for smaller lateralized tumors |
+| Large planum/tuberculum tumor with major optic canal work | Wide midline access and optic apparatus control | Pterional/OZ for lateral optic canal/cavernous extension; endonasal for selected midline inferior tumors |
+| Sinonasal tumor crossing skull base | Combined craniofacial field and pericranial flap | Endoscopic endonasal alone for limited midline disease |
+| Traumatic anterior fossa CSF leak with broad defect | Direct multilayer floor repair | Endoscopic repair for focal medial leaks |
+| Small anterior skull-base lesion with preserved olfaction priority | Often excessive | Supraorbital keyhole, pterional, or endonasal depending on origin |
+
+The bifrontal approach is a reconstruction-heavy corridor. If a robust pericranial flap and sinus plan are not needed, ask whether a unilateral or endonasal route gives the same target control with less frontal-lobe cost.
+
 ![Olfactory groove meningioma — T1 post-contrast MRI (axial/coronal/sagittal) with an aerated crista galli abutting the tumor (a CSF-leak pitfall)](../../figures/bifrontal/ogm-crista-galli_cureus-e101289.jpg)
 
 *Cureus 2026;18:e101289 (PMC12889192) — CC BY 4.0. The prototypical bifrontal target; the **pneumatized crista galli** (arrows) warns of an anterior-fossa CSF communication.*
@@ -139,6 +151,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **CT (bone):** **frontal sinus and crista galli pneumatization**, cribriform/ethmoid involvement, hyperostosis, and bony invasion (see figure); plan sinus cranialization and floor reconstruction.
 - **MRI ± CTA:** tumor extent/vascularity, **brain edema**, optic apparatus and **ACA** encasement; consider **preoperative embolization** for very vascular tumors.
 - **Vision and endocrine** baseline; counsel re: **anosmia** and CSF-leak risk. Plan the **pericranial flap.**
+
+### Reconstruction Plan Before Incision
+- Identify frontal sinus boundaries and nasofrontal ducts on CT; decide whether the sinus will be avoided, exenterated, or fully cranialized.
+- Check for pneumatized crista galli, ethmoid roof defects, and sinonasal extension; these often determine the need for multilayer repair.
+- Plan a pericranial flap long enough to reach the planum/cribriform defect without tension; preserve pedicles during scalp reflection.
+- Decide whether lumbar drainage is needed and when it is safe; avoid early overdrainage before dural opening if there is major mass effect.
+- Coordinate ENT/plastics when sinonasal resection, orbital wall work, free flap, or complex revision reconstruction is expected.
 
 ## Anesthesia & Neuromonitoring
 - GA; **lumbar drain** to aid frontal-lobe relaxation (drain after dura is open); navigation; vision-relevant monitoring as indicated. Normotension.
@@ -164,6 +183,21 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 - After CSF release (lumbar drain), **gently elevate the frontal lobes** to expose the floor. **Devascularize the tumor base early** by coagulating the **ethmoidal arteries** at the cribriform; **drill hyperostotic bone/crista galli** and remove involved dura (Simpson grade).
 - Internally debulk, then dissect the capsule off the **frontal lobes, optic nerves/chiasm, and ACA–AComA complex** posteriorly, preserving perforators. For invasive tumors, resect involved cribriform/ethmoid and plan a **cranionasal reconstruction.**
+
+### Tumor and Skull-Base Work Sequence
+1. Open cisterns or drain CSF after the dura is open to relax the frontal lobes.
+2. Identify both olfactory bulbs/tracts early; if preservation is unrealistic, sacrifice deliberately rather than avulsing them during retraction.
+3. Coagulate ethmoidal/cribriform dural supply at the base before deep debulking to reduce blood loss.
+4. Debulk centrally, then roll the capsule away from frontal lobes, optic nerves, chiasm, ACA/AComA, and perforators under direct vision.
+5. Drill hyperostotic crista galli/planum/orbital roof bone until healthy bone margins are reached, balancing Simpson grade with reconstruction risk.
+6. Treat invaded dura and sinonasal communication as a skull-base reconstruction problem, not merely a tumor-removal problem.
+
+### Intraoperative Rescue
+- **Frontal-lobe swelling:** stop fixed retraction, drain CSF safely, optimize venous outflow/head position, mannitol/hyperventilation as appropriate, and avoid pushing deeper until the brain relaxes.
+- **Anterior SSS/falx bleeding:** control with clips/suture/packing only in the anterior third; preserve posterior drainage and bridging veins.
+- **Ethmoidal artery bleeding into orbit:** coagulate/clip at the cranial base before it retracts; monitor orbit and avoid orbital compartment syndrome.
+- **ACA/perforator adherence:** leave a rind rather than avulsing a perforator; postoperative radiosurgery is better than an avoidable infarct.
+- **Unexpected sinus contamination:** complete cranialization, remove mucosa, obliterate ducts, isolate with vascularized pericranium, and consider antibiotics/drainage strategy.
 
 
 ---

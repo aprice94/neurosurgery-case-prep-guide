@@ -16,9 +16,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** corridor-defining nerves, arteries, veins/sinuses, cisterns, bone landmarks, muscle/fascial planes, and closure structures that determine exposure and morbidity.
-- **Operative steps:** confirm position and trajectory, mark landmarks, protect soft tissue and named neurovascular structures, perform the bone/soft-tissue corridor, open/close dura or target compartment deliberately, and verify hemostasis/reconstruction; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
+- **Anatomy at risk:** recurrent/superior laryngeal nerves, esophagus/pharynx/trachea, carotid sheath and vagus nerve, thyroid vessels, sympathetic chain, vertebral artery lateral to the uncovertebral joints, longus colli, thoracic duct in low left-sided exposure, dura, cord, and roots.
+- **Operative steps:** choose side/level, position with safe extension, localize before incision and before drilling, develop the Smith-Robinson interval, seat retractors under longus colli, confirm midline/uncovertebral limits, perform ACDF/corpectomy/arthroplasty work, inspect esophagus/hemostasis, and close with airway vigilance.
+- **Rescue plans:** wrong-level exposure, difficult low/high access, medialized carotid, RLN/voice risk, esophageal injury, vertebral artery injury, airway hematoma, CSF leak in OPLL/corpectomy, dysphagia, and postoperative neurologic decline.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -121,6 +121,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ### Indications
 - Cervical **disc herniation / spondylotic radiculopathy or myelopathy**, **OPLL**, anterior column **trauma**, **tumor**, **infection** (discitis/osteomyelitis) requiring anterior decompression/reconstruction.
 
+### Side and Incision Selection
+
+| Situation | Practical choice |
+|-----------|------------------|
+| Primary C3-C7 exposure | Either side; left is often chosen for more predictable RLN course |
+| Prior anterior cervical surgery | Usually same side after laryngoscopy confirms the opposite vocal cord works |
+| C2-C3 / high C3-C4 | Higher transverse incision, submandibular/hypoglossal-superior laryngeal awareness |
+| C7-T1 / T1 | Low transverse/oblique incision, shoulder taping, possible manubrial/clavicular limits |
+| Multilevel corpectomy | Longer oblique/SCM-parallel exposure may be more extensile |
+| Medialized carotid or vessel anomaly | Modify side/corridor or abandon anterior plan if the vessel crosses the operative path |
+
+Do not let the skin crease dictate the whole operation. The incision should serve the target level, fluoroscopic access, retractor angle, and reconstruction plan.
+
 ---
 
 ## Relevant Surgical Anatomy (layer by layer)
@@ -144,6 +157,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Voice/swallow baseline**; **laryngoscopy before re-operation** (confirm contralateral cord function before choosing the side).
 - Plan **level localization** (landmarks + intra-op fluoroscopy); for low levels, plan shoulder traction/taping.
 
+### Preoperative Risk Flags
+- **OPLL or calcified disc:** higher dural-adherence and CSF leak risk; review CT carefully and prepare patch/sealant strategy.
+- **Severe myelopathy:** avoid excessive neck extension; maintain spinal cord perfusion and consider neuromonitoring.
+- **Revision anterior neck:** scarred planes, altered RLN risk, esophageal adherence, and higher dysphagia; obtain laryngoscopy and consider ENT exposure.
+- **Long multilevel construct:** higher dysphagia, pseudarthrosis, graft/plate complications, and airway swelling; plan postoperative airway observation.
+- **Vascular variant:** medialized carotid, aberrant vertebral artery, high-riding innominate, and left thoracic duct risk in low exposure should change the exposure plan.
+
 ## Anesthesia & Neuromonitoring
 - GA; **SSEP/MEP (and EMG)** for myelopathy/deformity; avoid long-acting paralytic if MEPs. Consider **monitoring ETT cuff pressure** (release after retractor placement) to reduce RLN palsy. Arterial line for myelopathic cords (MAP support).
 
@@ -163,6 +183,20 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 5. **Level localization with a spinal needle + fluoroscopy/X-ray before any bone work** (wrong-level surgery is a classic, avoidable error).
 
 → proceed to the procedure-specific steps ([ACDF](../spine-degenerative/acdf.md) discectomy/uncovertebral decompression, [corpectomy](../spine-tumor/vertebral-corpectomy.md), or [arthroplasty](../spine-degenerative/cervical-disc-replacement.md)). The **uncovertebral joints are the lateral limit** — beyond them lies the **vertebral artery.**
+
+### Exposure Nuances
+- Keep the dissection blunt once the correct interval is found; sharp dissection belongs only to fascia/platysma and controlled scar release.
+- Put retractor teeth under the longus colli, not on the esophagus or sympathetic chain; periodically release retraction during long cases.
+- Confirm the midline by longus colli symmetry, uncinate anatomy, and fluoroscopy; off-midline decompression is how vertebral artery injury happens.
+- For low levels, shoulder traction improves fluoroscopy but can stretch brachial plexus; pad, tape evenly, and release when possible.
+- For high levels, protect the hypoglossal/superior laryngeal region and limit aggressive superior thyroid vessel work.
+
+### Intraoperative Rescue
+- **Airway hematoma during closure/recovery:** remove compressive dressing, open incision at bedside if respiratory compromise is imminent, evacuate clot, and secure airway with anesthesia/ENT help.
+- **Esophageal injury suspected:** stop, expose the injury, obtain primary repair/ENT help, drain, antibiotics, and nutrition plan; missed perforation is the dangerous failure mode.
+- **Vertebral artery injury:** tamponade immediately, maintain exposure, avoid blind bipolar, consider hemostatic packing/direct repair/endovascular control, and verify posterior circulation plan.
+- **CSF leak in OPLL/corpectomy:** primary repair if possible, patch graft/fat/fascia/sealant, avoid excessive suction on the repair, and consider lumbar drainage only when safe.
+- **Loss of signals or new deficit:** stop distraction, raise MAP, remove graft/implant or reverse correction if needed, image for hematoma/hardware, and reassess decompression.
 
 
 ---

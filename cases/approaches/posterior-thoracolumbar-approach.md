@@ -15,9 +15,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** corridor-defining nerves, arteries, veins/sinuses, cisterns, bone landmarks, muscle/fascial planes, and closure structures that determine exposure and morbidity.
-- **Operative steps:** confirm position and trajectory, mark landmarks, protect soft tissue and named neurovascular structures, perform the bone/soft-tissue corridor, open/close dura or target compartment deliberately, and verify hemostasis/reconstruction; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
+- **Anatomy at risk:** thoracolumbar cord/conus/cauda equina, traversing and exiting roots, pedicles and medial walls, segmental vessels, epidural venous plexus, facets/pars/transverse processes, paraspinal muscle innervation, and posterior tension band.
+- **Operative steps:** localize levels, position prone with abdomen free, choose midline/Wiltse/percutaneous corridor, expose bony landmarks, decompress when indicated, place instrumentation with imaging/neuromonitoring checks, decorticate/graft, and close the fascial envelope securely.
+- **Rescue plans:** wrong-level concern, pedicle breach, neuromonitoring change, epidural bleeding, dural tear, poor screw purchase, malreduction, junctional alignment problem, and wound/closure failure.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -118,6 +118,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
   - **Wiltse paramedian (muscle-splitting):** a plane **between multifidus and longissimus** that goes directly onto the facet/transverse process — ideal for **far-lateral discs, percutaneous/MIS pedicle screws,** and reducing muscle morbidity.
 - **Abdomen free** (Jackson/Wilson frame) is the single most important set-up detail — it lowers epidural venous pressure and **blood loss** and helps restore **lordosis.**
 
+### Approach Choice: Midline vs Wiltse vs Percutaneous
+
+| Need | Midline subperiosteal | Wiltse paramedian | Percutaneous / MIS |
+|------|-----------------------|-------------------|--------------------|
+| Central decompression | Best exposure | Limited unless tubular decompression planned | Limited |
+| TLIF / facetectomy | Standard, flexible | Excellent for unilateral TLIF/far-lateral access | Possible with tubular systems |
+| Trauma fixation | Fast and extensile | Useful for short-segment fixation without decompression | Useful when no open decompression needed |
+| Deformity/osteotomy | Required for wide releases/osteotomies | Adjunct only | Adjunct only |
+| Muscle preservation | More stripping | Muscle-splitting | Most preserving but imaging-dependent |
+| Revision anatomy | Direct scar control | May avoid midline scar | Challenging if landmarks distorted |
+
+The practical rule: choose the smallest corridor that still allows safe decompression, reduction, fixation, grafting, and hemostasis. A percutaneous construct is not a virtue if the patient needs direct canal decompression, durotomy repair, tumor separation, or osteotomy work.
+
 ### Indications
 - Degenerative: stenosis/spondylolisthesis → [lumbar laminectomy](../spine-degenerative/lumbar-laminectomy.md), [TLIF](../spine-degenerative/tlif.md); far-lateral disc (Wiltse)
 - **Trauma:** [thoracolumbar burst fracture](../spine-trauma/thoracolumbar-burst-fracture.md), [flexion-distraction (Chance)](../spine-trauma/flexion-distraction-chance.md)
@@ -133,6 +146,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Preoperative Evaluation
 - **CT/MRI** for levels, **pedicle diameter and trajectory**, deformity/alignment; navigation/robotics dataset; bone quality (osteoporosis → augmentation). **Level localization plan** (counting is error-prone in the thoracic spine).
+
+### Level Localization Strategy
+- Count from fixed landmarks on pre-op imaging: sacrum upward for lumbar, C2 downward and ribs for thoracic, and correlate with transitional anatomy.
+- Mark the intended levels with AP/lateral fluoroscopy before incision and again before irreversible bone work.
+- In thoracic cases, rib counting and poor shoulder visualization can mislead; use full-spine scout imaging or navigation when numbering is ambiguous.
+- For deformity, define the upper/lower instrumented vertebrae, neutral/stable vertebrae, and planned osteotomy levels before positioning.
+- For tumor/infection, confirm the pathologic level against MRI, CT, and intraoperative localization; wrong-level exposure is easy when multiple compression fractures exist.
 
 ## Anesthesia & Neuromonitoring
 - GA, prone; **SSEP/MEP and free-run/triggered EMG** (pedicle screw stimulation), especially for thoracic/deformity; no long-acting paralytic with MEPs; antifibrinolytics for deformity; blood available.
@@ -162,6 +182,26 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 - **Cannulate the pedicles** at the level-specific entry/trajectory (freehand, fluoro, navigation, or robotic); confirm with **triggered EMG** and imaging — respect the **medial and inferior pedicle walls.** Decorticate and graft the posterolateral gutter; place rods after decompression/interbody.
 - Decompression (laminectomy/facetectomy) and **interbody fusion** (TLIF/PLIF) proceed per the procedure guide → [TLIF](../spine-degenerative/tlif.md).
+
+### Freehand Pedicle Screw Sequence
+1. Expose the transverse process, pars, facet complex, and mammillary/superior articular landmarks without violating adjacent-level facets.
+2. Start with a burr at the level-specific entry point; create a cancellous pilot channel rather than skiving on cortical bone.
+3. Use a pedicle probe with tactile feedback: cancellous corridor, no sudden loss of resistance medially/inferiorly, and a trajectory matching pre-op CT.
+4. Ball-tip palpate all walls: medial, lateral, superior, inferior, and floor. Any soft breach should trigger redirection or imaging confirmation.
+5. Tap, repalpate, place screw, check triggered EMG when used, and confirm with fluoroscopy/navigation before rod reduction.
+
+### Decompression Sequence
+- Remove bone in an outside-in, ligament-preserving fashion until the safe plane is clear; in stenosis, keep Kerrisons pointed away from dura and avoid levering against the thecal sac.
+- For thoracic cord compression, favor drill/ultrasonic bone removal and thin-shell removal over aggressive rongeur bites; the thoracic cord does not tolerate manipulation.
+- In tumor or infection, obtain cultures/pathology early, protect uninvolved dura, and plan reconstruction/fixation before destabilizing posterior elements.
+- In trauma, decide whether decompression is direct (laminectomy/transpedicular) or indirect via reduction/ligamentotaxis; laminectomy alone can worsen instability if not paired with fixation.
+
+### Intraoperative Rescue
+- **Medial breach or triggered EMG concern:** leave the tract, redirect laterally/superiorly, confirm with imaging, and do not accept a questionable thoracic medial wall.
+- **Dural tear:** expose enough normal dura to repair without tension; primary suture when possible, patch/sealant adjunct, Valsalva test, and drain strategy tailored to repair quality.
+- **Epidural venous bleeding:** confirm abdomen is free, lower venous pressure, pack with hemostatic matrix/patties, and avoid blind bipolar deep in the foramen.
+- **Loss of MEP/SSEP:** stop correction/distraction, raise MAP, check anesthetic/paralytic/temperature, remove offending hardware or reverse correction, and inspect for hematoma/compression.
+- **Poor bone purchase:** upsize/redirect, cement augmentation, cortical trajectory, hooks/bands, longer construct, or pelvic fixation depending on pathology.
 
 ## Closure
 - Hemostasis, **layered closure of fascia/muscle, then fascia, subcutaneous, skin**; subfascial drain common. Meticulous posterior closure limits infection/dehiscence.
