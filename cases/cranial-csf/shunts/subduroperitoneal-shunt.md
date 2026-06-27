@@ -19,9 +19,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** entry point, ventricular target, choroid plexus and deep veins, cortical vessels, eloquent cortex/tracts, catheter path, and distal hardware route.
-- **Operative steps:** confirm indication and side, plan trajectory, prepare hardware, access ventricle or cistern safely, confirm flow/position, tunnel/connect devices when needed, and define infection/obstruction surveillance; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** malposition, hemorrhage, poor CSF return, overdrainage/underdrainage, obstruction, infection, abdominal/pleural complication, slit ventricles, and revision algorithm.
+- **Anatomy at risk:** thin cortex under a chronic collection, bridging veins, subdural membranes, superior sagittal sinus, burr-hole edge, catheter side holes, scalp/valve pocket, tunneling tract, and peritoneal entry.
+- **Operative steps:** confirm the collection is a persistent symptomatic subdural compartment rather than hydrocephalus or atrophy, choose a safe burr-hole site, enter subdural space tangentially, confirm fluid egress, secure a low-pressure drainage system, tunnel to the peritoneum, and plan removal/revision once the collection resolves.
+- **Rescue plans:** cortical injury, catheter migration into subdural space or peritoneum, overdrainage with rebleeding/collapse, underdrainage/loculation, infection, peritoneal failure, nonaccidental trauma workup, and planned explantation in infants/children.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -131,6 +131,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Subdural collection (size, chronicity, density/signal — hygroma vs chronic SDH vs effusion), bilateral?, mass effect, membranes, **ventricle size** (distinguish from hydrocephalus)
 - Underlying brain (atrophy, parenchymal injury)
 
+### Decision Check: Is This Really a Shunt Problem?
+- Confirm symptoms or growth: enlarging head circumference, bulging fontanelle, irritability, seizures, developmental regression, focal deficit, or persistent mass effect.
+- Distinguish a drainable subdural compartment from benign enlarged subarachnoid spaces, cortical atrophy, communicating hydrocephalus, and recurrent chronic subdural hematoma better treated by burr holes/membrane strategy.
+- In infants, evaluate for trauma/nonaccidental trauma, coagulopathy, infection, metabolic disease, and retinal/skull/skeletal findings as clinically appropriate.
+- If the collection is bilateral, decide whether unilateral drainage will equilibrate through membranes or whether bilateral catheters/burr holes are needed.
+- If membranes or chronic blood dominate, shunt alone may underperform; consider burr-hole evacuation, minicraniotomy, membranectomy, or temporary drainage strategy.
+
 ---
 
 ## Labs
@@ -157,6 +164,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 5. Confirm flow through system; closure
 6. Often **temporary** — many are removed/converted once the collection resolves (esp. pediatric)
 
+### Technical Nuances
+- Choose a burr hole where the collection is thick enough that catheter side holes sit fully in the subdural compartment without resting on cortex.
+- Insert the catheter tangentially along the inner table/subdural plane; a perpendicular trajectory can spear cortex as the collection decompresses.
+- Trim side holes so they do not straddle scalp/subgaleal tissue or cortex; all functional holes should live within the subdural collection.
+- Anchor the proximal catheter/valve carefully; migration is a distinctive complication in small children with low-resistance systems.
+- Avoid rapid decompression if there is chronic membrane vascularity or fragile bridging veins; sudden collapse can promote rebleeding.
+- Set expectations that this is often a temporizing device rather than lifelong hardware.
+
 ### Critical Anatomy & Structures at Risk
 1. **Cortex / bridging veins** (subdural catheter — avoid cortical injury, re-bleeding)
 2. **Superior sagittal sinus** (keep burr hole lateral)
@@ -174,6 +189,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. Infection, cortical injury/hemorrhage
 3. Persistent collection / conversion needs, peritoneal complications
 4. In infants — need removal once resolved (foreign body, infection risk if left)
+
+### Intraoperative and Postoperative Rescue
+- **No fluid egress:** confirm location with ultrasound/navigation or enlarge/open membranes; reassess whether the collection is loculated, organized, or not under pressure.
+- **Cortical bleeding:** stop further catheter advancement, irrigate, tamponade, obtain postoperative CT, and consider ICU observation if any mass effect or neurologic concern.
+- **Overdrainage/new hemorrhage:** raise valve resistance if possible, clamp/externalize selectively, image, and evacuate if symptomatic.
+- **Underdrainage:** check catheter position, valve function, distal patency, loculations, and whether a second compartment needs separate drainage.
+- **Infection:** treat like infected shunt hardware: cultures, antibiotics, externalization/removal, and delayed reimplantation only if still needed.
 
 ---
 

@@ -16,9 +16,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** the named neural, vascular, bony, CSF, and soft-tissue structures that determine the safe corridor and likely morbidity.
-- **Operative steps:** confirm indication and imaging, position and expose deliberately, complete the core surgical maneuver, verify the result, and close with a complication-prevention plan; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** bleeding, neurologic change, wrong target or level, CSF leak, infection, hardware or reconstruction failure, and a staged or alternate-treatment plan.
+- **Anatomy at risk:** dorsal epidural space, dura, spinal cord/conus/cauda equina, segmental vessels and epidural venous plexus, prior laminectomy scar, lead entry level, fascial anchor site, tunneling tract, IPG pocket, and skin envelope.
+- **Operative steps:** confirm neuropathic pain indication and successful trial, map painful territory to target level, choose percutaneous versus paddle lead, access epidural space safely, confirm coverage/impedances, anchor/tunnel without tension, create an IPG pocket, and program with migration/infection prevention.
+- **Rescue plans:** epidural hematoma, dural puncture/CSF leak, lead migration or poor coverage, cord/root injury, infection requiring explant, IPG pocket pain/seroma, MRI incompatibility, anticoagulation conflict, and failed trial or loss of benefit.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -148,6 +148,26 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Trial:** percutaneous epidural lead(s), externalized, trial stimulation for ~5-7 days; proceed to permanent only if ≥50% relief
 2. **Permanent implant:** percutaneous leads or **surgical paddle lead** (laminotomy — better for scarred epidural space, more stable, broader coverage) + **IPG (pulse generator)** in a subcutaneous pocket
 
+### Candidate Selection
+- Pain should be predominantly neuropathic and anatomically plausible; diffuse nociplastic pain, untreated mechanical compression, and uncontrolled psychiatric/substance-use issues predict poor results.
+- Confirm conservative therapy failure, medication optimization, imaging correlation, psychological clearance, and realistic goals: function, sleep, opioid reduction, and pain reduction rather than cure.
+- Screen for infection risk, anticoagulation needs, diabetes control, smoking, skin quality, and ability to manage/recharge the device.
+- Document baseline pain map, neurologic exam, Oswestry/functional measures, opioid dose, and trial-response criteria before permanent implantation.
+- For diabetic neuropathy or CRPS, include limb exam, ulcer/infection status, autonomic changes, and whether pain distribution matches a feasible stimulation field.
+
+### Percutaneous vs Paddle Lead
+
+| Factor | Percutaneous lead | Paddle lead |
+|--------|-------------------|-------------|
+| Implant burden | Less invasive, needle-based | Laminotomy/laminectomy exposure |
+| Migration risk | Higher | Lower with broad paddle/anchoring |
+| Epidural scar/stenosis | May be hard to pass | Direct exposure can bypass scar |
+| Coverage | Flexible multiple cylindrical leads | Broad directional coverage |
+| Removal/revision | Usually easier | Surgical revision |
+| Anesthesia | Often local/sedation for mapping | Often general |
+
+Choose the lead style based on pain distribution, prior surgery/scar, stenosis, trial result, expected migration risk, and whether paresthesia mapping is needed.
+
 ### Position
 - Prone, fluoroscopy; **local + sedation (awake for percutaneous trial mapping — patient reports paresthesia coverage)** or general (paddle, modern paresthesia-free waveforms)
 
@@ -158,6 +178,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 4. Anchor lead to fascia (permanent), tunnel to **IPG pocket** (flank/buttock), connect
 5. **Paddle lead (laminotomy):** small laminotomy at the target level, slide paddle into dorsal epidural space under direct vision, test, anchor, tunnel to IPG
 6. Confirm impedances/stimulation, closure
+
+### Level and Coverage Planning
+- Lower-extremity/radicular pain commonly targets midline dorsal column coverage around T8-T10, but final level depends on trial mapping and waveform platform.
+- Back-dominant pain may require different programming strategies and is less reliably treated than limb-predominant neuropathic pain.
+- Cervical SCS for upper-extremity pain requires extra care with cervical stenosis, cord proximity, neck motion, and lead anchoring.
+- Paresthesia-free waveforms reduce the need for awake mapping but do not remove the need for correct anatomic placement, impedance testing, and trial-response documentation.
+- IPG pocket should match body habitus, beltline, sleep position, charging ergonomics, and future surgical access; avoid pressure points and thin infected/irradiated skin.
 
 ### Critical Anatomy & Structures at Risk
 1. **Spinal cord / dura** — epidural lead (avoid dural puncture/cord injury; never force)
@@ -176,6 +203,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. **Lead migration** (loss of coverage — more with percutaneous), lead fracture, IPG site pain/seroma
 3. **Infection** (implant — may require explant), inadequate pain relief (trial mitigates), hardware malfunction
 4. MRI incompatibility considerations
+
+### Intraoperative Rescue
+- **Dural puncture:** do not pass the lead intrathecally; choose another level if needed, manage headache risk, and document CSF return.
+- **Lead will not pass:** stop forcing; reassess epidural scarring/stenosis, redirect under fluoro, use a different entry, or convert to paddle lead if appropriate.
+- **New neurologic symptoms:** stop advancement, remove/reposition lead, obtain urgent imaging if persistent, and treat epidural hematoma as a decompression emergency.
+- **Poor coverage:** re-map lead laterality/level, add a second lead, change waveform strategy, or abort permanent implantation if trial goals cannot be reproduced.
+- **High impedance or hardware fault:** inspect connections, set screws, lead damage, and pocket strain before closure.
 
 ---
 
@@ -207,3 +241,10 @@ Closure was performed. The patient was monitored for epidural hematoma (new defi
 - Permanent: incision care, **activity restriction (limit bending/reaching/lifting to reduce lead migration x weeks)**, device programming (pain/rep)
 - Antibiotics per protocol, infection monitoring
 - Pain management/device clinic follow-up; document MRI-conditionality for the patient
+
+### Follow-Up Pearls
+- Separate surgical pain from stimulation efficacy during the first programming visits; early disappointment can be pocket/incisional pain, not true therapy failure.
+- Loss of benefit after initial success is lead migration until proven otherwise; compare AP/lateral radiographs with immediate postoperative baseline.
+- Fever, drainage, pocket erythema, or deep tenderness around implanted hardware should trigger a low threshold for infectious workup; deep SCS infection often requires explant.
+- Before any future MRI or surgery, verify exact device model, lead configuration, MRI-conditional rules, and whether the system must be placed in MRI mode.
+- Document driving/work restrictions when paresthesia changes, sedation/opioids, or new programming adjustments could distract the patient.

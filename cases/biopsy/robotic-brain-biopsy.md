@@ -128,6 +128,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Plan each trajectory (entry, target, angle) on the robotic planning software
 - Registration plan: frame, frameless/surface, **skull fiducials, or intraoperative CT (O-arm)** registration
 
+### Robotic Planning Checks
+- Confirm the MRI sequence used for targeting is geometrically reliable and fused to CT without scalp/brain mismatch; inspect fusion at skull, ventricles, falx, and lesion margins.
+- Choose an entry that avoids sulci, cortical vessels, venous lakes, ventricle, deep perforator territory, and eloquent cortex/tracts.
+- Make the skull entry as close to perpendicular as feasible so the drill/bolt does not skid; very oblique skull entry undermines robotic precision.
+- Confirm robot-arm clearance before prepping: microscope, C-arm/O-arm, anesthesia circuit, Mayfield pins, drapes, and surgeon access can all collide with the planned trajectory.
+- For multiple trajectories, order them by risk and diagnostic priority; sample the most important target before swelling or hemorrhage can abort the case.
+- Build a specimen plan with pathology before incision: frozen/smear, permanent, flow cytometry, culture, methylation/NGS, and which samples stay fresh.
+
 ---
 
 ## Labs
@@ -156,6 +164,20 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 8. Hemostasis (observe tract); repeat for additional targets (efficient — robot repositions)
 9. Closure; **postop/intraoperative CT** to confirm and exclude hemorrhage
 
+### Registration and Accuracy Pitfalls
+- Recheck accuracy after draping and after any table/head/robot movement. A perfect plan becomes unsafe if the reference array moves.
+- Do not accept a registration that is "close enough" for a deep nucleus, brainstem, pineal, or small enhancing rim target; the error budget is smaller than the lesion.
+- Verify the actual instrument length, stopper depth, guide-tube offset, and needle side-window orientation against the planned target depth.
+- If using skull fiducials, confirm each fiducial is rigid; a loose fiducial poisons the whole registration.
+- If intraoperative CT/O-arm is used, check that the reference frame is visible and rigid throughout acquisition and biopsy.
+
+### Sampling Strategy
+- Take diagnostic tissue from enhancing/solid/restricting margins first; avoid necrotic center as the first pass.
+- Rotate the side-cutting window deliberately and record orientation/depth if the specimen is scant.
+- If frozen is nondiagnostic, use the same safe trajectory to sample adjacent viable target before planning a second trajectory.
+- For suspected lymphoma, minimize steroid exposure when clinically safe and prioritize fresh tissue for flow cytometry/molecular diagnosis.
+- For infection, send culture before placing all tissue in formalin.
+
 ### Critical Anatomy & Structures at Risk
 1. **Trajectory vessels** — hemorrhage (robot executes the plan precisely, so vascular planning is paramount)
 2. Registration error (verify), eloquent structures, ventricles
@@ -174,6 +196,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Hemorrhage** (~1-3%), non-diagnostic sample
 2. Registration/coupling error → off-target (verify accuracy), seizure, infection, deficit
 3. Technical/robot setup issues
+
+### Rescue Plans
+- **Bloody return:** keep the cannula/needle in place briefly for tamponade, stop sampling, control BP/coagulation, obtain immediate CT if persistent or symptomatic, and keep the patient intubated for imaging/ICU if needed.
+- **Registration concern after incision:** stop; repeat registration or convert to frame/frameless navigation rather than chasing an uncertain trajectory.
+- **Robot collision or unreachable angle:** replan trajectory before drilling; do not bend the workflow around an unsafe arm position.
+- **Nondiagnostic frozen:** sample planned adjacent target/depth if safe, then decide between second trajectory, open biopsy, or staged repeat after imaging.
+- **Seizure/edema:** abort further passes, treat medically, image, and hand off with steroid/antiepileptic plan tailored to the suspected diagnosis.
 
 ---
 
