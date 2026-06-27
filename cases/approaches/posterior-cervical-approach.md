@@ -18,9 +18,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** corridor-defining nerves, arteries, veins/sinuses, cisterns, bone landmarks, muscle/fascial planes, and closure structures that determine exposure and morbidity.
-- **Operative steps:** confirm position and trajectory, mark landmarks, protect soft tissue and named neurovascular structures, perform the bone/soft-tissue corridor, open/close dura or target compartment deliberately, and verify hemostasis/reconstruction; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
+- **Anatomy at risk:** myelopathic cord, exiting roots, dorsal dura, epidural venous plexus, C2 semispinalis attachment, C7/T1 transition, lateral masses, vertebral artery in the transverse foramina, C2 pars/pedicle anatomy, and posterior tension-band musculature.
+- **Operative steps:** position the myelopathic neck safely, localize levels, split the nuchal raphe in the midline, expose only the necessary lateral mass/facet anatomy, choose laminectomy/laminoplasty/foraminotomy/fusion strategy, place fixation with VA/root-aware trajectories, decompress without cord manipulation, and close the posterior fascial envelope securely.
+- **Rescue plans:** wrong-level exposure, neuromonitoring change, C5 palsy risk, lateral mass or pedicle breach, vertebral artery injury, epidural bleeding, dural tear, post-laminectomy kyphosis, wound dehiscence/infection, and inadequate decompression in kyphotic alignment.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -125,6 +125,17 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Trauma / instability** (facet fracture-dislocation) → [subaxial cervical fracture](../spine-trauma/subaxial-cervical-fracture.md); **CVJ** → [occipitocervical fusion](../spine-trauma/occipitocervical-fusion.md)
 - Dorsal intradural/extradural tumors, infection
 
+### Posterior Cervical Decision Table
+
+| Problem | Preferred posterior option | Key caveat |
+|---------|----------------------------|------------|
+| Multilevel myelopathy, lordotic/neutral alignment | Laminoplasty or laminectomy/fusion | Posterior decompression depends on dorsal cord drift |
+| Multilevel myelopathy with instability, kyphosis risk, or neck pain | Laminectomy + fusion | Preserve adjacent facets and restore alignment |
+| Young patient with preserved lordosis and motion priority | Laminoplasty | Avoid if significant axial pain/instability/kyphosis |
+| Unilateral radiculopathy from foraminal stenosis/lateral disc | Posterior foraminotomy | Avoid excessive facet removal; preserve stability |
+| Trauma/facet dislocation/instability | Posterior fixation ± reduction/decompression | CT/CTA defines screw choices and VA risk |
+| Fixed kyphosis with anterior compression | Anterior or combined approach | Posterior-only decompression may fail |
+
 ---
 
 ## Relevant Surgical Anatomy
@@ -138,6 +149,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **MRI** (levels, cord signal, dorsal vs ventral compression) and **CT** (bony anatomy, OPLL, facet/lateral mass size); **assess alignment (lordosis vs kyphosis)** — decisive for posterior vs anterior.
 - **CTA / review vertebral artery** dominance and anomalies (high-riding VA at C2) before planning C1–C2/pars screws.
 - Baseline myelopathy exam; plan instrumentation levels and whether laminoplasty vs laminectomy+fusion.
+
+### Preoperative Planning Checklist
+- Document Nurick/mJOA-style myelopathy severity, hand function, gait, bowel/bladder symptoms, and baseline deltoid/biceps strength for C5 palsy comparison.
+- Review standing or dynamic films for lordosis, instability, and C2-C7 sagittal vertical axis; supine MRI alone can hide kyphotic failure risk.
+- On CT, size lateral masses, identify anomalous/hypoplastic pedicles, facet fractures, OPLL, and prior fusion/laminectomy defects.
+- For C1-C2/C2 screws, evaluate vertebral artery course, high-riding VA, pars height, pedicle width, and C2 ganglion/venous plexus exposure.
+- Decide whether the construct should stop at C7 or cross the cervicothoracic junction; stopping at a weak transition can invite junctional failure in selected patients.
 
 ## Anesthesia & Neuromonitoring
 - GA, prone; **SSEP/MEP and EMG** (myelopathy/instrumentation); no long-acting paralytic with MEPs. **Careful prone positioning of the myelopathic neck** (neutral, avoid hyperextension); MAP support for the compressed cord.
@@ -163,6 +181,21 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Lateral Mass / Posterior Fixation
 
 - **Lateral mass screws (C3–C6)** via a Magerl/An-type trajectory: entry ~1 mm medial and inferior to the lateral-mass center, angled **~25–30° laterally and ~15–30° superiorly** (parallel to the facet) to stay clear of the **vertebral artery (medial/ventral)** and **nerve root (inferolateral)**. **C7/C2** often take **pedicle screws**; **C1** a lateral-mass screw; rods connect the construct after decortication and grafting.
+
+### Decompression and Fixation Sequence
+1. Confirm level with fluoroscopy after exposure and again before irreversible decompression.
+2. Place pilot holes/screws before decompression when anatomy is stable and bleeding is controlled; in severe stenosis, avoid maneuvers that transmit force to the cord.
+3. Perform troughs/laminectomy with a drill until the inner cortex is thin; lift bone away from dura rather than levering into the canal.
+4. In laminoplasty, create a complete opening-side trough and controlled hinge side; avoid greenstick fracture into the canal.
+5. In foraminotomy, remove the minimum medial facet needed for root decompression and preserve at least half of the facet whenever possible.
+6. Decorticate fusion surfaces, place graft, contour rods without excessive lordosis/extension, and check final alignment and screw position.
+
+### Intraoperative Rescue
+- **MEP/SSEP decline:** pause, raise MAP, check neck position/anesthesia, remove compressive bone/hematoma, reverse correction/distraction, and obtain imaging if hardware is suspect.
+- **C5 palsy concern:** verify no foraminal tethering at C4-C5/C5 root, avoid over-distraction, and consider targeted foraminotomy when high risk.
+- **Lateral mass breach:** redirect immediately; do not accept a medial/inferior trajectory that threatens root/VA.
+- **Vertebral artery bleeding:** maintain tamponade, avoid blind bipolar, pack with hemostatic material, obtain vascular help/endovascular backup, and preserve neurologic perfusion.
+- **Dural tear:** expose enough dura for repair, primary suture when possible, patch/sealant adjunct, Valsalva, and drain strategy tailored to repair quality.
 
 ![Axial CT (cadaver) — lateral mass screw trajectory at C4 (left), contrasted with a longer bicortical screw variant (right)](../../figures/posterior-cervical/lateral-mass-screw-ct_medint-2024.jpg)
 

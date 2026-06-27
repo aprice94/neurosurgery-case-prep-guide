@@ -16,9 +16,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** corridor-defining nerves, arteries, veins/sinuses, cisterns, bone landmarks, muscle/fascial planes, and closure structures that determine exposure and morbidity.
-- **Operative steps:** confirm position and trajectory, mark landmarks, protect soft tissue and named neurovascular structures, perform the bone/soft-tissue corridor, open/close dura or target compartment deliberately, and verify hemostasis/reconstruction; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
+- **Anatomy at risk:** cerebellar tonsils, uvula/nodulus, tela choroidea, inferior medullary velum, taenia, choroid plexus, PICA tonsillomedullary/telovelotonsillar segments, fourth-ventricular floor nuclei, facial colliculus, hypoglossal/vagal trigones, lateral recess/foramen of Luschka, and CSF pathways.
+- **Operative steps:** achieve posterior fossa relaxation, open the cerebellomedullary fissure without vermian splitting, incise tela choroidea along the taenia, extend through inferior medullary velum only as needed, map/protect the floor, debulk lesions away from the brainstem, preserve PICA/perforators, and close watertight with hydrocephalus planning.
+- **Rescue plans:** swollen posterior fossa, hydrocephalus, PICA/choroidal bleeding, floor adherence, lower-cranial-nerve or facial-colliculus stimulation, cerebellar mutism risk, inadequate rostral/lateral recess exposure, CSF leak/pseudomeningocele, and postoperative airway/swallowing compromise.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -122,6 +122,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Dorsal pontine/medullary lesions** via floor safe-entry zones (cavernoma, focal glioma)
 - Lateral recess / foramen of Luschka lesions; rhomboid-fossa lesions
 
+### Approach Selection: Telovelar vs Alternatives
+
+| Lesion pattern | Telovelar fit | Alternative |
+|----------------|---------------|-------------|
+| Fourth-ventricle tumor with caudal or midventricular origin | Best workhorse route | Transvermian rarely needed |
+| Tumor reaching aqueduct/fastigium | Telovelar plus inferior medullary velum opening | Supracerebellar/infratentorial or occipital routes for pineal/aqueductal-dominant disease |
+| Lateral recess / foramen of Luschka extension | Telovelar with lateral taenia/recess dissection | Retrosigmoid for predominantly CPA/lateral disease |
+| Dorsal brainstem cavernoma at a safe-entry zone | Telovelar if lesion presents to fourth-ventricle floor | Far-lateral/retrosigmoid for lateral medullary/pontine presentation |
+| Large vermian/cerebellar tumor | Midline suboccipital transcerebellar route | Telovelar only if fourth-ventricle component requires it |
+
+The telovelar approach is not simply "posterior fossa exposure." It is a deliberate fourth-ventricle roof opening; if the lesion is not intraventricular, dorsal brainstem, or lateral recess, choose the corridor that reaches the pathology without unnecessary floor exposure.
+
 ---
 
 ## Relevant Surgical Anatomy
@@ -146,6 +158,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **CTA / MRV** for **PICA** and the venous sinuses; **DTI** if a brainstem safe-entry plan is needed.
 - **Hydrocephalus plan:** preop EVD vs intraoperative ventricular access vs ETV; counsel re: postoperative shunt need (esp. medulloblastoma).
 
+### Floor-Risk Planning
+- Identify whether tumor is merely displacing the floor or infiltrating/adherent to it; the floor-adherent portion sets the resection limit.
+- Note facial colliculus distortion, lower medullary extension, obex involvement, aqueductal obstruction, and lateral recess extension.
+- Review swallowing, voice, gag/cough, ocular motility, facial function, ataxia, and long-tract signs before surgery; small postoperative changes matter.
+- Plan IONM electrodes for the actual risk: facial EMG, lower cranial nerves, MEP/SSEP, BAER, and direct floor mapping when floor work is expected.
+- Discuss with ICU/anesthesia whether postoperative extubation is safe if lower cranial nerve dysfunction, brainstem edema, or long case swelling is likely.
+
 ## Anesthesia & Neuromonitoring
 - GA/TIVA; **fourth-ventricular floor mapping**, **lower-CN EMG (IX/X, XII), facial EMG**, SSEP/MEP, BAER. Arrhythmia/hemodynamic vigilance during floor manipulation. **VAE precautions** if a sitting position is used.
 
@@ -165,6 +184,20 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. **Incise the tela choroidea** (unilateral or bilateral) along the taenia, coagulating the choroid plexus — this alone exposes the caudal floor and ventricle.
 3. For rostral exposure (toward the aqueduct), **incise the inferior medullary velum**; extend laterally along the recess toward **Luschka** for laterally projecting tumors. The **entire floor up to the aqueduct is now exposed without a vermian split.**
 4. **Tumor work:** internally debulk, define the tumor–floor plane, and protect the **floor** (no fixed retraction; map safe-entry zones); preserve **PICA branches** and floor perforators.
+
+### Exposure Extension Logic
+- **Caudal floor/obex lesion:** wide foramen of Magendie and tela opening may be enough; avoid unnecessary rostral velum work.
+- **Rostral fourth ventricle/aqueduct:** add inferior medullary velum opening and work upward under the nodulus with gentle dynamic retraction.
+- **Lateral recess/Luschka:** follow the taenia laterally and protect PICA/choroidal branches; do not pull the tumor medially by force if the lower cranial nerves are stretched laterally.
+- **Bilateral tumor:** open the fissure bilaterally rather than over-retracting one tonsil across the midline.
+- **Floor-adherent tumor:** debulk and define the plane, then stop at unsafe adherence; staged adjuvant therapy beats a permanent brainstem deficit.
+
+### Intraoperative Rescue
+- **Bradycardia/hypertension/arrhythmia during floor work:** stop manipulation immediately, irrigate, communicate with anesthesia, and resume only after mapping/orientation is clear.
+- **PICA injury:** maintain visualization, control with gentle bipolar/clip only when needed, and preserve parent flow/perforators; blind coagulation in the fissure is dangerous.
+- **Loss of lower-CN/facial responses:** pause, raise MAP, reduce traction, reassess floor anatomy, and leave adherent tumor if signals do not recover.
+- **Inadequate rostral exposure:** extend velum opening or bone/C1 exposure thoughtfully; do not solve it by splitting vermis casually.
+- **Swollen posterior fossa:** release CSF, optimize venous drainage/head position, consider EVD, and avoid fixed tonsillar retraction.
 
 ---
 

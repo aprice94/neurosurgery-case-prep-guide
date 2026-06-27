@@ -123,6 +123,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Associated DVA (preserve), syrinx, multiple lesions (familial)
 - Non-enhancing (vs tumor)
 
+### Surface-Presentation and Entry-Zone Read
+- **Dorsal midline presentation:** safest route is dorsal median sulcus myelotomy, using pial/hemosiderin staining and dorsal vein anatomy to stay midline.
+- **Dorsolateral presentation:** use the lesion’s pial presentation or dorsal root entry zone rather than forcing a midline split across functional dorsal columns.
+- **Ventral/deep lesion:** conservative management or delayed surgery may be safer unless recurrent hemorrhage/progression justifies a higher-risk route.
+- **Associated DVA:** preserve it; cavernoma removal is the goal, not venous obliteration.
+- **Recent hemorrhage:** edema and blood products may help define a gliotic plane but can also make cord swollen and monitoring fragile; timing should balance recovery from acute deficit with rebleed risk and surgical plane clarity.
+
 ---
 
 ## Labs
@@ -142,6 +149,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Conservative if deep, asymptomatic, no surface presentation (surgical morbidity vs natural history)
 - **Complete resection** required (residual → rebleed); **preserve associated DVA**
 
+### Operate vs Observe
+
+| Scenario | Usual strategy |
+|----------|----------------|
+| Symptomatic hemorrhage with lesion at/near pial surface | Favor microsurgical resection once medically optimized |
+| Recurrent stepwise deficits or repeated hemorrhage | Favor resection if a safe entry zone exists |
+| Mild single event, deep ventral lesion, stable recovery | Consider observation with close MRI/exam follow-up |
+| Familial/multiple cavernomas | Treat only the symptomatic culprit lesion; screen neuraxis/brain |
+| Progressive myelopathy with enlarging lesion/syrinx | Favor resection if corridor risk is acceptable |
+
+The central decision is not "cavernoma equals surgery." It is whether the natural-history risk now exceeds the morbidity of entering that specific spinal cord surface.
+
 ### Position
 - Prone, Mayfield/foam, IONM baseline (MEP, SSEP, D-wave); per level
 
@@ -154,6 +173,20 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 6. **Preserve the associated DVA** (do NOT coagulate — venous infarction)
 7. Hemostasis (gentle), inspect for complete removal
 8. Watertight dural closure, sealant
+
+### Myelotomy and Resection Nuances
+- Confirm level with fluoroscopy/navigation and ultrasound before durotomy; a one-level error in an intramedullary case is catastrophic.
+- Open the pia sharply and anchor with fine pial sutures; traction should be on pia/lesion capsule, not normal cord.
+- Stay in the hemosiderin/gliotic plane. If normal cord fibers start stretching, stop and re-find the capsule-plane interface.
+- Use low-current bipolar sparingly; cavernomas are low-flow lesions, and thermal injury to adjacent tracts is often worse than patient bleeding.
+- Remove old clot and mulberry components completely, then inspect the cavity with the microscope angled around all poles.
+- Do not chase hemosiderin-stained gliosis as if it were residual cavernoma; the residual risk is lesion tissue, not the stain.
+
+### Neuromonitoring Response
+- **SSEP drop during dorsal column split:** pause, irrigate, reduce traction, raise MAP, and narrow the myelotomy.
+- **MEP/D-wave change:** stop resection, raise MAP, reverse any mechanical distortion, remove compressive clot/cottonoid, and wait for recovery before proceeding.
+- **Stable D-wave with MEP change:** may predict recoverable deficit, but still treat it as a warning; do not use it as permission for aggressive traction.
+- **No reliable baseline:** make the corridor and resection more conservative; the anatomy must carry the safety margin.
 
 ### Critical Anatomy & Structures at Risk
 1. **Spinal cord tracts** — dorsal columns (myelotomy), corticospinal
@@ -175,6 +208,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Neurological worsening** — dorsal column (proprioception/sensory, often transient), motor
 2. Incomplete resection → rebleed; DVA injury → venous infarction
 3. CSF leak, deformity (post-laminectomy)
+
+### Rescue Plans
+- **Cavity bleeding:** use gentle irrigation, small cottonoids, patience, and focal bipolar only on lesion remnants; avoid coagulating the DVA or normal cord surface.
+- **Suspected residual:** inspect with angled microscope, ultrasound, and postoperative MRI; if uncertain but monitoring is worsening, stop rather than converting a small residual into a major deficit.
+- **Cord swelling:** loosen retraction, maintain MAP/oxygenation, avoid hypotension, consider steroids per surgeon preference, and close without constrictive grafting.
+- **Dural closure under tension:** graft generously and test with Valsalva; postoperative CSF leak around a spinal cord myelotomy is an avoidable second hit.
+- **Postoperative decline:** urgent MRI for hematoma/residual compression, maintain MAP, reverse coagulopathy, and return to OR for compressive hematoma or tight closure.
 
 ---
 

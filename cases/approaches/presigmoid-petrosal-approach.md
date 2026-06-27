@@ -15,9 +15,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** corridor-defining nerves, arteries, veins/sinuses, cisterns, bone landmarks, muscle/fascial planes, and closure structures that determine exposure and morbidity.
-- **Operative steps:** confirm position and trajectory, mark landmarks, protect soft tissue and named neurovascular structures, perform the bone/soft-tissue corridor, open/close dura or target compartment deliberately, and verify hemostasis/reconstruction; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
+- **Anatomy at risk:** sigmoid/transverse sinuses, superior petrosal sinus, vein of Labbe, mastoid air cells, labyrinth/cochlea, facial nerve canal/geniculate, endolymphatic sac, jugular bulb, tentorium/CN IV, CN V-VIII and lower cranial nerves, basilar/AICA/SCA perforators, and eustachian tube-facing air cells.
+- **Operative steps:** select the least morbid petrosal rung, plan hearing/facial/venous tradeoffs, expose mastoid-temporal bone, skeletonize sinuses/labyrinth/facial nerve, drill retrolabyrinthine/translabyrinthine/transcochlear/anterior petrosectomy corridors as needed, open presigmoid and temporal dura, manage SPS/tentorium, work the petroclival target, then obliterate air cells and reconstruct against CSF leak.
+- **Rescue plans:** sigmoid/SPS bleeding, dominant venous drainage or Labbe compromise, facial nerve stimulation/injury, unintended labyrinth breach, high jugular bulb, petrous carotid/cochlear risk, brainstem/perforator adherence, CSF leak through mastoid/eustachian route, and need to downshift or stage rather than escalate exposure.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -127,6 +127,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Trigeminal schwannoma** (Meckel's/posterior fossa dumbbell), epidermoid
 - **Mid-basilar/ventral pontine vascular lesions**, brainstem cavernoma (anterolateral)
 
+### Petrosal Ladder: What You Gain and Spend
+
+| Variant | Exposure gained | Function spent | Best fit |
+|---------|-----------------|----------------|----------|
+| Retrolabyrinthine | Presigmoid window with hearing preservation | Narrower corridor, more limited anterior reach | Serviceable hearing, smaller petroclival/ventral pontine target |
+| Translabyrinthine | Wider presigmoid/CPA exposure | Sacrifices hearing | Nonserviceable hearing, large CPA/petroclival lesion |
+| Transcochlear | Most anterior posterior-petrosal reach | Hearing lost, facial rerouting morbidity | Extreme ventral clival/petroclival disease when facial/hearing tradeoff justified |
+| Combined petrosal | Adds Kawase/anterior petrosectomy and supratentorial control | Longer, more venous/CSF-leak morbidity | Large petroclival meningioma/chordoma crossing middle and posterior fossae |
+| Retrosigmoid or Kawase alone | Less drilling and morbidity | Less ventral/combined exposure | Softer, smaller, lateralized, or staged lesions |
+
+The right answer is often not "maximum petrosectomy." Escalate only when the lesion’s anterior/ventral extension, consistency, and neurovascular encasement demand the extra bone removal.
+
 ---
 
 ## Relevant Surgical Anatomy
@@ -145,6 +157,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **High-resolution CT temporal bone:** labyrinth, cochlea, **facial nerve canal**, jugular bulb height, degree of pneumatization, and tumor bony involvement — decides which rung of the ladder is feasible.
 - **MRI / MRV:** tumor extent and consistency, brainstem/CN/vessel relations, **venous dominance (sigmoid), and the vein of Labbé** (its drainage governs temporal-lobe safety).
 - **Audiometry and facial-nerve baseline** — central to choosing retro- vs trans-labyrinthine vs transcochlear and to counseling.
+
+### Preoperative No-Go / Modify Flags
+- Serviceable hearing with a lesion manageable by retrosigmoid/Kawase should push away from translabyrinthine/transcochlear escalation.
+- Dominant ipsilateral sigmoid sinus, high-riding jugular bulb, large emissary veins, or critical vein of Labbe drainage may force a different position, smaller corridor, or staged plan.
+- Highly pneumatized temporal bone increases CSF leak risk; plan wax/fat/fascial/vascularized flap reconstruction before the drill starts.
+- Facial nerve weakness, prior mastoid surgery, radiation, or cholesteatoma/infection changes drilling risk and may require neurotology leadership.
+- A soft tumor with safe retrosigmoid debulking may not need the morbidity of a full petrosal route.
 
 ## Anesthesia & Neuromonitoring
 - GA/TIVA; **continuous facial EMG, BAER (if hearing preservation), SSEP/MEP, lower-CN and CN III–VI EMG.** Lumbar drain often placed. Neurotologist/skull-base team commonly co-operate. **VAE precautions** if semi-sitting.
@@ -169,6 +188,21 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 - Open the dura **presigmoid (anterior to the sigmoid sinus)** and along the temporal base; **ligate/divide the superior petrosal sinus** and **divide the tentorium behind the entry of CN IV**, uniting the supra- and infratentorial fields.
 - **Protect the vein of Labbé** (do not tether/sacrifice), the sigmoid sinus, and CN IV. Work the petroclival lesion: devascularize the clival/petrous dural base, debulk, and dissect the capsule off the **brainstem, basilar/AICA/SCA, and CN III–XI**; preserve perforators.
+
+### Drilling and Dural-Opening Pearls
+- Skeletonize before sacrificing: know sigmoid, jugular bulb, facial canal, labyrinth, and dura before deepening the petrosectomy.
+- Use diamond burrs and copious irrigation near labyrinth, facial nerve, sigmoid sinus, and petrous carotid; heat injury is still injury.
+- Open air cells deliberately and seal them immediately enough that they are not forgotten at closure.
+- Divide tentorium under direct visualization and behind CN IV; the trochlear nerve is small, unforgiving, and easy to injure during tentorial division.
+- If preserving SPS, work around it intentionally; if dividing it, confirm venous collateral tolerance and control both ends.
+
+### Intraoperative Rescue
+- **Sigmoid/SPS bleeding:** pack, lower venous pressure, expose both ends, repair/clip/suture when possible, and avoid sinus sacrifice without dominance/collateral confidence.
+- **Vein of Labbe tension:** release temporal retraction, alter the working angle, or stage; sacrificing Labbe can create a dominant temporal venous infarct.
+- **Facial nerve irritation:** stop drilling/traction, irrigate cool, verify stimulation threshold, and change trajectory; do not drill blind around a dehiscent canal.
+- **Unintended labyrinth opening in a hearing-preservation case:** stop and reassess hearing goal, seal appropriately, counsel postoperatively, and avoid compounding with cochlear/facial injury.
+- **Brainstem/perforator adherence:** leave adherent capsule rather than avulsing AICA/SCA/basilar perforators; radiosurgery/staged reoperation is better than a perforator stroke.
+- **CSF leak risk at closure:** add fat, fascia, muscle/pericranial flap, eustachian-tube/air-cell occlusion, lumbar drainage when appropriate, and low threshold for early repair if rhinorrhea/otorrhea occurs.
 
 
 ---
