@@ -22,7 +22,6 @@ tags:
 - **Rescue plans:** refractory swelling, coagulopathy, venous sinus bleeding, arterial source, seizures, infection, hydrocephalus, malignant ICP, and staged decompression or reoperation.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
-- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
 <!-- END CASE SNAPSHOT -->
 
@@ -49,17 +48,6 @@ tags:
 
 
 ---
-
-<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
-
-## Textbook Cross-Checks
-
-- **Emergency anatomy and exposure:** Greenberg; Youmans and Winn; Schmidek and Sweet — confirm incision/flap planning, sinus/vessel risks, decompression goals, and mass-effect physiology.
-- **Technique sequence:** Greenberg; Youmans and Winn — review evacuation/decompression sequence, hemostasis, dural strategy, drain use, and bone-flap/cranioplasty decisions.
-- **Complication rescue:** Greenberg; trauma guidelines and primary literature — summarize swelling, coagulopathy, seizures, infection, hydrocephalus, and ICU surveillance in original words.
-- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
-
-<!-- END TEXTBOOK CROSS-CHECKS -->
 
 <!-- BEGIN CURATED LITERATURE -->
 

@@ -11,6 +11,12 @@ tags:
 
 <p class="lead">19 guides in this category.</p>
 
+## CNS Video Library
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/O9F2r5u6kDo" title="CNS Neurosurgery 100: Surgical Anatomy of the Open and Endonasal Approaches to the Anterior Cranial" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/OSmaNg1bW3g" title="CNS Neurosurgery 100: Anterior and Lateral Spine Anatomy" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/zBGdpQvoOtQ" title="CNS Neurosurgery 100: Spine Anatomy: Thoracolumbar" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 <div class="index-grid">
   <a href="anterior-cervical-approach.html">Anterior Cervical (Smith-Robinson) Approach<span>Operative approach guide for Anterior Cervical (Smith-Robinson) Approach with positioning, anatomy, technique, pitfalls, figures, and references.</span></a>
   <a href="anterior-interhemispheric-approach.html">Anterior Interhemispheric (Transcallosal) Approach<span>Operative approach guide for Anterior Interhemispheric (Transcallosal) Approach with positioning, anatomy, technique, pitfalls, figures, and references.</span></a>

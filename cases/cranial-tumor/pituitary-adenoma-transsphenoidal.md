@@ -26,7 +26,6 @@ tags:
 - **Rescue plans:** venous or arterial injury, swelling, seizure, cranial nerve or endocrine change, CSF leak, residual tumor left for safety, staged surgery, radiation, or adjuvant therapy.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
-- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
 <!-- END CASE SNAPSHOT -->
 
@@ -42,6 +41,9 @@ tags:
 - **Video searches:** [endoscopic transsphenoidal pituitary adenoma on YouTube](https://www.youtube.com/results?search_query=endoscopic+transsphenoidal+pituitary+adenoma+surgery) · [pituitary adenoma endonasal resection operative video](https://www.youtube.com/results?search_query=pituitary+adenoma+endonasal+resection+operative+video)
 - **Imaging/endocrine review:** [Radiopaedia — pituitary adenoma](https://radiopaedia.org/search?q=pituitary%20adenoma&scope=all) · [PubMed Central — endoscopic transsphenoidal pituitary adenoma](https://www.ncbi.nlm.nih.gov/pmc/?term=endoscopic+transsphenoidal+pituitary+adenoma)
 
+**CNS Video Library**
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/O9F2r5u6kDo" title="CNS Neurosurgery 100: Surgical Anatomy of the Open and Endonasal Approaches to the Anterior Cranial" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 > 🧭 **Operative approach:** [Endoscopic endonasal approach](../approaches/endoscopic-endonasal-approach.md) — detailed corridor setup, step-by-step technique & figures
 
 > Copyrighted operative figures/videos are linked, not copied. Embedded figures below are public-domain or CC-BY; see [media-sources.md](../../resources/media-sources.md) and [CREDITS.md](../../figures/CREDITS.md).
@@ -56,17 +58,6 @@ tags:
 *Intraoperative ultrasound during endonasal resection localizing the cavernous ICA and tumor margin. Source: Baker et al., Front Oncol 2022;12:1043697, Fig 1. CC BY 4.0.*
 
 ---
-
-<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
-
-## Textbook Cross-Checks
-
-- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
-- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
-- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
-- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
-
-<!-- END TEXTBOOK CROSS-CHECKS -->
 
 <!-- BEGIN CURATED LITERATURE -->
 

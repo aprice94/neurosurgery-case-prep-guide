@@ -11,6 +11,10 @@ tags:
 
 <p class="lead">6 guides in this category.</p>
 
+## CNS Video Library
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/TWmSHg_ybbM" title="CNS Neurosurgery 100: Middle Meningioma Artery Embolization for Chronic Subdural Hematomas" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 <div class="index-grid">
   <a href="acute-subdural-hematoma.html">Acute Subdural Hematoma (aSDH) — Craniotomy/Craniectomy for Evacuation<span>Case-prep guide for Acute Subdural Hematoma (aSDH) — Craniotomy/Craniectomy for Evacuation with workup, operative planning, note template, figures, and refer...</span></a>
   <a href="chronic-subdural-hematoma.html">Chronic Subdural Hematoma (cSDH) Evacuation<span>Case-prep guide for Chronic Subdural Hematoma (cSDH) Evacuation with workup, operative planning, note template, figures, and references.</span></a>

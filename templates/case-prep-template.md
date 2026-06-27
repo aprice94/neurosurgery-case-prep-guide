@@ -22,7 +22,6 @@ tags:
 - **Rescue plans:** [bleeding, neurologic change, wrong target/level, CSF leak, hardware/reconstruction issue, staged or alternate plan]
 - **Figures:** [open-access/public-domain/local figures and linked operative videos]
 - **Papers:** [seminal papers, modern reviews/trials/guidelines, PubMed links]
-- **Textbook cross-checks:** [copyrighted textbooks/atlases to cite and summarize in original words]
 
 ---
 
@@ -169,13 +168,6 @@ tags:
 3.
 4.
 5.
-
-### Textbook Cross-Checks
-- **Microsurgical / surgical anatomy:** [book, chapter, page] — summarize the anatomy at risk in original words.
-- **Operative technique:** [book, chapter, page] — summarize setup, exposure, and key steps in original words.
-- **Complication rescue:** [book, chapter, page] — summarize bailout options and postoperative concerns in original words.
-- **Open figures to embed:** [PD / CC / PMC OA source + license].
-- **Copyrighted sources to link only:** [textbook / atlas / board-card source].
 
 ### Key Surgical Steps
 1.

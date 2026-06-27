@@ -27,7 +27,6 @@ tags:
 - **Rescue plans:** venous or arterial injury, swelling, seizure, cranial nerve or endocrine change, CSF leak, residual tumor left for safety, staged surgery, radiation, or adjuvant therapy.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
-- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
 <!-- END CASE SNAPSHOT -->
 
@@ -49,17 +48,6 @@ tags:
 **▶ Full corridor technique:** see the [**Far-lateral (transcondylar) approach chapter**](../approaches/far-lateral-craniotomy.md) — positioning, suboccipital-triangle VA control, condyle/jugular-tubercle drilling limits, dural opening, and intradural lower-CN microsurgery, step by step.
 
 ---
-
-<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
-
-## Textbook Cross-Checks
-
-- **Tumor and skull-base anatomy:** Youmans and Winn; Schmidek and Sweet; Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches — confirm compartment, dural/vascular supply, cranial nerves, venous sinuses, white-matter tracts, and safe surgical corridors.
-- **Oncologic strategy:** CNS Radiation Oncology Principles and Practice; Youmans and Winn; Greenberg — summarize goals of resection, adjuvant-therapy context, surveillance, and when subtotal resection is safer.
-- **Complication rescue:** Schmidek and Sweet; Greenberg — review edema, seizure, venous injury, endocrinopathy/CSF leak, neurologic deficit, and reconstruction issues.
-- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
-
-<!-- END TEXTBOOK CROSS-CHECKS -->
 
 <!-- BEGIN CURATED LITERATURE -->
 

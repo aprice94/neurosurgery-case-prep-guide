@@ -22,7 +22,6 @@ tags:
 - **Rescue plans:** hemorrhage, seizure, neurologic or mood/cognitive change, lead/device migration or infection, stimulation side effects, hardware failure, and revision or programming strategy.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
-- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
 <!-- END CASE SNAPSHOT -->
 
@@ -39,17 +38,6 @@ tags:
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=stereoelectroencephalography&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=stereo+EEG+robot+implantation) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 ---
-
-<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
-
-## Textbook Cross-Checks
-
-- **Functional/pediatric anatomy:** Youmans and Winn; Schmidek and Sweet; Greenberg — confirm targets, trajectories, cranial nerve/brainstem/tract relationships, and age-specific anatomy.
-- **Technique sequence:** Schmidek and Sweet; Youmans and Winn — review positioning, monitoring/mapping, exposure or stereotactic workflow, and closure/device management.
-- **Complication rescue:** Greenberg; specialty literature — summarize neurologic, CSF, hemorrhagic, infectious, airway/swallowing, and hardware-related contingencies in original language.
-- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
-
-<!-- END TEXTBOOK CROSS-CHECKS -->
 
 <!-- BEGIN CURATED LITERATURE -->
 

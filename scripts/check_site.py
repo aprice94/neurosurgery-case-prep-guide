@@ -17,8 +17,6 @@ LIT_BEGIN = "<!-- BEGIN CURATED LITERATURE -->"
 LIT_END = "<!-- END CURATED LITERATURE -->"
 IMG_BEGIN = "<!-- BEGIN CURATED IMAGE SET -->"
 IMG_END = "<!-- END CURATED IMAGE SET -->"
-XCHK_BEGIN = "<!-- BEGIN TEXTBOOK CROSS-CHECKS -->"
-XCHK_END = "<!-- END TEXTBOOK CROSS-CHECKS -->"
 SNAPSHOT_BEGIN = "<!-- BEGIN CASE SNAPSHOT -->"
 SNAPSHOT_END = "<!-- END CASE SNAPSHOT -->"
 SNAPSHOT_LABELS = (
@@ -27,7 +25,6 @@ SNAPSHOT_LABELS = (
     "Rescue plans",
     "Figures",
     "Papers",
-    "Textbook cross-checks",
 )
 
 class LinkParser(HTMLParser):
@@ -85,7 +82,6 @@ def validate_guide_enrichment() -> None:
     low_lit = []
     low_img = []
     missing = []
-    missing_crosschecks = []
     missing_snapshots = []
     incomplete_snapshots = []
     camera_placeholders = []
@@ -98,13 +94,10 @@ def validate_guide_enrichment() -> None:
         text = read_text(src)
         lit = extract_block(text, LIT_BEGIN, LIT_END)
         imgs = extract_block(text, IMG_BEGIN, IMG_END)
-        xchk = extract_block(text, XCHK_BEGIN, XCHK_END)
         snapshot = extract_block(text, SNAPSHOT_BEGIN, SNAPSHOT_END)
         if not lit or not imgs:
             missing.append(str(src.relative_to(ROOT)))
             continue
-        if not xchk:
-            missing_crosschecks.append(str(src.relative_to(ROOT)))
         if not snapshot:
             missing_snapshots.append(str(src.relative_to(ROOT)))
         else:
@@ -149,8 +142,6 @@ def validate_guide_enrichment() -> None:
 
     if missing:
         fail(f"guides missing curated literature/image blocks, e.g. {missing[:8]}")
-    if missing_crosschecks:
-        fail(f"guides missing textbook cross-check blocks, e.g. {missing_crosschecks[:8]}")
     if missing_snapshots:
         fail(f"guides missing case/approach snapshot blocks, e.g. {missing_snapshots[:8]}")
     if incomplete_snapshots:

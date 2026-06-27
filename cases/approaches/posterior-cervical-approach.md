@@ -23,7 +23,6 @@ tags:
 - **Rescue plans:** wrong-level exposure, neuromonitoring change, C5 palsy risk, lateral mass or pedicle breach, vertebral artery injury, epidural bleeding, dural tear, post-laminectomy kyphosis, wound dehiscence/infection, and inadequate decompression in kyphotic alignment.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
-- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
 <!-- END CASE SNAPSHOT -->
 
@@ -39,21 +38,13 @@ The posterior cervical approach is the **midline corridor to the posterior eleme
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cervical+myelopathy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
+**CNS Video Library**
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/5VMTJRhn8oY" title="CNS Neurosurgery 100: Techniques for Open Cervical Spine Instrumentation" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 [AO Surgery Reference — posterior cervical](https://surgeryreference.aofoundation.org) · [Neurosurgical Atlas — Spine](https://www.neurosurgicalatlas.com) · [Radiopaedia — cervical stenosis](https://radiopaedia.org/search?q=cervical%20canal%20stenosis&scope=all) · [PubMed Central — lateral mass fixation](https://www.ncbi.nlm.nih.gov/pmc/?term=cervical+lateral+mass+screw+fixation)
 
 
 ---
-
-<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
-
-## Textbook Cross-Checks
-
-- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
-- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
-- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
-- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
-
-<!-- END TEXTBOOK CROSS-CHECKS -->
 
 <!-- BEGIN CURATED LITERATURE -->
 

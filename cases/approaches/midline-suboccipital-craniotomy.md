@@ -21,7 +21,6 @@ tags:
 - **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
-- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
 <!-- END CASE SNAPSHOT -->
 
@@ -41,17 +40,6 @@ The midline suboccipital craniotomy is the **workhorse posterior approach to the
 
 
 ---
-
-<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
-
-## Textbook Cross-Checks
-
-- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
-- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
-- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
-- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
-
-<!-- END TEXTBOOK CROSS-CHECKS -->
 
 <!-- BEGIN CURATED LITERATURE -->
 
@@ -78,11 +66,11 @@ The midline suboccipital craniotomy is the **workhorse posterior approach to the
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Midline Suboccipital Craniotomy — Fig. 3](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-01-fig-3-701-2026-6831-fig3-html-jpg.jpg)
-*Fig. 3. “Rule of Three” concept and individualized approaches of MVD. The “Rule of Three” concept provided one practical framework for three tailored approaches for the three major neurovascular... Source: [Historical evolution of microvascular decompression after Jannetta’s establishment: Anatomical maps and physiological compasses—a narrative review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12999832/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+![Midline Suboccipital Craniotomy — Telovelar surface map](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-11-telovelar-fourth-ventricle-map-jpg.jpg)
+*Fig. 1. Cerebellomedullary fissure approaches mapped on the external surface of the fourth ventricle. Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
 
-![Midline Suboccipital Craniotomy — Fig. 5](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-02-fig-5-701-2026-6831-fig5-html-jpg.jpg)
-*Fig. 5. Noncompressive transposition technique. Following Jannetta’s establishment of MVD, interposition was widely practiced; however, long-term outcomes reported from the late 1980s onward... Source: [Historical evolution of microvascular decompression after Jannetta’s establishment: Anatomical maps and physiological compasses—a narrative review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12999832/) — Acta Neurochirurgica 2026; CC BY-NC-ND.*
+![Midline Suboccipital Craniotomy — Fourth ventricle anatomy](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-12-fourth-ventricle-anatomy-jpg.jpg)
+*Fig. 2. Endoscopic anatomical mapping of the fourth ventricle from aqueduct to caudal floor. Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
 
 ![Midline Suboccipital Craniotomy — FIGURE 1](../../figures/curated/operative-approach-midline-suboccipital-craniotomy-posterior-fossa-craniotomy-craniectom/figure-03-figure-1-scs-34-0607-g001-jpg.jpg)
 *FIGURE 1. Midline suboccipital keyhole craniotomy for lesions of the fourth ventricle. (A) The skin incision was placed median extending from the line between the tips of the bilateral mastoid to... Source: [Microsurgical Management of Fourth Ventricle Lesions Via the Median Suboccipital Keyhole Telovelar Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC9944752/) — The Journal of Craniofacial Surgery 2023; CC BY-NC-ND.*

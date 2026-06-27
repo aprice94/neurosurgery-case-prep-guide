@@ -21,7 +21,6 @@ tags:
 - **Rescue plans:** iatrogenic nerve injury, neuroma or neuropathic pain, vascular injury, incomplete decompression, recurrence, wound problems, and therapy/splinting or revision plan.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
-- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
 <!-- END CASE SNAPSHOT -->
 
@@ -34,21 +33,13 @@ tags:
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=cubital+tunnel+syndrome+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
 
+**CNS Video Library**
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/EGLyeVvhq6I" title="CNS Neurosurgery 100: Peripheral Nerve: Entrapment" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 [Neurosurgical Atlas](https://www.neurosurgicalatlas.com) · [Radiopaedia](https://radiopaedia.org/search?q=cubital%20tunnel%20syndrome&scope=all) · [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/?term=ulnar+nerve+transposition+cubital+tunnel) — operative figures © linked; see [media-sources.md](../../resources/media-sources.md)
 
 
 ---
-
-<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
-
-## Textbook Cross-Checks
-
-- **Peripheral nerve anatomy:** Youmans and Winn; Greenberg; peripheral nerve surgery texts — confirm nerve course, fascicular anatomy, compression points, vascular supply, and nearby structures.
-- **Technique sequence:** Youmans and Winn; specialty operative references — review incision, exposure, neurolysis/decompression/resection strategy, graft/repair options, and closure.
-- **Complication rescue:** Greenberg; specialty literature — summarize neuropathic pain, motor deficit, wound issues, recurrence, and rehabilitation expectations.
-- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
-
-<!-- END TEXTBOOK CROSS-CHECKS -->
 
 <!-- BEGIN CURATED LITERATURE -->
 

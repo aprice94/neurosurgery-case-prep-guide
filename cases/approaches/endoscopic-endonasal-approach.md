@@ -21,7 +21,6 @@ tags:
 - **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
-- **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
 
 <!-- END CASE SNAPSHOT -->
 
@@ -30,6 +29,14 @@ tags:
 > **About the figures (read once):** Operative step illustrations/photos (Neurosurgical Atlas, Rhoton) are **copyrighted** and are **linked, not copied**. Embedded images here are **public-domain** anatomy plates. See [media-sources.md](../../resources/media-sources.md).
 
 **Atlas operative videos** — open on the [**Endoscopic Endonasal Approach chapter page**](https://www.neurosurgicalatlas.com/volumes/cranial-base-surgery/endoscopic-endonasal-approach): *Endonasal Endoscopic Approach · Pituitary Surgery · Extended Endonasal Approaches · Nasoseptal Flap Harvest.*
+
+---
+
+## Figures, Imaging & Video
+
+**CNS Video Library**
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/O9F2r5u6kDo" title="CNS Neurosurgery 100: Surgical Anatomy of the Open and Endonasal Approaches to the Anterior Cranial" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/B7lcL7uz938" title="CNS Neurosurgery 100: Surgical Anatomy of the Open and Endonasal Approaches to the Anterior Cranial" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ---
 
@@ -167,17 +174,6 @@ Postoperative CSF leak (1–5% sellar, 10–15% extended); DI (transient ~30%, p
 8. The Neurosurgical Atlas (Cohen-Gadol AA) — Endoscopic Endonasal Approach chapter (operative figures/videos, linked).
 9. Laws ER Jr, Sheehan JP, eds. *Pituitary Surgery — A Modern Approach.* Karger; 2006.
 10. Knosp E, Steiner E, Kitz K, Matula C. Pituitary adenomas with invasion of the cavernous sinus space: a magnetic resonance imaging classification compared with surgical findings. *Neurosurgery.* 1993;33(4):610–618.
-
-<!-- BEGIN TEXTBOOK CROSS-CHECKS -->
-
-## Textbook Cross-Checks
-
-- **Microsurgical corridor anatomy:** Rhoton Cranial Anatomy; Brain Anatomy and Neurosurgical Approaches; Youmans and Winn — confirm surface landmarks, bone-removal limits, cisternal/venous relationships, and the named neurovascular structures that define the working corridor.
-- **Technique sequence:** Schmidek and Sweet; Youmans and Winn; Neurosurgical Atlas chapter links — review positioning, incision, soft-tissue handling, bone work, dural opening, and intradural exposure sequence.
-- **Complication avoidance:** Rhoton; Greenberg; approach-specific operative references — cross-check cranial nerve, venous, sinus, perforator, CSF-leak, and cosmetic risks before committing to the corridor.
-- **Copyright-safe use:** cite these sources as private cross-checks, then write the guide content in original words; do not re-host textbook pages, figures, tables, or board-review card material. See [Source Crosswalk & Copyright-Safe Use](../../resources/source-crosswalk.md).
-
-<!-- END TEXTBOOK CROSS-CHECKS -->
 
 <!-- BEGIN CURATED LITERATURE -->
 

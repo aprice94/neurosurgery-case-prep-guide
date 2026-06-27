@@ -11,6 +11,12 @@ tags:
 
 <p class="lead">13 guides in this category.</p>
 
+## CNS Video Library
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/_3tLA-WUZ0M" title="CNS Neurosurgery 100: Introduction to Spine and Back Pain" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/j27j8s2Xu6M" title="CNS Neurosurgery 100: Introduction to the Spine and Back Pain" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/hcuH5n21cTs" title="CNS Neurosurgery 100: Techniques and Value of Minimally Invasive Spine Surgery for Decompression" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 <div class="index-grid">
   <a href="acdf.html">Anterior Cervical Discectomy and Fusion (ACDF)<span>Case-prep guide for Anterior Cervical Discectomy and Fusion (ACDF) with workup, operative planning, note template, figures, and references.</span></a>
   <a href="alif.html">Anterior Lumbar Interbody Fusion (ALIF)<span>Case-prep guide for Anterior Lumbar Interbody Fusion (ALIF) with workup, operative planning, note template, figures, and references.</span></a>

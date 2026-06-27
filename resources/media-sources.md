@@ -15,7 +15,7 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 - **Linked, not copied:** Copyrighted figures (textbooks, the Neurosurgical Atlas, Rhoton collection, most journal figures) are **linked to their source**, not downloaded into this repo. Copying them here — especially on GitHub — would infringe copyright.
 - **Embedded only if openly licensed:** Images that are **public domain** or **Creative Commons** (Wikimedia Commons, Gray's/Sobotta historical plates, open-access CC-BY journal figures) may be embedded directly, **with attribution + license**.
 - **Attribution format for embeds:** `*Source: <work>, <author/year>. <License>. via <site> (<url>).*`
-- **Source discipline:** See the [Source Crosswalk & Copyright-Safe Use](source-crosswalk.md) page for how to cite textbooks, board-card material, and proprietary atlases without re-hosting protected content.
+- **Source discipline:** Link copyrighted operative media rather than re-hosting it, and embed only public-domain or clearly open-licensed images with attribution.
 
 ---
 
@@ -29,6 +29,7 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 | [**Wikimedia Commons** ↗](https://commons.wikimedia.org) | Anatomy diagrams, historical plates, some imaging | **Embeddable** (check each: PD / CC) |
 | [**Wikipedia** ↗](https://en.wikipedia.org) | Labeled anatomy/pathology diagrams (sourced from Commons) | Link / embed (per-image license) |
 | [**PubMed Central (open access)** ↗](https://www.ncbi.nlm.nih.gov/pmc) | Operative & anatomy figures in OA reviews | Link / embed CC-BY figures with attribution |
+| [**CNS Video Library** ↗](https://www.youtube.com/@cnsvideolibrary/featured) | Congress of Neurological Surgeons educational operative/anatomy videos and Neurosurgery 100 lectures | Embed official YouTube videos when clearly procedure-relevant; otherwise link |
 | [**StatPearls (NCBI Bookshelf)** ↗](https://www.ncbi.nlm.nih.gov/books) | OA chapters with figures per topic | Link / embed (per license) |
 | [**neuroangio.org** (Gandhi) ↗](https://neuroangio.org) | Outstanding cerebral vascular & endovascular anatomy/angio | Link (free, ©) |
 | [**IMAIOS e-Anatomy** ↗](https://www.imaios.com/en/e-anatomy) | Cross-sectional & 3D neuroanatomy atlas | Link (freemium) |
@@ -39,6 +40,7 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 
 ## By category — where to look first
 
+- **CNS Video Library embeds already used here:** see [CNS Video Library Embeds](cns-video-library.md) for the local placement map.
 - **Cranial vascular / aneurysm / AVM:** Neurosurgical Atlas (approach + clipping), neuroangio.org (vascular anatomy/angioarchitecture), Radiopaedia (CTA/DSA).
 - **Cranial tumor / skull base:** Neurosurgical Atlas (approach figures + video), Radiopaedia (MRI), PMC OA reviews (approach anatomy), Rhoton anatomy (via AANS/Atlas, link).
 - **Endovascular:** neuroangio.org, Radiopaedia, Journal/Operative Neurosurgery video.

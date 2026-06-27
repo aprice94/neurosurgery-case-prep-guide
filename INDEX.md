@@ -15,13 +15,13 @@ title: Home
 </div>
 
 <div class="cards">
-  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 · complete</span></a>
+  <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
   <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
   <a class="card" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
   <a class="card" href="#stereo"><span class="ic">🎯</span><span class="t">Stereotactic &amp; Endovascular</span><span class="d">Biopsy · radiosurgery · LITT · neurointervention</span><span class="n">12 guides</span></a>
   <a class="card" href="#spine"><span class="ic">🦴</span><span class="t">Spine</span><span class="d">Degenerative · tumor · trauma · deformity · functional</span><span class="n">35 guides</span></a>
   <a class="card" href="#peripheral"><span class="ic">✋</span><span class="t">Peripheral &amp; Pediatric</span><span class="d">Nerve · plexus · pediatric neurosurgery</span><span class="n">10 guides</span></a>
-  <a class="card" href="#resources"><span class="ic">📚</span><span class="t">Resources &amp; Template</span><span class="d">100 resources · media sources · source crosswalk · blank template</span><span class="n">toolkit</span></a>
+  <a class="card" href="#resources"><span class="ic">📚</span><span class="t">Resources &amp; Template</span><span class="d">100 resources · media sources · blank template</span><span class="n">toolkit</span></a>
 </div>
 
 <h2 id="start-here" class="start-here">⭐ Start here — high-yield, bread-and-butter cases</h2>
@@ -75,7 +75,7 @@ title: Home
 <h2 id="resources">📚 Resources &amp; Templates</h2>
 - [Top 100 Neurosurgery Resources](resources/neurosurgery-resources.md) — textbooks, atlases, platforms, journals, operative references
 - [Curated media & figure sources](resources/media-sources.md) — where the figures come from (and licensing)
-- [Source crosswalk & copyright-safe use](resources/source-crosswalk.md) — how to use textbooks, PubMed, open figures, and board-card signals without re-hosting protected material
+- [CNS Video Library embeds](resources/cns-video-library.md) — mapped CNS videos and where they are embedded in the guide set
 - [Master Case-Prep Template](templates/case-prep-template.md) — blank template with every section
 
 ---

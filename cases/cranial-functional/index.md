@@ -11,6 +11,11 @@ tags:
 
 <p class="lead">7 guides in this category.</p>
 
+## CNS Video Library
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/34vJqjRJHKg" title="CNS Neurosurgery 100: Dystonia" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/fuwcROVbMp0" title="CNS Neurosurgery 100: Neurosurgery for Psychiatric Disorders" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 <div class="index-grid">
   <a href="anterior-temporal-lobectomy.html">Anterior Temporal Lobectomy / Selective Amygdalohippocampectomy (Epilepsy)<span>Case-prep guide for Anterior Temporal Lobectomy / Selective Amygdalohippocampectomy (Epilepsy) with workup, operative planning, note template, figures, and r...</span></a>
   <a href="awake-craniotomy.html">Awake Craniotomy with Cortical/Subcortical Mapping<span>Case-prep guide for Awake Craniotomy with Cortical/Subcortical Mapping with workup, operative planning, note template, figures, and references.</span></a>
