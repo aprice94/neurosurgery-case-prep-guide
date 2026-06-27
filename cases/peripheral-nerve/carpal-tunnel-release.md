@@ -148,6 +148,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Open CTR:** direct visualization of transverse carpal ligament and nerve; gold standard, low complication
 - **Endoscopic CTR:** smaller incision, faster recovery, but less direct visualization (nerve injury risk if anatomy unclear)
 
+### Operate vs Continue Nonoperative Care
+- **Proceed to surgery:** persistent symptoms despite splinting/injection, EMG/NCS moderate-severe CTS, thenar weakness/atrophy, denervation, recurrent nighttime symptoms affecting function, or acute CTS.
+- **Consider injection/splinting first:** mild intermittent symptoms, pregnancy-associated CTS, short duration without weakness, or high medical/wound risk.
+- **Urgent release:** acute CTS after distal radius fracture, burn/compartment swelling, hemorrhage, infection, or rapidly progressive median nerve deficit.
+- **Revision workup:** persistent symptoms suggest incomplete release or wrong diagnosis; recurrent symptoms after relief suggest scar/fibrosis, tenosynovitis, amyloid, mass, or systemic disease.
+
+### Anatomy Variants to Expect
+- Recurrent motor branch can be extraligamentous, subligamentous, or transligamentous; the transligamentous branch is the trap during TCL division.
+- Palmar cutaneous branch travels radial/proximal and is vulnerable to incisions crossing the wrist crease or radial dissection.
+- Berrettini communicating branch between median and ulnar digital nerves can cross the distal field.
+- Persistent median artery, bifid median nerve, synovial hypertrophy, ganglion, and anomalous muscle belly can explain atypical symptoms or intraoperative findings.
+
 ### Position & Anesthesia
 - Supine, arm on hand table, **tourniquet**, **local/WALANT (wide-awake local anesthesia no tourniquet) or local + sedation / regional**
 
@@ -160,6 +172,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 6. Confirm complete release proximally (antebrachial fascia) and distally (palmar fat) — nerve fully decompressed
 7. Inspect nerve, ensure no mass/anomaly; do NOT routinely neurolyse
 8. Release tourniquet, hemostasis, skin closure (nylon), soft dressing/splint
+
+### Completeness Check
+- Distal release ends when palmar fat is seen and no distal band remains over the median nerve/common digital branches.
+- Proximal release includes the distal antebrachial fascia enough to remove the proximal constriction without injuring the palmar cutaneous branch.
+- The median nerve should be decompressed without routine internal neurolysis; external neurolysis is reserved for scarred revision or clear constricting tissue.
+- If symptoms were atypical or severe, inspect for mass, synovitis, anomalous muscle, persistent median artery, or bifid nerve.
+- Before closure, range the wrist/fingers gently and ensure no sharp fascial edge or hematoma compresses the nerve.
 
 ### Critical Anatomy & Structures at Risk
 1. **Median nerve** (deep to TCL)
@@ -179,6 +198,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Nerve injury** (median/recurrent motor/palmar cutaneous — painful neuroma, thenar weakness)
 2. Incomplete release (persistent symptoms), pillar pain, scar tenderness
 3. Vascular injury (superficial arch), bowstringing (rare), CRPS, infection, stiffness
+
+### Rescue and Revision Logic
+- **Immediate thenar weakness after release:** suspect recurrent motor branch injury or severe pre-existing denervation; examine early and consider exploration if an iatrogenic injury is plausible.
+- **Persistent numbness without improvement:** review pre-op severity, confirm complete release, and reassess cervical radiculopathy, pronator syndrome, polyneuropathy, diabetes, or amyloid.
+- **Recurrent symptoms after a symptom-free interval:** suspect scar tethering, recurrent synovitis, incomplete distal/proximal release, or new systemic driver; ultrasound/MRI and repeat EMG help.
+- **Pillar pain:** reassure and treat with time, scar massage, desensitization, therapy, and activity progression; avoid premature revision for isolated pillar pain.
+- **CRPS concern:** early recognition, hand therapy, pain management, edema control, and avoid prolonged immobilization.
 
 ---
 

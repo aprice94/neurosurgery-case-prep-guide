@@ -16,9 +16,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** the named neural, vascular, bony, CSF, and soft-tissue structures that determine the safe corridor and likely morbidity.
-- **Operative steps:** confirm indication and imaging, position and expose deliberately, complete the core surgical maneuver, verify the result, and close with a complication-prevention plan; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** bleeding, neurologic change, wrong target or level, CSF leak, infection, hardware or reconstruction failure, and a staged or alternate-treatment plan.
+- **Anatomy at risk:** lumbar thecal sac, conus/roots, intrathecal catheter path and tip level, fascial anchor, flank-abdominal tunneling route, pump pocket skin envelope, prior fusion/scoliosis anatomy, CSF space, and refill port orientation.
+- **Operative steps:** confirm severe spasticity indication and trial response, choose catheter entry/tip level, create durable lumbar catheter access, anchor without kinking, tunnel to a body-habitus-appropriate pump pocket, connect/program pump safely, verify CSF/drug pathway, and establish refill/overdose/withdrawal safeguards.
+- **Rescue plans:** failed intrathecal access, catheter kink/disconnection/migration, CSF leak, pocket dehiscence/seroma/infection, baclofen overdose, life-threatening withdrawal from pump/catheter failure or empty reservoir, dosing/refill error, hydrocephalus interaction, and MRI/device-management issues.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -130,6 +130,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ### Trial documentation
 - **ITB trial response** (test dose LP — Ashworth/spasm reduction)
 
+### Candidate and Systems Checklist
+- Define the goal: comfort/care, sleep, hygiene, contracture prevention, transfers, gait, pain, or caregiver burden. Too much tone reduction can worsen transfers or standing in selected patients.
+- Confirm trial response with objective tone/spasm scores and functional/caregiver observations, not only "felt looser."
+- Screen hydrocephalus in pediatric/CP candidates when head growth, ventriculomegaly, shunt history, or symptoms suggest CSF-dynamics issues.
+- Check abdominal wall thickness, wheelchair beltline, scoliosis, prior abdominal surgery, G-tube/ostomy, and skin pressure points before selecting the pump pocket.
+- Confirm caregiver reliability, refill logistics, emergency access, and who will manage dose titration/refill alarms.
+
 ---
 
 ## Labs
@@ -157,6 +164,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 7. Closure
 - (Some confirm catheter tip with fluoroscopy/contrast myelogram via catheter)
 
+### Technical Nuances
+- Lumbar entry should be below the conus and away from fused/stenotic levels; use fluoroscopy or ultrasound when anatomy is distorted.
+- Tunnel a smooth catheter arc with strain relief at both lumbar anchor and pump pocket; sharp turns become delayed kinks.
+- In thin children/adults, consider subfascial pump placement to reduce erosion, but balance pain and surgical morbidity.
+- Orient the refill port clearly and document pump location/depth; poor orientation creates future refill risk.
+- Prime and program according to device protocol, with independent medication concentration/dose checks before leaving the OR.
+- Obtain baseline postoperative radiographs/fluoro images of catheter course and tip level for future malfunction workups.
+
 ### Critical Anatomy & Structures at Risk
 1. **Spinal cord / nerve roots / conus** (catheter — stay subarachnoid, avoid cord; lumbar entry below conus)
 2. **Dura** (CSF leak — post-dural-puncture headache, hygroma), catheter tip level (dosing effect)
@@ -177,6 +192,22 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ### Equipment/Safety Note
 - Establish **refill schedule** (avoid empty-reservoir withdrawal), program alarms, educate patient/caregiver on withdrawal/overdose signs
+
+### Overdose vs Withdrawal
+
+| Syndrome | Typical clues | Immediate priorities |
+|----------|---------------|----------------------|
+| Baclofen overdose | somnolence, hypotonia, respiratory depression, bradycardia/hypotension, coma | airway/ventilation, pump interrogation, stop/reduce infusion, ICU support, consider CSF aspiration per specialist protocol |
+| Baclofen withdrawal | rebound spasticity, pruritus, fever, agitation, autonomic instability, rhabdomyolysis, seizures, organ failure | restore intrathecal baclofen if possible, benzodiazepines/supportive ICU care, troubleshoot pump/catheter/refill, treat hyperthermia/rhabdo |
+| Catheter malfunction | loss of effect, withdrawal symptoms, abnormal residual volume, kink/disconnection on imaging | interrogate pump, radiographs/contrast study per protocol, urgent revision if withdrawal risk |
+| Pocket infection | erythema, drainage, tenderness, fever, positive cultures | cultures/antibiotics, assess depth; deep hardware infection often requires explant/temporary baclofen bridge |
+
+### Troubleshooting Pathway
+- Interrogate pump first: reservoir volume, alarm history, dose/concentration, battery, motor stall, and last refill.
+- Compare aspirated reservoir volume with expected volume; mismatch suggests refill/programming or delivery problem.
+- Image the entire catheter from pump to intrathecal tip; kinks and disconnections hide at anchors/connectors.
+- If contrast study is needed, aspirate catheter access port first when protocol requires it to avoid bolus overdose.
+- Treat suspected withdrawal while diagnosing; waiting for perfect proof can be dangerous.
 
 ---
 

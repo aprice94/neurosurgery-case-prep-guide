@@ -18,9 +18,9 @@ tags:
 
 ## Case / Approach Snapshot
 
-- **Anatomy at risk:** corridor-defining nerves, arteries, veins/sinuses, cisterns, bone landmarks, muscle/fascial planes, and closure structures that determine exposure and morbidity.
-- **Operative steps:** confirm position and trajectory, mark landmarks, protect soft tissue and named neurovascular structures, perform the bone/soft-tissue corridor, open/close dura or target compartment deliberately, and verify hemostasis/reconstruction; use the detailed operative sequence and approach notes below as the step-by-step source.
-- **Rescue plans:** brain relaxation failure, venous or sinus bleeding, cranial nerve/perforator risk, exposure that is too narrow, CSF leak, cosmetic/temporalis/frontalis problems, and conversion to a wider or alternate corridor.
+- **Anatomy at risk:** lung/pleura, ribs/intercostal bundle, sympathetic chain, thoracic duct, esophagus, aorta/azygos/segmental vessels, artery of Adamkiewicz/radiculomedullary supply, diaphragm at the thoracolumbar junction, ventral dura, and watershed thoracic cord.
+- **Operative steps:** confirm level and side, assess pulmonary/vascular tolerance, position lateral with lung isolation, open thoracotomy/VATS/retropleural corridor, control segmental vessels selectively, preserve cord blood supply, decompress ventral pathology away from the cord, reconstruct anterior column, place chest tube, and close with pulmonary/CSF/chyle surveillance.
+- **Rescue plans:** wrong-level exposure, hypoxia or failed lung isolation, segmental/aortic/azygos bleeding, Adamkiewicz or cord ischemia, pleural violation/air leak, thoracic duct injury/chylothorax, transdural calcified disc CSF leak, cage/plate malposition, and need for posterior supplemental fixation.
 - **Figures:** review [Figures, Imaging & Video](#figures-imaging--video) and the [Curated Image Set](#curated-image-set); embedded local figures should remain open-access, public-domain, or otherwise reusable with attribution.
 - **Papers:** review [High-Yield Literature](#high-yield-literature) for seminal sources, modern reviews, and outcome data specific to this page.
 - **Textbook cross-checks:** use [Textbook Cross-Checks](#textbook-cross-checks) and the [Source Crosswalk](../../resources/source-crosswalk.md) to cite copyrighted textbooks/atlases while summarizing in original words.
@@ -125,6 +125,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Thoracic corpectomy / reconstruction** — burst fracture, tumor, infection → [anterior thoracic corpectomy](../spine-degenerative/anterior-thoracic-corpectomy.md), [vertebral corpectomy](../spine-tumor/vertebral-corpectomy.md)
 - Anterior deformity correction / release
 
+### Access Selection
+
+| Pathology / patient factor | Open thoracotomy | VATS / thoracoscopic | Mini-open retropleural |
+|----------------------------|------------------|----------------------|------------------------|
+| Large tumor, multilevel corpectomy, major reconstruction | Best exposure/control | Limited | Sometimes inadequate |
+| Calcified central disc | Strong direct access | Possible in expert hands | Useful for selected lateral/ventral targets |
+| Poor pulmonary reserve | More morbidity | Less incision morbidity but still lung isolation | May avoid pleural cavity |
+| Need vascular control | Best | Limited | Limited-moderate |
+| Thoracolumbar junction | Thoracoabdominal extension may be needed | Less common | Retropleural/retroperitoneal blend useful |
+| Revision pleural disease | Adhesions make difficult | Often difficult | Retropleural may help |
+
+Choose the exposure that gives safe ventral decompression and reconstruction, not just the smallest incision. A minimally invasive thoracic corridor that cannot control a bleeding segmental vessel or calcified transdural disc is the wrong minimally invasive corridor.
+
 ---
 
 ## Relevant Surgical Anatomy
@@ -140,6 +153,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Pulmonary function** (single-lung ventilation/thoracotomy tolerance), cardiac assessment.
 - **CT/MRI** — level, ventral compression, calcification/dural involvement, body destruction; **CTA for segmental vessels / artery of Adamkiewicz** and great-vessel anatomy (influences side).
 - **Level localization plan** — thoracic counting is notoriously error-prone (count from C2 and the sacrum, use a fiducial/rib, confirm intraoperatively). **Type & crossmatch.**
+
+### Side and Vascular Planning
+- Map the artery of Adamkiewicz and dominant radiculomedullary feeders when feasible; avoid sacrificing the dominant feeder level.
+- Left-sided approaches are common for mid/lower thoracic anterior bodies, but a left Adamkiewicz, aortic pathology, prior thoracotomy, or lesion laterality can change the plan.
+- Right upper thoracic approaches may avoid the aortic arch/heart but bring azygos and vena caval/liver considerations.
+- Identify calcified transdural disc signs on CT/MRI; these cases need a CSF-leak and dural-repair plan before decompression.
+- Decide preoperatively whether posterior supplemental fixation is needed for instability, multicolumn disease, deformity, infection, or poor bone quality.
 
 ## Anesthesia & Neuromonitoring
 - GA with a **double-lumen tube / bronchial blocker (lung isolation)**; arterial line, central access, **crossmatched blood/cell saver**; **SSEP/MEP** with **MAP support** for the cord; **no paralytic** with MEPs. A **thoracic/access surgeon** commonly assists; **chest tube** at closure.
@@ -159,6 +179,21 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ## Decompression & Reconstruction
 
 - **Discectomies above and below**, then **corpectomy** with **ventral decompression of the canal** (remove the retropulsed fragment/calcified disc/tumor away from the cord — never toward it). Reconstruct the anterior column with an **expandable cage/mesh + graft** and **anterior instrumentation (lateral plate/rod)**; add **posterior fixation** for unstable/3-column injuries. **Chest tube**, re-inflate the lung.
+
+### Decompression Sequence
+1. Confirm level with fluoroscopy/navigation before rib resection and before vertebral body drilling.
+2. Control segmental vessels at the mid-body only after confirming the vascular plan; preserve critical radiculomedullary supply.
+3. Create a working cavity in disc/body first, then thin ventral compressive pathology into that cavity.
+4. For calcified discs, detach lateral/ventral margins before teasing the fragment away from dura; never lever a hard fragment into the cord.
+5. For tumor/infection, obtain pathology/cultures early and plan margins/debridement with reconstruction and adjuvant therapy in mind.
+6. Size cage/graft under compression and image confirmation; avoid over-distraction of the thoracic cord and segmental vessels.
+
+### Intraoperative Rescue
+- **MEP/SSEP loss:** raise MAP, stop vessel ligation/distraction, restore oxygenation/hemoglobin, reverse correction, inspect decompression/hardware, and consider revascularization implications if a segmental feeder was sacrificed.
+- **Aortic/azygos/segmental bleeding:** pack with direct pressure, improve exposure, call vascular/thoracic help early, and avoid blind clamping near the cord blood supply.
+- **Pleural/lung injury or failed single-lung ventilation:** pause spine work, repair air leak, optimize tube/bronchial blocker, and convert exposure if oxygenation is unsafe.
+- **Chylothorax risk:** ligate thoracic duct injury when recognized; monitor milky/high-output chest drainage postoperatively.
+- **Transdural disc CSF leak:** repair/patch from anterior corridor if possible, seal, drain strategy, and avoid leaving a sharp calcified remnant against the dura.
 
 ---
 

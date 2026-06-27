@@ -128,6 +128,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Loaded to navigation** (StealthStation/Brainlab); plan entry, target, trajectory
 - Registration plan: **skull-implanted fiducials** (most accurate frameless), surface/laser/mask registration
 
+### Accuracy Read Before Incision
+- Choose frameless biopsy for lobar/convexity or moderate-depth targets where navigation error is acceptable; favor frame/robot/iMRI for tiny, brainstem, thalamic, pineal, or very deep targets.
+- Prefer skull fiducials or skull-mounted guides when precision matters; surface registration is convenient but can drift with skin/scalp shift.
+- Check registration against bony landmarks near the entry, not just the face; a good facial fit can still be wrong at the cranial target.
+- Plan a trajectory that is near perpendicular to the skull, avoids sulci/vessels/ventricle, and crosses the least eloquent tissue.
+- Confirm the path samples viable target: enhancing rim, diffusion-restricting or solid tissue, not necrotic center.
+
 ---
 
 ## Labs
@@ -158,6 +165,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ### Brain Shift Caveat
 - Frameless accuracy can be degraded by **brain shift** (CSF loss, large cystic lesions); minimize CSF egress, rely on rigid skull-mounted guides for deep targets, consider intraoperative imaging if concern
 
+### Sampling and Confirmation Strategy
+- Use a mechanical depth stop and independently read back target depth, needle length, and side-window orientation before each pass.
+- Take the first diagnostic sample from the highest-yield target; hemorrhage or swelling can end the case early.
+- Send tissue according to the differential: fresh lymphoma flow cytometry, cultures for infection, permanent/molecular for glioma, and frozen/smear adequacy for all.
+- If frozen shows necrosis/gliosis only, sample adjacent viable target along the same safe trajectory before adding a second trajectory.
+- Obtain immediate CT if there is bloody return, neurologic change, unexpected hypertension/bradycardia, or concern for off-target passage.
+
 ### Critical Anatomy & Structures at Risk
 1. **Trajectory vessels** — hemorrhage (main risk)
 2. **Registration/brain-shift error** → off-target (non-diagnostic or eloquent injury)
@@ -175,6 +189,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Hemorrhage** (~1-3%), **non-diagnostic sample / off-target** (registration/brain-shift error)
 2. Seizure, infection, neurological deficit
 3. Inaccuracy for very deep/small targets vs frame (mitigated by skull-mounted guide)
+
+### Rescue Plans
+- **Registration mismatch:** stop, repeat registration, replace fiducials/reference if needed, or convert to frame/robot/open biopsy; do not proceed with a known-bad registration.
+- **Brain shift/CSF loss:** pause, minimize further egress, reassess navigation reliability, and consider intraoperative CT/MRI if available.
+- **Bloody aspirate:** leave the needle/cannula briefly for tamponade, stop further sampling, control BP/coagulation, obtain CT, and keep the airway protected if the patient is symptomatic.
+- **Nondiagnostic tissue:** confirm target/trajectory, sample adjacent viable tissue, then decide whether repeat/open biopsy is safer than repeated blind passes.
+- **Seizure:** irrigate, abort further passes if needed, treat with antiseizure medication, image if prolonged or associated with deficit.
 
 ---
 
