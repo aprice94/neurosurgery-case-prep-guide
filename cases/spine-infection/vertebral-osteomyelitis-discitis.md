@@ -152,6 +152,17 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Surgical indications:** neurological deficit/cord compression (epidural abscess), **instability/deformity/progressive collapse**, failure of medical therapy, need for open biopsy (non-diagnostic aspirate), intractable pain from instability, significant bony destruction
 - Goals: debride infection, decompress, **restore stability/alignment**, obtain definitive cultures
 
+### Medical Versus Operative Decision
+- Before incision, define the driver: neurologic compression, sepsis/source control, mechanical instability, progressive kyphosis, uncontrolled pain, organism diagnosis, or failure of antibiotics.
+- Stable neurologically intact patients often need biopsy, cultures, bracing, and ID-directed antibiotics rather than urgent instrumentation.
+- Hold antibiotics until cultures when the patient is stable; do not delay antibiotics for culture purity in sepsis, neurologic decline, or epidural abscess with systemic illness.
+- Screen for organism clues: IV drug use, dialysis, immunosuppression, TB/endemic exposure, brucella exposure, recent bacteremia/endocarditis, urinary source, and prior spine surgery/hardware.
+
+### Reconstruction Strategy
+- Instrumentation can be appropriate in an infected field when instability/deformity demands it; eradication depends more on debridement, stability, and organism-directed therapy than on avoiding metal.
+- Anterior debridement/reconstruction best addresses disc/body destruction and kyphosis; posterior fixation best provides stability and deformity control; combined/staged approaches are common when both are needed.
+- Plan biopsy and culture labels before antibiotics in the room: multiple deep tissue samples, not swabs, with aerobic/anaerobic/fungal/AFB/pathology as indicated.
+
 ### Position & Approach
 - **Anterior** (debride infected disc/body, reconstruct anterior column) ± **posterior instrumentation** (stabilize, correct deformity); or posterolateral/combined
 - Lateral (thoracic, lung deflation) or prone (posterior); IONM baseline
@@ -184,6 +195,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Persistent/recurrent infection** (inadequate debridement), sepsis
 2. Hardware infection/failure, pseudarthrosis, progressive deformity
 3. Neurological injury, CSF leak, vascular/pulmonary (anterior)
+
+### Rescue and Follow-Up Logic
+- **Culture-negative infection:** confirm antibiotics were held if safe, review pathology, consider repeat biopsy/open biopsy, and broaden workup for TB/fungal/brucella/malignancy before committing to empiric long courses.
+- **Neurologic decline on antibiotics:** urgent MRI for epidural abscess, deformity, or collapse; medical therapy does not protect the cord from mechanical compression.
+- **Persistent bacteremia:** search for endocarditis, line infection, psoas/paraspinal abscess, infected hardware, and inadequate source control.
+- **Progressive kyphosis/collapse:** reassess stability and alignment even if inflammatory markers improve; pain and deformity can be mechanical treatment failures.
+- **Hardware concern in infection:** distinguish expected postoperative enhancement from loosening, abscess, or nonunion using symptoms, ESR/CRP trend, CT, MRI with metal reduction, and organism status.
 
 ---
 

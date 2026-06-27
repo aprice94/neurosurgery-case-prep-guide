@@ -153,6 +153,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Contraindications/caution:** asymptomatic/healed fracture, significant retropulsion with cord compression + deficit, uncorrectable coagulopathy, osteomyelitis at level, burst fracture with canal compromise
 - **Kyphoplasty** (balloon creates cavity, may restore some height, lower-pressure cement fill) vs **vertebroplasty** (direct cement injection)
 
+### Fracture Selection Checklist
+- Confirm the painful level: focal percussion pain, acute/subacute marrow edema/STIR signal, concordant uptake when nuclear imaging is used, and no better explanation for pain.
+- Do not treat an old collapsed level just because it looks dramatic; chronic fractures without edema are common false targets.
+- Review posterior wall integrity, pedicle anatomy, canal compromise, epidural tumor, infection, and coagulopathy before deciding augmentation is enough.
+- In malignancy, obtain biopsy when diagnosis is unknown or progression pattern is unexpected; coordinate radiation/oncology timing.
+- In osteoporosis, the procedure is only one part of treatment: bone-health therapy is what prevents the next fracture.
+
+### Kyphoplasty Versus Vertebroplasty
+- Kyphoplasty may help when partial height restoration, cavity creation, or lower-pressure cement fill is desirable.
+- Vertebroplasty is efficient for painful stable fractures where height restoration is not the goal and cement can be injected safely.
+- Severe vertebra plana, burst morphology, major retropulsion, or posterior wall violation can make either procedure unsafe or less useful.
+
 ### Position & Anesthesia
 - **Prone**, fluoroscopy (biplanar), **local + sedation (MAC)** or general; padded
 
@@ -183,6 +195,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. **Pulmonary cement embolism**, rarely cardiac
 3. **Adjacent-level fracture** (altered biomechanics — common in osteoporosis)
 4. Pedicle breach/neural injury, infection, hematoma, no pain relief (wrong level/old fracture)
+
+### Cement Leak and Failure Rescue
+- **Leak toward canal/foramen:** stop injection immediately, wait for viscosity/cure, redirect only if a safe path remains, and obtain urgent imaging for any new radiculopathy/myelopathy.
+- **Venous leak:** stop injection, allow cement to harden, monitor oxygenation/hemodynamics, and evaluate for pulmonary cement embolism if respiratory symptoms occur.
+- **Pedicle breach:** withdraw/reposition before cement, confirm AP/lateral trajectory, and do not inject if the cannula cannot be kept safely intraosseous.
+- **No pain relief:** reassess level concordance, chronicity, adjacent fracture, malignancy, infection, stenosis/radiculopathy, and non-spinal pain sources.
+- **Adjacent fracture:** treat bone health aggressively and image new pain early; repeat augmentation only when the new level is acute and concordant.
 
 ---
 

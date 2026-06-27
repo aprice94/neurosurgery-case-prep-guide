@@ -150,6 +150,17 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Iliosacral (SI) screws:** percutaneous, for certain zone I/II and pelvic ring; **sacral decompression** (laminectomy/foraminotomy) for zone III with neural deficit
 - Coordinate with orthopedic trauma (pelvic ring)
 
+### Classification and Construct Choice
+- Denis zone, Roy-Camille/U-type morphology, vertical instability, lumbosacral kyphosis, pelvic-ring injury, and neurologic deficit determine whether this is a pelvic screw case or a spinopelvic fixation case.
+- Percutaneous iliosacral/transsacral screws may be enough for stable corridors without spinopelvic dissociation; U-type dissociation, vertical shear, severe comminution, or inability to mobilize usually needs lumbopelvic fixation.
+- Decompression is most compelling for progressive deficit or imaging-proven root/canal compression; chronic complete sacral deficits may not recover, so decompression should be weighed against wound and stability needs.
+- Decide early with orthopedic trauma who owns pelvic-ring reduction, anterior fixation, weight-bearing restrictions, and timing around abdominal/urologic injuries.
+
+### Imaging and Neurologic Checklist
+- CT pelvis with inlet/outlet/sagittal reconstructions: sacral corridors, foraminal compromise, transverse component, kyphosis, comminution, and safe S1/S2 screw pathways.
+- MRI when neurologic deficit is unexplained or root compression/epidural hematoma changes decompression urgency.
+- Document saddle sensation, rectal tone, bulbocavernosus reflex, voluntary anal contraction, bladder scan/catheter status, and sexual function baseline when possible.
+
 ### Position
 - Prone, Jackson table, fluoroscopy (pelvis — inlet/outlet/lateral), IONM; careful with associated injuries
 
@@ -182,6 +193,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. Hardware prominence (iliac screws — symptomatic), screw malposition (notch/joint/vessels)
 3. Wound complications/infection (posterior pelvis, polytrauma), nonunion, loss of reduction
 4. Blood loss, associated pelvic injury complications
+
+### Intraoperative and Postoperative Rescue
+- **Poor fluoroscopic corridor:** stop and obtain better inlet/outlet/lateral imaging or navigation; sacral dysmorphism makes "standard" screw angles unsafe.
+- **Screw breach or triggered EMG change:** remove/reposition, check CT if uncertain, and prioritize root safety over construct convenience.
+- **Reduction worsens neuromonitoring:** release correction, raise MAP, reassess root/canal compression, and decide whether decompression is needed before final locking.
+- **Posterior wound risk:** minimize dead space, consider drains/negative-pressure dressing in polytrauma or degloving injury, and coordinate timing if fecal/urogenital contamination exists.
+- **Persistent bladder/bowel dysfunction:** involve urology/rehab early, trend post-void residuals, bowel program, and counsel that sacral neurologic recovery is variable and often slow.
+- **Hardware prominence/pain after union:** evaluate fusion/fracture healing before elective iliac screw removal or revision to lower-profile S2AI fixation.
 
 ---
 

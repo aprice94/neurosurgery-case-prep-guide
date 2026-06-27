@@ -146,6 +146,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Open Versus Needle Biopsy Decision
+- Favor open biopsy when the lesion is superficial/cortical, vascular/hemorrhagic, requires larger architecture for diagnosis, has failed stereotactic biopsy, or needs limited decompression at the same sitting.
+- Favor stereotactic needle biopsy for deep, small, multifocal, medically fragile, or eloquent lesions where a craniotomy/corticotomy adds avoidable morbidity.
+- If lymphoma is high on the differential, avoid pre-biopsy steroids when clinically feasible and send fresh tissue for flow cytometry in addition to permanent pathology.
+- If infection/inflammation is plausible, coordinate specimen handling before incision: aerobic/anaerobic, fungal, AFB, viral/PCR, pathology, and tissue saved for molecular testing when appropriate.
+
 ### Position & Approach
 - Per lesion location; **navigation-guided small craniotomy or burr hole** over the lesion; Mayfield; lesion at accessible/highest point
 
@@ -180,6 +186,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 1. **Hemorrhage** (directly controllable — advantage), edema/mass effect
 2. Neurological deficit (corticotomy/eloquent), seizure, infection, CSF leak
 3. Non-diagnostic (less likely than needle given larger sample + frozen confirmation)
+
+### Tissue and Rescue Strategy
+- **Frozen section nondiagnostic:** resample the enhancing/rim/solid component, avoid necrotic center, use ultrasound/navigation update for shift, and confirm pathology has enough tissue before closure.
+- **Unexpected high-grade tumor with mass effect:** decide whether limited debulking is safe and aligned with consent; do not convert a diagnostic biopsy into a major resection without a clear preoperative contingency.
+- **Unexpected abscess/pus:** obtain cultures before antibiotics if stable, irrigate/decompress as needed, and avoid spilling infected material through clean planes.
+- **Bleeding lesion:** use the open exposure advantage: bipolar under direct vision, hemostatic agents, wider exposure only if needed, postop CT threshold low.
+- **Eloquent cortex concern:** stop at diagnostic tissue if mapping/monitoring changes or the corridor becomes functionally unsafe.
 
 ---
 

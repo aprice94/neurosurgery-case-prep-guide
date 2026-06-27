@@ -149,6 +149,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Medial epicondylectomy:** alternative
 - Endoscopic in situ release: option
 
+### Decision Points Before Incision
+- Match the operation to the failure mode: static compression alone often fits in situ release; dynamic subluxation, traction over a valgus elbow, post-traumatic deformity, scarring, or failed release pushes toward transposition.
+- Document severity: sensory-only disease, intrinsic weakness, clawing, denervation on EMG, and chronic atrophy have different recovery expectations.
+- Examine for double-crush or mimics: cervical radiculopathy, brachial plexopathy, Guyon canal compression, diabetic neuropathy, and medial epicondylitis can all cloud the outcome.
+- Plan the postoperative immobilization and therapy around technique; submuscular transposition pays for its deeper bed with more soft-tissue morbidity and stiffness risk.
+
 ### Position & Anesthesia
 - Supine, arm on hand table, shoulder abducted/externally rotated, elbow flexed, **tourniquet**; regional/general
 
@@ -182,6 +188,13 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 2. **MABC neuroma**, ulnar nerve injury/devascularization
 3. New compression at transposition, elbow stiffness/flexion contracture, instability of nerve
 4. Hematoma, infection
+
+### Failure and Revision Logic
+- **Persistent early symptoms:** verify complete proximal/distal release, hematoma, excessive tension, and whether preoperative axonal loss makes recovery slow rather than failed.
+- **New medial forearm pain:** suspect MABC branch injury/neuroma or scar tethering; document sensory territory and avoid assuming recurrent cubital tunnel.
+- **Recurrent compression after in situ release:** look for scarring, missed FCU/aponeurotic band, nerve subluxation, or valgus traction; revision often requires transposition with careful vascular preservation.
+- **Symptoms after transposition:** check for kinking at the fascial sling, compression at the new tunnel edges, devascularization, or instability back over the epicondyle through elbow ROM.
+- **Severe intrinsic atrophy:** counsel that decompression protects remaining function and may improve sensation/pain, but motor recovery can take months and may be incomplete.
 
 ---
 

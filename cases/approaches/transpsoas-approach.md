@@ -146,6 +146,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **MRI:** **plexus position and psoas morphology** (axial — a "rising psoas" pushes nerves anterior), level, vascular anatomy; **side selection** (usually approach the concavity in scoliosis, away from great vessels). **Standing films** for alignment.
 - Confirm **L5–S1 is not the target**; assess iliac crest height vs L4–5.
 
+## Case-Selection and Side Strategy
+- Best fit: L1-2 through L4-5 disc access for indirect decompression, coronal correction, disc-height restoration, and large-footprint interbody support when posterior-only access is less attractive.
+- Caution/avoid: high iliac crest at L4-5, severe psoas migration/rising psoas, plexus anterior to the disc target, active infection through the corridor, retroperitoneal scarring, anomalous vessels, or severe central stenosis where indirect decompression is unlikely.
+- Side selection balances deformity concavity, vascular position, prior abdominal/retroperitoneal surgery, symptoms, and the working-room available between rib, iliac crest, and plexus.
+- Plan supplemental posterior fixation when instability, deformity correction, spondylolisthesis, osteoporosis, or multilevel constructs make standalone lateral cage failure likely.
+
 ## Anesthesia & Neuromonitoring
 - GA; **continuous and triggered EMG is mandatory** (femoral/plexus), with no long-acting paralytic; fluoroscopy. Some add MEP/SSEP for deformity.
 
@@ -198,6 +204,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Great vessels/segmental vessels and ureter** are anterior (OLIF especially) — know where they are; control segmental bleeding.
 - **Side selection & table break** determine the whole case — true lateral and true orthogonal fluoro are non-negotiable.
 - **Not for L5–S1** (iliac crest) — plan ALIF/TLIF there.
+
+## Intraoperative Rescue Logic
+- **Low triggered EMG threshold while dilating:** stop, withdraw to a safe depth, redirect more anterior/posterior per anatomy and fluoroscopy, and abandon the level if no safe corridor exists.
+- **Loss of true AP/lateral fluoroscopy:** reposition before docking or cage insertion; oblique imaging can make a safe-looking trajectory violate endplate, canal, or anterior vessels.
+- **Peritoneal breach:** inspect bowel/contents, close or consult general surgery if significant, and do not leave the cage corridor contaminated or unstable.
+- **Segmental/great-vessel bleeding:** pack, maintain exposure, avoid blind bipolar deep to psoas, and obtain vascular help early for brisk anterior bleeding.
+- **Endplate fracture/subsidence during trialing:** upsize footprint only if safe, reduce distraction, consider supplemental posterior fixation, and avoid forcing lordosis through weak bone.
+- **Postoperative femoral neuropathy:** check psoas hematoma with imaging if severe/progressive, document quadriceps/iliopsoas strength, and distinguish expected transient psoas irritation from compressive injury.
 
 ## Complications
 **Lumbar plexus / femoral nerve injury** (quadriceps/hip-flexor weakness), **anterior-thigh numbness & groin pain (genitofemoral)**, transient psoas weakness; **cage subsidence**; vascular injury (great/segmental vessels — OLIF), ureteral/bowel injury; retroperitoneal hematoma; incisional hernia/abdominal-wall pseudohernia (flank bulge); pseudarthrosis.
