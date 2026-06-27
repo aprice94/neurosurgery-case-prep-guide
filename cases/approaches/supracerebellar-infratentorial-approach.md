@@ -135,6 +135,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Hydrocephalus management:** an EVD or endoscopic third ventriculostomy (ETV) may be required before definitive surgery; ETV can be performed at the same sitting through a separate approach or as a staged procedure
 - **Stealth/neuronavigation** — register with volumetric MRI; particularly useful for planning the craniotomy extent and confirming trajectory to the lesion
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
+- **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
+- **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
+- **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
+
 ## Anesthesia & Neuromonitoring
 
 - GA with total intravenous anesthesia; **no long-acting paralytic** if motor monitoring is planned

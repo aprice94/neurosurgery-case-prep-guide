@@ -176,6 +176,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** step-down or ICU if frail, bilateral, anticoagulated, low GCS, significant shift, or drain/airway concern.
+- **OR setup:** burr-hole/craniotomy tray, subdural drain system, irrigation warmed and ready, reversal products confirmed, and MMA embolization discussion if recurrent/high-risk.
+- **Special needs:** anticoagulant/antiplatelet reversal and restart plan, seizure prophylaxis by risk/practice, BP ceiling, drain level/order clarity, and delirium/fall precautions.
+- **Immediate postop orders:** neuro checks, HOB/positioning per drain strategy, drain output/height orders, CT timing, DVT prophylaxis timing, anticoagulation restart plan, mobilization, and recurrence follow-up.
+
 ### Diagnosis & Indication
 - Working diagnosis: Chronic subdural hematoma
 - Surgical indication: Symptomatic / thickness > 10 mm / midline shift > 5 mm / neurological decline

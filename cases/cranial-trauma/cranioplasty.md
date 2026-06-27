@@ -213,6 +213,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** floor or step-down; ICU if large defect, tenuous flap, infection history, seizure risk, or major medical comorbidity.
+- **OR setup:** custom implant/autologous flap verified before induction, fixation set, scalp-flap instruments, drain, antibiotics, and blood available for large revision exposures.
+- **Special needs:** infection clearance documented, shunt/CSF-pressure plan if present, skin-flap perfusion plan, antiepileptic decision, and anticoagulation/DVT timing.
+- **Immediate postop orders:** neuro checks, wound/flap checks, drain care, CT for implant/hemorrhage when indicated, helmet discontinued only after surgeon clearance, antibiotics per protocol, and avoid pressure on flap.
+
 ### Diagnosis & Indication
 - Working diagnosis: [Location] cranial defect s/p [decompressive craniectomy / craniectomy]
 - Surgical indication: Brain protection, cosmesis, syndrome of the trephined, return to employment/activity

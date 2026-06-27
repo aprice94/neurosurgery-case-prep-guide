@@ -137,6 +137,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** floor, step-down, or ICU based on sepsis, neurologic deficit, instability, and need for MAP/pressor support.
+- **OR setup:** fluoroscopy/navigation, decompression and instrumentation trays, culture swabs/containers for aerobic/anaerobic/fungal/AFB studies, drain, and blood availability for multilevel debridement or corpectomy.
+- **Special needs:** antibiotic timing coordinated with cultures unless unstable, ID consult plan, arterial line if septic or major deformity/corpectomy, MAP support for cord compromise, and hardware strategy in contaminated fields.
+- **Immediate postop orders:** neuro checks, organism-directed antibiotics, drain/wound care, ESR/CRP and culture follow-up, CT/X-rays when hardware placed, brace/activity, DVT timing, and nutrition/glycemic optimization.
+
 ### Diagnosis & Indication
 - **Most pyogenic osteomyelitis/discitis is treated medically** (CT-guided biopsy for organism + 6+ weeks IV antibiotics + bracing)
 - **Surgical indications:** neurological deficit/cord compression (epidural abscess), **instability/deformity/progressive collapse**, failure of medical therapy, need for open biopsy (non-diagnostic aspirate), intractable pain from instability, significant bony destruction

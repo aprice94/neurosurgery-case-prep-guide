@@ -149,6 +149,12 @@ Choose the exposure that gives safe ventral decompression and reconstruction, no
 - Identify calcified transdural disc signs on CT/MRI; these cases need a CSF-leak and dural-repair plan before decompression.
 - Decide preoperatively whether posterior supplemental fixation is needed for instability, multicolumn disease, deformity, infection, or poor bone quality.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
+- **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
+- **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
+
 ## Anesthesia & Neuromonitoring
 - GA with a **double-lumen tube / bronchial blocker (lung isolation)**; arterial line, central access, **crossmatched blood/cell saver**; **SSEP/MEP** with **MAP support** for the cord; **no paralytic** with MEPs. A **thoracic/access surgeon** commonly assists; **chest tube** at closure.
 

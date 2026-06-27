@@ -136,6 +136,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** ICU or step-down overnight after laser ablation, especially for deep lesions, edema risk, or seizure history.
+- **OR setup:** stereotaxy/robot or frame, MRI-compatible laser system, thermal-damage monitoring workflow, biopsy supplies if planned, and MRI/anesthesia coordination before incision.
+- **Special needs:** steroid plan for edema, antiepileptic plan for cortical/epilepsy lesions, temperature/thermal safety checks, and readiness for aborting if trajectory or heating is unsafe.
+- **Immediate postop orders:** neuro checks, MRI/CT review for hemorrhage/edema, dexamethasone taper, seizure precautions when relevant, pain/nausea control, and follow-up MRI schedule for ablation evolution.
+
 ### Workflow / Platform
 - Stereotactic placement of a **cooled laser fiber catheter** along the planned trajectory, then **MRI-guided thermal ablation with real-time MR thermometry**
 - Platforms: **Visualase (Medtronic), NeuroBlate (Monteris)**

@@ -26,6 +26,8 @@ SNAPSHOT_LABELS = (
     "Figures",
     "Papers",
 )
+CASE_LOGISTICS_HEADER = "### Case Logistics, OR Needs & Orders"
+APPROACH_LOGISTICS_HEADER = "## Logistics, OR Setup & Orders"
 
 class LinkParser(HTMLParser):
     def __init__(self) -> None:
@@ -172,6 +174,23 @@ def validate_guide_enrichment() -> None:
 
     print(f"Guide enrichment: {len(guide_sources())} guides, {len(curated_refs)} unique curated images")
 
+def validate_logistics_sections() -> None:
+    missing_case = []
+    missing_approach = []
+    for src in guide_sources():
+        text = read_text(src)
+        rel = str(src.relative_to(ROOT))
+        if "## Surgical Planning" in text and CASE_LOGISTICS_HEADER not in text:
+            missing_case.append(rel)
+        is_approach = rel.startswith("cases/approaches/") and src.name != "approach-selection.md"
+        if is_approach and APPROACH_LOGISTICS_HEADER not in text:
+            missing_approach.append(rel)
+    if missing_case:
+        fail(f"guides with Surgical Planning missing logistics/orders section, e.g. {missing_case[:8]}")
+    if missing_approach:
+        fail(f"approach chapters missing logistics/orders section, e.g. {missing_approach[:8]}")
+    print("Logistics/orders sections: ok")
+
 def resolve_local(html_file: Path, url: str) -> Path | None:
     if not url or url.startswith(("#", "mailto:", "tel:", "javascript:")):
         return None
@@ -255,6 +274,7 @@ if __name__ == "__main__":
     if not SITE.exists():
         fail("_site does not exist; run `bundle exec jekyll build` first")
     validate_guide_enrichment()
+    validate_logistics_sections()
     validate_rendered_pages()
     validate_links()
     validate_images()

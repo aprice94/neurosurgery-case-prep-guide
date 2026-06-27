@@ -129,6 +129,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** step-down or ICU depending on indication; lumbar drains need nursing comfort with ordered drainage limits and overdrainage symptoms.
+- **OR setup:** sterile lumbar-drain kit, fluoroscopy if difficult anatomy, collection system, and clear labeling of catheter depth/entry level.
+- **Special needs:** anticoagulation/coagulopathy plan, antibiotics per protocol, strict drainage maximum per hour, headache/overdrainage monitoring, and clamp parameters for ambulation or neurologic change.
+- **Immediate postop orders:** drain height/rate/maximum output, neuro checks, bedrest/ambulation rules, headache/nausea management, daily need review, CSF sampling only if indicated, and removal timing.
+
 ### Contraindications
 - Obstructive hydrocephalus / posterior fossa mass / large supratentorial mass with shift (**herniation risk**)
 - Coagulopathy, infection at site, blocked spinal CSF spaces

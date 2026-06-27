@@ -159,6 +159,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** floor or step-down for routine shunt/ETV; ICU for infants, altered mental status, high-pressure hydrocephalus, EVD conversion, infection, or significant comorbidity.
+- **OR setup:** navigation or endoscope as indicated, shunt hardware/valve setting verified, distal-access tools or general surgery help when needed, antibiotic-impregnated catheter availability, and postop imaging plan.
+- **Special needs:** antibiotic timing, programmable valve documentation, abdominal/chest/vascular distal-site plan, CSF culture plan for revision/infection, anticoagulation plan, and EVD backup if access fails.
+- **Immediate postop orders:** neuro checks, CT or shunt-series timing, valve setting documentation and MRI precautions, wound/abdominal/distal-site checks, infection watch, DVT timing, and follow-up for setting adjustment.
+
 ### Valve Selection
 - **Fixed-pressure valve:** Low, medium, or high pressure (set at manufacture)
 - **Programmable valve (preferred):** Adjustable pressure setting post-op (e.g., Strata, Certas, proGAV, Codman Hakim)

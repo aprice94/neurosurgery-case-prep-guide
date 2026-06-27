@@ -146,6 +146,12 @@ The practical rule: choose the smallest corridor that still allows safe decompre
 - For deformity, define the upper/lower instrumented vertebrae, neutral/stable vertebrae, and planned osteotomy levels before positioning.
 - For tumor/infection, confirm the pathologic level against MRI, CT, and intraoperative localization; wrong-level exposure is easy when multiple compression fractures exist.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
+- **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
+- **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
+
 ## Anesthesia & Neuromonitoring
 - GA, prone; **SSEP/MEP and free-run/triggered EMG** (pedicle screw stimulation), especially for thoracic/deformity; no long-acting paralytic with MEPs; antifibrinolytics for deformity; blood available.
 

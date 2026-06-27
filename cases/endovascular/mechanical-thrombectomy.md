@@ -135,6 +135,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** neuro ICU after thrombectomy, with stroke-neurology handoff and reperfusion/BP orders entered before leaving angio.
+- **OR setup:** biplane angio suite, thrombectomy catheters/stent retrievers/aspiration, radial/femoral access supplies, anesthesia airway plan, CT/CTA/perfusion images loaded, and bailout stents/balloons available.
+- **Special needs:** BP target tied to reperfusion status, anticoagulation/antiplatelet decision, groin/radial closure plan, tPA/tenecteplase history, contrast/renal/allergy plan, and ICU-ready post-recanalization hemorrhage pathway.
+- **Immediate postop orders:** NIHSS/neuro checks, puncture-site and distal-pulse checks, BP ceiling per TICI/hemorrhage risk, 24h CT/MRI before antithrombotics when lytic used, swallow screen, statin/secondary prevention, and stroke workup.
+
 ### Indication / Time
 - **Emergent** — "time is brain"; eligible LVO (ICA/M1, selected M2/basilar) within window with salvageable tissue
 - Goal: **reperfusion (TICI 2b-3)** as fast as possible

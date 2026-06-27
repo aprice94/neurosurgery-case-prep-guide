@@ -132,6 +132,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** step-down or ICU overnight for BP/airway/cranial-nerve monitoring; PACU-to-floor only for very low-risk institutional pathways.
+- **OR setup:** vascular tray, microscope/loupes per surgeon, patch/shunt options, EEG/SSEP/stump-pressure or cerebral oximetry plan, heparin/protamine plan, and duplex/CTA reviewed for level and plaque morphology.
+- **Special needs:** strict perioperative BP targets, aspirin/statin continuation, antiplatelet/anticoagulant plan, airway hematoma response plan, and cranial nerve baseline documented.
+- **Immediate postop orders:** neuro checks, neck hematoma/airway watch, BP floor/ceiling, swallow/voice assessment, antiplatelet/statin orders, drain if used, and duplex/clinic follow-up.
+
 ### CEA vs CAS
 - **CEA** preferred for most (durable); **carotid stenting (CAS)** for high surgical risk, hostile neck (radiation/re-do), high bifurcation (see [carotid-stenting](carotid-stenting.md))
 

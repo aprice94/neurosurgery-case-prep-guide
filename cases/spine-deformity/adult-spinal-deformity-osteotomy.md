@@ -142,6 +142,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** ICU or step-down after osteotomy/long fusion; floor or PACU pathway for kyphoplasty/vertebroplasty when medically stable.
+- **OR setup:** Jackson table, neuromonitoring, navigation/O-arm/fluoro, deformity implant trays, osteotomy tools, cell saver, blood products, warming, and positioning plan for long prone time.
+- **Special needs:** arterial line, Foley, type/cross, tranexamic acid/blood-loss plan per protocol, MAP targets for cord perfusion, no long paralytic with MEPs, and postoperative brace/rehab plan.
+- **Immediate postop orders:** ICU/step-down neuro checks, hemoglobin/coags, drain output, CT/X-rays alignment/hardware, MAP goal if high-risk correction, brace/activity, DVT prophylaxis timing, bowel regimen, and PT/OT.
+
 ### Osteotomy Selection
 - **Smith-Petersen osteotomy (SPO / Ponte):** posterior column osteotomy through facets, ~10° correction per level over a mobile disc; for gradual multilevel correction
 - **Pedicle subtraction osteotomy (PSO):** 3-column wedge through pedicles + body, ~30° correction at one level; for **fixed sagittal imbalance/flatback**; high blood loss/risk

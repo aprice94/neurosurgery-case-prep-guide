@@ -128,6 +128,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** step-down or ICU overnight for lead/electrode hemorrhage checks; some centers use short-stay pathways for uncomplicated DBS/SEEG.
+- **OR setup:** stereotaxy/robot/navigation, O-arm or intraop CT as used, implant/electrode inventory verified, programmer/recording equipment, and MRI/CT merge reviewed with target coordinates.
+- **Special needs:** anticoagulation/antiplatelet hold plan, disease medications on/off plan, microelectrode recording or stimulation-testing plan, seizure precautions for SEEG, and device vendor/programmer availability.
+- **Immediate postop orders:** neuro checks, CT to exclude hemorrhage and confirm lead/electrode position, antibiotics per implant protocol, seizure monitoring for SEEG, medication/device programming plan, and hardware/wound precautions.
+
 ### Technique
 - **Robot-assisted (ROSA, Mazor) or frame-based/frameless stereotaxy** — accurate placement of multiple depth electrodes
 - Each electrode placed via small twist-drill hole and anchored bolt

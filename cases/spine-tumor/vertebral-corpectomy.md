@@ -137,6 +137,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** ICU/step-down for intramedullary, deformity, corpectomy, or high-EBL tumor cases; floor for small stable intradural extramedullary cases with intact exam.
+- **OR setup:** microscope, fluoroscopy/navigation, neuromonitoring, tumor debulking/microsurgical set, dural repair materials, instrumentation/corpectomy trays as indicated, and blood available.
+- **Special needs:** arterial line/Foley for long cases, dexamethasone for cord edema when indicated, MAP support for myelopathy/cord manipulation, oncology/radiation plan, and pathology/frozen specimen workflow.
+- **Immediate postop orders:** frequent motor/sensory exams, MAP support if cord manipulation or deficit, MRI/CT/X-rays per tumor/construct, steroid taper, drain/dural-leak precautions, brace/activity, DVT timing, and oncology/radiation follow-up.
+
 ### Goals & Approach
 - Goals: Circumferential cord decompression, mechanical stabilization, local tumor control, pain/function — **separation surgery** (decompress + stabilize, leave margin) increasingly favored + postop SRS for mets; **en bloc spondylectomy** for primary/isolated curable tumors
 - **Approach:** posterolateral transpedicular (single-stage, common for thoracic mets), anterior (corpectomy with direct access), or combined/360-degree

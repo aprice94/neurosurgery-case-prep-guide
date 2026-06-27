@@ -149,6 +149,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** neuro ICU, often with strict BP control for 24-48h after resection or embolization-assisted surgery.
+- **OR setup:** microscope, neuronavigation, ICG/Doppler, temporary clips/vascular instruments, blood available, embolization images loaded, and hybrid/DSA access if intraoperative angiography is planned.
+- **Special needs:** arterial line, Foley, seizure prophylaxis for cortical lesions, BP floor/ceiling agreed with anesthesia, staged embolization plan, and readiness for swelling/normal-perfusion-pressure breakthrough.
+- **Immediate postop orders:** ICU neuro checks, strict SBP target, CT/CTA or formal angiography per surgeon, seizure prophylaxis, dexamethasone if edema risk, DVT timing, and low threshold for imaging with headache/deficit.
+
 ### Diagnosis & Indication
 - Working diagnosis: [Location] AVM, SM grade [__]
 - Indication: Ruptured AVM, low-grade (SM I-II) AVMs, refractory seizures; SM III individualized; SM IV-V usually NOT resected (high risk) unless ruptured/progressive

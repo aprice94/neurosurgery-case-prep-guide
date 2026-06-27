@@ -139,6 +139,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** PICU after open vault remodeling; monitored floor or short-stay only for selected endoscopic strip cases by pathway.
+- **OR setup:** pediatric anesthesia, blood conservation/cell saver per protocol, craniofacial/plastics trays, positioning pads, temperature management, tranexamic acid/blood products, and helmet pathway for endoscopic cases.
+- **Special needs:** weight-based antibiotics/fluids/transfusion thresholds, arterial line for open vault cases, eye protection, hypothermia prevention, and family counseling about swelling and helmet therapy.
+- **Immediate postop orders:** PICU neuro and airway checks, CBC/coags, drain care if used, pain/nausea regimen, head elevation, transfusion parameters, wound checks, and helmet/craniofacial follow-up.
+
 ### Procedure Selection
 - **Endoscopic strip craniectomy:** age **< 3-6 months** (younger = better — relies on rapid brain growth + postoperative **molding helmet**); minimal blood loss, short stay; for single-suture (esp. sagittal)
 - **Open cranial vault remodeling (CVR) / fronto-orbital advancement (FOA):** older infants (typically 6-12 months), syndromic, multisuture, significant deformity; FOA for coronal/metopic (forehead/orbit); more blood loss, longer surgery

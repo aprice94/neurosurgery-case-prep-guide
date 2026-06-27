@@ -136,6 +136,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** neuro ICU or step-down after epilepsy/awake mapping craniotomy, with exam-specific monitoring and seizure pathway ready.
+- **OR setup:** mapping cart, neuropsych/language team, ECoG/stimulation equipment, navigation/DTI, microscope, airway plan for asleep-awake-asleep when used, and bailout conversion-to-GA plan.
+- **Special needs:** antiepileptic continuation/loading plan, steroid plan if edema risk, nausea/pain regimen that preserves exam, seizure rescue medications, and clear baseline language/motor/visual-field documentation.
+- **Immediate postop orders:** frequent neuro checks focused on mapped functions, seizure precautions, AED orders, CT/MRI timing, steroid taper if used, visual-field/language assessment, and rehab/neuropsych follow-up.
+
 ### Diagnosis & Indication
 - Indication: Drug-resistant mesial temporal lobe epilepsy with concordant EEG/MRI/semiology
 - Procedure choice: **Anterior temporal lobectomy (ATL)** with amygdalohippocampectomy, OR **selective amygdalohippocampectomy (SAH)** (spares lateral temporal neocortex — may better preserve naming/memory but similar seizure outcomes debated)

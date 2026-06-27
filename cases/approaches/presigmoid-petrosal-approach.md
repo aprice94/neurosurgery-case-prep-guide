@@ -153,6 +153,12 @@ The right answer is often not "maximum petrosectomy." Escalate only when the les
 - Facial nerve weakness, prior mastoid surgery, radiation, or cholesteatoma/infection changes drilling risk and may require neurotology leadership.
 - A soft tumor with safe retrosigmoid debulking may not need the morbidity of a full petrosal route.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
+- **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
+- **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
+- **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
+
 ## Anesthesia & Neuromonitoring
 - GA/TIVA; **continuous facial EMG, BAER (if hearing preservation), SSEP/MEP, lower-CN and CN III–VI EMG.** Lumbar drain often placed. Neurotologist/skull-base team commonly co-operate. **VAE precautions** if semi-sitting.
 

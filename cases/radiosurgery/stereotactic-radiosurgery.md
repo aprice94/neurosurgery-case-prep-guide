@@ -137,6 +137,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning (Procedure Workflow)
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** outpatient; inpatient observation only for frailty, symptomatic edema, frame-related complications, or high-risk lesion location.
+- **OR setup:** frame or mask workflow, stereotactic MRI/CT fusion, physics plan verification, radiosurgery timeout for target/dose/isocenters, and emergency access plan for frame discomfort or airway issues.
+- **Special needs:** steroid plan for edema-prone lesions, antiepileptic plan for cortical lesions/seizure history, anticoagulation safety review, and pregnancy/device/MRI screening.
+- **Immediate postop orders:** frame-pin care if used, headache/nausea regimen, steroid taper if prescribed, seizure precautions when relevant, discharge instructions, and interval MRI/clinic follow-up.
+
 ### Platform & Immobilization
 - **Gamma Knife:** rigid **stereotactic frame** (pin-fixed) or frameless mask; cobalt-60 sources, ~201 beams converge on isocenter — highest precision for small intracranial targets
 - **LINAC-based (BrainLab, Varian) / CyberKnife:** frameless **thermoplastic mask** + image guidance; CyberKnife robotic, allows hypofractionation

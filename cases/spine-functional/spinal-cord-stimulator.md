@@ -134,6 +134,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** outpatient or floor for pump/stimulator placement; step-down if frail, baclofen-withdrawal risk, intrathecal catheter concern, or respiratory comorbidity.
+- **OR setup:** fluoroscopy, implant/pump/stimulator inventory verified, programmer/vendor available, sterile tunneling tools, trial leads/catheters as applicable, and pocket-site laterality confirmed.
+- **Special needs:** antibiotic/implant protocol, anticoagulation plan for neuraxial access, baclofen-withdrawal/overdose rescue plan for pumps, device programming orders, and infection-prevention bundle.
+- **Immediate postop orders:** wound/pocket checks, neuro checks for neuraxial hematoma, device programming/initial dose orders, activity restrictions, antibiotics per protocol, pain control, and follow-up for interrogation/refill/programming.
+
 ### Two-Stage Process
 1. **Trial:** percutaneous epidural lead(s), externalized, trial stimulation for ~5-7 days; proceed to permanent only if ≥50% relief
 2. **Permanent implant:** percutaneous leads or **surgical paddle lead** (laminotomy — better for scarred epidural space, more stable, broader coverage) + **IPG (pulse generator)** in a subcutaneous pocket

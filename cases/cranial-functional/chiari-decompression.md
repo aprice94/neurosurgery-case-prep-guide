@@ -184,6 +184,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** step-down or ICU for posterior fossa decompression/MVD, especially with sleep apnea, lower-CN risk, hydrocephalus, or difficult nausea/pain control.
+- **OR setup:** Mayfield, microscope, cranial nerve monitoring/BAER for MVD, Teflon/felt and microinstruments, dural graft/sealant for Chiari, and watertight closure materials.
+- **Special needs:** arterial line optional by comorbidity/position, antiemetic plan, steroid plan by edema/aseptic meningitis risk, airway/OSA precautions, and CSF-leak/pseudomeningocele strategy.
+- **Immediate postop orders:** posterior fossa neuro checks, facial/hearing/swallow exam as relevant, nausea/pain control, HOB 30, CT/MRI if concern or protocol, wound/CSF leak watch, and activity restrictions.
+
 ### Diagnosis & Indication
 - Working diagnosis: Symptomatic Chiari I malformation [with/without syrinx]
 - Surgical indication: Symptomatic Chiari with imaging evidence of crowding at foramen magnum and/or reduced CSF flow on cine MRI; progressive syrinx

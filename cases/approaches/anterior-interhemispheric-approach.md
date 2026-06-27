@@ -64,6 +64,12 @@ The anterior interhemispheric approach exploits the **natural midline corridor b
 - **Endoscopy:** have a rigid 0-degree and 30-degree endoscope available -- even in open microsurgical cases, endoscope-assisted visualization around the foramen of Monro and into the third ventricle is invaluable for confirming complete resection and checking aqueductal patency.
 - **Patient counseling:** discuss the risks of **memory deficit** (fornix), **behavioral changes** (medial frontal retraction), and **seizures**. For colloid cysts, emphasize that despite the benign histology, the approach carries meaningful neurological risk -- this informs the decision between microsurgical, endoscopic, and observation strategies.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
+- **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
+- **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
+- **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
+
 ## 4. Operative Anatomy (what you must own)
 - **Superior sagittal sinus (SSS):** runs in the superior attached margin of the falx; wider posteriorly. The craniotomy must **straddle** or **abut** the midline to allow dural opening to the sinus edge, but the sinus itself must not be entered.
 - **Bridging (parasagittal) veins:** drain the cortical surface into the SSS; concentrated at ~2--4 cm and ~8--10 cm from the frontal pole. A relatively vein-free zone typically exists between **4--8 cm posterior to the frontal pole** (roughly the coronal suture region) -- the ideal craniotomy window. **Sacrifice of a major bridging vein risks venous infarction** -- the approach must be planned around these veins, not through them. Preoperative venography is non-negotiable.

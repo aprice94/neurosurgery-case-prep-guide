@@ -136,6 +136,12 @@ tags:
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** [Outpatient / PACU then floor / step-down / ICU] based on airway, neurologic risk, EBL, monitoring needs, and comorbidities.
+- **OR setup:** confirm table/bed, positioning devices, imaging/navigation, microscope/endoscope/fluoroscopy, implant trays, blood availability, and specialty co-surgeons before patient enters the room.
+- **Special needs:** arterial line, Foley, neuromonitoring, MAP/BP target, dexamethasone/steroid plan, antiepileptic plan, antibiotics, anticoagulation reversal/restart, and disease-specific monitoring (DI, drains, airway, swallow, ICP).
+- **Immediate postop orders:** disposition, neuro-check frequency, HOB/activity/brace, diet/swallow status, imaging timing, drain/EVD/shunt settings, DVT prophylaxis timing, pain/nausea regimen, labs, antibiotics, steroid taper, and consults/follow-up.
+
 ### Diagnosis & Indication
 - Working diagnosis:
 - Surgical indication:

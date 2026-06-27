@@ -139,6 +139,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** floor or step-down; ICU for infants, Chiari/brainstem symptoms, significant myelopathy, respiratory risk, or complex revision.
+- **OR setup:** microscope, neuromonitoring, prone positioning pads, ultrasound/navigation if needed, dural repair materials, and CSF-leak management supplies.
+- **Special needs:** Foley for detethering/bladder baseline, urology plan when neurogenic bladder is relevant, MAP/normothermia for cord perfusion, no long paralytic with MEPs, and meticulous skin-pressure protection.
+- **Immediate postop orders:** motor/sensory/bladder checks, flat or activity restrictions per dural closure, wound/CSF-leak watch, pain/spasm regimen, MRI follow-up when indicated, and PT/urology follow-up.
+
 ### Diagnosis & Indication
 - Indication: Symptomatic tethered cord (progressive neuro/urologic decline, pain), or prophylactic in selected lipomas/asymptomatic (controversial — individualized)
 - Goals: **Release the tethering element**, preserve neural function; for complex lipomas, debulk and reconstruct to reduce retethering

@@ -144,6 +144,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** neuro ICU or step-down for first night after craniotomy; floor pathway only for small low-risk lesions with stable exam and minimal edema.
+- **OR setup:** Mayfield, navigation with latest MRI/DTI/functional data, microscope/exoscope, ultrasound/5-ALA/fluorescence when used, CUSA, cortical/subcortical mapping tools for eloquent lesions, and specimens/pathology workflow ready.
+- **Special needs:** arterial line for large/eloquent/vascular tumors, dexamethasone plan, seizure prophylaxis for cortical lesions or seizure history, mannitol/hypertonic availability, language/motor mapping plan, and blood available for meningioma/skull-base cases.
+- **Immediate postop orders:** neuro checks with deficit-specific exam, MRI brain with contrast within 24-48h when resection assessment matters, CT for hemorrhage concern, dex taper, antiepileptic duration, DVT timing, pathology/molecular follow-up, and rehab consults as needed.
+
 ### Diagnosis & Indication
 - Indication: Symptomatic, growing, or large; goal is maximal safe resection
 - **Sinus strategy:** If SSS patent and invaded — leave residual on sinus (Simpson II-III) + observe/radiosurgery, OR resect/reconstruct sinus (higher risk). If sinus occluded — may resect involved segment (collaterals carry flow). NEVER occlude a patent posterior two-thirds SSS (venous infarction)

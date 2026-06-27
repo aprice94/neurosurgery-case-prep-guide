@@ -152,6 +152,12 @@ Do not let the skin crease dictate the whole operation. The incision should serv
 - **Long multilevel construct:** higher dysphagia, pseudarthrosis, graft/plate complications, and airway swelling; plan postoperative airway observation.
 - **Vascular variant:** medialized carotid, aberrant vertebral artery, high-riding innominate, and left thoracic duct risk in low exposure should change the exposure plan.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
+- **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
+- **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
+
 ## Anesthesia & Neuromonitoring
 - GA; **SSEP/MEP (and EMG)** for myelopathy/deformity; avoid long-acting paralytic if MEPs. Consider **monitoring ETT cuff pressure** (release after retractor placement) to reduce RLN palsy. Arterial line for myelopathic cords (MAP support).
 

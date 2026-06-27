@@ -135,6 +135,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Vein of Labbé / venous anatomy** (MRV) — dominant drainage influences retraction strategy and side.
 - Audiometry/facial baseline if petrous drilling is planned. Dominant-hemisphere considerations for retraction.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
+- **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
+- **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
+- **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
+
 ## Anesthesia & Neuromonitoring
 - GA/TIVA; **lumbar drain** is commonly placed to relax the temporal lobe (drain after dura is opened to avoid herniation). SSEP/MEP, **BAER** and **facial EMG** for petrous work, CN III/IV/VI EMG as indicated; EEG/burst-suppression for temporary clipping. Normotension.
 

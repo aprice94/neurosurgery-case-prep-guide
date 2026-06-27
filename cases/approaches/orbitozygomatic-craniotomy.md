@@ -135,6 +135,12 @@ The OZ **builds on the pterional** — review [pterional-craniotomy.md](pteriona
 - Ophthalmology baseline (vision, fields, motility) for orbital/parasellar lesions.
 - Counsel re: transient **periorbital edema, ecchymosis, trismus, and temporal hollowing**; rare **enophthalmos/pulsatile exophthalmos** if periorbita/roof reconstruction is inadequate.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
+- **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
+- **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
+- **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
+
 ## Anesthesia & Neuromonitoring
 - GA, TIVA when MEPs used; lumbar drain for large basal lesions to aid relaxation (see pterional chapter). SSEP/MEP; EEG/burst-suppression capability for temporary clipping; cranial-nerve EMG (III/IV/VI, facial) per target. Normotension (AVM is the BP exception).
 

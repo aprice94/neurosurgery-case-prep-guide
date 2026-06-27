@@ -66,6 +66,12 @@ The endoscopic endonasal approach uses **the nostril as a natural corridor** to 
 - **Neuronavigation:** frameless stereotactic registration (MRI ± CT fusion) — essential for all cases; confirms midline, sellar floor, and carotid positions intraoperatively. Register to surface anatomy (nasion, tragus, orbital rim) and verify on a known landmark before draping.
 - **Antibiotics:** perioperative cefazolin (or vancomycin if penicillin-allergic); some centers add gram-negative coverage for extended approaches given the contaminated nasal corridor.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU or step-down for extended skull base/sellar cases; floor may be appropriate for small uncomplicated pituitary cases per institutional pathway.
+- **OR setup:** endonasal tower, 0/30-degree endoscopes, navigation, Doppler, ENT/neurosurgery two-surgeon workflow, lumbar drain only when indicated, and ready multilayer reconstruction materials.
+- **Special needs:** endocrine plan before incision, arterial line for large/vascular lesions, stress-dose versus steroid-sparing plan, DI/sodium protocol, CSF-leak precautions, and perioperative antibiotics while nasal packing/drains are managed per protocol.
+- **Immediate postop orders:** neuro/visual checks, strict I/O and urine specific gravity or sodium schedule when sellar/hypothalamic risk exists, AM cortisol/endocrine labs, nasal precautions, postop MRI/CT timing, and lumbar-drain parameters if placed.
+
 ## 4. Positioning
 - **Supine**, head neutral or slightly extended (10–15°); **Mayfield 3-pin fixation** for neuronavigation registration and to prevent intraoperative drift (some centers use a horseshoe for simple sellar cases).
 - **Head elevated ~15–20°** above the heart (reverse Trendelenburg) to reduce venous congestion and improve sinus drainage.

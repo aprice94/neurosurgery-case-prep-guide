@@ -153,6 +153,12 @@ The telovelar approach is not simply "posterior fossa exposure." It is a deliber
 - Plan IONM electrodes for the actual risk: facial EMG, lower cranial nerves, MEP/SSEP, BAER, and direct floor mapping when floor work is expected.
 - Discuss with ICU/anesthesia whether postoperative extubation is safe if lower cranial nerve dysfunction, brainstem edema, or long case swelling is likely.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
+- **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
+- **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
+- **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
+
 ## Anesthesia & Neuromonitoring
 - GA/TIVA; **fourth-ventricular floor mapping**, **lower-CN EMG (IX/X, XII), facial EMG**, SSEP/MEP, BAER. Arrhythmia/hemodynamic vigilance during floor manipulation. **VAE precautions** if a sitting position is used.
 

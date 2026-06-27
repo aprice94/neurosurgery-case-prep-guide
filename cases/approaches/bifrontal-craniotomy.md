@@ -147,6 +147,12 @@ The bifrontal approach is a reconstruction-heavy corridor. If a robust pericrani
 - Decide whether lumbar drainage is needed and when it is safe; avoid early overdrainage before dural opening if there is major mass effect.
 - Coordinate ENT/plastics when sinonasal resection, orbital wall work, free flap, or complex revision reconstruction is expected.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
+- **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
+- **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
+- **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
+
 ## Anesthesia & Neuromonitoring
 - GA; **lumbar drain** to aid frontal-lobe relaxation (drain after dura is open); navigation; vision-relevant monitoring as indicated. Normotension.
 

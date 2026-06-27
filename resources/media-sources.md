@@ -41,6 +41,7 @@ Curated, reputable sources for **already-made** figures, diagrams, operative ill
 ## By category — where to look first
 
 - **CNS Video Library embeds already used here:** see [CNS Video Library Embeds](cns-video-library.md) for the local placement map.
+- **Perioperative logistics:** see [Perioperative Logistics & Orders](perioperative-logistics-orders.md) for the bed, room setup, monitoring, and immediate order framework now used across the guide set.
 - **Cranial vascular / aneurysm / AVM:** Neurosurgical Atlas (approach + clipping), neuroangio.org (vascular anatomy/angioarchitecture), Radiopaedia (CTA/DSA).
 - **Cranial tumor / skull base:** Neurosurgical Atlas (approach figures + video), Radiopaedia (MRI), PMC OA reviews (approach anatomy), Rhoton anatomy (via AANS/Atlas, link).
 - **Endovascular:** neuroangio.org, Radiopaedia, Journal/Operative Neurosurgery video.

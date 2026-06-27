@@ -137,6 +137,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** PACU to step-down/ICU observation for stereotactic biopsy; floor or same-day pathway only for low-risk superficial/open cases per institutional protocol.
+- **OR setup:** frame/robot/navigation system registered and independently checked, biopsy needle and specimen cups/media ready, frozen/smear pathology available, trajectory images displayed, and immediate CT access planned.
+- **Special needs:** coagulopathy/antiplatelet correction, steroids held when lymphoma is suspected and clinically safe, seizure prophylaxis by lesion/location, BP control, and specimen handling for flow cytometry, cultures, and molecular testing.
+- **Immediate postop orders:** neuro checks, CT head to exclude hemorrhage, BP parameters, dexamethasone only if clinically indicated, antiepileptic plan, pathology follow-up, and escalation plan for tract hemorrhage or nondiagnostic result.
+
 ### Position
 - Per target; head fixed in **Mayfield** (rigid fixation important for navigation accuracy); register and **confirm navigation accuracy** (< 2 mm) before proceeding
 

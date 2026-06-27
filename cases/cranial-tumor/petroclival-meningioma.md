@@ -140,6 +140,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** ICU or step-down for sellar/parasellar/skull-base tumors; floor pathway only for small uncomplicated pituitary cases by protocol.
+- **OR setup:** navigation, endoscope/microscope as approach requires, ENT co-surgeon for endonasal cases, Doppler, lumbar drain only when indicated, reconstruction materials, and visual/endocrine baseline available.
+- **Special needs:** steroid strategy individualized (Cushing workup may require avoiding preop steroids), DI/sodium protocol, AM cortisol/endocrine labs, visual-check plan, arterial line for large/vascular cases, and CSF-leak/nasal precautions.
+- **Immediate postop orders:** neuro and visual checks, strict I/O with sodium/urine specific gravity schedule when pituitary stalk risk exists, cortisol/endocrine replacement plan, nasal precautions, MRI/CT timing, steroid taper, and DVT prophylaxis timing.
+
 ### Approach Selection (complex, often staged/combined)
 - **Retrosigmoid:** Workhorse; good for tumors with significant posterior fossa/CPA component; familiar, lower morbidity
 - **Anterior petrosectomy (Kawase):** Upper clivus/petrous apex tumors; drills Kawase triangle for petroclival access, preserves hearing

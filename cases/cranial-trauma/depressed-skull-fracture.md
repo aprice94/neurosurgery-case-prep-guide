@@ -214,6 +214,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** neuro ICU after operative TBI/acute hemorrhage, with ventilator/ICP pathway ready if severe injury or swelling is expected.
+- **OR setup:** trauma craniotomy/craniectomy tray, rapid blood availability, suction/bipolar/hemostatics, dural substitute, bone-flap storage or plating plan, ICP monitor/EVD supplies, and postop CT pathway cleared.
+- **Special needs:** reversal of anticoagulants, seizure prophylaxis, hyperosmolar therapy plan, arterial line, Foley, temperature/glucose/coagulation targets, antibiotic/tetanus plan for open injuries, and family/ICU handoff.
+- **Immediate postop orders:** ICU neuro checks, BP/CPP/ICP goals when monitored, CT head timing, drain/EVD settings, seizure prophylaxis duration, antibiotics for open/contaminated injuries, DVT prophylaxis timing, and repeat labs/coags.
+
 ### Diagnosis & Indication
 - Working diagnosis: [Open (compound) / Closed] depressed skull fracture of the [location]
 - Surgical indication: Open depressed fracture (urgent — debride, prevent infection), depression > thickness of skull, underlying mass lesion, dural laceration/CSF leak, gross cosmetic deformity, neurological deficit, frontal sinus involvement

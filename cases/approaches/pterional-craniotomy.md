@@ -51,6 +51,12 @@ The pterional (frontotemporal) craniotomy is the **workhorse** of supratentorial
 - **Neuronavigation** (CTA/MR); **IONM** (SSEP/MEP); **EEG** for burst suppression if temporary clipping anticipated.
 - **BP:** normotensive throughout, *except AVM* (SBP kept ~20–30% below baseline).
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU or step-down depending on lesion risk, approach corridor, EBL, vascular manipulation, and baseline neurologic status.
+- **OR setup:** Mayfield/head holder plan, microscope/endoscope, navigation, vascular instruments/ICG when applicable, skull base reconstruction supplies, and approach-specific retractors/drills ready before opening.
+- **Special needs:** arterial line for major intracranial or vascular cases, Foley for long cases, neuromonitoring by corridor, dexamethasone/antiepileptic/BP plan by pathology, and blood products for vascular or skull base exposure.
+- **Immediate postop orders:** disposition and neuro-check frequency, HOB/activity, postop CT/MRI/CTA timing, BP goals, steroid/antiepileptic plan, DVT prophylaxis timing, drain management, and focused cranial nerve/visual/language/motor exams.
+
 ## 4. Operative Anatomy (what you must own)
 - **Scalp — 5 layers (SCALP):** Skin · subCutaneous (vessels/nerves) · Aponeurosis (galea) · Loose areolar · Pericranium. The galea continues over the temporal region as the **temporoparietal fascia (TPF)**.
 - **Temporal fascia:** below the TPF and loose areolar plane lies the **temporalis (deep temporal) fascia**, which near the arch **splits into superficial and deep laminae enclosing the superficial temporal fat pad.**

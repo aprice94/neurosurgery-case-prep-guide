@@ -136,6 +136,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** ICU or step-down after osteotomy/long fusion; floor or PACU pathway for kyphoplasty/vertebroplasty when medically stable.
+- **OR setup:** Jackson table, neuromonitoring, navigation/O-arm/fluoro, deformity implant trays, osteotomy tools, cell saver, blood products, warming, and positioning plan for long prone time.
+- **Special needs:** arterial line, Foley, type/cross, tranexamic acid/blood-loss plan per protocol, MAP targets for cord perfusion, no long paralytic with MEPs, and postoperative brace/rehab plan.
+- **Immediate postop orders:** ICU/step-down neuro checks, hemoglobin/coags, drain output, CT/X-rays alignment/hardware, MAP goal if high-risk correction, brace/activity, DVT prophylaxis timing, bowel regimen, and PT/OT.
+
 ### Diagnosis & Indication
 - Indication: Painful acute/subacute VCF (edema on MRI) refractory to/intolerant of conservative care; pathologic fracture pain/stabilization
 - **Contraindications/caution:** asymptomatic/healed fracture, significant retropulsion with cord compression + deficit, uncorrectable coagulopathy, osteomyelitis at level, burst fracture with canal compromise

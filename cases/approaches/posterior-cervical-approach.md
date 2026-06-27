@@ -148,6 +148,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - For C1-C2/C2 screws, evaluate vertebral artery course, high-riding VA, pars height, pedicle width, and C2 ganglion/venous plexus exposure.
 - Decide whether the construct should stop at C7 or cross the cervicothoracic junction; stopping at a weak transition can invite junctional failure in selected patients.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
+- **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
+- **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
+
 ## Anesthesia & Neuromonitoring
 - GA, prone; **SSEP/MEP and EMG** (myelopathy/instrumentation); no long-acting paralytic with MEPs. **Careful prone positioning of the myelopathic neck** (neutral, avoid hyperextension); MAP support for the compressed cord.
 

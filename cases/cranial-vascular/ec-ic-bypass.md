@@ -154,6 +154,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** neuro ICU with graft-patency and perfusion monitoring.
+- **OR setup:** microscope, microvascular instruments, Doppler/ICG, recipient/donor mapping, heparinized irrigation, temporary clips, and bypass rescue supplies.
+- **Special needs:** arterial line, avoid hypotension, antiplatelet plan, donor-limb/STA protection, blood availability, and intraoperative flow confirmation.
+- **Immediate postop orders:** ICU neuro checks, BP range that protects graft and avoids hyperperfusion, aspirin/antiplatelet orders, CTA/DSA/perfusion imaging timing, wound/donor-site checks, and graft Doppler checks when used.
+
 ### Position
 - Supine, head rotated contralateral, Mayfield, target MCA branch at highest point
 - Mark STA course with handheld Doppler preoperatively

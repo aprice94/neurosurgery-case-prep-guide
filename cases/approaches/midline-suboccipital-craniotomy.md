@@ -132,6 +132,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **Steroids:** dexamethasone 10 mg load → 4 mg q6h for tumor-associated edema; not routinely needed for Chiari.
 - **AED prophylaxis** is generally **not indicated** for infratentorial lesions (low seizure risk) unless there is supratentorial involvement.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** ICU for posterior fossa, skull base, lower-cranial-nerve, hydrocephalus, or sitting-position cases; step-down only for low-risk elective exposures.
+- **OR setup:** Mayfield, microscope/endoscope as needed, navigation, cranial nerve monitoring/BAER when relevant, Doppler/air-embolism readiness for sitting or semisitting positions, and watertight closure materials.
+- **Special needs:** arterial line, Foley, antiemetic plan, dexamethasone when tumor/edema risk warrants it, EVD/CSF diversion plan, VAE monitoring when sitting, and lower-CN airway/swallow contingency.
+- **Immediate postop orders:** posterior fossa neuro checks, CN V-XII and swallow/voice screen, HOB elevation, CT for hemorrhage/hydrocephalus when indicated, MRI for tumor EOR, CSF leak/pseudomeningocele watch, and nausea control.
+
 ## Anesthesia & Neuromonitoring
 
 - GA; TIVA preferred when motor/sensory evoked potentials are used.

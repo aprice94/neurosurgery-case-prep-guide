@@ -140,6 +140,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** ICU; EVDs require continuous nursing familiarity with leveling, drainage, ICP waveform, and emergency clamp/troubleshooting.
+- **OR setup:** bedside sterile kit or OR setup, navigation/ultrasound when anatomy is distorted, antibiotic-impregnated catheter when used, pressure transducer/drain system primed, and CT path ready.
+- **Special needs:** coagulation/platelets corrected, antibiotics before incision, ICP/CPP goals, EVD height and drain/clamp order written explicitly, CSF culture plan if infection suspected, and sedation/airway plan for unstable patients.
+- **Immediate postop orders:** ICU neuro/ICP checks, EVD level and hourly output/ICP documentation, CT head confirmation, CSF sampling rules, antibiotics per protocol, clamp-call parameters, and DVT timing.
+
 ### Technique Selection
 - **Freehand (Kocher's point):** Standard bedside/OR technique
 - **Image-guided:** Navigation-assisted (if available and time permits)

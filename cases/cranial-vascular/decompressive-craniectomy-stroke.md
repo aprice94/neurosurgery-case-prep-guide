@@ -143,6 +143,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** neuro ICU, usually intubated or closely airway-monitored depending on infarct burden and brainstem risk.
+- **OR setup:** large trauma craniectomy tray, dural expansion graft, bone-flap storage plan, ICP/EVD supplies if needed, and CT/CTA/MRI reviewed for dominant side and infarct extent.
+- **Special needs:** arterial line, sodium/osmotherapy plan, antiplatelet/anticoagulation hold/restart plan, DVT/aspiration precautions, and family counseling about malignant edema trajectory.
+- **Immediate postop orders:** ICU neuro checks, HOB 30, sodium/BP goals, CT timing, helmet precautions, DVT prophylaxis timing, swallow/rehab consults, and cranioplasty follow-up planning.
+
 ### Diagnosis & Indication
 - Working diagnosis: Malignant MCA infarction with mass effect
 - Indication: Clinical deterioration (declining GCS), radiographic herniation, age (best outcomes < 60 but individualized), within ~48h of onset, before irreversible brainstem injury

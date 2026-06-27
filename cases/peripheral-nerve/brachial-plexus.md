@@ -136,6 +136,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** outpatient or short PACU stay; admit only for major plexus reconstruction, medical frailty, pain-control needs, or extensive tumor resection.
+- **OR setup:** hand table or radiolucent arm board, tourniquet when used, loupes/microscope available for nerve repair/tumor work, bipolar, microsuture/nerve-wrap options, and nerve stimulator for plexus or motor-branch cases.
+- **Special needs:** regional/local/WALANT versus general anesthesia plan, antibiotic decision for implants/long exposure, anticoagulation plan, and clear laterality/site marking with preop motor/sensory baseline documented.
+- **Immediate postop orders:** elevation, soft dressing or splint duration, early finger/limb ROM unless repair restricts it, oral analgesia, wound check/suture removal timing, therapy referral, and return precautions for hematoma or new motor deficit.
+
 ### Timing & Strategy
 - **Sharp/penetrating transection:** early (acute) repair
 - **Closed traction injuries:** observe with serial exam/EMG ~3 months; operate if no recovery (~3-6 months) before motor endplates degenerate (~12-18 months limit)

@@ -143,6 +143,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Side selection balances deformity concavity, vascular position, prior abdominal/retroperitoneal surgery, symptoms, and the working-room available between rib, iliac crest, and plexus.
 - Plan supplemental posterior fixation when instability, deformity correction, spondylolisthesis, osteoporosis, or multilevel constructs make standalone lateral cage failure likely.
 
+## Logistics, OR Setup & Orders
+- **Typical bed:** floor or step-down for elective degenerative exposure; ICU if trauma, myelopathy with cord signal change, major deformity, thoracic exposure, high EBL, or postoperative airway concern.
+- **OR setup:** Jackson/radiolucent spine table or approach-specific lateral/anterior setup, C-arm/O-arm/navigation availability, microscope/loupes, neuromonitoring leads before positioning, and implant trays opened only after final level/plan confirmation.
+- **Special needs:** arterial line and Foley for long instrumented cases, type/screen or crossmatch for deformity/corpectomy/trauma, antibiotic redosing plan, MAP support for SCI/myelopathy, and no long paralytic when MEPs are needed.
+- **Immediate postop orders:** neuro checks focused on myotomes/sensory level, postop CT/X-rays per construct, brace/activity orders, drain output thresholds, DVT prophylaxis timing, dysphagia/airway monitoring for anterior cervical cases, and rehab mobilization plan.
+
 ## Anesthesia & Neuromonitoring
 - GA; **continuous and triggered EMG is mandatory** (femoral/plexus), with no long-acting paralytic; fluoroscopy. Some add MEP/SSEP for deformity.
 

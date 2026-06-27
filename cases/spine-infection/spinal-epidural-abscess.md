@@ -140,6 +140,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** floor, step-down, or ICU based on sepsis, neurologic deficit, instability, and need for MAP/pressor support.
+- **OR setup:** fluoroscopy/navigation, decompression and instrumentation trays, culture swabs/containers for aerobic/anaerobic/fungal/AFB studies, drain, and blood availability for multilevel debridement or corpectomy.
+- **Special needs:** antibiotic timing coordinated with cultures unless unstable, ID consult plan, arterial line if septic or major deformity/corpectomy, MAP support for cord compromise, and hardware strategy in contaminated fields.
+- **Immediate postop orders:** neuro checks, organism-directed antibiotics, drain/wound care, ESR/CRP and culture follow-up, CT/X-rays when hardware placed, brace/activity, DVT timing, and nutrition/glycemic optimization.
+
 ### Diagnosis & Indication
 - **Surgical indications:** neurological deficit, progressive deficit, instability/bony destruction, failure of medical therapy, significant compression, frank pus
 - **Medical management alone** (CT-guided aspiration + 6+ weeks IV antibiotics) selected only for: no/minimal deficit, no instability, identifiable organism, close monitoring (risk of rapid deterioration)

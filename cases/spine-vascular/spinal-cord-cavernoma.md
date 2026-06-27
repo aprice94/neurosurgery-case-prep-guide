@@ -134,6 +134,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** ICU after spinal vascular surgery or embolization, with cord-perfusion and hematoma surveillance.
+- **OR setup:** microscope, neuromonitoring, spinal angiography/DSA images loaded, ICG/Doppler, clips/coagulation tools, laminectomy/instrumentation backup, and blood available for vascular lesions.
+- **Special needs:** arterial line, Foley, MAP support for cord perfusion, no long paralytic with MEPs, CSF drainage plan only when indicated, and coordination with endovascular/staged treatment.
+- **Immediate postop orders:** ICU neuro checks with motor/sensory/sphincter focus, MAP target, MRI/angiography confirmation plan, drain/hematoma watch, steroid/pain regimen, DVT timing, and rehab planning.
+
 ### Diagnosis & Indication
 - Indication: Symptomatic hemorrhage(s), progressive deficit, lesion reaching or near a surface; resect to prevent further hemorrhage
 - Conservative if deep, asymptomatic, no surface presentation (surgical morbidity vs natural history)

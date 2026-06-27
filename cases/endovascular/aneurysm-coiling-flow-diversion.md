@@ -135,6 +135,12 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 
 ## Surgical Planning
 
+### Case Logistics, OR Needs & Orders
+- **Typical bed:** ICU or step-down after intracranial intervention or carotid stenting; elective low-risk diagnostic-style cases may use monitored PACU pathways.
+- **OR setup:** biplane angio suite, radial/femoral access, full heparinization/reversal plan, stents/coils/liquid embolic or flow-diverter inventory, closure device, and bailout balloon/stent/aspiration tools.
+- **Special needs:** antiplatelet status verified for stents/flow diverters, BP targets for rupture/ischemia/hyperperfusion risk, contrast/renal/allergy plan, ACT monitoring, and external ventricular drain/SAH pathway if ruptured.
+- **Immediate postop orders:** neuro checks, access-site/pulse checks, BP parameters, antiplatelet/anticoagulation continuation, postop CT if neurologic change or rupture, flat time per closure, and follow-up vascular imaging plan.
+
 ### Technique Selection
 - **Primary coiling:** narrow-neck saccular aneurysms (detachable platinum coils → thrombosis/occlusion)
 - **Balloon-assisted (remodeling):** wide-neck, temporary balloon protects parent vessel during coiling
