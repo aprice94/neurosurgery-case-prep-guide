@@ -6,6 +6,7 @@ description: >-
 url: "https://aprice94.github.io"
 baseurl: "/neurosurgery-case-prep-guide"
 github_repo: "https://github.com/aprice94/neurosurgery-case-prep-guide"
+cranipro_url: "https://aprice94.github.io/cranipro/"
 
 # GitHub-flavored markdown so tables/pipes render exactly like github.com
 markdown: kramdown
