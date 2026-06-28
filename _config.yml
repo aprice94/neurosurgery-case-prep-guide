@@ -7,6 +7,7 @@ url: "https://pterionprep.com"
 baseurl: ""
 github_repo: "https://github.com/aprice94/neurosurgery-case-prep-guide"
 cranipro_url: "https://cranipro.com"
+vumc_case_prep_url: "https://aprice94.github.io/vumc-case-prep/"
 logo: "/assets/img/pterion-prep-logo.png"
 mark: "/assets/img/pterion-prep-mark.png"
 
