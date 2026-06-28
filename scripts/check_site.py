@@ -11,7 +11,6 @@ from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "_site"
-BASEURL = "/neurosurgery-case-prep-guide/"
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 LIT_BEGIN = "<!-- BEGIN CURATED LITERATURE -->"
 LIT_END = "<!-- END CURATED LITERATURE -->"
@@ -28,6 +27,12 @@ SNAPSHOT_LABELS = (
 )
 CASE_LOGISTICS_HEADER = "### Case Logistics, OR Needs & Orders"
 APPROACH_LOGISTICS_HEADER = "## Logistics, OR Setup & Orders"
+
+def site_baseurl() -> str:
+    config = read_text(ROOT / "_config.yml")
+    match = re.search(r'^baseurl:\s*["\']?([^"\'\n]*)["\']?\s*$', config, re.M)
+    value = (match.group(1).strip() if match else "").strip("/")
+    return f"/{value}/" if value else "/"
 
 class LinkParser(HTMLParser):
     def __init__(self) -> None:
@@ -198,8 +203,11 @@ def resolve_local(html_file: Path, url: str) -> Path | None:
     if parsed.scheme in {"http", "https"}:
         return None
     raw_path = unquote(parsed.path)
-    if raw_path.startswith(BASEURL):
-        return SITE / raw_path[len(BASEURL):]
+    baseurl = site_baseurl()
+    if baseurl != "/" and raw_path.startswith(baseurl):
+        return SITE / raw_path[len(baseurl):]
+    if baseurl == "/" and raw_path.startswith("/"):
+        return SITE / raw_path.lstrip("/")
     if raw_path.startswith("/"):
         return None
     return (html_file.parent / raw_path).resolve()

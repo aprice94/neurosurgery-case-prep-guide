@@ -3,10 +3,10 @@ description: >-
   Structured neurosurgical case-preparation guides — positioning, approaches,
   step-by-step technique, figures, and dictation-ready operative-note templates
   across cranial, spine, vascular, functional, peripheral-nerve, and pediatric neurosurgery.
-url: "https://aprice94.github.io"
-baseurl: "/neurosurgery-case-prep-guide"
+url: "https://pterionprep.com"
+baseurl: ""
 github_repo: "https://github.com/aprice94/neurosurgery-case-prep-guide"
-cranipro_url: "/cranipro/"
+cranipro_url: "https://cranipro.com"
 logo: "/assets/img/pterion-prep-logo.png"
 mark: "/assets/img/pterion-prep-mark.png"
 

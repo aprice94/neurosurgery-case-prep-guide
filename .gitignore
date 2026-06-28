@@ -13,6 +13,8 @@ Thumbs.db
 # Temp
 *.tmp
 *.bak
+__pycache__/
+*.pyc
 
 # Claude Code local (machine-specific) settings — keep shared settings tracked
 .claude/settings.local.json

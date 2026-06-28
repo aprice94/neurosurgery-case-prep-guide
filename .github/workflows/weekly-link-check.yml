@@ -1,0 +1,106 @@
+name: Weekly external link check
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Sunday 5:00 PM America/Chicago during daylight time. GitHub cron is UTC.
+    - cron: "0 22 * * 0"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+      - name: Validate generated site
+        run: python3 scripts/check_site.py
+      - name: Check external links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        continue-on-error: true
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,206,301,302,403,429
+            --exclude-mail
+            --exclude-loopback
+            './_site/**/*.html'
+          output: lychee-report.md
+          format: markdown
+          fail: true
+      - name: Open or update broken-link issue
+        if: steps.lychee.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const title = 'Weekly link check failures';
+            const report = fs.existsSync('lychee-report.md')
+              ? fs.readFileSync('lychee-report.md', 'utf8')
+              : 'lychee did not write a report file.';
+            const body = [
+              'The weekly external link check found broken or unreachable links.',
+              '',
+              `Run: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              '',
+              report
+            ].join('\n');
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            });
+            const existing = issues.data.find(issue => issue.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.number,
+                body
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body
+              });
+            }
+            core.setFailed('External link check failed; issue created or updated.');
+      - name: Close stale broken-link issue
+        if: steps.lychee.outcome == 'success'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = 'Weekly link check failures';
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            });
+            for (const issue of issues.data.filter(issue => issue.title === title)) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: 'The latest weekly external link check passed; closing this issue.'
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed'
+              });
+            }

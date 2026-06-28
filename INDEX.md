@@ -26,7 +26,7 @@ title: Home
 
 <div class="cards">
   <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
-  <a class="card aids" href="{{ site.cranipro_url | relative_url }}"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
+  <a class="card aids" href="{{ site.cranipro_url }}"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
   <a class="card aids" href="resources/approach-map.html"><span class="ic">🗺️</span><span class="t">Approach Map</span><span class="d">Linked corridors by region, target, and typical case use</span><span class="n">global map</span></a>
   <a class="card aids" href="cases/approaches/approach-selection.html"><span class="ic">💡</span><span class="t">Approach Selection</span><span class="d">Decision aids — which corridor for which lesion (comparison tables)</span><span class="n">decision tables</span></a>
   <a class="card cranial" href="#cranial"><span class="ic">🧠</span><span class="t">Cranial</span><span class="d">Vascular · tumor / skull base · trauma · CSF · functional</span><span class="n">50 guides</span></a>
@@ -71,6 +71,8 @@ title: Home
 <h2 id="resources">📚 Resources &amp; Templates</h2>
 - [Top 100 Neurosurgery Resources](resources/neurosurgery-resources.md) — textbooks, atlases, platforms, journals, operative references
 - [Perioperative logistics & orders quick reference](resources/perioperative-logistics-orders.md) — postop destination, OR setup, monitoring, MAP/BP, steroid/device/drain, and postop order blocks
+- [Weekly freshness watch](resources/freshness-updates.md) — auto-generated PubMed, CNS video, and Atlas candidates for review
+- [Custom domains setup](resources/custom-domains.md) — DNS records for pterionprep.com and cranipro.com
 - [Global Approach Map](resources/approach-map.md) — linked cranial, skull-base, spine, endovascular, and stereotactic corridors
 - [Curated media & figure sources](resources/media-sources.md) — where the figures come from (and licensing)
 - [CNS Video Library embeds](resources/cns-video-library.md) — mapped CNS videos and where they are embedded in the guide set

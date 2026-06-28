@@ -1,0 +1,29 @@
+name: Weekly content freshness watch
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Sunday 5:00 PM America/Chicago during daylight time. GitHub cron is UTC.
+    - cron: "0 22 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  freshness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update PubMed, CNS, and Atlas freshness watch
+        run: python3 scripts/update_freshness_watch.py
+      - name: Commit freshness update
+        run: |
+          if git diff --quiet -- resources/freshness-updates.md; then
+            echo "No freshness-watch changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add resources/freshness-updates.md
+          git commit -m "Update content freshness watch"
+          git push
