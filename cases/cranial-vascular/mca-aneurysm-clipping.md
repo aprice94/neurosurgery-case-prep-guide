@@ -82,29 +82,14 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![MCA Aneurysm Clipping — Fig. 1](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-01-fig-1-41016-2018-110-fig1-html-jpg.jpg)
 *Fig. 1. Contrast Pterional approach, LSO approach and modified LSO approach bone window shape in craniotomy. a represents a conventional Pterional approach, b represents a classical LSO... Source: [Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms](https://pmc.ncbi.nlm.nih.gov/articles/PMC7393864/) — Chinese Neurosurgical Journal 2018; CC BY.*
 
+
 ![MCA Aneurysm Clipping — Fig. 2](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-02-fig-2-41016-2018-110-fig2-html-jpg.jpg)
 *Fig. 2. Contrast modified LSO approach and Pterional approach bone window shape in middle aneurysm clipping surgery. a and b represent the shape of the bone flap of the modified LSO approach and... Source: [Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms](https://pmc.ncbi.nlm.nih.gov/articles/PMC7393864/) — Chinese Neurosurgical Journal 2018; CC BY.*
 
-![MCA Aneurysm Clipping — Fig. 3](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-03-fig-3-41016-2018-110-fig3-html-jpg.jpg)
-*Fig. 3. Operation flow chart of MCA aneurysm clipping by modified LSO approach. a is the skin incision pattern. b and c represent the presentation of MCA aneurysms. d represents temporary... Source: [Comparison between modified lateral supraorbital approach and pterional approach in the surgical treatment of middle cerebral artery aneurysms](https://pmc.ncbi.nlm.nih.gov/articles/PMC7393864/) — Chinese Neurosurgical Journal 2018; CC BY.*
-
-![MCA Aneurysm Clipping — Figure 1](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-04-figure-1-fsurg-13-1827725-g001-jpg.jpg)
-*Figure 1. Multimodal transformer architecture for future surgical step prediction. RGB microscope frames were processed through a CNN-LSTM visual branch, and observed ground-truth surgical step... Source: [Predicting future surgical steps during MCA aneurysm clipping using a multimodal transformer](https://pmc.ncbi.nlm.nih.gov/articles/PMC13269259/) — Frontiers in Surgery 2026; CC BY.*
-
-![MCA Aneurysm Clipping — Figure 2](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-05-figure-2-fsurg-13-1827725-g002-jpg.jpg)
-*Figure 2. Temporal alignment of predicted and ground-truth surgical step sequences across test cases. Panels A–C correspond to Cases 1, 2, and 4; panels D–F correspond to Cases 5, 6, and 7; and... Source: [Predicting future surgical steps during MCA aneurysm clipping using a multimodal transformer](https://pmc.ncbi.nlm.nih.gov/articles/PMC13269259/) — Frontiers in Surgery 2026; CC BY.*
-
-![MCA Aneurysm Clipping — Figure 1](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-06-figure-1-41598-2020-60377-fig1-html-jpg.jpg)
-*Figure 1. Based on logistic regression analysis based on the 28 instances of temporary clipping, if a temporary clip needed to be applied for 312 seconds or more, there was a higher probability... Source: [Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044220/) — Scientific Reports 2020; CC BY.*
 
 ![MCA Aneurysm Clipping — Figure 2](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-07-figure-2-41598-2020-60377-fig2-html-jpg.jpg)
 *Figure 2. A CT scan taken at admission showed SAH (Fisher group 3) (Fig. 2a,b), and 3DCTA showed an intracranial aneurysm in the left MCA bifurcation (Fig. 2c). Intraoperative monitoring results... Source: [Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044220/) — Scientific Reports 2020; CC BY.*
 
-![MCA Aneurysm Clipping — Figure 3](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-08-figure-3-41598-2020-60377-fig3-html-jpg.jpg)
-*Figure 3. Flow diagram. Source: [Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044220/) — Scientific Reports 2020; CC BY.*
-
-![MCA Aneurysm Clipping — Figure 4](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-09-figure-4-41598-2020-60377-fig4-html-jpg.jpg)
-*Figure 4. Time course for clipping surgery with temporary clipping under precise MEP monitoring. Source: [Precise MEP monitoring with a reduced interval is safe and useful for detecting permissive duration for temporary clipping](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044220/) — Scientific Reports 2020; CC BY.*
 
 ![MCA Aneurysm Clipping — Figure 10](../../figures/curated/case-prep-mca-aneurysm-clipping/figure-10-figure-10-sni-8-79-g001-jpg.jpg)
 *Figure 10. Source: [Safe time duration for temporary middle cerebral artery occlusion in aneurysm surgery based on motor-evoked potential monitoring](https://pmc.ncbi.nlm.nih.gov/articles/PMC5445649/) — Surg Neurol Int. 2017 May 10;8:79. doi: 10.4103/sni.sni_410_16; CC BY-NC-SA.*
@@ -398,6 +383,19 @@ Proximal control was established on M1. [A temporary clip was placed on M1 for _
 - Diet: advance as tolerated
 - CTA or DSA to confirm clip position (before discharge or at follow-up)
 - Follow-up: Clinic 2-4 weeks, DSA at 6-12 months
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **MCA Aneurysm Clipping**:
+
+- **Decision point:** The operation is won or lost on control: identify inflow, outflow, perforators, collateral options, and the fastest route to temporary control before exposing the lesion itself.
+- **Technical lever:** Do not accept a cosmetic result over physiology: ICG/Doppler/DSA, branch patency, perforator preservation, and parent-vessel caliber matter more than how the clip or resection bed looks.
+- **Bailout:** Have a rupture or ischemia script ready: lower pressure, suction strategy, temporary occlusion time, heparin/reversal plan, bypass/reconstruction threshold, and postop BP targets.
+- **Postop watch:** Postop danger is delayed: vasospasm, thromboembolism, hyperperfusion, hemorrhage, edema, hydrocephalus, and seizure plans need explicit orders.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

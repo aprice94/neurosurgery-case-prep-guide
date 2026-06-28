@@ -78,32 +78,37 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Figure 5](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-01-figure-5-cureus-0018-00000104926-i05-jpg.jpg)
-*Figure 5. Forest plots of surgical complications comparing iMRI and non-iMRI groupsBerkmann et al., 2012 [21], Ogiwara et al., 2021 [19], Patel et al., 2022 [18], Sylvester et al., 2015 [20]Forest... Source: [Impact of Intraoperative MRI on Outcomes in Pituitary Adenoma Surgery: A Systematic Review and Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC13061346/) — Cureus 2026; CC BY.*
-
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Figure 1](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-02-figure-1-fendo-16-1552526-g001-jpg.jpg)
 *Figure 1. Anterior pituitary lobe function over time. The diagram depicts the non-continuous development of anterior pituitary lobe function over time. Source: [Comparison of endoscopic and endoscope-assisted microscopic transsphenoidal surgery for pituitary adenoma resection: a prospective randomized study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12322937/) — Frontiers in Endocrinology 2025; CC BY.*
+
 
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Figure 2](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-03-figure-2-fendo-16-1552526-g002-jpg.jpg)
 *Figure 2. Achievement of overall well-being over time. The diagram depicts the non-continuous time point when symptom-free well-being was achieved. The values are in %. Source: [Comparison of endoscopic and endoscope-assisted microscopic transsphenoidal surgery for pituitary adenoma resection: a prospective randomized study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12322937/) — Frontiers in Endocrinology 2025; CC BY.*
 
+
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Figure 3](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-04-figure-3-fendo-16-1552526-g003-jpg.jpg)
 *Figure 3. Achievement of rhinological well-being over time. The diagram depicts the non-continuous time point when symptom-free well-being was achieved. The values are in %. Source: [Comparison of endoscopic and endoscope-assisted microscopic transsphenoidal surgery for pituitary adenoma resection: a prospective randomized study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12322937/) — Frontiers in Endocrinology 2025; CC BY.*
+
 
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Figure 4](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-05-figure-4-fendo-16-1552526-g004-jpg.jpg)
 *Figure 4. Mental and physical scores of SF-36 over time. E, endoscopic group; M, microsurgical group; MCS, mental component summary score; PCS, physical component summary score; continuous line,... Source: [Comparison of endoscopic and endoscope-assisted microscopic transsphenoidal surgery for pituitary adenoma resection: a prospective randomized study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12322937/) — Frontiers in Endocrinology 2025; CC BY.*
 
+
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Fig. 1](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-06-fig-1-701-2010-629-fig1-html-jpg.jpg)
 *Fig. 1. Examples of endonasal anatomical variations that required surgical correction. a Coronal CT-scan with a left bullous middle turbinate, b left endonasal bullous middle turbinate, c left... Source: [Variations of endonasal anatomy: relevance for the endoscopic endonasal transsphenoidal approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC2872017/) — Acta Neurochirurgica 2010; CC BY-NC.*
+
 
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Fig. 1](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-07-fig-1-701-2024-6078-fig1-html-jpg.jpg)
 *Fig. 1. An endoscopic view showing essential intra-sphenoidal anatomy. Internal Carotid arteries (ICA), a right-sided pituitary microadenoma (yellow) Source: [HOW I DO IT: Cushing’s disease—selective adenomectomy via an endoscopic transsphenoidal approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC11156730/) — Acta Neurochirurgica 2024; CC BY.*
 
+
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Fig. 2](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-08-fig-2-701-2024-6078-fig2-html-jpg.jpg)
 *Fig. 2. Axial MRI T2 demonstrates a right-sided pituitary gland enlargement correlating to the pituitary microadenoma Source: [HOW I DO IT: Cushing’s disease—selective adenomectomy via an endoscopic transsphenoidal approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC11156730/) — Acta Neurochirurgica 2024; CC BY.*
 
+
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Fig. 3](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-09-fig-3-701-2024-6078-fig3-html-jpg.jpg)
 *Fig. 3. Coronal T1 + GAD demonstrating the disproportionately enlarged right pituitary gland - microadenoma (yellow arrow), normal pituitary gland (blue arrow), and the internal carotid arteries... Source: [HOW I DO IT: Cushing’s disease—selective adenomectomy via an endoscopic transsphenoidal approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC11156730/) — Acta Neurochirurgica 2024; CC BY.*
+
 
 ![Pituitary Adenoma Endoscopic Endonasal Transsphenoidal Approach — Fig. 4](../../figures/curated/case-prep-pituitary-adenoma-endoscopic-endonasal-transsphenoidal-approach/figure-10-fig-4-701-2024-6078-fig4-html-jpg.jpg)
 *Fig. 4. T1 Sagittal + GAD demonstrating the pituitary microadenoma (yellow arrow) and normal pituitary gland (blue arrow). The conchal sphenoidal sinus can be appreciated Source: [HOW I DO IT: Cushing’s disease—selective adenomectomy via an endoscopic transsphenoidal approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC11156730/) — Acta Neurochirurgica 2024; CC BY.*
@@ -414,6 +419,19 @@ The patient was positioned supine with the head slightly extended in a [Mayfield
 - Follow-up: ENT debridement 1-2 weeks; Neurosurgery clinic 2-4 weeks; Endocrine 4-6 weeks
 - Long-term: Annual MRI sella; endocrine labs; visual fields as needed
 - **Delayed hyponatremia warning:** Educate patient to check Na at day 7-10 or return for symptoms (nausea, headache, confusion)
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Pituitary Adenoma — Endoscopic Endonasal Transsphenoidal Approach**:
+
+- **Decision point:** Decide the real endpoint before opening: cure, cytoreduction, diagnosis, decompression, separation from critical structures, or safe maximal resection.
+- **Technical lever:** Map what must be left behind: perforators, cranial nerves, venous sinuses, eloquent cortex/tracts, hypothalamus/pituitary axis, and adherent capsule planes.
+- **Bailout:** Sequence matters: devascularize early when safe, create CSF/working space, debulk before traction, and preserve the arachnoid plane unless oncologic goals justify violating it.
+- **Postop watch:** The postop plan should match the risk structure: endocrine/vision/swallow/CN checks, steroid taper, seizure plan, MRI timing, CSF-leak watch, and adjuvant-treatment handoff.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

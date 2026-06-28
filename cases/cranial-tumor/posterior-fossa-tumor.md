@@ -61,32 +61,37 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Posterior Fossa Tumor Resection — Fig. 1](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-01-fig-1-432-2022-4490-fig1-html-jpg.jpg)
-*Fig. 1. Flow diagram illustrating participants entered the study Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — Journal of Cancer Research and Clinical Oncology 2022; CC BY.*
-
 ![Posterior Fossa Tumor Resection — Fig. 2](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-02-fig-2-432-2022-4490-fig2-html-jpg.jpg)
 *Fig. 2. Postural stability and coordination scores Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — Journal of Cancer Research and Clinical Oncology 2022; CC BY.*
+
 
 ![Posterior Fossa Tumor Resection — Figure 3](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-03-figure-3-432-2022-4490-moesm1-esm-jpeg.jpg)
 *Figure 3. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
 
+
 ![Posterior Fossa Tumor Resection — Figure 4](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-04-figure-4-432-2022-4490-moesm2-esm-jpeg.jpg)
 *Figure 4. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
+
 
 ![Posterior Fossa Tumor Resection — Figure 5](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-05-figure-5-432-2022-4490-moesm3-esm-jpeg.jpg)
 *Figure 5. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
 
+
 ![Posterior Fossa Tumor Resection — Figure 6](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-06-figure-6-432-2022-4490-moesm4-esm-jpeg.jpg)
 *Figure 6. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
+
 
 ![Posterior Fossa Tumor Resection — Figure 7](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-07-figure-7-432-2022-4490-moesm5-esm-jpeg.jpg)
 *Figure 7. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
 
+
 ![Posterior Fossa Tumor Resection — Figure 8](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-08-figure-8-432-2022-4490-moesm6-esm-jpeg.jpg)
 *Figure 8. Source: [Impact of physical activity on postural stability and coordination in children with posterior fossa tumor: randomized control phase III trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10356666/) — J Cancer Res Clin Oncol. 2022 Dec 16;149(9):5637–44. doi: 10.1007/s00432-022-04490-4; CC BY.*
 
+
 ![Posterior Fossa Tumor Resection — Figure 1.](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-09-figure-1-vdaf053-fig1-jpg.jpg)
 *Figure 1.. TBSS results for the group of all 8 posterior fossa tumor patients at the presurgical time point. Green denotes the white matter skeleton where voxels are not significantly different... Source: [Evidence of supratentorial white matter injury prior to treatment in children with posterior fossa tumors using diffusion MRI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12080551/) — Neuro-Oncology Advances 2025; CC BY.*
+
 
 ![Posterior Fossa Tumor Resection — Figure 2.](../../figures/curated/case-prep-posterior-fossa-tumor-resection-cerebellar-metastasis-hemangioblastoma-medullo/figure-10-figure-2-vdaf053-fig2-jpg.jpg)
 *Figure 2.. TBSS results for individual patients with widespread, significant changes in FA, including pilocytic astrocytoma patients PF002 (A) and PF016 (B) and medulloblastoma patient PF050 (C).... Source: [Evidence of supratentorial white matter injury prior to treatment in children with posterior fossa tumors using diffusion MRI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12080551/) — Neuro-Oncology Advances 2025; CC BY.*
@@ -211,6 +216,19 @@ A watertight dural closure was performed (to prevent pseudomeningocele/CSF leak)
 - CT 6h, MRI postop (EOR); EVD/hydrocephalus management
 - Antiemetics, steroid taper, DVT prophylaxis
 - Pathology-specific: tumor board; medulloblastoma → craniospinal RT + chemo, neuraxis staging; metastasis → SRS/WBRT; hemangioblastoma → VHL workup
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Posterior Fossa Tumor Resection (Cerebellar — Metastasis / Hemangioblastoma / Medulloblastoma / Ependymoma)**:
+
+- **Decision point:** Decide the real endpoint before opening: cure, cytoreduction, diagnosis, decompression, separation from critical structures, or safe maximal resection.
+- **Technical lever:** Map what must be left behind: perforators, cranial nerves, venous sinuses, eloquent cortex/tracts, hypothalamus/pituitary axis, and adherent capsule planes.
+- **Bailout:** Sequence matters: devascularize early when safe, create CSF/working space, debulk before traction, and preserve the arachnoid plane unless oncologic goals justify violating it.
+- **Postop watch:** The postop plan should match the risk structure: endocrine/vision/swallow/CN checks, steroid taper, seizure plan, MRI timing, CSF-leak watch, and adjuvant-treatment handoff.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

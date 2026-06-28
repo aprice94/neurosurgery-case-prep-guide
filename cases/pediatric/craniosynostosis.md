@@ -59,29 +59,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Craniosynostosis Repair — Figure 1](../../figures/curated/case-prep-craniosynostosis-repair/figure-01-figure-1-jbm4-7-e10728-g001-jpg.jpg)
 *Figure 1. Source: [Craniosynostosis in Patients With X‐Linked Hypophosphatemia: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10184010/) — JBMR Plus. 2023 Mar 14;7(5):e10728. doi: 10.1002/jbm4.10728; CC BY.*
 
+
 ![Craniosynostosis Repair — Fig. 2](../../figures/curated/case-prep-craniosynostosis-repair/figure-02-fig-2-jbm4-7-e10728-g002-jpg.jpg)
 *Fig. 2. Age distribution of craniosynostosis diagnosis in patients with XLH identified in this review. Note, the age of craniosynostosis diagnosis was not reported for all patients; this... Source: [Craniosynostosis in Patients With X‐Linked Hypophosphatemia: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10184010/) — JBMR Plus 2023; CC BY.*
+
 
 ![Craniosynostosis Repair — Fig. 3](../../figures/curated/case-prep-craniosynostosis-repair/figure-03-fig-3-jbm4-7-e10728-g003-jpg.jpg)
 *Fig. 3. (A) Distribution of fused sutures and (B) distribution of symptoms/complications in craniosynostosis in patients with XLH identified in this review. Note, the sutures fused were not... Source: [Craniosynostosis in Patients With X‐Linked Hypophosphatemia: A Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10184010/) — JBMR Plus 2023; CC BY.*
 
-![Craniosynostosis Repair — Fig. 2](../../figures/curated/case-prep-craniosynostosis-repair/figure-04-fig-2-381-2024-6409-fig2-html-jpg.jpg)
-*Fig. 2. Flow diagram depicting the method of extracting data, training models, and its use in craniosynostosis Source: [Machine learning applications in craniosynostosis diagnosis and treatment prediction: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11269440/) — Child's Nervous System 2024; CC BY.*
 
 ![Craniosynostosis Repair — Figure 1](../../figures/curated/case-prep-craniosynostosis-repair/figure-05-figure-1-41598-2021-85620-fig1-html-jpg.jpg)
 *Figure 1. Age distribution of the syndromic craniosynostosis, non-syndromic craniosynostosis, and control groups. Source: [Ocular biometric features of pediatric patients with fibroblast growth factor receptor-related syndromic craniosynostosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7969619/) — Scientific Reports 2021; CC BY.*
 
+
 ![Craniosynostosis Repair — Figure 2](../../figures/curated/case-prep-craniosynostosis-repair/figure-06-figure-2-41598-2021-85620-fig2-html-jpg.jpg)
 *Figure 2. Comparison of biometric values between the syndromic craniosynostosis, non-syndromic craniosynostosis, and control groups. The distribution of (A) spherical equivalent, (B) axial length,... Source: [Ocular biometric features of pediatric patients with fibroblast growth factor receptor-related syndromic craniosynostosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7969619/) — Scientific Reports 2021; CC BY.*
+
 
 ![Craniosynostosis Repair — Figure 1](../../figures/curated/case-prep-craniosynostosis-repair/figure-07-figure-1-bmjophth-2020-000677f01-jpg.jpg)
 *Figure 1. Prevalence of strabismus preoperatively and postoperatively in sagittal, unicoronal and metopic non-syndromic craniosynostosis. Source: [Ophthalmological findings in children with non-syndromic craniosynostosis: preoperatively and postoperatively up to 12 months after surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC8076926/) — BMJ Open Ophthalmology 2021; CC BY.*
 
+
 ![Craniosynostosis Repair — Figure 8](../../figures/curated/case-prep-craniosynostosis-repair/figure-08-figure-8-bmjophth-2020-000677ilf01-jpg.jpg)
 *Figure 8. Source: [Ophthalmological findings in children with non-syndromic craniosynostosis: preoperatively and postoperatively up to 12 months after surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC8076926/) — BMJ Open Ophthalmol. 2021 Apr 25;6(1):e000677. doi: 10.1136/bmjophth-2020-000677; CC BY.*
 
+
 ![Craniosynostosis Repair — Figure 9](../../figures/curated/case-prep-craniosynostosis-repair/figure-09-figure-9-bmjophth-2020-000677ilf02-jpg.jpg)
 *Figure 9. Source: [Ophthalmological findings in children with non-syndromic craniosynostosis: preoperatively and postoperatively up to 12 months after surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC8076926/) — BMJ Open Ophthalmol. 2021 Apr 25;6(1):e000677. doi: 10.1136/bmjophth-2020-000677; CC BY.*
+
 
 ![Craniosynostosis Repair — Fig. 1.](../../figures/curated/case-prep-craniosynostosis-repair/figure-10-fig-1-dmm-15-049390-g1-jpg.jpg)
 *Fig. 1.. Cranial sutures and craniosynostosis in humans. (A) A normal human infant skull shown from above (left) and human infant skull shown from the side (right). (B) Skull deformities caused... Source: [The clinical manifestations, molecular mechanisms and treatment of craniosynostosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9044212/) — Disease Models & Mechanisms 2022; CC BY.*
@@ -206,6 +211,19 @@ Closure was performed. The patient was transferred to the [PICU/floor] with Hgb/
 - Pain control, feeding, thermoregulation
 - Craniofacial team follow-up, genetics (syndromic), ophthalmology, head shape/circumference surveillance
 - Long-term: monitor for raised ICP, reossification, need for revision (syndromic)
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Craniosynostosis Repair**:
+
+- **Decision point:** The setup is age-specific: blood volume, warming, positioning pressure, airway, latex risk, family counseling, and ICU/PICU handoff differ from adults.
+- **Technical lever:** Preserve future options: growth, shunt dependence, cranioplasty/bone healing, endocrine/neurocognitive trajectory, and adjuvant therapy influence today’s choices.
+- **Bailout:** Have a complication script: blood loss, CSF leak, hydrocephalus, wound breakdown, posterior fossa mutism, infection, and airway/swallow risk should be anticipated.
+- **Postop watch:** Postop communication matters: family expectations, neurologic baseline, therapy needs, school/developmental supports, and surveillance imaging/labs should be clear.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

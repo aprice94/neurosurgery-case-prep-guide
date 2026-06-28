@@ -57,32 +57,29 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Vertebral Augmentation — Figure 1](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-01-figure-1-cia-10-635fig1-jpg.jpg)
-*Figure 1. Kaplan–Meier survival curve of overall repeat vertebral augmentations. Source: [Repeated vertebral augmentation for new vertebral compression fractures of postvertebral augmentation patients: a nationwide cohort study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4381902/) — Clinical Interventions in Aging 2015; CC BY-NC.*
-
 ![Vertebral Augmentation — Figure 2](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-02-figure-2-cia-10-635fig2-jpg.jpg)
 *Figure 2. The frequency with which patients underwent a second procedure was particularly high in patients ≥80 years of age. Source: [Repeated vertebral augmentation for new vertebral compression fractures of postvertebral augmentation patients: a nationwide cohort study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4381902/) — Clinical Interventions in Aging 2015; CC BY-NC.*
+
 
 ![Vertebral Augmentation — Figure 1.](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-03-figure-1-2432-261x-2-0163-g001-jpg.jpg)
 *Figure 1.. This figure displays the methodology used in the literature search conducted for this review. Source: [Efficacy of Vertebral Augmentation for Vertebral Compression Fractures: A Review of Meta-Analyses](https://pmc.ncbi.nlm.nih.gov/articles/PMC6698519/) — Spine Surgery and Related Research 2018; CC BY-NC-ND.*
 
+
 ![Vertebral Augmentation — Figure 1](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-04-figure-1-medscimonit-29-e940134-g001-jpg.jpg)
 *Figure 1. HU value was measured on CT scans by the largest elliptical region of interest. (A) CT sagittal image shown the positions of the 3 slices. (B) Inferior to the upper endplate. (C) Middle... Source: [Risk Factors for New Vertebral Compression Fracture After Percutaneous Vertebral Augmentation: A Retrospective Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10362804/) — Medical Science Monitor : International Medical Journal of Experimental and Clinical Research 2023; CC BY-NC-ND.*
+
 
 ![Vertebral Augmentation — Fig. 1.](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-05-fig-1-ns-2143172-586f1-jpg.jpg)
 *Fig. 1.. Five lines (A–E) of the thoracolumbar vertebrae in xray radiographs were determined. The Cobb angle was measured using the angle between the superior endplate of the vertebral body above... Source: [Difference in the Cobb Angle Between Standing and Supine Position as a Prognostic Factor After Vertebral Augmentation in Osteoporotic Vertebral Compression Fractures](https://pmc.ncbi.nlm.nih.gov/articles/PMC9260559/) — Neurospine 2022; CC BY-NC.*
 
-![Vertebral Augmentation — Fig. 3.](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-06-fig-3-ns-2143172-586f3-jpg.jpg)
-*Fig. 3.. Receiver operating characteristic (ROC) curve to identify the optimal cutoff values of the differences in the Cobb angle (A) and compression ratio (B) for the prediction of the... Source: [Difference in the Cobb Angle Between Standing and Supine Position as a Prognostic Factor After Vertebral Augmentation in Osteoporotic Vertebral Compression Fractures](https://pmc.ncbi.nlm.nih.gov/articles/PMC9260559/) — Neurospine 2022; CC BY-NC.*
-
-![Vertebral Augmentation — Fig. 4.](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-07-fig-4-ns-2143172-586f4-jpg.jpg)
-*Fig. 4.. Receiver operating characteristic (ROC) curve to identify the optimal cutoff values of the differences in the Cobb angle (A) and compression ratio (B) for the prediction of the midterm... Source: [Difference in the Cobb Angle Between Standing and Supine Position as a Prognostic Factor After Vertebral Augmentation in Osteoporotic Vertebral Compression Fractures](https://pmc.ncbi.nlm.nih.gov/articles/PMC9260559/) — Neurospine 2022; CC BY-NC.*
 
 ![Vertebral Augmentation — Fig. 5.](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-08-fig-5-ns-2143172-586f5-jpg.jpg)
 *Fig. 5.. Boxplots with dot plots of the differences in the Cobb angle (A) and compression ratio (B) classified according to the shape of the fracture. Source: [Difference in the Cobb Angle Between Standing and Supine Position as a Prognostic Factor After Vertebral Augmentation in Osteoporotic Vertebral Compression Fractures](https://pmc.ncbi.nlm.nih.gov/articles/PMC9260559/) — Neurospine 2022; CC BY-NC.*
 
+
 ![Vertebral Augmentation — Figure 1](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-09-figure-1-cureus-0009-00000001061-i01-jpg.jpg)
 *Figure 1. T2 weighted sagittal MRI demonstrating a L1 vertebral compression fracture in addition to L4/L5 central spinal stenosis Source: [Evaluation and Interventional Management of Pain After Vertebral Augmentation Procedures](https://pmc.ncbi.nlm.nih.gov/articles/PMC5370199/) — Cureus 2017; CC BY.*
+
 
 ![Vertebral Augmentation — Figure 1](../../figures/curated/case-prep-vertebral-augmentation-kyphoplasty-vertebroplasty/figure-10-figure-1-gr1-jpg.jpg)
 *Figure 1. The measurement of body height. H = vertebral body height; M = the fracture vertebra; U = upper segment; L = lower segment; a = anterior part of the vertebra; m = middle part of the... Source: [Percutaneous vertebral augmentation in special Genant IV osteoporotic vertebral compression fractures](https://pmc.ncbi.nlm.nih.gov/articles/PMC6938938/) — Journal of Orthopaedic Translation 2020; CC BY-NC-ND.*
@@ -221,6 +218,19 @@ Instruments were removed and the patient recovered supine for cement curing, the
 - **Osteoporosis management** (calcium, vitamin D, anabolic/antiresorptive agents — prevent adjacent fractures), DEXA, endocrine/bone clinic
 - Pathologic: oncology, address primary, consider RT
 - Mobilize, follow-up; counsel re: adjacent-level fracture risk
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Vertebral Augmentation (Kyphoplasty / Vertebroplasty)**:
+
+- **Decision point:** Localize twice and instrument once: numbering, transitional anatomy, prior hardware, rib count, navigation dataset, and fluoroscopic level confirmation are mandatory.
+- **Technical lever:** Positioning is treatment: table choice, abdomen-free prone setup, alignment goals, shoulders/hips, eyes/plexus pressure, neuromonitoring baselines, and fluoroscopic access all change the case.
+- **Bailout:** Protect neural elements by sequence: decompression before correction when needed, MAP support for cord risk, no long paralytic with MEPs, and immediate response to signal change.
+- **Postop watch:** Finish with construct logic: decompression adequacy, screw purchase, alignment, fusion bed/graft, drain plan, brace/activity orders, postop CT/X-rays, and DVT timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

@@ -62,32 +62,37 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Chiari I Malformation Decompression — Figure 1](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-01-figure-1-cureus-0018-00000108906-i01-jpg.jpg)
 *Figure 1. Frontal photograph of left House-Brackmann grade III facial palsy.Smile reveals left oral commissure deviation with blunted excursion and effaced nasolabial fold, consistent with... Source: [Non-syndromic Developmental Facial Palsy Co-occurring With Chiari I Malformation: Parallel Manifestations of a Shared Prenatal Disturbance?](https://pmc.ncbi.nlm.nih.gov/articles/PMC13265094/) — Cureus 2026; CC BY.*
 
+
 ![Chiari I Malformation Decompression — Figure 2](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-02-figure-2-cureus-0018-00000108906-i02-jpg.jpg)
 *Figure 2. Pre-operative sagittal T1-weighted MRIA. 12-mm cerebellar tonsillar ectopia below McRae line (red arrow, blue line). B. Craniocervical junction crowding with obliterated cerebrospinal... Source: [Non-syndromic Developmental Facial Palsy Co-occurring With Chiari I Malformation: Parallel Manifestations of a Shared Prenatal Disturbance?](https://pmc.ncbi.nlm.nih.gov/articles/PMC13265094/) — Cureus 2026; CC BY.*
+
 
 ![Chiari I Malformation Decompression — Figure 3](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-03-figure-3-cureus-0018-00000108906-i03-jpg.jpg)
 *Figure 3. Post-operative sagittal head computed tomography (CT) following posterior fossa decompression and duraplasty.A. Demonstrates suboccipital craniectomy with bony decompression and expanded... Source: [Non-syndromic Developmental Facial Palsy Co-occurring With Chiari I Malformation: Parallel Manifestations of a Shared Prenatal Disturbance?](https://pmc.ncbi.nlm.nih.gov/articles/PMC13265094/) — Cureus 2026; CC BY.*
 
+
 ![Chiari I Malformation Decompression — Fig. 2.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-04-fig-2-pne-2026-0061-0002-550058-f02-jpg.jpg)
 *Fig. 2.. Sagittal MR showing CMI in a 3-year-old boy who complained of typical nuchal headache (a). IOUS after bony decompression (b) and after scoring of the posterior atlanto-occipital membrane... Source: [Tailoring the Surgical Approach to Chiari I Malformation with Intraoperative Ultrasounds: Advantages, Limitations, and Controversies](https://pmc.ncbi.nlm.nih.gov/articles/PMC13245948/) — Pediatric Neurosurgery 2025; CC BY-NC.*
+
 
 ![Chiari I Malformation Decompression — Fig. 3.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-05-fig-3-pne-2026-0061-0002-550058-f03-jpg.jpg)
 *Fig. 3.. a MRI at 2 years of age showing normal findings. MRI at 5 years of age (b) showing asymptomatic tonsillar ectopia that evolved to symptomatic CMI at 9 years of age (c). Despite adequate... Source: [Tailoring the Surgical Approach to Chiari I Malformation with Intraoperative Ultrasounds: Advantages, Limitations, and Controversies](https://pmc.ncbi.nlm.nih.gov/articles/PMC13245948/) — Pediatric Neurosurgery 2025; CC BY-NC.*
 
+
 ![Chiari I Malformation Decompression — Fig. 4.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-06-fig-4-pne-2026-0061-0002-550058-f04-jpg.jpg)
 *Fig. 4.. Sagittal MR showing CMI with cervical syringomyelia (a) in a 4-year-old boy who received bony decompression based on IOUS findings (b). Postoperative MR confirmed adequate decompression... Source: [Tailoring the Surgical Approach to Chiari I Malformation with Intraoperative Ultrasounds: Advantages, Limitations, and Controversies](https://pmc.ncbi.nlm.nih.gov/articles/PMC13245948/) — Pediatric Neurosurgery 2025; CC BY-NC.*
+
 
 ![Chiari I Malformation Decompression — Fig. 5.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-07-fig-5-pne-2026-0061-0002-550058-f05-jpg.jpg)
 *Fig. 5.. Sagittal MR showing symptomatic complex Chiari in an 8-year-old girl (a) who received bony decompression based on IOUS findings (b). c Radiological outcome on postoperative MR was... Source: [Tailoring the Surgical Approach to Chiari I Malformation with Intraoperative Ultrasounds: Advantages, Limitations, and Controversies](https://pmc.ncbi.nlm.nih.gov/articles/PMC13245948/) — Pediatric Neurosurgery 2025; CC BY-NC.*
 
+
 ![Chiari I Malformation Decompression — FIGURE 2.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-08-figure-2-neu-99-019-g002-jpg.jpg)
 *FIGURE 2.. Sunburst graph for each study. Left half shows the PFD (yellow) and PFD+ (gray) rates of index surgeries. Right half illustrates the proportion of successful PFD (green) and the... Source: [Intraoperative Ultrasound in Chiari 1 Decompression: Clarity or Confusion? A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13236052/) — Neurosurgery 2026; CC BY.*
 
+
 ![Chiari I Malformation Decompression — FIGURE 3.](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-09-figure-3-neu-99-019-g003-jpg.jpg)
 *FIGURE 3.. Proposed reporting framework for iUS studies, highlighting a minimum reporting checklist (green), possible emerging techniques (yellow), and relevant outcome measures (grey). Specific... Source: [Intraoperative Ultrasound in Chiari 1 Decompression: Clarity or Confusion? A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13236052/) — Neurosurgery 2026; CC BY.*
-
-![Chiari I Malformation Decompression — Fig. 5](../../figures/curated/case-prep-chiari-i-malformation-decompression/figure-10-fig-5-11689-2026-9691-fig5-html-jpg.jpg)
-*Fig. 5. Leave-one-out sensitivity analysis. After removing one study at a time and calculating the pooled prevalence through a random effects model, we found that no single study exerted a... Source: [The prevalence of autism in cerebellar malformations: a systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC13224601/) — Journal of Neurodevelopmental Disorders 2026; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
 
@@ -304,6 +309,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - Follow-up: 2-4 weeks clinic; MRI at 3-6 months and 1 year
 - Syrinx: Expect gradual improvement over 6-12 months; stable syrinx may not resolve but shouldn't progress
 - If symptoms recur or not improved: Reassess for instability, inadequate decompression, tethered cord
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Chiari I Malformation Decompression**:
+
+- **Decision point:** Define the symptom physiology: target circuit or offending vessel/nerve must match the history, exam, imaging, and intraoperative monitoring plan.
+- **Technical lever:** Small errors matter: trajectory, lead/contact position, arachnoid dissection, cranial-nerve handling, or mapping threshold can be the difference between success and morbidity.
+- **Bailout:** Have a stop rule: unacceptable mapping response, BAER/MEP/SSEP change, hemorrhage, CSF loss, poor target confidence, or patient intolerance should trigger a defined pivot.
+- **Postop watch:** Postop success requires programming/follow-up details: neurologic exam, imaging, medication adjustment, device restrictions, wound care, and symptom-specific outcome tracking.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

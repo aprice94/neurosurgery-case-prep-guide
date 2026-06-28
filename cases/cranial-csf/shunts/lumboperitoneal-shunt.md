@@ -62,29 +62,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Lumboperitoneal Shunt Placement — Figure 1.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-01-figure-1-amjcaserep-23-e935077-g001-jpg.jpg)
 *Figure 1.. Axial computed tomography (CT) scan depicting enlarged ventricles. (A) compared to prior CT scan (B) concerning for shunt failure. Anteroposterior (C) and lateral (D) shunt series X-rays... Source: [Ventriculoperitoneal Shunt Failure Due to Distal Peritoneal Catheter Kinking](https://pmc.ncbi.nlm.nih.gov/articles/PMC8994830/) — The American Journal of Case Reports 2022; CC BY-NC-ND.*
 
+
 ![Lumboperitoneal Shunt Placement — Figure 2.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-02-figure-2-amjcaserep-23-e935077-g002-jpg.jpg)
 *Figure 2.. Intraoperative images (A, B) demonstrating kinking of the distal catheter at the site of the distal peritoneal slit valves (arrow). Illustration (C) depicting the location of the... Source: [Ventriculoperitoneal Shunt Failure Due to Distal Peritoneal Catheter Kinking](https://pmc.ncbi.nlm.nih.gov/articles/PMC8994830/) — The American Journal of Case Reports 2022; CC BY-NC-ND.*
+
 
 ![Lumboperitoneal Shunt Placement — Figure 3.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-03-figure-3-amjcaserep-23-e935077-g003-jpg.jpg)
 *Figure 3.. Axial postoperative computed tomography (CT) scan depicting interval decrease in the size of the ventricles (A). Shunt series X-rays demonstrating intact shunt system with no kinking or... Source: [Ventriculoperitoneal Shunt Failure Due to Distal Peritoneal Catheter Kinking](https://pmc.ncbi.nlm.nih.gov/articles/PMC8994830/) — The American Journal of Case Reports 2022; CC BY-NC-ND.*
 
+
 ![Lumboperitoneal Shunt Placement — FIGURE 1.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-04-figure-1-opy044fig1-jpg.jpg)
 *FIGURE 1.. Shunt system experiments. Based on previous studies, we set the standing (vertical) pressure at 35 cmH2O and the supine (horizontal) position pressure at 10 cmH2O. We simulated CSF... Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
+
 
 ![Lumboperitoneal Shunt Placement — FIGURE 2.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-05-figure-2-opy044fig2-jpg.jpg)
 *FIGURE 2.. Comparison between the small-lumen abdominal catheter and gravitational add-on valve. We measured the flow rate (mL/h) at simulated standing (35 cmH2O) and supine (10 cmH2O) positions... Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
 
-![Lumboperitoneal Shunt Placement — FIGURE 3.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-06-figure-3-opy044fig3-jpg.jpg)
-*FIGURE 3.. Subject flow diagram. GV = gravity add-on valve, iNPH = idiopathic normal pressure hydrocephalus, LPS = lumboperitoneal shunt, MMSE = Mini Mental State Examination, PPV = programmable... Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
 
 ![Lumboperitoneal Shunt Placement — FIGURE 4.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-07-figure-4-opy044fig4-jpg.jpg)
 *FIGURE 4.. A lumbar 3-dimensional image obtained after LPS implantation with a gravity add-on valve and a Strata NSC programmable pressure valve. Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
 
+
 ![Lumboperitoneal Shunt Placement — FIGURE 5.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-08-figure-5-opy044fig5-jpg.jpg)
 *FIGURE 5.. mRS score changes after LPS implantation. Source: [Lumboperitoneal Shunts for the Treatment of Idiopathic Normal Pressure Hydrocephalus: A Comparison of Small-Lumen Abdominal Catheters to Gravitational Add-On Valves in a Single Center](https://pmc.ncbi.nlm.nih.gov/articles/PMC6373832/) — Operative Neurosurgery 2018; CC BY.*
 
+
 ![Lumboperitoneal Shunt Placement — Figure 1.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-09-figure-1-jsls-11-1-14-g01-jpg.jpg)
 *Figure 1.. Flow of cerebrospinal fluid is confirmed visually after lumboperitoneal shunt placement. Source: [Laparoscopic Management of Ventriculoperitoneal and Lumboperitoneal Shunt Complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC3015814/) — JSLS : Journal of the Society of Laparoendoscopic Surgeons 2007; CC BY-NC-ND.*
+
 
 ![Lumboperitoneal Shunt Placement — Figure 2.](../../../figures/curated/case-prep-lumboperitoneal-lp-shunt-placement/figure-10-figure-2-jsls-11-1-14-g02-jpg.jpg)
 *Figure 2.. Foreign body-detached prior shunt is visualized and retrieved. Source: [Laparoscopic Management of Ventriculoperitoneal and Lumboperitoneal Shunt Complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC3015814/) — JSLS : Journal of the Society of Laparoendoscopic Surgeons 2007; CC BY-NC-ND.*
@@ -203,6 +208,19 @@ The patient was transferred with monitoring for overdrainage (postural headache)
 - Shunt series baseline (LP shunt films), document valve setting
 - Monitor for acquired Chiari symptoms; counsel that LP function is harder to assess (clinical/imaging follow-up)
 - Weight management/medical therapy continuation (IIH)
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Lumboperitoneal (LP) Shunt Placement**:
+
+- **Decision point:** Trajectory and hardware choice should follow the failure mode: obstruction, infection, overdrainage, loculation, slit ventricle, distal failure, or wrong pressure setting.
+- **Technical lever:** Document the system: entry point, catheter target/depth, valve type and setting, distal site, antibiotic-impregnated hardware, and what imaging confirms placement.
+- **Bailout:** Rescue plan is practical: poor CSF return, bloody CSF, malposition, distal access failure, abdominal/pleural complication, or inability to safely pass the catheter.
+- **Postop watch:** Postop orders must be unambiguous: drain height/rate/max output, valve setting, clamp parameters, imaging, antibiotics, ICP/neuro checks, and overdrainage precautions.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

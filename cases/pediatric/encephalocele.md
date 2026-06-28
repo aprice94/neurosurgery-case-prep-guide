@@ -59,29 +59,10 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Encephalocele Repair — Figure 1](../../figures/curated/case-prep-encephalocele-repair/figure-01-figure-1-brainsci-13-00115-g001-jpg.jpg)
 *Figure 1. Preoperative computed tomography showing the anterior skull base defect (arrow) (A). MR images showing a prolapsed right rectal gyrus into the frontal sinus on T1-weighted image and... Source: [Frontal Encephalocele Plus Epilepsy: A Case Report and Review of the Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9857174/) — Brain Sciences 2023; CC BY.*
 
+
 ![Encephalocele Repair — Figure 2](../../figures/curated/case-prep-encephalocele-repair/figure-02-figure-2-brainsci-13-00115-g002-jpg.jpg)
 *Figure 2. Intraoperative ECoG showing interictal epileptiform discharges (black circle) at right frontal lateral cortex (A). Postoperative intraoperative ECoG showing no obvious interictal... Source: [Frontal Encephalocele Plus Epilepsy: A Case Report and Review of the Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC9857174/) — Brain Sciences 2023; CC BY.*
 
-![Encephalocele Repair — Fig. 1.](../../figures/curated/case-prep-encephalocele-repair/figure-03-fig-1-dmm-12-040683-g1-jpg.jpg)
-*Fig. 1.. Cranial and spinal defects in mouse fetuses with conditional deletion of Rac1. (A-F) Non-Cre control (A) and Grhl3Cre-Rac1 mutant fetuses (B-F) at E13.5. Fetuses with exencephaly (Exenc)... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
-
-![Encephalocele Repair — Fig. 2.](../../figures/curated/case-prep-encephalocele-repair/figure-04-fig-2-dmm-12-040683-g2-jpg.jpg)
-*Fig. 2.. Association of cranial, spinal and abdominal defects in Grhl3Cre-Rac1 mutants. (A) Number of Grhl3Cre-Rac1 mutant fetuses (E13.5-E18 pooled; n=29) with various combinations of cranial... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
-
-![Encephalocele Repair — Fig. 3.](../../figures/curated/case-prep-encephalocele-repair/figure-05-fig-3-dmm-12-040683-g3-jpg.jpg)
-*Fig. 3.. Grhl3Cre-Rac1 mutants with encephalocele or exencephaly exhibit calvarial skull defects. Grhl3Cre-Con (A,B,C); and Grhl3Cre-Rac1 (D-I) conditional mutants at E17.5. (A,D,G) Normal head... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
-
-![Encephalocele Repair — Fig. 4.](../../figures/curated/case-prep-encephalocele-repair/figure-06-fig-4-dmm-12-040683-g4-jpg.jpg)
-*Fig. 4.. Structure of late-stage fetal encephalocele in Grhl3Cre-Rac1 mutants. (A,H) Normal Grhl3Cre-Con fetus (A) and Grhl3Cre-Rac1 conditional mutant with occipito-parietal encephalocele (H) at... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
-
-![Encephalocele Repair — Fig. 5.](../../figures/curated/case-prep-encephalocele-repair/figure-07-fig-5-dmm-12-040683-g5-jpg.jpg)
-*Fig. 5.. First appearance of encephalocele in Grhl3Cre-Rac1 mutants. (A,H,O) Non-Cre control fetus (A) and Grhl3Cre-Rac1 conditional mutants with occipito-parietal encephalocele (Enceph; H,O) at... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
-
-![Encephalocele Repair — Fig. 6.](../../figures/curated/case-prep-encephalocele-repair/figure-08-fig-6-dmm-12-040683-g6-jpg.jpg)
-*Fig. 6.. Knockdown of Rac1 in surface ectoderm by Grhl3Cre-specific recombination. (A-D) In situ hybridisation on coronal sections through the midbrain region at E12.5, using an antisense RNA... Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Disease Models & Mechanisms 2019; CC BY.*
-
-![Encephalocele Repair — Figure 9](../../figures/curated/case-prep-encephalocele-repair/figure-09-figure-9-dmm-12-040683-i1-jpg.jpg)
-*Figure 9. Source: [Novel mouse model of encephalocele: post-neurulation origin and relationship to open neural tube defects](https://pmc.ncbi.nlm.nih.gov/articles/PMC6899037/) — Dis Model Mech. 2019 Nov 14;12(11):dmm040683. doi: 10.1242/dmm.040683; CC BY.*
 
 ![Encephalocele Repair — Figure 1](../../figures/curated/case-prep-encephalocele-repair/figure-10-figure-1-ajns-9-158-g001-jpg.jpg)
 *Figure 1. (a) The occipito-frontal circumference was 31 cm and (b) encephalocele circumference was 45 cm Source: [A giant occipital encephalocele with spontaneous hemorrhage into the sac: A rare case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4323900/) — Asian Journal of Neurosurgery 2014; CC BY-NC-SA.*
@@ -203,6 +184,19 @@ The infant was transferred to the NICU with head-circumference/US monitoring and
 - **CSF diversion (shunt/ETV) if hydrocephalus progresses** (common — can precipitate repair breakdown if untreated)
 - MRI postop, craniofacial/ENT follow-up (frontoethmoidal/basal), genetics if syndromic
 - Developmental follow-up, multidisciplinary care
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Encephalocele Repair**:
+
+- **Decision point:** The setup is age-specific: blood volume, warming, positioning pressure, airway, latex risk, family counseling, and ICU/PICU handoff differ from adults.
+- **Technical lever:** Preserve future options: growth, shunt dependence, cranioplasty/bone healing, endocrine/neurocognitive trajectory, and adjuvant therapy influence today’s choices.
+- **Bailout:** Have a complication script: blood loss, CSF leak, hydrocephalus, wound breakdown, posterior fossa mutism, infection, and airway/swallow risk should be anticipated.
+- **Postop watch:** Postop communication matters: family expectations, neurologic baseline, therapy needs, school/developmental supports, and surveillance imaging/labs should be clear.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

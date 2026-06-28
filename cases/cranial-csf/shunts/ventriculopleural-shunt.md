@@ -62,29 +62,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Ventriculopleural Shunt Placement — Fig. 1](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-01-fig-1-13052-2018-480-fig1-html-jpg.jpg)
 *Fig. 1. Sagittal MR image shows marked ventricular dilatation in our patient affected by Pfeiffer syndrome Source: [Pleural effusion from intrathoracic migration of a ventriculo-peritoneal shunt catheter: pediatric case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC5870185/) — Italian Journal of Pediatrics 2018; CC BY.*
 
+
 ![Ventriculopleural Shunt Placement — Fig. 2](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-02-fig-2-13052-2018-480-fig2-html-jpg.jpg)
 *Fig. 2. a Coronal plane of chest and abdomen CT scan demonstrating the dislocation of the distal end of VP shunt situated over the diaphragmatic cupola and within the pleural cavity. b Abdomen... Source: [Pleural effusion from intrathoracic migration of a ventriculo-peritoneal shunt catheter: pediatric case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC5870185/) — Italian Journal of Pediatrics 2018; CC BY.*
+
 
 ![Ventriculopleural Shunt Placement — Fig. 3](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-03-fig-3-13052-2018-480-fig3-html-jpg.jpg)
 *Fig. 3. Factors contributing to CSF hydrothorax with or without intrathoracic VP migration Source: [Pleural effusion from intrathoracic migration of a ventriculo-peritoneal shunt catheter: pediatric case report and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC5870185/) — Italian Journal of Pediatrics 2018; CC BY.*
 
+
 ![Ventriculopleural Shunt Placement — Fig. 1](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-04-fig-1-gr1-jpg.jpg)
 *Fig. 1. (A) Chest radiograph taken before thoracentesis demonstrating a large left-sided pleural effusion. (B) Post-thoracentesis chest radiograph demonstrating an air-fluid level over the left... Source: [Pleural cerebrospinal fluid shunting causing trapped lung: A respiratory physician's approach to management and prevention](https://pmc.ncbi.nlm.nih.gov/articles/PMC6199769/) — Respiratory Medicine Case Reports 2018; CC BY-NC-ND.*
+
 
 ![Ventriculopleural Shunt Placement — Fig. 2](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-05-fig-2-gr2-jpg.jpg)
 *Fig. 2. (A) Post-thoracentesis computed tomography scan showing left hydropneumothorax, left lung collapse, and rightwards mediastinum shift. Source: [Pleural cerebrospinal fluid shunting causing trapped lung: A respiratory physician's approach to management and prevention](https://pmc.ncbi.nlm.nih.gov/articles/PMC6199769/) — Respiratory Medicine Case Reports 2018; CC BY-NC-ND.*
 
+
 ![Ventriculopleural Shunt Placement — Figure 1](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-06-figure-1-atm-5-166-g001-jpg.jpg)
 *Figure 1. Chest X-ray of case 2 after the VPLS placement. Arrow shows the ventriculo-pleural shunt Source: [Pleural effusion following ventriculopleural shunt: Case reports and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2930656/) — Annals of Thoracic Medicine 2010; CC BY.*
+
 
 ![Ventriculopleural Shunt Placement — Figure 2](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-07-figure-2-atm-5-166-g002-jpg.jpg)
 *Figure 2. Chest X-ray of the case 2. left-sided large pleural effusion after the VPLS. Source: [Pleural effusion following ventriculopleural shunt: Case reports and review of the literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC2930656/) — Annals of Thoracic Medicine 2010; CC BY.*
 
+
 ![Ventriculopleural Shunt Placement — Fig. 1](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-08-fig-1-381-2016-3120-fig1-html-jpg.jpg)
 *Fig. 1. Range of ages at which the primary VA shunt was inserted Source: [Ultrasound guided placement of the distal catheter in paediatric ventriculoatrial shunts—an appraisal of efficacy and complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC4947480/) — Child's Nervous System 2016; CC BY.*
 
-![Ventriculopleural Shunt Placement — Fig. 2](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-09-fig-2-381-2016-3120-fig2-html-jpg.jpg)
-*Fig. 2. Kaplan-Meier curve of shunt survival over time (in years) Source: [Ultrasound guided placement of the distal catheter in paediatric ventriculoatrial shunts—an appraisal of efficacy and complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC4947480/) — Child's Nervous System 2016; CC BY.*
 
 ![Ventriculopleural Shunt Placement — Fig. 3](../../../figures/curated/case-prep-ventriculopleural-vpl-shunt-placement/figure-10-fig-3-381-2016-3120-fig3-html-jpg.jpg)
 *Fig. 3. Reasons for shunt failure Source: [Ultrasound guided placement of the distal catheter in paediatric ventriculoatrial shunts—an appraisal of efficacy and complications](https://pmc.ncbi.nlm.nih.gov/articles/PMC4947480/) — Child's Nervous System 2016; CC BY.*
@@ -218,6 +223,19 @@ The patient was transferred with respiratory monitoring and serial CXR surveilla
 - CT head (ventricles), shunt series baseline, document valve setting
 - **Monitor for pleural effusion** (dyspnea, decreased breath sounds — serial CXR; large effusion may need valve adjustment or conversion)
 - Follow-up imaging; counsel re: effusion risk
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Ventriculopleural (VPL) Shunt Placement**:
+
+- **Decision point:** Trajectory and hardware choice should follow the failure mode: obstruction, infection, overdrainage, loculation, slit ventricle, distal failure, or wrong pressure setting.
+- **Technical lever:** Document the system: entry point, catheter target/depth, valve type and setting, distal site, antibiotic-impregnated hardware, and what imaging confirms placement.
+- **Bailout:** Rescue plan is practical: poor CSF return, bloody CSF, malposition, distal access failure, abdominal/pleural complication, or inability to safely pass the catheter.
+- **Postop watch:** Postop orders must be unambiguous: drain height/rate/max output, valve setting, clamp parameters, imaging, antibiotics, ICP/neuro checks, and overdrainage precautions.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

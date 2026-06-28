@@ -60,32 +60,37 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Carpal Tunnel Release — Fig. 1](../../figures/curated/case-prep-carpal-tunnel-release/figure-01-fig-1-cios-6-253-g001-jpg.jpg)
-*Fig. 1. Introducing the cannula to the exit portal. HH: hook of hamate, KL: Kaplan line, TCL: transverse carpal ligament. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clinics in Orthopedic Surgery 2014; CC BY-NC.*
-
 ![Carpal Tunnel Release — Fig. 2](../../figures/curated/case-prep-carpal-tunnel-release/figure-02-fig-2-cios-6-253-g002-jpg.jpg)
 *Fig. 2. Undersurface of transverse carpal ligament with washboard appearance. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clinics in Orthopedic Surgery 2014; CC BY-NC.*
+
 
 ![Carpal Tunnel Release — Fig. 3](../../figures/curated/case-prep-carpal-tunnel-release/figure-03-fig-3-cios-6-253-g003-jpg.jpg)
 *Fig. 3. Triangular blade cutting the middle of the transverse carpal ligament in retrograde fashion. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clinics in Orthopedic Surgery 2014; CC BY-NC.*
 
+
 ![Carpal Tunnel Release — Fig. 4](../../figures/curated/case-prep-carpal-tunnel-release/figure-04-fig-4-cios-6-253-g004-jpg.jpg)
 *Fig. 4. Transection of the transverse carpal ligament by using a retrograde knife. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clinics in Orthopedic Surgery 2014; CC BY-NC.*
+
 
 ![Carpal Tunnel Release — Figure 5](../../figures/curated/case-prep-carpal-tunnel-release/figure-05-figure-5-cios-6-253-i001-jpg.jpg)
 *Figure 5. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clin Orthop Surg. 2014 Aug 5;6(3):253–7. doi: 10.4055/cios.2014.6.3.253; CC BY-NC.*
 
+
 ![Carpal Tunnel Release — Figure 6](../../figures/curated/case-prep-carpal-tunnel-release/figure-06-figure-6-cios-6-253-i002-jpg.jpg)
 *Figure 6. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clin Orthop Surg. 2014 Aug 5;6(3):253–7. doi: 10.4055/cios.2014.6.3.253; CC BY-NC.*
+
 
 ![Carpal Tunnel Release — Figure 7](../../figures/curated/case-prep-carpal-tunnel-release/figure-07-figure-7-cios-6-253-i003-jpg.jpg)
 *Figure 7. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clin Orthop Surg. 2014 Aug 5;6(3):253–7. doi: 10.4055/cios.2014.6.3.253; CC BY-NC.*
 
+
 ![Carpal Tunnel Release — Figure 8](../../figures/curated/case-prep-carpal-tunnel-release/figure-08-figure-8-cios-6-253-i004-jpg.jpg)
 *Figure 8. Source: [Current Approaches for Carpal Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143510/) — Clin Orthop Surg. 2014 Aug 5;6(3):253–7. doi: 10.4055/cios.2014.6.3.253; CC BY-NC.*
 
+
 ![Carpal Tunnel Release — Figure 1](../../figures/curated/case-prep-carpal-tunnel-release/figure-09-figure-1-nrr-8-1418-g001-jpg.jpg)
 *Figure 1. Results of median motor nerve studies in patients with carpal tunnel syndrome.Data are expressed as mean ± SD. Group I had minimal carpal tunnel syndrome, and group II had mild or... Source: [Axonal degeneration of the ulnar nerve secondary to carpal tunnel syndrome: fact or fiction?☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC4107769/) — Neural Regeneration Research 2013; CC BY-NC-SA.*
+
 
 ![Carpal Tunnel Release — Figure 2](../../figures/curated/case-prep-carpal-tunnel-release/figure-10-figure-2-nrr-8-1418-g002-jpg.jpg)
 *Figure 2. Results of median sensory nerve studies in patients with carpal tunnel syndrome.Data are expressed as mean ± SD. Group I had minimal carpal tunnel syndrome, and group II had mild or... Source: [Axonal degeneration of the ulnar nerve secondary to carpal tunnel syndrome: fact or fiction?☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC4107769/) — Neural Regeneration Research 2013; CC BY-NC-SA.*
@@ -224,6 +229,19 @@ The tourniquet was released, hemostasis obtained, and the skin closed. A soft dr
 - Suture removal ~10-14 days; expect night symptoms to improve quickly, strength/atrophy slower
 - Activity progression, scar massage, pillar pain counseling
 - Follow-up 2 weeks; therapy if needed
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Carpal Tunnel Release**:
+
+- **Decision point:** Localization is everything: symptoms, exam, Tinel point, EMG/NCS, ultrasound/MRI, and provocative maneuvers must agree before incision.
+- **Technical lever:** Protect fascicles and blood supply: internal neurolysis, tumor shelling, graft/transfer decisions, tourniquet time, and stimulation thresholds should be deliberate.
+- **Bailout:** Know when not to chase: dense scarring, malignant features, unclear fascicular anatomy, or unexpected motor fascicle involvement may justify biopsy, subtotal resection, or staged reconstruction.
+- **Postop watch:** Postop orders should preserve the repair: splint/immobilization interval, therapy timing, sensory protection, pain plan, and expected recovery timeline.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

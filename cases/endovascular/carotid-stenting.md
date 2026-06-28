@@ -57,32 +57,33 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Carotid Artery Angioplasty Stenting — Figure 1](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-01-figure-1-bc-7-281-g001-jpg.jpg)
-*Figure 1. (a) Work incidence of pretreatment three-dimensional angiography showing the characteristic string of bead appearance of fibromuscular dysplasia in the right cervical internal carotid... Source: [Casper stent in the treatment of pulsatile tinnitus in fibromuscular dysplasia: Therapeutic review and case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8757508/) — Brain Circulation 2021; CC BY-NC-SA.*
-
 ![Carotid Artery Angioplasty Stenting — Figure 2](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-02-figure-2-bc-7-281-g002-jpg.jpg)
 *Figure 2. (a) Follow-up computed tomography angiogram, 12 months after stenting. The image showing the right cervical internal carotid artery in the sagittal plane. (b) Follow-up computed... Source: [Casper stent in the treatment of pulsatile tinnitus in fibromuscular dysplasia: Therapeutic review and case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC8757508/) — Brain Circulation 2021; CC BY-NC-SA.*
+
 
 ![Carotid Artery Angioplasty Stenting — Figure 1](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-03-figure-1-cureus-0012-00000008541-i01-jpg.jpg)
 *Figure 1. Pre- and post-operative brain images.A: Pre-operative diffusion weighted brain MRI showing previous punctate infarcts in the right middle cerebral artery territory (arrows). B: Cervical... Source: [Concomitant Reversible Cerebral Vasoconstriction and Hyperperfusion Syndromes Following Carotid Endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7357340/) — Cureus 2020; CC BY.*
 
+
 ![Carotid Artery Angioplasty Stenting — Figure 2](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-04-figure-2-cureus-0012-00000008541-i02-jpg.jpg)
 *Figure 2. Cerebral angiogram.A: Catheter angiogram images showing resolution of right internal carotid artery stenosis after endarterectomy. Arrow points to the internal carotid artery.... Source: [Concomitant Reversible Cerebral Vasoconstriction and Hyperperfusion Syndromes Following Carotid Endarterectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7357340/) — Cureus 2020; CC BY.*
+
 
 ![Carotid Artery Angioplasty Stenting — Figure 1](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-05-figure-1-neurintsurg-2021-018523f01-jpg.jpg)
 *Figure 1. Readmission rates after CEA or CAS in asymptomatic and symptomatic patients. CAS=carotid artery stenting; CEA=carotid endarterectomy. Source: [Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database](https://pmc.ncbi.nlm.nih.gov/articles/PMC9985736/) — Journal of Neurointerventional Surgery 2023; CC BY-NC.*
 
+
 ![Carotid Artery Angioplasty Stenting — Figure 2](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-06-figure-2-neurintsurg-2021-018523f02-jpg.jpg)
 *Figure 2. Trends in readmission rates (A, B) and APC (C, D) from 2010 to 2015 in asymptomatic and symptomatic patients. APC=annual percent change; CAS=carotid artery stenting; CEA=carotid... Source: [Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database](https://pmc.ncbi.nlm.nih.gov/articles/PMC9985736/) — Journal of Neurointerventional Surgery 2023; CC BY-NC.*
+
 
 ![Carotid Artery Angioplasty Stenting — Figure 3](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-07-figure-3-neurintsurg-2021-018523f03-jpg.jpg)
 *Figure 3. Grouped categories tabulating proportion of causes of readmission for asymptomatic stenosis (left) and symptomatic stenosis (right). CAS=carotid artery stenting; CEA=carotid... Source: [Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database](https://pmc.ncbi.nlm.nih.gov/articles/PMC9985736/) — Journal of Neurointerventional Surgery 2023; CC BY-NC.*
 
-![Carotid Artery Angioplasty Stenting — Figure 4](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-08-figure-4-neurintsurg-2021-018523f04-jpg.jpg)
-*Figure 4. Postoperative adverse events or outcome at initial carotid revascularization and risk ratio of 30-day readmission. CAS=carotid artery stenting; CEA=carotid endarterectomy; CI=CI... Source: [Unplanned readmission after carotid stenting versus endarterectomy: analysis of the United States Nationwide Readmissions Database](https://pmc.ncbi.nlm.nih.gov/articles/PMC9985736/) — Journal of Neurointerventional Surgery 2023; CC BY-NC.*
 
 ![Carotid Artery Angioplasty Stenting — Figure 1](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-09-figure-1-fneur-13-739999-g0001-jpg.jpg)
 *Figure 1. Average 12-month outcomes for every 85 patients with asymptomatic carotid stenosis randomized to CEA in ACAS (35). Calculated from ACAS data regarding patients with 60–99% asymptomatic... Source: [Extra-Cranial Carotid Artery Stenosis: An Objective Analysis of the Available Evidence](https://pmc.ncbi.nlm.nih.gov/articles/PMC9253595/) — Frontiers in Neurology 2022; CC BY.*
+
 
 ![Carotid Artery Angioplasty Stenting — Figure 2](../../figures/curated/case-prep-carotid-artery-angioplasty-and-stenting-cas/figure-10-figure-2-fneur-13-739999-g0002-jpg.jpg)
 *Figure 2. Average 12-month outcomes for every 31 symptomatic patients randomized to CEA in NASCET, ECST, and VACS. Calculated from pooled randomized trial data regarding symptomatic patients with... Source: [Extra-Cranial Carotid Artery Stenosis: An Objective Analysis of the Available Evidence](https://pmc.ncbi.nlm.nih.gov/articles/PMC9253595/) — Frontiers in Neurology 2022; CC BY.*
@@ -231,6 +232,19 @@ The patient was transferred with strict BP control (hyperperfusion), telemetry (
 - Duplex surveillance: establish a post-stent baseline, then repeat per local protocol; in-stent velocities can differ from native ICA thresholds.
 - Secondary prevention: statin intensity, smoking cessation, diabetes/BP control, sleep apnea management, and antiplatelet duration documented before discharge.
 - If DAPT must be interrupted for another procedure, discuss with the stenting team first; early interruption risks acute stent thrombosis.
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Carotid Artery Angioplasty and Stenting (CAS)**:
+
+- **Decision point:** The operation is won or lost on control: identify inflow, outflow, perforators, collateral options, and the fastest route to temporary control before exposing the lesion itself.
+- **Technical lever:** Do not accept a cosmetic result over physiology: ICG/Doppler/DSA, branch patency, perforator preservation, and parent-vessel caliber matter more than how the clip or resection bed looks.
+- **Bailout:** Have a rupture or ischemia script ready: lower pressure, suction strategy, temporary occlusion time, heparin/reversal plan, bypass/reconstruction threshold, and postop BP targets.
+- **Postop watch:** Postop danger is delayed: vasospasm, thromboembolism, hyperperfusion, hemorrhage, edema, hydrocephalus, and seizure plans need explicit orders.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

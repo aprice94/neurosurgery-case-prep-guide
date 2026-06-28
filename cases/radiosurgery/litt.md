@@ -204,6 +204,19 @@ The patient was transferred [to the ICU overnight] with a short steroid course f
 - Pathology note: **LITT does not provide tissue** — biopsy at same setting if diagnosis needed
 - Tumor: oncology follow-up, surveillance MRI (ablation cavity evolves); Epilepsy: seizure-outcome tracking, AED management; Radiation necrosis: symptom/steroid follow-up
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Laser Interstitial Thermal Therapy (LITT)**:
+
+- **Decision point:** The target must answer the question: choose tissue/trajectory/dose based on diagnostic yield, molecular testing, treatment impact, and safest corridor.
+- **Technical lever:** Risk lives along the path: vessels, sulci, ventricles, necrotic center, eloquent tracts, prior radiation, and anticoagulation decide whether the plan is acceptable.
+- **Bailout:** Confirm before committing: frame/robot registration, coordinates, fiducials, trajectory collision, specimen adequacy, and postop scan threshold should be explicit.
+- **Postop watch:** Postop plan should anticipate the rare catastrophe: hemorrhage, edema, seizure, steroid need, neurologic checks, pathology handoff, and treatment-board timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions

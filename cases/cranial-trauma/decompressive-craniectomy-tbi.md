@@ -67,32 +67,29 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Decompressive Craniectomy Traumatic Brain Injury — Figure 1.](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-01-figure-1-medi-102-e36633-g001-jpg.jpg)
-*Figure 1.. Guidelines flow diagram. Source: [Comparison of the effects of stepwise intracranial decompression and decompressive craniectomy in the treatment of severe traumatic brain injury: A randomized controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10735114/) — Medicine 2023; CC BY-NC.*
-
 ![Decompressive Craniectomy Traumatic Brain Injury — Figure 1](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-02-figure-1-cureus-0014-00000029894-i01-jpg.jpg)
 *Figure 1. In DC, the bone flap needs to be at least 12 cm × 15 cm. It has been associated with better outcome.Authors' own creation/patient. Source: [Primary Decompressive Craniectomy After Traumatic Brain Injury: A Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9631546/) — Cureus 2022; CC BY.*
+
 
 ![Decompressive Craniectomy Traumatic Brain Injury — Figure 2](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-03-figure-2-cureus-0014-00000029894-i02-jpg.jpg)
 *Figure 2. Postoperative intracerebral bleeding ("blooming or blossoming contusions") due to ICP reduction after DC is commonly seen and is associated with worse functional long-term... Source: [Primary Decompressive Craniectomy After Traumatic Brain Injury: A Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9631546/) — Cureus 2022; CC BY.*
 
+
 ![Decompressive Craniectomy Traumatic Brain Injury — Figure 3](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-04-figure-3-cureus-0014-00000029894-i03-jpg.jpg)
 *Figure 3. (A) Midline shift greater than hematoma thickness ratio; (B) and (C) effaced basal cisterns.Authors' own creation/patient. Source: [Primary Decompressive Craniectomy After Traumatic Brain Injury: A Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9631546/) — Cureus 2022; CC BY.*
+
 
 ![Decompressive Craniectomy Traumatic Brain Injury — Figure 4](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-05-figure-4-cureus-0014-00000029894-i04-jpg.jpg)
 *Figure 4. Cranioplasty.Authors' own creation/patient. Source: [Primary Decompressive Craniectomy After Traumatic Brain Injury: A Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9631546/) — Cureus 2022; CC BY.*
 
-![Decompressive Craniectomy Traumatic Brain Injury — Fig. 10](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-06-fig-10-40001-2025-2428-fig10-html-jpg.jpg)
-*Fig. 10. gvjkvvkjck kjcn, m Source: [Effectiveness of controlled decompression against conventional decompression methods for the management of severe traumatic brain injury patients: a meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11921676/) — European Journal of Medical Research 2025; CC BY-NC-ND.*
-
-![Decompressive Craniectomy Traumatic Brain Injury — Figure 1](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-07-figure-1-fneur-15-1423329-g001-jpg.jpg)
-*Figure 1. Incidence rate of TBI in countries with different income levels in the world. (A) Incidence of TBI worldwide WHO region. (B) Differences in mortality of TBI by country-income group. (C)... Source: [Global traumatic brain injury intracranial pressure: from monitoring to surgical decision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11442239/) — Frontiers in Neurology 2024; CC BY.*
 
 ![Decompressive Craniectomy Traumatic Brain Injury — Figure 8](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-08-figure-8-sni-4-128-g002-jpg.jpg)
 *Figure 8. Source: [Pediatric traumatic brain injuries treated with decompressive craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3815000/) — Surg Neurol Int. 2013 Sep 27;4:128. doi: 10.4103/2152-7806.119055; CC BY-NC-SA.*
 
+
 ![Decompressive Craniectomy Traumatic Brain Injury — Fig. 1](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-09-fig-1-381-2017-3534-fig1-html-jpg.jpg)
 *Fig. 1. This figure shows an example monitoring trace of a patient with intracranial hypertension as a result of a traumatic brain injury. The trace demonstrates a sustained plateau of... Source: [Decompressive craniectomy for traumatic intracranial hypertension: application in children](https://pmc.ncbi.nlm.nih.gov/articles/PMC5587789/) — Child's Nervous System 2017; CC BY.*
+
 
 ![Decompressive Craniectomy Traumatic Brain Injury — Fig. 2](../../figures/curated/case-prep-decompressive-craniectomy-for-traumatic-brain-injury/figure-10-fig-2-381-2017-3534-fig2-html-jpg.jpg)
 *Fig. 2. Representative image of paediatric patients with raised intracranial pressure. a Fourteen-year-old patient with acute subdural haematoma (ASDH), opening ICP 32 mmHg. b Seven-year-old... Source: [Decompressive craniectomy for traumatic intracranial hypertension: application in children](https://pmc.ncbi.nlm.nih.gov/articles/PMC5587789/) — Child's Nervous System 2017; CC BY.*
@@ -358,6 +355,19 @@ The patient was transported intubated and sedated to the NSICU in [critical but 
 - Neurosurgery clinic: 2-4 weeks postop (wound check, CT head, neurological assessment)
 - Cranioplasty scheduling: 6-12 weeks (with pre-op CT for implant planning)
 - Long-term: seizure monitoring, cognitive rehabilitation, neuropsychological evaluation
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Decompressive Craniectomy for Traumatic Brain Injury**:
+
+- **Decision point:** Treat physiology while preparing the room: airway, reversal, transfusion, ICP/CPP, sodium/osmolality, temperature, and repeat imaging drive timing as much as the scan finding.
+- **Technical lever:** Know the operative priority: decompression, hemorrhage control, debridement, dural closure, reconstruction, stabilization, or contamination control.
+- **Bailout:** Plan for swelling and coagulopathy: bone flap decision, duraplasty size, drain/EVD need, hemostatic adjuncts, and ICU handoff should be decided early.
+- **Postop watch:** Postop failure modes are predictable: expanding hematoma, malignant edema, seizure, infection, CSF leak, venous sinus injury, and missed associated spine/vascular injury.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

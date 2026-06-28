@@ -61,29 +61,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 1](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-01-figure-1-fnana-05-00065-g001-jpg.jpg)
 *Figure 1. The comprehensive neuroanatomical picture formed by synthesizing hundreds of original neuroanatomical studies into the homotypical blueprint underlying cognition. The interactive... Source: [Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3243081/) — Frontiers in Neuroanatomy 2011; CC BY-NC.*
 
+
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 3](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-02-figure-3-fnana-05-00065-g003-jpg.jpg)
 *Figure 3. Prediction of human laminar corticocortical projections. Synthesis of von Economo cortical laminar types and homotypical laminar corticocortical projections in the monkey. Lateral (A)... Source: [Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3243081/) — Frontiers in Neuroanatomy 2011; CC BY-NC.*
+
 
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 4](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-03-figure-4-fnana-05-00065-g004-jpg.jpg)
 *Figure 4. Cognitive circuits as shown at http://www.frontiersin.org/files/cognitiveconsilience/index.html. Circuits from left to right. Orange: consolidated declarative long-term memory. Green:... Source: [Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3243081/) — Frontiers in Neuroanatomy 2011; CC BY-NC.*
 
+
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 5](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-04-figure-5-fnana-05-00065-g005-jpg.jpg)
 *Figure 5. Summary diagram of proposed flow of cognitive information. Seven of the circuits described in the text are shown to illustrate a summarized functional viewpoint of the hypothesized flow... Source: [Cognitive Consilience: Primate Non-Primary Neuroanatomical Circuits Underlying Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3243081/) — Frontiers in Neuroanatomy 2011; CC BY-NC.*
+
 
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 5](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-05-figure-5-brb3-15-e70604-g001-jpg.jpg)
 *Figure 5. Source: [Cognitive Profiles and Determinants of Eligibility for Awake Surgery in Non‐Dominant Hemisphere Gliomas: A Narrative Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12123447/) — Brain Behav. 2025 May 30;15(6):e70604. doi: 10.1002/brb3.70604; CC BY.*
 
+
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 2](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-06-figure-2-pone-0107850-g002-jpg.jpg)
 *Figure 2. Restoration of DMN under mechanical ventilation.(A). Comparison of BOLD signal between MV and SB revealed a specific increase of activation in the default-mode network associated in... Source: [The Cerebral Cost of Breathing: An fMRI Case-Study in Congenital Central Hypoventilation Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4182437/) — PLoS ONE 2014; CC0.*
+
 
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 1](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-07-figure-1-fnhum-15-612890-g0001-jpg.jpg)
 *Figure 1. Inclusion criteria. A total of 139 patients who underwent awake surgery in our institution were included; 36 of them matched our inclusion criteria. Of these, 22 patients underwent... Source: [Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7920969/) — Frontiers in Human Neuroscience 2021; CC BY.*
 
+
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 3](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-08-figure-3-fnhum-15-612890-g0003-jpg.jpg)
 *Figure 3. Distribution of the positive mapping sites (Aa, white circle) and regions with negative responses (Ab, dark blue circle) at the cortical level. Each positive mapping site is stimulated... Source: [Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7920969/) — Frontiers in Human Neuroscience 2021; CC BY.*
 
-![Awake Craniotomy Cortical Subcortical Mapping — Figure 5](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-09-figure-5-fnhum-15-612890-g0005-jpg.jpg)
-*Figure 5. Time course of assessment for basic emotion in patients whose positive mappings were identified during awake surgery. The figure of time series of individuals (A) indicates that three... Source: [Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7920969/) — Frontiers in Human Neuroscience 2021; CC BY.*
 
 ![Awake Craniotomy Cortical Subcortical Mapping — Figure 6](../../figures/curated/case-prep-awake-craniotomy-with-cortical-subcortical-mapping/figure-10-figure-6-fnhum-15-612890-g0006-jpg.jpg)
 *Figure 6. Pre- and postoperative magnetic resonance (MR) images (gadolinium-enhanced T1 image for Case 1 and FLAIR image for Case 2) and intraoperative findings of illustrative two cases are... Source: [Preserving Right Pre-motor and Posterior Prefrontal Cortices Contribute to Maintaining Overall Basic Emotion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7920969/) — Frontiers in Human Neuroscience 2021; CC BY.*
@@ -205,6 +210,19 @@ Hemostasis was obtained and closure performed. The patient was transferred to th
 - Expect possible transient deficit (e.g., SMA syndrome, transient aphasia) with recovery; speech/PT/OT
 - Steroid taper, AEDs, DVT prophylaxis
 - Pathology/molecular; tumor board; rehab referral
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Awake Craniotomy with Cortical/Subcortical Mapping**:
+
+- **Decision point:** Define the symptom physiology: target circuit or offending vessel/nerve must match the history, exam, imaging, and intraoperative monitoring plan.
+- **Technical lever:** Small errors matter: trajectory, lead/contact position, arachnoid dissection, cranial-nerve handling, or mapping threshold can be the difference between success and morbidity.
+- **Bailout:** Have a stop rule: unacceptable mapping response, BAER/MEP/SSEP change, hemorrhage, CSF loss, poor target confidence, or patient intolerance should trigger a defined pivot.
+- **Postop watch:** Postop success requires programming/follow-up details: neurologic exam, imaging, medication adjustment, device restrictions, wound care, and symptom-specific outcome tracking.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

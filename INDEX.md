@@ -15,6 +15,15 @@ title: Home
   </div>
 </div>
 
+<div class="how-use" id="how-to-use">
+  <h2>How to use</h2>
+  <ol>
+    <li><strong>Filter</strong> above or browse by region to open the relevant guide.</li>
+    <li>Review positioning, approach, critical anatomy, and the step-by-step technique; use linked approach chapters for corridor-level detail.</li>
+    <li>Copy the guide and fill bracketed fields with patient specifics only in your own secure system, not in this public repository.</li>
+  </ol>
+</div>
+
 <div class="cards">
   <a class="card approaches" href="#approaches"><span class="ic">🧭</span><span class="t">Operative Approaches</span><span class="d">Corridor-by-corridor technique chapters</span><span class="n">18 chapters</span></a>
   <a class="card aids" href="{{ site.cranipro_url | relative_url }}"><span class="ic">📐</span><span class="t">CraniPro</span><span class="d">Interactive Mayfield pin placement and positioning simulator</span><span class="n">3D app</span></a>
@@ -225,13 +234,6 @@ title: Home
 - [Pediatric posterior fossa tumor](cases/pediatric/pediatric-posterior-fossa-tumor.md)
 - [Pediatric ETV (± CPC)](cases/pediatric/pediatric-etv.md)
 - [Selective dorsal rhizotomy (SDR)](cases/pediatric/selective-dorsal-rhizotomy.md)
-
----
-
-## How to use
-1. **Filter** above or browse by region to open the relevant guide.
-2. Review positioning, approach, critical anatomy, and the step-by-step technique (and the linked **approach chapter** for granular corridor detail).
-3. Copy the guide and fill the bracketed `[ ]` fields with the patient's specifics — keep patient-identifiable details on your own secure system, **not** in this public repository.
 
 <p class="muted" id="no-hits" style="display:none; text-align:center; padding:18px;">No guides match — try a different term.</p>
 

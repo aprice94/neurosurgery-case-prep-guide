@@ -67,35 +67,8 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Craniopharyngioma Resection — Fig. 2](../../figures/curated/case-prep-craniopharyngioma-resection/figure-01-fig-2-11102-2025-1611-fig2-html-jpg.jpg)
-*Fig. 2. Sleep quality. Risk of study quality bias (%) was assessed by NIH quality assessment, which is applicable to different study designs and examines each study's internal validity by a set... Source: [Sleep disturbances in craniopharyngioma: a systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12669364/) — Pituitary 2025; CC BY-NC-ND.*
-
-![Craniopharyngioma Resection — Fig. 3](../../figures/curated/case-prep-craniopharyngioma-resection/figure-02-fig-3-11102-2025-1611-fig3-html-jpg.jpg)
-*Fig. 3. Pooled mean of PSQI score in patients with craniopharyngioma Source: [Sleep disturbances in craniopharyngioma: a systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12669364/) — Pituitary 2025; CC BY-NC-ND.*
-
-![Craniopharyngioma Resection — Fig. 4](../../figures/curated/case-prep-craniopharyngioma-resection/figure-03-fig-4-11102-2025-1611-fig4-html-jpg.jpg)
-*Fig. 4. a Proportion of subjective EDS in patients with craniopharyngioma by ESS. b Pooled mean of ESS score in patients with craniopharyngioma. c SMDcomparison of ESS score in patients with... Source: [Sleep disturbances in craniopharyngioma: a systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12669364/) — Pituitary 2025; CC BY-NC-ND.*
-
-![Craniopharyngioma Resection — Fig. 5](../../figures/curated/case-prep-craniopharyngioma-resection/figure-04-fig-5-11102-2025-1611-fig5-html-jpg.jpg)
-*Fig. 5. Proportion of objective EDS in patients with craniopharyngioma by MSLT Source: [Sleep disturbances in craniopharyngioma: a systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12669364/) — Pituitary 2025; CC BY-NC-ND.*
-
-![Craniopharyngioma Resection — Fig. 6](../../figures/curated/case-prep-craniopharyngioma-resection/figure-05-fig-6-11102-2025-1611-fig6-html-jpg.jpg)
-*Fig. 6. Proportion of EDS in patients with craniopharyngioma by ESS and MSLT Source: [Sleep disturbances in craniopharyngioma: a systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12669364/) — Pituitary 2025; CC BY-NC-ND.*
-
 ![Craniopharyngioma Resection — Figure 1](../../figures/curated/case-prep-craniopharyngioma-resection/figure-06-figure-1-ol-09-01-0075-g00-jpg.jpg)
 *Figure 1. (A) Adamantinomatous and (B) squamous-papillary craniopharyngioma section images captured using light microscopy (stain, hematoxylin and eosin; magnification, ×400). Source: [Craniopharyngioma: Survivin expression and ultrastructure](https://pmc.ncbi.nlm.nih.gov/articles/PMC4246612/) — Oncology Letters 2015; CC BY.*
-
-![Craniopharyngioma Resection — Figure 2](../../figures/curated/case-prep-craniopharyngioma-resection/figure-07-figure-2-ol-09-01-0075-g01-jpg.jpg)
-*Figure 2. Transferase dUTP nick end labeling-peroxidase staining of craniopharyngioma sections demonstrating cell apoptosis in (A) adamantinomatous and (B) squamous-papillary craniopharyngioma... Source: [Craniopharyngioma: Survivin expression and ultrastructure](https://pmc.ncbi.nlm.nih.gov/articles/PMC4246612/) — Oncology Letters 2015; CC BY.*
-
-![Craniopharyngioma Resection — Figure 3](../../figures/curated/case-prep-craniopharyngioma-resection/figure-08-figure-3-ol-09-01-0075-g02-jpg.jpg)
-*Figure 3. Electron microscopy of various types of tumor cell, including (A) apoptotic, (B) necrotic and (C) craniopharyngioma tumor cells (magnification, ×10,000). Source: [Craniopharyngioma: Survivin expression and ultrastructure](https://pmc.ncbi.nlm.nih.gov/articles/PMC4246612/) — Oncology Letters 2015; CC BY.*
-
-![Craniopharyngioma Resection — Figure 4](../../figures/curated/case-prep-craniopharyngioma-resection/figure-09-figure-4-ol-09-01-0075-g03-jpg.jpg)
-*Figure 4. Survivin expression levels in 50 craniopharyngioma samples, including (A) adamantinomatous and (B) squamous-papillary craniopharyngioma tissues, and (C) 10 healthy control samples... Source: [Craniopharyngioma: Survivin expression and ultrastructure](https://pmc.ncbi.nlm.nih.gov/articles/PMC4246612/) — Oncology Letters 2015; CC BY.*
-
-![Craniopharyngioma Resection — Figure 1](../../figures/curated/case-prep-craniopharyngioma-resection/figure-10-figure-1-metabolites-14-00338-g001-jpg.jpg)
-*Figure 1. Outline of study workflows. p-value a refer to comparison among three group; * p < 0.05, ** p < 0.01, *** p < 0.001 vs. normal group with Bonferroni correction; ††† p < 0.001 vs.... Source: [Serum Metabolomic and Lipidomic Profiling Reveals the Signature for Postoperative Obesity among Adult-Onset Craniopharyngioma](https://pmc.ncbi.nlm.nih.gov/articles/PMC11205291/) — Metabolites 2024; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
 
@@ -218,6 +191,19 @@ Closure was completed and the patient transferred to the ICU with intensive DI/s
 - MRI postop, ophthalmology, visual fields
 - Residual → radiation/proton therapy planning; long-term surveillance
 - Hypothalamic dysfunction monitoring (weight, behavior)
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Craniopharyngioma Resection**:
+
+- **Decision point:** Decide the real endpoint before opening: cure, cytoreduction, diagnosis, decompression, separation from critical structures, or safe maximal resection.
+- **Technical lever:** Map what must be left behind: perforators, cranial nerves, venous sinuses, eloquent cortex/tracts, hypothalamus/pituitary axis, and adherent capsule planes.
+- **Bailout:** Sequence matters: devascularize early when safe, create CSF/working space, debulk before traction, and preserve the arachnoid plane unless oncologic goals justify violating it.
+- **Postop watch:** The postop plan should match the risk structure: endocrine/vision/swallow/CN checks, steroid taper, seizure plan, MRI timing, CSF-leak watch, and adjuvant-treatment handoff.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

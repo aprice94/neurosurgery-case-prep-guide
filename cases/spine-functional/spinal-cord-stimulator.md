@@ -62,29 +62,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Spinal Cord Stimulator Placement — Fig. 1](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-01-fig-1-jksr-83-938-g001-jpg.jpg)
 *Fig. 1. An intradural extramedullary epidermoid cyst formed at the T9 after spinal cord stimulator insertion in a 50-year-old female.A. The T2-weighted (TR/TE 3100/105) sagittal MRI image... Source: [척수 자극기 삽입술을 받았던 환자에게 드물게 생긴 흉추부 경막내 표피양 낭종: 증례 보고](https://pmc.ncbi.nlm.nih.gov/articles/PMC9514589/) — Journal of the Korean Society of Radiology 2022; CC BY-NC.*
 
+
 ![Spinal Cord Stimulator Placement — Figure 1](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-02-figure-1-sensors-22-00501-g001-jpg.jpg)
 *Figure 1. A fully implantable neural stimulation system. The neural stimulator consisting of an implantable pulse generator and stimulation electrodes are located outside of the vertebra and at... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
+
 
 ![Spinal Cord Stimulator Placement — Figure 2](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-03-figure-2-sensors-22-00501-g002-jpg.jpg)
 *Figure 2. (a) A block diagram of the neural stimulator and the external relay. The internal device receives power and data from the external relay through 2.5 MHz inductive link to generate a... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
 
+
 ![Spinal Cord Stimulator Placement — Figure 3](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-04-figure-3-sensors-22-00501-g003-jpg.jpg)
 *Figure 3. (a) Fabricated implantable neural stimulator; (b) Electrode part; (c) Circuit layer; and (d) coil layer in the package. Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
+
 
 ![Spinal Cord Stimulator Placement — Figure 4](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-05-figure-4-sensors-22-00501-g004-jpg.jpg)
 *Figure 4. Exemplar waveform of the wireless operation of spinal cord stimulator and its stimulation current pulse generation. The voltage measured across the (a) the transmitter coil and (b) the... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
 
+
 ![Spinal Cord Stimulator Placement — Figure 5](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-06-figure-5-sensors-22-00501-g005-jpg.jpg)
 *Figure 5. Electrochemical characterization of the stimulation electrodes array. (a) Electrochemical impedance spectroscopy (EIS) measurements as represented by the mean (black line) and the... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
 
-![Spinal Cord Stimulator Placement — Figure 6](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-07-figure-6-sensors-22-00501-g006-jpg.jpg)
-*Figure 6. (a) Surgical implantation of a neural stimulator in the rat model of neuropathic pain. (b) Photograph of the rat after surgery, and (c) confirmation of implantation using X-ray images.... Source: [A Fully Implantable Miniaturized Liquid Crystal Polymer (LCP)-Based Spinal Cord Stimulator for Pain Control](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778878/) — Sensors (Basel, Switzerland) 2022; CC BY.*
 
 ![Spinal Cord Stimulator Placement — Figure 1](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-08-figure-1-brainsci-15-00616-g001-jpg.jpg)
 *Figure 1. Spinal cord stimulation explained. Source: [Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12190327/) — Brain Sciences 2025; CC BY.*
 
+
 ![Spinal Cord Stimulator Placement — Figure 2](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-09-figure-2-brainsci-15-00616-g002-jpg.jpg)
 *Figure 2. Study timeline. Source: [Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12190327/) — Brain Sciences 2025; CC BY.*
+
 
 ![Spinal Cord Stimulator Placement — Figure 3](../../figures/curated/case-prep-spinal-cord-stimulator-scs-placement/figure-10-figure-3-brainsci-15-00616-g003-jpg.jpg)
 *Figure 3. Selection of the sample. Source: [Uncomfortable Paresthesia and Dysesthesia Following Tonic Spinal Cord Stimulator Implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12190327/) — Brain Sciences 2025; CC BY.*
@@ -239,6 +244,19 @@ Closure was performed. The patient was monitored for epidural hematoma (new defi
 - Fever, drainage, pocket erythema, or deep tenderness around implanted hardware should trigger a low threshold for infectious workup; deep SCS infection often requires explant.
 - Before any future MRI or surgery, verify exact device model, lead configuration, MRI-conditional rules, and whether the system must be placed in MRI mode.
 - Document driving/work restrictions when paresthesia changes, sedation/opioids, or new programming adjustments could distract the patient.
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Spinal Cord Stimulator (SCS) Placement**:
+
+- **Decision point:** Localize twice and instrument once: numbering, transitional anatomy, prior hardware, rib count, navigation dataset, and fluoroscopic level confirmation are mandatory.
+- **Technical lever:** Positioning is treatment: table choice, abdomen-free prone setup, alignment goals, shoulders/hips, eyes/plexus pressure, neuromonitoring baselines, and fluoroscopic access all change the case.
+- **Bailout:** Protect neural elements by sequence: decompression before correction when needed, MAP support for cord risk, no long paralytic with MEPs, and immediate response to signal change.
+- **Postop watch:** Finish with construct logic: decompression adequacy, screw purchase, alignment, fusion bed/graft, drain plan, brace/activity orders, postop CT/X-rays, and DVT timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

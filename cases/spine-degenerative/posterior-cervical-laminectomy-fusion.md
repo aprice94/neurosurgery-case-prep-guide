@@ -62,32 +62,37 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Posterior Cervical Laminectomy Fusion — Figure 1.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-01-figure-1-10-1177-21925682241254327-fig1-jpg.jpg)
-*Figure 1.. CONSORT flow diagram. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
-
 ![Posterior Cervical Laminectomy Fusion — Figure 2.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-02-figure-2-10-1177-21925682241254327-fig2-jpg.jpg)
 *Figure 2.. Demonstration of US-guided ISP block. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
 
 ![Posterior Cervical Laminectomy Fusion — Figure 3.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-03-figure-3-10-1177-21925682241254327-fig3-jpg.jpg)
 *Figure 3.. Mean heart rate distribution between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
 
+
 ![Posterior Cervical Laminectomy Fusion — Figure 4.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-04-figure-4-10-1177-21925682241254327-fig4-jpg.jpg)
 *Figure 4.. Mean arterial pressure distribution between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
 
 ![Posterior Cervical Laminectomy Fusion — Figure 5.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-05-figure-5-10-1177-21925682241254327-fig5-jpg.jpg)
 *Figure 5.. Average NRS between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
 
+
 ![Posterior Cervical Laminectomy Fusion — Figure 6.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-06-figure-6-10-1177-21925682241254327-fig6-jpg.jpg)
 *Figure 6.. Average MOASS score between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
+
 
 ![Posterior Cervical Laminectomy Fusion — Figure 7.](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-07-figure-7-10-1177-21925682241254327-fig7-jpg.jpg)
 *Figure 7.. Average PONV score between two groups at various time intervals. Source: [Efficacy and Safety of Ultrasound Guided Inter-semispinal Plane Block for Postoperative Analgesia in Posterior Cervical Laminectomy - A Prospective Randomised Controlled Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11571355/) — Global Spine Journal 2024; CC BY-NC-ND.*
 
+
 ![Posterior Cervical Laminectomy Fusion — Fig. 1](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-08-fig-1-12891-2022-5417-fig1-html-jpg.jpg)
 *Fig. 1. The evaluation of the C2–C7 Cobb angle and the SVA Source: [Bridging the cervicothoracic junction during posterior cervical laminectomy and fusion for the treatment of multilevel cervical ossification of the posterior longitudinal ligament: a retrospective case series](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097402/) — BMC Musculoskeletal Disorders 2022; CC BY.*
 
+
 ![Posterior Cervical Laminectomy Fusion — Fig. 2](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-09-fig-2-12891-2022-5417-fig2-html-jpg.jpg)
 *Fig. 2. A 63-year-old male patient with multilevel, mixed-type ossification of the posterior longitudinal ligament. Preoperative computed tomography scan showed ossification of the posterior... Source: [Bridging the cervicothoracic junction during posterior cervical laminectomy and fusion for the treatment of multilevel cervical ossification of the posterior longitudinal ligament: a retrospective case series](https://pmc.ncbi.nlm.nih.gov/articles/PMC9097402/) — BMC Musculoskeletal Disorders 2022; CC BY.*
+
 
 ![Posterior Cervical Laminectomy Fusion — Figure 1](../../figures/curated/case-prep-posterior-cervical-laminectomy-and-fusion/figure-10-figure-1-ajns-14-848-g001-jpg.jpg)
 *Figure 1. Graphical diagram neurology (pre and postoperative) Source: [The Efficacy of Posterior Cervical Laminectomy for Multilevel Degenerative Cervical Spondylotic Myelopathy in Long Term Period](https://pmc.ncbi.nlm.nih.gov/articles/PMC6703065/) — Asian Journal of Neurosurgery 2019; CC BY-NC-SA.*
@@ -218,6 +223,19 @@ Contoured rods were placed to maintain cervical lordosis and the set screws were
 - Cervical collar per surgeon, drain management
 - DVT prophylaxis, pain control, smoking cessation
 - Wound monitoring (infection), follow-up X-ray/CT for fusion; counsel re: C5 palsy possibility
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Posterior Cervical Laminectomy and Fusion**:
+
+- **Decision point:** Localize twice and instrument once: numbering, transitional anatomy, prior hardware, rib count, navigation dataset, and fluoroscopic level confirmation are mandatory.
+- **Technical lever:** Positioning is treatment: table choice, abdomen-free prone setup, alignment goals, shoulders/hips, eyes/plexus pressure, neuromonitoring baselines, and fluoroscopic access all change the case.
+- **Bailout:** Protect neural elements by sequence: decompression before correction when needed, MAP support for cord risk, no long paralytic with MEPs, and immediate response to signal change.
+- **Postop watch:** Finish with construct logic: decompression adequacy, screw purchase, alignment, fusion bed/graft, drain plan, brace/activity orders, postop CT/X-rays, and DVT timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

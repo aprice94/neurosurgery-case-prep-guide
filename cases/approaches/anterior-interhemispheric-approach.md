@@ -58,29 +58,26 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Anterior Interhemispheric Approach — Fig. 1](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-01-fig-1-10143-2024-2592-fig1-html-jpg.jpg)
 *Fig. 1. This figure illustrates the surgical approaches utilized, showing both the craniotomy and the microsurgical perspective of the aneurysm and potential angulations. The color coding is... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
 
-![Anterior Interhemispheric Approach — Fig. 2](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-02-fig-2-10143-2024-2592-fig2-html-jpg.jpg)
-*Fig. 2. Flow chart illustrating the determination of the study-cohort according to the inclusion criteria and the final cohort matching (AcomA; Anterior communicating artery aneurysm) Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
 
 ![Anterior Interhemispheric Approach — Fig. 3](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-03-fig-3-10143-2024-2592-fig3-html-jpg.jpg)
 *Fig. 3. Fig. 3 presents a schematic depiction of the FDA relative to the frontal base. The angles are classified into four categories: category 1 (0–90°) depicted in purple, category 2 (90–180°)... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
 
+
 ![Anterior Interhemispheric Approach — Fig. 4](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-04-fig-4-10143-2024-2592-fig4-html-jpg.jpg)
 *Fig. 4. Schematic representation of the matching process following cohort identification. The figure illustrates how 14 through AIA operated AcomA were matched with 36 pterionally approached... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
 
 ![Anterior Interhemispheric Approach — Fig. 5](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-05-fig-5-10143-2024-2592-fig5-html-jpg.jpg)
 *Fig. 5. In the matching process, situations arose where an already matched PA treated AcomA was selected as the most similar in additional cases. Among the seven unruptured cases (highlighted in... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
 
+
 ![Anterior Interhemispheric Approach — Fig. 6](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-06-fig-6-10143-2024-2592-fig6-html-jpg.jpg)
 *Fig. 6. Ruptured cases are indicated in blue, while unruptured cases are depicted in grey. The x-axis represents the number of cases. Panel (A) illustrates the distribution of mRS scores at... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
+
 
 ![Anterior Interhemispheric Approach — Fig. 7](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-07-fig-7-10143-2024-2592-fig7-html-jpg.jpg)
 *Fig. 7. (A) the rate of complete occlusion, and (B) the dispersion of scores on the mRS among patients with AcomA. Comparative analyses are conducted between two distinct cohorts: one operated... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
 
-![Anterior Interhemispheric Approach — Fig. 8](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-08-fig-8-10143-2024-2592-fig8-html-jpg.jpg)
-*Fig. 8. Comparateive evaluations of AcomA managed via AIA and PA, specifically focusing on (A) the incidence of postoperative hydrocephalus, (B) the consequent need for ventriculoperitoneal... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
-
-![Anterior Interhemispheric Approach — Fig. 9](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-09-fig-9-10143-2024-2592-fig9-html-jpg.jpg)
-*Fig. 9. Comparison between AIA and PA to manage AcomA, detailing (A) the frequency of temporary clipping and (B) its subsequent association with postoperative strokes, along with (C) the... Source: [Anterior interhemispheric vs. pterional approach in the microsurgical management of anterior communicating artery aneurysms: a comparative analysis employing a novel multidimensional matching-tool](https://pmc.ncbi.nlm.nih.gov/articles/PMC11284194/) — Neurosurgical Review 2024; CC BY.*
 
 ![Anterior Interhemispheric Approach — Fig. 1](../../figures/curated/operative-approach-anterior-interhemispheric-transcallosal-approach/figure-10-fig-1-381-2026-7336-fig1-html-jpg.jpg)
 *Fig. 1. A–E. Step-by-step dissection illustrating the supracerebellar infratentorial (SCIT) approach Source: [What is the best surgical approach for Pineal Region Tumors? A systematic literature review and anatomical comparative study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230278/) — Child's Nervous System 2026; CC BY.*
@@ -223,6 +220,19 @@ Venous infarction (bridging vein sacrifice); memory deficit (fornix injury -- un
 > **Atlas chapters:** [Interhemispheric Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/interhemispheric-craniotomy) · [Transcallosal Approach to Lateral Ventricle](https://www.neurosurgicalatlas.com/volumes/intraventricular-702/transcallosal-interforniceal-approach) · [Colloid Cyst Microsurgical Resection](https://www.neurosurgicalatlas.com/volumes/intraventricular-702/colloid-cyst-resection)
 
 <!-- END FIGURE USE ATTRIBUTION -->
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Corridor Review
+
+Use these as the senior-level mental model for **Anterior Interhemispheric (Transcallosal) Approach**:
+
+- **Decision point:** Define the exposure goal before incision: target, working angles, proximal/distal control, and the structure that cannot tolerate retraction.
+- **Technical lever:** Know the first irreversible step: bone removal, dural opening, vascular control, or muscle/fascial division that commits the corridor.
+- **Bailout:** Verbalize the bailout: extend exposure, change trajectory, add CSF drainage, obtain proximal control, convert to a larger corridor, or stop for imaging.
+- **Postop watch:** Protect closure from the start: vascularized tissue, watertight dural/reconstruction plan, dead-space control, and drain strategy should be chosen before the final intradural step.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

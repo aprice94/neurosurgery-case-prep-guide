@@ -62,29 +62,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Intrathecal Baclofen Pump Implantation — Fig. 1](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-01-fig-1-2188-4226-12-0483-g001-jpg.jpg)
 *Fig. 1. A) ITB pump implantation was performed 5 years of age. Three-dimensional CT imaging demonstrates an Ascenda catheter with its tip positioned at the C7 vertebral level (yellow arrow... Source: [Late-onset Kinking of the Ascenda Catheter following Intrathecal Baclofen Pump Implantation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12623138/) — NMC Case Report Journal 2025; CC BY-NC-ND.*
 
+
 ![Intrathecal Baclofen Pump Implantation — Fig. 2](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-02-fig-2-2188-4226-12-0483-g002-jpg.jpg)
 *Fig. 2. A) Kinking of the catheter was observed just proximal to the anchor on three dimensional CT (yellow arrow). B) Intraoperatively, a looped and kinked segment of the previously implanted... Source: [Late-onset Kinking of the Ascenda Catheter following Intrathecal Baclofen Pump Implantation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12623138/) — NMC Case Report Journal 2025; CC BY-NC-ND.*
+
 
 ![Intrathecal Baclofen Pump Implantation — Fig. 1](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-03-fig-1-gr1-jpg.jpg)
 *Fig. 1. Pump reservoir incisional site on POD 1∗∗Note: photo was taken with patient in the supine position in his hospital bed. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
 
+
 ![Intrathecal Baclofen Pump Implantation — Fig. 2](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-04-fig-2-gr2-jpg.jpg)
 *Fig. 2. Pump reservoir incision site on POD 37∗∗Note: photo taken while patient seated in his electric wheelchair. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
+
 
 ![Intrathecal Baclofen Pump Implantation — Fig. 3](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-05-fig-3-gr3-jpg.jpg)
 *Fig. 3. Pump reservoir incision site on POD 47. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
 
+
 ![Intrathecal Baclofen Pump Implantation — Fig. 4](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-06-fig-4-gr4-jpg.jpg)
 *Fig. 4. Posterior trunk cutaneous rash on POD 54. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
+
 
 ![Intrathecal Baclofen Pump Implantation — Fig. 5](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-07-fig-5-gr5-jpg.jpg)
 *Fig. 5. Pump reservoir site incision at POD 64 showing resolution of erythema and skin lesions. Source: [Navigating the red: Diagnostic dilemma of erythema and diffuse body rash post- intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12032324/) — Interventional Pain Medicine 2025; CC BY.*
 
-![Intrathecal Baclofen Pump Implantation — Figure 1](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-08-figure-1-sni-7-105-g001-jpg.jpg)
-*Figure 1. Flow chart demonstrating the clinical protocol employed for patients identified as candidates for intrathecal baclofen pump implantation Source: [An algorithmic approach to the management of unrecognized hydrocephalus in pediatric candidates for intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC5223398/) — Surgical Neurology International 2016; CC BY-NC-SA.*
-
-![Intrathecal Baclofen Pump Implantation — Figure 9](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-09-figure-9-sni-7-105-g002-jpg.jpg)
-*Figure 9. Source: [An algorithmic approach to the management of unrecognized hydrocephalus in pediatric candidates for intrathecal baclofen pump implantation](https://pmc.ncbi.nlm.nih.gov/articles/PMC5223398/) — Surg Neurol Int. 2016 Dec 20;7:105. doi: 10.4103/2152-7806.196236; CC BY-NC-SA.*
 
 ![Intrathecal Baclofen Pump Implantation — Figure 1](../../figures/curated/case-prep-intrathecal-baclofen-itb-pump-implantation/figure-10-figure-1-isrn-neurology2012-575168-001-jpg.jpg)
 *Figure 1. Tear at metal connector to pump within protective silicone covering. Source: [Complications of Intrathecal Baclofen Pump: Prevention and Cure](https://pmc.ncbi.nlm.nih.gov/articles/PMC3323842/) — ISRN Neurology 2012; CC BY.*
@@ -230,6 +231,19 @@ Closure was performed. The patient was monitored for overdose (respiratory depre
 - CSF leak precautions (flat if PDPH/leak), wound/pocket monitoring (seroma/infection)
 - **Refill schedule established**, dose titration in clinic, caregiver education (withdrawal/overdose emergency recognition)
 - Spasticity reassessment, follow-up; document pump/MRI parameters
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Intrathecal Baclofen (ITB) Pump Implantation**:
+
+- **Decision point:** Localize twice and instrument once: numbering, transitional anatomy, prior hardware, rib count, navigation dataset, and fluoroscopic level confirmation are mandatory.
+- **Technical lever:** Positioning is treatment: table choice, abdomen-free prone setup, alignment goals, shoulders/hips, eyes/plexus pressure, neuromonitoring baselines, and fluoroscopic access all change the case.
+- **Bailout:** Protect neural elements by sequence: decompression before correction when needed, MAP support for cord risk, no long paralytic with MEPs, and immediate response to signal change.
+- **Postop watch:** Finish with construct logic: decompression adequacy, screw purchase, alignment, fusion bed/graft, drain plan, brace/activity orders, postop CT/X-rays, and DVT timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

@@ -63,32 +63,33 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Lumbar Microdiscectomy — Figure 1](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-01-figure-1-bmri2018-9073460-001-jpg.jpg)
-*Figure 1. Flow diagram detailing study inclusion. Source: [A Comparison of Percutaneous Endoscopic Lumbar Discectomy and Open Lumbar Microdiscectomy for Lumbar Disc Herniation in the Korean: A Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6106715/) — BioMed Research International 2018; CC BY.*
-
-![Lumbar Microdiscectomy — Fig. 1](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-02-fig-1-12891-2017-1681-fig1-html-jpg.jpg)
-*Fig. 1. Lumbar microdiscectomy and post-operative activity restrictions trial flow diagram Source: [Lumbar microdiscectomy and post-operative activity restrictions: a protocol for a single blinded randomised controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520336/) — BMC Musculoskeletal Disorders 2017; CC BY.*
-
 ![Lumbar Microdiscectomy — Figure 3](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-03-figure-3-12891-2017-1681-tab1-html-jpg.jpg)
 *Figure 3. Source: [Lumbar microdiscectomy and post-operative activity restrictions: a protocol for a single blinded randomised controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520336/) — BMC Musculoskelet Disord. 2017 Jul 20;18:312. doi: 10.1186/s12891-017-1681-3; CC BY.*
+
 
 ![Lumbar Microdiscectomy — Figure 4](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-04-figure-4-10-1177-2192568220950678-img1-jpg.jpg)
 *Figure 4. Source: [Variability in Opioid Prescription Following Primary Single-Level Lumbar Microdiscectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC8907642/) — Global Spine J. 2020 Aug 28;12(2):263–6. doi: 10.1177/2192568220950678; CC BY-NC-ND.*
 
+
 ![Lumbar Microdiscectomy — Figure 1](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-05-figure-1-jss-09-02-117-f1-jpg.jpg)
 *Figure 1. Average billing level and standard deviation for each surgeon for lumbar microdiscectomy from 2018–2019. Source: [Differences in evaluation and management coding of outpatient clinic visits for patients undergoing elective spine surgery with use of a standardized template](https://pmc.ncbi.nlm.nih.gov/articles/PMC10331495/) — Journal of Spine Surgery 2023; CC BY-NC-ND.*
+
 
 ![Lumbar Microdiscectomy — Figure 2](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-06-figure-2-jss-09-02-117-f2-jpg.jpg)
 *Figure 2. Distribution of billing by each surgeon per level for lumbar microdiscectomy from 2018–2019. Source: [Differences in evaluation and management coding of outpatient clinic visits for patients undergoing elective spine surgery with use of a standardized template](https://pmc.ncbi.nlm.nih.gov/articles/PMC10331495/) — Journal of Spine Surgery 2023; CC BY-NC-ND.*
 
+
 ![Lumbar Microdiscectomy — Fig. 1](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-07-fig-1-kjs-11-68-g001-jpg.jpg)
 *Fig. 1. Average operation time stratified by body mass index. Source: [Does Obesity Make an Influence on Surgical Outcomes Following Lumbar Microdiscectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4124921/) — Korean Journal of Spine 2014; CC BY-NC.*
+
 
 ![Lumbar Microdiscectomy — Fig. 2](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-08-fig-2-kjs-11-68-g002-jpg.jpg)
 *Fig. 2. Averatge estimated blood loss stratified by body mass index. Source: [Does Obesity Make an Influence on Surgical Outcomes Following Lumbar Microdiscectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4124921/) — Korean Journal of Spine 2014; CC BY-NC.*
 
+
 ![Lumbar Microdiscectomy — Figure 9](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-09-figure-9-kjs-11-68-i001-jpg.jpg)
 *Figure 9. Source: [Does Obesity Make an Influence on Surgical Outcomes Following Lumbar Microdiscectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4124921/) — Korean J Spine. 2014 Jun 30;11(2):68–73. doi: 10.14245/kjs.2014.11.2.68; CC BY-NC.*
+
 
 ![Lumbar Microdiscectomy — Figure 10](../../figures/curated/case-prep-lumbar-microdiscectomy/figure-10-figure-10-kjs-11-68-i002-jpg.jpg)
 *Figure 10. Source: [Does Obesity Make an Influence on Surgical Outcomes Following Lumbar Microdiscectomy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC4124921/) — Korean J Spine. 2014 Jun 30;11(2):68–73. doi: 10.14245/kjs.2014.11.2.68; CC BY-NC.*
@@ -373,6 +374,19 @@ The lower back was prepped and draped in standard sterile fashion. Cefazolin [2g
 - Follow-up: Clinic 2-4 weeks
 - Physical therapy: Start at 4-6 weeks post-op
 - Expected outcomes: 85-95% good/excellent pain relief for radiculopathy; motor recovery varies (the longer the deficit persisted pre-op, the less likely full recovery)
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Lumbar Microdiscectomy**:
+
+- **Decision point:** Localize twice and instrument once: numbering, transitional anatomy, prior hardware, rib count, navigation dataset, and fluoroscopic level confirmation are mandatory.
+- **Technical lever:** Positioning is treatment: table choice, abdomen-free prone setup, alignment goals, shoulders/hips, eyes/plexus pressure, neuromonitoring baselines, and fluoroscopic access all change the case.
+- **Bailout:** Protect neural elements by sequence: decompression before correction when needed, MAP support for cord risk, no long paralytic with MEPs, and immediate response to signal change.
+- **Postop watch:** Finish with construct logic: decompression adequacy, screw purchase, alignment, fusion bed/graft, drain plan, brace/activity orders, postop CT/X-rays, and DVT timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

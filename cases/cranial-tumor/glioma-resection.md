@@ -71,32 +71,33 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Glioma Resection — Figure 1](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-01-figure-1-oncotarget-08-4864-g001-jpg.jpg)
-*Figure 1. SEB facilitates glioma-specific Th9 response in glioma-bearing miceGlioma-bearing mice were treated with Ag (the GL261 cell extracts; 100 μg/mouse; cAg, the NG108-15 cell extracts, 100... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
-
 ![Glioma Resection — Figure 2](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-02-figure-2-oncotarget-08-4864-g002-jpg.jpg)
 *Figure 2. Counts of IL-9+ CD4+ T cells in glioma tissue(A–F) the photomicrographs show the IL-9+ (in red) CD4+ (in brown) T cells in glioma tissue from glioma-bearing mice. Panel F is negative... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
 
 ![Glioma Resection — Figure 3](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-03-figure-3-oncotarget-08-4864-g003-jpg.jpg)
 *Figure 3. SEB regulates IL-9 gene expression in CD4+ T cellsCD4+ CD25− T cells were cultured SEB (at gradient doses as denoted) for 6 days. Cytosolic and nuclear extracts were prepared from the... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
 
+
 ![Glioma Resection — Figure 4](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-04-figure-4-oncotarget-08-4864-g004-jpg.jpg)
 *Figure 4. SEB induces Th9 cellsCD4+ CD25− T cells and DCs (T cell:DC = 5:1) were cultured in the presence of SEB (100 ng/ml) and IL-2 (10 ng/ml; used as a T cell activator) for 6 days. The medium... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
 
 ![Glioma Resection — Figure 5](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-05-figure-5-oncotarget-08-4864-g005-jpg.jpg)
 *Figure 5. SEB and glioma cell extracts induce glioma-specific Th9 cellsTh9 cells were generated from naïve CD4+ CD25− T cells with the presence of glioma extracts (5 μg/ml) and DCs in the presence... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
 
+
 ![Glioma Resection — Figure 6](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-06-figure-6-oncotarget-08-4864-g006-jpg.jpg)
 *Figure 6. Glioma-specific Th9 cells induce glioma cell apoptosisTh9 cells were generated in the same procedures of Figure 4D. The cells (contain both Th9 cells and DCs; or #, naïve CD4+ T cells)... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
+
 
 ![Glioma Resection — Figure 7](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-07-figure-7-oncotarget-08-4864-g007-jpg.jpg)
 *Figure 7. Administration with SEB enforces the effect of immunotherapy of Ag on experimental gliomaThe bars indicate the tumor size (mean ± SD) recorded from glioma-bearing mice. The treatment is... Source: [Induction of specific T helper-9 cells to inhibit glioma cell growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC5354876/) — Oncotarget 2017; CC BY.*
 
+
 ![Glioma Resection — FIGURE 1](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-08-figure-1-cns-30-e14822-g001-jpg.jpg)
 *FIGURE 1. Glioma tissues are susceptible to SARS‐CoV‐2. (A) Immunofluorescent staining detecting the presence of the SARS‐CoV‐2 spike protein and ACE2 in glioblastoma tissue obtained from a... Source: [Evidences of neurological injury caused by COVID‐19 from glioma tissues and glioma organoids](https://pmc.ncbi.nlm.nih.gov/articles/PMC11199819/) — CNS Neuroscience & Therapeutics 2024; CC BY.*
 
-![Glioma Resection — FIGURE 2](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-09-figure-2-cns-30-e14822-g002-jpg.jpg)
-*FIGURE 2. Difference analyses of normal brain tissues, glioma tissues, and glioma‐COVID tissues. (A) The workflow for the comparative analysis of the three groups of tissues. (B, C) UMAP... Source: [Evidences of neurological injury caused by COVID‐19 from glioma tissues and glioma organoids](https://pmc.ncbi.nlm.nih.gov/articles/PMC11199819/) — CNS Neuroscience & Therapeutics 2024; CC BY.*
 
 ![Glioma Resection — FIGURE 3](../../figures/curated/case-prep-glioma-resection-supratentorial/figure-10-figure-3-cns-30-e14822-g003-jpg.jpg)
 *FIGURE 3. The global comparison of the differences of the neuronal cells or non‐neuronal cells in normal brain tissues, glioma tissues, and glioma‐COVID tissues. (A, B) UMAP representation of the... Source: [Evidences of neurological injury caused by COVID‐19 from glioma tissues and glioma organoids](https://pmc.ncbi.nlm.nih.gov/articles/PMC11199819/) — CNS Neuroscience & Therapeutics 2024; CC BY.*
@@ -375,6 +376,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
   - Grade III: Radiation +/- chemotherapy depending on molecular profile
   - Grade II (IDH-mutant): Consider observation if GTR; RT + chemotherapy if subtotal or progressive
 - Follow-up: Clinic 2 weeks; serial MRI q3-4 months
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Glioma Resection (Supratentorial)**:
+
+- **Decision point:** Decide the real endpoint before opening: cure, cytoreduction, diagnosis, decompression, separation from critical structures, or safe maximal resection.
+- **Technical lever:** Map what must be left behind: perforators, cranial nerves, venous sinuses, eloquent cortex/tracts, hypothalamus/pituitary axis, and adherent capsule planes.
+- **Bailout:** Sequence matters: devascularize early when safe, create CSF/working space, debulk before traction, and preserve the arachnoid plane unless oncologic goals justify violating it.
+- **Postop watch:** The postop plan should match the risk structure: endocrine/vision/swallow/CN checks, steroid taper, seizure plan, MRI timing, CSF-leak watch, and adjuvant-treatment handoff.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

@@ -223,6 +223,19 @@ Hemostasis was obtained, the dura reconstructed, the bone flap replaced, and the
 - Seizure prophylaxis, dexamethasone taper, DVT prophylaxis
 - If residual on sinus: tumor board, radiosurgery, surveillance MRI
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Parasagittal / Falx Meningioma Resection**:
+
+- **Decision point:** Decide the real endpoint before opening: cure, cytoreduction, diagnosis, decompression, separation from critical structures, or safe maximal resection.
+- **Technical lever:** Map what must be left behind: perforators, cranial nerves, venous sinuses, eloquent cortex/tracts, hypothalamus/pituitary axis, and adherent capsule planes.
+- **Bailout:** Sequence matters: devascularize early when safe, create CSF/working space, debulk before traction, and preserve the arachnoid plane unless oncologic goals justify violating it.
+- **Postop watch:** The postop plan should match the risk structure: endocrine/vision/swallow/CN checks, steroid taper, seizure plan, MRI timing, CSF-leak watch, and adjuvant-treatment handoff.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions

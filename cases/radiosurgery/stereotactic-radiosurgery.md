@@ -211,6 +211,19 @@ The patient was discharged the same day with [a short steroid course] and a surv
 - Audiometry (VS), visual fields (sellar/optic-adjacent), endocrine (sellar)
 - Oncology coordination (mets — systemic therapy, new-lesion surveillance); counsel AVM patients re: hemorrhage risk during latency
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Stereotactic Radiosurgery (SRS) — Gamma Knife / LINAC / CyberKnife**:
+
+- **Decision point:** The target must answer the question: choose tissue/trajectory/dose based on diagnostic yield, molecular testing, treatment impact, and safest corridor.
+- **Technical lever:** Risk lives along the path: vessels, sulci, ventricles, necrotic center, eloquent tracts, prior radiation, and anticoagulation decide whether the plan is acceptable.
+- **Bailout:** Confirm before committing: frame/robot registration, coordinates, fiducials, trajectory collision, specimen adequacy, and postop scan threshold should be explicit.
+- **Postop watch:** Postop plan should anticipate the rare catastrophe: hemorrhage, edema, seizure, steroid need, neurologic checks, pathology handoff, and treatment-board timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions

@@ -204,6 +204,19 @@ The tourniquet was released, hemostasis obtained, and closure performed. The pat
 - Pathology (confirm benign; if MPNST → oncology, staging, wide resection/radiation)
 - Therapy if deficit; follow-up 2 weeks; NF surveillance if syndromic
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Peripheral Nerve Sheath Tumor Resection (Schwannoma / Neurofibroma)**:
+
+- **Decision point:** Localization is everything: symptoms, exam, Tinel point, EMG/NCS, ultrasound/MRI, and provocative maneuvers must agree before incision.
+- **Technical lever:** Protect fascicles and blood supply: internal neurolysis, tumor shelling, graft/transfer decisions, tourniquet time, and stimulation thresholds should be deliberate.
+- **Bailout:** Know when not to chase: dense scarring, malignant features, unclear fascicular anatomy, or unexpected motor fascicle involvement may justify biopsy, subtotal resection, or staged reconstruction.
+- **Postop watch:** Postop orders should preserve the repair: splint/immobilization interval, therapy timing, sensory protection, pain plan, and expected recovery timeline.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions

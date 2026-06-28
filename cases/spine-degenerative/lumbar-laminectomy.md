@@ -67,29 +67,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Lumbar Laminectomy Spinal Stenosis — Figure 1](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-01-figure-1-bmri2019-3871819-001-jpg.jpg)
 *Figure 1. Lumbosacral transitional vertebra as evident in 3-dimensional images: unilateral (left) and bilateral (right) anomalies. Source: [Is Lumbosacral Transitional Vertebra Associated with Degenerative Lumbar Spinal Stenosis?](https://pmc.ncbi.nlm.nih.gov/articles/PMC6590608/) — BioMed Research International 2019; CC BY.*
 
+
 ![Lumbar Laminectomy Spinal Stenosis — Figure 2](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-02-figure-2-bmri2019-3871819-002-jpg.jpg)
 *Figure 2. Prevalence (%) of lumbosacral transitional vertebra (LSTV) in the male groups (control vs. stenosis). Source: [Is Lumbosacral Transitional Vertebra Associated with Degenerative Lumbar Spinal Stenosis?](https://pmc.ncbi.nlm.nih.gov/articles/PMC6590608/) — BioMed Research International 2019; CC BY.*
+
 
 ![Lumbar Laminectomy Spinal Stenosis — Figure 3](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-03-figure-3-bmri2019-3871819-003-jpg.jpg)
 *Figure 3. Prevalence (%) of lumbosacral transitional vertebra (LSTV) type in the female groups (control vs. stenosis). Source: [Is Lumbosacral Transitional Vertebra Associated with Degenerative Lumbar Spinal Stenosis?](https://pmc.ncbi.nlm.nih.gov/articles/PMC6590608/) — BioMed Research International 2019; CC BY.*
 
-![Lumbar Laminectomy Spinal Stenosis — FIGURE 1](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-04-figure-1-ait-53-44836-g001-jpg.jpg)
-*FIGURE 1. Flow chart of the study Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
-
-![Lumbar Laminectomy Spinal Stenosis — FIGURE 2](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-05-figure-2-ait-53-44836-g002-jpg.jpg)
-*FIGURE 2. PRIMA flow Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
-
-![Lumbar Laminectomy Spinal Stenosis — FIGURE 3](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-06-figure-3-ait-53-44836-g003-jpg.jpg)
-*FIGURE 3. Diagnostic approach, counselling, and multidisciplinary approach. Questions A–E. Note. Neurotropic agents include neuroprotective substances such as palmitoylethanolamide, and a-lipoic acid Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
-
-![Lumbar Laminectomy Spinal Stenosis — FIGURE 4](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-07-figure-4-ait-53-44836-g004-jpg.jpg)
-*FIGURE 4. Therapeutic approach. Questions F–M Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
-
-![Lumbar Laminectomy Spinal Stenosis — FIGURE 5](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-08-figure-5-ait-53-44836-g005-jpg.jpg)
-*FIGURE 5. Patient communication strategies. Questions N-Q Source: [Lumbar spinal stenosis as a model for the multimodal and multiprofessional treatment of mixed non-cancer pain. Survey response from a panel of experts of the Italian National Association of Osteoarticular Specialists (ASON)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10165336/) — Anaesthesiology Intensive Therapy 2021; CC BY-NC-SA.*
 
 ![Lumbar Laminectomy Spinal Stenosis — Figure 1](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-09-figure-1-medicina-58-00384-g001-jpg.jpg)
 *Figure 1. Surgical equipment for tubular microendoscopic decompression surgery. (a) Serial tubular dilator and retractor (METRx®). (b) Flexible arm assembly (METRx®). (c) Tubular retractor of the... Source: [Microendoscopic Lumbar Posterior Decompression Surgery for Lumbar Spinal Stenosis: Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8954505/) — Medicina 2022; CC BY.*
+
 
 ![Lumbar Laminectomy Spinal Stenosis — Figure 2](../../figures/curated/case-prep-lumbar-laminectomy-for-spinal-stenosis/figure-10-figure-2-medicina-58-00384-g002-jpg.jpg)
 *Figure 2. Schematic presentation of the room setup. Source: [Microendoscopic Lumbar Posterior Decompression Surgery for Lumbar Spinal Stenosis: Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8954505/) — Medicina 2022; CC BY.*
@@ -218,6 +207,19 @@ Meticulous epidural hemostasis was obtained, [a subfascial drain placed,] and th
 - Pain control, DVT prophylaxis (SCDs, early ambulation)
 - Activity progression, PT
 - Follow-up 2-4 weeks; counsel re: claudication relief, possible need for future fusion if instability develops
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Lumbar Laminectomy for Spinal Stenosis**:
+
+- **Decision point:** Localize twice and instrument once: numbering, transitional anatomy, prior hardware, rib count, navigation dataset, and fluoroscopic level confirmation are mandatory.
+- **Technical lever:** Positioning is treatment: table choice, abdomen-free prone setup, alignment goals, shoulders/hips, eyes/plexus pressure, neuromonitoring baselines, and fluoroscopic access all change the case.
+- **Bailout:** Protect neural elements by sequence: decompression before correction when needed, MAP support for cord risk, no long paralytic with MEPs, and immediate response to signal change.
+- **Postop watch:** Finish with construct logic: decompression adequacy, screw purchase, alignment, fusion bed/graft, drain plan, brace/activity orders, postop CT/X-rays, and DVT timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

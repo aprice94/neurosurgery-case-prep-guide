@@ -61,32 +61,33 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Anterior Thoracic Corpectomy Reconstruction — Fig. 7.](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-01-fig-7-ns-2040436-218f7-jpg.jpg)
-*Fig. 7.. Standard posterior instrumentation. Clinical example of a patient with moderate cervical kyphosis and residual stenosis following anterior cervical discectomy and fusion (A) receiving a... Source: [The Effect of Rod Pattern, Outrigger, and Multiple Screw-Rod Constructs for Surgical Stabilization of the 3-Column Destabilized Cervical Spine - A Biomechanical Analysis and Introduction of a Novel Technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC7538352/) — Neurospine 2020; CC BY-NC.*
-
-![Anterior Thoracic Corpectomy Reconstruction — Fig. 9.](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-02-fig-9-ns-2040436-218f9-jpg.jpg)
-*Fig. 9.. Clinical example of a 6S3R-construct. (A–C) A 65-year-old patient presenting with a history of failed anterior cervical discectomy and fusion for degenerative instability, multilevel... Source: [The Effect of Rod Pattern, Outrigger, and Multiple Screw-Rod Constructs for Surgical Stabilization of the 3-Column Destabilized Cervical Spine - A Biomechanical Analysis and Introduction of a Novel Technique](https://pmc.ncbi.nlm.nih.gov/articles/PMC7538352/) — Neurospine 2020; CC BY-NC.*
-
 ![Anterior Thoracic Corpectomy Reconstruction — Fig. 2](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-03-fig-2-12893-2024-2602-fig2-html-jpg.jpg)
 *Fig. 2. A titanium expandable corpectomy cage fits into the bespoke bony window using only the tagged nerve for gentle gravity retraction as demonstrated in this cadaveric specimen Source: [A rib-sparing unilateral transpedicular thoracic corpectomy using the ultrasonic bone scalpel: a novel technique and pictorial guide](https://pmc.ncbi.nlm.nih.gov/articles/PMC11466036/) — BMC Surgery 2024; CC BY-NC-ND.*
+
 
 ![Anterior Thoracic Corpectomy Reconstruction — Fig. 1](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-04-fig-1-586-2006-203-fig1-html-jpg.jpg)
 *Fig. 1. (Left) Swimmer’s view radiograph demonstrating kyphosis related to C4–T2 osteomyelitis. (Right) Sagittal reformatted CT scan demonstrating extensive osseous erosion with kyphotic... Source: [Successful outcome of six-level cervicothoracic corpectomy and circumferential reconstruction: case report and review of literature on multilevel cervicothoracic corpectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC1602202/) — European Spine Journal 2006; open access.*
 
+
 ![Anterior Thoracic Corpectomy Reconstruction — Fig. 2](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-05-fig-2-586-2006-203-fig2-html-jpg.jpg)
 *Fig. 2. (Left) Sagittal T1 post-gadolinium MR sequence revealing extensive prevertebral and circumferential enhancing epidural abscess and enhancing vertebrae, compatible with osteomyelitis.... Source: [Successful outcome of six-level cervicothoracic corpectomy and circumferential reconstruction: case report and review of literature on multilevel cervicothoracic corpectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC1602202/) — European Spine Journal 2006; open access.*
+
 
 ![Anterior Thoracic Corpectomy Reconstruction — Fig. 3](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-06-fig-3-586-2006-203-fig3-html-jpg.jpg)
 *Fig. 3. Postoperative AP and lateral radiographs after six-level corpectomy from C4–T2, anterior interbody contoured cage and anterior plating from C3–T3. Posterior screw-rod fusion is evident... Source: [Successful outcome of six-level cervicothoracic corpectomy and circumferential reconstruction: case report and review of literature on multilevel cervicothoracic corpectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC1602202/) — European Spine Journal 2006; open access.*
 
+
 ![Anterior Thoracic Corpectomy Reconstruction — Fig. 4](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-07-fig-4-586-2006-203-fig4-html-jpg.jpg)
 *Fig. 4. Flexion (left) and extension (right) plain radiographs obtained at 4-month follow-up demonstrate good hardware positioning without graft dislodgment. Note that the significant correction... Source: [Successful outcome of six-level cervicothoracic corpectomy and circumferential reconstruction: case report and review of literature on multilevel cervicothoracic corpectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC1602202/) — European Spine Journal 2006; open access.*
+
 
 ![Anterior Thoracic Corpectomy Reconstruction — Figure 1](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-08-figure-1-pone-0096265-g001-jpg.jpg)
 *Figure 1. Photographs of lateral (1A) and superior (1B) views of the nano-hydroxyapatite/polyamide66 cage. Source: [Evaluation of Anterior Cervical Reconstruction with Titanium Mesh Cages versus Nano-Hydroxyapatite/Polyamide66 Cages after 1- or 2-Level Corpectomy for Multilevel Cervical Spondylotic Myelopathy: A Retrospective Study of 117 Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC4008500/) — PLoS ONE 2014; CC BY.*
 
+
 ![Anterior Thoracic Corpectomy Reconstruction — Figure 2](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-09-figure-2-pone-0096265-g002-jpg.jpg)
 *Figure 2. A 36-year-old male who underwent 1-level corpectomy with a nano-hydroxyapatite/polyamide66 cage used for cervical reconstruction.The preoperative cervical X-ray film (2A) and MRI scan... Source: [Evaluation of Anterior Cervical Reconstruction with Titanium Mesh Cages versus Nano-Hydroxyapatite/Polyamide66 Cages after 1- or 2-Level Corpectomy for Multilevel Cervical Spondylotic Myelopathy: A Retrospective Study of 117 Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC4008500/) — PLoS ONE 2014; CC BY.*
+
 
 ![Anterior Thoracic Corpectomy Reconstruction — Figure 3](../../figures/curated/case-prep-anterior-thoracic-corpectomy-and-reconstruction-transthoracic-thoracoscopic/figure-10-figure-3-pone-0096265-g003-jpg.jpg)
 *Figure 3. A 61-year-old male who underwent 2-level corpectomy with a nano-hydroxyapatite/polyamide66 cage used for cervical reconstruction.A preoperative cervical X-ray film (3A) shows a loss of... Source: [Evaluation of Anterior Cervical Reconstruction with Titanium Mesh Cages versus Nano-Hydroxyapatite/Polyamide66 Cages after 1- or 2-Level Corpectomy for Multilevel Cervical Spondylotic Myelopathy: A Retrospective Study of 117 Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC4008500/) — PLoS ONE 2014; CC BY.*
@@ -210,6 +211,19 @@ Closure was performed in layers. The patient was transferred to the ICU with che
 - CT/X-ray postop (hardware, decompression), pulmonary toilet/incentive spirometry
 - DVT prophylaxis, pain control (intercostal/epidural analgesia)
 - Etiology-specific (oncology adjuvant/RT, IV antibiotics for infection), follow-up for fusion
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Anterior Thoracic Corpectomy and Reconstruction (Transthoracic / Thoracoscopic)**:
+
+- **Decision point:** Localize twice and instrument once: numbering, transitional anatomy, prior hardware, rib count, navigation dataset, and fluoroscopic level confirmation are mandatory.
+- **Technical lever:** Positioning is treatment: table choice, abdomen-free prone setup, alignment goals, shoulders/hips, eyes/plexus pressure, neuromonitoring baselines, and fluoroscopic access all change the case.
+- **Bailout:** Protect neural elements by sequence: decompression before correction when needed, MAP support for cord risk, no long paralytic with MEPs, and immediate response to signal change.
+- **Postop watch:** Finish with construct logic: decompression adequacy, screw purchase, alignment, fusion bed/graft, drain plan, brace/activity orders, postop CT/X-rays, and DVT timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

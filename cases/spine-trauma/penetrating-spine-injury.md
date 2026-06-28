@@ -211,6 +211,19 @@ Closure was performed in layers. The patient was transferred to the ICU with ser
 - Coordinate trauma/vascular/general surgery; psychosocial support
 - Follow-up imaging; counsel re: prognosis by completeness of injury
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Penetrating Spine Injury (Gunshot / Stab) Management**:
+
+- **Decision point:** Treat physiology while preparing the room: airway, reversal, transfusion, ICP/CPP, sodium/osmolality, temperature, and repeat imaging drive timing as much as the scan finding.
+- **Technical lever:** Know the operative priority: decompression, hemorrhage control, debridement, dural closure, reconstruction, stabilization, or contamination control.
+- **Bailout:** Plan for swelling and coagulopathy: bone flap decision, duraplasty size, drain/EVD need, hemostatic adjuncts, and ICU handoff should be decided early.
+- **Postop watch:** Postop failure modes are predictable: expanding hematoma, malignant edema, seizure, infection, CSF leak, venous sinus injury, and missed associated spine/vascular injury.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions

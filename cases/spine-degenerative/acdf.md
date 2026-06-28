@@ -69,29 +69,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Anterior Cervical Discectomy Fusion — Fig. 1](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-01-fig-1-1349-8029-66-1-0007-g001-jpg.jpg)
 *Fig. 1. Various methods of radiographic measurement and representative of both centering cages, which caused no subsidence, and offset cages, which caused subsidence.a) Radiographic measurements... Source: [Radiological Factors Affecting Cage Subsidence after Single-level Anterior Cervical Discectomy and Fusion with Double Titanium Cylindrical Cages](https://pmc.ncbi.nlm.nih.gov/articles/PMC12877434/) — Neurologia medico-chirurgica 2025; CC BY-NC-ND.*
 
+
 ![Anterior Cervical Discectomy Fusion — FIGURE 1](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-02-figure-1-fbioe-11-1100462-g001-jpg.jpg)
 *FIGURE 1. Fusion rate of each group over time. Source: [Long-term results comparison after anterior cervical discectomy with BGS-7 spacer (NOVOMAX®-C) and allograft spacer: A prospective observational study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10154694/) — Frontiers in Bioengineering and Biotechnology 2023; CC BY.*
+
 
 ![Anterior Cervical Discectomy Fusion — FIGURE 2](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-03-figure-2-fbioe-11-1100462-g002-jpg.jpg)
 *FIGURE 2. One year post-operative images from CT scan. (A) Sagittal view, (B) coronal view. Source: [Long-term results comparison after anterior cervical discectomy with BGS-7 spacer (NOVOMAX®-C) and allograft spacer: A prospective observational study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10154694/) — Frontiers in Bioengineering and Biotechnology 2023; CC BY.*
 
+
 ![Anterior Cervical Discectomy Fusion — FIGURE 3](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-04-figure-3-fbioe-11-1100462-g003-jpg.jpg)
 *FIGURE 3. Representative images of BGS-7 spacer-induced segmental fusion progression after ACDF surgery during 5 years. (A) Pre-OP, (B) 1 month, (C) 3 months, (D) 1 year, (E) present, (F) present... Source: [Long-term results comparison after anterior cervical discectomy with BGS-7 spacer (NOVOMAX®-C) and allograft spacer: A prospective observational study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10154694/) — Frontiers in Bioengineering and Biotechnology 2023; CC BY.*
+
 
 ![Anterior Cervical Discectomy Fusion — FIGURE 4](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-05-figure-4-fbioe-11-1100462-g004-jpg.jpg)
 *FIGURE 4. Clinical outcomes for each group after ACDF surgery during 5 years. (A) VAS (cervical), (B) VAS(upper limb), (C) NDI, (D) JOA. Source: [Long-term results comparison after anterior cervical discectomy with BGS-7 spacer (NOVOMAX®-C) and allograft spacer: A prospective observational study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10154694/) — Frontiers in Bioengineering and Biotechnology 2023; CC BY.*
 
-![Anterior Cervical Discectomy Fusion — FIGURE 5](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-06-figure-5-fbioe-11-1100462-g005-jpg.jpg)
-*FIGURE 5. Illustration for two finite element models for the ACDF with allograft spacer (A), and BGS-7 spacer (B). Peak stress on vertebral body under 1200N of compressive load for the allograft... Source: [Long-term results comparison after anterior cervical discectomy with BGS-7 spacer (NOVOMAX®-C) and allograft spacer: A prospective observational study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10154694/) — Frontiers in Bioengineering and Biotechnology 2023; CC BY.*
 
 ![Anterior Cervical Discectomy Fusion — Fig. 1](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-07-fig-1-13018-2023-3726-fig1-html-jpg.jpg)
 *Fig. 1. A 53-year-old man who had experienced numbness in both hands and felt stepping on cotton in lower limbs for 1.5 years was diagnosed as cervical spondylotic myelopathy. A Preoperative... Source: [Clinical and imaging outcomes of self-locking stand-alone cages and anterior cage-with-plate in three-level anterior cervical discectomy and fusion: a retrospective comparative study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074675/) — Journal of Orthopaedic Surgery and Research 2023; CC BY.*
 
+
 ![Anterior Cervical Discectomy Fusion — Fig. 2](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-08-fig-2-13018-2023-3726-fig2-html-jpg.jpg)
 *Fig. 2. A 63-year-old man who had experienced numbness in both hands and felt stepping on cotton in lower limbs for 3 years was diagnosed as cervical spondylotic myelopathy. A Preoperative... Source: [Clinical and imaging outcomes of self-locking stand-alone cages and anterior cage-with-plate in three-level anterior cervical discectomy and fusion: a retrospective comparative study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074675/) — Journal of Orthopaedic Surgery and Research 2023; CC BY.*
 
+
 ![Anterior Cervical Discectomy Fusion — Fig. 1](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-09-fig-1-asj-5-169-g001-jpg.jpg)
 *Fig. 1. A 45-year-old female diagnosed with spinal stenosis at C5-6. (A, B) Preoperative magnetic resonance imaging. (C, D) Postoperative radiographs. (E, F) Follow-up radiograph 12 months... Source: [Comparative Study of Clinical Outcomes of Anterior Cervical Discectomy and Fusion Using Autobone Graft or Cage with Bone Substitute](https://pmc.ncbi.nlm.nih.gov/articles/PMC3159065/) — Asian Spine Journal 2011; CC BY-NC.*
+
 
 ![Anterior Cervical Discectomy Fusion — Fig. 2](../../figures/curated/case-prep-anterior-cervical-discectomy-and-fusion-acdf/figure-10-fig-2-asj-5-169-g002-jpg.jpg)
 *Fig. 2. A 47-year-old female diagnosed with herniated nucleus pulposus on C5-6. (A, B) Preoperative magnetic resonance imaging. (C, D) Postoperative radiograph. (E, F) Follow-up radiograph taken... Source: [Comparative Study of Clinical Outcomes of Anterior Cervical Discectomy and Fusion Using Autobone Graft or Cage with Bone Substitute](https://pmc.ncbi.nlm.nih.gov/articles/PMC3159065/) — Asian Spine Journal 2011; CC BY-NC.*
@@ -417,6 +422,19 @@ The anterior neck was prepped and draped in sterile fashion. The surgical level 
 - Driving: No driving in cervical collar; typically resume at 2-4 weeks
 - Follow-up: Clinic 2 weeks (wound check), 6 weeks (X-ray), 3 months (CT for fusion), 6 months, 1 year
 - Dysphagia: Expect mild-moderate; typically resolves in 1-4 weeks. If persistent > 6 weeks → ENT evaluation, modified barium swallow
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Anterior Cervical Discectomy and Fusion (ACDF)**:
+
+- **Decision point:** Localize twice and instrument once: numbering, transitional anatomy, prior hardware, rib count, navigation dataset, and fluoroscopic level confirmation are mandatory.
+- **Technical lever:** Positioning is treatment: table choice, abdomen-free prone setup, alignment goals, shoulders/hips, eyes/plexus pressure, neuromonitoring baselines, and fluoroscopic access all change the case.
+- **Bailout:** Protect neural elements by sequence: decompression before correction when needed, MAP support for cord risk, no long paralytic with MEPs, and immediate response to signal change.
+- **Postop watch:** Finish with construct logic: decompression adequacy, screw purchase, alignment, fusion bed/graft, drain plan, brace/activity orders, postop CT/X-rays, and DVT timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

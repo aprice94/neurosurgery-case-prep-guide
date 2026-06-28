@@ -66,29 +66,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Arteriovenous Malformation Resection — Figure 1](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-01-figure-1-gr1-jpg.jpg)
 *Figure 1. Gross findings and temporal bone computed tomographic angiography findings on the ear of a 60 year-old man, as recorded in the emergency room: (A) the patient presented with a swollen... Source: [Arteriovenous malformation of the external ear: a clinical assessment with a scoping review of the literature☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9449233/) — Brazilian Journal of Otorhinolaryngology 2017; CC BY.*
 
+
 ![Arteriovenous Malformation Resection — Figure 2](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-02-figure-2-gr2-jpg.jpg)
 *Figure 2. Preoperative therapeutic embolization using transfemoral cerebral angiography and gross ear findings 3 days after embolization: (A) transfemoral cerebral angiography revealed large... Source: [Arteriovenous malformation of the external ear: a clinical assessment with a scoping review of the literature☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9449233/) — Brazilian Journal of Otorhinolaryngology 2017; CC BY.*
+
 
 ![Arteriovenous Malformation Resection — Figure 3](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-03-figure-3-gr3-jpg.jpg)
 *Figure 3. Gross ear findings at 2 weeks after embolization and total excision of the arteriovenous malformation. (A) Two weeks after transarterial embolization, the boundary of the necrotic skin... Source: [Arteriovenous malformation of the external ear: a clinical assessment with a scoping review of the literature☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9449233/) — Brazilian Journal of Otorhinolaryngology 2017; CC BY.*
 
-![Arteriovenous Malformation Resection — Figure 4](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-04-figure-4-gr4-jpg.jpg)
-*Figure 4. Flow chart of the treatment of 53 patients with auricular arteriovenous malformations. Source: [Arteriovenous malformation of the external ear: a clinical assessment with a scoping review of the literature☆](https://pmc.ncbi.nlm.nih.gov/articles/PMC9449233/) — Brazilian Journal of Otorhinolaryngology 2017; CC BY.*
 
 ![Arteriovenous Malformation Resection — Fig. 1](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-05-fig-1-scr-11-01-24-0117-g001-jpg.jpg)
 *Fig. 1. Findings of upper gastrointestinal endoscopy. Upper gastrointestinal endoscopy revealed a large ulcer at the duodenal bulb. Source: [Efficacy of Arterial Embolization prior to Pancreaticoduodenectomy for Pancreatic Arteriovenous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11925642/) — Surgical Case Reports 2025; CC BY.*
 
+
 ![Arteriovenous Malformation Resection — Fig. 2](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-06-fig-2-scr-11-01-24-0117-g002-jpg.jpg)
 *Fig. 2. Findings of computed tomography (CT). (A) Non-enhanced CT showed the presence of intrahepatic reticulated calcification, indicating the presence of Schistosomiasis japonica. (B)... Source: [Efficacy of Arterial Embolization prior to Pancreaticoduodenectomy for Pancreatic Arteriovenous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11925642/) — Surgical Case Reports 2025; CC BY.*
+
 
 ![Arteriovenous Malformation Resection — Fig. 3](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-07-fig-3-scr-11-01-24-0117-g003-jpg.jpg)
 *Fig. 3. Findings of angiography. (A) Angiography of the celiac axis showed a markedly proliferative vascular network at the pancreatic head (arrowhead) via the gastroduodenal artery and early... Source: [Efficacy of Arterial Embolization prior to Pancreaticoduodenectomy for Pancreatic Arteriovenous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11925642/) — Surgical Case Reports 2025; CC BY.*
 
+
 ![Arteriovenous Malformation Resection — Fig. 4](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-08-fig-4-scr-11-01-24-0117-g004-jpg.jpg)
 *Fig. 4. Intraoperative findings. The intraoperative findings did not demonstrate the impact of arterial embolization on the pancreatic parenchyma.GDA, gastroduodenal artery; MPV, main portal... Source: [Efficacy of Arterial Embolization prior to Pancreaticoduodenectomy for Pancreatic Arteriovenous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11925642/) — Surgical Case Reports 2025; CC BY.*
 
+
 ![Arteriovenous Malformation Resection — Fig. 5](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-09-fig-5-scr-11-01-24-0117-g005-jpg.jpg)
 *Fig. 5. Pathological findings of resected specimens (hematoxylin and eosin staining). (A) Dilated vessels of unequal size were found in the pancreatic parenchyma, consistent with the finding of... Source: [Efficacy of Arterial Embolization prior to Pancreaticoduodenectomy for Pancreatic Arteriovenous Malformation: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC11925642/) — Surgical Case Reports 2025; CC BY.*
+
 
 ![Arteriovenous Malformation Resection — Fig. 1](../../figures/curated/case-prep-arteriovenous-malformation-avm-resection/figure-10-fig-1-13256-2017-1546-fig1-html-jpg.jpg)
 *Fig. 1. a Physical examination showed grade 3 left varicocele. b Computed tomography showed early enhanced dilated renal vein (blue arrow) and irregular lesion in the upper pole of left kidney,... Source: [Varicocele due to renal arteriovenous malformation mimicking a renal tumor: a case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC5755272/) — Journal of Medical Case Reports 2018; CC BY.*
@@ -235,6 +240,19 @@ The resection bed was inspected and meticulous hemostasis obtained under control
 - Seizure prophylaxis
 - CT head, monitor for hemorrhage/edema
 - Follow-up DSA, clinic
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Arteriovenous Malformation (AVM) Resection**:
+
+- **Decision point:** The operation is won or lost on control: identify inflow, outflow, perforators, collateral options, and the fastest route to temporary control before exposing the lesion itself.
+- **Technical lever:** Do not accept a cosmetic result over physiology: ICG/Doppler/DSA, branch patency, perforator preservation, and parent-vessel caliber matter more than how the clip or resection bed looks.
+- **Bailout:** Have a rupture or ischemia script ready: lower pressure, suction strategy, temporary occlusion time, heparin/reversal plan, bypass/reconstruction threshold, and postop BP targets.
+- **Postop watch:** Postop danger is delayed: vasospasm, thromboembolism, hyperperfusion, hemorrhage, edema, hydrocephalus, and seizure plans need explicit orders.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

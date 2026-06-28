@@ -63,29 +63,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Occipitocervical Fusion — Figure 1](../../figures/curated/case-prep-occipitocervical-fusion/figure-01-figure-1-13018-2014-87-fig1-html-jpg.jpg)
 *Figure 1. Illustrations of the MCD, OCA, and OCD on one lateral radiograph. The MCD is the shortest distance (BD) from the midpoint (point B) of the two apices of the mandible angles (points A and... Source: [Evaluation of occipitocervical neutral position using lateral radiographs](https://pmc.ncbi.nlm.nih.gov/articles/PMC4194409/) — Journal of Orthopaedic Surgery and Research 2014; CC BY.*
 
+
 ![Occipitocervical Fusion — Figure 2](../../figures/curated/case-prep-occipitocervical-fusion/figure-02-figure-2-13018-2014-87-fig2-html-jpg.jpg)
 *Figure 2. The MCDs were less affected when the head was slightly rotated. The figure shows the head in neutral position (a). The head turned right (b), and the head turned left (c). Source: [Evaluation of occipitocervical neutral position using lateral radiographs](https://pmc.ncbi.nlm.nih.gov/articles/PMC4194409/) — Journal of Orthopaedic Surgery and Research 2014; CC BY.*
+
 
 ![Occipitocervical Fusion — Figure 3](../../figures/curated/case-prep-occipitocervical-fusion/figure-03-figure-3-13018-2014-87-fig3-html-jpg.jpg)
 *Figure 3. A preoperative and postoperative radiograph. (a) Preoperative radiograph of a patient with chronic atlantoaxial dislocation secondary to occipitalization showed a decreased MCD and OCA.... Source: [Evaluation of occipitocervical neutral position using lateral radiographs](https://pmc.ncbi.nlm.nih.gov/articles/PMC4194409/) — Journal of Orthopaedic Surgery and Research 2014; CC BY.*
 
+
 ![Occipitocervical Fusion — Fig. 1](../../figures/curated/case-prep-occipitocervical-fusion/figure-04-fig-1-12891-2020-3258-fig1-html-jpg.jpg)
 *Fig. 1. Spinous process screw as a third anchor point in C2 for occipitocervical fixation. a Anteroposterior view. b Lateral view Source: [Outcomes of occipitocervical fixation using a spinous process screw in C2 as a third anchor point for occipitocervical fixation: a case presentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229638/) — BMC Musculoskeletal Disorders 2020; CC BY.*
+
 
 ![Occipitocervical Fusion — Fig. 2](../../figures/curated/case-prep-occipitocervical-fusion/figure-05-fig-2-12891-2020-3258-fig2-html-jpg.jpg)
 *Fig. 2. A 35-year-old man with occipitocervical deformity was treated with posterior occipitocervical fixation and fusion. a–c Occipital screws, C2 bilateral pedicle screws, a C2 spinous process... Source: [Outcomes of occipitocervical fixation using a spinous process screw in C2 as a third anchor point for occipitocervical fixation: a case presentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229638/) — BMC Musculoskeletal Disorders 2020; CC BY.*
 
+
 ![Occipitocervical Fusion — Fig. 3](../../figures/curated/case-prep-occipitocervical-fusion/figure-06-fig-3-12891-2020-3258-fig3-html-jpg.jpg)
 *Fig. 3. a–d Clinical photographs show the good cervical function of the patient in various positions at the 24-month follow-up visit Source: [Outcomes of occipitocervical fixation using a spinous process screw in C2 as a third anchor point for occipitocervical fixation: a case presentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7229638/) — BMC Musculoskeletal Disorders 2020; CC BY.*
 
-![Occipitocervical Fusion — Fig. 1](../../figures/curated/case-prep-occipitocervical-fusion/figure-07-fig-1-gr1-jpg.jpg)
-*Fig. 1. Incidence of atlanto-axial fusion vs. occipitocervical fusion from 2008 to 2016. Source: [Postoperative complication rates and hazards-model survival analysis of revision surgery following occipitocervical and atlanto-axial fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC8820023/) — North American Spine Society Journal 2020; CC BY-NC-ND.*
-
-![Occipitocervical Fusion — Fig. 2](../../figures/curated/case-prep-occipitocervical-fusion/figure-08-fig-2-gr2-jpg.jpg)
-*Fig. 2. Kaplan–Meier survival of atlas-axis fusion vs. occipitocervical fusion with endpoint of revision. Source: [Postoperative complication rates and hazards-model survival analysis of revision surgery following occipitocervical and atlanto-axial fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC8820023/) — North American Spine Society Journal 2020; CC BY-NC-ND.*
 
 ![Occipitocervical Fusion — Figure 1](../../figures/curated/case-prep-occipitocervical-fusion/figure-09-figure-1-crim2017-7317289-001-jpg.jpg)
 *Figure 1. MRI demonstrated a mass (arrows) in the occipitocervical subcutaneous tissue with uneven signal intensity on (Figure 1(a)) sagittal T2-weighted, (Figure 1(b)) T2-weighted fat suppressed,... Source: [Occipitocervical Hemolymphangioma in an Adult with Neck Pain and Stiffness: Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5738575/) — Case Reports in Medicine 2017; CC BY.*
+
 
 ![Occipitocervical Fusion — Figure 2](../../figures/curated/case-prep-occipitocervical-fusion/figure-10-figure-2-crim2017-7317289-002-jpg.jpg)
 *Figure 2. Histological analysis of specimen (hematoxylin and eosin stain; magnification ×100) showed abnormal lymphatic (black arrowheads) and blood vessels (black stars) with polycystic spaces. Source: [Occipitocervical Hemolymphangioma in an Adult with Neck Pain and Stiffness: Case Report and Literature Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5738575/) — Case Reports in Medicine 2017; CC BY.*
@@ -207,6 +208,19 @@ A watertight closure [if decompression] was performed in layers with a drain. Th
 - **Swallow evaluation** (alignment/dysphagia), aspiration precautions
 - DVT prophylaxis, RA medication management, CSF leak watch
 - Follow-up imaging for fusion/alignment; counsel re: reduced motion
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Occipitocervical Fusion**:
+
+- **Decision point:** Treat physiology while preparing the room: airway, reversal, transfusion, ICP/CPP, sodium/osmolality, temperature, and repeat imaging drive timing as much as the scan finding.
+- **Technical lever:** Know the operative priority: decompression, hemorrhage control, debridement, dural closure, reconstruction, stabilization, or contamination control.
+- **Bailout:** Plan for swelling and coagulopathy: bone flap decision, duraplasty size, drain/EVD need, hemostatic adjuncts, and ICU handoff should be decided early.
+- **Postop watch:** Postop failure modes are predictable: expanding hematoma, malignant edema, seizure, infection, CSF leak, venous sinus injury, and missed associated spine/vascular injury.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

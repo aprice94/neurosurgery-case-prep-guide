@@ -220,6 +220,19 @@ The patient was transferred to the epilepsy monitoring unit; AEDs were reduced p
 - After monitoring: define epileptogenic zone → plan resection/ablation; **electrode explantation** (bedside or OR)
 - Epilepsy conference for surgical decision
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Stereo-EEG (SEEG) Depth Electrode Placement**:
+
+- **Decision point:** Define the symptom physiology: target circuit or offending vessel/nerve must match the history, exam, imaging, and intraoperative monitoring plan.
+- **Technical lever:** Small errors matter: trajectory, lead/contact position, arachnoid dissection, cranial-nerve handling, or mapping threshold can be the difference between success and morbidity.
+- **Bailout:** Have a stop rule: unacceptable mapping response, BAER/MEP/SSEP change, hemorrhage, CSF loss, poor target confidence, or patient intolerance should trigger a defined pivot.
+- **Postop watch:** Postop success requires programming/follow-up details: neurologic exam, imaging, medication adjustment, device restrictions, wound care, and symptom-specific outcome tracking.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions

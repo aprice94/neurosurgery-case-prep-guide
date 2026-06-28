@@ -72,29 +72,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 1](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-01-figure-1-fneur-17-1801932-g0001-jpg.jpg)
 *Figure 1. Trial profile. Source: [Early decompressive hemicraniectomy combined with mild hypothermia treatment for malignant middle cerebral artery infarction](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230002/) — Frontiers in Neurology 2026; CC BY.*
 
+
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 2](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-02-figure-2-fneur-17-1801932-g0002-jpg.jpg)
 *Figure 2. Distribution of 6-month modified Rankin scale scores in patients receiving DHC alone vs. those receiving DHC combined with mild hypothermia. Source: [Early decompressive hemicraniectomy combined with mild hypothermia treatment for malignant middle cerebral artery infarction](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230002/) — Frontiers in Neurology 2026; CC BY.*
+
 
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 1](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-03-figure-1-neurosciences-22-192-g001-jpg.jpg)
 *Figure 1. Case illustration of a 39-year-old male (case 4) who presented with left massive MCA infarction demonstrated on A) plain CT scan which was delineated by MRI diffusion B) and ADC scan C)... Source: [Decompressive hemicraniectomy for malignant middle cerebral artery infarction](https://pmc.ncbi.nlm.nih.gov/articles/PMC5946363/) — Neurosciences 2017; CC BY.*
 
+
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Fig. 1](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-04-fig-1-gr1-jpg.jpg)
 *Fig. 1. (clockwise from top left) overhead view of a 3D-rendered fully segmented brain before (orange) and after (blue) decompressive hemicraniectomy (DCE); front view of a 3D-rendered fully... Source: [How much space is needed for decompressive surgery in malignant middle cerebral artery infarction: Enabling single-stage surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10293220/) — Brain & Spine 2023; CC BY-NC-ND.*
+
 
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Fig. 2](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-05-fig-2-gr2-jpg.jpg)
 *Fig. 2. Schematic representation of the main surgical steps of a decompressive hemicraniectomy as described by Raabe et al. (Raabe, 2019) Dural incision after bony decompression is not shown.... Source: [How much space is needed for decompressive surgery in malignant middle cerebral artery infarction: Enabling single-stage surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10293220/) — Brain & Spine 2023; CC BY-NC-ND.*
 
-![Decompressive Hemicraniectomy Malignant MCA Infarction — Fig. 3](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-06-fig-3-gr3-jpg.jpg)
-*Fig. 3. Flow chart representing all patients screened and the reason for their eventual exclusion from the study population. Source: [How much space is needed for decompressive surgery in malignant middle cerebral artery infarction: Enabling single-stage surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10293220/) — Brain & Spine 2023; CC BY-NC-ND.*
 
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Fig. 4](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-07-fig-4-gr4-jpg.jpg)
 *Fig. 4. A.Distribution of the different measured volumes in mL,B.the distribution of bone flap diameters, andC.the modeled swelling above the previous outer skull rim after decompressive... Source: [How much space is needed for decompressive surgery in malignant middle cerebral artery infarction: Enabling single-stage surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10293220/) — Brain & Spine 2023; CC BY-NC-ND.*
 
+
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 8](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-08-figure-8-medi-94-e1039-g001-jpg.jpg)
 *Figure 8. Source: [A Cohort Study of Decompressive Craniectomy for Malignant Middle Cerebral Artery Infarction: A Real-World Experience in Clinical Practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC4504625/) — Medicine (Baltimore). 2015 Jun 26;94(25):e1039. doi: 10.1097/MD.0000000000001039; CC BY-NC-ND.*
 
+
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 9](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-09-figure-9-medi-94-e1039-g002-jpg.jpg)
 *Figure 9. Source: [A Cohort Study of Decompressive Craniectomy for Malignant Middle Cerebral Artery Infarction: A Real-World Experience in Clinical Practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC4504625/) — Medicine (Baltimore). 2015 Jun 26;94(25):e1039. doi: 10.1097/MD.0000000000001039; CC BY-NC-ND.*
+
 
 ![Decompressive Hemicraniectomy Malignant MCA Infarction — Figure 10](../../figures/curated/case-prep-decompressive-hemicraniectomy-for-malignant-mca-infarction/figure-10-figure-10-medi-94-e1039-g003-jpg.jpg)
 *Figure 10. Source: [A Cohort Study of Decompressive Craniectomy for Malignant Middle Cerebral Artery Infarction: A Real-World Experience in Clinical Practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC4504625/) — Medicine (Baltimore). 2015 Jun 26;94(25):e1039. doi: 10.1097/MD.0000000000001039; CC BY-NC-ND.*
@@ -219,6 +224,19 @@ The dura was opened widely in a stellate fashion, decompressing the swollen, inf
 - Seizure prophylaxis per practice
 - **Cranioplasty in ~6-12 weeks** once edema resolved
 - Early rehab evaluation, goals-of-care discussions
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Decompressive Hemicraniectomy for Malignant MCA Infarction**:
+
+- **Decision point:** The operation is won or lost on control: identify inflow, outflow, perforators, collateral options, and the fastest route to temporary control before exposing the lesion itself.
+- **Technical lever:** Do not accept a cosmetic result over physiology: ICG/Doppler/DSA, branch patency, perforator preservation, and parent-vessel caliber matter more than how the clip or resection bed looks.
+- **Bailout:** Have a rupture or ischemia script ready: lower pressure, suction strategy, temporary occlusion time, heparin/reversal plan, bypass/reconstruction threshold, and postop BP targets.
+- **Postop watch:** Postop danger is delayed: vasospasm, thromboembolism, hyperperfusion, hemorrhage, edema, hydrocephalus, and seizure plans need explicit orders.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

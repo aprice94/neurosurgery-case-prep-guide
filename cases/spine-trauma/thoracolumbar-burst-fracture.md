@@ -59,32 +59,17 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Thoracolumbar Burst Fracture Fixation — Figure 3.](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-01-figure-3-10-1177-21925682211005411-fig3-jpg.jpg)
-*Figure 3.. Meta-analysis of sagittal Cobb Angle preoperatively versus postoperatively (A), preoperatively versus final follow-up (B) and at time of removal versus final follow-up (C). Source: [Implant Removal Versus Implant Retention Following Posterior Surgical Stabilization of Thoracolumbar Burst Fractures: A Systematic Review and Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9109574/) — Global Spine Journal 2021; CC BY-NC-ND.*
-
-![Thoracolumbar Burst Fracture Fixation — Figure 4.](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-02-figure-4-10-1177-21925682211005411-fig4-jpg.jpg)
-*Figure 4.. Meta-analysis of Cobb Angle loss of correction from time of removal versus final follow-up in implant removal cohort (A) and implant retention cohort (B). Source: [Implant Removal Versus Implant Retention Following Posterior Surgical Stabilization of Thoracolumbar Burst Fractures: A Systematic Review and Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9109574/) — Global Spine Journal 2021; CC BY-NC-ND.*
-
-![Thoracolumbar Burst Fracture Fixation — Figure 5.](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-03-figure-5-10-1177-21925682211005411-fig5-jpg.jpg)
-*Figure 5.. Meta-analysis of Visual Analogue Scale (VAS) score pre-operatively versus final follow-up in implant removal cohort (A) and implant retention cohort (B). Source: [Implant Removal Versus Implant Retention Following Posterior Surgical Stabilization of Thoracolumbar Burst Fractures: A Systematic Review and Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9109574/) — Global Spine Journal 2021; CC BY-NC-ND.*
-
-![Thoracolumbar Burst Fracture Fixation — Figure 6.](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-04-figure-6-10-1177-21925682211005411-fig6-jpg.jpg)
-*Figure 6.. Meta-analysis of Oswestry Disabilty Index (ODI) of function at time of implant removal versus 1 year follow-up (A) and final follow-up (B). Source: [Implant Removal Versus Implant Retention Following Posterior Surgical Stabilization of Thoracolumbar Burst Fractures: A Systematic Review and Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9109574/) — Global Spine Journal 2021; CC BY-NC-ND.*
-
-![Thoracolumbar Burst Fracture Fixation — Figure 5](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-05-figure-5-10-1177-21925682211005411-img1-jpg.jpg)
-*Figure 5. Source: [Implant Removal Versus Implant Retention Following Posterior Surgical Stabilization of Thoracolumbar Burst Fractures: A Systematic Review and Meta-Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9109574/) — Global Spine J. 2021 Apr 29;12(4):700–18. doi: 10.1177/21925682211005411; CC BY-NC-ND.*
-
-![Thoracolumbar Burst Fracture Fixation — Figure 9.](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-06-figure-9-medi-104-e42699-g009-jpg.jpg)
-*Figure 9.. Egger test of publication bias. (A) intraoperative bleeding (P = .664 > .05); (B) operation time (P = .317 > .05); (C) the final follow-up Cobb angle (P = .109 > .05); (D) the final... Source: [Efficacy and safety of posterior short-segment versus long-segment pedicle screws fixation for thoracolumbar burst fractures: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12150920/) — Medicine 2025; CC BY.*
-
 ![Thoracolumbar Burst Fracture Fixation — Figure 7](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-07-figure-7-iort-87-511if1-jpg.jpg)
 *Figure 7. Source: [Can implant removal restore mobility after fracture of the thoracolumbar segment? A radiostereometric study](https://pmc.ncbi.nlm.nih.gov/articles/PMC5016911/) — Acta Orthop. 2016 Jun 17;87(5):511–5. doi: 10.1080/17453674.2016.1197531; CC BY-NC.*
+
 
 ![Thoracolumbar Burst Fracture Fixation — Fig. 1](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-08-fig-1-12891-2022-5051-fig1-html-jpg.jpg)
 *Fig. 1. a: at the time of injury, b: after posterior pedicle screw fixation, c: before implant removal, and d: at final observation Source: [Vacuum phenomenon as a predictor of kyphosis after implant removal following posterior pedicle screw fixation without fusion for thoracolumbar burst fracture: a single-center retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8796575/) — BMC Musculoskeletal Disorders 2022; CC BY.*
 
+
 ![Thoracolumbar Burst Fracture Fixation — Fig. 2](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-09-fig-2-12891-2022-5051-fig2-html-jpg.jpg)
 *Fig. 2. Kyphotic angle Source: [Vacuum phenomenon as a predictor of kyphosis after implant removal following posterior pedicle screw fixation without fusion for thoracolumbar burst fracture: a single-center retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8796575/) — BMC Musculoskeletal Disorders 2022; CC BY.*
+
 
 ![Thoracolumbar Burst Fracture Fixation — Fig. 3](../../figures/curated/case-prep-thoracolumbar-burst-fracture-fixation/figure-10-fig-3-12891-2022-5051-fig3-html-jpg.jpg)
 *Fig. 3. Vacuum phenomenon Source: [Vacuum phenomenon as a predictor of kyphosis after implant removal following posterior pedicle screw fixation without fusion for thoracolumbar burst fracture: a single-center retrospective study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8796575/) — BMC Musculoskeletal Disorders 2022; CC BY.*
@@ -224,6 +209,19 @@ Hemostasis was obtained, a subfascial drain placed, and the wound closed in laye
 - If dural tear: flat bed rest, leak precautions
 - DVT prophylaxis, mobilize with brace, bowel/bladder management
 - Follow-up imaging for fusion/alignment; rehab
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Thoracolumbar Burst Fracture Fixation**:
+
+- **Decision point:** Treat physiology while preparing the room: airway, reversal, transfusion, ICP/CPP, sodium/osmolality, temperature, and repeat imaging drive timing as much as the scan finding.
+- **Technical lever:** Know the operative priority: decompression, hemorrhage control, debridement, dural closure, reconstruction, stabilization, or contamination control.
+- **Bailout:** Plan for swelling and coagulopathy: bone flap decision, duraplasty size, drain/EVD need, hemostatic adjuncts, and ICU handoff should be decided early.
+- **Postop watch:** Postop failure modes are predictable: expanding hematoma, malignant edema, seizure, infection, CSF leak, venous sinus injury, and missed associated spine/vascular injury.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

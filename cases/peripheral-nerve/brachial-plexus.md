@@ -212,6 +212,19 @@ Hemostasis was obtained and closure performed; the repairs were protected with [
 - **Reinnervation is slow (~1 mm/day; months to years)** — Tinel advancement, serial EMG, intensive OT/PT, motor re-education (esp. transfers)
 - Pain management (neuropathic), counsel realistic timeline/expectations; long-term follow-up
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Brachial Plexus Injury — Exploration, Repair, Grafting, and Nerve Transfer**:
+
+- **Decision point:** Localization is everything: symptoms, exam, Tinel point, EMG/NCS, ultrasound/MRI, and provocative maneuvers must agree before incision.
+- **Technical lever:** Protect fascicles and blood supply: internal neurolysis, tumor shelling, graft/transfer decisions, tourniquet time, and stimulation thresholds should be deliberate.
+- **Bailout:** Know when not to chase: dense scarring, malignant features, unclear fascicular anatomy, or unexpected motor fascicle involvement may justify biopsy, subtotal resection, or staged reconstruction.
+- **Postop watch:** Postop orders should preserve the repair: splint/immobilization interval, therapy timing, sensory protection, pain plan, and expected recovery timeline.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions

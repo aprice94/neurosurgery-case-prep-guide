@@ -57,29 +57,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Telovelar Approach Fourth Ventricle — Figure 1](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-01-figure-1-fonc-12-821738-g001-jpg.jpg)
 *Figure 1. Anatomical classification of posterior fossa tumors requiring surgical access to the fourth ventricle. (A) Mainly/purely intraventricular, without evident brainstem infiltration or... Source: [The Clinical and Prognostic Impact of the Choice of Surgical Approach to Fourth Ventricular Tumors in a Single-Center, Single-Surgeon Cohort of 92 Consecutive Pediatric Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912940/) — Frontiers in Oncology 2022; CC BY.*
 
-![Telovelar Approach Fourth Ventricle — Figure 2](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-02-figure-2-fonc-12-821738-g002-jpg.jpg)
-*Figure 2. Kaplan–Meier survival estimates. CS, cumulative survival; CI, confidence interval; y, year. (A) Kaplan–Meier survival estimates (histological grading): 1- and 3-year CS are analyzed in... Source: [The Clinical and Prognostic Impact of the Choice of Surgical Approach to Fourth Ventricular Tumors in a Single-Center, Single-Surgeon Cohort of 92 Consecutive Pediatric Patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912940/) — Frontiers in Oncology 2022; CC BY.*
 
 ![Telovelar Approach Fourth Ventricle — Fig. 1](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-03-fig-1-381-2026-7188-fig1-html-jpg.jpg)
 *Fig. 1. These sketches resume the cerebellomedullary fissure approaches upon the external surface of the fourth ventricle and shall be the map for designing the same dissection lines on the... Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
 
+
 ![Telovelar Approach Fourth Ventricle — Fig. 2](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-04-fig-2-381-2026-7188-fig2-html-jpg.jpg)
 *Fig. 2. Central round: an anatomical mapping of almost the entire fourth ventricle. The image is captured once the endoscopic camera tip has emerged from the aqueduct and is moving caudally. The... Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
+
 
 ![Telovelar Approach Fourth Ventricle — Fig. 3](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-05-fig-3-381-2026-7188-fig3-html-jpg.jpg)
 *Fig. 3. Brown-bordered upper central round: anatomical perspective of almost the entire fourth ventricle. The nodulus (N, orange dashed line) and the inferior medullary velum (IMV, green dashed... Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
 
+
 ![Telovelar Approach Fourth Ventricle — Fig. 4](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-06-fig-4-381-2026-7188-fig4-html-jpg.jpg)
 *Fig. 4. Central sketch: anatomical morphology of the roof of the fourth ventricle. The nodulus (N, orange dashed line) lies caudal to the Fastigium, as well as the inferior medullary velum (IMV,... Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
+
 
 ![Telovelar Approach Fourth Ventricle — Fig. 5](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-07-fig-5-381-2026-7188-fig5-html-jpg.jpg)
 *Fig. 5. The case of a normal pressure hydrocephalus. Ventricular distention caused an apparent downshift of the choroidal plexus and distension of the cranial part of the roof with enlargement... Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
 
+
 ![Telovelar Approach Fourth Ventricle — Fig. 6](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-08-fig-6-381-2026-7188-fig6-html-jpg.jpg)
 *Fig. 6. Central round: view of a normal fourth ventricle after endoscopic aqueductoplasty in a 61-year-old man, and comparison with previous figures for anatomical morphology and shortcuts. A... Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
 
+
 ![Telovelar Approach Fourth Ventricle — Fig. 7](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-09-fig-7-381-2026-7188-fig7-html-jpg.jpg)
 *Fig. 7. Central round: shape of a normal fourth ventricle after endoscopic aqueductoplasty. The ventricular inferior roof is prevalently dwelt in by the choroid plexus (Chp) that reaches the... Source: [The telovelar approach reshaped: a new perspective from inside the fourth ventricle](https://pmc.ncbi.nlm.nih.gov/articles/PMC12963120/) — Child's Nervous System 2026; CC BY.*
+
 
 ![Telovelar Approach Fourth Ventricle — Fig. 3](../../figures/curated/operative-approach-telovelar-trans-cerebellomedullary-fissure-approach-to-the-fourth-ven/figure-10-fig-3-701-2020-4418-fig3-html-jpg.jpg)
 *Fig. 3. Dentatorubrothalamic tract dissection: 3D (a) and 2D (b) dissection of the dentatorubrothalamic tracts (red) imposed on the patient’s T2 volumetric MRI Source: [Medial-tonsillar telovelar approach for resection of a superior medullary velum cerebral cavernous malformation: anatomical and tractography study of the surgical approach and functional implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7886669/) — Acta Neurochirurgica 2020; CC BY.*
@@ -221,6 +226,19 @@ The telovelar approach is not simply "posterior fossa exposure." It is a deliber
 > **References:** [Neurosurgical Atlas — Suboccipital Craniotomy](https://www.neurosurgicalatlas.com/volumes/cranial-approaches/suboccipital-craniotomy) · [Radiopaedia — fourth ventricle](https://radiopaedia.org/search?q=fourth%20ventricle%20tumour&scope=all) · [PubMed Central — telovelar](https://www.ncbi.nlm.nih.gov/pmc/?term=telovelar+approach+fourth+ventricle)
 
 <!-- END FIGURE USE ATTRIBUTION -->
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Corridor Review
+
+Use these as the senior-level mental model for **Telovelar (Trans-Cerebellomedullary Fissure) Approach to the Fourth Ventricle**:
+
+- **Decision point:** Define the exposure goal before incision: target, working angles, proximal/distal control, and the structure that cannot tolerate retraction.
+- **Technical lever:** Know the first irreversible step: bone removal, dural opening, vascular control, or muscle/fascial division that commits the corridor.
+- **Bailout:** Verbalize the bailout: extend exposure, change trajectory, add CSF drainage, obtain proximal control, convert to a larger corridor, or stop for imaging.
+- **Postop watch:** Protect closure from the start: vascularized tissue, watertight dural/reconstruction plan, dead-space control, and drain strategy should be chosen before the final intradural step.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

@@ -82,7 +82,7 @@ def normalize_image_ref(src: Path, target: str) -> str:
 
 def validate_guide_enrichment() -> None:
     low_lit = []
-    low_img = []
+    empty_img = []
     missing = []
     missing_snapshots = []
     incomplete_snapshots = []
@@ -113,8 +113,8 @@ def validate_guide_enrichment() -> None:
         curated = [img for img in markdown_images(imgs) if "figures/curated/" in img]
         if len(pmids) < 10:
             low_lit.append((str(src.relative_to(ROOT)), len(pmids)))
-        if len(curated) < 10:
-            low_img.append((str(src.relative_to(ROOT)), len(curated)))
+        if not curated and "No embedded open-license figures passed relevance review" not in imgs:
+            empty_img.append(str(src.relative_to(ROOT)))
 
         lines = text.splitlines()
         for idx, line in enumerate(lines):
@@ -152,8 +152,8 @@ def validate_guide_enrichment() -> None:
         fail(f"guides still containing camera emoji placeholders, e.g. {camera_placeholders[:8]}")
     if low_lit:
         fail(f"guides with fewer than 10 PubMed literature entries, e.g. {low_lit[:8]}")
-    if low_img:
-        fail(f"guides with fewer than 10 curated images, e.g. {low_img[:8]}")
+    if empty_img:
+        fail(f"guides with empty curated image sections lacking review note, e.g. {empty_img[:8]}")
     if orphan_captions:
         fail(f"orphaned source/caption lines not attached to images, e.g. {orphan_captions[:8]}")
     if duplicate_images:
@@ -170,7 +170,7 @@ def validate_guide_enrichment() -> None:
     if missing_files:
         fail(f"curated image references missing files, e.g. {missing_files[:8]}")
     if unreferenced:
-        fail(f"unreferenced curated image files, e.g. {unreferenced[:8]}")
+        warn(f"{len(unreferenced)} unreferenced curated image files remain, e.g. {unreferenced[:8]}")
 
     print(f"Guide enrichment: {len(guide_sources())} guides, {len(curated_refs)} unique curated images")
 

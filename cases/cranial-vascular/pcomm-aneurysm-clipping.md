@@ -63,32 +63,37 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Posterior Communicating Artery Aneurysm Clipping — Figure 1](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-01-figure-1-fsurg-09-1043428-g001-jpg.jpg)
-*Figure 1. Receiver operating characteristic curve of duration of intraoperative temporary clipping and electrophysiological monitoring and warning. Source: [Predictive value of neurophysiological monitoring during posterior communicating artery aneurysm clipping for postoperative neurological deficits](https://pmc.ncbi.nlm.nih.gov/articles/PMC9852611/) — Frontiers in Surgery 2023; CC BY.*
-
 ![Posterior Communicating Artery Aneurysm Clipping — FIG. 1.](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-02-fig-1-case24607-figure-1-jpg.jpg)
 *FIG. 1.. Preoperative CTA scan demonstrating a 2.0 × 1.5 × 1.5–cm, unruptured, right PComA aneurysm. Source: [Retrograde thrombosis of the superficial sylvian vein following liquid adhesive hemostat use during craniotomy: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC11744693/) — Journal of Neurosurgery: Case Lessons 2025; CC BY-NC-ND.*
+
 
 ![Posterior Communicating Artery Aneurysm Clipping — FIG. 2.](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-03-fig-2-case24607-figure-2-jpg.jpg)
 *FIG. 2.. A:Preoperative diagnostic cerebral angiogram demonstrating right PComA aneurysm. B:Postoperative cerebral angiogram demonstrating impeded flow through the sylvian vein into the deep... Source: [Retrograde thrombosis of the superficial sylvian vein following liquid adhesive hemostat use during craniotomy: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC11744693/) — Journal of Neurosurgery: Case Lessons 2025; CC BY-NC-ND.*
 
+
 ![Posterior Communicating Artery Aneurysm Clipping — FIG. 3.](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-04-fig-3-case24607-figure-3-jpg.jpg)
 *FIG. 3.. A:An intact, pale cerebral vein is visualized on dural opening. B:A straight, 25-mm permanent aneurysm clip was placed across the right PComA aneurysm. Flow through the parent vessel and... Source: [Retrograde thrombosis of the superficial sylvian vein following liquid adhesive hemostat use during craniotomy: illustrative case](https://pmc.ncbi.nlm.nih.gov/articles/PMC11744693/) — Journal of Neurosurgery: Case Lessons 2025; CC BY-NC-ND.*
+
 
 ![Posterior Communicating Artery Aneurysm Clipping — Figure 1](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-05-figure-1-mi-01-04-00012-g00-jpg.jpg)
 *Figure 1. Preoperative images. (A) Brain CT scan illustrating the SAH in the suprasellar cistern and right lateral fissure cistern. (B) CTA illustrating the right PcomA aneurysm (arrow). (C) CTA... Source: [Common origin of the anterior choroidal artery and posterior communicating artery with a concomitant aneurysm at the internal carotid artery-posterior communicating artery junction: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9829080/) — Medicine International 2021; CC BY-NC-ND.*
 
+
 ![Posterior Communicating Artery Aneurysm Clipping — Figure 2](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-06-figure-2-mi-01-04-00012-g01-jpg.jpg)
 *Figure 2. Intraoperative and post-operative follow-up images. (A) Intraoperative images showing the main arterial structures around the PcomA aneurysm. (B) First, the aneurysm was clipped using an... Source: [Common origin of the anterior choroidal artery and posterior communicating artery with a concomitant aneurysm at the internal carotid artery-posterior communicating artery junction: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC9829080/) — Medicine International 2021; CC BY-NC-ND.*
+
 
 ![Posterior Communicating Artery Aneurysm Clipping — Fig. 1](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-07-fig-1-gr1-jpg.jpg)
 *Fig. 1. Preoperative one-stop CT examination. A: No hemorrhage was seen in the head CT scan. B: Head and neck CTA shows severe stenosis of the siphon segment of the right ICA (indicated by the... Source: [Endovascular treatment without postoperative decompressive craniectomy in an acute stroke patient with very large ischemic infarct core: A case report and literature review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11176839/) — Heliyon 2024; CC BY.*
 
+
 ![Posterior Communicating Artery Aneurysm Clipping — Figure 3](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-08-figure-3-ajns-12-189-g003-jpg.jpg)
 *Figure 3. (a) The proximal and distal dural rings, (b) a combination of extradural and subdural dissections showing the approach to sella (PCP = Posterior clinoid process) Source: [Extradural anterior clinoidectomy: Technical nuances from a learner's perspective](https://pmc.ncbi.nlm.nih.gov/articles/PMC5409364/) — Asian Journal of Neurosurgery 2017; CC BY-NC-SA.*
 
+
 ![Posterior Communicating Artery Aneurysm Clipping — Fig. 1.](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-09-fig-1-jkns-2023-0184f1-jpg.jpg)
 *Fig. 1.. Microscopic view of (A) intradural surgical field before extradural anterior clinoidectomy, (B) extradural surgical field after extradural anterior clinoidectomy, and (C) intradural... Source: [The Usefulness of Extradural Anterior Clinoidectomy for Low-Lying Posterior Communicating Artery Aneurysms : A Cadaveric Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11220413/) — Journal of Korean Neurosurgical Society 2024; CC BY-NC.*
+
 
 ![Posterior Communicating Artery Aneurysm Clipping — Fig. 2.](../../figures/curated/case-prep-posterior-communicating-artery-pcoma-aneurysm-clipping/figure-10-fig-2-jkns-2023-0184f2-jpg.jpg)
 *Fig. 2.. Comparative illustration of the intradural surgical field (A) before and (B) after the extradural anterior clinoidectomy. The blue dotted line is the margin of the anterior clinoid... Source: [The Usefulness of Extradural Anterior Clinoidectomy for Low-Lying Posterior Communicating Artery Aneurysms : A Cadaveric Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11220413/) — Journal of Korean Neurosurgical Society 2024; CC BY-NC.*
@@ -217,6 +222,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 - **CN III recovery tracking** — document pupil and EOM; recovery over weeks-months
 - Anterior choroidal syndrome screening
 - Standard aneurysm post-op care
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Posterior Communicating Artery (PComA) Aneurysm Clipping**:
+
+- **Decision point:** The operation is won or lost on control: identify inflow, outflow, perforators, collateral options, and the fastest route to temporary control before exposing the lesion itself.
+- **Technical lever:** Do not accept a cosmetic result over physiology: ICG/Doppler/DSA, branch patency, perforator preservation, and parent-vessel caliber matter more than how the clip or resection bed looks.
+- **Bailout:** Have a rupture or ischemia script ready: lower pressure, suction strategy, temporary occlusion time, heparin/reversal plan, bypass/reconstruction threshold, and postop BP targets.
+- **Postop watch:** Postop danger is delayed: vasospasm, thromboembolism, hyperperfusion, hemorrhage, edema, hydrocephalus, and seizure plans need explicit orders.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

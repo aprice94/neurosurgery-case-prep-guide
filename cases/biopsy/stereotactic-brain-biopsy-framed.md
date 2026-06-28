@@ -57,32 +57,25 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Frame-Based Stereotactic Brain Biopsy — Figure 2:](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-01-figure-2-sni-12-52-g002-jpg.jpg)
-*Figure 2:. Pooled analysis of risk ratios of measured outcomes. Source: [Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7911151/) — Surgical Neurology International 2021; CC BY-NC-SA.*
-
-![Frame-Based Stereotactic Brain Biopsy — Figure 3:](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-02-figure-3-sni-12-52-g003-jpg.jpg)
-*Figure 3:. Grading of Recommendations Assessment, Development, and Evaluation summary of findings. Source: [Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7911151/) — Surgical Neurology International 2021; CC BY-NC-SA.*
-
-![Frame-Based Stereotactic Brain Biopsy — Figure 3](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-03-figure-3-sni-12-52-inline001-jpg.jpg)
-*Figure 3. Source: [Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7911151/) — Surg Neurol Int. 2021 Feb 10;12:52. doi: 10.25259/SNI_824_2020; CC BY-NC-SA.*
-
-![Frame-Based Stereotactic Brain Biopsy — Figure 4](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-04-figure-4-sni-12-52-t001-jpg.jpg)
-*Figure 4. Source: [Frame-based versus frameless stereotactic brain biopsies: A systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7911151/) — Surg Neurol Int. 2021 Feb 10;12:52. doi: 10.25259/SNI_824_2020; CC BY-NC-SA.*
-
 ![Frame-Based Stereotactic Brain Biopsy — Figure 1](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-05-figure-1-gr1-jpg.jpg)
 *Figure 1. Multimodal imaging findings of a patient with primary CNS lymphoma in the splenium of the corpus callosum: A: slightly higher CT plain scan density; B: hypointense in T1; C: hypointense... Source: [Preliminary clinical application of multimodal imaging combined with frameless robotic stereotactic biopsy in the diagnosis of primary central nervous system lymphoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC9758408/) — Heliyon 2022; CC BY.*
+
 
 ![Frame-Based Stereotactic Brain Biopsy — Figure 2](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-06-figure-2-gr2-jpg.jpg)
 *Figure 2. The spectra showed an obvious increase in CHO, a decrease in NAA, and an increase in CHO/Cr and Cho/NAA ratios in the lesion (in the red boxes) compared with the normal brain (in the... Source: [Preliminary clinical application of multimodal imaging combined with frameless robotic stereotactic biopsy in the diagnosis of primary central nervous system lymphoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC9758408/) — Heliyon 2022; CC BY.*
 
+
 ![Frame-Based Stereotactic Brain Biopsy — Figure 3](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-07-figure-3-gr3-jpg.jpg)
 *Figure 3. Procedure of frameless stereotactic robotic needle biopsy in the patient with PCNSL: A: the puncture trajectory was determined according to the puncture target; B: Four spherical... Source: [Preliminary clinical application of multimodal imaging combined with frameless robotic stereotactic biopsy in the diagnosis of primary central nervous system lymphoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC9758408/) — Heliyon 2022; CC BY.*
+
 
 ![Frame-Based Stereotactic Brain Biopsy — Figure 1](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-08-figure-1-fneur-14-1173776-g001-jpg.jpg)
 *Figure 1. All patients underwent robot-assisted stereotactic brain biopsy using one of three systems: a ROSA robotic system (Zimmer Biomet Robotics, Montpellier, France), the CAS-R-2 (Tianjin... Source: [Novel application of robot-guided stereotactic technique on biopsy diagnosis of intracranial lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC10421699/) — Frontiers in Neurology 2023; CC BY.*
 
+
 ![Frame-Based Stereotactic Brain Biopsy — Figure 2](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-09-figure-2-fneur-14-1173776-g002-jpg.jpg)
 *Figure 2. (A,B) The REMEBOT and (C,D) the CAS-R-2 use scalp markers for registration. The patient’s head is prepared for skin adhesion to the scalp markers before surgery (E,F). The ROSA robot... Source: [Novel application of robot-guided stereotactic technique on biopsy diagnosis of intracranial lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC10421699/) — Frontiers in Neurology 2023; CC BY.*
+
 
 ![Frame-Based Stereotactic Brain Biopsy — Figure 3](../../figures/curated/case-prep-frame-based-stereotactic-brain-biopsy-leksell-crw/figure-10-figure-3-fneur-14-1173776-g003-jpg.jpg)
 *Figure 3. Measurement of entry point and target point error based on preoperatively planned target and on the fusion of postoperative CT to the preoperative dataset. Source: [Novel application of robot-guided stereotactic technique on biopsy diagnosis of intracranial lesions](https://pmc.ncbi.nlm.nih.gov/articles/PMC10421699/) — Frontiers in Neurology 2023; CC BY.*
@@ -205,6 +198,19 @@ A **postoperative CT was obtained to exclude hemorrhage.** The patient was trans
 - Resume meds per bleeding risk; hold steroids if lymphoma pending (per team)
 - Pathology (permanent + molecular — IDH, etc.; flow cytometry if lymphoma; cultures if infection)
 - Tumor board / management per diagnosis; follow-up
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Frame-Based Stereotactic Brain Biopsy (Leksell / CRW)**:
+
+- **Decision point:** The target must answer the question: choose tissue/trajectory/dose based on diagnostic yield, molecular testing, treatment impact, and safest corridor.
+- **Technical lever:** Risk lives along the path: vessels, sulci, ventricles, necrotic center, eloquent tracts, prior radiation, and anticoagulation decide whether the plan is acceptable.
+- **Bailout:** Confirm before committing: frame/robot registration, coordinates, fiducials, trajectory collision, specimen adequacy, and postop scan threshold should be explicit.
+- **Postop watch:** Postop plan should anticipate the rare catastrophe: hemorrhage, edema, seizure, steroid need, neurologic checks, pathology handoff, and treatment-board timing.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

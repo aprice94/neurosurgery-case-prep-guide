@@ -78,29 +78,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Cranioplasty — Figure 1](../../figures/curated/case-prep-cranioplasty/figure-01-figure-1-jkns-59-492-i001-jpg.jpg)
 *Figure 1. Source: [Which One Is Better to Reduce the Infection Rate, Early or Late Cranioplasty?](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028610/) — J Korean Neurosurg Soc. 2016 Sep 8;59(5):492–7. doi: 10.3340/jkns.2016.59.5.492; CC BY-NC.*
 
+
 ![Cranioplasty — Figure 2](../../figures/curated/case-prep-cranioplasty/figure-02-figure-2-jkns-59-492-i002-jpg.jpg)
 *Figure 2. Source: [Which One Is Better to Reduce the Infection Rate, Early or Late Cranioplasty?](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028610/) — J Korean Neurosurg Soc. 2016 Sep 8;59(5):492–7. doi: 10.3340/jkns.2016.59.5.492; CC BY-NC.*
+
 
 ![Cranioplasty — Figure 3](../../figures/curated/case-prep-cranioplasty/figure-03-figure-3-jkns-59-492-i003-jpg.jpg)
 *Figure 3. Source: [Which One Is Better to Reduce the Infection Rate, Early or Late Cranioplasty?](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028610/) — J Korean Neurosurg Soc. 2016 Sep 8;59(5):492–7. doi: 10.3340/jkns.2016.59.5.492; CC BY-NC.*
 
+
 ![Cranioplasty — Figure 4](../../figures/curated/case-prep-cranioplasty/figure-04-figure-4-jkns-59-492-i004-jpg.jpg)
 *Figure 4. Source: [Which One Is Better to Reduce the Infection Rate, Early or Late Cranioplasty?](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028610/) — J Korean Neurosurg Soc. 2016 Sep 8;59(5):492–7. doi: 10.3340/jkns.2016.59.5.492; CC BY-NC.*
 
-![Cranioplasty — Fig. 1](../../figures/curated/case-prep-cranioplasty/figure-05-fig-1-jkns-52-396-g001-jpg.jpg)
-*Fig. 1. Flow chart of participants in the retrospective cohort from 2001 to 2011. Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — Journal of Korean Neurosurgical Society 2012; CC BY-NC.*
-
-![Cranioplasty — Fig. 2](../../figures/curated/case-prep-cranioplasty/figure-06-fig-2-jkns-52-396-g002-jpg.jpg)
-*Fig. 2. Kaplan-Meier event-free survival curves at 10 years for cranioplasty infection according to graft material (p=0.074) (A), and cranioplasty timing (p=0.083) (B) in 131 cranioplasty... Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — Journal of Korean Neurosurgical Society 2012; CC BY-NC.*
 
 ![Cranioplasty — Fig. 3](../../figures/curated/case-prep-cranioplasty/figure-07-fig-3-jkns-52-396-g003-jpg.jpg)
 *Fig. 3. Postoperative complications within 2 weeks after cranioplasty. EDH, SDH, NA and NC stand for epidural hematoma, subdural hematoma, not applicable and not checked, respectively. Numbers... Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — Journal of Korean Neurosurgical Society 2012; CC BY-NC.*
 
+
 ![Cranioplasty — Figure 8](../../figures/curated/case-prep-cranioplasty/figure-08-figure-8-jkns-52-396-i001-jpg.jpg)
 *Figure 8. Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — J Korean Neurosurg Soc. 2012 Oct 22;52(4):396–403. doi: 10.3340/jkns.2012.52.4.396; CC BY-NC.*
 
+
 ![Cranioplasty — Figure 9](../../figures/curated/case-prep-cranioplasty/figure-09-figure-9-jkns-52-396-i002-jpg.jpg)
 *Figure 9. Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — J Korean Neurosurg Soc. 2012 Oct 22;52(4):396–403. doi: 10.3340/jkns.2012.52.4.396; CC BY-NC.*
+
 
 ![Cranioplasty — Figure 10](../../figures/curated/case-prep-cranioplasty/figure-10-figure-10-jkns-52-396-i003-jpg.jpg)
 *Figure 10. Source: [Long-Term Incidence and Predicting Factors of Cranioplasty Infection after Decompressive Craniectomy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488651/) — J Korean Neurosurg Soc. 2012 Oct 22;52(4):396–403. doi: 10.3340/jkns.2012.52.4.396; CC BY-NC.*
@@ -369,6 +370,19 @@ The [left/right] [frontotemporal/parietal/frontal] region was prepped and draped
 - Clinic follow-up: 4-6 weeks
 - Surveillance imaging: 3-6 months, then per implant type (see above)
 - Long-term: annual visit x 2-3 years for autologous grafts; as needed for synthetic
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Cranioplasty**:
+
+- **Decision point:** Treat physiology while preparing the room: airway, reversal, transfusion, ICP/CPP, sodium/osmolality, temperature, and repeat imaging drive timing as much as the scan finding.
+- **Technical lever:** Know the operative priority: decompression, hemorrhage control, debridement, dural closure, reconstruction, stabilization, or contamination control.
+- **Bailout:** Plan for swelling and coagulopathy: bone flap decision, duraplasty size, drain/EVD need, hemostatic adjuncts, and ICU handoff should be decided early.
+- **Postop watch:** Postop failure modes are predictable: expanding hematoma, malignant edema, seizure, infection, CSF leak, venous sinus injury, and missed associated spine/vascular injury.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

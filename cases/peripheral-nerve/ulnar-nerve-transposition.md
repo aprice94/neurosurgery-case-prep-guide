@@ -63,32 +63,21 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Cubital Tunnel Release Ulnar Nerve Transposition — Fig. 1](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-01-fig-1-13018-2015-267-fig1-html-jpg.jpg)
 *Fig. 1. The CONSORT diagram of enrollment and analysis in this study Source: [Ulnar nerve stability-based surgery for cubital tunnel syndrome via a small incision: a comparison with classic anterior nerve transposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526197/) — Journal of Orthopaedic Surgery and Research 2015; CC BY.*
 
+
 ![Cubital Tunnel Release Ulnar Nerve Transposition — Fig. 2](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-02-fig-2-13018-2015-267-fig2-html-jpg.jpg)
 *Fig. 2. While introducing and opening a long nasal speculum over the brachial fascia, the proximal nerve compression structures including the arcade of Struthers were completely released Source: [Ulnar nerve stability-based surgery for cubital tunnel syndrome via a small incision: a comparison with classic anterior nerve transposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526197/) — Journal of Orthopaedic Surgery and Research 2015; CC BY.*
+
 
 ![Cubital Tunnel Release Ulnar Nerve Transposition — Fig. 3](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-03-fig-3-13018-2015-267-fig3-html-jpg.jpg)
 *Fig. 3. After releasing the proximal nerve compression structures, Osborne’s ligament, Osborne’s fascia, and the deep flexor-pronator aponeurosis were sequentially released Source: [Ulnar nerve stability-based surgery for cubital tunnel syndrome via a small incision: a comparison with classic anterior nerve transposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526197/) — Journal of Orthopaedic Surgery and Research 2015; CC BY.*
 
+
 ![Cubital Tunnel Release Ulnar Nerve Transposition — Fig. 4](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-04-fig-4-13018-2015-267-fig4-html-jpg.jpg)
 *Fig. 4. In patients with an unstable ulnar nerve, the nerve was anteriorly transposed, and a fascial sling (*) was created Source: [Ulnar nerve stability-based surgery for cubital tunnel syndrome via a small incision: a comparison with classic anterior nerve transposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526197/) — Journal of Orthopaedic Surgery and Research 2015; CC BY.*
 
-![Cubital Tunnel Release Ulnar Nerve Transposition — FIGURE 1](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-05-figure-1-medi-94-e1207-g001-jpg.jpg)
-*FIGURE 1. Review flow diagram. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine 2015; CC BY.*
-
-![Cubital Tunnel Release Ulnar Nerve Transposition — Figure 6](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-06-figure-6-medi-94-e1207-g002-jpg.jpg)
-*Figure 6. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine (Baltimore). 2015 Jul 24;94(29):e1207. doi: 10.1097/MD.0000000000001207; CC BY.*
-
-![Cubital Tunnel Release Ulnar Nerve Transposition — Figure 7](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-07-figure-7-medi-94-e1207-g003-jpg.jpg)
-*Figure 7. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine (Baltimore). 2015 Jul 24;94(29):e1207. doi: 10.1097/MD.0000000000001207; CC BY.*
-
-![Cubital Tunnel Release Ulnar Nerve Transposition — Figure 8](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-08-figure-8-medi-94-e1207-g005-jpg.jpg)
-*Figure 8. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine (Baltimore). 2015 Jul 24;94(29):e1207. doi: 10.1097/MD.0000000000001207; CC BY.*
 
 ![Cubital Tunnel Release Ulnar Nerve Transposition — FIGURE 4](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-09-figure-4-medi-94-e1207-g007-jpg.jpg)
 *FIGURE 4. The quality of the evidences for each outcome. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine 2015; CC BY.*
-
-![Cubital Tunnel Release Ulnar Nerve Transposition — Figure 10](../../figures/curated/case-prep-cubital-tunnel-release-ulnar-nerve-transposition/figure-10-figure-10-medi-94-e1207-g008-jpg.jpg)
-*Figure 10. Source: [Subcutaneous Versus Submuscular Anterior Transposition of the Ulnar Nerve for Cubital Tunnel Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602994/) — Medicine (Baltimore). 2015 Jul 24;94(29):e1207. doi: 10.1097/MD.0000000000001207; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
 
@@ -217,6 +206,19 @@ The tourniquet was released, hemostasis obtained, and closure performed [± spli
 - Suture removal ~10-14 days; therapy
 - Counsel: sensory recovery before motor; atrophy/weakness slow to recover
 - Follow-up 2 weeks
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Cubital Tunnel Release / Ulnar Nerve Transposition**:
+
+- **Decision point:** Localization is everything: symptoms, exam, Tinel point, EMG/NCS, ultrasound/MRI, and provocative maneuvers must agree before incision.
+- **Technical lever:** Protect fascicles and blood supply: internal neurolysis, tumor shelling, graft/transfer decisions, tourniquet time, and stimulation thresholds should be deliberate.
+- **Bailout:** Know when not to chase: dense scarring, malignant features, unclear fascicular anatomy, or unexpected motor fascicle involvement may justify biopsy, subtotal resection, or staged reconstruction.
+- **Postop watch:** Postop orders should preserve the repair: splint/immobilization interval, therapy timing, sensory protection, pain plan, and expected recovery timeline.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

@@ -220,6 +220,19 @@ A **watertight dural closure** and laminoplasty reconstruction were performed. T
 - MRI if concern; long-term: monitor for spinal deformity, functional gains
 - Multidisciplinary follow-up (neurosurgery, PT, physiatry, ortho); counsel re: permanent spasticity reduction and rehab commitment
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Selective Dorsal Rhizotomy (SDR)**:
+
+- **Decision point:** The setup is age-specific: blood volume, warming, positioning pressure, airway, latex risk, family counseling, and ICU/PICU handoff differ from adults.
+- **Technical lever:** Preserve future options: growth, shunt dependence, cranioplasty/bone healing, endocrine/neurocognitive trajectory, and adjuvant therapy influence today’s choices.
+- **Bailout:** Have a complication script: blood loss, CSF leak, hydrocephalus, wound breakdown, posterior fossa mutism, infection, and airway/swallow risk should be anticipated.
+- **Postop watch:** Postop communication matters: family expectations, neurologic baseline, therapy needs, school/developmental supports, and surveillance imaging/labs should be clear.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions

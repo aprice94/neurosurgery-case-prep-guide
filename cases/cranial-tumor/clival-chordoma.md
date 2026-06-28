@@ -68,29 +68,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Clival Chordoma Resection — Figure 1](../../figures/curated/case-prep-clival-chordoma-resection/figure-01-figure-1-41598-2020-79894-fig1-html-jpg.jpg)
 *Figure 1. Comparison of ADC values between stable and aggressive chordoma (10–6 mm2/s). There were significant differences between groups in (a) maximum ADC (P = 0.012), (b) mean ADC (P < 0.001),... Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
 
+
 ![Clival Chordoma Resection — Figure 2](../../figures/curated/case-prep-clival-chordoma-resection/figure-02-figure-2-41598-2020-79894-fig2-html-jpg.jpg)
 *Figure 2. ROC curves for ADC values differentiating aggressive chordoma from stable chordoma. Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
 
-![Clival Chordoma Resection — Figure 3](../../figures/curated/case-prep-clival-chordoma-resection/figure-03-figure-3-41598-2020-79894-fig3-html-jpg.jpg)
-*Figure 3. Kaplan–Meier curves using log-rank tests for overall survival and progression-free survival: (a) PFS according to extent of tumor resection; (b) PFS according to maximum ADC values; (c)... Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
 
 ![Clival Chordoma Resection — Figure 4](../../figures/curated/case-prep-clival-chordoma-resection/figure-04-figure-4-41598-2020-79894-fig4-html-jpg.jpg)
 *Figure 4. A 37-year-old man was diagnosed with classic chordoma and placed in the aggressive group. (a) Preoperative contrast enhanced T1-weighted imaging showed a tumor compressing the brainstem.... Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
 
+
 ![Clival Chordoma Resection — Figure 5](../../figures/curated/case-prep-clival-chordoma-resection/figure-05-figure-5-41598-2020-79894-fig5-html-jpg.jpg)
 *Figure 5. A 36-year-old man diagnosed with classic chordoma and placed in the stable group. (a) Preoperative T2-weighted imaging showed a T2 high signal mass arising from the clivus. (b) The ROI... Source: [Apparent diffusion coefficient as a prognostic factor in clival chordoma](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804259/) — Scientific Reports 2021; CC BY.*
+
 
 ![Clival Chordoma Resection — Fig. 1](../../figures/curated/case-prep-clival-chordoma-resection/figure-06-fig-1-gr1-jpg.jpg)
 *Fig. 1. A. T2-weighted MRI, axial view. The arrow shows hyperintense Clival lesion located 3 mm from the anterior end of the clivus, the mass can be seen compressing the left internal carotid... Source: [Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10943967/) — International Journal of Surgery Case Reports 2024; CC BY.*
 
+
 ![Clival Chordoma Resection — Fig. 2](../../figures/curated/case-prep-clival-chordoma-resection/figure-07-fig-2-gr2-jpg.jpg)
 *Fig. 2. T2-weighted MRI, axial view. Signs of surgical intervention on the clivus are noted. The arrow shows residual tumor. (post-operative MRI). Source: [Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10943967/) — International Journal of Surgery Case Reports 2024; CC BY.*
+
 
 ![Clival Chordoma Resection — Fig. 3](../../figures/curated/case-prep-clival-chordoma-resection/figure-08-fig-3-gr3-jpg.jpg)
 *Fig. 3. A. Chordoma (H&E 100×). Prominent myxoid background containing small columns or clusters of bubbly physalipharous cells. B. Chordoma (H&E 400×). Occasional cells with irregular or... Source: [Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10943967/) — International Journal of Surgery Case Reports 2024; CC BY.*
 
+
 ![Clival Chordoma Resection — Fig. 4](../../figures/curated/case-prep-clival-chordoma-resection/figure-09-fig-4-gr4-jpg.jpg)
 *Fig. 4. A. Chordoma, Immunohistochemical staining. Arrows show positivity for cytokeratin (CK). B. Chordoma, Immunohistochemical staining. The arrow shows positivity for epithelial membrane... Source: [Clival chordoma presenting with isolated unilateral cranial nerve XII palsy: A case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10943967/) — International Journal of Surgery Case Reports 2024; CC BY.*
+
 
 ![Clival Chordoma Resection — Figure 1](../../figures/curated/case-prep-clival-chordoma-resection/figure-10-figure-1-fendo-13-800923-g001-jpg.jpg)
 *Figure 1. The pre- and post- MRIs of all the patients. Source: [Surgical Outcomes of Clival Chordoma Through Endoscopic Endonasal Approach: A Single-Center Experience](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019489/) — Frontiers in Endocrinology 2022; CC BY.*
@@ -211,6 +216,19 @@ The patient was transferred to the ICU with CSF-leak precautions and the lumbar 
 - MRI/CT postop (EOR), watch rhinorrhea/meningitis/pneumocephalus
 - **Adjuvant proton/photon radiation** (essential), tumor board
 - CCJ stability assessment; long-term surveillance MRI
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Clival Chordoma Resection**:
+
+- **Decision point:** Decide the real endpoint before opening: cure, cytoreduction, diagnosis, decompression, separation from critical structures, or safe maximal resection.
+- **Technical lever:** Map what must be left behind: perforators, cranial nerves, venous sinuses, eloquent cortex/tracts, hypothalamus/pituitary axis, and adherent capsule planes.
+- **Bailout:** Sequence matters: devascularize early when safe, create CSF/working space, debulk before traction, and preserve the arachnoid plane unless oncologic goals justify violating it.
+- **Postop watch:** The postop plan should match the risk structure: endocrine/vision/swallow/CN checks, steroid taper, seizure plan, MRI timing, CSF-leak watch, and adjuvant-treatment handoff.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

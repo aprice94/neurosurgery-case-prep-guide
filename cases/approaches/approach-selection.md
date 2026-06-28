@@ -48,29 +48,18 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Approach Selection Decision Aids — Fig. 3](../../figures/curated/approach-selection-decision-aids/figure-01-fig-3-701-2026-6789-fig3-html-jpg.jpg)
 *Fig. 3. Endoscopic-transnasal-transclival approach. A 3D reconstruction of the skull prior to dissection. A neuronavigation probe (green) indicates the trajectory of the right... Source: [Anatomical insights into the peri-trigeminal zone via transorbital, transclival, and retrosigmoid routes: a comparative cadaveric study with surgical implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC12950089/) — Acta Neurochirurgica 2026; CC BY.*
 
-![Approach Selection Decision Aids — Fig. 1](../../figures/curated/approach-selection-decision-aids/figure-02-fig-1-12880-2025-1712-fig1-html-jpg.jpg)
-*Fig. 1. The flow chart of this project illustrating the data collection and process Source: [Machine learning decision support model construction for craniotomy approach of pineal region tumors based on MRI images](https://pmc.ncbi.nlm.nih.gov/articles/PMC12117726/) — BMC Medical Imaging 2025; CC BY-NC-ND.*
-
-![Approach Selection Decision Aids — Fig. 2](../../figures/curated/approach-selection-decision-aids/figure-03-fig-2-12880-2025-1712-fig2-html-jpg.jpg)
-*Fig. 2. (A) The pipeline explaining the machine learning prediction model construction. (B) The pipeline explaining the deep learning prediction model construction Source: [Machine learning decision support model construction for craniotomy approach of pineal region tumors based on MRI images](https://pmc.ncbi.nlm.nih.gov/articles/PMC12117726/) — BMC Medical Imaging 2025; CC BY-NC-ND.*
-
-![Approach Selection Decision Aids — Fig. 3](../../figures/curated/approach-selection-decision-aids/figure-04-fig-3-12880-2025-1712-fig3-html-jpg.jpg)
-*Fig. 3. (A) and (B) are the ROC and DET curves of machine learning models, respectively. (C) and (D) are the ROC and DET curves of deep learning models, respectively Source: [Machine learning decision support model construction for craniotomy approach of pineal region tumors based on MRI images](https://pmc.ncbi.nlm.nih.gov/articles/PMC12117726/) — BMC Medical Imaging 2025; CC BY-NC-ND.*
-
-![Approach Selection Decision Aids — Fig. 4](../../figures/curated/approach-selection-decision-aids/figure-05-fig-4-12880-2025-1712-fig4-html-jpg.jpg)
-*Fig. 4. (A) The ROC curves for EfficientNetV2-m using all images, sagittal images only and coronal images only. (B) The confusion matrix for EfficientNetV2-m with sagittal images. (C) The... Source: [Machine learning decision support model construction for craniotomy approach of pineal region tumors based on MRI images](https://pmc.ncbi.nlm.nih.gov/articles/PMC12117726/) — BMC Medical Imaging 2025; CC BY-NC-ND.*
-
-![Approach Selection Decision Aids — Fig. 5](../../figures/curated/approach-selection-decision-aids/figure-06-fig-5-12880-2025-1712-fig5-html-jpg.jpg)
-*Fig. 5. Grad-CAM visualization of EfficientNetV2-m for PRTs is depicted in (A), (B), and (C), showcasing MRI images from different orientations along with the corresponding class activation maps... Source: [Machine learning decision support model construction for craniotomy approach of pineal region tumors based on MRI images](https://pmc.ncbi.nlm.nih.gov/articles/PMC12117726/) — BMC Medical Imaging 2025; CC BY-NC-ND.*
 
 ![Approach Selection Decision Aids — Figure 2](../../figures/curated/approach-selection-decision-aids/figure-07-figure-2-cureus-0018-00000102022-i02-jpg.jpg)
 *Figure 2. Overview of Lumbar Interbody Fusion Surgical Approaches(A) Schematic representation of the principal access routes to the lumbar spine, including anterior (ALIF), lateral/extreme lateral... Source: [Interplay of Anatomy and Surgical Approach: A Comparative Review of Neurovascular Risk in Lateral and Oblique Lumbar Interbody Fusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC12923329/) — Cureus 2026; CC BY.*
 
+
 ![Approach Selection Decision Aids — Figure 1](../../figures/curated/approach-selection-decision-aids/figure-08-figure-1-cureus-0017-00000084682-i01-jpg.jpg)
 *Figure 1. Minimally invasive surgery workflowThe figure demonstrates a brief insight into the order of decisions made in minimally invasive surgery. Original image created by the authors. Source: [A Comprehensive Review of the Role of the Latest Minimally Invasive Neurosurgery Techniques and Outcomes for Brain and Spinal Surgeries](https://pmc.ncbi.nlm.nih.gov/articles/PMC12182830/) — Cureus 2025; CC BY.*
 
+
 ![Approach Selection Decision Aids — Fig. 1](../../figures/curated/approach-selection-decision-aids/figure-09-fig-1-1349-8029-63-0381-g001-jpg.jpg)
 *Fig. 1. Key radiologic characteristics used to determine the surgical approach. (A) Lateral extension beyond the internal carotid artery (white arrowhead). (B) Optic canal invasion (white arrow)... Source: [Visual Outcomes and Surgical Approach Selection Focusing on Active Optic Canal Decompression and Maximum Safe Resection for Suprasellar Meningiomas](https://pmc.ncbi.nlm.nih.gov/articles/PMC10556211/) — Neurologia medico-chirurgica 2023; CC BY-NC-ND.*
+
 
 ![Approach Selection Decision Aids — Fig. 2](../../figures/curated/approach-selection-decision-aids/figure-10-fig-2-1349-8029-63-0381-g002-jpg.jpg)
 *Fig. 2. Surgical resection of a suprasellar meningioma using the left sub-frontal approach.(A, B) A 50-year-old woman with long-standing visual dysfunction (Rt, 0.2; Lt, blind) presented with a... Source: [Visual Outcomes and Surgical Approach Selection Focusing on Active Optic Canal Decompression and Maximum Safe Resection for Suprasellar Meningiomas](https://pmc.ncbi.nlm.nih.gov/articles/PMC10556211/) — Neurologia medico-chirurgica 2023; CC BY-NC-ND.*
@@ -238,6 +227,19 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
   <a href="https://pubmed.ncbi.nlm.nih.gov/23709750/"><b>Spine oncology framework</b><span>NOMS framework: neurologic, oncologic, mechanical, systemic decision structure.</span></a>
   <a href="../../resources/media-sources.html"><b>Figures & video sources</b><span>Atlas, AO Spine / Surgery Reference, Radiopaedia, PMC, and linked/copyright-safe figure policy.</span></a>
 </div>
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Corridor Review
+
+Use these as the senior-level mental model for **Approach Selection — Decision Aids**:
+
+- **Decision point:** Define the exposure goal before incision: target, working angles, proximal/distal control, and the structure that cannot tolerate retraction.
+- **Technical lever:** Know the first irreversible step: bone removal, dural opening, vascular control, or muscle/fascial division that commits the corridor.
+- **Bailout:** Verbalize the bailout: extend exposure, change trajectory, add CSF drainage, obtain proximal control, convert to a larger corridor, or stop for imaging.
+- **Postop watch:** Protect closure from the start: vascularized tissue, watertight dural/reconstruction plan, dead-space control, and drain strategy should be chosen before the final intradural step.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

@@ -62,32 +62,37 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Shunt Revision Exploration — Fig. 1](../../../figures/curated/case-prep-shunt-revision-exploration/figure-01-fig-1-701-2020-4212-fig1-html-jpg.jpg)
 *Fig. 1. Shunt testing results of under- and overdrainage. a Top: Normally functioning shunt, with the plateau (steady-state) pressure after infusion of Hartmann’s not exceeding the shunt’s... Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
 
+
 ![Shunt Revision Exploration — Fig. 2](../../../figures/curated/case-prep-shunt-revision-exploration/figure-02-fig-2-701-2020-4212-fig2-html-jpg.jpg)
 *Fig. 2. Shunt testing results of proximal and distal obstruction. a Distal obstruction. Upper panel: distal obstruction detected after infusion of fluid. Initial baseline ICP appears normal (c.... Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
+
 
 ![Shunt Revision Exploration — Fig. 3](../../../figures/curated/case-prep-shunt-revision-exploration/figure-03-fig-3-701-2020-4212-fig3-html-jpg.jpg)
 *Fig. 3. 1-year outcome of patients with diagnosed hydrocephalus of multiple aetiologies undergoing CSF infusion studies for shunt function assessment in vivo. *1: Not improved after revision:... Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
 
+
 ![Shunt Revision Exploration — Fig. 4](../../../figures/curated/case-prep-shunt-revision-exploration/figure-04-fig-4-701-2020-4212-fig4-html-jpg.jpg)
 *Fig. 4. 1-year outcome of patients with diagnosed pseudotumour cerebri syndrome undergoing CSF infusion studies for shunt function assessment in vivo Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
+
 
 ![Shunt Revision Exploration — Fig. 5](../../../figures/curated/case-prep-shunt-revision-exploration/figure-05-fig-5-701-2020-4212-fig5-html-jpg.jpg)
 *Fig. 5. Elementary decision tree analysis of a costs of shunt malfunction management without infusion studies, b costs of shunt malfunction management as derived from our infusion study... Source: [Shunt infusion studies: impact on patient outcome, including health economics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156359/) — Acta Neurochirurgica 2020; CC BY.*
 
+
 ![Shunt Revision Exploration — Figure 1](../../../figures/curated/case-prep-shunt-revision-exploration/figure-06-figure-1-cureus-0016-00000062334-i01-jpg.jpg)
 *Figure 1. CT images(A) Preoperative CT. (B) Postoperative CT. Source: [Accurate Preoperative and Intraoperative Evaluation Reduces Surgical Costs and Patient Invasiveness in Ventriculoperitoneal Shunt Revision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11247248/) — Cureus 2024; CC BY.*
+
 
 ![Shunt Revision Exploration — Figure 2](../../../figures/curated/case-prep-shunt-revision-exploration/figure-07-figure-2-cureus-0016-00000062334-i02-jpg.jpg)
 *Figure 2. Preoperative shuntogram(Left) Schematic diagram showing the smooth flow of the contrast agent into the ventricles, but no progression toward the abdominal cavity. (Middle) Fluoroscopic... Source: [Accurate Preoperative and Intraoperative Evaluation Reduces Surgical Costs and Patient Invasiveness in Ventriculoperitoneal Shunt Revision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11247248/) — Cureus 2024; CC BY.*
 
+
 ![Shunt Revision Exploration — Figure 3](../../../figures/curated/case-prep-shunt-revision-exploration/figure-08-figure-3-cureus-0016-00000062334-i03-jpg.jpg)
 *Figure 3. Schematic diagram of cerebrospinal fluid flow changes during surgery(A) The peritoneal catheter's tip was obstructed by a connective tissue sac (arrows), blocking saline outflow. (B)... Source: [Accurate Preoperative and Intraoperative Evaluation Reduces Surgical Costs and Patient Invasiveness in Ventriculoperitoneal Shunt Revision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11247248/) — Cureus 2024; CC BY.*
 
+
 ![Shunt Revision Exploration — Figure 4](../../../figures/curated/case-prep-shunt-revision-exploration/figure-09-figure-4-cureus-0016-00000062334-i04-jpg.jpg)
 *Figure 4. The cost differences between the conventional procedure and the procedure used in this caseConventional shunt revision takes about 135 minutes, whereas our method shortens the process by... Source: [Accurate Preoperative and Intraoperative Evaluation Reduces Surgical Costs and Patient Invasiveness in Ventriculoperitoneal Shunt Revision](https://pmc.ncbi.nlm.nih.gov/articles/PMC11247248/) — Cureus 2024; CC BY.*
-
-![Shunt Revision Exploration — Fig. 1](../../../figures/curated/case-prep-shunt-revision-exploration/figure-10-fig-1-701-2026-6786-fig1-html-jpg.jpg)
-*Fig. 1. The study cohort of shunted idiopathic normal pressure hydrocephalus (iNPH) patients from Kuopio University Hospital catchment population in 1991–2023 presented as a flow chart. Causes... Source: [Reduced risk of shunt revision with adjustable valves: a population-based cohort study over three decades](https://pmc.ncbi.nlm.nih.gov/articles/PMC12872731/) — Acta Neurochirurgica 2026; CC BY.*
 
 <!-- END CURATED IMAGE SET -->
 
@@ -211,6 +216,19 @@ The patient was transferred [to the floor / ICU if EVD]; the shunt card/records 
 - If infection: EVD management, IV antibiotics per culture, re-shunt when CSF sterile
 - Monitor for recurrent malfunction; update shunt card/records
 - Follow-up imaging; educate family on malfunction signs
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Shunt Revision / Exploration**:
+
+- **Decision point:** Trajectory and hardware choice should follow the failure mode: obstruction, infection, overdrainage, loculation, slit ventricle, distal failure, or wrong pressure setting.
+- **Technical lever:** Document the system: entry point, catheter target/depth, valve type and setting, distal site, antibiotic-impregnated hardware, and what imaging confirms placement.
+- **Bailout:** Rescue plan is practical: poor CSF return, bloody CSF, malposition, distal access failure, abdominal/pleural complication, or inability to safely pass the catheter.
+- **Postop watch:** Postop orders must be unambiguous: drain height/rate/max output, valve setting, clamp parameters, imaging, antibiotics, ICP/neuro checks, and overdrainage precautions.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

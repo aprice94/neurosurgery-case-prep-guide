@@ -62,29 +62,34 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Flexion-Distraction Injury Fixation — Fig. 4](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-01-fig-4-os-14-2119-g001-jpg.jpg)
 *Fig. 4. A 19‐year‐old male who presented with an AO Type B2 fracture at L1‐L2 and severe back pain. (A, B) CT scan of the lumbar spine showed an L2 fracture involving the vertebral body and... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
 
+
 ![Flexion-Distraction Injury Fixation — Fig. 5](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-02-fig-5-os-14-2119-g002-jpg.jpg)
 *Fig. 5. A 64‐year‐old male with a T12 chance fracture (AO B2) caused by a fall from height. (A) Preoperative sagittal CT images show transosseous failure of the posterior column at T12 with an... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
 
 ![Flexion-Distraction Injury Fixation — Fig. 6](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-03-fig-6-os-14-2119-g003-jpg.jpg)
 *Fig. 6. A 46‐year‐old female patient who had a fall from a height. She suffered a L1 B2 with L1 A3 fracture according to the AO Classification. (A) Sagittal CT scans show the flexion‐distraction... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
 
+
 ![Flexion-Distraction Injury Fixation — Figure 4](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-04-figure-4-os-14-2119-g004-jpg.jpg)
 *Figure 4. Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthop Surg. 2022 Aug 5;14(9):2119–31. doi: 10.1111/os.13400; CC BY-NC-ND.*
+
 
 ![Flexion-Distraction Injury Fixation — Fig. 1](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-05-fig-1-os-14-2119-g005-jpg.jpg)
 *Fig. 1. Classification of traumatic intervertebral disc lesions in B2 injuries: Photographs of discs showing (A) grade 0 (cranial), (B) grade 1 (cranial), (C) grade 2 (caudal), and (D) grade 3... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
 
+
 ![Flexion-Distraction Injury Fixation — Fig. 2](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-06-fig-2-os-14-2119-g006-jpg.jpg)
 *Fig. 2. Radiological measurement using plain lateral radiography. AVBH = [2AVH0/(AVH1 + AVH2) × 100]. UIDH = (a1 + a2 + a3)/3, LIDH = (b1 + b2 + b3)/3. CA, Cobb angle; LK, Local kyphosis; AVBH,... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
+
 
 ![Flexion-Distraction Injury Fixation — Fig. 7](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-07-fig-7-os-14-2119-g007-jpg.jpg)
 *Fig. 7. A 48‐year‐old male patient who had a vehicle accident. He suffered a L1‐L2 B2 with L2 A4 fracture according to the AO Classification. (A) Preoperative MRI showing abnormal shapes in the... Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
 
-![Flexion-Distraction Injury Fixation — Fig. 3](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-08-fig-3-os-14-2119-g008-jpg.jpg)
-*Fig. 3. The flow chart of the study Source: [Comparison of the Outcomes between AO Type B2 Thoracolumbar Fracture with and without Disc Injury after Posterior Surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483068/) — Orthopaedic Surgery 2022; CC BY-NC-ND.*
 
 ![Flexion-Distraction Injury Fixation — Fig. 2](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-09-fig-2-586-2010-1415-fig2-html-jpg.jpg)
 *Fig. 2. Three-phase validation process for fracture classification systems as proposed by Audigé et al. [7], reprinted with permission Source: [What should an ideal spinal injury classification system consist of? A methodological review and conceptual proposal for future classifications](https://pmc.ncbi.nlm.nih.gov/articles/PMC2989196/) — European Spine Journal 2010; CC BY-NC.*
+
 
 ![Flexion-Distraction Injury Fixation — Figure 1](../../figures/curated/case-prep-flexion-distraction-chance-injury-fixation/figure-10-figure-1-1679-4508-eins-14-1-0067-gf01-jpg.jpg)
 *Figure 1. Sagittal computed tomography scan showing an enlargement of T11 and T12 spinous processes, which suggests a ligament injury Source: [Thoracolumbar Chance fracture during a professional female soccer game: case report](https://pmc.ncbi.nlm.nih.gov/articles/PMC4872921/) — Einstein 2016; CC BY.*
@@ -204,6 +209,19 @@ Hemostasis was obtained, a drain placed, and the wound closed in layers. The pat
 - CT/X-ray postop (alignment, hardware), brace per surgeon
 - DVT prophylaxis (balance with bleeding/abdominal injury), mobilize
 - Follow-up imaging for fusion/alignment; rehab
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Flexion-Distraction (Chance) Injury Fixation**:
+
+- **Decision point:** Treat physiology while preparing the room: airway, reversal, transfusion, ICP/CPP, sodium/osmolality, temperature, and repeat imaging drive timing as much as the scan finding.
+- **Technical lever:** Know the operative priority: decompression, hemorrhage control, debridement, dural closure, reconstruction, stabilization, or contamination control.
+- **Bailout:** Plan for swelling and coagulopathy: bone flap decision, duraplasty size, drain/EVD need, hemostatic adjuncts, and ICU handoff should be decided early.
+- **Postop watch:** Postop failure modes are predictable: expanding hematoma, malignant edema, seizure, infection, CSF leak, venous sinus injury, and missed associated spine/vascular injury.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

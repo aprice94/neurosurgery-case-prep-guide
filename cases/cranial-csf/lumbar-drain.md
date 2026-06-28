@@ -59,32 +59,17 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Lumbar Drain Placement — Fig. 1](../../figures/curated/case-prep-lumbar-drain-placement/figure-01-fig-1-12987-2020-185-fig1-html-jpg.jpg)
-*Fig. 1. Overview of in vitro and numerical model based on subject specific MRI measurements. a T2-weighted MR image of the entire CSF space for the human analyzed to acquire subject-specific... Source: [In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7077023/) — Fluids and Barriers of the CNS 2020; CC BY.*
-
-![Lumbar Drain Placement — Fig. 2](../../figures/curated/case-prep-lumbar-drain-placement/figure-02-fig-2-12987-2020-185-fig2-html-jpg.jpg)
-*Fig. 2. Schematic of the Neurapheresis system and study protocol. a Three-dimensional CFD model of the SAS with flow boundary conditions and magnified view of the Neurapheresis catheter return... Source: [In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7077023/) — Fluids and Barriers of the CNS 2020; CC BY.*
-
-![Lumbar Drain Placement — Fig. 3](../../figures/curated/case-prep-lumbar-drain-placement/figure-03-fig-3-12987-2020-185-fig3-html-jpg.jpg)
-*Fig. 3. Hydrodynamic and geometric characterization of the computational domain in relation to distance from the foramen magnum (FM). a Hydraulic diameter (Left axis) and Womersley number (right... Source: [In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7077023/) — Fluids and Barriers of the CNS 2020; CC BY.*
-
-![Lumbar Drain Placement — Fig. 4](../../figures/curated/case-prep-lumbar-drain-placement/figure-04-fig-4-12987-2020-185-fig4-html-jpg.jpg)
-*Fig. 4. Quantification of steady-streaming velocities. Steady-streaming within the spinal SAS increases with Neurapheresis therapy compared to lumbar drain. a Coronal view of cyclic mean... Source: [In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7077023/) — Fluids and Barriers of the CNS 2020; CC BY.*
-
-![Lumbar Drain Placement — Fig. 5](../../figures/curated/case-prep-lumbar-drain-placement/figure-05-fig-5-12987-2020-185-fig5-html-jpg.jpg)
-*Fig. 5. Cross-sectional average tracer concentration over 24-h. a Neurapheresis therapy and b lumbar drain. (a1) Cross-sectional average tracer concentration plotted with respect to time at... Source: [In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7077023/) — Fluids and Barriers of the CNS 2020; CC BY.*
-
-![Lumbar Drain Placement — Fig. 6](../../figures/curated/case-prep-lumbar-drain-placement/figure-06-fig-6-12987-2020-185-fig6-html-jpg.jpg)
-*Fig. 6. CFD results for 2D tracer concentration profiles versus time under Neurapheresis therapy and lumbar drain. a Visualization of tracer concentration at 0, 1, 6, 12, and 24 h under... Source: [In vitro and numerical simulation of blood removal from cerebrospinal fluid: comparison of lumbar drain to Neurapheresis therapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC7077023/) — Fluids and Barriers of the CNS 2020; CC BY.*
-
 ![Lumbar Drain Placement — Figure 1](../../figures/curated/case-prep-lumbar-drain-placement/figure-07-figure-1-cureus-0017-00000095169-i01-jpg.jpg)
 *Figure 1. Lumbar spine CTSagittal (lateral) view. Vertebral levels are labeled for orientation. The arrow indicates the retained catheter fragment within the intrathecal space. Source: [Retained Lumbar Drain Tip Leading to Intrathecal Hematoma: A Case Report on Perioperative Risks and Management](https://pmc.ncbi.nlm.nih.gov/articles/PMC12543038/) — Cureus 2025; CC BY.*
+
 
 ![Lumbar Drain Placement — Figure 2](../../figures/curated/case-prep-lumbar-drain-placement/figure-08-figure-2-cureus-0017-00000095169-i02-jpg.jpg)
 *Figure 2. Lumbar spine CT Coronal view. The arrow indicates the retained catheter fragment. Source: [Retained Lumbar Drain Tip Leading to Intrathecal Hematoma: A Case Report on Perioperative Risks and Management](https://pmc.ncbi.nlm.nih.gov/articles/PMC12543038/) — Cureus 2025; CC BY.*
 
+
 ![Lumbar Drain Placement — Figure 1](../../figures/curated/case-prep-lumbar-drain-placement/figure-09-figure-1-fsurg-08-714771-g0001-jpg.jpg)
 *Figure 1. Sagittal (A) and Axial (B) non contrast Head CT showing a hypodense lesion in the sella/suprasellar region (white arrow), with associated scattered hypodense globules along the... Source: [Ruptured Suprasellar Dermoid Cyst Treated With Lumbar Drain to Prevent Postoperative Hydrocephalus: Case Report and Focused Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8385128/) — Frontiers in Surgery 2021; CC BY.*
+
 
 ![Lumbar Drain Placement — Figure 2](../../figures/curated/case-prep-lumbar-drain-placement/figure-10-figure-2-fsurg-08-714771-g0002-jpg.jpg)
 *Figure 2. (A) Contrast-enhanced Sagittal T1 image 6 months after craniotomy, showing decompression of the sellar region with resolved mass effect over the optic pathway. (B) Axial T2 MRI at 6... Source: [Ruptured Suprasellar Dermoid Cyst Treated With Lumbar Drain to Prevent Postoperative Hydrocephalus: Case Report and Focused Review of Literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC8385128/) — Frontiers in Surgery 2021; CC BY.*
@@ -220,6 +205,19 @@ The patient was transferred with a strict controlled-drainage nursing protocol (
 - If output suddenly stops, inspect for kinks, closed stopcocks, dependent loops, clot/debris, and patient position before flushing; preserve sterility and avoid injecting unless protocol allows it.
 - If output suddenly increases, clamp immediately, assess exam/headache, check for bed-height error or chamber malposition, and image if symptoms suggest subdural, herniation, or pneumocephalus.
 - Remove as soon as the indication is met; prolonged dwell time increases infection and dislodgement risk.
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Lumbar Drain Placement**:
+
+- **Decision point:** Trajectory and hardware choice should follow the failure mode: obstruction, infection, overdrainage, loculation, slit ventricle, distal failure, or wrong pressure setting.
+- **Technical lever:** Document the system: entry point, catheter target/depth, valve type and setting, distal site, antibiotic-impregnated hardware, and what imaging confirms placement.
+- **Bailout:** Rescue plan is practical: poor CSF return, bloody CSF, malposition, distal access failure, abdominal/pleural complication, or inability to safely pass the catheter.
+- **Postop watch:** Postop orders must be unambiguous: drain height/rate/max output, valve setting, clamp parameters, imaging, antibiotics, ICP/neuro checks, and overdrainage precautions.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

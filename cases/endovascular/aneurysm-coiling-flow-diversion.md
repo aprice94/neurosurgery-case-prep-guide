@@ -58,32 +58,33 @@ tags:
 
 Open-access figures are embedded from PubMed Central articles and kept unique to this guide.
 
-![Endovascular Aneurysm Treatment — Figure 1.](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-01-figure-1-10-1177-2050312113519986-fig1-jpg.jpg)
-*Figure 1.. Flow chart over operations for aorto-iliac aneurysms and dissections during the study period.EVAR: endovascular aneurysm repair.*Two emergency cases.#Eight pseudoaneurysms in the... Source: [Comparable mid-term survival in patients undergoing elective fenestrated endovascular aneurysm repair and endovascular aneurysm repair for abdominal aortic aneurysm](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607194/) — SAGE Open Medicine 2014; CC BY-NC.*
-
 ![Endovascular Aneurysm Treatment — Figure 2.](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-02-figure-2-10-1177-2050312113519986-fig2-jpg.jpg)
 *Figure 2.. Long-term survival for patients undergoing EVAR and FEVAR. Survival data are missing in one patient in the EVAR group. Numbers below axis denote the patients at risk at respective time... Source: [Comparable mid-term survival in patients undergoing elective fenestrated endovascular aneurysm repair and endovascular aneurysm repair for abdominal aortic aneurysm](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607194/) — SAGE Open Medicine 2014; CC BY-NC.*
+
 
 ![Endovascular Aneurysm Treatment — Fig. 1](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-03-fig-1-znae279f1-jpg.jpg)
 *Fig. 1. Numbers of elective open surgical repairs and fenestrated endovascular aneurysm repairs for juxtarenal abdominal aortic aneurysms by each centre in Sweden over a 3-year interval,... Source: [Outcomes of elective open surgical repair or fenestrated endovascular aneurysm repair for juxtarenal abdominal aortic aneurysms in Sweden](https://pmc.ncbi.nlm.nih.gov/articles/PMC11538729/) — The British Journal of Surgery 2024; CC BY-NC.*
 
-![Endovascular Aneurysm Treatment — Fig. 2](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-04-fig-2-znae279f2-jpg.jpg)
-*Fig. 2. Survival (estimated using Kaplan–Meier analysis) after elective open surgical repair or fenestrated endovascular aneurysm repair for juxtarenal abdominal aortic aneurysms in Sweden over... Source: [Outcomes of elective open surgical repair or fenestrated endovascular aneurysm repair for juxtarenal abdominal aortic aneurysms in Sweden](https://pmc.ncbi.nlm.nih.gov/articles/PMC11538729/) — The British Journal of Surgery 2024; CC BY-NC.*
 
 ![Endovascular Aneurysm Treatment — Figure 1:](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-05-figure-1-ivac016f1-jpg.jpg)
 *Figure 1:. Inferior mesenteric artery diameter and number of patent lumbar arteries in patients undergoing EVAR. IMA: inferior mesenteric artery. Source: [Inferior mesenteric artery diameter and number of patent lumbar arteries as factors associated with significant type 2 endoleak after infrarenal endovascular aneurysm repair](https://pmc.ncbi.nlm.nih.gov/articles/PMC9252125/) — Interactive Cardiovascular and Thoracic Surgery 2022; CC BY.*
 
+
 ![Endovascular Aneurysm Treatment — Figure 2:](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-06-figure-2-ivac016f2-jpg.jpg)
 *Figure 2:. Number of patients presenting significant endoleak type II according to the inferior mesenteric artery diameter. Numbers at the bottom of the columns represent the number of patients... Source: [Inferior mesenteric artery diameter and number of patent lumbar arteries as factors associated with significant type 2 endoleak after infrarenal endovascular aneurysm repair](https://pmc.ncbi.nlm.nih.gov/articles/PMC9252125/) — Interactive Cardiovascular and Thoracic Surgery 2022; CC BY.*
+
 
 ![Endovascular Aneurysm Treatment — Figure 3:](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-07-figure-3-ivac016f3-jpg.jpg)
 *Figure 3:. Number of patients with significant endoleak type II according to the number of patent lumbar arteries. Numbers at the bottom of the columns illustrate the number of patients with... Source: [Inferior mesenteric artery diameter and number of patent lumbar arteries as factors associated with significant type 2 endoleak after infrarenal endovascular aneurysm repair](https://pmc.ncbi.nlm.nih.gov/articles/PMC9252125/) — Interactive Cardiovascular and Thoracic Surgery 2022; CC BY.*
 
+
 ![Endovascular Aneurysm Treatment — Figure](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-08-figure-ivac016f5-jpg.jpg)
 *Figure. Source: [Inferior mesenteric artery diameter and number of patent lumbar arteries as factors associated with significant type 2 endoleak after infrarenal endovascular aneurysm repair](https://pmc.ncbi.nlm.nih.gov/articles/PMC9252125/) — Interactive Cardiovascular and Thoracic Surgery 2022; CC BY.*
 
+
 ![Endovascular Aneurysm Treatment — Fig 1](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-09-fig-1-gr1-jpg.jpg)
 *Fig 1. Completion aortogram after complex endovascular aneurysm repair (EVAR) demonstrating patent bilateral renal artery, superior mesenteric artery, and celiac artery stents with no evidence... Source: [Transradial renal salvage after complex endovascular aneurysm repair complicated by left renal artery thrombosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6600808/) — Journal of Vascular Surgery Cases and Innovative Techniques 2019; CC BY-NC-ND.*
+
 
 ![Endovascular Aneurysm Treatment — Fig 2](../../figures/curated/case-prep-endovascular-aneurysm-treatment-coiling-stent-assisted-flow-diversion/figure-10-fig-2-gr2-jpg.jpg)
 *Fig 2. Computed tomography angiography (CTA) image 2 weeks after complex endovascular aneurysm repair (EVAR) with four-vessel stenting demonstrating left renal artery thrombosis (the arrow... Source: [Transradial renal salvage after complex endovascular aneurysm repair complicated by left renal artery thrombosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6600808/) — Journal of Vascular Surgery Cases and Innovative Techniques 2019; CC BY-NC-ND.*
@@ -204,6 +205,19 @@ The patient was transferred to the NSICU; [dual antiplatelet continued for the s
 - SAH care if ruptured (nimodipine, vasospasm TCDs, Na, EVD if hydrocephalus)
 - Hydration (contrast nephropathy), groin/access monitoring
 - **Follow-up angiography (DSA/MRA)** for occlusion durability/recanalization (e.g., 6 months, then surveillance); flow diverters image later (delayed occlusion)
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Endovascular Aneurysm Treatment (Coiling / Stent-Assisted / Flow Diversion)**:
+
+- **Decision point:** The operation is won or lost on control: identify inflow, outflow, perforators, collateral options, and the fastest route to temporary control before exposing the lesion itself.
+- **Technical lever:** Do not accept a cosmetic result over physiology: ICG/Doppler/DSA, branch patency, perforator preservation, and parent-vessel caliber matter more than how the clip or resection bed looks.
+- **Bailout:** Have a rupture or ischemia script ready: lower pressure, suction strategy, temporary occlusion time, heparin/reversal plan, bypass/reconstruction threshold, and postop BP targets.
+- **Postop watch:** Postop danger is delayed: vasospasm, thromboembolism, hyperperfusion, hemorrhage, edema, hydrocephalus, and seizure plans need explicit orders.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

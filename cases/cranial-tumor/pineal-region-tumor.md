@@ -65,29 +65,26 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Pineal Region Tumor Resection — Figure 2](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-01-figure-2-fonc-16-1822123-g002-jpg.jpg)
 *Figure 2. MRI findings of pineal region choriocarcinoma in a 9-year-old male patient presenting with dizziness and headache. (a) Sagittal T1WI showed a slightly hyperintense mass in the pineal... Source: [Case Report: Primary choriocarcinoma of the pineal region](https://pmc.ncbi.nlm.nih.gov/articles/PMC13259689/) — Frontiers in Oncology 2026; CC BY.*
 
+
 ![Pineal Region Tumor Resection — Figure 3](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-02-figure-3-fonc-16-1822123-g003-jpg.jpg)
 *Figure 3. Diffusion-weighted imaging features (DWI). (a) On DWI, the solid component of the lesion appeared hypointense. (b) On apparent diffusion coefficient (ADC) mapping, the solid component... Source: [Case Report: Primary choriocarcinoma of the pineal region](https://pmc.ncbi.nlm.nih.gov/articles/PMC13259689/) — Frontiers in Oncology 2026; CC BY.*
+
 
 ![Pineal Region Tumor Resection — Figure 4](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-03-figure-4-fonc-16-1822123-g004-jpg.jpg)
 *Figure 4. Pathological findings. Hemorrhage (blue arrow) and necrosis were observed within the lesion, with visible syncytiotrophoblasts (white arrow) and cytotrophoblasts (black arrow) showing... Source: [Case Report: Primary choriocarcinoma of the pineal region](https://pmc.ncbi.nlm.nih.gov/articles/PMC13259689/) — Frontiers in Oncology 2026; CC BY.*
 
-![Pineal Region Tumor Resection — Figure 2](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-04-figure-2-fped-14-1775150-g002-jpg.jpg)
-*Figure 2. The ROC of the four combined models. (A) Performance of ROC curves for clinical + imaging semantic model, clinical + radiomics model, imaging semantic + radiomics model, and clinical +... Source: [Machine learning based on radiomics for discriminating sellar region langerhans cell histiocytosis from germ cell tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC13153032/) — Frontiers in Pediatrics 2026; CC BY.*
-
-![Pineal Region Tumor Resection — Figure 3](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-05-figure-3-fped-14-1775150-g003-jpg.jpg)
-*Figure 3. Confusion matrix of the four combined models. Source: [Machine learning based on radiomics for discriminating sellar region langerhans cell histiocytosis from germ cell tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC13153032/) — Frontiers in Pediatrics 2026; CC BY.*
-
-![Pineal Region Tumor Resection — Figure 4](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-06-figure-4-fped-14-1775150-g004-jpg.jpg)
-*Figure 4. The decision curves and calibration curves of the four combined models. Source: [Machine learning based on radiomics for discriminating sellar region langerhans cell histiocytosis from germ cell tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC13153032/) — Frontiers in Pediatrics 2026; CC BY.*
 
 ![Pineal Region Tumor Resection — Figure 1.](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-07-figure-1-vdag086f1-jpg.jpg)
 *Figure 1.. Cytogenetic landscape of pineal parenchymal tumors. Representative chromosomal ideograms illustrating recurrent copy-number alterations (CNAs) across major pineal tumor subtypes,... Source: [Genetic landscape and molecular targets in pediatric pineal tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124280/) — Neuro-Oncology Advances 2026; CC BY.*
 
+
 ![Pineal Region Tumor Resection — Figure 2.](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-08-figure-2-vdag086f2-jpg.jpg)
 *Figure 2.. Schematic overview of epigenetic clustering of pineal parenchymal tumors and related embryonal entities. This figure provides an illustrative summary of DNA methylation-based... Source: [Genetic landscape and molecular targets in pediatric pineal tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124280/) — Neuro-Oncology Advances 2026; CC BY.*
 
+
 ![Pineal Region Tumor Resection — Figure 3.](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-09-figure-3-vdag086f3-jpg.jpg)
 *Figure 3.. Spectrum of pineal region tumors across WHO grades, epidemiological features, and candidate targeted therapies. Schematic overview of pineal parenchymal tumor entities according to CNS... Source: [Genetic landscape and molecular targets in pediatric pineal tumors](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124280/) — Neuro-Oncology Advances 2026; CC BY.*
+
 
 ![Pineal Region Tumor Resection — Figure 1](../../figures/curated/case-prep-pineal-region-tumor-resection/figure-10-figure-1-2188-4226-13-0123-g001-jpg.jpg)
 *Figure 1. Preoperative imaging and initial histopathology.(A) Axial non-contrast CT showing a pineal region mass with acute obstructive hydrocephalus.(B) Postoperative non-contrast CT showing the... Source: [An Ultra-late Recurrence with Adenoid Cystic Carcinoma-like Malignant Transformation of a Pineal Immature Teratoma after 35 Years: A Case Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC13102526/) — NMC Case Report Journal 2026; CC BY-NC-ND.*
@@ -210,6 +207,19 @@ Hemostasis was obtained, a watertight closure performed, and the patient transfe
 - VAE monitoring if sitting used
 - Pathology → tumor board: germinoma (RT/chemo), NGGCT (chemo+RT), pineal parenchymal/glioma per grade; neuraxis staging
 - Antiemetics, steroid taper, DVT prophylaxis
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Pineal Region Tumor Resection**:
+
+- **Decision point:** Decide the real endpoint before opening: cure, cytoreduction, diagnosis, decompression, separation from critical structures, or safe maximal resection.
+- **Technical lever:** Map what must be left behind: perforators, cranial nerves, venous sinuses, eloquent cortex/tracts, hypothalamus/pituitary axis, and adherent capsule planes.
+- **Bailout:** Sequence matters: devascularize early when safe, create CSF/working space, debulk before traction, and preserve the arachnoid plane unless oncologic goals justify violating it.
+- **Postop watch:** The postop plan should match the risk structure: endocrine/vision/swallow/CN checks, steroid taper, seizure plan, MRI timing, CSF-leak watch, and adjuvant-treatment handoff.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

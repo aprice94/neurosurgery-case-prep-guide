@@ -59,29 +59,30 @@ Open-access figures are embedded from PubMed Central articles and kept unique to
 ![Myelomeningocele Repair — Figure 1](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-01-figure-1-jmu-32-21-g001-jpg.jpg)
 *Figure 1. Classification of cervical myelomeningocele and meningocele. (a) Fibrovascular or neuroglial tissue protruding from the posterior surface of the spinal cord attached to the sac wall. (b)... Source: [Prenatal Diagnosis and Outcomes of Cervical Meningocele and Myelomeningocele](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040477/) — Journal of Medical Ultrasound 2024; CC BY-NC-SA.*
 
-![Myelomeningocele Repair — Figure 1](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-02-figure-1-fneur-13-861308-g0001-jpg.jpg)
-*Figure 1. Representative photographs of spinal cord in fetuses with lumbosacral myelomeningocele. (A) E16, neural tube closure failed, nerve tissue is exposed dorsally and protrudes above the skin... Source: [The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218472/) — Frontiers in Neurology 2022; CC BY.*
-
-![Myelomeningocele Repair — Figure 2](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-03-figure-2-fneur-13-861308-g0002-jpg.jpg)
-*Figure 2. Cell proliferation, apoptosis, and neuromuscular development-related protein changes in fetal rat bladder at E16–E22. (A) Expression of PCNA, cleaved caspase-3, NeuN, and a-SMA proteins... Source: [The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218472/) — Frontiers in Neurology 2022; CC BY.*
 
 ![Myelomeningocele Repair — Figure 3](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-04-figure-3-fneur-13-861308-g0003-jpg.jpg)
 *Figure 3. Expression and distribution of bladder cleaved caspase-3 at E22. (A) The distribution of cleaved caspase-3 at E22. (B) The expression of cleaved caspase-3 in the bladder muscle layer was... Source: [The Mechanism of Bladder Injury in Fetal Rats With Myelomeningocele](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218472/) — Frontiers in Neurology 2022; CC BY.*
 
+
 ![Myelomeningocele Repair — Fig. 1](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-05-fig-1-gr1-jpg.jpg)
 *Fig. 1. Identification of DEGs in the GSE101141 GEO dataset. A Normalization of the GSE101141 dataset was performed using Log2 transformation: N, Control; C, myelomeningocele; B UMAP plot; C... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
 
 ![Myelomeningocele Repair — Fig. 2](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-06-fig-2-gr2-jpg.jpg)
 *Fig. 2. Functional enrichment analysis of ferroptosis-related DEGs. A GO enrichment analysis of ferroptosis-related DEGs using SRplot: BP, biological process; CC, cellular component; MF,... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
 
+
 ![Myelomeningocele Repair — Fig. 3](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-07-fig-3-gr3-jpg.jpg)
 *Fig. 3. Functional enrichment analysis of autophagy-related DEGs. A GO enrichment analysis of autophagy-related DEGs using DAVID and SRplot: BP, biological process; CC, cellular component; MF,... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
 
 ![Myelomeningocele Repair — Fig. 4](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-08-fig-4-gr4-jpg.jpg)
 *Fig. 4. PPI analysis of ferroptosis- and autophagy-related DEGs. A and B PPI analysis of ferroptosis- and autophagy-related DEGs: orange, upregulated genes; blue, downregulated genes; C and D... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
 
+
 ![Myelomeningocele Repair — Fig. 5](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-09-fig-5-gr5-jpg.jpg)
 *Fig. 5. Expression and function enrichment of candidate genes. A Expression of candidate genes from GSE101141; B and C GO and KEGG enrichment analyses of candidate genes using DAVID and SRplot:... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
+
 
 ![Myelomeningocele Repair — Fig. 6](../../figures/curated/case-prep-myelomeningocele-repair-open-neural-tube-defect-closure/figure-10-fig-6-gr6-jpg.jpg)
 *Fig. 6. Interaction network among miRNAs, TFs, and candidate genes. A Interaction network between candidate genes and targeted miRNAs: red, candidate genes; blue, miRNA; B Interaction network of... Source: [Identification of potential key ferroptosis- and autophagy-related genes in myelomeningocele through bioinformatics analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040124/) — Heliyon 2024; CC BY-NC.*
@@ -205,6 +206,19 @@ The infant was transferred to the NICU prone/side-lying with serial head-circumf
 - Latex-free, neurogenic bladder management (urology — CIC), orthopedics (feet/hips), multidisciplinary spina bifida team
 - **Plan for CSF diversion (VP shunt/ETV) if hydrocephalus progresses** (often ~1-2 weeks)
 - Long-term: tethered cord surveillance, developmental follow-up
+
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Myelomeningocele Repair (Open Neural Tube Defect Closure)**:
+
+- **Decision point:** The setup is age-specific: blood volume, warming, positioning pressure, airway, latex risk, family counseling, and ICU/PICU handoff differ from adults.
+- **Technical lever:** Preserve future options: growth, shunt dependence, cranioplasty/bone healing, endocrine/neurocognitive trajectory, and adjuvant therapy influence today’s choices.
+- **Bailout:** Have a complication script: blood loss, CSF leak, hydrocephalus, wound breakdown, posterior fossa mutism, infection, and airway/swallow risk should be anticipated.
+- **Postop watch:** Postop communication matters: family expectations, neurologic baseline, therapy needs, school/developmental supports, and surveillance imaging/labs should be clear.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
 
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 

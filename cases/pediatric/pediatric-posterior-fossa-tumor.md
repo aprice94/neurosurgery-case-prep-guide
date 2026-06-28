@@ -209,6 +209,19 @@ The patient was transferred to the PICU with posterior-fossa precautions and **v
 - Pediatric neuro-oncology/tumor board: medulloblastoma → risk-stratified craniospinal RT (age > 3) + chemo; ependymoma → RT ± second-look surgery; pilocytic → observation if GTR
 - Molecular subgrouping (medulloblastoma: WNT/SHH/Group 3/4), rehab, long-term follow-up
 
+<!-- BEGIN CHIEF LEVEL TAKEAWAYS -->
+
+## Chief-Level Case Review
+
+Use these as the senior-level mental model for **Pediatric Posterior Fossa Tumor Resection (Medulloblastoma / Pilocytic Astrocytoma / Ependymoma)**:
+
+- **Decision point:** The setup is age-specific: blood volume, warming, positioning pressure, airway, latex risk, family counseling, and ICU/PICU handoff differ from adults.
+- **Technical lever:** Preserve future options: growth, shunt dependence, cranioplasty/bone healing, endocrine/neurocognitive trajectory, and adjuvant therapy influence today’s choices.
+- **Bailout:** Have a complication script: blood loss, CSF leak, hydrocephalus, wound breakdown, posterior fossa mutism, infection, and airway/swallow risk should be anticipated.
+- **Postop watch:** Postop communication matters: family expectations, neurologic baseline, therapy needs, school/developmental supports, and surveillance imaging/labs should be clear.
+
+<!-- END CHIEF LEVEL TAKEAWAYS -->
+
 <!-- BEGIN COMMON PIMP QUESTIONS -->
 
 ## Common Pimp Questions
