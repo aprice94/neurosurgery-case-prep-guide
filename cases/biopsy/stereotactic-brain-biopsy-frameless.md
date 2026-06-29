@@ -26,6 +26,28 @@ tags:
 
 ---
 
+## VUMC Preferred System: Vertek Frameless Biopsy
+
+> **At VUMC, the Medtronic Vertek precision aiming arm with StealthStation navigation is the preferred biopsy method for most attendings** unless a frame-based / Hansen-bow protocol is specified or that document has been updated. **Always confirm the individual attending's current preference.**
+
+**Why Vertek:** frameless (no stereotactic frame application), uses a passive articulating arm locked to the planned trajectory under navigation, fast setup, and integrates with routine StealthStation registration.
+
+**Operative sequence (verify against current institutional protocol):**
+1. Plan navigation imaging with entry, target, and a safe trajectory (avoid sulci, bridging veins, eloquent cortex).
+2. Mayfield 3-point fixation; register the patient to StealthStation (surface trace or fiducials); verify registration accuracy.
+3. Mount the Vertek articulating arm to the reference; navigate the instrument guide onto the planned trajectory and **lock** the arm.
+4. Mark the navigated entry; small linear incision; twist-drill or burr hole at entry.
+5. Coagulate and open dura; coagulate the pial entry point, avoiding surface vessels.
+6. Set the side-cutting biopsy needle **depth stop** to the navigated target distance.
+7. Advance the needle through the Vertek guide to target; take serial specimens at staged depths and rotational (clock) positions.
+8. Send specimens for **frozen section / smear** to confirm lesional/diagnostic tissue before concluding.
+9. Confirm hemostasis along the tract (irrigate, wait); withdraw the needle slowly.
+10. Close the burr hole (bone wax/substitute), galea, and skin; obtain a **post-op CT head** to exclude tract hemorrhage.
+
+*Drafted from standard Medtronic Vertek frameless technique; reconcile with the VUMC Vertek reference and the attending's preferences before relying on it.*
+
+---
+
 ## Figures, Imaging & Video
 
 **🎥 Operative video** — [search operative video on YouTube ▸](https://www.youtube.com/results?search_query=stereotactic+brain+biopsy+surgery) · [The Neurosurgical Atlas ▸](https://www.neurosurgicalatlas.com)
